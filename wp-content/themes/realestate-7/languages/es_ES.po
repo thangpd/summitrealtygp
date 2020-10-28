@@ -1,0 +1,2668 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-01-04 21:34+0000\n"
+"PO-Revision-Date: 2020-01-04 21:34+0000\n"
+"Last-Translator: \n"
+"Language-Team: Spanish (Spain)\n"
+"Language: es_ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: includes/home-listings-carousel.php:44
+#: includes/home-listings-carousel.php:53 includes/featured-listings.php:60
+#: includes/featured-listings.php:69 includes/single-listing-home.php:29
+msgid "featured"
+msgstr ""
+
+#: archive.php:77
+msgid "No posts were found which match your search criteria"
+msgstr ""
+"No se encontraron publicaciones que coincidan con sus criterios de búsqueda"
+
+#: archive.php:77 layouts/grid.php:23 layouts/list.php:20
+msgid "Try broadening your search to find more results."
+msgstr "Try broadening your search to find more results."
+
+#. Name of the template
+#: header.php:211 includes/user-sidebar.php:45
+msgid "Membership"
+msgstr "Afiliación"
+
+#: template-membership.php:60 template-listing-email-alerts.php:68
+#: template-user-stats.php:51 single-listings.php:175
+#: template-submit-listing.php:295 template-view-listings.php:62
+#: template-view-invoices.php:60 template-edit-listing.php:314
+#: template-edit-profile.php:57
+msgid "You must be logged in to view this page."
+msgstr "Usted debe estar conectado para ver esta página."
+
+#: comments.php:13
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+"Esta publicación está protegida con contraseña. Ingresa la contraseña para "
+"ver los comentarios."
+
+#: comments.php:31
+msgid "No Responses"
+msgstr "Sin respuestas"
+
+#: comments.php:31
+msgid "1 Comment"
+msgstr "1 comentario"
+
+#: comments.php:31
+msgid "% Comments"
+msgstr "% De comentarios"
+
+#: comments.php:44
+msgid "&larr; Older Comments"
+msgstr "&larr; Comentarios antiguos"
+
+#: comments.php:45
+msgid "Newer Comments &rarr;"
+msgstr "Nuevos comentarios &rarr;"
+
+#: comments.php:53
+msgid "Comments are closed, but"
+msgstr "Los comentarios están cerrados, pero"
+
+#: comments.php:53
+msgid "Trackback URL for this post"
+msgstr "URL de seguimiento para esta publicación"
+
+#: comments.php:53
+msgid "trackbacks"
+msgstr "trackbacks"
+
+#: comments.php:53
+msgid "and pingbacks are open."
+msgstr "y pingbacks están abiertos."
+
+#: comments.php:59
+msgid "Reviews are closed."
+msgstr "Los comentarios están cerrados."
+
+#: comments.php:61
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#. Name of the template
+msgid "Full Width"
+msgstr "Ancho completo"
+
+#. Name of the template
+msgid "Listing Email Alerts"
+msgstr "Listado de alertas de correo electrónico"
+
+#: template-listing-email-alerts.php:81
+msgid "Manage your alerts"
+msgstr "Administra tus alertas"
+
+#: template-listing-email-alerts.php:82
+msgid "Here you can turn saved alerts on/off or remove them completely."
+msgstr ""
+"Aquí puede activar / desactivar las alertas guardadas o eliminarlas por "
+"completo."
+
+#: template-listing-email-alerts.php:87
+msgid "Query"
+msgstr "Consulta"
+
+#: template-listing-email-alerts.php:90
+msgid "Date Created"
+msgstr "fecha de creación"
+
+#: template-listing-email-alerts.php:93
+msgid "Email Setting"
+msgstr "Configuración de Email "
+
+#: template-listing-email-alerts.php:96
+msgid "Delete"
+msgstr "Borrar"
+
+#: template-listing-email-alerts.php:123
+msgid "You don't have any saved searches yet, create one above."
+msgstr "Aún no tienes búsquedas guardadas, crea una arriba."
+
+#: template-listing-email-alerts.php:135
+msgid ""
+"Activate \"Contempo Email Alerts\" plugin via Appearance > Install Plugins."
+msgstr ""
+"Active el complemento \"Alertas de correo electrónico Contempo\" a través de "
+"Apariencia> Instalar complementos."
+
+#: search-listings.php:391 search-listings.php:466
+msgid "listings found"
+msgstr "listados encontrados"
+
+#: search-listings.php:391 search-listings.php:466
+msgid "listing found"
+msgstr "listado encontrado"
+
+#: search-listings.php:394 search-listings.php:469
+msgid "Find A Home"
+msgstr "Encuentra una casa"
+
+#: search-listings.php:406 search-listings.php:480 search-listings.php:505
+msgid "Searching:"
+msgstr "Buscando:"
+
+#: search-listings.php:410 search-listings.php:484 search-listings.php:509
+msgid "All listings"
+msgstr "Todas las listas"
+
+#: search-listings.php:412
+msgid "Open Search"
+msgstr "Abrir búsqueda"
+
+#: search-listings.php:487 search-listings.php:511
+msgid "Close Map"
+msgstr "Cerrar mapa"
+
+#: search-listings.php:545 search-listings.php:549
+msgid "Save This Search?"
+msgstr "Guardar esta búsqueda?"
+
+#: search-listings.php:547
+msgid "View Saved"
+msgstr "Ver guardado"
+
+#: single-brokerage.php:38 admin/profile-fields.php:159
+msgid "Brokerage"
+msgstr "Corretaje"
+
+#: single-brokerage.php:77 single-brokerage.php:269 archive-brokerage.php:107
+#: template-favorite-listings.php:111 author.php:70 template-brokerages.php:122
+#: template-agents.php:130
+msgid "Tell me more about a property"
+msgstr "Cuéntame más sobre una propiedad"
+
+#: single-brokerage.php:78 single-brokerage.php:270 archive-brokerage.php:108
+#: template-favorite-listings.php:112 author.php:71 template-brokerages.php:123
+#: template-agents.php:131 includes/agent-contact-modal.php:22
+#: includes/single-listing-home.php:273 includes/single-listing-contact.php:213
+#: includes/widgets/ct-widget-listingscontact.php:31
+msgid "Request a showing"
+msgstr "Solicitar una demostración"
+
+#: single-brokerage.php:79 single-brokerage.php:271 archive-brokerage.php:109
+#: template-favorite-listings.php:113 author.php:72 template-brokerages.php:124
+#: template-agents.php:132
+msgid "General Questions"
+msgstr "Preguntas Generales"
+
+#: single-brokerage.php:82 single-brokerage.php:274 archive-brokerage.php:112
+#: template-favorite-listings.php:116 author.php:75 template-brokerages.php:127
+#: template-agents.php:135 template-edit-profile.php:129
+#: includes/agent-contact-modal.php:25 includes/agent-contact-modal.php:25
+#: includes/agent-contact-modal.php:25
+#: includes/single-listing-multi-floorplan.php:27
+#: includes/single-listing-home.php:276 includes/single-listing-contact.php:216
+#: includes/widgets/ct-widget-listingscontact.php:34
+#: includes/widgets/ct-widget-listingscontact.php:34
+#: includes/widgets/ct-widget-listingscontact.php:34
+msgid "Name"
+msgstr "Nombre"
+
+#: single-brokerage.php:84 single-brokerage.php:134 single-brokerage.php:276
+#: single-brokerage.php:340 archive-brokerage.php:114 archive-brokerage.php:176
+#: template-favorite-listings.php:118 author.php:77 author.php:144
+#: template-brokerages.php:129 template-brokerages.php:189
+#: template-agents.php:137 template-agents.php:205
+#: includes/agent-contact-modal.php:27 includes/agent-contact-modal.php:27
+#: includes/agent-contact-modal.php:27 includes/single-listing-home.php:255
+#: includes/single-listing-home.php:278 includes/single-listing-home.php:339
+#: includes/single-listing-contact.php:88
+#: includes/single-listing-contact.php:168
+#: includes/single-listing-contact.php:218
+#: includes/single-listing-contact.php:283
+#: includes/widgets/ct-widget-agentinfo.php:79
+#: includes/widgets/ct-widget-listingscontact.php:36
+#: includes/widgets/ct-widget-listingscontact.php:36
+#: includes/widgets/ct-widget-listingscontact.php:36
+msgid "Email"
+msgstr "Email"
+
+#: single-brokerage.php:86 single-brokerage.php:278 archive-brokerage.php:116
+#: template-favorite-listings.php:120 author.php:79 template-contact.php:72
+#: template-brokerages.php:131 template-agents.php:139
+#: includes/agent-contact-modal.php:29 includes/agent-contact-modal.php:29
+#: includes/agent-contact-modal.php:29 includes/single-listing-home.php:280
+#: includes/single-listing-contact.php:220
+#: includes/widgets/ct-widget-listingscontact.php:38
+#: includes/widgets/ct-widget-listingscontact.php:38
+#: includes/widgets/ct-widget-listingscontact.php:38
+msgid "Phone"
+msgstr "Teléfono"
+
+#: single-brokerage.php:94 single-brokerage.php:286 archive-brokerage.php:124
+#: template-favorite-listings.php:127 author.php:87 template-contact.php:83
+#: template-contact.php:83 template-submit-listing.php:691
+#: template-brokerages.php:137 template-agents.php:147
+#: includes/agent-contact-modal.php:38 includes/single-listing-home.php:288
+#: includes/single-listing-contact.php:228
+#: includes/widgets/ct-widget-listingscontact.php:47
+msgid "Submit"
+msgstr "Enviar"
+
+#: single-brokerage.php:147 single-listings.php:38
+msgid "Listings"
+msgstr "Anuncios"
+
+#: single-brokerage.php:148
+msgid "Agents"
+msgstr "Agentes"
+
+#: single-brokerage.php:149
+msgid "Map"
+msgstr "Mapa"
+
+#: single-brokerage.php:151 includes/single-listing-sub-navigation.php:149
+msgid "Reviews"
+msgstr "Comentarios"
+
+#: single-brokerage.php:213 template-agents.php:51
+msgid "Type an agents name or title here to filter the list."
+msgstr "Escriba un nombre o título de agente aquí para filtrar la lista."
+
+#: single-brokerage.php:359 template-agents.php:243
+msgid "View Listings"
+msgstr "Ver listados"
+
+#: single-brokerage.php:370
+msgid "This brokerage currently has no active agents."
+msgstr "Este corredora actualmente no tiene agentes activados."
+
+#: single-brokerage.php:370 layouts/grid.php:19 layouts/grid.php:21
+#: layouts/list.php:16 layouts/list.php:18
+msgid "Check back soon."
+msgstr "Vuelve a consultar pronto."
+
+#: single-brokerage.php:392 includes/single-listing-reviews.php:19
+msgid "No Reviews"
+msgstr "Sin reseñas"
+
+#: single-brokerage.php:392 includes/single-listing-reviews.php:19
+msgid "1 Review"
+msgstr "1 comentario"
+
+#: single-brokerage.php:392 includes/single-listing-reviews.php:19
+msgid "% Reviews"
+msgstr "% De críticas"
+
+#. Name of the template
+msgid "dsIDXpress"
+msgstr "dsIDXpress"
+
+#: template-dsidxpress.php:41 single.php:127 template-submit-listing.php:702
+#: template-edit-listing.php:798
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: single-listings.php:44
+msgid "Home"
+msgstr "Inicio"
+
+#. Name of the template
+msgid "Testimonials"
+msgstr "Testimonios"
+
+#: archive-brokerage.php:37
+msgid "Brokerages"
+msgstr "Brokerages"
+
+#: archive-brokerage.php:51 template-brokerages.php:52
+msgid "Type a brokerage name or address here to filter the list."
+msgstr ""
+"Escriba un nombre o una dirección de corretaje aquí para filtrar la lista."
+
+#: archive-brokerage.php:193 template-view-listings.php:205
+#: template-brokerages.php:206 includes/single-listing-multi-floorplan.php:122
+msgid "View"
+msgstr "Ver"
+
+#: archive-brokerage.php:203 template-brokerages.php:216
+msgid "No Brokerages Found."
+msgstr "No se encontraron corredores."
+
+#. Name of the template
+msgid "Sitemap"
+msgstr "Mapa del sitio"
+
+#: template-sitemap.php:51
+msgid "Last Twenty Posts"
+msgstr "Últimos veinte mensajes"
+
+#: template-sitemap.php:67
+msgid "Pages"
+msgstr "Páginas"
+
+#: template-sitemap.php:74
+msgid "Categories"
+msgstr "Categorías"
+
+#: template-sitemap.php:81
+msgid "Posts per category"
+msgstr "Publicaciones por categoría"
+
+#. Name of the template
+msgid "Packages Thank You"
+msgstr "Paquetes Gracias"
+
+#: template-packages-thank-you.php:56
+msgid "Select a Package"
+msgstr "Seleccione un paquete"
+
+#: template-packages-thank-you.php:60
+msgid "Payment"
+msgstr "Pago"
+
+#: template-packages-thank-you.php:64
+msgid "Complete"
+msgstr "Completar"
+
+#. Name of the template
+msgid "Big Map"
+msgstr "Mapa Grande"
+
+#: single.php:79 layouts/blog-large.php:54 layouts/blog-grid.php:54
+#: includes/post-author-info.php:15
+msgid "By"
+msgstr "Por"
+
+#: single.php:79 layouts/blog-large.php:54 layouts/blog-grid.php:54
+msgid "in"
+msgstr "en"
+
+#: single.php:79 layouts/blog-large.php:54 layouts/blog-grid.php:54
+msgid "with"
+msgstr "con"
+
+#. Name of the template
+msgid "User/Agent Stats"
+msgstr "Estadísticas de usuario / agente"
+
+#: template-user-stats.php:56
+msgid "Traffic Overview"
+msgstr "Visión general del tráfico"
+
+#: template-user-stats.php:64
+msgid "Top Listings"
+msgstr "Mejores listados"
+
+#: template-user-stats.php:67 template-user-stats.php:233
+msgid "Today"
+msgstr "Hoy"
+
+#: template-user-stats.php:68 template-user-stats.php:234
+msgid "Yesterday"
+msgstr "Ayer"
+
+#: template-user-stats.php:80 template-user-stats.php:149
+#: template-submit-listing.php:599 template-edit-listing.php:701
+#: admin/profile-fields.php:179
+msgid "Address"
+msgstr "Dirección"
+
+#: template-user-stats.php:81 template-user-stats.php:150
+msgid "Views"
+msgstr "Puntos de vista"
+
+#: template-user-stats.php:136 template-user-stats.php:205
+msgid "Total Views"
+msgstr "Vistas Totales"
+
+#: template-user-stats.php:137
+msgid "315"
+msgstr "315"
+
+#: template-user-stats.php:206
+msgid "314"
+msgstr "314"
+
+#: template-user-stats.php:222
+msgid "Traffic Sources"
+msgstr "Fuentes de tráfico"
+
+#: template-user-stats.php:230
+msgid "Top Referrers"
+msgstr "Referencias principales"
+
+#: template-user-stats.php:246 template-user-stats.php:279
+msgid "Referral Page Title"
+msgstr "Título de la página de referencia"
+
+#: template-user-stats.php:247 template-user-stats.php:280
+msgid "Visits"
+msgstr "Visitas"
+
+#: template-user-stats.php:266 template-user-stats.php:299
+msgid "Total Visits"
+msgstr "Total de visitas"
+
+#: template-user-stats.php:267 template-user-stats.php:300
+msgid "79"
+msgstr "79"
+
+#. Name of the template
+msgid "Full Width 2"
+msgstr "Ancho completo 2"
+
+#: header.php:199 header.php:443 includes/user-sidebar.php:33
+msgid "Favorite Listings"
+msgstr "Listados favoritos"
+
+#: template-favorite-listings.php:100
+msgid "Request More Information on All Favorites"
+msgstr "Solicitar más información sobre todos los favoritos"
+
+#: template-favorite-listings.php:178 template-view-listings.php:142
+#: layouts/list.php:74
+msgid "Bed:"
+msgstr "Cama:"
+
+#: template-favorite-listings.php:188 template-view-listings.php:152
+#: layouts/list.php:84
+msgid "Baths:"
+msgstr "Baños"
+
+#: template-favorite-listings.php:199 template-view-listings.php:163
+#: layouts/list.php:95 includes/widgets/ct-widget-flickr.php:63
+msgid "Type:"
+msgstr "Tipo:"
+
+#: template-favorite-listings.php:224
+msgid "Previous Entries"
+msgstr "Entradas previas"
+
+#: template-favorite-listings.php:225
+msgid "Next Entries"
+msgstr "Entradas siguientes"
+
+#: author.php:32 admin/profile-fields.php:60 layouts/list.php:119
+msgid "Agent"
+msgstr "Agente"
+
+#: author.php:202
+msgid "Type a listing address or keyword to filter the list."
+msgstr ""
+"Escriba una dirección de listado o una palabra clave para filtrar la lista."
+
+#. Name of the template
+msgid "Left Sidebar"
+msgstr "Barra lateral izquierda"
+
+#. Name of the template
+msgid "Advanced Search"
+msgstr "Búsqueda Avanzada"
+
+#: template-advanced-search.php:62 template-submit-listing.php:331
+#: template-edit-listing.php:336 includes/advanced-search.php:37
+#: includes/header-advanced-search.php:26
+#: includes/header-advanced-search.php:285
+#: includes/widgets/ct-widget-listingssearch.php:46
+msgid "Type"
+msgstr "Tipo"
+
+#: template-advanced-search.php:67 template-submit-listing.php:604
+#: template-edit-listing.php:706 admin/profile-fields.php:185
+#: includes/advanced-search.php:46 includes/header-advanced-search.php:35
+#: includes/header-advanced-search.php:295
+#: includes/widgets/ct-widget-listingssearch.php:55
+msgid "City"
+msgstr "Ciudad"
+
+#: template-advanced-search.php:77 template-submit-listing.php:614
+#: template-edit-listing.php:716 includes/advanced-search.php:60
+#: includes/widgets/ct-widget-listingssearch.php:69
+msgid "Area"
+msgstr "Zona"
+
+#: template-advanced-search.php:79 template-submit-listing.php:616
+#: template-edit-listing.php:718 includes/advanced-search.php:62
+#: includes/widgets/ct-widget-listingssearch.php:71
+msgid "Suburb"
+msgstr "Suburbio"
+
+#: template-advanced-search.php:81 template-submit-listing.php:624
+#: template-edit-listing.php:726 includes/advanced-search.php:64
+#: includes/widgets/ct-widget-listingssearch.php:73
+msgid "State"
+msgstr "Estado"
+
+#: template-advanced-search.php:92 includes/advanced-search.php:79
+#: includes/widgets/ct-widget-listingssearch.php:88
+msgid "Postcode"
+msgstr "Código postal"
+
+#: template-advanced-search.php:94 includes/advanced-search.php:81
+#: includes/widgets/ct-widget-listingssearch.php:90
+msgid "Zipcode"
+msgstr "Código postal"
+
+#: template-advanced-search.php:100 template-submit-listing.php:640
+#: template-edit-listing.php:742 includes/advanced-search.php:91
+#: includes/header-advanced-search.php:60
+#: includes/header-advanced-search.php:323
+#: includes/widgets/ct-widget-listingssearch.php:100
+msgid "Country"
+msgstr "País"
+
+#: template-advanced-search.php:105 template-submit-listing.php:467
+#: template-edit-listing.php:593 includes/single-listing-multi-floorplan.php:33
+#: includes/advanced-search.php:118 includes/header-advanced-search.php:87
+#: includes/header-advanced-search.php:333
+#: includes/widgets/ct-widget-listingssearch.php:127
+msgid "Beds"
+msgstr "Camas"
+
+#: template-advanced-search.php:110 template-submit-listing.php:472
+#: template-edit-listing.php:598 includes/sub-listings.php:103
+#: includes/single-listing-multi-floorplan.php:36
+#: includes/advanced-search.php:127 includes/header-advanced-search.php:96
+#: includes/header-advanced-search.php:343
+#: includes/widgets/ct-widget-listingssearch.php:136
+#: includes/widgets/ct-widget-agentsotherlistings.php:141
+msgid "Baths"
+msgstr "Baños"
+
+#: template-advanced-search.php:115 template-submit-listing.php:336
+#: template-view-invoices.php:92 template-edit-listing.php:351
+#: includes/advanced-search.php:136 includes/header-advanced-search.php:105
+#: includes/header-advanced-search.php:353
+#: includes/widgets/ct-widget-listingssearch.php:145
+msgid "Status"
+msgstr "Estado"
+
+#: template-advanced-search.php:125 includes/advanced-search.php:159
+#: includes/header-advanced-search.php:119
+#: includes/header-advanced-search.php:377
+#: includes/widgets/ct-widget-listingssearch.php:168
+msgid "Neighborhood"
+msgstr "Barrio"
+
+#: template-advanced-search.php:127 includes/advanced-search.php:161
+#: includes/header-advanced-search.php:121
+#: includes/header-advanced-search.php:379
+#: includes/widgets/ct-widget-listingssearch.php:170
+msgid "District"
+msgstr "Distrito"
+
+#: template-advanced-search.php:129 includes/advanced-search.php:109
+#: includes/advanced-search.php:163 includes/header-advanced-search.php:78
+#: includes/header-advanced-search.php:123
+#: includes/header-advanced-search.php:381
+#: includes/widgets/ct-widget-listingssearch.php:118
+#: includes/widgets/ct-widget-listingssearch.php:172
+msgid "Community"
+msgstr "Comunidad"
+
+#: template-advanced-search.php:135 template-advanced-search.php:136
+#: includes/advanced-search.php:173 includes/advanced-search.php:174
+#: includes/header-advanced-search.php:133
+#: includes/header-advanced-search.php:134
+#: includes/header-advanced-search.php:391
+#: includes/header-advanced-search.php:392
+#: includes/widgets/ct-widget-listingssearch.php:182
+#: includes/widgets/ct-widget-listingssearch.php:183
+msgid "Price From"
+msgstr "Precio desde"
+
+#: template-advanced-search.php:140 template-advanced-search.php:141
+#: includes/advanced-search.php:182 includes/advanced-search.php:183
+#: includes/header-advanced-search.php:142
+#: includes/header-advanced-search.php:143
+#: includes/header-advanced-search.php:400
+#: includes/header-advanced-search.php:401
+#: includes/widgets/ct-widget-listingssearch.php:191
+#: includes/widgets/ct-widget-listingssearch.php:192
+msgid "Price To"
+msgstr "Precio a"
+
+#: template-advanced-search.php:145 template-advanced-search.php:146
+#: includes/advanced-search.php:192 includes/header-advanced-search.php:152
+#: includes/header-advanced-search.php:410
+#: includes/widgets/ct-widget-listingssearch.php:201
+msgid "Size From"
+msgstr "Tamaño desde"
+
+#: template-advanced-search.php:150 template-advanced-search.php:151
+#: includes/advanced-search.php:201 includes/header-advanced-search.php:161
+#: includes/header-advanced-search.php:419
+#: includes/widgets/ct-widget-listingssearch.php:210
+msgid "Size To"
+msgstr "Tamaño a"
+
+#: template-advanced-search.php:155 template-advanced-search.php:156
+#: includes/advanced-search.php:209 includes/advanced-search.php:210
+#: includes/header-advanced-search.php:169
+#: includes/header-advanced-search.php:170
+#: includes/header-advanced-search.php:427
+#: includes/header-advanced-search.php:428
+#: includes/widgets/ct-widget-listingssearch.php:218
+#: includes/widgets/ct-widget-listingssearch.php:219
+msgid "Lot Size From"
+msgstr "Tamaño del lote de"
+
+#: template-advanced-search.php:160 template-advanced-search.php:161
+#: includes/advanced-search.php:218 includes/advanced-search.php:219
+#: includes/header-advanced-search.php:178
+#: includes/header-advanced-search.php:179
+#: includes/header-advanced-search.php:436
+#: includes/header-advanced-search.php:437
+#: includes/widgets/ct-widget-listingssearch.php:227
+#: includes/widgets/ct-widget-listingssearch.php:228
+msgid "Lot Size To"
+msgstr "Tamaño del lote a"
+
+#: template-advanced-search.php:165 template-advanced-search.php:166
+#: template-submit-listing.php:487 template-edit-listing.php:613
+#: includes/single-listing-propinfo.php:17 includes/advanced-search.php:227
+#: includes/advanced-search.php:228 includes/header-advanced-search.php:187
+#: includes/header-advanced-search.php:188
+#: includes/header-advanced-search.php:445
+#: includes/header-advanced-search.php:446
+#: includes/widgets/ct-widget-listingssearch.php:236
+#: includes/widgets/ct-widget-listingssearch.php:237
+msgid "Property ID"
+msgstr "ID de propiedad"
+
+#: template-advanced-search.php:176 template-advanced-search.php:177
+#: includes/advanced-search.php:236 includes/advanced-search.php:237
+#: includes/header-advanced-search.php:196
+#: includes/header-advanced-search.php:197
+#: includes/header-advanced-search.php:454
+#: includes/header-advanced-search.php:455
+#: includes/widgets/ct-widget-listingssearch.php:245
+#: includes/widgets/ct-widget-listingssearch.php:246
+msgid "Number of Guests"
+msgstr "Número de invitados"
+
+#: template-advanced-search.php:182 includes/advanced-search.php:145
+#: includes/widgets/ct-widget-listingssearch.php:154
+msgid "Additional Features"
+msgstr "Características adicionales"
+
+#: template-advanced-search.php:188 includes/home-hero-advanced-search.php:38
+#: includes/advanced-search.php:256 includes/header-advanced-search.php:232
+#: includes/header-advanced-search.php:264
+#: includes/widgets/ct-widget-listingssearch.php:267
+msgid "Search"
+msgstr "Buscar"
+
+#: single-listings.php:70 single-listings.php:76 single-listings.php:82
+#: single-listings.php:109 single-listings.php:110 single-listings.php:111
+#: includes/single-listing-home.php:371 includes/single-listing-home.php:372
+#: includes/single-listing-home.php:373
+#: includes/widgets/ct-widget-listingssocial.php:29
+#: includes/widgets/ct-widget-listingssocial.php:30
+#: includes/widgets/ct-widget-listingssocial.php:31
+msgid "Check out this great listing on"
+msgstr "Mira esta excelente lista de"
+
+#: single-listings.php:114 includes/agent-contact-modal.php:16
+msgid "Close"
+msgstr "Cerca"
+
+#: footer.php:67
+msgid "All Rights Reserved."
+msgstr "Todos los derechos reservados."
+
+#: includes/single-listing-sub-navigation.php:169
+msgid "Contact"
+msgstr "Contacto"
+
+#: template-contact.php:64
+msgid "Name*"
+msgstr "Nombre*"
+
+#: template-contact.php:68
+msgid "Email*"
+msgstr "Email*"
+
+#: template-contact.php:75
+msgid "Subject*"
+msgstr "Tema*"
+
+#: template-contact.php:77
+msgid "Message"
+msgstr "Mensaje"
+
+#. Name of the template
+msgid "Landing Page"
+msgstr "Página de destino"
+
+#. Name of the template
+msgid "Compare"
+msgstr "Comparar"
+
+#. Name of the template
+msgid "IDX Full Width"
+msgstr "Ancho completo IDX"
+
+#: functions.php:59
+msgid "Getting Started"
+msgstr "Empezando"
+
+#: header.php:205 header.php:449 header.php:467 includes/user-sidebar.php:39
+msgid "Submit Listing"
+msgstr "Enviar listado"
+
+#: template-submit-listing.php:304
+msgid "Listings Limit Reached"
+msgstr "Listados Límite alcanzado"
+
+#: template-submit-listing.php:305
+msgid "You've reached the listings limit for your membership package."
+msgstr "Has alcanzado el límite de anuncios para tu paquete de membresía."
+
+#: template-submit-listing.php:305
+msgid "Upgrade Today!"
+msgstr "¡Actualice hoy!"
+
+#: template-submit-listing.php:321
+msgid "Street Address"
+msgstr "Dirección"
+
+#: template-submit-listing.php:326 template-edit-listing.php:331
+msgid "Alternate Title"
+msgstr "Título alternativo"
+
+#: template-submit-listing.php:327 template-edit-listing.php:332
+msgid "(e.g. Downtown Penthouse)"
+msgstr "(por ejemplo, Downtown Penthouse)"
+
+#: template-submit-listing.php:341 template-edit-listing.php:366
+#: includes/single-listing-multi-floorplan.php:43
+msgid "Price"
+msgstr "Precio"
+
+#: template-submit-listing.php:348 template-edit-listing.php:373
+msgid "Price Prefix"
+msgstr "Prefijo de precio"
+
+#: template-submit-listing.php:349 template-edit-listing.php:373
+msgid " (e.g. From, Call for price)"
+msgstr "(por ejemplo, de, llame para conocer el precio)"
+
+#: template-submit-listing.php:353 template-edit-listing.php:378
+msgid "Price Postfix Text"
+msgstr "Precio de texto de Postfix"
+
+#: template-submit-listing.php:354 template-edit-listing.php:378
+msgid " (e.g. /month, /week)"
+msgstr "(por ejemplo, / mes, / semana)"
+
+#: template-submit-listing.php:359 template-edit-listing.php:386
+msgid "Listing Description"
+msgstr "Descripción del Listado"
+
+#: template-submit-listing.php:373 template-edit-listing.php:403
+msgid "Listing Featured Image"
+msgstr "Listado de imagen destacada"
+
+#: template-submit-listing.php:378
+msgid "Gallery Images (select as many as you like)"
+msgstr "Imágenes de galería (seleccione todas las que desee)"
+
+#: template-submit-listing.php:385 template-edit-listing.php:412
+msgid "Listing Images"
+msgstr "Listado de imágenes"
+
+#: template-submit-listing.php:395 template-edit-listing.php:489
+msgid "Drag & Drop Images Here"
+msgstr "Arrastra y suelta imágenes aquí"
+
+#: template-submit-listing.php:398 template-edit-listing.php:492
+msgid "or"
+msgstr "o"
+
+#: template-submit-listing.php:401 template-edit-listing.php:495
+msgid "Select Images"
+msgstr "Seleccionar imágenes"
+
+#: template-submit-listing.php:405
+msgid "*At least one image is for valid submission, minimum width of 817px."
+msgstr "* Al menos una imagen es para envío válido, ancho mínimo de 817px"
+
+#: template-submit-listing.php:406 template-edit-listing.php:500
+msgid ""
+"*You can mark an image as featured by clicking the star icon, Otherwise "
+"first image will be considered featured image."
+msgstr ""
+"* Puede marcar una imagen como se muestra haciendo clic en el ícono de la "
+"estrella. De lo contrario, la primera imagen se considerará imagen destacada."
+
+#: template-submit-listing.php:416 template-edit-listing.php:512
+msgid "Files & Documents"
+msgstr "Archivos y documentos"
+
+#: template-submit-listing.php:428 template-edit-listing.php:544
+msgid "*Supported file types are PDF, Word, Excel & PowerPoint."
+msgstr "* Los tipos de archivos admitidos son PDF, Word, Excel y PowerPoint."
+
+#: template-submit-listing.php:482 template-edit-listing.php:608
+#: includes/sub-listings.php:197
+#: includes/widgets/ct-widget-agentsotherlistings.php:235
+msgid "Lot Size"
+msgstr "Tamaño del lote"
+
+#: template-submit-listing.php:492 template-edit-listing.php:618
+msgid "Video URL"
+msgstr "URL del vídeo"
+
+#: template-submit-listing.php:500
+#: includes/single-listing-sub-navigation.php:51
+#: includes/single-listing-open-house.php:26
+msgid "Open House"
+msgstr "Casa abierta"
+
+#: template-submit-listing.php:503 includes/single-listing-open-house.php:32
+msgid "Date"
+msgstr "Fecha"
+
+#: template-submit-listing.php:508
+msgid "Start Time"
+msgstr "Hora de inicio"
+
+#: template-submit-listing.php:513
+msgid "End Time"
+msgstr "Hora de finalización"
+
+#: template-submit-listing.php:521 template-edit-listing.php:624
+msgid "Additional Features (comma separated)"
+msgstr "Funciones adicionales (separadas por comas)"
+
+#: template-submit-listing.php:546 template-edit-listing.php:641
+msgid "Max-number of Guests"
+msgstr "Número máximo de invitados"
+
+#: template-submit-listing.php:547
+msgid " (e.g. 2)"
+msgstr "(por ejemplo, 2)"
+
+#: template-submit-listing.php:551 template-edit-listing.php:646
+msgid "Minimum Stay"
+msgstr "Estancia mínima"
+
+#: template-submit-listing.php:552
+msgid " (e.g. 1 night)"
+msgstr "(por ejemplo, 1 noche)"
+
+#: template-submit-listing.php:558 template-edit-listing.php:653
+msgid "Check In Time"
+msgstr "Hora de entrada"
+
+#: template-submit-listing.php:559
+msgid " (e.g. 3:00 PM)"
+msgstr "(por ejemplo, 3:00 p.m.)"
+
+#: template-submit-listing.php:563 template-edit-listing.php:658
+msgid "Check Out Time"
+msgstr "Hora de salida"
+
+#: template-submit-listing.php:564
+msgid " (e.g. 11:00 AM)"
+msgstr "(por ejemplo, 11:00 a.m.)"
+
+#: template-submit-listing.php:570 template-edit-listing.php:665
+msgid "Extra Person Charge"
+msgstr "Cargo extra por persona"
+
+#: template-submit-listing.php:571
+msgid " (e.g. 50)"
+msgstr "(por ejemplo, 50)"
+
+#: template-submit-listing.php:575 template-edit-listing.php:670
+msgid "Cleaning Fee"
+msgstr "Tarifa de limpieza"
+
+#: template-submit-listing.php:576
+msgid " (e.g. 150)"
+msgstr "(por ejemplo, 150)"
+
+#: template-submit-listing.php:582 template-edit-listing.php:677
+msgid "Cancellation Fee"
+msgstr "Tarifa de cancelación"
+
+#: template-submit-listing.php:583
+msgid " (e.g. 275)"
+msgstr "(por ejemplo, 275)"
+
+#: template-submit-listing.php:587 template-edit-listing.php:682
+msgid "Security Deposit"
+msgstr "Depósito de seguridad"
+
+#: template-submit-listing.php:588
+msgid " (e.g. 895)"
+msgstr "(por ejemplo, 895)"
+
+#: template-submit-listing.php:600 template-edit-listing.php:702
+msgid "Type in an address"
+msgstr "Escriba una dirección"
+
+#: template-submit-listing.php:618 template-edit-listing.php:720
+msgid "Province"
+msgstr "Provincia"
+
+#: template-submit-listing.php:620 template-edit-listing.php:722
+msgid "Region"
+msgstr "Región"
+
+#: template-submit-listing.php:622 template-edit-listing.php:724
+msgid "Parish"
+msgstr "Parroquia"
+
+#: template-submit-listing.php:635 template-edit-listing.php:737
+#: includes/advanced-search.php:100 includes/header-advanced-search.php:69
+#: includes/widgets/ct-widget-listingssearch.php:109
+msgid "County"
+msgstr "Condado"
+
+#: template-submit-listing.php:650 template-edit-listing.php:752
+msgid "Latitude & Longitude (optional)"
+msgstr "Latitud y longitud (opcional)"
+
+#: template-submit-listing.php:659 template-edit-listing.php:761
+msgid ""
+"You can also manually drag the marker to the exact location of your listing "
+"if the automatic geolocation is off."
+msgstr ""
+"También puedes arrastrar manualmente el marcador a la ubicación exacta de tu "
+"ficha si la geolocalización automática está desactivada."
+
+#: template-submit-listing.php:665 template-edit-listing.php:767
+msgid "Private Notes"
+msgstr "Notas privadas"
+
+#: template-submit-listing.php:666 template-edit-listing.php:768
+msgid ""
+"Write a private note about this listing, this textarea will not be displayed "
+"anywhere on the front end of the site."
+msgstr ""
+"Escriba una nota privada acerca de esta lista, esta área de texto no se "
+"mostrará en ningún lugar en el frente del sitio."
+
+#: template-submit-listing.php:678 template-edit-listing.php:778
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: template-submit-listing.php:679
+msgid "Save As Draft"
+msgstr "Guardar como borrador"
+
+#: template-submit-listing.php:683 template-edit-listing.php:781
+msgid "Next"
+msgstr "Siguiente"
+
+#: template-submit-listing.php:692 template-edit-listing.php:790
+msgid "Previous"
+msgstr "Anterior"
+
+#. Name of the template
+msgid "Contact No Form"
+msgstr "Contacto sin forma"
+
+#: template-view-listings.php:85
+msgid "Type a listing name or address here to filter the list."
+msgstr ""
+"Escriba aquí el nombre o la dirección de un listado para filtrar la lista."
+
+#: template-view-listings.php:173 includes/home-listings-count.php:188
+msgid "Featured"
+msgstr "Destacado"
+
+#: template-view-listings.php:189
+msgid "Paid"
+msgstr "Pagado"
+
+#: template-view-listings.php:204
+msgid "Edit"
+msgstr "Editar"
+
+#: template-view-listings.php:208
+msgid " Views"
+msgstr "Puntos de vista"
+
+#: template-view-listings.php:227
+msgid "You don't have any listings yet..."
+msgstr "Aún no tienes ningún anuncio ..."
+
+#: template-view-listings.php:228
+msgid "Create One"
+msgstr "Crea uno"
+
+#. Name of the template
+msgid "IDX w/Sidebar"
+msgstr "IDX con barra lateral"
+
+#: header.php:182 header.php:426
+msgid "Hi, "
+msgstr "Hola,"
+
+#: header.php:202 header.php:446 includes/user-sidebar.php:36
+msgid "Listing Alerts"
+msgstr "Alertas de listado"
+
+#: header.php:208 header.php:452 includes/user-sidebar.php:42
+msgid "My Listings"
+msgstr "Mis listados"
+
+#. Name of the template
+#: header.php:214 includes/user-sidebar.php:48
+msgid "Invoices"
+msgstr "Facturas"
+
+#: header.php:217 header.php:455 includes/user-sidebar.php:51
+msgid "Account Settings"
+msgstr "Configuraciones de la cuenta"
+
+#: header.php:219 header.php:457 includes/user-sidebar.php:53
+msgid "Logout"
+msgstr "Cerrar sesión"
+
+#: header.php:223 header.php:465
+msgid "Login / Register"
+msgstr "Iniciar sesión / Registrarse"
+
+#: header.php:223 header.php:465
+msgid "Login"
+msgstr "Iniciar sesión"
+
+#: header.php:654
+msgid "Add \"CT Compare\" Widget via Appearance > Widgets > Compare."
+msgstr ""
+"Agregue el widget \"CT Compare\" a través de Aspecto> Widgets> Comparar."
+
+#: template-view-invoices.php:80
+msgid "No Orders"
+msgstr "Sin pedidos"
+
+#: template-view-invoices.php:87
+msgid "Invoice"
+msgstr "Factura"
+
+#: template-view-invoices.php:88
+msgid "Package"
+msgstr "Paquete"
+
+#: template-view-invoices.php:89
+msgid "Start"
+msgstr "comienzo"
+
+#: template-view-invoices.php:90
+msgid "Expire"
+msgstr "Expirar"
+
+#: template-view-invoices.php:91
+msgid "Recurring"
+msgstr "Periódico"
+
+#: template-view-invoices.php:93
+msgid "Total"
+msgstr "Total"
+
+#: template-view-invoices.php:109
+#: includes/widgets/ct-widget-contactinfo.php:128
+msgid "Yes"
+msgstr "Sí"
+
+#: template-view-invoices.php:109
+#: includes/widgets/ct-widget-contactinfo.php:129
+msgid "No"
+msgstr "No"
+
+#: template-view-invoices.php:110
+msgid "Expired"
+msgstr "Expirado"
+
+#: template-view-invoices.php:120
+msgid "-"
+msgstr "-"
+
+#. Name of the template
+#: includes/home-listings-count.php:58
+msgid "Open Houses"
+msgstr "Casas abiertas"
+
+#: template-agents.php:261
+msgid "No Agents Found."
+msgstr "No se encontraron agentes"
+
+#: 404.php:15
+msgid "Page Not Found"
+msgstr "Página no encontrada"
+
+#: 404.php:16
+msgid "Woah there! Looks like you've gotten lost."
+msgstr "Woah allí! Parece que te has perdido."
+
+#: 404.php:17
+msgid "Go back to the homepage"
+msgstr "Volver a la página de inicio"
+
+#. Name of the template
+msgid "Edit Listing"
+msgstr "Editar lista"
+
+#: template-edit-listing.php:326
+msgid "Street Address4554"
+msgstr "Dirección de la calle4554"
+
+#: template-edit-listing.php:342 template-edit-listing.php:357
+msgid "Any"
+msgstr "Alguna"
+
+#: template-edit-listing.php:499
+msgid ""
+"*At least one image is required for valid submission, minimum width of 817px."
+msgstr ""
+"* Se requiere al menos una imagen para la presentación válida, con un ancho "
+"mínimo de 817px."
+
+#: template-edit-listing.php:789
+msgid "Update"
+msgstr "Actualizar"
+
+#. Name of the template
+msgid "Edit Profile"
+msgstr "Editar perfil"
+
+#: template-edit-profile.php:78
+msgid "The passwords you entered do not match. Your password was not updated."
+msgstr "Las contraseñas no coinciden. Su contraseña no fue actualizada"
+
+#: template-edit-profile.php:86
+msgid "The Email you entered is not valid. Please try again."
+msgstr "El correo electrónico que ingresó no es válido. Inténtalo de nuevo."
+
+#: template-edit-profile.php:88
+msgid "This email is already used by another user. Try a different one."
+msgstr ""
+"Este correo electrónico ya ha sido utilizado por otro usuario. Prueba con "
+"uno diferente."
+
+#: template-edit-profile.php:133
+msgid "Username"
+msgstr "Nombre de usuario"
+
+#: template-edit-profile.php:134
+msgid "Usernames cannot be changed."
+msgstr "Los nombres de usuario no pueden ser cambiados."
+
+#: template-edit-profile.php:137
+msgid "First Name"
+msgstr "Nombre de pila"
+
+#: template-edit-profile.php:141
+msgid "Last Name"
+msgstr "Apellido"
+
+#: template-edit-profile.php:145
+msgid "Nickname"
+msgstr "Apodo"
+
+#: template-edit-profile.php:145
+msgid "(required)"
+msgstr "(necesario)"
+
+#: template-edit-profile.php:149
+msgid "Display to Public as"
+msgstr "Mostrar en público como"
+
+#: template-edit-profile.php:187
+msgid "Contact Info"
+msgstr "Datos de contacto"
+
+#: template-edit-profile.php:191
+msgid "E-mail *"
+msgstr "Email *"
+
+#: template-edit-profile.php:195
+msgid "Website"
+msgstr "Sitio web"
+
+#: template-edit-profile.php:218
+msgid "About Yourself"
+msgstr "Acerca de ti mismo"
+
+#: template-edit-profile.php:222
+msgid "Biographical Information"
+msgstr "Información biográfica"
+
+#: template-edit-profile.php:222
+msgid ""
+"Share a little biographical information to fill out your profile. This may "
+"be shown publicly."
+msgstr ""
+"Comparta un poco de información biográfica para completar su perfil. Esto "
+"puede mostrarse públicamente."
+
+#: template-edit-profile.php:226
+msgid "New Password"
+msgstr "Nueva contraseña"
+
+#: template-edit-profile.php:226
+msgid ""
+"If you would like to change the password type a new one. Otherwise leave "
+"this blank."
+msgstr ""
+"Si desea cambiar la contraseña, escriba una nueva. De lo contrario, déjelo "
+"en blanco."
+
+#: template-edit-profile.php:230
+msgid "Type your new password again."
+msgstr "Escribe tu nueva contraseña nuevamente."
+
+#: template-edit-profile.php:232
+msgid "Strength indicator"
+msgstr "Indicador de Fuerza"
+
+#: template-edit-profile.php:244
+msgid "Update Profile"
+msgstr "Actualización del perfil"
+
+#: admin/merlin-config.php:104 admin/merlin-config.php:120
+#: admin/merlin-config.php:136 admin/merlin-config.php:152
+#: admin/merlin-config.php:168 admin/merlin-config.php:184
+#: admin/merlin-config.php:200 admin/merlin-config.php:216
+#: admin/merlin-config.php:232 admin/merlin-config.php:248
+#: admin/merlin-config.php:264 admin/merlin-config.php:280
+#: admin/merlin-config.php:296
+msgid "A special note for this import."
+msgstr "Una nota especial para esta importación."
+
+#: admin/profile-fields.php:29
+msgid "Select a Brokerage"
+msgstr "Seleccione un corretaje"
+
+#: admin/profile-fields.php:55
+msgid "Extra profile information"
+msgstr "Información extra de perfil"
+
+#: admin/profile-fields.php:67
+msgid "Agent Order"
+msgstr "Orden del agente"
+
+#: admin/profile-fields.php:70
+msgid ""
+"If user is an agent select the order you would like them displayed on the "
+"agents page, e.g. 1, 2, 3, etc&hellip; NOTE: You must also set Real Estate 7 "
+"Options > Agents > Manually Order Agents? > to Yes, otherwise the ordering "
+"won't be applied."
+msgstr ""
+"Si el usuario es un agente, seleccione el orden en que desea que se muestren "
+"en la página de los agentes, p. 1, 2, 3, etc ... NOTA: también debe "
+"configurar Real Estate 7 Options> Agents> Manually Order Agents? > a Sí, de "
+"lo contrario no se aplicará el orden"
+
+#: admin/profile-fields.php:74
+msgid "Profile Image"
+msgstr "Imagen de perfil"
+
+#: admin/profile-fields.php:84
+msgid ""
+"Please upload a profile picture here, if none is chosen a default image will "
+"be used."
+msgstr ""
+"Cargue aquí una imagen de perfil; si no se selecciona ninguna, se usará una "
+"imagen predeterminada."
+
+#: admin/profile-fields.php:88
+msgid "Mobile #"
+msgstr "Móvil #"
+
+#: admin/profile-fields.php:94
+msgid "Fax #"
+msgstr "Fax #"
+
+#: admin/profile-fields.php:101
+msgid "Title"
+msgstr "Título"
+
+#: admin/profile-fields.php:107
+msgid "Tagline"
+msgstr "Lema"
+
+#: admin/profile-fields.php:113
+msgid "Agent License #"
+msgstr "Número de licencia del agente"
+
+#: admin/profile-fields.php:116
+msgid "Add the agents license number here."
+msgstr "Agregue el número de licencia de los agentes aquí."
+
+#: admin/profile-fields.php:123
+msgid "Agent Testimonials"
+msgstr "Testimonios de agentes"
+
+#: admin/profile-fields.php:127
+msgid ""
+"If this user is marked as an agent (\"Show on agents page\" option above) "
+"use this area to add client testimonials."
+msgstr ""
+"Si este usuario está marcado como un agente (opción \"Mostrar en la página "
+"de agentes\" arriba) use esta área para agregar testimonios de clientes."
+
+#: admin/profile-fields.php:141
+msgid "Office Information"
+msgstr "Información de la oficina"
+
+#: admin/profile-fields.php:145
+msgid "Personal Logo"
+msgstr "Logotipo personal"
+
+#: admin/profile-fields.php:155
+msgid ""
+"Upload your personal logo here, or if you choose to associate a Brokerage "
+"below that logo will be used instead."
+msgstr ""
+"Cargue su logotipo personal aquí, o si elige asociar un Brokerage a "
+"continuación, se usará ese logotipo en su lugar."
+
+#: admin/profile-fields.php:162
+msgid ""
+"Assign a brokerage here, these are pulled from the Brokerage custom post "
+"type."
+msgstr ""
+"Asigne una corredora aquí, estas se extraen del tipo de publicación "
+"personalizada de Corretaje."
+
+#: admin/profile-fields.php:166
+msgid "Brokerage License #"
+msgstr "Número de licencia de corretaje"
+
+#: admin/profile-fields.php:169
+msgid "Add the brokerage license number here."
+msgstr "Agregue el número de licencia de corretaje aquí."
+
+#: admin/profile-fields.php:173
+msgid "Office #"
+msgstr "Oficina #"
+
+#: admin/profile-fields.php:191
+msgid "State or Province"
+msgstr "Estado o Provincia"
+
+#: admin/profile-fields.php:197
+msgid "Postal Code"
+msgstr "Código postal"
+
+#: layouts/grid.php:19 layouts/list.php:16
+msgid "This agent currently has no active listings."
+msgstr "Este agente actualmente no tiene listados activos."
+
+#: layouts/grid.php:21 layouts/list.php:18
+msgid "This brokerage currently has no active listings."
+msgstr "Esta corredora actualmente no tiene listados activos."
+
+#: layouts/grid.php:23 layouts/list.php:20
+msgid "No properties were found which match your search criteria"
+msgstr ""
+"No se encontraron propiedades que correspondieran con sus criterios de "
+"búsqueda"
+
+#: layouts/blog-large.php:96 layouts/blog-grid.php:96
+msgid "Read More"
+msgstr "Lee mas"
+
+#: layouts/saved-search-list.php:53 includes/widgets/ct-widget-tabs.php:214
+msgid "on"
+msgstr "en"
+
+#: layouts/saved-search-list.php:53
+msgid "On"
+msgstr "En"
+
+#: layouts/saved-search-list.php:54
+msgid "off"
+msgstr "apagado"
+
+#: layouts/saved-search-list.php:54
+msgid "Off"
+msgstr "Apagado"
+
+#: includes/home-hero-advanced-search.php:21
+#: includes/header-advanced-search.php:249
+msgid "Enter a street address or keyword"
+msgstr "Ingrese una dirección o palabra clave"
+
+#: includes/home-hero-advanced-search.php:22
+#: includes/header-advanced-search.php:210
+msgid "Searching..."
+msgstr "Buscando..."
+
+#: includes/sub-listings.php:89
+#: includes/widgets/ct-widget-agentsotherlistings.php:127
+msgid "Bed"
+msgstr "Cama"
+
+#: includes/sub-listings.php:123
+#: includes/widgets/ct-widget-agentsotherlistings.php:161
+msgid "Rating"
+msgstr "Clasificación"
+
+#: includes/sub-listings.php:141
+#: includes/widgets/ct-widget-agentsotherlistings.php:179
+msgid "Guests"
+msgstr "Invitados"
+
+#: includes/sub-listings.php:156
+#: includes/widgets/ct-widget-agentsotherlistings.php:194
+msgid "Min Stay"
+msgstr "Estancia mínima"
+
+#: includes/single-listing-sub-listings.php:15
+msgid "Other Listings in Community"
+msgstr "Otros listados en la comunidad"
+
+#: includes/single-listing-map.php:18
+#: includes/single-listing-sub-navigation.php:135
+#: includes/single-listing-sub-navigation.php:164
+msgid "Location"
+msgstr "Ubicación"
+
+#: includes/single-listing-map.php:27
+msgid "Enter your starting address"
+msgstr "Ingrese su dirección inicial"
+
+#: includes/single-listing-map.php:43
+msgid "get directions"
+msgstr "obtener las direcciones"
+
+#: includes/single-listing-sub-navigation.php:34
+msgid "Description"
+msgstr "Descripción"
+
+#: includes/single-listing-sub-navigation.php:61
+msgid "Floor Plans"
+msgstr "Planos de planta"
+
+#: includes/single-listing-sub-navigation.php:78
+msgid "Rental Info"
+msgstr "Información de alquiler"
+
+#: includes/single-listing-sub-navigation.php:87
+msgid "Features"
+msgstr "Caracteristicas"
+
+#: includes/single-listing-sub-navigation.php:96
+msgid "Booking"
+msgstr "Reserva"
+
+#: includes/single-listing-sub-navigation.php:106
+#: includes/single-listing-attachments.php:16
+msgid "Attachments"
+msgstr "Archivos adjuntos"
+
+#: includes/single-listing-sub-navigation.php:117
+#: includes/single-listing-video.php:16
+msgid "Video"
+msgstr "Vídeo"
+
+#: includes/single-listing-sub-navigation.php:127
+msgid "Tour"
+msgstr "Recorrer"
+
+#: includes/single-listing-sub-navigation.php:142
+msgid "Nearby"
+msgstr "Cerca"
+
+#: includes/single-listing-sub-navigation.php:163
+msgid "Listing Features"
+msgstr ""
+"\n"
+"Características del listado"
+
+#: includes/agent-contact-modal.php:21 includes/single-listing-home.php:272
+#: includes/widgets/ct-widget-listingscontact.php:30
+msgid "Tell me more about this property"
+msgstr "Cuéntame más sobre esta propiedad"
+
+#: includes/single-listing-google-places.php:23
+msgid "What's Nearby?"
+msgstr "¿Qué hay cerca?"
+
+#: includes/single-listing-google-places.php:66
+msgid "Restaurants"
+msgstr "Restaurantes"
+
+#: includes/single-listing-google-places.php:75
+msgid "Coffee Shops"
+msgstr "Cafeterías"
+
+#: includes/single-listing-google-places.php:84
+#: includes/single-listing-google-places.php:147
+msgid "Stores"
+msgstr "Víveres"
+
+#: includes/single-listing-google-places.php:93
+msgid "Education"
+msgstr "Educación"
+
+#: includes/single-listing-google-places.php:102
+msgid "Bank"
+msgstr "Banco"
+
+#: includes/single-listing-google-places.php:111
+msgid "Bars"
+msgstr "Bares"
+
+#: includes/single-listing-google-places.php:120
+msgid "Hospitals"
+msgstr "Hospitales"
+
+#: includes/single-listing-google-places.php:129
+msgid "Gas Stations"
+msgstr "Gasolineras"
+
+#: includes/single-listing-google-places.php:138
+msgid "Transit Stations"
+msgstr "Estaciones de tránsito"
+
+#: includes/single-listing-google-places.php:156
+msgid "Convenience Stores"
+msgstr "Tiendas de conveniencia"
+
+#: includes/single-listing-google-places.php:165
+#: includes/single-listing-google-places.php:174
+msgid "Shopping Malls"
+msgstr "Centros comerciales"
+
+#: includes/single-listing-google-places.php:183
+msgid "Veterinary Care"
+msgstr "Cuidado veterinario"
+
+#: includes/single-listing-google-places.php:192
+msgid "Pet Store"
+msgstr "Tienda de mascotas"
+
+#: includes/single-listing-google-places.php:201
+msgid "Park"
+msgstr "Parque"
+
+#: includes/single-listing-google-places.php:214
+msgid "Google Places/What's Nearby? Error."
+msgstr "Google Places / ¿Qué hay cerca? Error."
+
+#: includes/single-listing-google-places.php:215
+msgid ""
+"You need to create an API key go into Admin > Real Estate 7 Options > Google "
+"Maps > API Key, then setup the options via Real Estate 7 Options > \"What's "
+"Nearby?\" panel."
+msgstr ""
+"Necesita crear una clave de API vaya a Administrador> Opciones de Bienes "
+"Raíces 7> Google Maps> Clave de API, luego configure las opciones a través "
+"de Bienes Raíces 7 Opciones> \"¿Qué hay cerca?\" panel."
+
+#: includes/single-listing-rental-info.php:25
+msgid "Rental Information"
+msgstr "Información de alquiler"
+
+#: includes/single-listing-rental-info.php:47
+#: includes/single-listing-home.php:137
+msgid "Prices"
+msgstr "Precios"
+
+#: includes/featured-listings.php:30 includes/featured-listings.php:32
+msgid "View All"
+msgstr "Ver todo"
+
+#: includes/single-listing-header.php:35 includes/single-listing-header.php:78
+#: includes/single-listing-home.php:75
+msgid "Co-listing"
+msgstr "Co-listado"
+
+#: includes/single-listing-multi-floorplan.php:21
+msgid "Floor Plans & Pricing"
+msgstr "Planes de piso y precios"
+
+#: includes/single-listing-multi-floorplan.php:40
+msgid "Size"
+msgstr "tamaño"
+
+#: includes/single-listing-multi-floorplan.php:46
+msgid "Availability"
+msgstr "Disponibilidad"
+
+#: includes/single-listing-booking-calendar.php:17
+#: includes/single-listing-home.php:157
+msgid "Book this listing"
+msgstr "Reservar este listado"
+
+#: includes/advanced-search.php:191 includes/header-advanced-search.php:151
+#: includes/header-advanced-search.php:409
+#: includes/widgets/ct-widget-listingssearch.php:200
+msgid "From"
+msgstr "De"
+
+#: includes/advanced-search.php:200 includes/header-advanced-search.php:160
+#: includes/header-advanced-search.php:418
+#: includes/widgets/ct-widget-listingssearch.php:209
+msgid "To"
+msgstr "A"
+
+#: includes/advanced-search.php:245 includes/advanced-search.php:246
+#: includes/header-advanced-search.php:207
+#: includes/header-advanced-search.php:463
+#: includes/header-advanced-search.php:464
+msgid "Keyword"
+msgstr "Palabra clave"
+
+#: includes/advanced-search.php:260
+#: includes/widgets/ct-widget-listingssearch.php:271
+msgid "More Search Options"
+msgstr "Más opciones de búsqueda"
+
+#: includes/single-listing-open-house.php:35
+msgid "Time"
+msgstr "Hora"
+
+#: includes/single-listing-open-house.php:38
+#: includes/single-listing-open-house.php:80
+msgid "RSVP"
+msgstr "RSVP"
+
+#: includes/header-advanced-search.php:208
+msgid "Street, City, State, Zip or keyword"
+msgstr "Calle, ciudad, estado, código postal o palabra clave"
+
+#: includes/header-advanced-search.php:363
+msgid "Addtional Features"
+msgstr "Funciones adicionales"
+
+#: includes/single-listing-virtual-tour.php:18
+msgid "Virtual Tour"
+msgstr "Tour virtual"
+
+#: includes/home-listings-count.php:32
+msgid "Homes For Sale"
+msgstr "Casas en venta"
+
+#: includes/home-listings-count.php:84
+msgid "Recently Sold"
+msgstr "vendido recientemente"
+
+#: includes/home-listings-count.php:110
+msgid "Reduced"
+msgstr "Reducido"
+
+#: includes/home-listings-count.php:136
+msgid "For Rent"
+msgstr "En renta"
+
+#: includes/home-listings-count.php:162
+msgid "Leased"
+msgstr "Arrendado"
+
+#: includes/home-listings-count.php:214
+msgid "New Additions"
+msgstr "Nuevas adiciones"
+
+#: includes/home-listings-count.php:240
+msgid "Special Offers"
+msgstr "Ofertas especiales"
+
+#: includes/single-listing-home.php:268 includes/single-listing-contact.php:201
+msgid "Request More Information"
+msgstr "Pida mas información"
+
+#: includes/single-listing-home.php:299 includes/single-listing-contact.php:243
+msgid "Co-listing Agent"
+msgstr "Agente de cotización en bolsa"
+
+#: includes/single-listing-home.php:369
+msgid "Share This Listing"
+msgstr "Comparte este listado"
+
+#: includes/post-social.php:16 includes/post-social.php:17
+#: includes/post-social.php:18
+msgid "Check out this great article on"
+msgstr "Mira este excelente artículo sobre"
+
+#: includes/single-listing-contact.php:212
+msgid "Tell me more about this listing"
+msgstr "Cuéntame más acerca de este listado"
+
+#: admin/plugins/register.php:64 admin/getting-started/getting-started.php:172
+msgid "Redux Framework"
+msgstr "Redux Framework"
+
+#: admin/plugins/register.php:70 admin/getting-started/getting-started.php:184
+msgid "Contempo Real Estate Custom Posts"
+msgstr "Publicaciones personalizadas de Contempo Real Estate"
+
+#: admin/plugins/register.php:78 admin/getting-started/getting-started.php:319
+msgid "WP Favorite Posts"
+msgstr "Publicaciones favoritas de WP"
+
+#: admin/plugins/register.php:84 admin/getting-started/getting-started.php:307
+#: admin/getting-started/getting-started.php:331
+msgid "WordPress Social Login"
+msgstr "Inicio de sesión social de WordPress"
+
+#: admin/plugins/register.php:90 admin/getting-started/getting-started.php:343
+msgid "Booking Calendar"
+msgstr "Calendario de reserva"
+
+#: admin/plugins/register.php:96 admin/getting-started/getting-started.php:355
+msgid "Co-Authors Plus"
+msgstr "Coautores más"
+
+#: admin/plugins/register.php:102 admin/getting-started/getting-started.php:367
+msgid "Comments Ratings"
+msgstr "Comentarios Valoraciones"
+
+#: admin/plugins/register.php:108 admin/getting-started/getting-started.php:196
+msgid "Contempo Membership & Packages"
+msgstr "Membresía y paquetes de Contempo"
+
+#: admin/plugins/register.php:119
+msgid "Contempo Real Estate 7 Payment Gateways"
+msgstr "Contempo Real Estate 7 Pasarelas de pago"
+
+#: admin/plugins/register.php:130 admin/getting-started/getting-started.php:232
+msgid "Contempo Mortgage Calculator Widget"
+msgstr "Widget de calculadora de hipoteca de Contempo"
+
+#: admin/plugins/register.php:141 admin/getting-started/getting-started.php:220
+msgid "Contempo Compare Listings"
+msgstr "Contempo Comparar anuncios"
+
+#: admin/plugins/register.php:152 admin/getting-started/getting-started.php:208
+msgid "Contempo Saved Searches & Email Alerts"
+msgstr "Contempo Saved Searches y alertas de correo electrónico"
+
+#: admin/plugins/register.php:163 admin/getting-started/getting-started.php:244
+msgid "Contempo Child Theme Generator"
+msgstr "Contempo Child Theme Generator"
+
+#: admin/plugins/register.php:174 admin/getting-started/getting-started.php:268
+msgid "Slider Revolution"
+msgstr "Slider Revolution"
+
+#: admin/plugins/register.php:185 admin/getting-started/getting-started.php:280
+msgid "Visual Composer"
+msgstr "Compositor visual"
+
+#: admin/plugins/register.php:196 admin/getting-started/getting-started.php:379
+msgid "Envato Market"
+msgstr "Envato Market"
+
+#: admin/getting-started/getting-started.php:91
+#, php-format
+msgid "Getting started with %1$s v%2$s"
+msgstr "Comenzando con% 1 $ s v% 2 $ s"
+
+#: admin/getting-started/getting-started.php:93
+#, php-format
+msgid ""
+"Thanks for purchasing %1$s! I truly appreciate the support and the "
+"opportunity to share my work with you. Please visit the tabs below to get "
+"started setting up your theme!"
+msgstr ""
+"Gracias por comprar% 1 $ s! Realmente aprecio el apoyo y la oportunidad de "
+"compartir mi trabajo con usted. ¡Visita las pestañas a continuación para "
+"comenzar a configurar tu tema!"
+
+#: admin/getting-started/getting-started.php:99
+msgid "Start Here"
+msgstr "Empieza aqui"
+
+#: admin/getting-started/getting-started.php:100
+msgid "Plugins"
+msgstr "Complementos"
+
+#: admin/getting-started/getting-started.php:101
+msgid "FAQ &amp; Support"
+msgstr "Preguntas frecuentes y soporte"
+
+#: admin/getting-started/getting-started.php:102
+msgid "Latest Updates"
+msgstr "Últimas actualizaciones"
+
+#: admin/getting-started/getting-started.php:110
+#, php-format
+msgid "Installing %s"
+msgstr "Instalando %s"
+
+#: admin/getting-started/getting-started.php:116
+msgid "Documentation"
+msgstr "Documentación"
+
+#: admin/getting-started/getting-started.php:164
+msgid "Required & Recommended Plugins"
+msgstr "Complementos requeridos y recomendados"
+
+#: admin/getting-started/getting-started.php:166
+msgid ""
+"Below is a list of required and recommended plugins to install that will "
+"help you get the most out of WP Pro Real Estate 7. To begin please use the "
+"button below or browse through the list to learn about each one in a little "
+"more detail."
+msgstr ""
+"A continuación, encontrará una lista de complementos necesarios y "
+"recomendados para instalar que le ayudarán a aprovechar al máximo las "
+"ventajas de WP Pro Real Estate 7. Para comenzar, utilice el botón de abajo o "
+"navegue por la lista para conocer cada detalle con más detalle."
+
+#: admin/getting-started/getting-started.php:172
+#: admin/getting-started/getting-started.php:184
+msgid "Required"
+msgstr "Necesario"
+
+#: admin/getting-started/getting-started.php:174
+msgid "Install Redux Framework"
+msgstr "Instalar Redux Framework"
+
+#: admin/getting-started/getting-started.php:174
+#: admin/getting-started/getting-started.php:186
+#: admin/getting-started/getting-started.php:198
+#: admin/getting-started/getting-started.php:210
+#: admin/getting-started/getting-started.php:222
+#: admin/getting-started/getting-started.php:234
+#: admin/getting-started/getting-started.php:246
+#: admin/getting-started/getting-started.php:258
+#: admin/getting-started/getting-started.php:270
+#: admin/getting-started/getting-started.php:282
+#: admin/getting-started/getting-started.php:294
+#: admin/getting-started/getting-started.php:309
+#: admin/getting-started/getting-started.php:321
+#: admin/getting-started/getting-started.php:333
+#: admin/getting-started/getting-started.php:345
+#: admin/getting-started/getting-started.php:357
+#: admin/getting-started/getting-started.php:369
+#: admin/getting-started/getting-started.php:381
+msgid "Install Now"
+msgstr "Instalar ahora"
+
+#: admin/getting-started/getting-started.php:176
+#: admin/getting-started/getting-started.php:188
+#: admin/getting-started/getting-started.php:200
+#: admin/getting-started/getting-started.php:212
+#: admin/getting-started/getting-started.php:224
+#: admin/getting-started/getting-started.php:236
+#: admin/getting-started/getting-started.php:248
+#: admin/getting-started/getting-started.php:260
+#: admin/getting-started/getting-started.php:272
+#: admin/getting-started/getting-started.php:284
+#: admin/getting-started/getting-started.php:296
+#: admin/getting-started/getting-started.php:311
+#: admin/getting-started/getting-started.php:323
+#: admin/getting-started/getting-started.php:335
+#: admin/getting-started/getting-started.php:347
+#: admin/getting-started/getting-started.php:359
+#: admin/getting-started/getting-started.php:371
+#: admin/getting-started/getting-started.php:383
+msgid "Installed"
+msgstr "Instalado"
+
+#: admin/getting-started/getting-started.php:180
+msgid "This plugin is used for the admin options framework."
+msgstr "Este complemento se usa para el marco de opciones de administrador."
+
+#: admin/getting-started/getting-started.php:186
+msgid "Install Contempo Real Estate Custom Posts"
+msgstr "Instalar publicaciones personalizadas de Contempo Real Estate"
+
+#: admin/getting-started/getting-started.php:192
+msgid ""
+"This plugin registers the listings, brokerages & testimonials custom post "
+"types, along with related custom fields & taxonomies, as well as all the "
+"custom Visual Composer modules (if you have the Visual Composer plugin "
+"installed & activated)."
+msgstr ""
+"Este complemento registra listados, corretajes y testimonios de tipos de "
+"publicaciones personalizadas, junto con campos personalizados y taxonomías, "
+"así como también todos los módulos personalizados de Visual Composer (si "
+"tiene el complemento Visual Composer instalado y activado)."
+
+#: admin/getting-started/getting-started.php:196
+#: admin/getting-started/getting-started.php:208
+#: admin/getting-started/getting-started.php:220
+#: admin/getting-started/getting-started.php:232
+#: admin/getting-started/getting-started.php:244
+#: admin/getting-started/getting-started.php:256
+#: admin/getting-started/getting-started.php:268
+#: admin/getting-started/getting-started.php:280
+#: admin/getting-started/getting-started.php:292
+#: admin/getting-started/getting-started.php:307
+#: admin/getting-started/getting-started.php:319
+#: admin/getting-started/getting-started.php:331
+#: admin/getting-started/getting-started.php:343
+#: admin/getting-started/getting-started.php:355
+#: admin/getting-started/getting-started.php:367
+#: admin/getting-started/getting-started.php:379
+msgid "Recommended"
+msgstr "Recomendado"
+
+#: admin/getting-started/getting-started.php:198
+msgid "Install Contempo Membership & Packages"
+msgstr "Instalar membresía y paquetes de Contempo"
+
+#: admin/getting-started/getting-started.php:204
+msgid ""
+"This plugin adds the ability to create membership & packages for use with "
+"the front end submission system in WP Pro Real Estate 7, with Stripe, PayPal "
+"& Wire Transfer payment methods."
+msgstr ""
+"Este complemento agrega la capacidad de crear membresías y paquetes para "
+"usar con el sistema de envío de solicitudes en WP Pro Real Estate 7, con "
+"métodos de pago por transferencia bancaria, transferencia bancaria y Stripe."
+
+#: admin/getting-started/getting-started.php:210
+msgid "Install Contempo Saved Searches & Email Alerts"
+msgstr ""
+"Instalar búsquedas guardadas de Contempo y alertas de correo electrónico"
+
+#: admin/getting-started/getting-started.php:216
+msgid "This plugin allows users be alerted via email when a listing is added."
+msgstr ""
+"Instalar búsquedas guardadas de Contempo y alertas de correo electrónico"
+
+#: admin/getting-started/getting-started.php:222
+#: admin/getting-started/getting-started.php:246
+msgid "Install Contempo Compare Listings"
+msgstr ""
+"Este complemento permite alertar a los usuarios por correo electrónico "
+"cuando se agrega una lista."
+
+#: admin/getting-started/getting-started.php:228
+msgid "This plugin adds compare functionality for listings."
+msgstr "Este complemento agrega funcionalidad de comparación para listados."
+
+#: admin/getting-started/getting-started.php:234
+msgid "Install Contempo Mortgage Calculator Widget"
+msgstr "Este complemento permite un widget de calculadora de hipoteca simple."
+
+#: admin/getting-started/getting-started.php:240
+msgid "This plugin enables a simple mortgage calculator widget."
+msgstr "Este complemento permite un widget de calculadora de hipoteca simple."
+
+#: admin/getting-started/getting-started.php:252
+msgid ""
+"This plugin allows admin users to easily generate a child theme from your "
+"Admin > Appearance panel."
+msgstr ""
+"Este complemento permite a los usuarios administradores generar fácilmente "
+"un tema secundario desde su panel de Administración> Apariencia."
+
+#: admin/getting-started/getting-started.php:256
+msgid "Contempo Payment Gateways"
+msgstr "Puertas de pago de Contempo"
+
+#: admin/getting-started/getting-started.php:258
+msgid "Install Contempo Payment Gateways"
+msgstr "Instalar las pasarelas de pago de Contempo"
+
+#: admin/getting-started/getting-started.php:264
+msgid ""
+"This plugin enables the PayPal API and only required if you're going to be "
+"charging single listing payments from the front end of the site, if you're "
+"using the Membership & Packages plugin leave this plugin deactivated."
+msgstr ""
+"Este complemento habilita la API de PayPal y solo es obligatorio si va a "
+"cargar pagos de listas individuales desde la parte frontal del sitio, si "
+"está utilizando el complemento de Membresía y paquetes, deje este "
+"complemento desactivado."
+
+#: admin/getting-started/getting-started.php:270
+msgid "Install Slider Revolution"
+msgstr "Instalar Slider Revolution"
+
+#: admin/getting-started/getting-started.php:276
+msgid ""
+"Slider Revolution is an innovative, responsive WordPress Slider Plugin that "
+"displays your content the beautiful way."
+msgstr ""
+"Slider Revolution es un plugin de Slider WordPress innovador y receptivo que "
+"muestra su contenido de una manera hermosa."
+
+#: admin/getting-started/getting-started.php:282
+msgid "Install Visual Composer"
+msgstr "Instalar Visual Composer"
+
+#: admin/getting-started/getting-started.php:288
+msgid ""
+"WordPress Page Builder plugin with intuitive drag and drop interface. Build "
+"any page fast and easy. Unlimited layouts for your website."
+msgstr ""
+"Plugin de WordPress Page Builder con una interfaz intuitiva de arrastrar y "
+"soltar. Construya cualquier página de manera rápida y fácil. Diseños "
+"ilimitados para su sitio web"
+
+#: admin/getting-started/getting-started.php:292
+msgid "WPML"
+msgstr "WPML"
+
+#: admin/getting-started/getting-started.php:294
+msgid "Install WPML"
+msgstr "Instalar WPML"
+
+#: admin/getting-started/getting-started.php:302
+#, php-format
+msgid ""
+"<a href=\"%s\" target=\"_blank\">WPML</a> allows running fully multilingual "
+"websites with WordPress, making it easy to translate WordPress pages, posts, "
+"tags, categories and themes."
+msgstr ""
+"<a href=\"%s\" target=\"_blank\">WPML</a> permite ejecutar sitios web "
+"completamente multilingües con WordPress, facilitando la traducción de "
+"páginas, publicaciones, etiquetas, categorías y temas de WordPress."
+
+#: admin/getting-started/getting-started.php:309
+#: admin/getting-started/getting-started.php:321
+msgid "Install WP Favorite Posts"
+msgstr "Instalar las publicaciones favoritas de WP"
+
+#: admin/getting-started/getting-started.php:315
+msgid ""
+"This plugin allows users to login/register with their social profiles like "
+"Facebook, Google, Twitter, etc&hellip;"
+msgstr ""
+"Este complemento permite a los usuarios iniciar sesión / registrarse con sus "
+"perfiles sociales como Facebook, Google, Twitter, etc."
+
+#: admin/getting-started/getting-started.php:327
+msgid ""
+"This plugin allows users to favorite & save listings from the front end of "
+"the site."
+msgstr ""
+"Este complemento permite a los usuarios favoritos y guardar listados desde "
+"el frente del sitio."
+
+#: admin/getting-started/getting-started.php:333
+msgid "Install WordPress Social Login"
+msgstr "Instalar el inicio de sesión social de WordPress"
+
+#: admin/getting-started/getting-started.php:339
+msgid ""
+"This plugin allows users to login/register for your site via social networks "
+"like Facebook, Google, Twitter, etc&hellip;"
+msgstr ""
+"Este complemento permite a los usuarios iniciar sesión / registrarse en su "
+"sitio a través de redes sociales como Facebook, Google, Twitter, etc."
+
+#: admin/getting-started/getting-started.php:345
+msgid "Install Booking Calendar"
+msgstr "Instalar calendario de reservas"
+
+#: admin/getting-started/getting-started.php:351
+msgid ""
+"This plugin will enable online booking services, however you're free to use "
+"whatever booking plugin you'd like as long as it supports shortcodes."
+msgstr ""
+"Este complemento habilitará los servicios de reserva en línea, sin embargo, "
+"usted es libre de usar cualquier complemento de reserva que desee, siempre y "
+"cuando admita códigos breves."
+
+#: admin/getting-started/getting-started.php:357
+msgid "Install Co-Authors Plus"
+msgstr "Instalar coautores más"
+
+#: admin/getting-started/getting-started.php:363
+msgid ""
+"This plugin allows you to assign multiple users or agents to listings, "
+"perfect for co-listings."
+msgstr ""
+"Este complemento le permite asignar múltiples usuarios o agentes a las "
+"listas, perfecto para co-listados."
+
+#: admin/getting-started/getting-started.php:369
+msgid "Install Comments Ratings"
+msgstr "Instalar calificaciones de comentarios"
+
+#: admin/getting-started/getting-started.php:375
+msgid "This plugin allows you to enable ratings for your listings."
+msgstr ""
+"Este complemento le permite habilitar calificaciones para sus listados."
+
+#: admin/getting-started/getting-started.php:381
+msgid "Install Envato Market"
+msgstr "Instalar el mercado Envato"
+
+#: admin/getting-started/getting-started.php:387
+msgid ""
+"This plugin allows you to easily get theme updates through your WordPress "
+"admin."
+msgstr ""
+"Este complemento le permite obtener fácilmente actualizaciones de temas a "
+"través de su administrador de WordPress."
+
+#: admin/getting-started/getting-started.php:396
+#, php-format
+msgid "Support for %s?"
+msgstr "Soporte para %s?"
+
+#: admin/getting-started/getting-started.php:402
+#, php-format
+msgid ""
+"If you've read through the <a href=\"%1$s\" target=\"_blank\">"
+"documentation</a> and still have questions or are experiencing issues, I'm "
+"happy to help! Simply <a href=\"%2$s\"  target=\"_blank\" title=\"Open a "
+"live chat\">open a live chat</a> or <a href=\"%3$s\" target=\"_blank\">leave "
+"a comment</a> on the item page and I'll personally get back to you, thanks "
+"in advance for your patience."
+msgstr ""
+"Si ha leído la <a href=\"%1$s\" target=\"_blank\">documentación</a> y "
+"todavía tiene preguntas o problemas, ¡me complace ayudarle! Simply <a "
+"href=\"%2$s\"  target=\"_blank\" title=\"Open a live chat\">Simplemente abra "
+"un chat en vivo </a> o <a href=\"%3$s\" target=\"_blank\">deje un "
+"comentario</a> oen la página del artículo y personalmente me pondré en "
+"contacto con usted, gracias de antemano por su paciencia."
+
+#: admin/getting-started/getting-started.php:405
+#, php-format
+msgid "FAQ for %s?"
+msgstr "Preguntas frecuentes para % s?"
+
+#: admin/getting-started/getting-started.php:408
+msgid ""
+"The following articles below cover many frequently asked questions that you "
+"may have."
+msgstr ""
+"Los siguientes artículos a continuación cubren muchas preguntas frecuentes "
+"que puede tener."
+
+#: admin/getting-started/getting-started.php:454
+msgid "Need Modifications or Customizations?"
+msgstr "¿Necesita modificaciones o personalizaciones?"
+
+#: admin/getting-started/getting-started.php:459
+#, php-format
+msgid ""
+"Send me an email <a href=\"mailto:%s\">chris@contempothemes.com</a>, with a "
+"detailed outline of what you’d like to accomplish and I’ll get you a quote "
+"and turnaround time."
+msgstr ""
+"Envíeme un correo electrónico a <a href=\"mailto:%s\">chris@contempothemes."
+"com</a>, con un resumen detallado de lo que le gustaría lograr y le "
+"conseguiré un presupuesto y tiempo de respuesta."
+
+#: admin/getting-started/getting-started.php:468
+#, php-format
+msgid ""
+"Please note that support requests will not be answered via email, only "
+"through my <a href=\"%1$s\" target=\"_blank\">live chat</a> or within the <a "
+"href=\"%2$s\" target=\"_blank\">item comments</a>."
+msgstr ""
+"Tenga en cuenta que las solicitudes de soporte no se responderán por correo "
+"electrónico, solo a través de mi <a href=\"%1$s\" target=\"_blank\">chat en "
+"vivo</a> o dentro de los comentarios del <a href=\"%2$s\" target=\"_blank\">"
+"artículo.\n"
+"Recomendaciones de alojamiento</a>."
+
+#: admin/getting-started/getting-started.php:478
+msgid "Hosting Recommendations"
+msgstr "Recomendaciones de alojamiento"
+
+#: admin/getting-started/getting-started.php:492
+#: admin/getting-started/getting-started.php:495
+msgid "Visit the Knowledge Base"
+msgstr "Visite la base de conocimiento"
+
+#: admin/getting-started/getting-started.php:493
+msgid ""
+"New to the WordPress world? The Knowledge Base has a boat load of articles "
+"to help you with any issues that might arise."
+msgstr ""
+"Nuevo en el mundo de WordPress? La base de conocimientos tiene una gran "
+"cantidad de artículos para ayudarlo con cualquier problema que pueda surgir."
+
+#: admin/getting-started/getting-started.php:495
+msgid "Visit the knowledge base"
+msgstr "Visita la base de conocimiento"
+
+#: admin/google-places/GooglePlaces.php:149
+#: admin/google-places/GooglePlaces.php:165
+#: admin/google-places/GooglePlaces.php:182
+msgid "Google Places API is currently unavailable."
+msgstr "La API de Google Places no está disponible actualmente."
+
+#: admin/google-places/GooglePlaces.php:151
+msgid ""
+"You must specify a valid listing location, use street address in the listing "
+"title along with city, state & zip/postcode — if not use the optional "
+"latitude & longitude field."
+msgstr ""
+"Debe especificar una ubicación de listado válida, use la dirección de la "
+"calle en el título de la lista junto con la ciudad, estado y código postal; "
+"si no, use el campo opcional de latitud y longitud."
+
+#: admin/google-places/GooglePlaces.php:167
+#: admin/google-places/GooglePlaces.php:207
+msgid ""
+"You much specify at least one of the following: \"keyword\", \"name\", "
+"\"types\"."
+msgstr ""
+"Usted especifica mucho al menos uno de los siguientes: \"palabra clave\", "
+"\"nombre\", \"tipos\"."
+
+#: admin/google-places/GooglePlaces.php:184
+#: admin/google-places/GooglePlaces.php:201
+msgid "You must specify a radius."
+msgstr "Debes especificar un radio"
+
+#: admin/google-places/GooglePlaces.php:197
+msgid "You must specify a location before calling radarsearch()."
+msgstr "Debe especificar una ubicación antes de llamar a radarsearch()."
+
+#: admin/google-places/GooglePlaces.php:221
+msgid ""
+"You must specify either a \"placeid\" or a \"reference\" (but not both) "
+"before calling details()."
+msgstr ""
+"Debe especificar un \"placeid\" o una \"referencia\" (pero no ambos) antes "
+"de llamar a los detalles()."
+
+#: admin/ct-social/ct-social.php:28
+msgid "CT Social"
+msgstr "CT Social"
+
+#: admin/ct-social/ct-social.php:130
+#: includes/widgets/ct-widget-agentinfo.php:108
+#: includes/widgets/ct-widget-contactinfo.php:133
+#: includes/widgets/ct-widget-search.php:40
+#: includes/widgets/ct-widget-latestposts.php:70
+#: includes/widgets/ct-widget-listingssearch.php:295
+#: includes/widgets/ct-widget-listingscontact.php:68
+#: includes/widgets/ct-widget-testimonials.php:62
+#: includes/widgets/ct-widget-blogauthor.php:60
+#: includes/widgets/ct-widget-agentsotherlistings.php:289
+#: includes/widgets/ct-widget-brokerinfo.php:78
+#: includes/widgets/ct-widget-listings.php:131
+msgid "Title:"
+msgstr "Título:"
+
+#: admin/ct-social/ct-social.php:134
+msgid "Dribbble:"
+msgstr "Dribbble:"
+
+#: admin/ct-social/ct-social.php:138
+#: includes/widgets/ct-widget-contactinfo.php:169
+msgid "Email:"
+msgstr "Email:"
+
+#: admin/ct-social/ct-social.php:142
+#: includes/widgets/ct-widget-contactinfo.php:173
+msgid "Facebook:"
+msgstr "Facebook:"
+
+#: admin/ct-social/ct-social.php:146
+msgid "Flickr:"
+msgstr "Flickr:"
+
+#: admin/ct-social/ct-social.php:150
+msgid "Foursquare:"
+msgstr "Foursquare:"
+
+#: admin/ct-social/ct-social.php:154
+msgid "GitHub:"
+msgstr "GitHub:"
+
+#: admin/ct-social/ct-social.php:158
+#: includes/widgets/ct-widget-contactinfo.php:181
+msgid "Google+:"
+msgstr "Google+:"
+
+#: admin/ct-social/ct-social.php:162
+#: includes/widgets/ct-widget-contactinfo.php:193
+msgid "Instagram:"
+msgstr "Instagram:"
+
+#: admin/ct-social/ct-social.php:166
+#: includes/widgets/ct-widget-contactinfo.php:185
+msgid "LinkedIn:"
+msgstr "LinkedIn:"
+
+#: admin/ct-social/ct-social.php:170
+msgid "Medium:"
+msgstr "Medium:"
+
+#: admin/ct-social/ct-social.php:174
+#: includes/widgets/ct-widget-contactinfo.php:189
+msgid "Pinterest:"
+msgstr "Pinterest:"
+
+#: admin/ct-social/ct-social.php:178
+msgid "Skype:"
+msgstr "Skype:"
+
+#: admin/ct-social/ct-social.php:182
+#: includes/widgets/ct-widget-contactinfo.php:177
+msgid "Twitter:"
+msgstr "Twitter:"
+
+#: admin/ct-social/ct-social.php:186
+msgid "YouTube:"
+msgstr "YouTube:"
+
+#: admin/ct-social/ct-social.php:190
+msgid "Links:"
+msgstr "Links:"
+
+#: includes/widgets/ct-widget-agentinfo.php:13
+msgid "CT Agent Info"
+msgstr "Información del agente de CT"
+
+#: includes/widgets/ct-widget-agentinfo.php:70
+msgid "Mobile"
+msgstr "Móvil"
+
+#: includes/widgets/ct-widget-agentinfo.php:73
+msgid "Office"
+msgstr "Oficina"
+
+#: includes/widgets/ct-widget-agentinfo.php:76
+msgid "Fax"
+msgstr "Fax"
+
+#: includes/widgets/ct-widget-contactinfo.php:13
+msgid "CT Contact Info"
+msgstr "Información de contacto de CT"
+
+#: includes/widgets/ct-widget-contactinfo.php:126
+msgid "Show Logo:"
+msgstr "Mostrar logotipo:"
+
+#: includes/widgets/ct-widget-contactinfo.php:137
+msgid "Blurb:"
+msgstr "Propaganda:"
+
+#: includes/widgets/ct-widget-contactinfo.php:141
+msgid "Company Name:"
+msgstr "Nombre de empresa:"
+
+#: includes/widgets/ct-widget-contactinfo.php:145
+msgid "Street Address:"
+msgstr "Dirección:"
+
+#: includes/widgets/ct-widget-contactinfo.php:149
+msgid "City:"
+msgstr "Ciudad:"
+
+#: includes/widgets/ct-widget-contactinfo.php:153
+msgid "State:"
+msgstr "Estado:"
+
+#: includes/widgets/ct-widget-contactinfo.php:157
+msgid "Postal:"
+msgstr "Postal:"
+
+#: includes/widgets/ct-widget-contactinfo.php:161
+msgid "Country:"
+msgstr "País:"
+
+#: includes/widgets/ct-widget-contactinfo.php:165
+msgid "Phone:"
+msgstr "Teléfono:"
+
+#: includes/widgets/ct-widget-search.php:13
+msgid "CT Search"
+msgstr "Búsqueda CT"
+
+#: includes/widgets/ct-widget-latestposts.php:13
+msgid "CT Latest Posts"
+msgstr "CT Últimas publicaciones"
+
+#: includes/widgets/ct-widget-latestposts.php:74
+#: includes/widgets/ct-widget-flickr.php:55
+#: includes/widgets/ct-widget-testimonials.php:66
+#: includes/widgets/ct-widget-agentsotherlistings.php:293
+#: includes/widgets/ct-widget-listings.php:135
+msgid "Number:"
+msgstr "Número:"
+
+#: includes/widgets/ct-widget-flickr.php:13
+msgid "CT Flickr"
+msgstr "CT Flickr"
+
+#: includes/widgets/ct-widget-flickr.php:26
+msgid "Photos on flickr"
+msgstr "Fotos en flickr"
+
+#: includes/widgets/ct-widget-flickr.php:51
+msgid "Flickr ID (<a href=\"http://www.idgettr.com\">idGettr</a>):"
+msgstr "Flickr ID (<a href=\"http://www.idgettr.com\">idGettr</a>):"
+
+#: includes/widgets/ct-widget-flickr.php:65
+msgid "User"
+msgstr "Usuario"
+
+#: includes/widgets/ct-widget-flickr.php:66
+msgid "Group"
+msgstr "Grupo"
+
+#: includes/widgets/ct-widget-flickr.php:70
+msgid "Sorting:"
+msgstr "Clasificación:"
+
+#: includes/widgets/ct-widget-flickr.php:72
+#: includes/widgets/ct-widget-tabs.php:110
+#: includes/widgets/ct-widget-tabs.php:117
+msgid "Latest"
+msgstr "Último"
+
+#: includes/widgets/ct-widget-flickr.php:73
+msgid "Random"
+msgstr "Aleatorio"
+
+#: includes/widgets/ct-widget-flickr.php:77
+msgid "Size:"
+msgstr "Tamaño:"
+
+#: includes/widgets/ct-widget-flickr.php:79
+msgid "Square"
+msgstr "Cuadrado"
+
+#: includes/widgets/ct-widget-flickr.php:80
+msgid "Medium"
+msgstr "Medio"
+
+#: includes/widgets/ct-widget-flickr.php:81
+msgid "Thumbnail"
+msgstr "Miniatura"
+
+#: includes/widgets/ct-widget-listingssearch.php:13
+msgid "CT Listings Search"
+msgstr "Búsqueda de CT Listings"
+
+#: includes/widgets/ct-widget-listingscontact.php:13
+msgid "CT Listing Agent Contact"
+msgstr "Contacto del agente de CT Listing"
+
+#: includes/widgets/ct-widget-listingscontact.php:72
+msgid "Subject:"
+msgstr "Tema:"
+
+#: includes/widgets/ct-widget-testimonials.php:13
+msgid "CT Testimonials"
+msgstr "Testimonios de CT"
+
+#: includes/widgets/ct-widget-tabs.php:13
+msgid "CT Tabs"
+msgstr "Pestañas de CT"
+
+#: includes/widgets/ct-widget-tabs.php:103
+msgid "Number of posts:"
+msgstr "Número de publicaciones:"
+
+#: includes/widgets/ct-widget-tabs.php:108
+msgid "First Visible Tab:"
+msgstr "Primera pestaña visible:"
+
+#: includes/widgets/ct-widget-tabs.php:111
+#: includes/widgets/ct-widget-tabs.php:120
+msgid "Comments"
+msgstr "Comentarios"
+
+#: includes/widgets/ct-widget-tabs.php:112
+#: includes/widgets/ct-widget-tabs.php:123
+msgid "Tags"
+msgstr "Etiquetas"
+
+#: includes/widgets/ct-widget-listingssocial.php:13
+msgid "CT Listings Social"
+msgstr "CT Listados Social"
+
+#: includes/widgets/ct-widget-listingssocial.php:49
+#: includes/widgets/ct-widget-adspace.php:61
+msgid "Title (optional):"
+msgstr "Título (opcional):"
+
+#: includes/widgets/ct-widget-blogauthor.php:13
+msgid "CT Blog Author Info"
+msgstr "Blog de CT Información del autor"
+
+#: includes/widgets/ct-widget-blogauthor.php:64
+msgid "Bio:"
+msgstr "Bio:"
+
+#: includes/widgets/ct-widget-blogauthor.php:68
+msgid "<a href=\"http://www.gravatar.com/\">Gravatar</a> E-mail:"
+msgstr "<a href=\"http://www.gravatar.com/\">Gravatar</a> E-mail:"
+
+#: includes/widgets/ct-widget-blogauthor.php:72
+msgid "Gravatar Size:"
+msgstr "Tamaño de Gravatar:"
+
+#: includes/widgets/ct-widget-blogauthor.php:76
+msgid "Gravatar Alignment:"
+msgstr "Alineación de Gravatar:"
+
+#: includes/widgets/ct-widget-blogauthor.php:78
+msgid "Left"
+msgstr "Izquierda"
+
+#: includes/widgets/ct-widget-blogauthor.php:79
+msgid "Right"
+msgstr "Derecha"
+
+#: includes/widgets/ct-widget-blogauthor.php:83
+msgid "Read More Text (optional):"
+msgstr "Leer más Texto (opcional):"
+
+#: includes/widgets/ct-widget-blogauthor.php:87
+msgid "Read More URL (optional):"
+msgstr "Leer más URL (opcional):"
+
+#: includes/widgets/ct-widget-blogauthor.php:91
+msgid "Visible Pages:"
+msgstr "Páginas visibles:"
+
+#: includes/widgets/ct-widget-blogauthor.php:93
+msgid "All"
+msgstr "Todas"
+
+#: includes/widgets/ct-widget-blogauthor.php:94
+msgid "Home only"
+msgstr "Solo en casa"
+
+#: includes/widgets/ct-widget-blogauthor.php:95
+msgid "Single only"
+msgstr "Solo individual"
+
+#: includes/widgets/ct-widget-adspace.php:13
+msgid "CT Adspace Widget"
+msgstr "CT Adspace Widget"
+
+#: includes/widgets/ct-widget-adspace.php:65
+msgid "Ad Code:"
+msgstr "Código de anuncio:"
+
+#: includes/widgets/ct-widget-adspace.php:70
+msgid "Image Url:"
+msgstr "URL de la imagen:"
+
+#: includes/widgets/ct-widget-adspace.php:74
+msgid "Link URL:"
+msgstr "URL del enlace:"
+
+#: includes/widgets/ct-widget-adspace.php:78
+msgid "Alt text:"
+msgstr "Texto alternativo:"
+
+#: includes/widgets/ct-widget-agentsotherlistings.php:13
+msgid "CT Agents Other Listings"
+msgstr "CT Agents Otros anuncios"
+
+#: includes/widgets/ct-widget-agentsotherlistings.php:301
+#: includes/widgets/ct-widget-listings.php:143
+msgid "Taxonomy:"
+msgstr "Taxonomía:"
+
+#: includes/widgets/ct-widget-agentsotherlistings.php:310
+#: includes/widgets/ct-widget-listings.php:152
+msgid "Tag:"
+msgstr "Etiqueta:"
+
+#: includes/widgets/ct-widget-brokerinfo.php:13
+msgid "CT Brokers Info"
+msgstr "Información de CT Brokers"
+
+#: includes/widgets/ct-widget-brokerinfo.php:54
+msgid "Email Office"
+msgstr "Oficina de correo electrónico"
+
+#: includes/widgets/ct-widget-brokerinfo.php:55
+msgid "Visit Brokers Website"
+msgstr "Visite el sitio web de Brokers"
+
+#: includes/widgets/ct-widget-brokerinfo.php:82
+msgid "Logo URL:"
+msgstr "URL del logotipo:"
+
+#: includes/widgets/ct-widget-brokerinfo.php:86
+msgid "Company:"
+msgstr "Empresa:"
+
+#: includes/widgets/ct-widget-brokerinfo.php:90
+msgid "Office Phone:"
+msgstr "Telefono de oficina:"
+
+#: includes/widgets/ct-widget-brokerinfo.php:94
+msgid "Office Email:"
+msgstr "Correo electrónico de la oficina:"
+
+#: includes/widgets/ct-widget-brokerinfo.php:98
+msgid "Website:"
+msgstr "Sitio web:"
+
+#: includes/widgets/ct-widget-listings.php:13
+msgid "CT Listings"
+msgstr "CT Listados"
+
+#: includes/widgets/ct-widget-listings.php:156
+msgid "View All Link Text"
+msgstr "Ver todo el texto del enlace"
+
+#: includes/widgets/ct-widget-listings.php:160
+msgid "View All Link URL"
+msgstr "Ver todos los enlaces URL"
+
+#. Name of the theme
+msgid "WP Pro Real Estate 7"
+msgstr "WP Pro Real Estate 7"
+
+#. Description of the theme
+msgid ""
+"A responsive real estate theme, designed by <a href=\"http://www."
+"contempographicdesign.com\">Contempo</a>."
+msgstr "Un tema inmobiliario receptivo, diseñado por Contempo."
+
+#. URI of the theme
+msgid "http://themeforest.net/user/contempoinc?ref=contempoinc"
+msgstr "http://themeforest.net/user/contempoinc?ref=contempoinc"
+
+#. Author of the theme
+msgid "Chris Robinson"
+msgstr "Chris Robinson"
+
+#. Author URI of the theme
+msgid "http://www.contempographicdesign.com"
+msgstr "http://www.contempographicdesign.com"

@@ -1,0 +1,9 @@
+0000.003 () Opened log file at time: Wed, 28 Oct 2020 08:03:24 +0000 on http://localhost/summitrealtygp
+0000.003 () UpdraftPlus WordPress backup plugin (https://updraftplus.com): 2.14.8.24 WP: 5.5.1 PHP: 7.3.19-1~deb10u1 (apache2handler, Linux debian 4.19.0-10-amd64 #1 SMP Debian 4.19.132-1 (2020-07-24) x86_64) MySQL: 8.0.21 WPLANG: en_US Server: Apache/2.4.38 (Debian) safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 17.2M | 4M) multisite: N openssl: OpenSSL 1.1.1d  10 Sep 2019 mcrypt: N LANG: C ZipArchive::addFile: Y
+0000.003 () Free space on disk containing Updraft's temporary directory: 4438.7 MB
+0000.006 () Restore job started. Entities to restore: plugins, themes, others, db. Restore options: {"updraft_restorer_replacesiteurl":"1","updraft_encryptionphrase":"","updraft_restorer_wpcore_includewpconfig":false,"updraft_incremental_restore_point":-1}
+0000.010 () PHP event: code E_WARNING: Declaration of Updraft_Restorer_Skin::feedback($string) should be compatible with WP_Upgrader_Skin::feedback($string, ...$args) (line 2576, wp-content/plugins/updraftpluscrack/restorer.php)
+0000.014 () Error message: Existing unremoved folders from a previous restore exist (please use the "Delete Old Directories" button to delete them before trying again): /home/tom/xampp/summitrealtygp/wp-content/plugins-old
+0000.016 () Restore failed...
+0000.016 () Error message: Existing unremoved folders from a previous restore exist (please use the "Delete Old Directories" button to delete them before trying again): /home/tom/xampp/summitrealtygp/wp-content/plugins-old
+0000.016 () Restore failed

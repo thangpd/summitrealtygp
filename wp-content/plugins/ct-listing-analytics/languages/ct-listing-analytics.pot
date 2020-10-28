@@ -1,0 +1,153 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Contempo Listing Analytics\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-01-16 16:50+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.0; wp-5.2.1"
+
+#: ct-listing-analytics.php:183
+msgid "Document Downloads Today"
+msgstr ""
+
+#: ct-listing-analytics.php:184 ct-listing-analytics.php:247
+msgid "from yesterday"
+msgstr ""
+
+#: ct-listing-analytics.php:246
+msgid "Listing Views Today"
+msgstr ""
+
+#: ct-listing-analytics.php:330
+msgid "Clear Cache"
+msgstr ""
+
+#: classes/class.Chart.php:185
+msgid "Traffic Overview"
+msgstr ""
+
+#: classes/class.Chart.php:205 classes/class.ListingDownloads.php:687
+#: classes/class.Listings.php:660
+msgid "Download CSV"
+msgstr ""
+
+#: classes/class.ListingDownloads.php:485
+msgid "Document"
+msgstr ""
+
+#: classes/class.ListingDownloads.php:489 classes/class.Listings.php:464
+msgid "Role (ID)"
+msgstr ""
+
+#: classes/class.ListingDownloads.php:490 classes/class.Listings.php:465
+msgid "First Name"
+msgstr ""
+
+#: classes/class.ListingDownloads.php:491 classes/class.Listings.php:466
+msgid "Last Name"
+msgstr ""
+
+#: classes/class.ListingDownloads.php:492 classes/class.Listings.php:467
+msgid "Email"
+msgstr ""
+
+#: classes/class.ListingDownloads.php:493 classes/class.Listings.php:468
+msgid "Phone"
+msgstr ""
+
+#: classes/class.ListingDownloads.php:658
+#: classes/class.ListingDownloads.php:778
+#: classes/class.ListingDownloads.php:873
+msgid "Download"
+msgstr ""
+
+#: classes/class.ListingDownloads.php:658
+msgid "Downloads"
+msgstr ""
+
+#: classes/class.ListingDownloads.php:668
+msgid "Listing:"
+msgstr ""
+
+#: classes/class.ListingDownloads.php:743
+msgid "Top Downloads"
+msgstr ""
+
+#: classes/class.ListingDownloads.php:755 classes/class.Listings.php:728
+msgid "Today"
+msgstr ""
+
+#: classes/class.ListingDownloads.php:756 classes/class.Listings.php:729
+msgid "Yesterday"
+msgstr ""
+
+#: classes/class.ListingDownloads.php:822
+#: classes/class.ListingDownloads.php:918 classes/class.Listings.php:794
+#: classes/class.Listings.php:885
+msgid "No analytics data yet, check back soon"
+msgstr ""
+
+#: classes/class.ListingDownloads.php:832
+#: classes/class.ListingDownloads.php:927
+msgid "Total Downloads"
+msgstr ""
+
+#: classes/class.ListingDownloads.php:847
+#: classes/class.ListingDownloads.php:941 classes/class.Listings.php:816
+#: classes/class.Listings.php:907
+msgid "Previous"
+msgstr ""
+
+#: classes/class.ListingDownloads.php:850
+#: classes/class.ListingDownloads.php:944 classes/class.Listings.php:819
+#: classes/class.Listings.php:910
+msgid "Next"
+msgstr ""
+
+#: classes/class.Listings.php:460 classes/class.Listings.php:751
+#: classes/class.Listings.php:842
+msgid "Listing"
+msgstr ""
+
+#: classes/class.Listings.php:605
+msgid "View"
+msgstr ""
+
+#: classes/class.Listings.php:605
+msgid "Views"
+msgstr ""
+
+#: classes/class.Listings.php:717
+msgid "Top Listings"
+msgstr ""
+
+#: classes/class.Listings.php:802 classes/class.Listings.php:893
+msgid "Total Views"
+msgstr ""
+
+#. Name of the plugin
+msgid "Contempo Listing Analytics"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"This plugin allows for tracking of listing views and number of times "
+"documents are downloaded per listing."
+msgstr ""
+
+#. Author of the plugin
+msgid "Contempo"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://contempographicdesign.com"
+msgstr ""

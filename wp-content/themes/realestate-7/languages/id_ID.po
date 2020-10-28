@@ -1,0 +1,4513 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-01-04 21:36+0000\n"
+"PO-Revision-Date: 2020-01-04 21:36+0000\n"
+"Last-Translator: \n"
+"Language-Team: Indonesian\n"
+"Language: id_ID\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: comments.php:44
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: includes/featured-listings.php:67 includes/featured-listings.php:76
+#: includes/home-listings-carousel.php:44
+#: includes/home-listings-carousel.php:53 includes/single-listing-home.php:28
+msgid "featured"
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:5151
+msgid "Custom CSS"
+msgstr "Kustom CSS"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:5166
+msgid "Custom JS"
+msgstr "Custom JS"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:5247
+msgid "Import/Export"
+msgstr "Impor/Ekspor"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:5284
+msgid "Changelog"
+msgstr "Changelog"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:5400
+msgid "Section via hook"
+msgstr "Bagian melalui hook"
+
+#. Name of the theme
+msgid "WP Pro Real Estate 7"
+msgstr "WP Real Estate Pro 7"
+
+#. URI of the theme
+msgid "http://themeforest.net/user/contempoinc?ref=contempoinc"
+msgstr "http://themeforest.net/user/contempoinc?ref=contempoinc"
+
+#. Author of the theme
+msgid "Chris Robinson"
+msgstr "Chris Robinson"
+
+#. Author URI of the theme
+msgid "http://www.contempographicdesign.com"
+msgstr "http://www.contempographicdesign.com"
+
+#: 404.php:15
+msgid "Page Not Found"
+msgstr "Halaman Tidak Ditemukan"
+
+#: 404.php:16
+msgid "Woah there! Looks like you've gotten lost."
+msgstr "Woah ada! Sepertinya anda\\'ve tersesat."
+
+#: 404.php:17
+msgid "Go back to the homepage"
+msgstr "Kembali ke homepage"
+
+#: archive-brokerage.php:38
+#: admin/ReduxFramework/theme-options/re7-config.php:2711
+msgid "Brokerages"
+msgstr "Broker"
+
+#: archive-brokerage.php:52 template-brokerages.php:52
+msgid "Type a brokerage name or address here to filter the list."
+msgstr "Jenis broker nama atau alamat berikut untuk menyaring daftar."
+
+#: archive-brokerage.php:108 author.php:71 single-brokerage.php:78
+#: single-brokerage.php:284 template-agents.php:241 template-brokerages.php:122
+#: template-favorite-listings.php:111
+msgid "Tell me more about a property"
+msgstr "Ceritakan lebih banyak tentang properti"
+
+#: archive-brokerage.php:109 author.php:72 single-brokerage.php:79
+#: single-brokerage.php:285 template-agents.php:242 template-brokerages.php:123
+#: template-favorite-listings.php:112 includes/agent-contact-modal.php:22
+#: includes/single-listing-contact.php:217 includes/single-listing-home.php:270
+#: includes/widgets/ct-widget-listingscontact.php:31
+msgid "Request a showing"
+msgstr "Meminta menunjukkan"
+
+#: archive-brokerage.php:110 author.php:73 single-brokerage.php:80
+#: single-brokerage.php:286 template-agents.php:243 template-brokerages.php:124
+#: template-favorite-listings.php:113
+msgid "General Questions"
+msgstr "Pertanyaan Umum"
+
+#: archive-brokerage.php:113 author.php:76 single-brokerage.php:83
+#: single-brokerage.php:289 template-agents.php:246 template-brokerages.php:127
+#: template-edit-profile.php:129 template-favorite-listings.php:116
+#: includes/agent-contact-modal.php:25 includes/agent-contact-modal.php:25
+#: includes/agent-contact-modal.php:25 includes/single-listing-contact.php:223
+#: includes/single-listing-home.php:273
+#: includes/single-listing-multi-floorplan.php:27
+#: includes/widgets/ct-widget-listingscontact.php:34
+#: includes/widgets/ct-widget-listingscontact.php:34
+#: includes/widgets/ct-widget-listingscontact.php:34
+msgid "Name"
+msgstr "Nama"
+
+#: archive-brokerage.php:115 archive-brokerage.php:177 author.php:78
+#: author.php:124 author.php:283 single-brokerage.php:85
+#: single-brokerage.php:135 single-brokerage.php:291 single-brokerage.php:354
+#: template-agents.php:248 template-brokerages.php:129
+#: template-brokerages.php:189 template-favorite-listings.php:118
+#: admin/theme-functions.php:3732 includes/agent-contact-modal.php:27
+#: includes/agent-contact-modal.php:27 includes/agent-contact-modal.php:27
+#: includes/single-listing-contact.php:89
+#: includes/single-listing-contact.php:171
+#: includes/single-listing-contact.php:227
+#: includes/single-listing-contact.php:297 includes/single-listing-home.php:253
+#: includes/single-listing-home.php:275 includes/single-listing-home.php:336
+#: includes/widgets/ct-widget-agentinfo.php:78
+#: includes/widgets/ct-widget-listingscontact.php:36
+#: includes/widgets/ct-widget-listingscontact.php:36
+#: includes/widgets/ct-widget-listingscontact.php:36
+msgid "Email"
+msgstr "Email"
+
+#: archive-brokerage.php:117 author.php:80 single-brokerage.php:87
+#: single-brokerage.php:293 template-agents.php:250 template-brokerages.php:131
+#: template-contact.php:72 template-favorite-listings.php:120
+#: includes/agent-contact-modal.php:29 includes/agent-contact-modal.php:29
+#: includes/agent-contact-modal.php:29 includes/single-listing-contact.php:231
+#: includes/single-listing-home.php:277
+#: includes/widgets/ct-widget-listingscontact.php:38
+#: includes/widgets/ct-widget-listingscontact.php:38
+#: includes/widgets/ct-widget-listingscontact.php:38
+msgid "Phone"
+msgstr "Telepon"
+
+#: archive-brokerage.php:125 author.php:88 single-brokerage.php:95
+#: single-brokerage.php:301 template-agents.php:258 template-brokerages.php:137
+#: template-contact.php:83 template-contact.php:83
+#: template-favorite-listings.php:127 template-submit-listing.php:817
+#: includes/agent-contact-modal.php:38 includes/single-listing-contact.php:242
+#: includes/single-listing-home.php:285
+#: includes/widgets/ct-widget-listingscontact.php:47
+msgid "Submit"
+msgstr "Kirim"
+
+#: archive-brokerage.php:208 template-brokerages.php:220
+#: template-view-listings.php:211 includes/featured-listings.php:118
+#: includes/single-listing-multi-floorplan.php:122 layouts/grid.php:76
+msgid "View"
+msgstr "Lihat"
+
+#: archive-brokerage.php:218 template-brokerages.php:230
+msgid "No Brokerages Found."
+msgstr "Tidak Ada Broker Ditemukan."
+
+#: archive.php:77
+msgid "No posts were found which match your search criteria"
+msgstr ""
+"Tidak ada tulisan yang ditemukan yang sesuai dengan kriteria pencarian anda"
+
+#: archive.php:77 layouts/grid.php:26 layouts/list.php:27
+msgid "Try broadening your search to find more results."
+msgstr "Mencoba memperluas pencarian anda untuk menemukan hasil yang lebih."
+
+#: author.php:33 admin/profile-fields.php:81 admin/theme-functions.php:1926
+#: admin/theme-functions.php:3758 layouts/list.php:149
+msgid "Agent"
+msgstr "Agen"
+
+#: author.php:145 template-edit-listing.php:826 template-submit-listing.php:707
+#: admin/profile-fields.php:211
+msgid "Address"
+msgstr "Alamat"
+
+#: author.php:153
+msgid "Social"
+msgstr "Sosial"
+
+#: author.php:194 author.php:341
+msgid "Type a listing address or keyword to filter the list."
+msgstr "Jenis daftar alamat atau kata kunci untuk menyaring daftar."
+
+#: comments.php:13
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+"Posting ini dilindungi kata sandi. Masukkan kata sandi anda untuk melihat "
+"komentar."
+
+#: comments.php:31
+msgid "No Responses"
+msgstr "No Responses"
+
+#: comments.php:31
+msgid "1 Comment"
+msgstr "1 Komentar"
+
+#: comments.php:31
+msgid "% Comments"
+msgstr "% Komentar"
+
+#: comments.php:45
+msgid "Newer Comments &rarr;"
+msgstr "Baru Komentar "
+
+#: comments.php:53
+msgid "Comments are closed, but"
+msgstr "Komentar ditutup, tapi"
+
+#: comments.php:53
+msgid "Trackback URL for this post"
+msgstr "Trackback URL for this post"
+
+#: comments.php:53
+msgid "trackbacks"
+msgstr "trackback"
+
+#: comments.php:53
+msgid "and pingbacks are open."
+msgstr "dan pingbacks terbuka."
+
+#: comments.php:59
+msgid "Reviews are closed."
+msgstr "Ulasan ditutup."
+
+#: comments.php:61
+msgid "Comments are closed."
+msgstr "Komentar ditutup."
+
+#: footer.php:67
+msgid "All Rights Reserved."
+msgstr "Semua Hak Dilindungi Undang-Undang."
+
+#: functions.php:55
+msgid "Getting Started"
+msgstr "Memulai"
+
+#: header.php:185 header.php:491
+msgid "Hi, "
+msgstr "Hi, "
+
+#: header.php:204 header.php:510 includes/user-sidebar.php:37
+msgid "Dashboard"
+msgstr "Dashboard"
+
+#: header.php:208 header.php:514 includes/user-sidebar.php:41
+msgid "Favorite Listings"
+msgstr "Daftar Favorit"
+
+#: header.php:211 header.php:517
+msgid "Saved Searches"
+msgstr "Pencarian Yang Disimpan"
+
+#: header.php:216 header.php:522 header.php:552 includes/user-sidebar.php:49
+msgid "Submit Listing"
+msgstr "Dikirim Daftar"
+
+#: header.php:219 header.php:525 template-user-dashboard.php:103
+#: includes/user-sidebar.php:52
+msgid "My Listings"
+msgstr "Saya Daftar"
+
+#. Name of the template
+#: header.php:222 header.php:528 template-user-dashboard.php:83
+#: includes/user-sidebar.php:55
+msgid "Membership"
+msgstr "Keanggotaan"
+
+#. Name of the template
+#: header.php:225 header.php:531 includes/user-sidebar.php:58
+msgid "Invoices"
+msgstr "Faktur"
+
+#. Name of the template
+#: header.php:228 header.php:534 includes/user-sidebar.php:61
+#: admin/ReduxFramework/theme-options/re7-config.php:3638
+msgid "Listing Analytics"
+msgstr "Daftar Analytics"
+
+#: header.php:233 header.php:539 includes/user-sidebar.php:65
+msgid "Account Settings"
+msgstr "Pengaturan Akun"
+
+#: header.php:236 header.php:542 includes/user-sidebar.php:68
+msgid "Logout"
+msgstr "Logout"
+
+#: header.php:240 header.php:550
+msgid "Login / Register"
+msgstr "Login / Mendaftar"
+
+#: header.php:240 header.php:550 admin/theme-functions.php:3657
+msgid "Login"
+msgstr "Login"
+
+#: header.php:781
+msgid "Add \"CT Compare\" Widget via Appearance > Widgets > Compare."
+msgstr ""
+"Tambahkan \"CT Membandingkan\" Widget melalui Appearance > Widgets > "
+"Membandingkan."
+
+#: page.php:59 single.php:127 template-dsidxpress.php:41
+#: template-edit-listing.php:951 template-submit-listing.php:828
+msgid "Pages:"
+msgstr "Halaman:"
+
+#: search-listings.php:148 search-listings.php:245
+msgid "listings found"
+msgstr "ditemukan listing"
+
+#: search-listings.php:148 search-listings.php:245
+msgid "listing found"
+msgstr "ditemukan listing"
+
+#: search-listings.php:152 search-listings.php:249
+msgid "Find A Home"
+msgstr "Cari Rumah"
+
+#: search-listings.php:164 search-listings.php:260 search-listings.php:287
+msgid "Searching:"
+msgstr "Mencari:"
+
+#: search-listings.php:168 search-listings.php:264 search-listings.php:291
+msgid "All listings"
+msgstr "Semua listing"
+
+#: search-listings.php:170 admin/theme-functions.php:1164
+msgid "Open Search"
+msgstr "Pencarian Terbuka"
+
+#: search-listings.php:267 search-listings.php:293
+#: admin/theme-functions.php:1161
+msgid "Close Map"
+msgstr "Dekat Peta"
+
+#: search-listings.php:327 search-listings.php:331
+msgid "Save This Search?"
+msgstr "Simpan Pencarian Ini?"
+
+#: search-listings.php:329
+msgid "View Saved"
+msgstr "Lihat Diselamatkan"
+
+#: single-brokerage.php:39 admin/profile-fields.php:180
+msgid "Brokerage"
+msgstr "Broker"
+
+#: single-brokerage.php:162 single-listings.php:38
+#: admin/ReduxFramework/theme-options/re7-config.php:2982
+msgid "Listings"
+msgstr "Daftar"
+
+#: single-brokerage.php:163
+#: admin/ReduxFramework/theme-options/re7-config.php:2601
+msgid "Agents"
+msgstr "Agen"
+
+#: single-brokerage.php:164
+msgid "Map"
+msgstr "Peta"
+
+#: single-brokerage.php:166 includes/single-listing-sub-navigation.php:149
+msgid "Reviews"
+msgstr "Ulasan"
+
+#: single-brokerage.php:228
+msgid "Type an agents name or title here to filter the list."
+msgstr "Ketik agen, nama, atau judul di sini untuk menyaring daftar."
+
+#: single-brokerage.php:372
+msgid "View Listings"
+msgstr "Lihat Listing"
+
+#: single-brokerage.php:383
+msgid "This brokerage currently has no active agents."
+msgstr "Ini broker saat ini tidak memiliki agen aktif."
+
+#: single-brokerage.php:383 layouts/grid.php:22 layouts/grid.php:24
+#: layouts/list.php:23 layouts/list.php:25
+msgid "Check back soon."
+msgstr "Periksa kembali segera."
+
+#: single-brokerage.php:405 includes/single-listing-reviews.php:19
+msgid "No Reviews"
+msgstr "Tidak Ada Ulasan"
+
+#: single-brokerage.php:405 includes/single-listing-reviews.php:19
+msgid "1 Review"
+msgstr "1 Review"
+
+#: single-brokerage.php:405 includes/single-listing-reviews.php:19
+msgid "% Reviews"
+msgstr "% Ulasan"
+
+#: single-listings.php:44 admin/theme-functions.php:6448
+#: admin/theme-functions.php:7389
+msgid "Home"
+msgstr "Rumah"
+
+#: single-listings.php:71 single-listings.php:77 single-listings.php:83
+#: single-listings.php:104 single-listings.php:105 single-listings.php:106
+#: includes/single-listing-home.php:367 includes/single-listing-home.php:368
+#: includes/single-listing-home.php:369
+#: includes/widgets/ct-widget-listingssocial.php:29
+#: includes/widgets/ct-widget-listingssocial.php:30
+#: includes/widgets/ct-widget-listingssocial.php:31
+msgid "Check out this great listing on"
+msgstr "Memeriksa ini besar daftar di"
+
+#: single-listings.php:108 admin/theme-functions.php:1165
+#: includes/agent-contact-modal.php:16
+msgid "Close"
+msgstr "Dekat"
+
+#: single-listings.php:186 template-edit-listing.php:394
+#: template-edit-profile.php:57 template-listing-analytics.php:62
+#: template-listing-email-alerts.php:69 template-membership.php:60
+#: template-submit-listing.php:351 template-user-dashboard.php:59
+#: template-view-invoices.php:60 template-view-listings.php:62
+msgid "You must be logged in to view this page."
+msgstr "Anda harus login untuk melihat halaman ini."
+
+#: single.php:79 includes/post-author-info.php:15 layouts/blog-grid.php:54
+#: layouts/blog-large.php:54
+msgid "By"
+msgstr "Oleh"
+
+#: single.php:79 layouts/blog-grid.php:54 layouts/blog-large.php:54
+msgid "in"
+msgstr "di"
+
+#: single.php:79 layouts/blog-grid.php:54 layouts/blog-large.php:54
+msgid "with"
+msgstr "dengan"
+
+#. Name of the template
+#: admin/ReduxFramework/theme-options/re7-config.php:2789
+msgid "Advanced Search"
+msgstr "Pencarian Lanjutan"
+
+#: template-advanced-search.php:62 template-edit-listing.php:419
+#: template-submit-listing.php:414 admin/theme-functions.php:4883
+#: includes/advanced-search.php:35 includes/header-advanced-search.php:60
+#: includes/header-advanced-search.php:330
+#: admin/plugins/class-tgm-plugin-activation.php:2634
+#: includes/widgets/ct-widget-listingssearch.php:46
+msgid "Type"
+msgstr "Jenis"
+
+#: template-advanced-search.php:67 template-edit-listing.php:832
+#: template-submit-listing.php:713 admin/profile-fields.php:217
+#: includes/advanced-search.php:44 includes/header-advanced-search.php:69
+#: includes/header-advanced-search.php:340
+#: includes/widgets/ct-widget-listingssearch.php:55
+msgid "City"
+msgstr "Kota"
+
+#: template-advanced-search.php:77 template-edit-listing.php:842
+#: template-submit-listing.php:723 admin/theme-functions.php:5507
+#: admin/theme-functions.php:5526 includes/advanced-search.php:58
+#: includes/widgets/ct-widget-listingssearch.php:69
+msgid "Area"
+msgstr "Daerah"
+
+#: template-advanced-search.php:79 template-edit-listing.php:844
+#: template-submit-listing.php:725 admin/theme-functions.php:5562
+#: includes/advanced-search.php:60
+#: includes/widgets/ct-widget-listingssearch.php:71
+msgid "Suburb"
+msgstr "Pinggiran"
+
+#: template-advanced-search.php:81 template-edit-listing.php:852
+#: template-submit-listing.php:733 includes/advanced-search.php:62
+#: includes/widgets/ct-widget-listingssearch.php:73
+msgid "State"
+msgstr "Negara"
+
+#: template-advanced-search.php:92 admin/theme-functions.php:5543
+#: includes/advanced-search.php:77
+#: includes/widgets/ct-widget-listingssearch.php:88
+msgid "Postcode"
+msgstr "Kode pos"
+
+#: template-advanced-search.php:94 admin/theme-functions.php:5545
+#: includes/advanced-search.php:79
+#: includes/widgets/ct-widget-listingssearch.php:90
+msgid "Zipcode"
+msgstr "Kode pos"
+
+#: template-advanced-search.php:100 template-edit-listing.php:868
+#: template-submit-listing.php:749 includes/advanced-search.php:89
+#: includes/header-advanced-search.php:99
+#: includes/header-advanced-search.php:368
+#: includes/widgets/ct-widget-listingssearch.php:100
+msgid "Country"
+msgstr "Negara"
+
+#: template-advanced-search.php:105 template-edit-listing.php:678
+#: template-submit-listing.php:558 admin/theme-functions.php:4662
+#: admin/theme-functions.php:5773 includes/advanced-search.php:116
+#: includes/header-advanced-search.php:127
+#: includes/header-advanced-search.php:378
+#: includes/single-listing-multi-floorplan.php:33 layouts/list.php:88
+#: includes/widgets/ct-widget-listingssearch.php:127
+msgid "Beds"
+msgstr "Tempat tidur"
+
+#: template-advanced-search.php:110 template-edit-listing.php:683
+#: template-submit-listing.php:563 admin/theme-functions.php:4682
+#: admin/theme-functions.php:5779 includes/advanced-search.php:125
+#: includes/header-advanced-search.php:136
+#: includes/header-advanced-search.php:388
+#: includes/single-listing-multi-floorplan.php:36 includes/sub-listings.php:103
+#: layouts/list.php:108 includes/widgets/ct-widget-agentsotherlistings.php:139
+#: includes/widgets/ct-widget-listingssearch.php:136
+msgid "Baths"
+msgstr "Mandi"
+
+#: template-advanced-search.php:115 template-edit-listing.php:434
+#: template-submit-listing.php:419 template-view-invoices.php:95
+#: includes/advanced-search.php:134 includes/header-advanced-search.php:145
+#: includes/header-advanced-search.php:398
+#: admin/plugins/class-tgm-plugin-activation.php:2639
+#: includes/widgets/ct-widget-listingssearch.php:145
+msgid "Status"
+msgstr "Status"
+
+#: template-advanced-search.php:125 admin/theme-functions.php:5560
+#: includes/advanced-search.php:157 includes/header-advanced-search.php:159
+#: includes/header-advanced-search.php:422
+#: includes/widgets/ct-widget-listingssearch.php:168
+msgid "Neighborhood"
+msgstr "Lingkungan"
+
+#: template-advanced-search.php:127 admin/theme-functions.php:5564
+#: includes/advanced-search.php:159 includes/header-advanced-search.php:161
+#: includes/header-advanced-search.php:424
+#: includes/widgets/ct-widget-listingssearch.php:170
+msgid "District"
+msgstr "Kabupaten"
+
+#: template-advanced-search.php:129 admin/theme-functions.php:5574
+#: includes/advanced-search.php:107 includes/advanced-search.php:161
+#: includes/header-advanced-search.php:118
+#: includes/header-advanced-search.php:163
+#: includes/header-advanced-search.php:426
+#: includes/widgets/ct-widget-listingssearch.php:118
+#: includes/widgets/ct-widget-listingssearch.php:172
+msgid "Community"
+msgstr "Masyarakat"
+
+#: template-advanced-search.php:135 template-advanced-search.php:136
+#: includes/advanced-search.php:171 includes/advanced-search.php:172
+#: includes/header-advanced-search.php:173
+#: includes/header-advanced-search.php:174
+#: includes/header-advanced-search.php:436
+#: includes/header-advanced-search.php:437
+#: includes/widgets/ct-widget-listingssearch.php:182
+#: includes/widgets/ct-widget-listingssearch.php:183
+msgid "Price From"
+msgstr "Harga Dari"
+
+#: template-advanced-search.php:140 template-advanced-search.php:141
+#: includes/advanced-search.php:180 includes/advanced-search.php:181
+#: includes/header-advanced-search.php:182
+#: includes/header-advanced-search.php:183
+#: includes/header-advanced-search.php:445
+#: includes/header-advanced-search.php:446
+#: includes/widgets/ct-widget-listingssearch.php:191
+#: includes/widgets/ct-widget-listingssearch.php:192
+msgid "Price To"
+msgstr "Harga Untuk"
+
+#: template-advanced-search.php:145 template-advanced-search.php:146
+#: includes/advanced-search.php:190 includes/header-advanced-search.php:192
+#: includes/header-advanced-search.php:455
+#: includes/widgets/ct-widget-listingssearch.php:201
+msgid "Size From"
+msgstr "Ukuran Dari"
+
+#: template-advanced-search.php:150 template-advanced-search.php:151
+#: includes/advanced-search.php:199 includes/header-advanced-search.php:201
+#: includes/header-advanced-search.php:464
+#: includes/widgets/ct-widget-listingssearch.php:210
+msgid "Size To"
+msgstr "Ukuran"
+
+#: template-advanced-search.php:155 template-advanced-search.php:156
+#: includes/advanced-search.php:207 includes/advanced-search.php:208
+#: includes/header-advanced-search.php:209
+#: includes/header-advanced-search.php:210
+#: includes/header-advanced-search.php:472
+#: includes/header-advanced-search.php:473
+#: includes/widgets/ct-widget-listingssearch.php:218
+#: includes/widgets/ct-widget-listingssearch.php:219
+msgid "Lot Size From"
+msgstr "Banyak Ukuran Dari"
+
+#: template-advanced-search.php:160 template-advanced-search.php:161
+#: includes/advanced-search.php:216 includes/advanced-search.php:217
+#: includes/header-advanced-search.php:218
+#: includes/header-advanced-search.php:219
+#: includes/header-advanced-search.php:481
+#: includes/header-advanced-search.php:482
+#: includes/widgets/ct-widget-listingssearch.php:227
+#: includes/widgets/ct-widget-listingssearch.php:228
+msgid "Lot Size To"
+msgstr "Ukuran Lot Untuk"
+
+#: template-advanced-search.php:165 template-advanced-search.php:166
+#: template-edit-listing.php:708 template-submit-listing.php:588
+#: includes/advanced-search.php:225 includes/advanced-search.php:226
+#: includes/header-advanced-search.php:227
+#: includes/header-advanced-search.php:228
+#: includes/header-advanced-search.php:490
+#: includes/header-advanced-search.php:491
+#: includes/single-listing-propinfo.php:17
+#: includes/widgets/ct-widget-listingssearch.php:236
+#: includes/widgets/ct-widget-listingssearch.php:237
+msgid "Property ID"
+msgstr "Properti ID"
+
+#: template-advanced-search.php:175 template-advanced-search.php:176
+#: includes/advanced-search.php:234 includes/advanced-search.php:235
+#: includes/header-advanced-search.php:236
+#: includes/header-advanced-search.php:237
+#: includes/header-advanced-search.php:499
+#: includes/header-advanced-search.php:500
+#: includes/widgets/ct-widget-listingssearch.php:245
+#: includes/widgets/ct-widget-listingssearch.php:246
+msgid "Number of Guests"
+msgstr "Jumlah Tamu"
+
+#: template-advanced-search.php:181 includes/advanced-search.php:143
+#: includes/widgets/ct-widget-listingssearch.php:154
+msgid "Additional Features"
+msgstr "Fitur Tambahan"
+
+#: template-advanced-search.php:187 includes/advanced-search.php:257
+#: includes/header-advanced-search.php:274
+#: includes/header-advanced-search.php:308
+#: includes/home-hero-advanced-search.php:38
+#: includes/widgets/ct-widget-listingssearch.php:266
+msgid "Search"
+msgstr "Pencarian"
+
+#: template-agents.php:122 template-agents.php:147
+msgid ""
+"Type an agents name, title, business, phone or lic # here to filter the list."
+msgstr ""
+
+#: template-agents.php:359
+msgid "View Profile"
+msgstr "Lihat Profil"
+
+#: template-agents.php:393
+msgid "No Agents Found."
+msgstr "Tidak Ada Agen Yang Ditemukan."
+
+#. Name of the template
+msgid "Big Map"
+msgstr "Besar Peta"
+
+#. Name of the template
+#: admin/theme-functions.php:4437
+msgid "Compare"
+msgstr "Bandingkan"
+
+#. Name of the template
+msgid "Contact No Form"
+msgstr "No Kontak Form"
+
+#: includes/single-listing-sub-navigation.php:169
+#: admin/ReduxFramework/theme-options/re7-config.php:5026
+msgid "Contact"
+msgstr "Hubungi"
+
+#: template-contact.php:64
+msgid "Name*"
+msgstr "Nama*"
+
+#: template-contact.php:68
+msgid "Email*"
+msgstr "Email*"
+
+#: template-contact.php:75
+msgid "Subject*"
+msgstr "Subjek*"
+
+#: template-contact.php:77
+msgid "Message"
+msgstr "Pesan"
+
+#. Name of the template
+msgid "Demo Home Listings Slider"
+msgstr "Demo Listing Rumah Slider"
+
+#. Name of the template
+msgid "Demo Home Map"
+msgstr "Demo Peta Rumah"
+
+#. Name of the template
+msgid "Demo Home Video"
+msgstr "Demo Video Rumah"
+
+#. Name of the template
+msgid "dsIDXpress"
+msgstr "dsIDXpress"
+
+#. Name of the template
+msgid "Edit Listing"
+msgstr "Mengedit Daftar"
+
+#: template-edit-listing.php:407 template-submit-listing.php:402
+msgid "Street Address"
+msgstr "Alamat Jalan"
+
+#: template-edit-listing.php:412 template-submit-listing.php:407
+msgid "Alternate Title"
+msgstr "Judul Alternatif"
+
+#: template-edit-listing.php:413 template-submit-listing.php:408
+msgid "(e.g. Downtown Penthouse)"
+msgstr "(misalnya pusat Kota Penthouse)"
+
+#: template-edit-listing.php:425 template-edit-listing.php:440
+#: admin/theme-functions.php:5935 admin/theme-functions.php:5963
+msgid "Any"
+msgstr "Setiap"
+
+#: template-edit-listing.php:449 template-submit-listing.php:424
+#: template-view-listings.php:179 admin/theme-functions.php:5353
+#: includes/home-listings-count.php:188
+msgid "Featured"
+msgstr "Unggulan"
+
+#: template-edit-listing.php:463 template-submit-listing.php:434
+#: includes/single-listing-multi-floorplan.php:43
+msgid "Price"
+msgstr "Harga"
+
+#: template-edit-listing.php:468 template-submit-listing.php:439
+msgid "Price Prefix"
+msgstr "Harga Awalan"
+
+#: template-edit-listing.php:469 template-submit-listing.php:440
+msgid " (e.g. From, Call for price)"
+msgstr " (misalnya Dari, Call for price)"
+
+#: template-edit-listing.php:473 template-submit-listing.php:444
+msgid "Price Postfix Text"
+msgstr "Harga Postfix Teks"
+
+#: template-edit-listing.php:474 template-submit-listing.php:445
+msgid " (e.g. /month, /week)"
+msgstr " (misalnya /bulan /minggu)"
+
+#: template-edit-listing.php:479 template-submit-listing.php:450
+msgid "Listing Description"
+msgstr "Deskripsi Daftar"
+
+#: template-edit-listing.php:496 template-submit-listing.php:464
+msgid "Listing Featured Image"
+msgstr "Gambar Fitur Daftar"
+
+#: template-edit-listing.php:505 template-submit-listing.php:476
+#: admin/ReduxFramework/theme-options/re7-config.php:3233
+msgid "Listing Images"
+msgstr "Daftar Gambar"
+
+#: template-edit-listing.php:582 template-submit-listing.php:486
+msgid "Drag & Drop Images Here"
+msgstr "Drag "
+
+#: template-edit-listing.php:585 template-submit-listing.php:489
+msgid "or"
+msgstr "atau"
+
+#: template-edit-listing.php:588 template-submit-listing.php:492
+msgid "Select Images"
+msgstr "Pilih Gambar"
+
+#: template-edit-listing.php:592
+msgid ""
+"*At least one image is required for valid submission, minimum width of 817px."
+msgstr ""
+"*Setidaknya satu gambar yang diperlukan untuk berlaku pengajuan, lebar "
+"minimum 817px."
+
+#: template-edit-listing.php:593 template-submit-listing.php:497
+msgid ""
+"*You can mark an image as featured by clicking the star icon, Otherwise "
+"first image will be considered featured image."
+msgstr ""
+"*Anda dapat menandai gambar yang ditampilkan dengan mengklik ikon bintang, "
+"Jika gambar pertama akan dianggap gambar yang ditampilkan."
+
+#: template-edit-listing.php:605 template-submit-listing.php:507
+msgid "Files & Documents"
+msgstr "File "
+
+#: template-edit-listing.php:629 template-submit-listing.php:519
+msgid "*Supported file types are PDF, Word, Excel & PowerPoint."
+msgstr "*Jenis file yang didukung adalah PDF, Word, Excel "
+
+#: template-edit-listing.php:693 template-submit-listing.php:573
+#: admin/theme-functions.php:4830 includes/sub-listings.php:195
+#: includes/widgets/ct-widget-agentsotherlistings.php:231
+msgid "Lot Size"
+msgstr "Ukuran Lot"
+
+#: template-edit-listing.php:698 template-submit-listing.php:578
+#: admin/theme-functions.php:4701
+msgid "Pets"
+msgstr "Hewan peliharaan"
+
+#: template-edit-listing.php:703 template-submit-listing.php:583
+#: admin/theme-functions.php:4716
+msgid "Parking"
+msgstr "Parkir"
+
+#: template-edit-listing.php:713 template-submit-listing.php:593
+msgid "Video URL"
+msgstr "URL Video"
+
+#: template-edit-listing.php:720
+msgid "Vitrual Tour URL"
+msgstr "Vitrual Tour URL"
+
+#: template-edit-listing.php:728 template-submit-listing.php:608
+#: admin/theme-functions.php:5148 includes/single-listing-open-house.php:26
+#: includes/single-listing-sub-navigation.php:51
+msgid "Open House"
+msgstr "Open House"
+
+#: template-edit-listing.php:731 template-submit-listing.php:611
+#: includes/single-listing-open-house.php:32
+msgid "Date"
+msgstr "Tanggal"
+
+#: template-edit-listing.php:736 template-submit-listing.php:616
+msgid "Start Time"
+msgstr "Waktu Mulai"
+
+#: template-edit-listing.php:741 template-submit-listing.php:621
+msgid "End Time"
+msgstr "Akhir Waktu"
+
+#: template-edit-listing.php:751 template-submit-listing.php:639
+msgid "Additional Features (comma separated)"
+msgstr "Fitur tambahan (dipisahkan koma)"
+
+#: template-edit-listing.php:766 template-submit-listing.php:654
+msgid "Max-number of Guests"
+msgstr "Max-jumlah Tamu"
+
+#: template-edit-listing.php:771 template-submit-listing.php:659
+msgid "Minimum Stay"
+msgstr "Minimum Menginap"
+
+#: template-edit-listing.php:778 template-submit-listing.php:666
+msgid "Check In Time"
+msgstr "Waktu Check-In"
+
+#: template-edit-listing.php:783 template-submit-listing.php:671
+msgid "Check Out Time"
+msgstr "Waktu Check Out"
+
+#: template-edit-listing.php:790 template-submit-listing.php:678
+msgid "Extra Person Charge"
+msgstr "Extra Person Charge"
+
+#: template-edit-listing.php:795 template-submit-listing.php:683
+#: admin/theme-functions.php:4977
+msgid "Cleaning Fee"
+msgstr "Biaya Pembersihan"
+
+#: template-edit-listing.php:802 template-submit-listing.php:690
+#: admin/theme-functions.php:4988
+msgid "Cancellation Fee"
+msgstr "Biaya Pembatalan"
+
+#: template-edit-listing.php:807 template-submit-listing.php:695
+#: admin/theme-functions.php:4999
+msgid "Security Deposit"
+msgstr "Deposit Keamanan"
+
+#: template-edit-listing.php:827 template-submit-listing.php:708
+msgid "Type in an address"
+msgstr "Ketik alamat"
+
+#: template-edit-listing.php:846 template-submit-listing.php:727
+msgid "Province"
+msgstr "Provinsi"
+
+#: template-edit-listing.php:848 template-submit-listing.php:729
+msgid "Region"
+msgstr "Wilayah"
+
+#: template-edit-listing.php:850 template-submit-listing.php:731
+msgid "Parish"
+msgstr "Paroki"
+
+#: template-edit-listing.php:863 template-submit-listing.php:744
+#: includes/advanced-search.php:98 includes/header-advanced-search.php:109
+#: includes/widgets/ct-widget-listingssearch.php:109
+msgid "County"
+msgstr "County"
+
+#: template-edit-listing.php:878 template-submit-listing.php:759
+msgid "Latitude & Longitude (optional)"
+msgstr "Lintang "
+
+#: template-edit-listing.php:887 template-submit-listing.php:768
+msgid ""
+"You can also manually drag the marker to the exact location of your listing "
+"if the automatic geolocation is off."
+msgstr ""
+"Anda juga dapat secara manual seret penanda ke lokasi yang tepat dari daftar "
+"anda jika geolocation otomatis dimatikan."
+
+#: template-edit-listing.php:893 template-submit-listing.php:780
+#: admin/theme-functions.php:4295
+#: admin/ReduxFramework/theme-options/re7-config.php:4541
+msgid "Private Notes"
+msgstr "Catatan Pribadi"
+
+#: template-edit-listing.php:894 template-submit-listing.php:781
+msgid ""
+"Write a private note about this listing, this textarea will not be displayed "
+"anywhere on the front end of the site."
+msgstr ""
+"Menulis catatan pribadi tentang listing ini, textarea ini tidak akan "
+"ditampilkan di mana saja di ujung depan situs."
+
+#: template-edit-listing.php:913 template-submit-listing.php:800
+msgid "Cancel"
+msgstr "Membatalkan"
+
+#: template-edit-listing.php:917 template-submit-listing.php:809
+#: admin/theme-functions.php:3325
+msgid "Next"
+msgstr "Berikutnya"
+
+#: template-edit-listing.php:918 template-submit-listing.php:818
+msgid "Previous"
+msgstr "Sebelumnya"
+
+#: template-edit-listing.php:935
+#: admin/plugins/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr "Update"
+
+#: template-edit-listing.php:945
+msgid "This isn't one of your assigned listings, editing is denied."
+msgstr "Ini isn\\'t salah satu dari anda ditugaskan daftar, mengedit ditolak."
+
+#. Name of the template
+msgid "Edit Profile"
+msgstr "Edit Profil"
+
+#: template-edit-profile.php:78
+msgid "The passwords you entered do not match. Your password was not updated."
+msgstr ""
+"Kata sandi yang anda masukkan tidak cocok. Kata sandi anda tidak diperbarui."
+
+#: template-edit-profile.php:86
+msgid "The Email you entered is not valid. Please try again."
+msgstr "Email yang anda masukkan tidak valid. Silakan coba lagi."
+
+#: template-edit-profile.php:88
+msgid "This email is already used by another user. Try a different one."
+msgstr "Email ini sudah digunakan oleh pengguna lain. Mencoba yang berbeda."
+
+#: template-edit-profile.php:133 admin/theme-functions.php:3648
+#: admin/theme-functions.php:3727
+msgid "Username"
+msgstr "Username"
+
+#: template-edit-profile.php:134
+msgid "Usernames cannot be changed."
+msgstr "Username tidak dapat diubah."
+
+#: template-edit-profile.php:137 admin/theme-functions.php:3737
+msgid "First Name"
+msgstr "Nama"
+
+#: template-edit-profile.php:141 admin/theme-functions.php:3742
+msgid "Last Name"
+msgstr "Nama Terakhir"
+
+#: template-edit-profile.php:145
+msgid "Nickname"
+msgstr "Julukan"
+
+#: template-edit-profile.php:145
+msgid "(required)"
+msgstr "(diperlukan)"
+
+#: template-edit-profile.php:149
+msgid "Display to Public as"
+msgstr "Menampilkan kepada Publik sebagai"
+
+#: template-edit-profile.php:187
+msgid "Contact Info"
+msgstr "Info Kontak"
+
+#: template-edit-profile.php:191
+msgid "E-mail *"
+msgstr "E-mail *"
+
+#: template-edit-profile.php:195 admin/theme-functions.php:3747
+msgid "Website"
+msgstr "Web"
+
+#: template-edit-profile.php:218
+msgid "About Yourself"
+msgstr "Tentang Diri Sendiri"
+
+#: template-edit-profile.php:222
+msgid "Biographical Information"
+msgstr "Informasi Biografi"
+
+#: template-edit-profile.php:222
+msgid ""
+"Share a little biographical information to fill out your profile. This may "
+"be shown publicly."
+msgstr ""
+"Berbagi sedikit informasi biografi untuk mengisi profil anda. Ini mungkin "
+"akan ditampilkan untuk umum."
+
+#: template-edit-profile.php:226
+msgid "New Password"
+msgstr "Password Baru"
+
+#: template-edit-profile.php:226
+msgid ""
+"If you would like to change the password type a new one. Otherwise leave "
+"this blank."
+msgstr ""
+"Jika anda ingin mengubah jenis password yang baru. Jika tidak meninggalkan "
+"ini kosong."
+
+#: template-edit-profile.php:230
+msgid "Type your new password again."
+msgstr "Ketik password anda yang baru lagi."
+
+#: template-edit-profile.php:232
+msgid "Strength indicator"
+msgstr "Indikator kekuatan"
+
+#: template-edit-profile.php:244
+msgid "Update Profile"
+msgstr "Update Profile"
+
+#: template-favorite-listings.php:100
+msgid "Request More Information on All Favorites"
+msgstr "Permintaan Informasi Lebih lanjut tentang Semua Favorit"
+
+#: template-favorite-listings.php:178 template-view-listings.php:142
+msgid "Bed:"
+msgstr "Tempat tidur:"
+
+#: template-favorite-listings.php:188 template-view-listings.php:152
+msgid "Baths:"
+msgstr "Mandi:"
+
+#: template-favorite-listings.php:199 template-view-listings.php:163
+#: layouts/list.php:125 includes/widgets/ct-widget-flickr.php:63
+msgid "Type:"
+msgstr "Jenis:"
+
+#: template-favorite-listings.php:224
+msgid "Previous Entries"
+msgstr "Entri Sebelumnya"
+
+#: template-favorite-listings.php:225
+msgid "Next Entries"
+msgstr "Entri Berikutnya"
+
+#. Name of the template
+msgid "Full Width 2"
+msgstr "Lebar Penuh 2"
+
+#. Name of the template
+msgid "Full Width"
+msgstr "Lebar Penuh"
+
+#. Name of the template
+msgid "IDX Full Width"
+msgstr "BEI Lebar Penuh"
+
+#. Name of the template
+msgid "IDX w/Sidebar"
+msgstr "BEI w/Sidebar"
+
+#. Name of the template
+msgid "Landing Page"
+msgstr "Landing Page"
+
+#. Name of the template
+msgid "Left Sidebar"
+msgstr "Sidebar Kiri"
+
+#. Name of the template
+#: includes/user-sidebar.php:44
+#: admin/ReduxFramework/theme-options/re7-config.php:4706
+msgid "Listing Email Alerts"
+msgstr "Daftar Email Alert"
+
+#: template-listing-email-alerts.php:84
+msgid "Manage your alerts"
+msgstr "Kelola lansiran anda"
+
+#: template-listing-email-alerts.php:85
+msgid "Here you can turn saved alerts on/off or remove them completely."
+msgstr ""
+"Di sini anda dapat mengubah disimpan alerts on/off atau menghapus mereka "
+"sepenuhnya."
+
+#: template-listing-email-alerts.php:90
+msgid "Query"
+msgstr "Query"
+
+#: template-listing-email-alerts.php:93
+msgid "Date Created"
+msgstr "Tanggal Dibuat"
+
+#: template-listing-email-alerts.php:96
+msgid "Email Setting"
+msgstr "Setelan Email"
+
+#: template-listing-email-alerts.php:99 admin/theme-functions.php:3493
+msgid "Delete"
+msgstr "Menghapus"
+
+#: template-listing-email-alerts.php:126
+msgid "You don't have any saved searches yet, create one above."
+msgstr ""
+"Anda don\\'t memiliki pencarian yang disimpan lagi, membuat salah satu di "
+"atas."
+
+#: template-listing-email-alerts.php:138
+msgid ""
+"Activate \"Contempo Email Alerts\" plugin via Appearance > Install Plugins."
+msgstr ""
+"Aktifkan \"Contempo Email Alert\" plugin melalui menu Appearance > "
+"Menginstal Plugin."
+
+#. Name of the template
+#: includes/home-listings-count.php:58
+msgid "Open Houses"
+msgstr "Rumah Terbuka"
+
+#. Name of the template
+msgid "Packages Thank You"
+msgstr "Paket Terima Kasih"
+
+#: template-packages-thank-you.php:56
+msgid "Select a Package"
+msgstr "Pilih Paket"
+
+#: template-packages-thank-you.php:60
+msgid "Payment"
+msgstr "Pembayaran"
+
+#: template-packages-thank-you.php:64
+msgid "Complete"
+msgstr "Lengkap"
+
+#. Name of the template
+msgid "Quick Search"
+msgstr "Pencarian Cepat"
+
+#. Name of the template
+msgid "Sitemap"
+msgstr "Sitemap"
+
+#: template-sitemap.php:51
+msgid "Last Twenty Posts"
+msgstr "Terakhir Dua Puluh Posting"
+
+#: template-sitemap.php:67
+msgid "Pages"
+msgstr "Halaman"
+
+#: template-sitemap.php:74
+msgid "Categories"
+msgstr "Kategori"
+
+#: template-sitemap.php:81
+msgid "Posts per category"
+msgstr "Posting per kategori"
+
+#: template-submit-listing.php:376
+msgid "You haven't chosen a package yet…"
+msgstr "Anda haven\\'t memilih paket belum..."
+
+#: template-submit-listing.php:377
+msgid "Get Started!"
+msgstr "Memulai!"
+
+#: template-submit-listing.php:383
+msgid "Listings Limit Reached"
+msgstr "Listing Mencapai Batas"
+
+#: template-submit-listing.php:384
+msgid "You've reached the listings limit for your membership package."
+msgstr "Anda\\'ve mencapai listing batas untuk paket keanggotaan."
+
+#: template-submit-listing.php:385
+msgid "Upgrade Today!"
+msgstr "Meng-Upgrade Hari Ini!"
+
+#: template-submit-listing.php:469
+msgid "Gallery Images (select as many as you like)"
+msgstr "Galeri Gambar (pilih sebanyak yang anda suka)"
+
+#: template-submit-listing.php:496
+msgid "*At least one image is for valid submission, minimum width of 817px."
+msgstr "*Setidaknya satu gambar untuk berlaku pengajuan, lebar minimum 817px."
+
+#: template-submit-listing.php:579
+msgid "(e.g. Cats, small dogs)"
+msgstr "(misalnya Kucing, anjing kecil)"
+
+#: template-submit-listing.php:584
+msgid "(e.g. Carport, 2 Car Garage)"
+msgstr "(misalnya, Carport, 2 Garasi Mobil)"
+
+#: template-submit-listing.php:600
+msgid "Virtual Tour URL"
+msgstr "Tur Virtual URL"
+
+#: template-submit-listing.php:655
+msgid " (e.g. 2)"
+msgstr " (misalnya 2)"
+
+#: template-submit-listing.php:660
+msgid " (e.g. 1 night)"
+msgstr " (misalnya 1 malam)"
+
+#: template-submit-listing.php:667
+msgid " (e.g. 3:00 PM)"
+msgstr " (misalnya, 3:00 PM)"
+
+#: template-submit-listing.php:672
+msgid " (e.g. 11:00 AM)"
+msgstr " (misalnya 11:00 AM)"
+
+#: template-submit-listing.php:679
+msgid " (e.g. 50)"
+msgstr " (misalnya 50)"
+
+#: template-submit-listing.php:684
+msgid " (e.g. 150)"
+msgstr " (misalnya 150)"
+
+#: template-submit-listing.php:691
+msgid " (e.g. 275)"
+msgstr " (misalnya 275)"
+
+#: template-submit-listing.php:696
+msgid " (e.g. 895)"
+msgstr " (misalnya 895)"
+
+#: template-submit-listing.php:801
+msgid "Save As Draft"
+msgstr "Simpan Sebagai Draft"
+
+#. Name of the template
+#: admin/ReduxFramework/theme-options/re7-config.php:1706
+msgid "Testimonials"
+msgstr "Testimonial"
+
+#. Name of the template
+msgid "User Dashboard"
+msgstr "Pengguna Dashboard"
+
+#: template-user-dashboard.php:122
+#: admin/ReduxFramework/theme-options/re7-config.php:1656
+msgid "Featured Listings"
+msgstr "Daftar Fitur"
+
+#: template-user-dashboard.php:141
+msgid "Pending Listings"
+msgstr "Pending Daftar"
+
+#: template-view-invoices.php:82
+msgid "You haven't placed any orders yet…"
+msgstr "Anda haven\\'t ditempatkan setiap pesanan yang belum..."
+
+#: template-view-invoices.php:90
+msgid "Invoice"
+msgstr "Faktur"
+
+#: template-view-invoices.php:91
+msgid "Package"
+msgstr "Paket"
+
+#: template-view-invoices.php:92
+msgid "Start"
+msgstr "Mulai"
+
+#: template-view-invoices.php:93
+msgid "Expire"
+msgstr "Berakhir"
+
+#: template-view-invoices.php:94
+msgid "Recurring"
+msgstr "Berulang"
+
+#: template-view-invoices.php:96
+msgid "Total"
+msgstr "Total"
+
+#: template-view-invoices.php:112
+#: includes/widgets/ct-widget-contactinfo.php:136
+msgid "Yes"
+msgstr "Ya"
+
+#: template-view-invoices.php:112
+#: includes/widgets/ct-widget-contactinfo.php:137
+msgid "No"
+msgstr "Tidak ada"
+
+#: template-view-invoices.php:113
+msgid "Expired"
+msgstr "Expired"
+
+#: template-view-invoices.php:123
+msgid "-"
+msgstr "-"
+
+#: template-view-listings.php:85
+msgid "Type a listing name or address here to filter the list."
+msgstr "Ketik daftar nama atau alamat berikut untuk menyaring daftar."
+
+#: template-view-listings.php:172
+msgid "Published"
+msgstr "Diterbitkan"
+
+#: template-view-listings.php:174
+msgid "Pending"
+msgstr "Pending"
+
+#: template-view-listings.php:176
+msgid "Draft"
+msgstr "Rancangan"
+
+#: template-view-listings.php:195
+msgid "Paid"
+msgstr "Dibayar"
+
+#: template-view-listings.php:210
+msgid "Edit"
+msgstr "Edit"
+
+#: template-view-listings.php:214 admin/theme-functions.php:4536
+msgid " Views"
+msgstr " Views"
+
+#: template-view-listings.php:233
+msgid "You don't have any listings yet..."
+msgstr "Anda don\\'t memiliki daftar yang belum..."
+
+#: template-view-listings.php:234
+msgid "Create One"
+msgstr "Membuat Satu"
+
+#: admin/merlin-config.php:104 admin/merlin-config.php:120
+#: admin/merlin-config.php:136 admin/merlin-config.php:152
+#: admin/merlin-config.php:168 admin/merlin-config.php:184
+#: admin/merlin-config.php:200 admin/merlin-config.php:216
+#: admin/merlin-config.php:232 admin/merlin-config.php:248
+#: admin/merlin-config.php:264 admin/merlin-config.php:280
+#: admin/merlin-config.php:296 admin/merlin-config.php:312
+msgid "A special note for this import."
+msgstr "Catatan khusus untuk impor ini."
+
+#: admin/profile-fields.php:39
+msgid "Social profile information"
+msgstr "Profil sosial informasi"
+
+#: admin/profile-fields.php:43
+msgid "Twitter Username"
+msgstr "Username Twitter"
+
+#: admin/profile-fields.php:49
+msgid "Facebook URL"
+msgstr "Facebook URL"
+
+#: admin/profile-fields.php:55
+msgid "Instagram URL"
+msgstr "Instagram URL"
+
+#: admin/profile-fields.php:61
+msgid "LinkedIn URL"
+msgstr "LinkedIn URL"
+
+#: admin/profile-fields.php:67
+msgid "YouTube URL"
+msgstr "URL YouTube"
+
+#: admin/profile-fields.php:76
+msgid "Extra profile information"
+msgstr "Tambahan informasi profil"
+
+#: admin/profile-fields.php:88
+msgid "Agent Order"
+msgstr "Agen Rangka"
+
+#: admin/profile-fields.php:91
+msgid ""
+"If user is an agent select the order you would like them displayed on the "
+"agents page, e.g. 1, 2, 3, etc&hellip; NOTE: You must also set Real Estate 7 "
+"Options > Agents > Manually Order Agents? > to Yes, otherwise the ordering "
+"won't be applied."
+msgstr ""
+"Jika pengguna adalah agen pilih urutan yang anda ingin mereka ditampilkan "
+"pada halaman agen, misalnya 1, 2, 3, dll"
+
+#: admin/profile-fields.php:95
+msgid "Profile Image"
+msgstr "Gambar Profil"
+
+#: admin/profile-fields.php:105
+msgid ""
+"Please upload a profile picture here, if none is chosen a default image will "
+"be used."
+msgstr ""
+"Silahkan upload foto profil di sini, jika tidak ada yang dipilih adalah "
+"gambar default akan digunakan."
+
+#: admin/profile-fields.php:109
+msgid "Mobile #"
+msgstr ""
+
+#: admin/profile-fields.php:115
+msgid "Fax #"
+msgstr ""
+
+#: admin/profile-fields.php:122
+msgid "Title"
+msgstr "Judul"
+
+#: admin/profile-fields.php:128
+msgid "Tagline"
+msgstr "Tagline"
+
+#: admin/profile-fields.php:134
+msgid "Agent License #"
+msgstr ""
+
+#: admin/profile-fields.php:137
+msgid "Add the agents license number here."
+msgstr "Menambahkan agen nomor lisensi di sini."
+
+#: admin/profile-fields.php:144
+msgid "Agent Testimonials"
+msgstr "Agen Testimonial"
+
+#: admin/profile-fields.php:148
+msgid ""
+"If this user is marked as an agent (\"Show on agents page\" option above) "
+"use this area to add client testimonials."
+msgstr ""
+"Jika pengguna ini ditandai sebagai agen (\"Tampilkan pada halaman agen\" "
+"pilihan di atas) menggunakan daerah ini untuk menambahkan testimonial klien."
+
+#: admin/profile-fields.php:162
+msgid "Office Information"
+msgstr "Informasi Kantor"
+
+#: admin/profile-fields.php:166
+msgid "Personal Logo"
+msgstr "Logo Pribadi"
+
+#: admin/profile-fields.php:176
+msgid ""
+"Upload your personal logo here, or if you choose to associate a Brokerage "
+"below that logo will be used instead."
+msgstr ""
+"Tanggal logo pribadi anda di sini, atau jika anda memilih untuk asosiasi "
+"Broker di bawah ini logo yang akan digunakan sebagai gantinya."
+
+#: admin/profile-fields.php:186
+msgid "Select a Brokerage"
+msgstr "Pilih Broker"
+
+#: admin/profile-fields.php:194
+msgid ""
+"Assign a brokerage here, these are pulled from the Brokerage custom post "
+"type."
+msgstr ""
+"Menetapkan broker di sini, ini yang menarik dari Broker jenis posting kustom."
+
+#: admin/profile-fields.php:198
+msgid "Brokerage License #"
+msgstr ""
+
+#: admin/profile-fields.php:201
+msgid "Add the brokerage license number here."
+msgstr "Tambahkan lisensi broker nomor di sini."
+
+#: admin/profile-fields.php:205
+msgid "Office #"
+msgstr ""
+
+#: admin/profile-fields.php:223
+msgid "State or Province"
+msgstr "Negara bagian atau Provinsi"
+
+#: admin/profile-fields.php:229 admin/theme-functions.php:5541
+msgid "Postal Code"
+msgstr "Kode Pos"
+
+#: admin/theme-functions.php:45
+msgid "Please Update Your PHP Version to the Recommended 5.6+"
+msgstr "Silahkan Update Versi PHP Anda dengan yang Direkomendasikan 5.6 "
+
+#: admin/theme-functions.php:46
+msgid ""
+"Otherwise some of the Theme Functions and Custom Visual Composer modules "
+"won't be available for use, or cause issues with your site display."
+msgstr ""
+"Jika tidak, beberapa Fungsi Tema Kustom Visual Komposer modul won\\'t akan "
+"tersedia untuk digunakan, atau menyebabkan masalah dengan situs anda "
+"menampilkan."
+
+#: admin/theme-functions.php:47
+msgid ""
+"Its a quick and simple process (no more than a couple minutes), please refer "
+"to this knowledgebase article below."
+msgstr ""
+"Dengan proses cepat dan sederhana (tidak lebih dari beberapa menit), silakan "
+"merujuk ke artikel pengetahuan ini di bawah ini."
+
+#: admin/theme-functions.php:48
+msgid "Minimum PHP Version 5.6+ and How to Update to It"
+msgstr "PHP minimal Versi 5.6 dan Cara Memperbarui"
+
+#: admin/theme-functions.php:49 admin/theme-functions.php:91
+#: admin/theme-functions.php:133 admin/theme-functions.php:175
+#: admin/plugins/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr "Mengabaikan pemberitahuan ini"
+
+#: admin/theme-functions.php:89
+msgid "WP Favorite Posts Needs to be Setup"
+msgstr "WP Posting Favorit Perlu Penataan"
+
+#: admin/theme-functions.php:90 admin/theme-functions.php:132
+#: admin/theme-functions.php:174
+msgid "Just takes a few seconds to setup the plugin properly please see the "
+msgstr ""
+"Hanya membutuhkan beberapa detik untuk setup plugin dengan benar silakan "
+"lihat "
+
+#: admin/theme-functions.php:90 admin/theme-functions.php:132
+#: admin/theme-functions.php:174
+msgid "documentation"
+msgstr "dokumentasi"
+
+#: admin/theme-functions.php:131
+msgid "Contempo Compare Listings Needs to be Setup"
+msgstr "Contempo Bandingkan Listing Perlu Penataan"
+
+#: admin/theme-functions.php:173
+msgid "WordPress Social Login Needs to be Setup"
+msgstr "WordPress Login Sosial Perlu Penataan"
+
+#: admin/theme-functions.php:387
+msgid "Listing Large"
+msgstr "Daftar Besar"
+
+#: admin/theme-functions.php:398
+msgid "Primary Left Menu"
+msgstr "Primary Menu Kiri"
+
+#: admin/theme-functions.php:399
+msgid "Primary Right Menu"
+msgstr "Primary Menu Yang Tepat"
+
+#: admin/theme-functions.php:400
+msgid "Primary Full Width"
+msgstr "Primer Lebar Penuh"
+
+#: admin/theme-functions.php:401
+msgid "Footer Menu"
+msgstr "Menu Footer"
+
+#: admin/theme-functions.php:425
+msgid "Menu doesn't exist, please create one by clicking here."
+msgstr "Menu doesn\\'t ada, silahkan buat dengan mengklik di sini."
+
+#: admin/theme-functions.php:1162
+msgid "Open Map"
+msgstr "Terbuka Peta"
+
+#: admin/theme-functions.php:1163
+msgid "Close Search"
+msgstr "Dekat Pencarian"
+
+#: admin/theme-functions.php:1166
+msgid "Open"
+msgstr "Buka"
+
+#: admin/theme-functions.php:1167
+msgid "Search Saved"
+msgstr "Pencarian Yang Disimpan"
+
+#: admin/theme-functions.php:1179 admin/theme-functions.php:5749
+msgid "All Towns"
+msgstr "Semua Kota"
+
+#: admin/theme-functions.php:1181 admin/theme-functions.php:5751
+msgid "All Villages"
+msgstr "Semua Desa"
+
+#: admin/theme-functions.php:1183 admin/theme-functions.php:5753
+msgid "All Cities"
+msgstr "Semua Kota"
+
+#: admin/theme-functions.php:1187 admin/theme-functions.php:5755
+msgid "All Areas"
+msgstr "Semua Daerah"
+
+#: admin/theme-functions.php:1189 admin/theme-functions.php:5757
+#: admin/theme-functions.php:5791
+msgid "All Suburbs"
+msgstr "Semua Kota"
+
+#: admin/theme-functions.php:1191 admin/theme-functions.php:5759
+msgid "All Provinces"
+msgstr "Semua Provinsi"
+
+#: admin/theme-functions.php:1193 admin/theme-functions.php:5761
+msgid "All Regions"
+msgstr "Semua Daerah"
+
+#: admin/theme-functions.php:1195 admin/theme-functions.php:5763
+msgid "All Parishes"
+msgstr "Semua Paroki"
+
+#: admin/theme-functions.php:1197 admin/theme-functions.php:5765
+msgid "All States"
+msgstr "Semua Negara"
+
+#: admin/theme-functions.php:1201 admin/theme-functions.php:5799
+msgid "All Postcodes"
+msgstr "Semua Kode Pos"
+
+#: admin/theme-functions.php:1203 admin/theme-functions.php:5801
+msgid "All Postal Codes"
+msgstr "Semua Kode Pos"
+
+#: admin/theme-functions.php:1205 admin/theme-functions.php:5803
+msgid "All Zipcodes"
+msgstr "Semua Zipcodes"
+
+#: admin/theme-functions.php:1220
+msgid "* This field is required"
+msgstr "* Bidang ini diperlukan"
+
+#: admin/theme-functions.php:1221
+msgid "* Please select an option"
+msgstr "* Silakan pilih opsi"
+
+#: admin/theme-functions.php:1222
+msgid "* This checkbox is required"
+msgstr "* Kotak centang ini diperlukan"
+
+#: admin/theme-functions.php:1223
+msgid "* Invalid phone number"
+msgstr "* Nomor telepon yang tidak sah"
+
+#: admin/theme-functions.php:1224
+msgid "* Invalid email address"
+msgstr "* Alamat email tidak valid"
+
+#: admin/theme-functions.php:1225
+msgid "* Invalid date, must be in YYYY-MM-DD format"
+msgstr "* Tanggal tidak valid, harus di YYYY-MM-DD format"
+
+#: admin/theme-functions.php:1226
+msgid "* Numbers only"
+msgstr "* Angka saja"
+
+#: admin/theme-functions.php:1227
+msgid "* No special caracters allowed"
+msgstr "* Tidak ada special caracters diperbolehkan"
+
+#: admin/theme-functions.php:1228
+msgid "* Letters only"
+msgstr "* Surat hanya"
+
+#: admin/theme-functions.php:1895 admin/theme-functions.php:3756
+msgid "Buyer"
+msgstr "Pembeli"
+
+#: admin/theme-functions.php:1907 admin/theme-functions.php:3757
+msgid "Seller"
+msgstr "Penjual"
+
+#: admin/theme-functions.php:1945
+msgid "Broker"
+msgstr "Broker"
+
+#: admin/theme-functions.php:2057 admin/theme-functions.php:2094
+#: admin/theme-functions.php:2130
+msgid "Beds: "
+msgstr "Tempat tidur: "
+
+#: admin/theme-functions.php:2058 admin/theme-functions.php:2095
+#: admin/theme-functions.php:2131
+msgid "Baths: "
+msgstr "Mandi: "
+
+#: admin/theme-functions.php:2059 admin/theme-functions.php:2096
+#: admin/theme-functions.php:2132
+msgid "Sq Ft: "
+msgstr "Sq Ft: "
+
+#: admin/theme-functions.php:2068 admin/theme-functions.php:2105
+#: admin/theme-functions.php:2140
+msgid "1 Listing found"
+msgstr "1 Daftar ditemukan"
+
+#: admin/theme-functions.php:2070 admin/theme-functions.php:2107
+#: admin/theme-functions.php:2142
+msgid " Listings found"
+msgstr " Ditemukan listing"
+
+#: admin/theme-functions.php:2147
+msgid "No Listings Found"
+msgstr "Tidak Ditemukan Listing"
+
+#: admin/theme-functions.php:2366
+msgid "Sort By"
+msgstr "Urutkan Berdasarkan"
+
+#: admin/theme-functions.php:2367
+msgid "Default Order"
+msgstr "Urutan Standar"
+
+#: admin/theme-functions.php:2368
+msgid "Price - Low to High"
+msgstr "Harga Rendah ke Tinggi"
+
+#: admin/theme-functions.php:2369
+msgid "Price - High to Low"
+msgstr "Harga - Tinggi ke Rendah"
+
+#: admin/theme-functions.php:2370
+msgid "Date - Old to New"
+msgstr "Tanggal - Lama ke yang Baru"
+
+#: admin/theme-functions.php:2371
+msgid "Date - New to Old"
+msgstr "Tanggal - Baru ke Lama"
+
+#: admin/theme-functions.php:2598
+msgid "New submission in"
+msgstr "Pengajuan baru di"
+
+#: admin/theme-functions.php:2600
+msgid "Hi!"
+msgstr "Hi!"
+
+#: admin/theme-functions.php:2601
+msgid "We have a new submission in"
+msgstr "Kami telah pengajuan baru di"
+
+#: admin/theme-functions.php:2602
+msgid "Check it out"
+msgstr "Check it out"
+
+#: admin/theme-functions.php:2716 admin/theme-functions.php:2791
+#: admin/theme-functions.php:2894 admin/theme-functions.php:3009
+#: admin/theme-functions.php:3101 admin/theme-functions.php:3191
+#: admin/theme-functions.php:3302
+msgid "You need to setup the Google Maps API."
+msgstr "Anda perlu untuk setup Google Maps API."
+
+#: admin/theme-functions.php:2717 admin/theme-functions.php:2792
+#: admin/theme-functions.php:2895 admin/theme-functions.php:3010
+#: admin/theme-functions.php:3102 admin/theme-functions.php:3192
+#: admin/theme-functions.php:3303
+msgid "Go into Admin > Real Estate 7 Options > Google Maps"
+msgstr "Masuk ke Admin > Real Estate 7 Pilihan > Google Maps"
+
+#: admin/theme-functions.php:3324
+msgid "Prev"
+msgstr "Prev"
+
+#: admin/theme-functions.php:3604
+msgid "User registration is not enabled"
+msgstr "Pendaftaran pengguna tidak diaktifkan"
+
+#: admin/theme-functions.php:3634
+msgid "Log in"
+msgstr "Log in"
+
+#: admin/theme-functions.php:3636
+msgid "Don't have an account?"
+msgstr "Don\\'t memiliki account?"
+
+#: admin/theme-functions.php:3636
+msgid "Create your account,"
+msgstr "Buat akun anda,"
+
+#: admin/theme-functions.php:3636
+msgid "it takes less than a minute."
+msgstr "dibutuhkan kurang dari satu menit."
+
+#: admin/theme-functions.php:3651 admin/theme-functions.php:3764
+msgid "Password"
+msgstr "Password"
+
+#: admin/theme-functions.php:3666
+msgid "Lost your password?"
+msgstr "Kehilangan kata sandi anda?"
+
+#: admin/theme-functions.php:3676
+msgid "Lost Password?"
+msgstr "Kehilangan Password?"
+
+#: admin/theme-functions.php:3677
+msgid ""
+"Enter your email address and we'll send you a link you can use to pick a new "
+"password."
+msgstr ""
+"Masukkan alamat email anda dan kami\\'ll mengirimi anda link yang dapat anda "
+"gunakan untuk memilih kata sandi baru."
+
+#: admin/theme-functions.php:3679
+msgid "Username or Email"
+msgstr "Username atau Email"
+
+#: admin/theme-functions.php:3681
+msgid "Get New Password"
+msgstr "Mendapatkan Password Baru"
+
+#: admin/theme-functions.php:3717
+msgid "Create an account"
+msgstr "Buat akun"
+
+#: admin/theme-functions.php:3718
+msgid "It takes less than a minute. If you already have an account "
+msgstr "Dibutuhkan kurang dari satu menit. Jika anda sudah memiliki akun "
+
+#: admin/theme-functions.php:3718
+msgid "login"
+msgstr "login"
+
+#: admin/theme-functions.php:3753
+msgid "Buyer, Seller or Agent?"
+msgstr "Pembeli, Penjual atau Agen?"
+
+#: admin/theme-functions.php:3755
+msgid "Please choose"
+msgstr "Silahkan pilih"
+
+#: admin/theme-functions.php:3769
+msgid "Password Again"
+msgstr "Password Lagi"
+
+#: admin/theme-functions.php:3775
+msgid "I accept the"
+msgstr "Saya menerima"
+
+#: admin/theme-functions.php:3775
+msgid "Terms &amp; Conditions"
+msgstr "Hal "
+
+#: admin/theme-functions.php:3780
+msgid "Register"
+msgstr "Daftar"
+
+#: admin/theme-functions.php:3815
+msgid "Username already taken"
+msgstr "Username sudah diambil"
+
+#: admin/theme-functions.php:3819 admin/theme-functions.php:4007
+#: admin/theme-functions.php:4053
+msgid "Invalid username"
+msgstr "Tidak valid username"
+
+#: admin/theme-functions.php:3823
+msgid "Please enter a username"
+msgstr "Silahkan masukkan username"
+
+#: admin/theme-functions.php:3827
+msgid "Invalid email"
+msgstr "Email tidak valid"
+
+#: admin/theme-functions.php:3831
+msgid "Email already registered"
+msgstr "Email sudah terdaftar"
+
+#: admin/theme-functions.php:3835 admin/theme-functions.php:4012
+#: admin/theme-functions.php:4058
+msgid "Please enter a password"
+msgstr "Silahkan masukkan password"
+
+#: admin/theme-functions.php:3839
+msgid "Passwords do not match"
+msgstr "Kata sandi tidak cocok"
+
+#: admin/theme-functions.php:3843
+msgid "Terms & Conditions must be checked"
+msgstr "Hal "
+
+#: admin/theme-functions.php:4018 admin/theme-functions.php:4064
+msgid "Incorrect password"
+msgstr "Salah password"
+
+#: admin/theme-functions.php:4098
+msgid "Error"
+msgstr "Kesalahan"
+
+#: admin/theme-functions.php:4221 admin/theme-functions.php:4225
+msgid "Featured Image"
+msgstr "Gambar Yang Ditampilkan"
+
+#: admin/theme-functions.php:4223
+msgid "Brokerage Logo"
+msgstr "Broker Logo"
+
+#: admin/theme-functions.php:4253
+msgid "Enter the listing street address here"
+msgstr "Masukkan daftar alamat jalan di sini"
+
+#: admin/theme-functions.php:4269
+msgid ""
+"NOTE: The Listing Title needs to be <strong>only the Street Address</strong> "
+"(e.g. 123 Somewhere St.) otherwise the mapping won't work properly, use the "
+"Alternate Title field below for Listing Names, etc…the Alt Title field will "
+"override the street address on the front end of your site."
+msgstr ""
+
+#: admin/theme-functions.php:4288
+#: admin/ReduxFramework/theme-options/re7-config.php:4155
+msgid "Price & Description"
+msgstr "Harga "
+
+#: admin/theme-functions.php:4289
+msgid "Photos & Files"
+msgstr "Foto "
+
+#: admin/theme-functions.php:4290
+#: admin/ReduxFramework/theme-options/re7-config.php:4244
+msgid "Details"
+msgstr "Detail"
+
+#: admin/theme-functions.php:4292 includes/single-listing-sub-navigation.php:78
+#: admin/ReduxFramework/theme-options/re7-config.php:4363
+msgid "Rental Info"
+msgstr "Info Sewa"
+
+#: admin/theme-functions.php:4294 includes/single-listing-map.php:18
+#: includes/single-listing-sub-navigation.php:135
+#: includes/single-listing-sub-navigation.php:164
+#: admin/ReduxFramework/theme-options/re7-config.php:4452
+msgid "Location"
+msgstr "Lokasi"
+
+#: admin/theme-functions.php:4396
+msgid "Add to Favorites"
+msgstr "Tambahkan ke Favorit"
+
+#: admin/theme-functions.php:4401
+msgid "Favorite"
+msgstr "Favorit"
+
+#: admin/theme-functions.php:4514
+msgid " Photo"
+msgstr " Foto"
+
+#: admin/theme-functions.php:4516
+msgid " Photos"
+msgstr " Foto"
+
+#: admin/theme-functions.php:4658 admin/theme-functions.php:5767
+#: layouts/list.php:84
+msgid "Rooms"
+msgstr "Kamar"
+
+#: admin/theme-functions.php:4660 admin/theme-functions.php:5769
+#: layouts/list.php:86
+msgid "Bedrooms"
+msgstr "Kamar tidur"
+
+#: admin/theme-functions.php:4664 admin/theme-functions.php:5771
+#: includes/sub-listings.php:89 layouts/list.php:90
+#: includes/widgets/ct-widget-agentsotherlistings.php:125
+msgid "Bed"
+msgstr "Tempat tidur"
+
+#: admin/theme-functions.php:4680 admin/theme-functions.php:5775
+#: layouts/list.php:106
+msgid "Bathrooms"
+msgstr "Kamar mandi"
+
+#: admin/theme-functions.php:4684 admin/theme-functions.php:5777
+#: layouts/list.php:110
+msgid "Bath"
+msgstr "Mandi"
+
+#: admin/theme-functions.php:4735 includes/sub-listings.php:122
+#: includes/widgets/ct-widget-agentsotherlistings.php:158
+msgid "Rating"
+msgstr "Peringkat"
+
+#: admin/theme-functions.php:4752 includes/sub-listings.php:139
+#: includes/widgets/ct-widget-agentsotherlistings.php:175
+msgid "Guests"
+msgstr "Tamu"
+
+#: admin/theme-functions.php:4767 admin/theme-functions.php:4945
+#: includes/sub-listings.php:154
+#: includes/widgets/ct-widget-agentsotherlistings.php:190
+msgid "Min Stay"
+msgstr "Min Stay"
+
+#: admin/theme-functions.php:4815
+msgid "Price Per"
+msgstr "Harga Per"
+
+#: admin/theme-functions.php:4853
+msgid "Walk Score&reg;"
+msgstr "Berjalan Skor"
+
+#: admin/theme-functions.php:4912
+msgid "Check In"
+msgstr "Check-In"
+
+#: admin/theme-functions.php:4923
+msgid "Check Out"
+msgstr "Check Out"
+
+#: admin/theme-functions.php:4934
+msgid "Max Guests"
+msgstr "Max Terbaik"
+
+#: admin/theme-functions.php:4966
+msgid "Extra People"
+msgstr "Orang-Orang Tambahan"
+
+#: admin/theme-functions.php:5076
+#, php-format
+msgid "%s ago"
+msgstr "%s yang lalu"
+
+#: admin/theme-functions.php:5096
+msgid "Updated on"
+msgstr "Diperbarui pada"
+
+#: admin/theme-functions.php:5098
+msgid "at"
+msgstr "di"
+
+#: admin/theme-functions.php:5177
+msgid "Hosted By"
+msgstr "Di-Host Oleh"
+
+#: admin/theme-functions.php:5231 admin/theme-functions.php:5236
+msgid "Brokered by"
+msgstr "Ditengahi oleh"
+
+#: admin/theme-functions.php:5503
+msgid " Sq Ft"
+msgstr " Sq Ft"
+
+#: admin/theme-functions.php:5505
+msgid " m²"
+msgstr " m2"
+
+#: admin/theme-functions.php:5520
+msgid "Acres"
+msgstr "Hektar"
+
+#: admin/theme-functions.php:5522
+msgid "Sq Ft"
+msgstr "Sq Ft"
+
+#: admin/theme-functions.php:5524
+msgid "m²"
+msgstr "m2"
+
+#: admin/theme-functions.php:5566
+msgid "School District"
+msgstr "Distrik Sekolah"
+
+#: admin/theme-functions.php:5568
+msgid "Building"
+msgstr "Bangunan"
+
+#: admin/theme-functions.php:5570
+msgid "Borough"
+msgstr "Borough"
+
+#: admin/theme-functions.php:5572
+msgid "Sector"
+msgstr "Sektor"
+
+#: admin/theme-functions.php:5743
+msgid "All Property Types"
+msgstr "Semua Jenis Properti"
+
+#: admin/theme-functions.php:5745
+msgid "All Countries"
+msgstr "Semua Negara"
+
+#: admin/theme-functions.php:5747
+msgid "All Counties"
+msgstr "Semua Kabupaten"
+
+#: admin/theme-functions.php:5781
+msgid "All Statuses"
+msgstr "Semua Status"
+
+#: admin/theme-functions.php:5783
+msgid "All Additional Features"
+msgstr "Semua Fitur Tambahan"
+
+#: admin/theme-functions.php:5785
+msgid "All Neighborhoods"
+msgstr "Semua Lingkungan"
+
+#: admin/theme-functions.php:5787
+msgid "All Districts"
+msgstr "Semua Kabupaten"
+
+#: admin/theme-functions.php:5789
+msgid "All School Districts"
+msgstr "Semua Distrik Sekolah"
+
+#: admin/theme-functions.php:5793
+msgid "All Buildings"
+msgstr "Semua Bangunan"
+
+#: admin/theme-functions.php:5795
+msgid "All Sectors"
+msgstr "Semua Sektor"
+
+#: admin/theme-functions.php:5797
+msgid "All Communities"
+msgstr "Semua Masyarakat"
+
+#: admin/theme-functions.php:5805
+msgid "Pet Friendly?"
+msgstr "Hewan Peliharaan?"
+
+#: admin/theme-functions.php:5807
+msgid "Furnished/Unfurnished?"
+msgstr "Furnished/Unfurnished?"
+
+#: admin/theme-functions.php:6024 includes/single-listing-yelp.php:165
+msgid "You need to setup the Yelp Fusion API."
+msgstr "Anda perlu men-setup Yelp Fusion API."
+
+#: admin/theme-functions.php:6025 includes/single-listing-yelp.php:166
+msgid "Go into Admin > Real Estate 7 Options > What's Nearby? > Create App"
+msgstr ""
+"Masuk ke Admin > Real Estate 7 Pilihan > What\\'s Terdekat? > Membuat "
+"Aplikasi"
+
+#: admin/theme-functions.php:6027
+msgid "You've reached the daily Yelp Fusion API limit."
+msgstr "Anda\\'ve mencapai harian Yelp Fusion batas API."
+
+#: admin/theme-functions.php:6028
+msgid "Please visit https://www.yelp.com/developers/v3/manage_app"
+msgstr "Silahkan kunjungi https://www.yelp.com/developers/v3/manage_app"
+
+#: admin/theme-functions.php:6030
+msgid "General 502 Error from Yelp Fusion API"
+msgstr "Umum 502 Kesalahan dari Yelp Fusion API"
+
+#: admin/theme-functions.php:6031 admin/theme-functions.php:6034
+msgid "Please check your server error logs."
+msgstr "Silahkan periksa server error log."
+
+#: admin/theme-functions.php:6033
+msgid "General 500 Error from Yelp Fusion API"
+msgstr "General Error 500 dari Yelp Fusion API"
+
+#: admin/theme-functions.php:6036
+msgid "General Error from Yelp Fusion API"
+msgstr "Kesalahan umum dari Yelp Fusion API"
+
+#: admin/theme-functions.php:6119
+msgid " km"
+msgstr " km"
+
+#: admin/theme-functions.php:6121
+msgid " mi"
+msgstr " mi"
+
+#: admin/theme-functions.php:6136
+msgid "reviews"
+msgstr "ulasan"
+
+#: admin/theme-functions.php:6209
+msgid "Unfortunately, your API key is over its quota."
+msgstr "Sayangnya, API key adalah lebih dari kuota."
+
+#: admin/theme-functions.php:6215
+msgid "Unfortunately, there's no results nearby for this listing."
+msgstr "Sayangnya, ada's tidak ada hasil yang terdekat untuk listing ini."
+
+#: admin/theme-functions.php:6221
+msgid ""
+"Unfortunately, your request was denied, generally because of lack of an "
+"invalid key parameter."
+msgstr ""
+"Sayangnya, permintaan itu ditolak, umumnya karena kurangnya aplikasi yang "
+"tidak valid parameter kunci."
+
+#: admin/theme-functions.php:6227
+msgid ""
+"Unfortunately, your request was invalid, generally due to wrong address "
+"information or lat/long coordinates."
+msgstr ""
+"Sayangnya, permintaan itu tidak valid, umumnya karena salah informasi alamat "
+"atau lat/koordinat panjang."
+
+#: admin/theme-functions.php:6233
+msgid ""
+"A server-side error happened trying again may be successful, please "
+"shift+refresh the page."
+msgstr ""
+"Server-side terjadi kesalahan coba lagi mungkin berhasil, silahkan shift me-"
+"refresh halaman."
+
+#: admin/theme-functions.php:6450
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Hasil pencarian untuk: %s"
+
+#: admin/theme-functions.php:6456
+#, php-format
+msgid "Author: %s"
+msgstr "Penulis: %s"
+
+#: admin/theme-functions.php:6459
+#, php-format
+msgid "Day: %s"
+msgstr "Hari: %s"
+
+#: admin/theme-functions.php:6462
+#, php-format
+msgid "Month: %s"
+msgstr "Bulan: %s"
+
+#: admin/theme-functions.php:6462
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: admin/theme-functions.php:6465
+#, php-format
+msgid "Year: %s"
+msgstr "Tahun: %s"
+
+#: admin/theme-functions.php:6465
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: admin/theme-functions.php:6468
+msgid "Archives"
+msgstr "Arsip"
+
+#: admin/theme-functions.php:6543
+msgid "Share This"
+msgstr "Berbagi Ini"
+
+#: admin/theme-functions.php:6546 admin/theme-functions.php:6547
+#: admin/theme-functions.php:6548 includes/post-social.php:16
+#: includes/post-social.php:17 includes/post-social.php:18
+msgid "Check out this great article on"
+msgstr "Memeriksa ini besar artikel di"
+
+#: admin/theme-functions.php:6587
+msgid "About The Author"
+msgstr "Tentang Penulis"
+
+#: admin/theme-functions.php:6644
+msgid "Related Posts"
+msgstr "Posting Terkait"
+
+#: admin/theme-functions.php:6694
+msgid "<span class=\"meta-nav\">&larr;</span> Older"
+msgstr ""
+
+#: admin/theme-functions.php:6695
+msgid "Newer <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: admin/theme-functions.php:7203
+msgid ""
+"<span class=\"meta-nav\"><i class=\"fa fa-chevron-left\"></i></span> Older "
+"listings"
+msgstr ""
+
+#: admin/theme-functions.php:7204
+msgid ""
+"Newer listings <span class=\"meta-nav\"><i class=\"fa fa-chevron-right\"></i>"
+"</span>"
+msgstr ""
+
+#: admin/theme-functions.php:7226 admin/theme-functions.php:7227
+msgid "%link"
+msgstr "%link"
+
+#: admin/theme-functions.php:7547
+msgid "g:i a"
+msgstr "g:i a"
+
+#: admin/theme-functions.php:7550
+#, php-format
+msgid "Minute %1$s"
+msgstr "Menit %1$s"
+
+#: admin/theme-functions.php:7550
+msgid "i"
+msgstr "saya"
+
+#: admin/theme-functions.php:7553
+msgid "g a"
+msgstr "g a"
+
+#: admin/theme-functions.php:7564 admin/theme-functions.php:7570
+#: admin/theme-functions.php:7570 admin/theme-functions.php:7575
+#: admin/theme-functions.php:7575 admin/theme-functions.php:7580
+msgid "Y"
+msgstr "Y"
+
+#: admin/theme-functions.php:7565 admin/theme-functions.php:7576
+msgid "F"
+msgstr "F"
+
+#: admin/theme-functions.php:7566
+msgid "j"
+msgstr "j"
+
+#: admin/theme-functions.php:7571
+#, php-format
+msgid "Week %1$s"
+msgstr "Minggu %1$s"
+
+#: admin/theme-functions.php:7571
+msgid "W"
+msgstr "W"
+
+#: admin/theme-functions.php:7587
+#, php-format
+msgid "Search results for &quot;%1$s&quot;"
+msgstr "Hasil pencarian untuk "
+
+#: admin/theme-functions.php:7591
+msgid "404 Not Found"
+msgstr "404 Tidak Ditemukan"
+
+#: includes/advanced-search.php:189 includes/header-advanced-search.php:191
+#: includes/header-advanced-search.php:454
+#: includes/widgets/ct-widget-listingssearch.php:200
+msgid "From"
+msgstr "Dari"
+
+#: includes/advanced-search.php:198 includes/header-advanced-search.php:200
+#: includes/header-advanced-search.php:463
+#: includes/widgets/ct-widget-listingssearch.php:209
+msgid "To"
+msgstr "Untuk"
+
+#: includes/advanced-search.php:243 includes/header-advanced-search.php:249
+#: includes/header-advanced-search.php:508
+#: includes/header-advanced-search.php:509
+msgid "Keyword"
+msgstr "Kata kunci"
+
+#: includes/advanced-search.php:244 includes/header-advanced-search.php:250
+msgid "Street, City, State, Zip or keyword"
+msgstr "Jalan, Kota, Negara, Zip, atau kata kunci"
+
+#: includes/advanced-search.php:260
+#: includes/widgets/ct-widget-listingssearch.php:270
+msgid "More Search Options"
+msgstr "Lebih Banyak Opsi Pencarian"
+
+#: includes/agent-contact-modal.php:21 includes/single-listing-home.php:269
+#: includes/widgets/ct-widget-listingscontact.php:30
+msgid "Tell me more about this property"
+msgstr "Ceritakan lebih lanjut mengenai properti ini."
+
+#: includes/featured-listings.php:31 includes/featured-listings.php:33
+msgid "View All"
+msgstr "Lihat Semua"
+
+#: includes/header-advanced-search.php:252
+#: includes/home-hero-advanced-search.php:22
+msgid "Searching..."
+msgstr "Mencari..."
+
+#: includes/header-advanced-search.php:292
+#: includes/home-hero-advanced-search.php:21
+msgid "Enter a street address or keyword"
+msgstr "Masukkan alamat atau kata kunci"
+
+#: includes/header-advanced-search.php:408
+msgid "Addtional Features"
+msgstr "Fitur Tambahan"
+
+#: includes/home-listings-count.php:32
+msgid "Homes For Sale"
+msgstr "Rumah Untuk Dijual"
+
+#: includes/home-listings-count.php:84
+msgid "Recently Sold"
+msgstr "Baru-Baru Ini Dijual"
+
+#: includes/home-listings-count.php:110
+msgid "Reduced"
+msgstr "Berkurang"
+
+#: includes/home-listings-count.php:136
+msgid "For Rent"
+msgstr "Disewakan"
+
+#: includes/home-listings-count.php:162
+msgid "Leased"
+msgstr "Disewakan"
+
+#: includes/home-listings-count.php:214
+msgid "New Additions"
+msgstr "Penambahan Baru"
+
+#: includes/home-listings-count.php:240
+msgid "Special Offers"
+msgstr "Penawaran Khusus"
+
+#: includes/single-listing-attachments.php:20
+#: includes/single-listing-sub-navigation.php:106
+msgid "Attachments"
+msgstr "Lampiran"
+
+#: includes/single-listing-booking-calendar.php:17
+#: includes/single-listing-home.php:155
+msgid "Book this listing"
+msgstr "Buku ini daftar"
+
+#: includes/single-listing-contact.php:106
+msgid "Agent #"
+msgstr ""
+
+#: includes/single-listing-contact.php:203 includes/single-listing-home.php:265
+msgid "Request More Information"
+msgstr "Permintaan Informasi Lebih Lanjut"
+
+#: includes/single-listing-contact.php:216
+msgid "Tell me more about this listing"
+msgstr "Ceritakan lebih banyak tentang ini daftar"
+
+#: includes/single-listing-contact.php:257 includes/single-listing-home.php:296
+msgid "Co-listing Agent"
+msgstr "Co-daftar Agen"
+
+#: includes/single-listing-energy-efficiency.php:21
+msgid "Energy Efficiency"
+msgstr "Efisiensi Energi"
+
+#: includes/single-listing-energy-efficiency.php:26
+msgid "Energy Class"
+msgstr "Energi Kelas"
+
+#: includes/single-listing-energy-efficiency.php:29
+msgid "Global Energy Performance"
+msgstr "Global Energi Kinerja"
+
+#: includes/single-listing-energy-efficiency.php:32
+msgid "Renewable Energy Performance"
+msgstr "Energi Terbarukan Kinerja"
+
+#: includes/single-listing-energy-efficiency.php:35
+msgid "Building Energy Performance"
+msgstr "Kinerja Energi Bangunan"
+
+#: includes/single-listing-google-places.php:23
+#: includes/single-listing-yelp.php:23
+#: admin/ReduxFramework/theme-options/re7-config.php:3726
+msgid "What's Nearby?"
+msgstr "What\\'s Terdekat?"
+
+#: includes/single-listing-google-places.php:66
+#: includes/single-listing-yelp.php:41
+msgid "Restaurants"
+msgstr "Restoran"
+
+#: includes/single-listing-google-places.php:75
+#: includes/single-listing-yelp.php:49
+msgid "Coffee Shops"
+msgstr "Toko-Toko Kopi"
+
+#: includes/single-listing-google-places.php:84
+#: includes/single-listing-yelp.php:121
+msgid "Stores"
+msgstr "Toko"
+
+#: includes/single-listing-google-places.php:93
+#: includes/single-listing-yelp.php:65
+msgid "Education"
+msgstr "Pendidikan"
+
+#: includes/single-listing-google-places.php:102
+msgid "Banks"
+msgstr "Bank"
+
+#: includes/single-listing-google-places.php:111
+#: includes/single-listing-yelp.php:81
+msgid "Bars"
+msgstr "Bar"
+
+#: includes/single-listing-google-places.php:120
+#: includes/single-listing-yelp.php:89
+msgid "Hospitals"
+msgstr "Rumah sakit"
+
+#: includes/single-listing-google-places.php:129
+#: includes/single-listing-yelp.php:97
+msgid "Gas Stations"
+msgstr "Spbu"
+
+#: includes/single-listing-google-places.php:138
+#: includes/single-listing-yelp.php:105
+msgid "Transit Stations"
+msgstr "Stasiun Transit"
+
+#: includes/single-listing-google-places.php:147
+#: includes/single-listing-yelp.php:113
+msgid "Convenience Stores"
+msgstr "Toko"
+
+#: includes/single-listing-google-places.php:156
+#: includes/single-listing-yelp.php:129
+msgid "Shopping Malls"
+msgstr "Pusat Perbelanjaan"
+
+#: includes/single-listing-google-places.php:165
+#: includes/single-listing-yelp.php:137
+msgid "Veterinary Care"
+msgstr "Perawatan Hewan"
+
+#: includes/single-listing-google-places.php:174
+#: includes/single-listing-yelp.php:145
+msgid "Pet Store"
+msgstr "Toko Hewan Peliharaan"
+
+#: includes/single-listing-google-places.php:183
+#: includes/single-listing-yelp.php:153
+msgid "Park"
+msgstr "Park"
+
+#: includes/single-listing-google-places.php:196
+msgid "Google Places/What's Nearby? Error."
+msgstr "Google Places/What\\'s Terdekat? Kesalahan."
+
+#: includes/single-listing-google-places.php:197
+msgid ""
+"You need to create an API key go into Admin > Real Estate 7 Options > Google "
+"Maps > API Key, then setup the options via Real Estate 7 Options > \"What's "
+"Nearby?\" panel."
+msgstr ""
+"Yang anda butuhkan untuk membuat API key masuk ke Admin > Real Estate 7 "
+"Pilihan > Google Maps > API Key, kemudian setup pilihan melalui Real Estate "
+"7 Pilihan > \"What\\'s Dekatnya?\" panel."
+
+#: includes/single-listing-header.php:38 includes/single-listing-header.php:81
+#: includes/single-listing-home.php:74
+msgid "Co-listing"
+msgstr "Co-daftar"
+
+#: includes/single-listing-home.php:135
+#: includes/single-listing-rental-info.php:47
+msgid "Prices"
+msgstr "Harga"
+
+#: includes/single-listing-home.php:365
+msgid "Share This Listing"
+msgstr "Berbagi Daftar Ini"
+
+#: includes/single-listing-map.php:27
+msgid "Enter your starting address"
+msgstr "Masukkan alamat awal"
+
+#: includes/single-listing-map.php:43
+msgid "get directions"
+msgstr "dapatkan petunjuk arah"
+
+#: includes/single-listing-multi-floorplan.php:21
+msgid "Floor Plans & Pricing"
+msgstr "Denah "
+
+#: includes/single-listing-multi-floorplan.php:40
+msgid "Size"
+msgstr "Ukuran"
+
+#: includes/single-listing-multi-floorplan.php:46
+msgid "Availability"
+msgstr "Ketersediaan"
+
+#: includes/single-listing-open-house.php:35
+msgid "Time"
+msgstr "Waktu"
+
+#: includes/single-listing-open-house.php:38
+#: includes/single-listing-open-house.php:80
+msgid "RSVP"
+msgstr "RSVP"
+
+#: includes/single-listing-rental-info.php:25
+msgid "Rental Information"
+msgstr "Informasi Sewa"
+
+#: includes/single-listing-sub-listings.php:21
+msgid "Other Listings in Neighborhood"
+msgstr "Daftar lainnya di Lingkungan"
+
+#: includes/single-listing-sub-listings.php:23
+msgid "Other Listings in Suburb"
+msgstr "Daftar lainnya di Pinggiran kota"
+
+#: includes/single-listing-sub-listings.php:25
+msgid "Other Listings in District"
+msgstr "Daftar lainnya di Kabupaten"
+
+#: includes/single-listing-sub-listings.php:27
+msgid "Other Listings in School District"
+msgstr "Daftar lainnya di Distrik Sekolah"
+
+#: includes/single-listing-sub-listings.php:29
+msgid "Other Listings in Building"
+msgstr "Daftar lainnya di dalam Bangunan"
+
+#: includes/single-listing-sub-listings.php:31
+msgid "Other Listings in Borough"
+msgstr "Daftar lainnya di Borough"
+
+#: includes/single-listing-sub-listings.php:33
+msgid "Other Listings in Community"
+msgstr "Daftar lainnya di Masyarakat"
+
+#: includes/single-listing-sub-navigation.php:34
+msgid "Description"
+msgstr "Deskripsi"
+
+#: includes/single-listing-sub-navigation.php:61
+msgid "Floor Plans"
+msgstr "Denah"
+
+#: includes/single-listing-sub-navigation.php:87
+msgid "Features"
+msgstr "Fitur"
+
+#: includes/single-listing-sub-navigation.php:96
+msgid "Booking"
+msgstr "Pemesanan"
+
+#: includes/single-listing-sub-navigation.php:117
+#: includes/single-listing-video.php:16
+msgid "Video"
+msgstr "Video"
+
+#: includes/single-listing-sub-navigation.php:127
+msgid "Tour"
+msgstr "Tour"
+
+#: includes/single-listing-sub-navigation.php:142
+msgid "Nearby"
+msgstr "Terdekat"
+
+#: includes/single-listing-sub-navigation.php:163
+msgid "Listing Features"
+msgstr "Daftar Fitur"
+
+#: includes/single-listing-virtual-tour.php:19
+msgid "Virtual Tour"
+msgstr "Virtual Tour"
+
+#: includes/single-listing-yelp.php:22
+msgid "powered by "
+msgstr "didukung oleh "
+
+#: includes/single-listing-yelp.php:57
+msgid "Grocery"
+msgstr "Kelontong"
+
+#: includes/single-listing-yelp.php:73
+msgid "Bank"
+msgstr "Bank"
+
+#: layouts/blog-grid.php:96 layouts/blog-large.php:96
+msgid "Read More"
+msgstr "Baca Lebih Lanjut"
+
+#: layouts/grid.php:22 layouts/list.php:23
+msgid "This agent currently has no active listings."
+msgstr "Agen ini saat ini telah tidak aktif listing."
+
+#: layouts/grid.php:24 layouts/list.php:25
+msgid "This brokerage currently has no active listings."
+msgstr "Ini broker saat ini tidak aktif listing."
+
+#: layouts/grid.php:26 layouts/list.php:27
+msgid "No properties were found which match your search criteria"
+msgstr ""
+"Tidak ada properti ditemukan yang sesuai dengan kriteria pencarian anda"
+
+#: layouts/saved-search-list.php:57 includes/widgets/ct-widget-tabs.php:214
+msgid "on"
+msgstr "pada"
+
+#: layouts/saved-search-list.php:57
+msgid "On"
+msgstr "Pada"
+
+#: layouts/saved-search-list.php:58
+msgid "off"
+msgstr "off"
+
+#: layouts/saved-search-list.php:58
+msgid "Off"
+msgstr "Off"
+
+#: admin/ct-social/ct-social.php:28
+msgid "CT Social"
+msgstr "CT Sosial"
+
+#: admin/ct-social/ct-social.php:126
+#: includes/widgets/ct-widget-agentinfo.php:106
+#: includes/widgets/ct-widget-agentsotherlistings.php:286
+#: includes/widgets/ct-widget-blogauthor.php:60
+#: includes/widgets/ct-widget-brokerinfo.php:78
+#: includes/widgets/ct-widget-contactinfo.php:141
+#: includes/widgets/ct-widget-latestposts.php:70
+#: includes/widgets/ct-widget-listings.php:129
+#: includes/widgets/ct-widget-listingscontact.php:68
+#: includes/widgets/ct-widget-listingssearch.php:294
+#: includes/widgets/ct-widget-search.php:40
+#: includes/widgets/ct-widget-testimonials.php:62
+msgid "Title:"
+msgstr "Judul:"
+
+#: admin/ct-social/ct-social.php:130
+msgid "Dribbble:"
+msgstr "Dribbble:"
+
+#: admin/ct-social/ct-social.php:134
+#: includes/widgets/ct-widget-contactinfo.php:177
+msgid "Email:"
+msgstr "Email:"
+
+#: admin/ct-social/ct-social.php:138
+#: includes/widgets/ct-widget-contactinfo.php:181
+msgid "Facebook:"
+msgstr "Facebook:"
+
+#: admin/ct-social/ct-social.php:142
+msgid "Flickr:"
+msgstr "Flickr:"
+
+#: admin/ct-social/ct-social.php:146
+msgid "Foursquare:"
+msgstr "Foursquare:"
+
+#: admin/ct-social/ct-social.php:150
+msgid "GitHub:"
+msgstr "GitHub:"
+
+#: admin/ct-social/ct-social.php:154
+#: includes/widgets/ct-widget-contactinfo.php:189
+msgid "Google+:"
+msgstr "Google :"
+
+#: admin/ct-social/ct-social.php:158
+#: includes/widgets/ct-widget-contactinfo.php:201
+msgid "Instagram:"
+msgstr "Instagram:"
+
+#: admin/ct-social/ct-social.php:162
+#: includes/widgets/ct-widget-contactinfo.php:193
+msgid "LinkedIn:"
+msgstr "LinkedIn:"
+
+#: admin/ct-social/ct-social.php:166
+msgid "Medium:"
+msgstr "Media:"
+
+#: admin/ct-social/ct-social.php:170
+#: includes/widgets/ct-widget-contactinfo.php:197
+msgid "Pinterest:"
+msgstr "Pinterest:"
+
+#: admin/ct-social/ct-social.php:174
+msgid "Skype:"
+msgstr "Skype:"
+
+#: admin/ct-social/ct-social.php:178
+#: includes/widgets/ct-widget-contactinfo.php:185
+msgid "Twitter:"
+msgstr "Twitter:"
+
+#: admin/ct-social/ct-social.php:182
+msgid "YouTube:"
+msgstr "YouTube:"
+
+#: admin/ct-social/ct-social.php:186
+msgid "Links:"
+msgstr "Link:"
+
+#: admin/getting-started/getting-started.php:91
+#, php-format
+msgid "Getting started with %1$s v%2$s"
+msgstr "Memulai dengan %1$s v%2$s"
+
+#: admin/getting-started/getting-started.php:93
+#, php-format
+msgid ""
+"Thanks for purchasing %1$s! I truly appreciate the support and the "
+"opportunity to share my work with you. Please visit the tabs below to get "
+"started setting up your theme!"
+msgstr ""
+"Terima kasih untuk pembelian %1$s! Saya benar-benar menghargai dukungan dan "
+"kesempatan untuk berbagi pekerjaan saya dengan anda. Silakan kunjungi tab di "
+"bawah ini untuk memulai pengaturan tema anda!"
+
+#: admin/getting-started/getting-started.php:99
+msgid "Start Here"
+msgstr "Mulai Di Sini"
+
+#: admin/getting-started/getting-started.php:100
+msgid "Plugins"
+msgstr "Plugin"
+
+#: admin/getting-started/getting-started.php:101
+msgid "FAQ &amp; Support"
+msgstr "FAQ "
+
+#: admin/getting-started/getting-started.php:102
+msgid "Latest Updates"
+msgstr "Update Terbaru"
+
+#: admin/getting-started/getting-started.php:110
+#, php-format
+msgid "Installing %s"
+msgstr "Menginstal %s"
+
+#: admin/getting-started/getting-started.php:116
+#: admin/ReduxFramework/theme-options/re7-config.php:5267
+msgid "Documentation"
+msgstr "Dokumentasi"
+
+#: admin/getting-started/getting-started.php:170
+msgid "Required & Recommended Plugins"
+msgstr "Diperlukan "
+
+#: admin/getting-started/getting-started.php:172
+msgid ""
+"Below is a list of required and recommended plugins to install that will "
+"help you get the most out of WP Pro Real Estate 7. To begin please use the "
+"button below or browse through the list to learn about each one in a little "
+"more detail."
+msgstr ""
+"Di bawah ini adalah daftar yang diperlukan dan plugin yang direkomendasikan "
+"untuk menginstal yang akan membantu anda mendapatkan hasil maksimal dari WP "
+"Real Estate Pro 7. Untuk memulai silakan gunakan tombol di bawah ini atau "
+"browsing melalui daftar untuk belajar tentang masing-masing dalam sedikit "
+"lebih detail."
+
+#: admin/getting-started/getting-started.php:178
+#: admin/getting-started/getting-started.php:190
+#: admin/plugins/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr "Diperlukan"
+
+#: admin/getting-started/getting-started.php:178 admin/plugins/register.php:66
+msgid "Redux Framework"
+msgstr "Redux Kerangka"
+
+#: admin/getting-started/getting-started.php:180
+msgid "Install Redux Framework"
+msgstr "Menginstal Redux Kerangka"
+
+#: admin/getting-started/getting-started.php:180
+#: admin/getting-started/getting-started.php:192
+#: admin/getting-started/getting-started.php:204
+#: admin/getting-started/getting-started.php:216
+#: admin/getting-started/getting-started.php:228
+#: admin/getting-started/getting-started.php:240
+#: admin/getting-started/getting-started.php:252
+#: admin/getting-started/getting-started.php:264
+#: admin/getting-started/getting-started.php:276
+#: admin/getting-started/getting-started.php:288
+#: admin/getting-started/getting-started.php:300
+#: admin/getting-started/getting-started.php:315
+#: admin/getting-started/getting-started.php:327
+#: admin/getting-started/getting-started.php:339
+#: admin/getting-started/getting-started.php:351
+#: admin/getting-started/getting-started.php:363
+#: admin/getting-started/getting-started.php:375
+#: admin/getting-started/getting-started.php:387
+msgid "Install Now"
+msgstr "Instal Sekarang"
+
+#: admin/getting-started/getting-started.php:182
+#: admin/getting-started/getting-started.php:194
+#: admin/getting-started/getting-started.php:206
+#: admin/getting-started/getting-started.php:218
+#: admin/getting-started/getting-started.php:230
+#: admin/getting-started/getting-started.php:242
+#: admin/getting-started/getting-started.php:254
+#: admin/getting-started/getting-started.php:266
+#: admin/getting-started/getting-started.php:278
+#: admin/getting-started/getting-started.php:290
+#: admin/getting-started/getting-started.php:302
+#: admin/getting-started/getting-started.php:317
+#: admin/getting-started/getting-started.php:329
+#: admin/getting-started/getting-started.php:341
+#: admin/getting-started/getting-started.php:353
+#: admin/getting-started/getting-started.php:365
+#: admin/getting-started/getting-started.php:377
+#: admin/getting-started/getting-started.php:389
+msgid "Installed"
+msgstr "Dipasang"
+
+#: admin/getting-started/getting-started.php:186
+msgid "This plugin is used for the admin options framework."
+msgstr "Plugin ini digunakan untuk pilihan admin framework."
+
+#: admin/getting-started/getting-started.php:190 admin/plugins/register.php:72
+msgid "Contempo Real Estate Custom Posts"
+msgstr "Contempo Real Estate Posting Kustom"
+
+#: admin/getting-started/getting-started.php:192
+msgid "Install Contempo Real Estate Custom Posts"
+msgstr "Menginstal Contempo Real Estate Posting Kustom"
+
+#: admin/getting-started/getting-started.php:198
+msgid ""
+"This plugin registers the listings, brokerages & testimonials custom post "
+"types, along with related custom fields & taxonomies, as well as all the "
+"custom Visual Composer modules (if you have the Visual Composer plugin "
+"installed & activated)."
+msgstr "Ini plugin register daftar, broker "
+
+#: admin/getting-started/getting-started.php:202
+#: admin/getting-started/getting-started.php:214
+#: admin/getting-started/getting-started.php:226
+#: admin/getting-started/getting-started.php:238
+#: admin/getting-started/getting-started.php:250
+#: admin/getting-started/getting-started.php:262
+#: admin/getting-started/getting-started.php:274
+#: admin/getting-started/getting-started.php:286
+#: admin/getting-started/getting-started.php:298
+#: admin/getting-started/getting-started.php:313
+#: admin/getting-started/getting-started.php:325
+#: admin/getting-started/getting-started.php:337
+#: admin/getting-started/getting-started.php:349
+#: admin/getting-started/getting-started.php:361
+#: admin/getting-started/getting-started.php:373
+#: admin/getting-started/getting-started.php:385
+#: admin/plugins/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr "Direkomendasikan"
+
+#: admin/getting-started/getting-started.php:202 admin/plugins/register.php:132
+msgid "Contempo Membership & Packages"
+msgstr "Contempo Keanggotaan "
+
+#: admin/getting-started/getting-started.php:204
+msgid "Install Contempo Membership & Packages"
+msgstr "Menginstal Contempo Keanggotaan "
+
+#: admin/getting-started/getting-started.php:210
+msgid ""
+"This plugin adds the ability to create membership & packages for use with "
+"the front end submission system in WP Pro Real Estate 7, with Stripe, PayPal "
+"& Wire Transfer payment methods."
+msgstr "Plugin ini menambahkan kemampuan untuk membuat keanggotaan "
+
+#: admin/getting-started/getting-started.php:214 admin/plugins/register.php:176
+msgid "Contempo Saved Searches & Email Alerts"
+msgstr "Contempo Pencarian Yang Disimpan "
+
+#: admin/getting-started/getting-started.php:216
+msgid "Install Contempo Saved Searches & Email Alerts"
+msgstr "Menginstal Contempo Pencarian Yang Disimpan "
+
+#: admin/getting-started/getting-started.php:222
+msgid "This plugin allows users be alerted via email when a listing is added."
+msgstr ""
+"Plugin ini memungkinkan pengguna akan diberitahu melalui email ketika daftar "
+"ini menambahkan."
+
+#: admin/getting-started/getting-started.php:226 admin/plugins/register.php:165
+msgid "Contempo Compare Listings"
+msgstr "Contempo Membandingkan Daftar"
+
+#: admin/getting-started/getting-started.php:228
+#: admin/getting-started/getting-started.php:252
+msgid "Install Contempo Compare Listings"
+msgstr "Menginstal Contempo Membandingkan Daftar"
+
+#: admin/getting-started/getting-started.php:234
+msgid "This plugin adds compare functionality for listings."
+msgstr "Plugin ini menambahkan membandingkan fungsi untuk listing."
+
+#: admin/getting-started/getting-started.php:238 admin/plugins/register.php:154
+msgid "Contempo Mortgage Calculator Widget"
+msgstr "Contempo Mortgage Calculator Widget"
+
+#: admin/getting-started/getting-started.php:240
+msgid "Install Contempo Mortgage Calculator Widget"
+msgstr "Menginstal Contempo Mortgage Calculator Widget"
+
+#: admin/getting-started/getting-started.php:246
+msgid "This plugin enables a simple mortgage calculator widget."
+msgstr "Plugin ini memungkinkan kalkulator hipotek sederhana widget."
+
+#: admin/getting-started/getting-started.php:250 admin/plugins/register.php:187
+msgid "Contempo Child Theme Generator"
+msgstr "Contempo Anak Tema Generator"
+
+#: admin/getting-started/getting-started.php:258
+msgid ""
+"This plugin allows admin users to easily generate a child theme from your "
+"Admin > Appearance panel."
+msgstr ""
+"Plugin ini memungkinkan admin pengguna untuk dengan mudah menghasilkan anak "
+"tema dari Admin > Appearance panel."
+
+#: admin/getting-started/getting-started.php:262
+msgid "Contempo Payment Gateways"
+msgstr "Contempo Gateway Pembayaran"
+
+#: admin/getting-started/getting-started.php:264
+msgid "Install Contempo Payment Gateways"
+msgstr "Menginstal Contempo Gateway Pembayaran"
+
+#: admin/getting-started/getting-started.php:270
+msgid ""
+"This plugin enables the PayPal API and only required if you're going to be "
+"charging single listing payments from the front end of the site, if you're "
+"using the Membership & Packages plugin leave this plugin deactivated."
+msgstr ""
+"Plugin ini memungkinkan PayPal API dan hanya diperlukan jika anda\\'re going "
+"to be pengisian daftar tunggal pembayaran dari ujung depan dari situs ini, "
+"jika anda'kembali menggunakan Keanggotaan "
+
+#: admin/getting-started/getting-started.php:274 admin/plugins/register.php:198
+msgid "Slider Revolution"
+msgstr "Revolusi Slider"
+
+#: admin/getting-started/getting-started.php:276
+msgid "Install Slider Revolution"
+msgstr "Memasang Slider Revolusi"
+
+#: admin/getting-started/getting-started.php:282
+msgid ""
+"Slider Revolution is an innovative, responsive WordPress Slider Plugin that "
+"displays your content the beautiful way."
+msgstr ""
+"Revolusi Slider adalah aplikasi yang inovatif, responsif Slider WordPress "
+"Plugin yang menampilkan konten anda dengan cara yang indah."
+
+#: admin/getting-started/getting-started.php:286
+msgid "Visual Composer"
+msgstr "Komposer Visual Yang"
+
+#: admin/getting-started/getting-started.php:288
+msgid "Install Visual Composer"
+msgstr "Menginstal Visual Komposer"
+
+#: admin/getting-started/getting-started.php:294
+msgid ""
+"WordPress Page Builder plugin with intuitive drag and drop interface. Build "
+"any page fast and easy. Unlimited layouts for your website."
+msgstr ""
+"Halaman Pembangun WordPress plugin dengan tarik intuitif dan drop antarmuka. "
+"Membangun halaman apapun dengan cepat dan mudah. Layout terbatas untuk "
+"website anda."
+
+#: admin/getting-started/getting-started.php:298
+msgid "WPML"
+msgstr "WPML"
+
+#: admin/getting-started/getting-started.php:300
+msgid "Install WPML"
+msgstr "Menginstal WPML"
+
+#: admin/getting-started/getting-started.php:308
+#, php-format
+msgid ""
+"<a href=\"%s\" target=\"_blank\">WPML</a> allows running fully multilingual "
+"websites with WordPress, making it easy to translate WordPress pages, posts, "
+"tags, categories and themes."
+msgstr ""
+
+#: admin/getting-started/getting-started.php:313
+#: admin/getting-started/getting-started.php:337 admin/plugins/register.php:86
+msgid "WordPress Social Login"
+msgstr "WordPress Login Sosial"
+
+#: admin/getting-started/getting-started.php:315
+#: admin/getting-started/getting-started.php:327
+msgid "Install WP Favorite Posts"
+msgstr "Menginstal WP Posting Favorit"
+
+#: admin/getting-started/getting-started.php:321
+msgid ""
+"This plugin allows users to login/register with their social profiles like "
+"Facebook, Google, Twitter, etc&hellip;"
+msgstr ""
+"Plugin ini memungkinkan pengguna untuk login/mendaftar dengan profil sosial "
+"mereka seperti Facebook, Google, Twitter, dll"
+
+#: admin/getting-started/getting-started.php:325 admin/plugins/register.php:121
+#: admin/ReduxFramework/theme-options/re7-config.php:4834
+msgid "WP Favorite Posts"
+msgstr "WP Posting Favorit"
+
+#: admin/getting-started/getting-started.php:333
+msgid ""
+"This plugin allows users to favorite & save listings from the front end of "
+"the site."
+msgstr "Plugin ini memungkinkan pengguna untuk favorit "
+
+#: admin/getting-started/getting-started.php:339
+msgid "Install WordPress Social Login"
+msgstr "Menginstal WordPress Login Sosial"
+
+#: admin/getting-started/getting-started.php:345
+msgid ""
+"This plugin allows users to login/register for your site via social networks "
+"like Facebook, Google, Twitter, etc&hellip;"
+msgstr ""
+"Plugin ini memungkinkan pengguna untuk login/mendaftar untuk situs anda "
+"melalui jaringan sosial seperti Facebook, Google, Twitter, dll"
+
+#: admin/getting-started/getting-started.php:349 admin/plugins/register.php:92
+msgid "Booking Calendar"
+msgstr "Kalender Pemesanan"
+
+#: admin/getting-started/getting-started.php:351
+msgid "Install Booking Calendar"
+msgstr "Menginstal Kalender Pemesanan"
+
+#: admin/getting-started/getting-started.php:357
+msgid ""
+"This plugin will enable online booking services, however you're free to use "
+"whatever booking plugin you'd like as long as it supports shortcodes."
+msgstr ""
+"Plugin ini akan memungkinkan layanan pemesanan online, namun anda\\'re bebas "
+"menggunakan plugin pemesanan anda'd seperti selama ini mendukung shortcode."
+
+#: admin/getting-started/getting-started.php:361 admin/plugins/register.php:98
+msgid "Co-Authors Plus"
+msgstr "Co-Penulis Plus"
+
+#: admin/getting-started/getting-started.php:363
+msgid "Install Co-Authors Plus"
+msgstr "Menginstal Co-Penulis Plus"
+
+#: admin/getting-started/getting-started.php:369
+msgid ""
+"This plugin allows you to assign multiple users or agents to listings, "
+"perfect for co-listings."
+msgstr ""
+"Plugin ini memungkinkan anda untuk menetapkan beberapa pengguna atau agen "
+"untuk listing, cocok untuk co-listing."
+
+#: admin/getting-started/getting-started.php:373 admin/plugins/register.php:104
+msgid "Comments Ratings"
+msgstr "Komentar Penilaian"
+
+#: admin/getting-started/getting-started.php:375
+msgid "Install Comments Ratings"
+msgstr "Menginstal Komentar Penilaian"
+
+#: admin/getting-started/getting-started.php:381
+msgid "This plugin allows you to enable ratings for your listings."
+msgstr ""
+"Plugin ini memungkinkan anda untuk mengaktifkan penilaian untuk listing anda."
+
+#: admin/getting-started/getting-started.php:385 admin/plugins/register.php:220
+msgid "Envato Market"
+msgstr "Envato Market"
+
+#: admin/getting-started/getting-started.php:387
+msgid "Install Envato Market"
+msgstr "Menginstal Envato Market"
+
+#: admin/getting-started/getting-started.php:393
+msgid ""
+"This plugin allows you to easily get theme updates through your WordPress "
+"admin."
+msgstr ""
+"Plugin ini memungkinkan anda untuk dengan mudah mendapatkan tema update "
+"melalui admin WordPress anda."
+
+#: admin/getting-started/getting-started.php:402
+#, php-format
+msgid "Support for %s?"
+msgstr "Dukungan untuk %s?"
+
+#: admin/getting-started/getting-started.php:408
+#, php-format
+msgid ""
+"If you've read through the <a href=\"%1$s\" target=\"_blank\">"
+"documentation</a> and still have questions or are experiencing issues, I'm "
+"happy to help! Simply <a href=\"%2$s\"  target=\"_blank\" title=\"Open a "
+"live chat\">open a live chat</a> or <a href=\"%3$s\" target=\"_blank\">leave "
+"a comment</a> on the item page and I'll personally get back to you, thanks "
+"in advance for your patience."
+msgstr ""
+
+#: admin/getting-started/getting-started.php:411
+#, php-format
+msgid "FAQ for %s?"
+msgstr "FAQ untuk %s?"
+
+#: admin/getting-started/getting-started.php:414
+msgid ""
+"The following articles below cover many frequently asked questions that you "
+"may have."
+msgstr ""
+"Artikel berikut di bawah ini mencakup banyak pertanyaan yang sering diajukan "
+"yang mungkin anda miliki."
+
+#: admin/getting-started/getting-started.php:460
+msgid "Need Modifications or Customizations?"
+msgstr "Perlu Modifikasi atau Kustomisasi?"
+
+#: admin/getting-started/getting-started.php:465
+#, php-format
+msgid ""
+"Send me an email <a href=\"mailto:%s\">chris@contempothemes.com</a>, with a "
+"detailed outline of what you’d like to accomplish and I’ll get you a quote "
+"and turnaround time."
+msgstr ""
+
+#: admin/getting-started/getting-started.php:474
+#, php-format
+msgid ""
+"Please note that support requests will not be answered via email, only "
+"through my <a href=\"%1$s\" target=\"_blank\">live chat</a> or within the <a "
+"href=\"%2$s\" target=\"_blank\">item comments</a>."
+msgstr ""
+
+#: admin/getting-started/getting-started.php:484
+msgid "Hosting Recommendations"
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Hosting Rekomendasi"
+msgstr[1] ""
+
+#: admin/getting-started/getting-started.php:498
+#: admin/getting-started/getting-started.php:501
+msgid "Visit the Knowledge Base"
+msgstr "Kunjungi Basis Pengetahuan"
+
+#: admin/getting-started/getting-started.php:499
+msgid ""
+"New to the WordPress world? The Knowledge Base has a boat load of articles "
+"to help you with any issues that might arise."
+msgstr ""
+"Baru untuk WordPress dunia? Pengetahuan Dasar memiliki perahu memuat artikel-"
+"artikel untuk membantu anda dengan masalah apapun yang mungkin timbul."
+
+#: admin/getting-started/getting-started.php:501
+msgid "Visit the knowledge base"
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Kunjungi basis pengetahuan"
+msgstr[1] ""
+
+#: admin/google-places/GooglePlaces.php:149
+#: admin/google-places/GooglePlaces.php:165
+#: admin/google-places/GooglePlaces.php:182
+msgid "Google Places API is currently unavailable."
+msgstr "Google Places API saat ini tidak tersedia."
+
+#: admin/google-places/GooglePlaces.php:151
+msgid ""
+"You must specify a valid listing location, use street address in the listing "
+"title along with city, state & zip/postcode — if not use the optional "
+"latitude & longitude field."
+msgstr ""
+"Anda harus menentukan valid daftar lokasi, menggunakan alamat jalan dalam "
+"daftar judul bersama dengan kota, negara "
+
+#: admin/google-places/GooglePlaces.php:167
+#: admin/google-places/GooglePlaces.php:207
+msgid ""
+"You much specify at least one of the following: \"keyword\", \"name\", "
+"\"types\"."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+"Anda banyak menentukan setidaknya salah satu dari berikut ini: \"kata "
+"kunci\", \"nama\", \"jenis\"."
+msgstr[1] ""
+
+#: admin/google-places/GooglePlaces.php:184
+#: admin/google-places/GooglePlaces.php:201
+msgid "You must specify a radius."
+msgstr "Anda harus menentukan radius."
+
+#: admin/google-places/GooglePlaces.php:197
+msgid "You must specify a location before calling radarsearch()."
+msgstr "Anda harus menentukan lokasi sebelum memanggil radarsearch()."
+
+#: admin/google-places/GooglePlaces.php:221
+msgid ""
+"You must specify either a \"placeid\" or a \"reference\" (but not both) "
+"before calling details()."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+"Anda harus menentukan salah satu \"placeid\" atau \"referensi\" (tapi tidak "
+"keduanya) sebelum memanggil rincian()."
+msgstr[1] ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr "Menginstal Plugin Yang Diperlukan"
+
+#: admin/plugins/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr "Menginstal Plugin"
+
+#. %s: plugin name.
+#: admin/plugins/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Menginstal Plugin: %s"
+msgstr[1] ""
+
+#. %s: plugin name.
+#: admin/plugins/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr "Memperbarui Plugin: %s"
+
+#: admin/plugins/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr "Ada sesuatu yang salah dengan plugin API."
+
+#: admin/plugins/class-tgm-plugin-activation.php:341
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgstr "Tema ini membutuhkan plugin berikut: %1$s."
+
+#: admin/plugins/class-tgm-plugin-activation.php:347
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgstr "Tema ini merekomendasikan plugin berikut: %1$s."
+
+#: admin/plugins/class-tgm-plugin-activation.php:353
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr ""
+"Berikut plugin yang perlu diperbarui ke versi terbaru untuk memastikan "
+"kompatibilitas maksimum dengan tema ini: %1$s."
+
+#: admin/plugins/class-tgm-plugin-activation.php:359
+#, php-format
+msgid "There is an update available for: %1$s."
+msgstr "Ada update yang tersedia untuk: %1$s."
+
+#: admin/plugins/class-tgm-plugin-activation.php:365
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgstr "Berikut plugin yang dibutuhkan saat ini tidak aktif: %1$s."
+
+#: admin/plugins/class-tgm-plugin-activation.php:371
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "Berikut plugin yang direkomendasikan saat ini tidak aktif: %1$s."
+msgstr[1] ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:377
+msgid "Begin installing plugin"
+msgstr "Mulai menginstal plugin"
+
+#: admin/plugins/class-tgm-plugin-activation.php:382
+msgid "Begin updating plugin"
+msgstr "Mulai memperbarui plugin"
+
+#: admin/plugins/class-tgm-plugin-activation.php:387
+msgid "Begin activating plugin"
+msgstr "Mulai mengaktifkan plugin"
+
+#: admin/plugins/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr "Kembali ke Plugin yang Diperlukan Installer"
+
+#: admin/plugins/class-tgm-plugin-activation.php:393
+#: admin/plugins/class-tgm-plugin-activation.php:912
+#: admin/plugins/class-tgm-plugin-activation.php:2618
+#: admin/plugins/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr "Kembali ke Dashboard"
+
+#: admin/plugins/class-tgm-plugin-activation.php:394
+#: admin/plugins/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr "Plugin diaktifkan berhasil."
+
+#: admin/plugins/class-tgm-plugin-activation.php:395
+#: admin/plugins/class-tgm-plugin-activation.php:3037
+msgid "The following plugin was activated successfully:"
+msgstr "Berikut plugin diaktifkan berhasil:"
+
+#. 1: plugin name.
+#: admin/plugins/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Tidak ada tindakan yang diambil. Plugin %1$s anda sudah aktif."
+
+#. 1: plugin name.
+#: admin/plugins/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+"Plugin tidak diaktifkan. Sebuah versi yang lebih tinggi dari %s diperlukan "
+"untuk tema ini. Silahkan update plugin."
+
+#. 1: dashboard link.
+#: admin/plugins/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Semua plugin yang diinstal dan diaktifkan berhasil. %1$s"
+
+#: admin/plugins/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+"Ada satu atau lebih diperlukan atau plugin yang direkomendasikan untuk "
+"menginstal, memperbarui, atau mengaktifkan."
+
+#: admin/plugins/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr "Silahkan hubungi administrator situs ini untuk membantu."
+
+#: admin/plugins/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Plugin ini perlu diperbarui agar kompatibel dengan tema anda."
+
+#: admin/plugins/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr "Update Diperlukan"
+
+#: admin/plugins/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+"Remote paket plugin tidak berisi folder dengan yang diinginkan siput dan "
+"mengganti nama tidak bekerja."
+
+#: admin/plugins/class-tgm-plugin-activation.php:1019
+#: admin/plugins/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+"Silahkan hubungi plugin penyedia dan meminta mereka untuk paket mereka "
+"plugin menurut pedoman WordPress."
+
+#: admin/plugins/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+"Remote plugin paket terdiri dari lebih dari satu file, tetapi file tidak "
+"dikemas dalam sebuah folder."
+
+#: admin/plugins/class-tgm-plugin-activation.php:1206
+#: admin/plugins/class-tgm-plugin-activation.php:3033
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "dan"
+
+#. %s: version number
+#: admin/plugins/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr "Repositori WordPress"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Sumber Eksternal"
+msgstr[1] ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr "Pra-Dikemas"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Tidak Diinstal"
+msgstr[1] ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr "Diinstal Tetapi Tidak Diaktifkan"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Aktif"
+msgstr[1] ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr "Update diperlukan tidak Tersedia"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Membutuhkan Pembaruan"
+msgstr[1] ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr "Update dianjurkan"
+
+#. 1: install status, 2: update status
+#: admin/plugins/class-tgm-plugin-activation.php:2427
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s %2$s"
+
+#. 1: number of plugins.
+#: admin/plugins/class-tgm-plugin-activation.php:2473
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#. 1: number of plugins.
+#: admin/plugins/class-tgm-plugin-activation.php:2477
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#. 1: number of plugins.
+#: admin/plugins/class-tgm-plugin-activation.php:2481
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#. 1: number of plugins.
+#: admin/plugins/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2567
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "tidak diketahui"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr "Versi diinstal:"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr "Minimum yang diperlukan versi:"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr "Versi yang tersedia:"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr "Tidak ada plugin untuk menginstal, memperbarui, atau mengaktifkan."
+
+#: admin/plugins/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr "Plugin"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr "Sumber"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr "Versi"
+
+#. %2$s: plugin name in screen reader markup
+#: admin/plugins/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr "Menginstal %2$s"
+
+#. %2$s: plugin name in screen reader markup
+#: admin/plugins/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr "Update %2$s"
+
+#. %2$s: plugin name in screen reader markup
+#: admin/plugins/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr "Aktifkan %2$s"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr "Meng-Upgrade pesan dari penulis plugin:"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr "Menginstal"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr "Mengaktifkan"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+"Tidak ada plugin yang dipilih untuk diinstal. Tidak ada tindakan yang "
+"diambil."
+
+#: admin/plugins/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+"Tidak ada plugin yang dipilih harus diperbarui. Tidak ada tindakan yang "
+"diambil."
+
+#: admin/plugins/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr "Tidak ada plugin yang tersedia untuk diinstal pada saat ini."
+
+#: admin/plugins/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr "Tidak ada plugin yang tersedia untuk diperbarui pada saat ini."
+
+#: admin/plugins/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+"Tidak ada plugin yang dipilih untuk diaktifkan. Tidak ada tindakan yang "
+"diambil."
+
+#: admin/plugins/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr "Tidak ada plugin yang tersedia untuk diaktifkan pada saat ini."
+
+#: admin/plugins/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr "Aktivasi Plugin gagal."
+
+#. 1: plugin name, 2: action number 3: total number of actions.
+#: admin/plugins/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Memperbarui Plugin %1$s (%2$d/%3$d)"
+
+#. 1: plugin name, 2: error message.
+#: admin/plugins/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. 1: plugin name.
+#: admin/plugins/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "Pemasangan %1$s gagal."
+
+#: admin/plugins/class-tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"Instalasi dan aktivasi proses mulai. Proses ini dapat berlangsung sementara "
+"pada beberapa host, jadi harap bersabar."
+
+#. 1: plugin name.
+#: admin/plugins/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s diinstal dan diaktifkan berhasil."
+
+#: admin/plugins/class-tgm-plugin-activation.php:3594
+#: admin/plugins/class-tgm-plugin-activation.php:3602
+msgid "Show Details"
+msgstr "Lihat Detail"
+
+#: admin/plugins/class-tgm-plugin-activation.php:3594
+#: admin/plugins/class-tgm-plugin-activation.php:3602
+msgid "Hide Details"
+msgstr "Sembunyikan Detail"
+
+#: admin/plugins/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr "Semua instalasi dan aktivasi telah selesai."
+
+#. 1: plugin name, 2: action number 3: total number of actions.
+#: admin/plugins/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Menginstal dan Mengaktifkan Plugin %1$s (%2$d/%3$d)"
+
+#: admin/plugins/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"Proses instalasi dimulai. Proses ini dapat berlangsung sementara pada "
+"beberapa host, jadi harap bersabar."
+
+#. 1: plugin name.
+#: admin/plugins/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s berhasil diinstal."
+
+#: admin/plugins/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr "Semua instalasi telah selesai."
+
+#. 1: plugin name, 2: action number 3: total number of actions.
+#: admin/plugins/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Menginstal Plugin %1$s (%2$d/%3$d)"
+
+#: admin/plugins/register.php:80
+msgid "Elementor Page Builder"
+msgstr "Elementor Halaman Pembangun"
+
+#: admin/plugins/register.php:110
+msgid "Contempo Listing Analytics"
+msgstr "Contempo Daftar Analytics"
+
+#: admin/plugins/register.php:143
+msgid "Contempo Real Estate 7 Payment Gateways"
+msgstr "Contempo Real Estate 7 Gateway Pembayaran"
+
+#: admin/plugins/register.php:209
+msgid "WPBakery Page Builder"
+msgstr "WPBakery Halaman Pembangun"
+
+#: includes/widgets/ct-widget-adspace.php:13
+msgid "CT Adspace Widget"
+msgstr "CT Adspace Widget"
+
+#: includes/widgets/ct-widget-adspace.php:61
+#: includes/widgets/ct-widget-listingscrolltocontact.php:62
+#: includes/widgets/ct-widget-listingssocial.php:48
+msgid "Title (optional):"
+msgstr "Judul (opsional):"
+
+#: includes/widgets/ct-widget-adspace.php:65
+msgid "Ad Code:"
+msgstr "Kode Iklan:"
+
+#: includes/widgets/ct-widget-adspace.php:70
+msgid "Image Url:"
+msgstr "Url Gambar:"
+
+#: includes/widgets/ct-widget-adspace.php:74
+msgid "Link URL:"
+msgstr "Link URL:"
+
+#: includes/widgets/ct-widget-adspace.php:78
+msgid "Alt text:"
+msgstr "Teks Alt:"
+
+#: includes/widgets/ct-widget-agentinfo.php:13
+msgid "CT Agent Info"
+msgstr "CT Info Agen"
+
+#: includes/widgets/ct-widget-agentinfo.php:69
+msgid "Mobile"
+msgstr "Mobile"
+
+#: includes/widgets/ct-widget-agentinfo.php:72
+msgid "Office"
+msgstr "Kantor"
+
+#: includes/widgets/ct-widget-agentinfo.php:75
+msgid "Fax"
+msgstr "Fax"
+
+#: includes/widgets/ct-widget-agentsotherlistings.php:13
+msgid "CT Agents Other Listings"
+msgstr "CT Agen Daftar Lain"
+
+#: includes/widgets/ct-widget-agentsotherlistings.php:290
+#: includes/widgets/ct-widget-flickr.php:55
+#: includes/widgets/ct-widget-latestposts.php:74
+#: includes/widgets/ct-widget-listings.php:133
+#: includes/widgets/ct-widget-testimonials.php:66
+msgid "Number:"
+msgstr "Nomor:"
+
+#: includes/widgets/ct-widget-agentsotherlistings.php:298
+#: includes/widgets/ct-widget-listings.php:141
+msgid "Taxonomy:"
+msgstr "Taksonomi:"
+
+#: includes/widgets/ct-widget-agentsotherlistings.php:307
+#: includes/widgets/ct-widget-listings.php:150
+msgid "Tag:"
+msgstr "Tag:"
+
+#: includes/widgets/ct-widget-blogauthor.php:13
+msgid "CT Blog Author Info"
+msgstr "CT Penulis Blog Info"
+
+#: includes/widgets/ct-widget-blogauthor.php:64
+msgid "Bio:"
+msgstr "Bio:"
+
+#: includes/widgets/ct-widget-blogauthor.php:68
+msgid "<a href=\"http://www.gravatar.com/\">Gravatar</a> E-mail:"
+msgstr ""
+
+#: includes/widgets/ct-widget-blogauthor.php:72
+msgid "Gravatar Size:"
+msgstr "Ukuran Gravatar:"
+
+#: includes/widgets/ct-widget-blogauthor.php:76
+msgid "Gravatar Alignment:"
+msgstr "Gravatar Alignment:"
+
+#: includes/widgets/ct-widget-blogauthor.php:78
+msgid "Left"
+msgstr "Kiri"
+
+#: includes/widgets/ct-widget-blogauthor.php:79
+msgid "Right"
+msgstr "Tepat"
+
+#: includes/widgets/ct-widget-blogauthor.php:83
+msgid "Read More Text (optional):"
+msgstr "Baca Lebih lanjut Teks (opsional):"
+
+#: includes/widgets/ct-widget-blogauthor.php:87
+msgid "Read More URL (optional):"
+msgstr "Baca Lebih lanjut URL (optional):"
+
+#: includes/widgets/ct-widget-blogauthor.php:91
+msgid "Visible Pages:"
+msgstr "Terlihat Halaman:"
+
+#: includes/widgets/ct-widget-blogauthor.php:93
+msgid "All"
+msgstr "Semua"
+
+#: includes/widgets/ct-widget-blogauthor.php:94
+msgid "Home only"
+msgstr "Rumah hanya"
+
+#: includes/widgets/ct-widget-blogauthor.php:95
+msgid "Single only"
+msgstr "Satu-satunya"
+
+#: includes/widgets/ct-widget-brokerinfo.php:13
+msgid "CT Brokers Info"
+msgstr "CT Broker Info"
+
+#: includes/widgets/ct-widget-brokerinfo.php:54
+msgid "Email Office"
+msgstr "Email Kantor"
+
+#: includes/widgets/ct-widget-brokerinfo.php:55
+msgid "Visit Brokers Website"
+msgstr "Kunjungi Situs Web Broker"
+
+#: includes/widgets/ct-widget-brokerinfo.php:82
+msgid "Logo URL:"
+msgstr "Logo URL:"
+
+#: includes/widgets/ct-widget-brokerinfo.php:86
+msgid "Company:"
+msgstr "Perusahaan:"
+
+#: includes/widgets/ct-widget-brokerinfo.php:90
+msgid "Office Phone:"
+msgstr "Telepon Kantor:"
+
+#: includes/widgets/ct-widget-brokerinfo.php:94
+msgid "Office Email:"
+msgstr "Kantor Email:"
+
+#: includes/widgets/ct-widget-brokerinfo.php:98
+msgid "Website:"
+msgstr "Website:"
+
+#: includes/widgets/ct-widget-contactinfo.php:13
+msgid "CT Contact Info"
+msgstr "CT Info Kontak"
+
+#: includes/widgets/ct-widget-contactinfo.php:134
+msgid "Show Logo:"
+msgstr "Tampilkan Logo:"
+
+#: includes/widgets/ct-widget-contactinfo.php:145
+msgid "Blurb:"
+msgstr "Uraian:"
+
+#: includes/widgets/ct-widget-contactinfo.php:149
+msgid "Company Name:"
+msgstr "Nama Perusahaan:"
+
+#: includes/widgets/ct-widget-contactinfo.php:153
+msgid "Street Address:"
+msgstr "Alamat Jalan:"
+
+#: includes/widgets/ct-widget-contactinfo.php:157
+msgid "City:"
+msgstr "City:"
+
+#: includes/widgets/ct-widget-contactinfo.php:161
+msgid "State:"
+msgstr "Negara:"
+
+#: includes/widgets/ct-widget-contactinfo.php:165
+msgid "Postal:"
+msgstr "Pos:"
+
+#: includes/widgets/ct-widget-contactinfo.php:169
+msgid "Country:"
+msgstr "Negara:"
+
+#: includes/widgets/ct-widget-contactinfo.php:173
+msgid "Phone:"
+msgstr "Telepon:"
+
+#: includes/widgets/ct-widget-flickr.php:13
+msgid "CT Flickr"
+msgstr "CT Flickr"
+
+#: includes/widgets/ct-widget-flickr.php:26
+msgid "Photos on flickr"
+msgstr "Foto-foto di flickr"
+
+#: includes/widgets/ct-widget-flickr.php:51
+msgid "Flickr ID (<a href=\"http://www.idgettr.com\">idGettr</a>):"
+msgstr ""
+
+#: includes/widgets/ct-widget-flickr.php:65
+msgid "User"
+msgstr "Pengguna"
+
+#: includes/widgets/ct-widget-flickr.php:66
+msgid "Group"
+msgstr "Kelompok"
+
+#: includes/widgets/ct-widget-flickr.php:70
+msgid "Sorting:"
+msgstr "Sorting:"
+
+#: includes/widgets/ct-widget-flickr.php:72
+#: includes/widgets/ct-widget-tabs.php:110
+#: includes/widgets/ct-widget-tabs.php:117
+msgid "Latest"
+msgstr "Terbaru"
+
+#: includes/widgets/ct-widget-flickr.php:73
+msgid "Random"
+msgstr "Random"
+
+#: includes/widgets/ct-widget-flickr.php:77
+msgid "Size:"
+msgstr "Ukuran:"
+
+#: includes/widgets/ct-widget-flickr.php:79
+msgid "Square"
+msgstr "Square"
+
+#: includes/widgets/ct-widget-flickr.php:80
+msgid "Medium"
+msgstr "Media"
+
+#: includes/widgets/ct-widget-flickr.php:81
+msgid "Thumbnail"
+msgstr "Thumbnail"
+
+#: includes/widgets/ct-widget-latestposts.php:13
+msgid "CT Latest Posts"
+msgstr "CT Posting Terbaru"
+
+#: includes/widgets/ct-widget-listings.php:13
+msgid "CT Listings"
+msgstr "CT Daftar"
+
+#: includes/widgets/ct-widget-listings.php:154
+msgid "View All Link Text"
+msgstr "Lihat Semua Link Teks"
+
+#: includes/widgets/ct-widget-listings.php:158
+msgid "View All Link URL"
+msgstr "Lihat Semua Link URL"
+
+#: includes/widgets/ct-widget-listingscontact.php:13
+msgid "CT Listing Agent Contact"
+msgstr "CT Listing Kontak Agen"
+
+#: includes/widgets/ct-widget-listingscontact.php:72
+msgid "Subject:"
+msgstr "Subjek:"
+
+#: includes/widgets/ct-widget-listingscrolltocontact.php:13
+msgid "CT Listing Contact ScrollTo"
+msgstr "CT Daftar Kontak ScrollTo"
+
+#: includes/widgets/ct-widget-listingscrolltocontact.php:66
+msgid "Button One Text:"
+msgstr "Tombol Satu Teks:"
+
+#: includes/widgets/ct-widget-listingscrolltocontact.php:70
+msgid "Button Two Text:"
+msgstr "Tombol Dua Teks:"
+
+#: includes/widgets/ct-widget-listingssearch.php:13
+msgid "CT Listings Search"
+msgstr "CT Daftar Pencarian"
+
+#: includes/widgets/ct-widget-listingssocial.php:13
+msgid "CT Listings Social"
+msgstr "CT Listing Sosial"
+
+#: includes/widgets/ct-widget-search.php:13
+msgid "CT Search"
+msgstr "CT Pencarian"
+
+#: includes/widgets/ct-widget-tabs.php:13
+msgid "CT Tabs"
+msgstr "CT Tab"
+
+#: includes/widgets/ct-widget-tabs.php:103
+msgid "Number of posts:"
+msgstr "Jumlah posting:"
+
+#: includes/widgets/ct-widget-tabs.php:108
+msgid "First Visible Tab:"
+msgstr "Pertama Terlihat Tab:"
+
+#: includes/widgets/ct-widget-tabs.php:111
+#: includes/widgets/ct-widget-tabs.php:120
+msgid "Comments"
+msgstr "Komentar"
+
+#: includes/widgets/ct-widget-tabs.php:112
+#: includes/widgets/ct-widget-tabs.php:123
+msgid "Tags"
+msgstr "Tags"
+
+#: includes/widgets/ct-widget-testimonials.php:13
+msgid "CT Testimonials"
+msgstr "CT Testimonial"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:245
+#: admin/ReduxFramework/theme-options/re7-config.php:246
+msgid "Real Estate 7 Options"
+msgstr "Real Estate 7 Pilihan"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:923
+msgid "Theme Information 1"
+msgstr "Tema Informasi 1"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:924
+#: admin/ReduxFramework/theme-options/re7-config.php:929
+msgid "<p>This is the tab content, HTML is allowed.</p>"
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:928
+msgid "Theme Information 2"
+msgstr "Informasi Theme 2"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:935
+msgid "<p>This is the sidebar content, HTML is allowed.</p>"
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:941
+msgid "General Settings"
+msgstr "Pengaturan Umum"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1010
+#: admin/ReduxFramework/theme-options/re7-config.php:2168
+msgid "Header"
+msgstr "Header"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1078
+msgid "Custom Logo"
+msgstr "Logo Kustom"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1129
+msgid "Top Bar"
+msgstr "Top Bar"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1150
+msgid "Contact Phone"
+msgstr "Hubungi Telepon"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1170
+#: admin/ReduxFramework/theme-options/re7-config.php:1318
+#: admin/ReduxFramework/theme-options/re7-config.php:1349
+#: admin/ReduxFramework/theme-options/re7-config.php:1380
+msgid "Icon"
+msgstr "Ikon"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1171
+#: admin/ReduxFramework/theme-options/re7-config.php:1319
+#: admin/ReduxFramework/theme-options/re7-config.php:1350
+#: admin/ReduxFramework/theme-options/re7-config.php:1381
+msgid "Select an icon."
+msgstr "Pilih ikon."
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1188
+msgid "Currency Switcher"
+msgstr "Mata Switcher"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1196
+msgid "Social Links"
+msgstr "Hubungan Sosial"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1287
+msgid "Header Info Columns"
+msgstr "Info Header Kolom"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1295
+msgid "Column One"
+msgstr "Kolom Satu"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1326
+msgid "Column Two"
+msgstr "Kolom Dua"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1357
+msgid "Column Three"
+msgstr "Kolom Tiga"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1389
+msgid "Homepage"
+msgstr "Homepage"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1399
+msgid "Layout Manager"
+msgstr "Tata Letak Manager"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1440
+msgid "Revolution Slider"
+msgstr "Revolusi Slider"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1457
+#: admin/ReduxFramework/theme-options/re7-config.php:1864
+msgid "FlexSlider"
+msgstr "FlexSlider"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1483
+msgid "Listing Carousel"
+msgstr "Daftar Korsel"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1522
+msgid "Hero w/Search"
+msgstr "Pahlawan w/Pencarian"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1569
+msgid "Top Padding"
+msgstr "Top Padding"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1570
+msgid "Set the top padding in percentage."
+msgstr "Set top padding dalam persentase."
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1580
+msgid "Bottom Padding"
+msgstr "Bantalan Bawah"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1581
+msgid "Set the bottom padding in percentage."
+msgstr "Set bawah padding dalam persentase."
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1592
+msgid "Call To Action"
+msgstr "Panggilan Untuk Aksi"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1623
+msgid "Listings Count"
+msgstr "Listing Menghitung"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1727
+msgid "Add/Edit Testimonials"
+msgstr "Menambahkan/Mengedit Testimonial"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1728
+msgid "Add your testimonials to be displayed on the homepage."
+msgstr "Tambahkan testimonial anda yang akan ditampilkan pada homepage."
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1730
+msgid "Company or Person"
+msgstr "Perusahaan atau Orang"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1731
+msgid "Testimonial Here"
+msgstr "Testimonial Di Sini"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1732
+#: admin/ReduxFramework/theme-options/re7-config.php:1762
+msgid "Link"
+msgstr "Link"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1740
+msgid "Partners"
+msgstr "Mitra"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1757
+msgid "Add/Edit Partner Logos"
+msgstr "Tambahkan/Edit Logo Mitra"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1758
+msgid "Add your partner logos to be displayed on the homepage."
+msgstr "Menambahkan logo mitra yang akan ditampilkan pada homepage."
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1760
+msgid "Partner Title"
+msgstr "Sama Judul"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1761
+msgid "Description Here (not used)"
+msgstr "Deskripsi di Sini (tidak digunakan)"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1783
+msgid "Elementor"
+msgstr "Elementor"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1804
+msgid "Page Builder"
+msgstr "Halaman Pembangun"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1848
+msgid "Four Column Widget Area"
+msgstr "Empat Kolom Widget Area"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1942
+msgid "Create a Skin"
+msgstr "Membuat Kulit"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1965
+#: admin/ReduxFramework/theme-options/re7-config.php:2179
+#: admin/ReduxFramework/theme-options/re7-config.php:2272
+#: admin/ReduxFramework/theme-options/re7-config.php:2355
+#: admin/ReduxFramework/theme-options/re7-config.php:2444
+#: admin/ReduxFramework/theme-options/re7-config.php:2484
+msgid "NOTE!"
+msgstr "CATATAN!"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1966
+msgid "If this isn't set to Yes NONE of the Styles will be Applied."
+msgstr "Jika ini isn\\'t diatur ke Ya TIDAK ada Gaya yang akan Diterapkan."
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1973
+msgid "Typography"
+msgstr "Tipografi"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1993
+msgid "Body"
+msgstr "Tubuh"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2012
+msgid "Headings"
+msgstr "Judul"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2031
+msgid "H1"
+msgstr "H1"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2051
+msgid "H2"
+msgstr "H2"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2071
+msgid "H3"
+msgstr "H3"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2091
+msgid "H4"
+msgstr "H4"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2111
+msgid "H5"
+msgstr "H5"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2131
+msgid "H6"
+msgstr "H6"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2152
+msgid "Body Background"
+msgstr "Latar Belakang Tubuh"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2180
+#: admin/ReduxFramework/theme-options/re7-config.php:2273
+#: admin/ReduxFramework/theme-options/re7-config.php:2356
+#: admin/ReduxFramework/theme-options/re7-config.php:2445
+#: admin/ReduxFramework/theme-options/re7-config.php:2485
+msgid ""
+"You must set Create a Skin > Use Custom Styles > Yes, if this isn't set NONE "
+"of the Styles will be Applied."
+msgstr ""
+"Anda harus mengatur Membuat Kulit > Menggunakan Gaya Kustom > Ya, jika ini "
+"isn\\'t set TIDAK ada Gaya yang akan Diterapkan."
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2261
+msgid "Mobile Navigation"
+msgstr "Navigasi Mobile"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2344
+msgid "Secondary Colors"
+msgstr "Warna Sekunder"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2433
+msgid "Links"
+msgstr "Link"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2473
+#: admin/ReduxFramework/theme-options/re7-config.php:5181
+msgid "Footer"
+msgstr "Footer"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2543
+msgid "User Profile Fields"
+msgstr "Profil Pengguna Bidang"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2679
+msgid "Agent Single"
+msgstr "Agen Tunggal"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2742
+msgid "Google Maps"
+msgstr "Google Maps"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2799
+msgid "Global Options"
+msgstr "Opsi Global"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2800
+msgid ""
+"These options apply globally to the homepage, expanded area of header search "
+"and search widget."
+msgstr ""
+"Pilihan ini berlaku secara global ke homepage, memperluas area pencarian "
+"header dan widget pencarian."
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2869
+msgid "Header Search"
+msgstr "Pencarian Header"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2951
+msgid "Homepage Search"
+msgstr "Homepage Pencarian"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:3253
+msgid "Listings Search"
+msgstr "Daftar Pencarian"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:3351
+msgid "Listing Single"
+msgstr "Daftar Tunggal"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:3616
+msgid "Listing Stats"
+msgstr "Daftar Statistik"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:3659
+msgid "Listing IDX/MLS"
+msgstr "Daftar IDX/MLS"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:3685
+msgid "Walk Score"
+msgstr "Berjalan Skor"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:3688
+msgid ""
+"Walk Score is the only international measure of walkability and the leading "
+"provider of neighborhood maps to the real estate industry. More than 30,000 "
+"websites use the Walk Score Neighborhood Map and we serve over 20 million "
+"scores each day. <a href=\"https://www.walkscore.com/professional/api-sign-"
+"up.php\" target=\"_blank\">Get your API Key</a>!."
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:3729
+msgid ""
+"Set this up if you'd like to display \"What's Nearby?\" information on your "
+"listings such as restaurants, grocery stores, schools, coffee shops, "
+"etc&hellip;."
+msgstr ""
+"Set up ini jika anda'd seperti untuk menampilkan \"What\\'s Dekatnya?\" "
+"informasi mengenai listing anda seperti restoran, toko-toko, sekolah-sekolah,"
+" toko-toko kopi, dll"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:3836
+msgid "Front End Login & Registration"
+msgstr "Front End Login "
+
+#: admin/ReduxFramework/theme-options/re7-config.php:3932
+msgid "Front End Submission"
+msgstr "Pengajuan Front End"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:4145
+msgid "Submit Listing Form"
+msgstr "Menyerahkan Daftar Bentuk"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:4156
+#: admin/ReduxFramework/theme-options/re7-config.php:4245
+#: admin/ReduxFramework/theme-options/re7-config.php:4453
+#: admin/ReduxFramework/theme-options/re7-config.php:4542
+msgid "Select which fields you'd like to be required."
+msgstr "Pilih bidang yang anda'd ingin menjadi yang diperlukan."
+
+#: admin/ReduxFramework/theme-options/re7-config.php:4364
+msgid ""
+"Select which fields you'd like to be required, these are only shown if "
+"enabled via Listings > Listing Single > Enable Vacation Rentals/Booking "
+"Fields."
+msgstr ""
+"Pilih bidang yang anda'd seperti yang akan diperlukan, ini hanya ditampilkan "
+"jika diaktifkan melalui Daftar > Daftar Single > Aktifkan Vacation "
+"Rentals/Pemesanan Bidang."
+
+#: admin/ReduxFramework/theme-options/re7-config.php:4560
+msgid "PayPal Settings"
+msgstr "PayPal Pengaturan"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:4633
+msgid "Stripe Settings"
+msgstr "Stripe Setelan"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:4671
+msgid "Wire Transfer"
+msgstr "Wire Transfer"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:4740
+msgid "Email Content"
+msgstr "Isi Email"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:4876
+msgid "Blog Archive"
+msgstr "Arsip Blog"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:4918
+msgid "Single Post"
+msgstr "Single Post"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:5086
+msgid "Map Addresses"
+msgstr "Peta Alamat"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:5087
+msgid ""
+"Enter the address of your locations to be used in the Google Map, needs to "
+"be entered in this format for each entry: 849 West Harbor Dr. San Diego, CA "
+"92101"
+msgstr ""
+"Masukkan alamat lokasi yang akan digunakan di Google Map, harus dimasukkan "
+"dalam format ini untuk setiap entri: 849 Barat Harbor Dr San Diego, CA, 92101"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:5401
+msgid ""
+"<p class=\"description\">This is a section created by adding a filter to the "
+"sections array. Can be used by child themes to add/remove sections from the "
+"options.</p>"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"A responsive real estate theme, designed by <a href=\"http://www."
+"contempographicdesign.com\">Contempo</a>."
+msgstr ""

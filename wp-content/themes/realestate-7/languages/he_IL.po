@@ -1,0 +1,4649 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-01-04 21:35+0000\n"
+"PO-Revision-Date: 2020-01-04 21:35+0000\n"
+"Last-Translator: \n"
+"Language-Team: Hebrew\n"
+"Language: he_IL\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: comments.php:44
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: includes/featured-listings.php:67 includes/featured-listings.php:76
+#: includes/home-listings-carousel.php:44
+#: includes/home-listings-carousel.php:53 includes/single-listing-home.php:28
+msgid "featured"
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2012
+msgid "Headings"
+msgstr "כותרות"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2031
+msgid "H1"
+msgstr "H1"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2051
+msgid "H2"
+msgstr "H2"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2071
+msgid "H3"
+msgstr "H3"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2091
+msgid "H4"
+msgstr "H4"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2111
+msgid "H5"
+msgstr "H5"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2131
+msgid "H6"
+msgstr "H6"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2152
+msgid "Body Background"
+msgstr "גוף רקע"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2180
+#: admin/ReduxFramework/theme-options/re7-config.php:2273
+#: admin/ReduxFramework/theme-options/re7-config.php:2356
+#: admin/ReduxFramework/theme-options/re7-config.php:2445
+#: admin/ReduxFramework/theme-options/re7-config.php:2485
+msgid ""
+"You must set Create a Skin > Use Custom Styles > Yes, if this isn't set NONE "
+"of the Styles will be Applied."
+msgstr ""
+"עליך להגדיר ליצור העור < שימוש סגנונות מותאמים אישית < כן, אם זה isn לא "
+"להגדיר אף סגנונות ייושם."
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2261
+msgid "Mobile Navigation"
+msgstr "ניווט סלולרי"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2344
+msgid "Secondary Colors"
+msgstr "משני צבעים"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2433
+msgid "Links"
+msgstr "קישורים"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2473
+#: admin/ReduxFramework/theme-options/re7-config.php:5174
+msgid "Footer"
+msgstr "כותרת תחתונה"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2543
+msgid "User Profile Fields"
+msgstr "שדות פרופיל משתמש"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2679
+msgid "Agent Single"
+msgstr "סוכן יחיד"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2742
+msgid "Google Maps"
+msgstr "גוגל מפות"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2799
+msgid "Global Options"
+msgstr "אפשרויות כלליות"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2800
+msgid ""
+"These options apply globally to the homepage, expanded area of header search "
+"and search widget."
+msgstr ""
+"אפשרויות אלה חלות באופן גלובלי את דף הבית, הרחיבה שטח של כותרת חיפוש, חיפוש "
+"יישומון."
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2872
+msgid "Header Search"
+msgstr "כותרת חיפוש"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2957
+msgid "Homepage Search"
+msgstr "דף הבית חיפוש"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:3259
+msgid "Listings Search"
+msgstr "רישומים חיפוש"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:3369
+msgid "Listing Single"
+msgstr "רישום יחיד"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:3637
+msgid "Listing Stats"
+msgstr "רישום נתונים סטטיסטיים"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:3678
+msgid "Walk Score"
+msgstr "הליכה ציון"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:3722
+msgid ""
+"Set this up if you'd like to display \"What's Nearby?\" information on your "
+"listings such as restaurants, grocery stores, schools, coffee shops, "
+"etc&hellip;."
+msgstr ""
+"הגדרת את זה אם אתה\\'ד רוצה להציג \"מה\\'s בקרבת מקום?\". מידע על הרישומים "
+"שלך, כגון מסעדות, חנויות מכולת, בתי ספר, בתי קפה, וכו'"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:3829
+msgid "Front End Login & Registration"
+msgstr "חזית כניסה "
+
+#: admin/ReduxFramework/theme-options/re7-config.php:3925
+msgid "Front End Submission"
+msgstr "לפני סוף ההגשה"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:4138
+msgid "Submit Listing Form"
+msgstr "להגיש טופס רישום"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:4149
+#: admin/ReduxFramework/theme-options/re7-config.php:4238
+#: admin/ReduxFramework/theme-options/re7-config.php:4446
+#: admin/ReduxFramework/theme-options/re7-config.php:4535
+msgid "Select which fields you'd like to be required."
+msgstr "לבחור איזה שדות אתה'ד כמו להיות נדרש."
+
+#: admin/ReduxFramework/theme-options/re7-config.php:4357
+msgid ""
+"Select which fields you'd like to be required, these are only shown if "
+"enabled via Listings > Listing Single > Enable Vacation Rentals/Booking "
+"Fields."
+msgstr ""
+"לבחור איזה שדות אתה'ד כמו להיות הנדרש, אלו מוצגים רק אם אפשרות זו מופעלת "
+"באמצעות רישומים > רישום יחיד < הפעלה נופש/ההזמנות שדות."
+
+#: admin/ReduxFramework/theme-options/re7-config.php:4553
+msgid "PayPal Settings"
+msgstr "הגדרות PayPal"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:4626
+msgid "Stripe Settings"
+msgstr "פס הגדרות"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:4664
+msgid "Wire Transfer"
+msgstr "העברה בנקאית"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:4733
+msgid "Email Content"
+msgstr "תוכן דוא \" ל"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:4869
+msgid "Blog Archive"
+msgstr "ארכיון הבלוג"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:4911
+msgid "Single Post"
+msgstr "הודעה אחת"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:5079
+msgid "Map Addresses"
+msgstr "מפת כתובות"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:5080
+msgid ""
+"Enter the address of your locations to be used in the Google Map, needs to "
+"be entered in this format for each entry: 849 West Harbor Dr. San Diego, CA "
+"92101"
+msgstr ""
+"הזן את הכתובת של המיקומים שלך כדי לשמש את מפת גוגל, יש להזין בפורמט זה עבור "
+"כל כניסה: 849 West Harbor ד \" ר San Diego, CA 92101"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:5144
+msgid "Custom CSS"
+msgstr "ב-CSS מותאם אישית"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:5159
+msgid "Custom JS"
+msgstr "מותאם אישית JS"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:5240
+msgid "Import/Export"
+msgstr "יבוא/יצוא"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:5277
+msgid "Changelog"
+msgstr "Changelog"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:5393
+msgid "Section via hook"
+msgstr "סעיף באמצעות וו"
+
+#. Name of the theme
+msgid "WP Pro Real Estate 7"
+msgstr "WP Pro נדל \" ן 7"
+
+#. URI of the theme
+msgid "http://themeforest.net/user/contempoinc?ref=contempoinc"
+msgstr "http://themeforest.net/user/contempoinc?ref=contempoinc"
+
+#. Author of the theme
+msgid "Chris Robinson"
+msgstr "כריס רובינסון."
+
+#. Author URI of the theme
+msgid "http://www.contempographicdesign.com"
+msgstr "http://www.contempographicdesign.com"
+
+#: 404.php:15
+msgid "Page Not Found"
+msgstr "דף לא נמצא"
+
+#: 404.php:16
+msgid "Woah there! Looks like you've gotten lost."
+msgstr "Woah שם! נראה כאילו אתה\\'ve לאיבוד."
+
+#: 404.php:17
+msgid "Go back to the homepage"
+msgstr "חזור אל דף הבית"
+
+#: archive-brokerage.php:38
+#: admin/ReduxFramework/theme-options/re7-config.php:2711
+msgid "Brokerages"
+msgstr "ברוקרים"
+
+#: archive-brokerage.php:52 template-brokerages.php:52
+msgid "Type a brokerage name or address here to filter the list."
+msgstr "סוג תיווך השם או הכתובת כאן כדי לסנן את הרשימה."
+
+#: archive-brokerage.php:108 author.php:71 single-brokerage.php:78
+#: single-brokerage.php:280 template-agents.php:251 template-brokerages.php:122
+#: template-favorite-listings.php:111
+msgid "Tell me more about a property"
+msgstr "ספר לי עוד על נכס"
+
+#: archive-brokerage.php:109 author.php:72 single-brokerage.php:79
+#: single-brokerage.php:281 template-agents.php:252 template-brokerages.php:123
+#: template-favorite-listings.php:112 includes/agent-contact-modal.php:22
+#: includes/single-listing-contact.php:217 includes/single-listing-home.php:270
+#: includes/single-listing-lead-media-with-contact.php:141
+#: includes/widgets/ct-widget-listingscontact.php:31
+msgid "Request a showing"
+msgstr "בקשת מראה"
+
+#: archive-brokerage.php:110 author.php:73 single-brokerage.php:80
+#: single-brokerage.php:282 template-agents.php:253 template-brokerages.php:124
+#: template-favorite-listings.php:113
+msgid "General Questions"
+msgstr "שאלות כלליות"
+
+#: archive-brokerage.php:113 author.php:76 single-brokerage.php:83
+#: single-brokerage.php:285 template-agents.php:256 template-brokerages.php:127
+#: template-edit-profile.php:129 template-favorite-listings.php:116
+#: includes/agent-contact-modal.php:25 includes/agent-contact-modal.php:25
+#: includes/agent-contact-modal.php:25 includes/single-listing-contact.php:223
+#: includes/single-listing-home.php:273
+#: includes/single-listing-lead-media-with-contact.php:147
+#: includes/single-listing-multi-floorplan.php:27
+#: includes/widgets/ct-widget-listingscontact.php:34
+#: includes/widgets/ct-widget-listingscontact.php:34
+#: includes/widgets/ct-widget-listingscontact.php:34
+msgid "Name"
+msgstr "שם"
+
+#: archive-brokerage.php:115 archive-brokerage.php:177 author.php:78
+#: author.php:124 author.php:283 single-brokerage.php:85
+#: single-brokerage.php:135 single-brokerage.php:287 single-brokerage.php:350
+#: template-agents.php:258 template-brokerages.php:129
+#: template-brokerages.php:189 template-favorite-listings.php:118
+#: admin/theme-functions.php:3773 includes/agent-contact-modal.php:27
+#: includes/agent-contact-modal.php:27 includes/agent-contact-modal.php:27
+#: includes/single-listing-contact.php:89
+#: includes/single-listing-contact.php:171
+#: includes/single-listing-contact.php:227
+#: includes/single-listing-contact.php:297 includes/single-listing-home.php:253
+#: includes/single-listing-home.php:275 includes/single-listing-home.php:336
+#: includes/single-listing-lead-media-with-contact.php:151
+#: includes/widgets/ct-widget-agentinfo.php:78
+#: includes/widgets/ct-widget-listingscontact.php:36
+#: includes/widgets/ct-widget-listingscontact.php:36
+#: includes/widgets/ct-widget-listingscontact.php:36
+msgid "Email"
+msgstr "דוא \" ל"
+
+#: archive-brokerage.php:117 author.php:80 single-brokerage.php:87
+#: single-brokerage.php:289 template-agents.php:260 template-brokerages.php:131
+#: template-contact.php:72 template-favorite-listings.php:120
+#: includes/agent-contact-modal.php:29 includes/agent-contact-modal.php:29
+#: includes/agent-contact-modal.php:29 includes/single-listing-contact.php:231
+#: includes/single-listing-home.php:277
+#: includes/single-listing-lead-media-with-contact.php:155
+#: includes/widgets/ct-widget-listingscontact.php:38
+#: includes/widgets/ct-widget-listingscontact.php:38
+#: includes/widgets/ct-widget-listingscontact.php:38
+msgid "Phone"
+msgstr "טלפון"
+
+#: archive-brokerage.php:125 author.php:88 single-brokerage.php:95
+#: single-brokerage.php:297 template-agents.php:268 template-brokerages.php:137
+#: template-contact.php:83 template-contact.php:83
+#: template-favorite-listings.php:127 template-submit-listing.php:804
+#: includes/agent-contact-modal.php:38 includes/single-listing-contact.php:242
+#: includes/single-listing-home.php:285
+#: includes/widgets/ct-widget-listingscontact.php:47
+msgid "Submit"
+msgstr "להגיש"
+
+#: archive-brokerage.php:208 template-brokerages.php:220
+#: template-view-listings.php:211 includes/featured-listings.php:118
+#: includes/single-listing-ct-idx-pro-info.php:285
+#: includes/single-listing-multi-floorplan.php:122 layouts/grid.php:76
+msgid "View"
+msgstr "נוף"
+
+#: archive-brokerage.php:218 template-brokerages.php:230
+msgid "No Brokerages Found."
+msgstr "לא ברוקרים מצאתי."
+
+#: archive.php:77
+msgid "No posts were found which match your search criteria"
+msgstr "לא פוסטים נמצאו אשר תואם את קריטריוני החיפוש שלך"
+
+#: archive.php:77 layouts/grid.php:26 layouts/list.php:27
+msgid "Try broadening your search to find more results."
+msgstr "נסה להרחיב את החיפוש שלך כדי למצוא עוד תוצאות."
+
+#: author.php:33 admin/profile-fields.php:81 admin/theme-functions.php:1952
+#: admin/theme-functions.php:3799 includes/single-listing-contact.php:52
+#: includes/single-listing-lead-media-with-contact.php:110 layouts/list.php:149
+msgid "Agent"
+msgstr "הסוכן"
+
+#: author.php:145 template-edit-listing.php:826 template-submit-listing.php:710
+#: admin/profile-fields.php:211
+msgid "Address"
+msgstr "כתובת"
+
+#: author.php:153
+msgid "Social"
+msgstr "חברתית"
+
+#: author.php:194 author.php:341
+msgid "Type a listing address or keyword to filter the list."
+msgstr "הקלד את פרטי כתובת או מילת מפתח כדי לסנן את הרשימה."
+
+#: comments.php:13
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "פוסט זה מוגן בסיסמא. הזן את הסיסמה כדי להציג את ההערות."
+
+#: comments.php:31
+msgid "No Responses"
+msgstr "אין תגובות"
+
+#: comments.php:31
+msgid "1 Comment"
+msgstr "1 תגובה"
+
+#: comments.php:31
+msgid "% Comments"
+msgstr "% תגובות"
+
+#: comments.php:45
+msgid "Newer Comments &rarr;"
+msgstr "חדשה תגובות "
+
+#: comments.php:53
+msgid "Comments are closed, but"
+msgstr "תגובות סגורות, אבל"
+
+#: comments.php:53
+msgid "Trackback URL for this post"
+msgstr "Trackback URL עבור הפוסט הזה"
+
+#: comments.php:53
+msgid "trackbacks"
+msgstr "trackbacks"
+
+#: comments.php:53
+msgid "and pingbacks are open."
+msgstr "ו פינגים חוזרים לא פתוחים."
+
+#: comments.php:59
+msgid "Reviews are closed."
+msgstr "חוות דעת סגורים."
+
+#: comments.php:61
+msgid "Comments are closed."
+msgstr "תגובות סגורות."
+
+#: footer.php:91
+msgid "All Rights Reserved."
+msgstr "כל הזכויות שמורות."
+
+#: functions.php:55
+msgid "Getting Started"
+msgstr "התחלתי"
+
+#: header.php:185 header.php:491
+msgid "Hi, "
+msgstr "שלום, "
+
+#: header.php:204 header.php:510 includes/user-sidebar.php:37
+msgid "Dashboard"
+msgstr "לוח המחוונים."
+
+#: header.php:208 header.php:514 includes/user-sidebar.php:41
+msgid "Favorite Listings"
+msgstr "האהוב רישומים"
+
+#: header.php:211 header.php:517
+msgid "Saved Searches"
+msgstr "חיפושים שמורים"
+
+#: header.php:216 header.php:522 header.php:552 includes/user-sidebar.php:49
+msgid "Submit Listing"
+msgstr "להגיש רישום"
+
+#: header.php:219 header.php:525 template-user-dashboard.php:103
+#: includes/user-sidebar.php:52
+msgid "My Listings"
+msgstr "שלי רישומים"
+
+#. Name of the template
+#: header.php:222 header.php:528 template-user-dashboard.php:83
+#: includes/user-sidebar.php:55
+msgid "Membership"
+msgstr "חברות"
+
+#. Name of the template
+#: header.php:225 header.php:531 includes/user-sidebar.php:58
+msgid "Invoices"
+msgstr "חשבוניות"
+
+#. Name of the template
+#: header.php:228 header.php:534 includes/user-sidebar.php:61
+#: admin/ReduxFramework/theme-options/re7-config.php:3659
+msgid "Listing Analytics"
+msgstr "רישום Analytics"
+
+#: header.php:233 header.php:539 includes/user-sidebar.php:65
+msgid "Account Settings"
+msgstr "הגדרות חשבון"
+
+#: header.php:236 header.php:542 includes/user-sidebar.php:68
+msgid "Logout"
+msgstr "ניתוק"
+
+#: header.php:240 header.php:550
+msgid "Login / Register"
+msgstr "התחברות / הרשמה"
+
+#: header.php:240 header.php:550 admin/theme-functions.php:3698
+msgid "Login"
+msgstr "כניסה"
+
+#: header.php:781
+msgid "Add \"CT Compare\" Widget via Appearance > Widgets > Compare."
+msgstr "להוסיף \"CT להשוות\" יישומון באמצעות המראה < יישומונים < להשוות."
+
+#: page.php:59 single.php:127 template-dsidxpress.php:41
+#: template-edit-listing.php:935 template-submit-listing.php:815
+msgid "Pages:"
+msgstr "עמודים:"
+
+#: search-listings.php:153 search-listings.php:250
+msgid "listings found"
+msgstr "רישומים שנמצאו"
+
+#: search-listings.php:153 search-listings.php:250
+msgid "listing found"
+msgstr "רישום מצא"
+
+#: search-listings.php:157 search-listings.php:254
+msgid "Find A Home"
+msgstr "למצוא בית"
+
+#: search-listings.php:169 search-listings.php:265 search-listings.php:292
+msgid "Searching:"
+msgstr "חיפוש:"
+
+#: search-listings.php:173 search-listings.php:269 search-listings.php:296
+msgid "All listings"
+msgstr "כל הרישומים"
+
+#: search-listings.php:175 admin/theme-functions.php:1172
+msgid "Open Search"
+msgstr "חיפוש"
+
+#: search-listings.php:272 search-listings.php:298
+#: admin/theme-functions.php:1169
+msgid "Close Map"
+msgstr "קרוב מפה"
+
+#: search-listings.php:332 search-listings.php:336
+msgid "Save This Search?"
+msgstr "שמור חיפוש זה?"
+
+#: search-listings.php:334
+msgid "View Saved"
+msgstr "נוף הציל"
+
+#: single-brokerage.php:39 admin/profile-fields.php:180
+msgid "Brokerage"
+msgstr "תיווך"
+
+#: single-brokerage.php:162 single-listings.php:38
+#: admin/ReduxFramework/theme-options/re7-config.php:2988
+msgid "Listings"
+msgstr "רישומים"
+
+#: single-brokerage.php:163
+#: admin/ReduxFramework/theme-options/re7-config.php:2601
+msgid "Agents"
+msgstr "סוכנים"
+
+#: single-brokerage.php:164
+msgid "Map"
+msgstr "מפה"
+
+#: single-brokerage.php:166 includes/single-listing-sub-navigation.php:149
+msgid "Reviews"
+msgstr "חוות דעת"
+
+#: single-brokerage.php:224
+msgid "Type an agents name or title here to filter the list."
+msgstr "סוג של סוכנים שם או כותרת כאן כדי לסנן את הרשימה."
+
+#: single-brokerage.php:368
+msgid "View Listings"
+msgstr "להציג רישומים"
+
+#: single-brokerage.php:379
+msgid "This brokerage currently has no active agents."
+msgstr "זה תיווך יש כיום לא סוכנים פעילים."
+
+#: single-brokerage.php:379 layouts/grid.php:22 layouts/grid.php:24
+#: layouts/list.php:23 layouts/list.php:25
+msgid "Check back soon."
+msgstr "בדוק שוב בקרוב."
+
+#: single-brokerage.php:401 includes/single-listing-reviews.php:19
+msgid "No Reviews"
+msgstr "אין חוות דעת"
+
+#: single-brokerage.php:401 includes/single-listing-reviews.php:19
+msgid "1 Review"
+msgstr "1 סקירה"
+
+#: single-brokerage.php:401 includes/single-listing-reviews.php:19
+msgid "% Reviews"
+msgstr "% ביקורות"
+
+#: single-listings.php:44 admin/theme-functions.php:6596
+#: admin/theme-functions.php:7601
+msgid "Home"
+msgstr "בבית"
+
+#: single-listings.php:71 single-listings.php:77 single-listings.php:83
+#: single-listings.php:104 single-listings.php:105 single-listings.php:106
+#: includes/single-listing-home.php:367 includes/single-listing-home.php:368
+#: includes/single-listing-home.php:369
+#: includes/widgets/ct-widget-listingssocial.php:29
+#: includes/widgets/ct-widget-listingssocial.php:30
+#: includes/widgets/ct-widget-listingssocial.php:31
+msgid "Check out this great listing on"
+msgstr "לבדוק את זה נהדר רישום על"
+
+#: single-listings.php:108 admin/theme-functions.php:1173
+#: includes/agent-contact-modal.php:16
+msgid "Close"
+msgstr "קרוב"
+
+#: single-listings.php:212 template-edit-listing.php:394
+#: template-edit-profile.php:57 template-listing-analytics.php:62
+#: template-listing-email-alerts.php:69 template-membership.php:60
+#: template-submit-listing.php:354 template-user-dashboard.php:59
+#: template-view-invoices.php:60 template-view-listings.php:62
+msgid "You must be logged in to view this page."
+msgstr "אתה חייב להיות מחובר כדי לראות דף זה."
+
+#: single.php:79 includes/post-author-info.php:15 layouts/blog-grid.php:54
+#: layouts/blog-large.php:54
+msgid "By"
+msgstr "על ידי"
+
+#: single.php:79 layouts/blog-grid.php:54 layouts/blog-large.php:54
+msgid "in"
+msgstr "ב"
+
+#: single.php:79 layouts/blog-grid.php:54 layouts/blog-large.php:54
+msgid "with"
+msgstr "עם"
+
+#. Name of the template
+#: admin/ReduxFramework/theme-options/re7-config.php:2789
+msgid "Advanced Search"
+msgstr "חיפוש מתקדם"
+
+#: template-advanced-search.php:62 template-edit-listing.php:419
+#: template-submit-listing.php:417 admin/theme-functions.php:4925
+#: includes/advanced-search.php:35 includes/header-advanced-search.php:60
+#: includes/header-advanced-search.php:390
+#: admin/plugins/class-tgm-plugin-activation.php:2634
+#: includes/widgets/ct-widget-listingssearch.php:46
+msgid "Type"
+msgstr "סוג"
+
+#: template-advanced-search.php:67 admin/profile-fields.php:217
+#: admin/theme-functions.php:5649 includes/advanced-search.php:44
+#: includes/header-advanced-search.php:69
+#: includes/header-advanced-search.php:400
+#: includes/widgets/ct-widget-listingssearch.php:55
+msgid "City"
+msgstr "העיר"
+
+#: template-advanced-search.php:77 admin/theme-functions.php:5571
+#: admin/theme-functions.php:5590 admin/theme-functions.php:5672
+#: includes/advanced-search.php:58
+#: includes/widgets/ct-widget-listingssearch.php:69
+msgid "Area"
+msgstr "אזור"
+
+#: template-advanced-search.php:79 admin/theme-functions.php:5670
+#: admin/theme-functions.php:5710 includes/advanced-search.php:60
+#: includes/widgets/ct-widget-listingssearch.php:71
+msgid "Suburb"
+msgstr "פרבר"
+
+#: template-advanced-search.php:81 admin/theme-functions.php:5674
+#: includes/advanced-search.php:62
+#: includes/widgets/ct-widget-listingssearch.php:73
+msgid "State"
+msgstr "המדינה"
+
+#: template-advanced-search.php:92 admin/theme-functions.php:5691
+#: includes/advanced-search.php:77
+#: includes/widgets/ct-widget-listingssearch.php:88
+msgid "Postcode"
+msgstr "מיקוד"
+
+#: template-advanced-search.php:94 admin/theme-functions.php:5693
+#: includes/advanced-search.php:79
+#: includes/widgets/ct-widget-listingssearch.php:90
+msgid "Zipcode"
+msgstr "Zipcode"
+
+#: template-advanced-search.php:100 template-edit-listing.php:852
+#: template-submit-listing.php:736 includes/advanced-search.php:89
+#: includes/header-advanced-search.php:99
+#: includes/header-advanced-search.php:428
+#: includes/widgets/ct-widget-listingssearch.php:100
+msgid "Country"
+msgstr "המדינה"
+
+#: template-advanced-search.php:105 admin/theme-functions.php:4704
+#: admin/theme-functions.php:5609 admin/theme-functions.php:5921
+#: includes/advanced-search.php:116 includes/header-advanced-search.php:127
+#: includes/header-advanced-search.php:438
+#: includes/single-listing-multi-floorplan.php:33 layouts/list.php:88
+#: includes/widgets/ct-widget-listingssearch.php:127
+msgid "Beds"
+msgstr "מיטות"
+
+#: template-advanced-search.php:110 admin/theme-functions.php:4724
+#: admin/theme-functions.php:5628 admin/theme-functions.php:5927
+#: includes/advanced-search.php:125 includes/header-advanced-search.php:136
+#: includes/header-advanced-search.php:448
+#: includes/single-listing-multi-floorplan.php:36 includes/sub-listings.php:103
+#: layouts/list.php:108 includes/widgets/ct-widget-agentsotherlistings.php:140
+#: includes/widgets/ct-widget-listingssearch.php:136
+msgid "Baths"
+msgstr "אמבטיות"
+
+#: template-advanced-search.php:115 template-edit-listing.php:434
+#: template-submit-listing.php:422 template-view-invoices.php:95
+#: includes/advanced-search.php:134 includes/header-advanced-search.php:145
+#: includes/header-advanced-search.php:458
+#: includes/single-listing-ct-idx-pro-info.php:66
+#: admin/plugins/class-tgm-plugin-activation.php:2639
+#: includes/widgets/ct-widget-listingssearch.php:145
+msgid "Status"
+msgstr "סטטוס"
+
+#: template-advanced-search.php:125 admin/theme-functions.php:5708
+#: includes/advanced-search.php:157 includes/header-advanced-search.php:159
+#: includes/header-advanced-search.php:482
+#: includes/single-listing-ct-idx-pro-info.php:88
+#: includes/widgets/ct-widget-listingssearch.php:168
+msgid "Neighborhood"
+msgstr "השכונה"
+
+#: template-advanced-search.php:127 admin/theme-functions.php:5712
+#: includes/advanced-search.php:159 includes/header-advanced-search.php:161
+#: includes/header-advanced-search.php:484
+#: includes/widgets/ct-widget-listingssearch.php:170
+msgid "District"
+msgstr "מחוז"
+
+#: template-advanced-search.php:129 admin/theme-functions.php:5722
+#: includes/advanced-search.php:107 includes/advanced-search.php:161
+#: includes/header-advanced-search.php:118
+#: includes/header-advanced-search.php:163
+#: includes/header-advanced-search.php:486
+#: includes/widgets/ct-widget-listingssearch.php:118
+#: includes/widgets/ct-widget-listingssearch.php:172
+msgid "Community"
+msgstr "הקהילה"
+
+#: template-advanced-search.php:135 template-advanced-search.php:136
+#: includes/advanced-search.php:171 includes/advanced-search.php:172
+#: includes/header-advanced-search.php:173
+#: includes/header-advanced-search.php:174
+#: includes/header-advanced-search.php:496
+#: includes/header-advanced-search.php:497
+#: includes/widgets/ct-widget-listingssearch.php:182
+#: includes/widgets/ct-widget-listingssearch.php:183
+msgid "Price From"
+msgstr "מחיר מ"
+
+#: template-advanced-search.php:140 template-advanced-search.php:141
+#: includes/advanced-search.php:180 includes/advanced-search.php:181
+#: includes/header-advanced-search.php:182
+#: includes/header-advanced-search.php:183
+#: includes/header-advanced-search.php:505
+#: includes/header-advanced-search.php:506
+#: includes/widgets/ct-widget-listingssearch.php:191
+#: includes/widgets/ct-widget-listingssearch.php:192
+msgid "Price To"
+msgstr "מחיר"
+
+#: template-advanced-search.php:145 template-advanced-search.php:146
+#: includes/advanced-search.php:190 includes/header-advanced-search.php:210
+#: includes/header-advanced-search.php:533
+#: includes/widgets/ct-widget-listingssearch.php:201
+msgid "Size From"
+msgstr "גודל מ"
+
+#: template-advanced-search.php:150 template-advanced-search.php:151
+#: includes/advanced-search.php:199 includes/header-advanced-search.php:219
+#: includes/header-advanced-search.php:542
+#: includes/widgets/ct-widget-listingssearch.php:210
+msgid "Size To"
+msgstr "גודל"
+
+#: template-advanced-search.php:155 template-advanced-search.php:156
+#: includes/advanced-search.php:207 includes/advanced-search.php:208
+#: includes/header-advanced-search.php:245
+#: includes/header-advanced-search.php:246
+#: includes/header-advanced-search.php:568
+#: includes/header-advanced-search.php:569
+#: includes/widgets/ct-widget-listingssearch.php:218
+#: includes/widgets/ct-widget-listingssearch.php:219
+msgid "Lot Size From"
+msgstr "גודל המגרש מ"
+
+#: template-advanced-search.php:160 template-advanced-search.php:161
+#: includes/advanced-search.php:216 includes/advanced-search.php:217
+#: includes/header-advanced-search.php:254
+#: includes/header-advanced-search.php:255
+#: includes/header-advanced-search.php:577
+#: includes/header-advanced-search.php:578
+#: includes/widgets/ct-widget-listingssearch.php:227
+#: includes/widgets/ct-widget-listingssearch.php:228
+msgid "Lot Size To"
+msgstr "הרבה גודל"
+
+#: template-advanced-search.php:165 template-advanced-search.php:166
+#: template-edit-listing.php:708 template-submit-listing.php:591
+#: includes/advanced-search.php:229 includes/advanced-search.php:230
+#: includes/header-advanced-search.php:286
+#: includes/header-advanced-search.php:287
+#: includes/header-advanced-search.php:608
+#: includes/header-advanced-search.php:609
+#: includes/widgets/ct-widget-listingssearch.php:240
+#: includes/widgets/ct-widget-listingssearch.php:241
+msgid "Property ID"
+msgstr "מזהה נכס"
+
+#: template-advanced-search.php:175 template-advanced-search.php:176
+#: includes/advanced-search.php:239 includes/advanced-search.php:240
+#: includes/header-advanced-search.php:296
+#: includes/header-advanced-search.php:297
+#: includes/header-advanced-search.php:618
+#: includes/header-advanced-search.php:619
+#: includes/widgets/ct-widget-listingssearch.php:250
+#: includes/widgets/ct-widget-listingssearch.php:251
+msgid "Number of Guests"
+msgstr "מספר האורחים"
+
+#: template-advanced-search.php:181 includes/advanced-search.php:143
+#: includes/widgets/ct-widget-listingssearch.php:154
+msgid "Additional Features"
+msgstr "תכונות נוספות"
+
+#: template-advanced-search.php:187 includes/advanced-search.php:262
+#: includes/header-advanced-search.php:334
+#: includes/header-advanced-search.php:368
+#: includes/home-hero-advanced-search.php:38
+#: includes/widgets/ct-widget-listingssearch.php:271
+msgid "Search"
+msgstr "חיפוש"
+
+#: template-agents.php:122 template-agents.php:147
+msgid ""
+"Type an agents name, title, business, phone or lic # here to filter the list."
+msgstr ""
+
+#: template-agents.php:369
+msgid "View Profile"
+msgstr "צפה בפרופיל"
+
+#: template-agents.php:403
+msgid "No Agents Found."
+msgstr "לא סוכנים מצאתי."
+
+#. Name of the template
+msgid "Big Map"
+msgstr "מפה גדולה"
+
+#. Name of the template
+#: admin/theme-functions.php:4479
+msgid "Compare"
+msgstr "להשוות"
+
+#. Name of the template
+msgid "Contact No Form"
+msgstr "קשר לא טופס"
+
+#: includes/single-listing-sub-navigation.php:169
+#: admin/ReduxFramework/theme-options/re7-config.php:5019
+msgid "Contact"
+msgstr "קשר"
+
+#: template-contact.php:64
+msgid "Name*"
+msgstr "שם*"
+
+#: template-contact.php:68
+msgid "Email*"
+msgstr "דוא \" ל*"
+
+#: template-contact.php:75
+msgid "Subject*"
+msgstr "נושא*"
+
+#: template-contact.php:77
+msgid "Message"
+msgstr "הודעה"
+
+#. Name of the template
+msgid "Demo Home Listings Slider"
+msgstr "הדגמה בבית רישומים המחוון"
+
+#. Name of the template
+msgid "Demo Home Map"
+msgstr "הדגמה בבית המפה"
+
+#. Name of the template
+msgid "Demo Home Video"
+msgstr "הדגמת וידאו ביתית."
+
+#. Name of the template
+msgid "dsIDXpress"
+msgstr "dsIDXpress"
+
+#. Name of the template
+msgid "Edit Listing"
+msgstr "לערוך רישום"
+
+#: template-edit-listing.php:407 template-submit-listing.php:405
+msgid "Street Address"
+msgstr "כתובת רחוב"
+
+#: template-edit-listing.php:412 template-submit-listing.php:410
+msgid "Alternate Title"
+msgstr "כותרת חלופית"
+
+#: template-edit-listing.php:413 template-submit-listing.php:411
+msgid "(e.g. Downtown Penthouse)"
+msgstr "(למשל מרכז העיר פנטהאוז)"
+
+#: template-edit-listing.php:425 template-edit-listing.php:440
+#: admin/theme-functions.php:6083 admin/theme-functions.php:6111
+msgid "Any"
+msgstr "כל"
+
+#: template-edit-listing.php:449 template-submit-listing.php:427
+#: template-view-listings.php:179 admin/theme-functions.php:5417
+#: includes/home-listings-count.php:188
+msgid "Featured"
+msgstr "בהשתתפות"
+
+#: template-edit-listing.php:463 template-submit-listing.php:437
+#: includes/single-listing-multi-floorplan.php:43
+msgid "Price"
+msgstr "מחיר"
+
+#: template-edit-listing.php:468 template-submit-listing.php:442
+msgid "Price Prefix"
+msgstr "מחיר קידומת"
+
+#: template-edit-listing.php:469 template-submit-listing.php:443
+msgid " (e.g. From, Call for price)"
+msgstr " (למשל מ, התקשרו לקבלת מחיר)"
+
+#: template-edit-listing.php:473 template-submit-listing.php:447
+msgid "Price Postfix Text"
+msgstr "מחיר Postfix טקסט"
+
+#: template-edit-listing.php:474 template-submit-listing.php:448
+msgid " (e.g. /month, /week)"
+msgstr " (למשל /חודש /שבוע)"
+
+#: template-edit-listing.php:479 template-submit-listing.php:453
+msgid "Listing Description"
+msgstr "רישום תיאור"
+
+#: template-edit-listing.php:496 template-submit-listing.php:467
+msgid "Listing Featured Image"
+msgstr "רישום תמונה מומלצות"
+
+#: template-edit-listing.php:505 template-submit-listing.php:479
+#: admin/ReduxFramework/theme-options/re7-config.php:3239
+msgid "Listing Images"
+msgstr "רישום תמונות"
+
+#: template-edit-listing.php:582 template-submit-listing.php:489
+msgid "Drag & Drop Images Here"
+msgstr "גרור "
+
+#: template-edit-listing.php:585 template-submit-listing.php:492
+msgid "or"
+msgstr "או"
+
+#: template-edit-listing.php:588 template-submit-listing.php:495
+msgid "Select Images"
+msgstr "בחר תמונות"
+
+#: template-edit-listing.php:592
+msgid ""
+"*At least one image is required for valid submission, minimum width of 817px."
+msgstr "*לפחות תמונה אחת הוא נדרש על חוקי הגשה, רוחב מינימלי של 817px."
+
+#: template-edit-listing.php:593 template-submit-listing.php:500
+msgid ""
+"*You can mark an image as featured by clicking the star icon, Otherwise "
+"first image will be considered featured image."
+msgstr ""
+"*אתה יכול לסמן תמונה כפי נבחרים על-ידי לחיצה על סמל הכוכב, אחרת התמונה "
+"הראשונה תיחשב השתתפות התמונה."
+
+#: template-edit-listing.php:605 template-submit-listing.php:510
+msgid "Files & Documents"
+msgstr "קבצים "
+
+#: template-edit-listing.php:629 template-submit-listing.php:522
+msgid "*Supported file types are PDF, Word, Excel & PowerPoint."
+msgstr "*סוגי קבצים נתמכים הם PDF, Word, Excel "
+
+#: template-edit-listing.php:693 template-submit-listing.php:576
+#: admin/theme-functions.php:4872 includes/header-advanced-search.php:264
+#: includes/sub-listings.php:195
+#: includes/widgets/ct-widget-agentsotherlistings.php:232
+msgid "Lot Size"
+msgstr "גודל הרבה"
+
+#: template-edit-listing.php:698 template-submit-listing.php:581
+#: admin/theme-functions.php:4743
+msgid "Pets"
+msgstr "חיות מחמד"
+
+#: template-edit-listing.php:703 template-submit-listing.php:586
+#: admin/theme-functions.php:4758
+msgid "Parking"
+msgstr "חניה"
+
+#: template-edit-listing.php:713 template-submit-listing.php:596
+msgid "Video URL"
+msgstr "כתובת אתר של הסרטון"
+
+#: template-edit-listing.php:720
+msgid "Vitrual Tour URL"
+msgstr "Vitrual סיור URL"
+
+#: template-edit-listing.php:728 template-submit-listing.php:611
+#: admin/theme-functions.php:5190 includes/single-listing-open-house.php:26
+#: includes/single-listing-sub-navigation.php:51
+msgid "Open House"
+msgstr "הבית הפתוח."
+
+#: template-edit-listing.php:731 template-submit-listing.php:614
+#: includes/single-listing-open-house.php:32
+msgid "Date"
+msgstr "תאריך"
+
+#: template-edit-listing.php:736 template-submit-listing.php:619
+msgid "Start Time"
+msgstr "זמן התחלה"
+
+#: template-edit-listing.php:741 template-submit-listing.php:624
+msgid "End Time"
+msgstr "סוף זמן"
+
+#: template-edit-listing.php:751 template-submit-listing.php:642
+msgid "Additional Features (comma separated)"
+msgstr "תכונות נוספות (מופרדות בפסיקים)"
+
+#: template-edit-listing.php:766 template-submit-listing.php:657
+msgid "Max-number of Guests"
+msgstr "מקס-מספר האורחים"
+
+#: template-edit-listing.php:771 template-submit-listing.php:662
+msgid "Minimum Stay"
+msgstr "מינימום השהייה"
+
+#: template-edit-listing.php:778 template-submit-listing.php:669
+msgid "Check In Time"
+msgstr "הגעה בזמן"
+
+#: template-edit-listing.php:783 template-submit-listing.php:674
+msgid "Check Out Time"
+msgstr "הגיע הזמן לצאת"
+
+#: template-edit-listing.php:790 template-submit-listing.php:681
+msgid "Extra Person Charge"
+msgstr "אדם נוסף תשלום"
+
+#: template-edit-listing.php:795 template-submit-listing.php:686
+#: admin/theme-functions.php:5019
+msgid "Cleaning Fee"
+msgstr "דמי ניקוי"
+
+#: template-edit-listing.php:802 template-submit-listing.php:693
+#: admin/theme-functions.php:5030
+msgid "Cancellation Fee"
+msgstr "דמי ביטול"
+
+#: template-edit-listing.php:807 template-submit-listing.php:698
+#: admin/theme-functions.php:5041
+msgid "Security Deposit"
+msgstr "פיקדון"
+
+#: template-edit-listing.php:827 template-submit-listing.php:711
+msgid "Type in an address"
+msgstr "הקלד כתובת"
+
+#: template-edit-listing.php:847 template-submit-listing.php:731
+#: includes/advanced-search.php:98 includes/header-advanced-search.php:109
+#: includes/widgets/ct-widget-listingssearch.php:109
+msgid "County"
+msgstr "מחוז"
+
+#: template-edit-listing.php:862 template-submit-listing.php:746
+msgid "Latitude & Longitude (optional)"
+msgstr "רוחב "
+
+#: template-edit-listing.php:871 template-submit-listing.php:755
+msgid ""
+"You can also manually drag the marker to the exact location of your listing "
+"if the automatic geolocation is off."
+msgstr ""
+"אתה יכול גם באופן ידני, גרור את סמן המיקום המדויק של הרישום שלך אם את "
+"אוטומטיים הגיאוגרפי כבוי."
+
+#: template-edit-listing.php:877 template-submit-listing.php:767
+#: admin/theme-functions.php:4337
+#: admin/ReduxFramework/theme-options/re7-config.php:4534
+msgid "Private Notes"
+msgstr "פרטי הערות"
+
+#: template-edit-listing.php:878 template-submit-listing.php:768
+msgid ""
+"Write a private note about this listing, this textarea will not be displayed "
+"anywhere on the front end of the site."
+msgstr ""
+"לכתוב את פרטי הערה על זה פרטי, זה textarea לא יוצג בשום מקום על הקצה הקדמי "
+"של האתר."
+
+#: template-edit-listing.php:897 template-submit-listing.php:787
+msgid "Cancel"
+msgstr "לבטל"
+
+#: template-edit-listing.php:901 template-submit-listing.php:796
+#: admin/theme-functions.php:3379
+msgid "Next"
+msgstr "הבא"
+
+#: template-edit-listing.php:902 template-submit-listing.php:805
+msgid "Previous"
+msgstr "הקודם"
+
+#: template-edit-listing.php:919
+#: admin/plugins/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr "עדכון"
+
+#: template-edit-listing.php:929
+msgid "This isn't one of your assigned listings, editing is denied."
+msgstr "זה isn לא אחד שהוקצה רישומים, עריכה נדחתה."
+
+#. Name of the template
+msgid "Edit Profile"
+msgstr "עריכת פרופיל"
+
+#: template-edit-profile.php:78
+msgid "The passwords you entered do not match. Your password was not updated."
+msgstr "את הסיסמאות שהזנת אינם תואמים. הסיסמה שלך לא היה מעודכן."
+
+#: template-edit-profile.php:86
+msgid "The Email you entered is not valid. Please try again."
+msgstr "את הדוא \" ל שהזנת אינה תקפה. אנא נסה שוב."
+
+#: template-edit-profile.php:88
+msgid "This email is already used by another user. Try a different one."
+msgstr "דוא \" ל זה כבר נמצא בשימוש על ידי משתמש אחר. נסה אחד אחר."
+
+#: template-edit-profile.php:133 admin/theme-functions.php:3689
+#: admin/theme-functions.php:3768
+msgid "Username"
+msgstr "שם משתמש"
+
+#: template-edit-profile.php:134
+msgid "Usernames cannot be changed."
+msgstr "שמות משתמש יכולים להיות שונה."
+
+#: template-edit-profile.php:137 admin/theme-functions.php:3778
+msgid "First Name"
+msgstr "שם פרטי"
+
+#: template-edit-profile.php:141 admin/theme-functions.php:3783
+msgid "Last Name"
+msgstr "שם משפחה"
+
+#: template-edit-profile.php:145
+msgid "Nickname"
+msgstr "הכינוי"
+
+#: template-edit-profile.php:145
+msgid "(required)"
+msgstr "(חובה)"
+
+#: template-edit-profile.php:149
+msgid "Display to Public as"
+msgstr "תצוגה ציבוריים כמו"
+
+#: template-edit-profile.php:187
+msgid "Contact Info"
+msgstr "ליצירת קשר."
+
+#: template-edit-profile.php:191
+msgid "E-mail *"
+msgstr "דואר אלקטרוני *"
+
+#: template-edit-profile.php:195 admin/theme-functions.php:3788
+msgid "Website"
+msgstr "באתר"
+
+#: template-edit-profile.php:218
+msgid "About Yourself"
+msgstr "על עצמך"
+
+#: template-edit-profile.php:222
+msgid "Biographical Information"
+msgstr "מידע ביוגרפי"
+
+#: template-edit-profile.php:222
+msgid ""
+"Share a little biographical information to fill out your profile. This may "
+"be shown publicly."
+msgstr "לחלוק קצת מידע ביוגרפי למלא את הפרופיל שלך. זה עשוי להיות מוצג בפומבי."
+
+#: template-edit-profile.php:226
+msgid "New Password"
+msgstr "הסיסמה החדשה"
+
+#: template-edit-profile.php:226
+msgid ""
+"If you would like to change the password type a new one. Otherwise leave "
+"this blank."
+msgstr "אם אתה רוצה לשנות את הסיסמה הקלד אחד חדש. אחרת להשאיר את זה ריק."
+
+#: template-edit-profile.php:230
+msgid "Type your new password again."
+msgstr "הקלד את הסיסמה החדשה שוב."
+
+#: template-edit-profile.php:232
+msgid "Strength indicator"
+msgstr "מחוון עוצמת"
+
+#: template-edit-profile.php:244
+msgid "Update Profile"
+msgstr "עדכון הפרופיל"
+
+#: template-favorite-listings.php:100
+msgid "Request More Information on All Favorites"
+msgstr "לבקש מידע נוסף על כל המועדפים"
+
+#: template-favorite-listings.php:178 template-view-listings.php:142
+msgid "Bed:"
+msgstr "המיטה:"
+
+#: template-favorite-listings.php:188 template-view-listings.php:152
+msgid "Baths:"
+msgstr "אמבטיות:"
+
+#: template-favorite-listings.php:199 template-view-listings.php:163
+#: layouts/list.php:125 includes/widgets/ct-widget-flickr.php:63
+msgid "Type:"
+msgstr "סוג:"
+
+#: template-favorite-listings.php:224
+msgid "Previous Entries"
+msgstr "הערכים הקודמים"
+
+#: template-favorite-listings.php:225
+msgid "Next Entries"
+msgstr "הבא את ערכי"
+
+#. Name of the template
+msgid "Full Width 2"
+msgstr "מלא רוחב 2"
+
+#. Name of the template
+msgid "Full Width"
+msgstr "רוחב מלא"
+
+#. Name of the template
+msgid "IDX Full Width"
+msgstr "IDX ברוחב מלא."
+
+#. Name of the template
+msgid "IDX w/Sidebar"
+msgstr "IDX w/Sidebar"
+
+#. Name of the template
+msgid "Landing Page"
+msgstr "דף נחיתה"
+
+#. Name of the template
+msgid "Left Sidebar"
+msgstr "תפריט שמאלי"
+
+#. Name of the template
+#: includes/user-sidebar.php:44
+#: admin/ReduxFramework/theme-options/re7-config.php:4699
+msgid "Listing Email Alerts"
+msgstr "רישום התראות דוא \" ל"
+
+#: template-listing-email-alerts.php:84
+msgid "Manage your alerts"
+msgstr "לנהל את ההתראות שלך"
+
+#: template-listing-email-alerts.php:85
+msgid "Here you can turn saved alerts on/off or remove them completely."
+msgstr "כאן אתה יכול להפוך הציל התראות on/off או להסיר אותם לחלוטין."
+
+#: template-listing-email-alerts.php:90
+msgid "Query"
+msgstr "שאילתה"
+
+#: template-listing-email-alerts.php:93
+msgid "Date Created"
+msgstr "תאריך יצר"
+
+#: template-listing-email-alerts.php:96
+msgid "Email Setting"
+msgstr "הגדרת הדוא \" ל"
+
+#: template-listing-email-alerts.php:99 admin/theme-functions.php:3547
+msgid "Delete"
+msgstr "למחוק"
+
+#: template-listing-email-alerts.php:126
+msgid "You don't have any saved searches yet, create one above."
+msgstr "אתה don אל יש חיפושים שמורים עדיין, ליצור אחת מעל."
+
+#: template-listing-email-alerts.php:138
+msgid ""
+"Activate \"Contempo Email Alerts\" plugin via Appearance > Install Plugins."
+msgstr "הפעל \"Contempo התראות דוא \"ל\" תוסף באמצעות מראה > להתקין תוספים."
+
+#. Name of the template
+#: includes/home-listings-count.php:58
+msgid "Open Houses"
+msgstr "בתים פתוחים"
+
+#. Name of the template
+msgid "Packages Thank You"
+msgstr "חבילות תודה"
+
+#: template-packages-thank-you.php:56
+msgid "Select a Package"
+msgstr "בחר חבילה"
+
+#: template-packages-thank-you.php:60
+msgid "Payment"
+msgstr "תשלום"
+
+#: template-packages-thank-you.php:64
+msgid "Complete"
+msgstr "להשלים"
+
+#. Name of the template
+msgid "Quick Search"
+msgstr "חיפוש מהיר"
+
+#. Name of the template
+msgid "Sitemap"
+msgstr "Sitemap"
+
+#: template-sitemap.php:51
+msgid "Last Twenty Posts"
+msgstr "אתמול עשרים הודעות"
+
+#: template-sitemap.php:67
+msgid "Pages"
+msgstr "דפים"
+
+#: template-sitemap.php:74
+msgid "Categories"
+msgstr "קטגוריות"
+
+#: template-sitemap.php:81
+msgid "Posts per category"
+msgstr "הודעות לפי קטגוריה"
+
+#: template-submit-listing.php:379
+msgid "You haven't chosen a package yet…"
+msgstr "אתה haven't בחרו חבילה עדיין..."
+
+#: template-submit-listing.php:380
+msgid "Get Started!"
+msgstr "נתחיל!"
+
+#: template-submit-listing.php:386
+msgid "Listings Limit Reached"
+msgstr "רישומים Str_newgrf_too_many_newgrfs"
+
+#: template-submit-listing.php:387
+msgid "You've reached the listings limit for your membership package."
+msgstr "אתה\\'ve הגיע רישומים להגביל את החברות החבילה."
+
+#: template-submit-listing.php:388
+msgid "Upgrade Today!"
+msgstr "השדרוג היום!"
+
+#: template-submit-listing.php:472
+msgid "Gallery Images (select as many as you like)"
+msgstr "גלריית תמונות (, בחר כמה שאתה רוצה)"
+
+#: template-submit-listing.php:499
+msgid "*At least one image is for valid submission, minimum width of 817px."
+msgstr "*לפחות תמונה אחת הוא על חוקי הגשה, רוחב מינימלי של 817px."
+
+#: template-submit-listing.php:582
+msgid "(e.g. Cats, small dogs)"
+msgstr "(למשל חתולים, כלבים קטנים)"
+
+#: template-submit-listing.php:587
+msgid "(e.g. Carport, 2 Car Garage)"
+msgstr "(למשל בחנייה, 2 רכבים)"
+
+#: template-submit-listing.php:603
+msgid "Virtual Tour URL"
+msgstr "סיור וירטואלי URL"
+
+#: template-submit-listing.php:658
+msgid " (e.g. 2)"
+msgstr " (למשל 2)"
+
+#: template-submit-listing.php:663
+msgid " (e.g. 1 night)"
+msgstr " (למשל, 1 לילה)"
+
+#: template-submit-listing.php:670
+msgid " (e.g. 3:00 PM)"
+msgstr " (למשל 3:00)"
+
+#: template-submit-listing.php:675
+msgid " (e.g. 11:00 AM)"
+msgstr " (למשל 11:00 בבוקר)"
+
+#: template-submit-listing.php:682
+msgid " (e.g. 50)"
+msgstr " (למשל 50)"
+
+#: template-submit-listing.php:687
+msgid " (e.g. 150)"
+msgstr " (למשל, 150)"
+
+#: template-submit-listing.php:694
+msgid " (e.g. 275)"
+msgstr " (למשל 275)"
+
+#: template-submit-listing.php:699
+msgid " (e.g. 895)"
+msgstr " (למשל, 895)"
+
+#: template-submit-listing.php:788
+msgid "Save As Draft"
+msgstr "שמור כטיוטה"
+
+#. Name of the template
+#: admin/ReduxFramework/theme-options/re7-config.php:1706
+msgid "Testimonials"
+msgstr "המלצות"
+
+#. Name of the template
+msgid "User Dashboard"
+msgstr "לוח מחוונים של משתמש"
+
+#: template-user-dashboard.php:122
+#: admin/ReduxFramework/theme-options/re7-config.php:1656
+msgid "Featured Listings"
+msgstr "נכסים נבחרים"
+
+#: template-user-dashboard.php:141
+msgid "Pending Listings"
+msgstr "ממתינים רישומים"
+
+#: template-view-invoices.php:82
+msgid "You haven't placed any orders yet…"
+msgstr "אתה haven't להציב פקודות עדיין..."
+
+#: template-view-invoices.php:90
+msgid "Invoice"
+msgstr "חשבונית"
+
+#: template-view-invoices.php:91
+msgid "Package"
+msgstr "החבילה"
+
+#: template-view-invoices.php:92
+msgid "Start"
+msgstr "להתחיל"
+
+#: template-view-invoices.php:93
+msgid "Expire"
+msgstr "הפג"
+
+#: template-view-invoices.php:94
+msgid "Recurring"
+msgstr "חוזר"
+
+#: template-view-invoices.php:96
+msgid "Total"
+msgstr "סה \" כ"
+
+#: template-view-invoices.php:112
+#: includes/widgets/ct-widget-contactinfo.php:135
+msgid "Yes"
+msgstr "כן"
+
+#: template-view-invoices.php:112
+#: includes/widgets/ct-widget-contactinfo.php:136
+msgid "No"
+msgstr "לא"
+
+#: template-view-invoices.php:113
+msgid "Expired"
+msgstr "פג"
+
+#: template-view-invoices.php:123
+msgid "-"
+msgstr "-"
+
+#: template-view-listings.php:85
+msgid "Type a listing name or address here to filter the list."
+msgstr "הקלד את פרטי שם או כתובת כאן כדי לסנן את הרשימה."
+
+#: template-view-listings.php:172
+msgid "Published"
+msgstr "פורסם"
+
+#: template-view-listings.php:174
+msgid "Pending"
+msgstr "ממתינים"
+
+#: template-view-listings.php:176
+msgid "Draft"
+msgstr "טיוטה"
+
+#: template-view-listings.php:195
+msgid "Paid"
+msgstr "תשלום"
+
+#: template-view-listings.php:210
+msgid "Edit"
+msgstr "עריכה"
+
+#: template-view-listings.php:214 admin/theme-functions.php:4578
+msgid " Views"
+msgstr " צפיות"
+
+#: template-view-listings.php:233
+msgid "You don't have any listings yet..."
+msgstr "אתה don אל יש רישומים עדיין..."
+
+#: template-view-listings.php:234
+msgid "Create One"
+msgstr "ליצור אחד."
+
+#: admin/merlin-config.php:104 admin/merlin-config.php:120
+#: admin/merlin-config.php:136 admin/merlin-config.php:152
+#: admin/merlin-config.php:168 admin/merlin-config.php:184
+#: admin/merlin-config.php:200 admin/merlin-config.php:216
+#: admin/merlin-config.php:232 admin/merlin-config.php:248
+#: admin/merlin-config.php:264 admin/merlin-config.php:280
+#: admin/merlin-config.php:296 admin/merlin-config.php:312
+#: admin/merlin-config.php:328
+msgid "A special note for this import."
+msgstr "הערה מיוחדת עבור יבוא זה."
+
+#: admin/profile-fields.php:39
+msgid "Social profile information"
+msgstr "חברתי פרטי פרופיל"
+
+#: admin/profile-fields.php:43
+msgid "Twitter Username"
+msgstr "שם משתמש טוויטר"
+
+#: admin/profile-fields.php:49
+msgid "Facebook URL"
+msgstr "Facebook URL"
+
+#: admin/profile-fields.php:55
+msgid "Instagram URL"
+msgstr "Instagram URL"
+
+#: admin/profile-fields.php:61
+msgid "LinkedIn URL"
+msgstr "LinkedIn URL"
+
+#: admin/profile-fields.php:67
+msgid "YouTube URL"
+msgstr "כתובת האתר ב-YouTube"
+
+#: admin/profile-fields.php:76
+msgid "Extra profile information"
+msgstr "תוספת מידע פרופיל"
+
+#: admin/profile-fields.php:88
+msgid "Agent Order"
+msgstr "הסוכן סדר"
+
+#: admin/profile-fields.php:91
+msgid ""
+"If user is an agent select the order you would like them displayed on the "
+"agents page, e.g. 1, 2, 3, etc&hellip; NOTE: You must also set Real Estate 7 "
+"Options > Agents > Manually Order Agents? > to Yes, otherwise the ordering "
+"won't be applied."
+msgstr ""
+"אם המשתמש הוא סוכן בחר את הפקודה שאתה רוצה אותם מוצגים על הסוכנים דף, למשל, "
+"1, 2, 3, וכו'"
+
+#: admin/profile-fields.php:95
+msgid "Profile Image"
+msgstr "תמונת הפרופיל"
+
+#: admin/profile-fields.php:105
+msgid ""
+"Please upload a profile picture here, if none is chosen a default image will "
+"be used."
+msgstr ""
+"בבקשה להעלות תמונת פרופיל כאן, אם לא נבחרה ברירת מחדל, ייעשה שימוש בתמונה."
+
+#: admin/profile-fields.php:109
+msgid "Mobile #"
+msgstr ""
+
+#: admin/profile-fields.php:115
+msgid "Fax #"
+msgstr ""
+
+#: admin/profile-fields.php:122
+msgid "Title"
+msgstr "כותרת"
+
+#: admin/profile-fields.php:128
+msgid "Tagline"
+msgstr "הסלוגן"
+
+#: admin/profile-fields.php:134
+msgid "Agent License #"
+msgstr ""
+
+#: admin/profile-fields.php:137
+msgid "Add the agents license number here."
+msgstr "להוסיף את הסוכנים מספר רישיון כאן."
+
+#: admin/profile-fields.php:144
+msgid "Agent Testimonials"
+msgstr "הסוכן המלצות"
+
+#: admin/profile-fields.php:148
+msgid ""
+"If this user is marked as an agent (\"Show on agents page\" option above) "
+"use this area to add client testimonials."
+msgstr ""
+"אם משתמש זה מסומן בתור סוכן (\"להראות על סוכנים דף\" אפשרות לעיל) השתמש "
+"באזור זה כדי להוסיף הלקוח המלצות."
+
+#: admin/profile-fields.php:162
+msgid "Office Information"
+msgstr "המשרד מידע"
+
+#: admin/profile-fields.php:166
+msgid "Personal Logo"
+msgstr "לוגו אישי"
+
+#: admin/profile-fields.php:176
+msgid ""
+"Upload your personal logo here, or if you choose to associate a Brokerage "
+"below that logo will be used instead."
+msgstr ""
+"להעלות את לוגו אישי כאן, או אם אתה בוחר לשייך תיווך להלן הלוגו הזה ישמש "
+"במקום."
+
+#: admin/profile-fields.php:186
+msgid "Select a Brokerage"
+msgstr "בחר תיווך"
+
+#: admin/profile-fields.php:194
+msgid ""
+"Assign a brokerage here, these are pulled from the Brokerage custom post "
+"type."
+msgstr "להקצות תיווך כאן, אלה נמשכים התיווך מותאמת אישית הודעה סוג."
+
+#: admin/profile-fields.php:198
+msgid "Brokerage License #"
+msgstr ""
+
+#: admin/profile-fields.php:201
+msgid "Add the brokerage license number here."
+msgstr "הוסף את מספר רישיון תיווך כאן."
+
+#: admin/profile-fields.php:205
+msgid "Office #"
+msgstr ""
+
+#: admin/profile-fields.php:223
+msgid "State or Province"
+msgstr "מדינה או מחוז"
+
+#: admin/profile-fields.php:229 admin/theme-functions.php:5689
+msgid "Postal Code"
+msgstr "מיקוד"
+
+#: admin/theme-functions.php:45
+msgid "Please Update Your PHP Version to the Recommended 5.6+"
+msgstr "אנא עדכנו את גרסת ה-PHP המומלצים 5.6 "
+
+#: admin/theme-functions.php:46
+msgid ""
+"Otherwise some of the Theme Functions and Custom Visual Composer modules "
+"won't be available for use, or cause issues with your site display."
+msgstr ""
+"אחרת קצת של הנושא פונקציות מותאם אישית מלחין חזותי מודולים זכה't להיות "
+"זמינים לשימוש, או לגרום בעיות עם האתר שלך לתצוגה."
+
+#: admin/theme-functions.php:47
+msgid ""
+"Its a quick and simple process (no more than a couple minutes), please refer "
+"to this knowledgebase article below."
+msgstr ""
+"זה מהיר ופשוט התהליך (לא יותר משתי דקות), עיין מאגר מידע זה המאמר להלן."
+
+#: admin/theme-functions.php:48
+msgid "Minimum PHP Version 5.6+ and How to Update to It"
+msgstr "מינימום גרסת ה-PHP 5.6 ואיך לעדכן את זה"
+
+#: admin/theme-functions.php:49 admin/theme-functions.php:91
+#: admin/theme-functions.php:133 admin/theme-functions.php:175
+#: admin/plugins/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr "לבטל הודעה זו"
+
+#: admin/theme-functions.php:89
+msgid "WP Favorite Posts Needs to be Setup"
+msgstr "WP ההודעות האהובים צריכה להיות ההתקנה"
+
+#: admin/theme-functions.php:90 admin/theme-functions.php:132
+#: admin/theme-functions.php:174
+msgid "Just takes a few seconds to setup the plugin properly please see the "
+msgstr "לוקח רק כמה שניות כדי להתקין את התוסף כמו שצריך בבקשה לראות את "
+
+#: admin/theme-functions.php:90 admin/theme-functions.php:132
+#: admin/theme-functions.php:174
+msgid "documentation"
+msgstr "תיעוד"
+
+#: admin/theme-functions.php:131
+msgid "Contempo Compare Listings Needs to be Setup"
+msgstr "Contempo להשוות רישומים צריכה להיות ההתקנה"
+
+#: admin/theme-functions.php:173
+msgid "WordPress Social Login Needs to be Setup"
+msgstr "וורדפרס חברתית כניסה צריכה להיות ההתקנה"
+
+#: admin/theme-functions.php:387
+msgid "Listing Large"
+msgstr "רישום גדול"
+
+#: admin/theme-functions.php:398
+msgid "Primary Left Menu"
+msgstr "עיקרי בתפריט השמאלי"
+
+#: admin/theme-functions.php:399
+msgid "Primary Right Menu"
+msgstr "ראשי תפריט ימני"
+
+#: admin/theme-functions.php:400
+msgid "Primary Full Width"
+msgstr "ראשי ברוחב מלא."
+
+#: admin/theme-functions.php:401
+msgid "Footer Menu"
+msgstr "כותרת תחתונה תפריט"
+
+#: admin/theme-functions.php:425
+msgid "Menu doesn't exist, please create one by clicking here."
+msgstr "תפריט doesn\\'t קיים, נא ליצור אחד על ידי לחיצה כאן."
+
+#: admin/theme-functions.php:1170
+msgid "Open Map"
+msgstr "פתח מפה"
+
+#: admin/theme-functions.php:1171
+msgid "Close Search"
+msgstr "סגור חיפוש"
+
+#: admin/theme-functions.php:1174
+msgid "Open"
+msgstr "פתח"
+
+#: admin/theme-functions.php:1175
+msgid "Search Saved"
+msgstr "חיפוש שנשמר"
+
+#: admin/theme-functions.php:1187 admin/theme-functions.php:5897
+msgid "All Towns"
+msgstr "כל הערים"
+
+#: admin/theme-functions.php:1189 admin/theme-functions.php:5899
+msgid "All Villages"
+msgstr "הכפרים."
+
+#: admin/theme-functions.php:1191 admin/theme-functions.php:5901
+msgid "All Cities"
+msgstr "כל הערים"
+
+#: admin/theme-functions.php:1195 admin/theme-functions.php:5903
+msgid "All Areas"
+msgstr "כל האזורים"
+
+#: admin/theme-functions.php:1197 admin/theme-functions.php:5905
+#: admin/theme-functions.php:5939
+msgid "All Suburbs"
+msgstr "כל הפרברים."
+
+#: admin/theme-functions.php:1199 admin/theme-functions.php:5907
+msgid "All Provinces"
+msgstr "כל מחוזות"
+
+#: admin/theme-functions.php:1201 admin/theme-functions.php:5909
+msgid "All Regions"
+msgstr "כל האזורים"
+
+#: admin/theme-functions.php:1203 admin/theme-functions.php:5911
+msgid "All Parishes"
+msgstr "כל הקהילות"
+
+#: admin/theme-functions.php:1205 admin/theme-functions.php:5913
+msgid "All States"
+msgstr "כל המדינות"
+
+#: admin/theme-functions.php:1209 admin/theme-functions.php:5947
+msgid "All Postcodes"
+msgstr "כל למיקודי דואר"
+
+#: admin/theme-functions.php:1211 admin/theme-functions.php:5949
+msgid "All Postal Codes"
+msgstr "כל למיקודי דואר"
+
+#: admin/theme-functions.php:1213 admin/theme-functions.php:5951
+msgid "All Zipcodes"
+msgstr "כל Zipcodes"
+
+#: admin/theme-functions.php:1228
+msgid "* This field is required"
+msgstr "* שדה זה הינו שדה חובה"
+
+#: admin/theme-functions.php:1229
+msgid "* Please select an option"
+msgstr "* אנא בחר אפשרות"
+
+#: admin/theme-functions.php:1230
+msgid "* This checkbox is required"
+msgstr "* זה הסימון נדרש"
+
+#: admin/theme-functions.php:1231
+msgid "* Invalid phone number"
+msgstr "* מספר טלפון לא חוקי"
+
+#: admin/theme-functions.php:1232
+msgid "* Invalid email address"
+msgstr "* כתובת אימייל לא חוקית"
+
+#: admin/theme-functions.php:1233
+msgid "* Invalid date, must be in YYYY-MM-DD format"
+msgstr "* תאריך לא חוקי, חייב להיות YYYY-MM-DD פורמט"
+
+#: admin/theme-functions.php:1234
+msgid "* Numbers only"
+msgstr "* מספרים בלבד"
+
+#: admin/theme-functions.php:1235
+msgid "* No special caracters allowed"
+msgstr "* לא מיוחד caracters מותר"
+
+#: admin/theme-functions.php:1236
+msgid "* Letters only"
+msgstr "* אותיות בלבד"
+
+#: admin/theme-functions.php:1921 admin/theme-functions.php:3797
+msgid "Buyer"
+msgstr "הקונה"
+
+#: admin/theme-functions.php:1933 admin/theme-functions.php:3798
+msgid "Seller"
+msgstr "המוכר"
+
+#: admin/theme-functions.php:1971
+msgid "Broker"
+msgstr "ברוקר"
+
+#: admin/theme-functions.php:2083 admin/theme-functions.php:2120
+#: admin/theme-functions.php:2156
+msgid "Beds: "
+msgstr "מיטות: "
+
+#: admin/theme-functions.php:2084 admin/theme-functions.php:2121
+#: admin/theme-functions.php:2157
+msgid "Baths: "
+msgstr "אמבטיות: "
+
+#: admin/theme-functions.php:2085 admin/theme-functions.php:2122
+#: admin/theme-functions.php:2158
+msgid "Sq Ft: "
+msgstr "ריבוע רגל: "
+
+#: admin/theme-functions.php:2094 admin/theme-functions.php:2131
+#: admin/theme-functions.php:2166
+msgid "1 Listing found"
+msgstr "1. רישום מצא"
+
+#: admin/theme-functions.php:2096 admin/theme-functions.php:2133
+#: admin/theme-functions.php:2168
+msgid " Listings found"
+msgstr " רישומים שנמצאו"
+
+#: admin/theme-functions.php:2173
+msgid "No Listings Found"
+msgstr "לא מצא רישומים"
+
+#: admin/theme-functions.php:2393
+msgid "Sort By"
+msgstr "מיין לפי"
+
+#: admin/theme-functions.php:2394
+msgid "Default Order"
+msgstr "ברירת המחדל של סדר"
+
+#: admin/theme-functions.php:2395
+msgid "Price - Low to High"
+msgstr "מחיר - נמוך גבוה"
+
+#: admin/theme-functions.php:2396
+msgid "Price - High to Low"
+msgstr "מחיר - גבוה נמוך"
+
+#: admin/theme-functions.php:2397
+msgid "Date - Old to New"
+msgstr "תאריך - ישן חדש"
+
+#: admin/theme-functions.php:2398
+msgid "Date - New to Old"
+msgstr "תאריך חדש ישן"
+
+#: admin/theme-functions.php:2625
+msgid "New submission in"
+msgstr "הכנעה חדשה ב"
+
+#: admin/theme-functions.php:2627
+msgid "Hi!"
+msgstr "היי!"
+
+#: admin/theme-functions.php:2628
+msgid "We have a new submission in"
+msgstr "יש לנו הכנעה חדשה ב"
+
+#: admin/theme-functions.php:2629
+msgid "Check it out"
+msgstr "תבדוק את זה"
+
+#: admin/theme-functions.php:2743 admin/theme-functions.php:2818
+#: admin/theme-functions.php:2921 admin/theme-functions.php:3036
+#: admin/theme-functions.php:3155 admin/theme-functions.php:3245
+#: admin/theme-functions.php:3356
+msgid "You need to setup the Google Maps API."
+msgstr "אתה צריך להגדיר את Google Maps API."
+
+#: admin/theme-functions.php:2744 admin/theme-functions.php:2819
+#: admin/theme-functions.php:2922 admin/theme-functions.php:3037
+#: admin/theme-functions.php:3156 admin/theme-functions.php:3246
+#: admin/theme-functions.php:3357
+msgid "Go into Admin > Real Estate 7 Options > Google Maps"
+msgstr "ללכת אל מנהל מערכת > נדל \" ן 7 אפשרויות < מפות Google"
+
+#: admin/theme-functions.php:3378
+msgid "Prev"
+msgstr "קודם"
+
+#: admin/theme-functions.php:3645
+msgid "User registration is not enabled"
+msgstr "רישום המשתמש לא זמין"
+
+#: admin/theme-functions.php:3675
+msgid "Log in"
+msgstr "התחבר"
+
+#: admin/theme-functions.php:3677
+msgid "Don't have an account?"
+msgstr "Don\\ \\ 't יש לך חשבון?"
+
+#: admin/theme-functions.php:3677
+msgid "Create your account,"
+msgstr "צור את החשבון שלך,"
+
+#: admin/theme-functions.php:3677
+msgid "it takes less than a minute."
+msgstr "זה לוקח פחות מדקה."
+
+#: admin/theme-functions.php:3692 admin/theme-functions.php:3805
+msgid "Password"
+msgstr "הסיסמה"
+
+#: admin/theme-functions.php:3707
+msgid "Lost your password?"
+msgstr "איבדתי את הסיסמה שלך?"
+
+#: admin/theme-functions.php:3717
+msgid "Lost Password?"
+msgstr "אבדה הסיסמה?"
+
+#: admin/theme-functions.php:3718
+msgid ""
+"Enter your email address and we'll send you a link you can use to pick a new "
+"password."
+msgstr ""
+"הזן את כתובת הדוא \"ל שלך ואנחנו'll לשלוח לך קישור שאתה יכול להשתמש בו כדי "
+"לבחור סיסמא חדשה."
+
+#: admin/theme-functions.php:3720
+msgid "Username or Email"
+msgstr "שם משתמש או דוא \" ל"
+
+#: admin/theme-functions.php:3722
+msgid "Get New Password"
+msgstr "לקבל סיסמא חדשה"
+
+#: admin/theme-functions.php:3758
+msgid "Create an account"
+msgstr "צור חשבון"
+
+#: admin/theme-functions.php:3759
+msgid "It takes less than a minute. If you already have an account "
+msgstr "זה לוקח פחות מדקה. אם כבר יש לך חשבון "
+
+#: admin/theme-functions.php:3759
+msgid "login"
+msgstr "כניסה"
+
+#: admin/theme-functions.php:3794
+msgid "Buyer, Seller or Agent?"
+msgstr "קונה, מוכר או הסוכן?"
+
+#: admin/theme-functions.php:3796
+msgid "Please choose"
+msgstr "נא לבחור"
+
+#: admin/theme-functions.php:3810
+msgid "Password Again"
+msgstr "סיסמה שוב"
+
+#: admin/theme-functions.php:3816
+msgid "I accept the"
+msgstr "אני מקבל את ... "
+
+#: admin/theme-functions.php:3816
+msgid "Terms &amp; Conditions"
+msgstr "תנאי "
+
+#: admin/theme-functions.php:3821
+msgid "Register"
+msgstr "הרשמה"
+
+#: admin/theme-functions.php:3856
+msgid "Username already taken"
+msgstr "שם משתמש כבר תפוס"
+
+#: admin/theme-functions.php:3860 admin/theme-functions.php:4048
+#: admin/theme-functions.php:4095
+msgid "Invalid username"
+msgstr "שם משתמש שגוי"
+
+#: admin/theme-functions.php:3864
+msgid "Please enter a username"
+msgstr "אנא הזן שם משתמש"
+
+#: admin/theme-functions.php:3868
+msgid "Invalid email"
+msgstr "דוא \" ל לא חוקית"
+
+#: admin/theme-functions.php:3872
+msgid "Email already registered"
+msgstr "הדוא \" ל כבר רשומה"
+
+#: admin/theme-functions.php:3876 admin/theme-functions.php:4053
+#: admin/theme-functions.php:4100
+msgid "Please enter a password"
+msgstr "אנא הזן סיסמה"
+
+#: admin/theme-functions.php:3880
+msgid "Passwords do not match"
+msgstr "הסיסמאות לא תואמות"
+
+#: admin/theme-functions.php:3884
+msgid "Terms & Conditions must be checked"
+msgstr "תנאי "
+
+#: admin/theme-functions.php:4059 admin/theme-functions.php:4106
+msgid "Incorrect password"
+msgstr "הסיסמה שגויה"
+
+#: admin/theme-functions.php:4140
+msgid "Error"
+msgstr "שגיאה"
+
+#: admin/theme-functions.php:4263 admin/theme-functions.php:4267
+msgid "Featured Image"
+msgstr "תמונה מומלצות"
+
+#: admin/theme-functions.php:4265
+msgid "Brokerage Logo"
+msgstr "תיווך לוגו"
+
+#: admin/theme-functions.php:4295
+msgid "Enter the listing street address here"
+msgstr "הזן את רישום כתובת רחוב כאן"
+
+#: admin/theme-functions.php:4311
+msgid ""
+"NOTE: The Listing Title needs to be <strong>only the Street Address</strong> "
+"(e.g. 123 Somewhere St.) otherwise the mapping won't work properly, use the "
+"Alternate Title field below for Listing Names, etc…the Alt Title field will "
+"override the street address on the front end of your site."
+msgstr ""
+
+#: admin/theme-functions.php:4330
+#: admin/ReduxFramework/theme-options/re7-config.php:4148
+msgid "Price & Description"
+msgstr "מחיר "
+
+#: admin/theme-functions.php:4331
+msgid "Photos & Files"
+msgstr "תמונות "
+
+#: admin/theme-functions.php:4332
+#: admin/ReduxFramework/theme-options/re7-config.php:4237
+msgid "Details"
+msgstr "פרטים"
+
+#: admin/theme-functions.php:4334 includes/single-listing-sub-navigation.php:78
+#: admin/ReduxFramework/theme-options/re7-config.php:4356
+msgid "Rental Info"
+msgstr "השכרת פרטי"
+
+#: admin/theme-functions.php:4336 includes/single-listing-map.php:18
+#: includes/single-listing-sub-navigation.php:135
+#: includes/single-listing-sub-navigation.php:164
+#: admin/ReduxFramework/theme-options/re7-config.php:4445
+msgid "Location"
+msgstr "מיקום"
+
+#: admin/theme-functions.php:4438
+msgid "Add to Favorites"
+msgstr "הוסף למועדפים"
+
+#: admin/theme-functions.php:4443
+msgid "Favorite"
+msgstr "האהוב"
+
+#: admin/theme-functions.php:4556
+msgid " Photo"
+msgstr " התמונה"
+
+#: admin/theme-functions.php:4558
+msgid " Photos"
+msgstr " תמונות"
+
+#: admin/theme-functions.php:4700 admin/theme-functions.php:5605
+#: admin/theme-functions.php:5915 layouts/list.php:84
+msgid "Rooms"
+msgstr "חדרים"
+
+#: admin/theme-functions.php:4702 admin/theme-functions.php:5607
+#: admin/theme-functions.php:5917 layouts/list.php:86
+msgid "Bedrooms"
+msgstr "חדרי שינה"
+
+#: admin/theme-functions.php:4706 admin/theme-functions.php:5611
+#: admin/theme-functions.php:5919 includes/sub-listings.php:89
+#: layouts/list.php:90 includes/widgets/ct-widget-agentsotherlistings.php:126
+msgid "Bed"
+msgstr "המיטה"
+
+#: admin/theme-functions.php:4722 admin/theme-functions.php:5626
+#: admin/theme-functions.php:5923 layouts/list.php:106
+msgid "Bathrooms"
+msgstr "חדרי אמבטיה"
+
+#: admin/theme-functions.php:4726 admin/theme-functions.php:5630
+#: admin/theme-functions.php:5925 layouts/list.php:110
+msgid "Bath"
+msgstr "אמבטיה"
+
+#: admin/theme-functions.php:4777 includes/sub-listings.php:122
+#: includes/widgets/ct-widget-agentsotherlistings.php:159
+msgid "Rating"
+msgstr "דירוג"
+
+#: admin/theme-functions.php:4794 includes/sub-listings.php:139
+#: includes/widgets/ct-widget-agentsotherlistings.php:176
+msgid "Guests"
+msgstr "האורחים"
+
+#: admin/theme-functions.php:4809 admin/theme-functions.php:4987
+#: includes/sub-listings.php:154
+#: includes/widgets/ct-widget-agentsotherlistings.php:191
+msgid "Min Stay"
+msgstr "דקות להישאר"
+
+#: admin/theme-functions.php:4857
+msgid "Price Per"
+msgstr "מחיר"
+
+#: admin/theme-functions.php:4895
+msgid "Walk Score&reg;"
+msgstr "הליכה ציון"
+
+#: admin/theme-functions.php:4954
+msgid "Check In"
+msgstr "לבדוק"
+
+#: admin/theme-functions.php:4965
+msgid "Check Out"
+msgstr "לבדוק"
+
+#: admin/theme-functions.php:4976
+msgid "Max Guests"
+msgstr "מקס אורחים"
+
+#: admin/theme-functions.php:5008
+msgid "Extra People"
+msgstr "תוספת אנשים."
+
+#: admin/theme-functions.php:5118
+#, php-format
+msgid "%s ago"
+msgstr "%s לפני"
+
+#: admin/theme-functions.php:5138
+msgid "Updated on"
+msgstr "עודכן"
+
+#: admin/theme-functions.php:5140
+msgid "at"
+msgstr "ב"
+
+#: admin/theme-functions.php:5219
+msgid "Hosted By"
+msgstr "בחסות"
+
+#: admin/theme-functions.php:5276 admin/theme-functions.php:5293
+msgid "Listing Courtesy of"
+msgstr "רישום באדיבות"
+
+#: admin/theme-functions.php:5278 admin/theme-functions.php:5295
+msgid "Brokered by"
+msgstr "תיווך"
+
+#: admin/theme-functions.php:5567
+msgid " Sq Ft"
+msgstr " מ \" ר רגל"
+
+#: admin/theme-functions.php:5569
+msgid " m²"
+msgstr " m2"
+
+#: admin/theme-functions.php:5584
+msgid "Acres"
+msgstr "דונם"
+
+#: admin/theme-functions.php:5586
+msgid "Sq Ft"
+msgstr "מ \" ר רגל"
+
+#: admin/theme-functions.php:5588
+msgid "m²"
+msgstr "m2"
+
+#: admin/theme-functions.php:5645
+msgid "Village"
+msgstr "הכפר"
+
+#: admin/theme-functions.php:5647
+msgid "Town"
+msgstr "העיר"
+
+#: admin/theme-functions.php:5664
+msgid "Parish"
+msgstr "הקהילה"
+
+#: admin/theme-functions.php:5666
+msgid "Region"
+msgstr "אזור"
+
+#: admin/theme-functions.php:5668
+msgid "Province"
+msgstr "מחוז"
+
+#: admin/theme-functions.php:5714
+msgid "School District"
+msgstr "בית הספר המחוזי"
+
+#: admin/theme-functions.php:5716
+msgid "Building"
+msgstr "הבניין"
+
+#: admin/theme-functions.php:5718
+msgid "Borough"
+msgstr "רובע"
+
+#: admin/theme-functions.php:5720
+msgid "Sector"
+msgstr "מגזר"
+
+#: admin/theme-functions.php:5891
+msgid "All Property Types"
+msgstr "כל סוגי רכוש"
+
+#: admin/theme-functions.php:5893
+msgid "All Countries"
+msgstr "כל המדינות"
+
+#: admin/theme-functions.php:5895
+msgid "All Counties"
+msgstr "כל מחוזות."
+
+#: admin/theme-functions.php:5929
+msgid "All Statuses"
+msgstr "כל הסטטוסים"
+
+#: admin/theme-functions.php:5931
+msgid "All Additional Features"
+msgstr "כל תכונות נוספות"
+
+#: admin/theme-functions.php:5933
+msgid "All Neighborhoods"
+msgstr "כל השכונות"
+
+#: admin/theme-functions.php:5935
+msgid "All Districts"
+msgstr "כל המחוזות"
+
+#: admin/theme-functions.php:5937
+msgid "All School Districts"
+msgstr "כל בתי הספר"
+
+#: admin/theme-functions.php:5941
+msgid "All Buildings"
+msgstr "כל הבניינים"
+
+#: admin/theme-functions.php:5943
+msgid "All Sectors"
+msgstr "כל המגזרים"
+
+#: admin/theme-functions.php:5945
+msgid "All Communities"
+msgstr "כל הקהילות"
+
+#: admin/theme-functions.php:5953
+msgid "Pet Friendly?"
+msgstr "ידידותי לחיות מחמד?"
+
+#: admin/theme-functions.php:5955
+msgid "Furnished/Unfurnished?"
+msgstr "מרוהט/לא מרוהט?"
+
+#: admin/theme-functions.php:6172 includes/single-listing-yelp.php:165
+msgid "You need to setup the Yelp Fusion API."
+msgstr "אתה צריך להגדיר את Yelp היתוך API."
+
+#: admin/theme-functions.php:6173 includes/single-listing-yelp.php:166
+msgid "Go into Admin > Real Estate 7 Options > What's Nearby? > Create App"
+msgstr ""
+"ללכת אל מנהל מערכת > נדל \" ן 7 אפשרויות < מה\\'s בקרבת מקום? > ליצור "
+"אפליקציה"
+
+#: admin/theme-functions.php:6175
+msgid "You've reached the daily Yelp Fusion API limit."
+msgstr "אתה\\'ve הגיע יומי Yelp היתוך API גבול."
+
+#: admin/theme-functions.php:6176
+msgid "Please visit https://www.yelp.com/developers/v3/manage_app"
+msgstr "אנא בקר https://www.yelp.com/developers/v3/manage_app"
+
+#: admin/theme-functions.php:6178
+msgid "General 502 Error from Yelp Fusion API"
+msgstr "כללי שגיאה 502 מ-Yelp היתוך API"
+
+#: admin/theme-functions.php:6179 admin/theme-functions.php:6182
+msgid "Please check your server error logs."
+msgstr "אנא בדוק את שרת יומני רישום של שגיאה."
+
+#: admin/theme-functions.php:6181
+msgid "General 500 Error from Yelp Fusion API"
+msgstr "כללי שגיאת 500 מ Yelp היתוך API"
+
+#: admin/theme-functions.php:6184
+msgid "General Error from Yelp Fusion API"
+msgstr "שגיאה כללית מתוך Yelp היתוך API"
+
+#: admin/theme-functions.php:6267
+msgid " km"
+msgstr " ק \" מ"
+
+#: admin/theme-functions.php:6269
+msgid " mi"
+msgstr " mi"
+
+#: admin/theme-functions.php:6284
+msgid "reviews"
+msgstr "חוות דעת"
+
+#: admin/theme-functions.php:6357
+msgid "Unfortunately, your API key is over its quota."
+msgstr "למרבה הצער, את ה-API key מעל את המכסה."
+
+#: admin/theme-functions.php:6363
+msgid "Unfortunately, there's no results nearby for this listing."
+msgstr "למרבה הצער, יש's אין תוצאות סמוך לרישום זה."
+
+#: admin/theme-functions.php:6369
+msgid ""
+"Unfortunately, your request was denied, generally because of lack of an "
+"invalid key parameter."
+msgstr "למרבה הצער, את בקשתו נדחתה, בדרך כלל בגלל חוסר נכה פרמטר מפתח."
+
+#: admin/theme-functions.php:6375
+msgid ""
+"Unfortunately, your request was invalid, generally due to wrong address "
+"information or lat/long coordinates."
+msgstr ""
+"למרבה הצער, את הבקשה שלך אינה תקפה, בדרך כלל עקב טעות מידע כתובת או קווי "
+"אורך/רוחב."
+
+#: admin/theme-functions.php:6381
+msgid ""
+"A server-side error happened trying again may be successful, please "
+"shift+refresh the page."
+msgstr ""
+"בצד השרת שגיאה קרה מנסה שוב יכול להיות מוצלח, בבקשה משמרת לרענן את הדף."
+
+#: admin/theme-functions.php:6598
+#, php-format
+msgid "Search Results for: %s"
+msgstr "תוצאות חיפוש עבור: %s"
+
+#: admin/theme-functions.php:6604
+#, php-format
+msgid "Author: %s"
+msgstr "מחבר: %s"
+
+#: admin/theme-functions.php:6607
+#, php-format
+msgid "Day: %s"
+msgstr "יום: %s"
+
+#: admin/theme-functions.php:6610
+#, php-format
+msgid "Month: %s"
+msgstr "חודש: %s"
+
+#: admin/theme-functions.php:6610
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: admin/theme-functions.php:6613
+#, php-format
+msgid "Year: %s"
+msgstr "שנה: %s"
+
+#: admin/theme-functions.php:6613
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: admin/theme-functions.php:6616
+msgid "Archives"
+msgstr "ארכיון"
+
+#: admin/theme-functions.php:6691
+msgid "Share This"
+msgstr "שתף"
+
+#: admin/theme-functions.php:6694 admin/theme-functions.php:6695
+#: admin/theme-functions.php:6696 includes/post-social.php:16
+#: includes/post-social.php:17 includes/post-social.php:18
+msgid "Check out this great article on"
+msgstr "לבדוק מאמר גדול זה על"
+
+#: admin/theme-functions.php:6735
+msgid "About The Author"
+msgstr "אודות המחבר"
+
+#: admin/theme-functions.php:6792
+msgid "Related Posts"
+msgstr "הודעות לא קשורות"
+
+#: admin/theme-functions.php:6842
+msgid "<span class=\"meta-nav\">&larr;</span> Older"
+msgstr ""
+
+#: admin/theme-functions.php:6843
+msgid "Newer <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: admin/theme-functions.php:7415
+msgid ""
+"<span class=\"meta-nav\"><i class=\"fa fa-chevron-left\"></i></span> Older "
+"listings"
+msgstr ""
+
+#: admin/theme-functions.php:7416
+msgid ""
+"Newer listings <span class=\"meta-nav\"><i class=\"fa fa-chevron-right\"></i>"
+"</span>"
+msgstr ""
+
+#: admin/theme-functions.php:7438 admin/theme-functions.php:7439
+msgid "%link"
+msgstr "%הקישור"
+
+#: admin/theme-functions.php:7759
+msgid "g:i a"
+msgstr "g:אני"
+
+#: admin/theme-functions.php:7762
+#, php-format
+msgid "Minute %1$s"
+msgstr "דקה %1$s"
+
+#: admin/theme-functions.php:7762
+msgid "i"
+msgstr "אני"
+
+#: admin/theme-functions.php:7765
+msgid "g a"
+msgstr "g"
+
+#: admin/theme-functions.php:7776 admin/theme-functions.php:7782
+#: admin/theme-functions.php:7782 admin/theme-functions.php:7787
+#: admin/theme-functions.php:7787 admin/theme-functions.php:7792
+msgid "Y"
+msgstr "Y"
+
+#: admin/theme-functions.php:7777 admin/theme-functions.php:7788
+msgid "F"
+msgstr "F"
+
+#: admin/theme-functions.php:7778
+msgid "j"
+msgstr "j"
+
+#: admin/theme-functions.php:7783
+#, php-format
+msgid "Week %1$s"
+msgstr "בשבוע %1$s"
+
+#: admin/theme-functions.php:7783
+msgid "W"
+msgstr "W"
+
+#: admin/theme-functions.php:7799
+#, php-format
+msgid "Search results for &quot;%1$s&quot;"
+msgstr "תוצאות חיפוש עבור "
+
+#: admin/theme-functions.php:7803
+msgid "404 Not Found"
+msgstr "404 לא נמצא"
+
+#: includes/advanced-search.php:189 includes/header-advanced-search.php:209
+#: includes/header-advanced-search.php:532
+#: includes/widgets/ct-widget-listingssearch.php:200
+msgid "From"
+msgstr "מ"
+
+#: includes/advanced-search.php:198 includes/header-advanced-search.php:218
+#: includes/header-advanced-search.php:541
+#: includes/widgets/ct-widget-listingssearch.php:209
+msgid "To"
+msgstr "כדי"
+
+#: includes/advanced-search.php:226 includes/advanced-search.php:227
+#: includes/header-advanced-search.php:283
+#: includes/header-advanced-search.php:284
+#: includes/header-advanced-search.php:605
+#: includes/header-advanced-search.php:606
+#: includes/widgets/ct-widget-listingssearch.php:237
+#: includes/widgets/ct-widget-listingssearch.php:238
+msgid "MLS ID"
+msgstr "MLS ID"
+
+#: includes/advanced-search.php:248 includes/header-advanced-search.php:309
+#: includes/header-advanced-search.php:627
+#: includes/header-advanced-search.php:628
+msgid "Keyword"
+msgstr "מילות מפתח"
+
+#: includes/advanced-search.php:249 includes/header-advanced-search.php:310
+msgid "Street, City, State, Zip or keyword"
+msgstr "רחוב, עיר, מדינה, מיקוד או מילות מפתח"
+
+#: includes/advanced-search.php:265
+#: includes/widgets/ct-widget-listingssearch.php:275
+msgid "More Search Options"
+msgstr "יותר אפשרויות חיפוש"
+
+#: includes/agent-contact-modal.php:21 includes/single-listing-home.php:269
+#: includes/widgets/ct-widget-listingscontact.php:30
+msgid "Tell me more about this property"
+msgstr "ספר לי עוד על רכוש"
+
+#: includes/featured-listings.php:31 includes/featured-listings.php:33
+msgid "View All"
+msgstr "הצג את כל"
+
+#: includes/header-advanced-search.php:192
+#: includes/header-advanced-search.php:515
+msgid "Price range:"
+msgstr "טווח מחירים:"
+
+#: includes/header-advanced-search.php:194
+#: includes/header-advanced-search.php:230
+#: includes/header-advanced-search.php:267
+#: includes/header-advanced-search.php:517
+#: includes/header-advanced-search.php:553
+#: includes/header-advanced-search.php:589
+#: includes/widgets/ct-widget-listingbooktour.php:198
+msgid "to"
+msgstr "כדי"
+
+#: includes/header-advanced-search.php:228
+#: includes/header-advanced-search.php:551
+msgid "Size range:"
+msgstr "גודל טווח:"
+
+#: includes/header-advanced-search.php:265
+#: includes/header-advanced-search.php:587
+msgid "Lot size range:"
+msgstr "הרבה גודל טווח:"
+
+#: includes/header-advanced-search.php:312
+#: includes/home-hero-advanced-search.php:22
+msgid "Searching..."
+msgstr "חיפוש..."
+
+#: includes/header-advanced-search.php:352
+msgid "Enter a street address or keyword"
+msgstr "הזן כתובת רחוב או מילות מפתח"
+
+#: includes/header-advanced-search.php:468
+msgid "Addtional Features"
+msgstr "נוסף תכונות"
+
+#: includes/home-hero-advanced-search.php:21
+msgid "Enter Street, City, State, Zip or keyword"
+msgstr "הזן רחוב, עיר, מדינה, מיקוד או מילות מפתח"
+
+#: includes/home-listings-count.php:32
+msgid "Homes For Sale"
+msgstr "בתים למכירה"
+
+#: includes/home-listings-count.php:84
+msgid "Recently Sold"
+msgstr "לאחרונה מכר"
+
+#: includes/home-listings-count.php:110
+msgid "Reduced"
+msgstr "מופחת"
+
+#: includes/home-listings-count.php:136
+msgid "For Rent"
+msgstr "להשכרה"
+
+#: includes/home-listings-count.php:162
+msgid "Leased"
+msgstr "מושכר"
+
+#: includes/home-listings-count.php:214
+msgid "New Additions"
+msgstr "תוספות חדשות"
+
+#: includes/home-listings-count.php:240
+msgid "Special Offers"
+msgstr "הצעות מיוחדות"
+
+#: includes/single-listing-attachments.php:20
+#: includes/single-listing-sub-navigation.php:106
+msgid "Attachments"
+msgstr "קבצים מצורפים"
+
+#: includes/single-listing-booking-calendar.php:17
+#: includes/single-listing-home.php:155
+msgid "Book this listing"
+msgstr "ספר זה רישום"
+
+#: includes/single-listing-contact.php:106
+msgid "Agent #"
+msgstr ""
+
+#: includes/single-listing-contact.php:203 includes/single-listing-home.php:265
+msgid "Request More Information"
+msgstr "בקשת מידע נוסף"
+
+#: includes/single-listing-contact.php:216
+#: includes/single-listing-lead-media-with-contact.php:140
+msgid "Tell me more about this listing"
+msgstr "ספר לי עוד על רישום"
+
+#: includes/single-listing-contact.php:257 includes/single-listing-home.php:296
+msgid "Co-listing Agent"
+msgstr "Co-רישום סוכן"
+
+#: includes/single-listing-ct-idx-pro-info.php:60
+msgid "Overview"
+msgstr "סקירה"
+
+#: includes/single-listing-ct-idx-pro-info.php:77
+msgid "Sold Date"
+msgstr "נמכר תאריך"
+
+#: includes/single-listing-ct-idx-pro-info.php:99
+msgid "Style"
+msgstr "סגנון"
+
+#: includes/single-listing-ct-idx-pro-info.php:110
+msgid "Year Built"
+msgstr "שנה בנה"
+
+#: includes/single-listing-ct-idx-pro-info.php:121
+msgid "Fencing"
+msgstr "גידור"
+
+#: includes/single-listing-ct-idx-pro-info.php:132
+msgid "Topography"
+msgstr "טופוגרפיה"
+
+#: includes/single-listing-ct-idx-pro-info.php:143
+msgid "Exterior"
+msgstr "חיצוני"
+
+#: includes/single-listing-ct-idx-pro-info.php:154
+msgid "Parking/Garage"
+msgstr "חניה/חניון"
+
+#: includes/single-listing-ct-idx-pro-info.php:165
+msgid "Parking/Garage Spaces"
+msgstr "חניה/חניון רווחים"
+
+#: includes/single-listing-ct-idx-pro-info.php:176
+msgid "Heating"
+msgstr "חימום"
+
+#: includes/single-listing-ct-idx-pro-info.php:187
+msgid "Heat Source"
+msgstr "מקור חום"
+
+#: includes/single-listing-ct-idx-pro-info.php:198
+msgid "Cooling"
+msgstr "קירור"
+
+#: includes/single-listing-ct-idx-pro-info.php:209
+msgid "Water"
+msgstr "מים"
+
+#: includes/single-listing-ct-idx-pro-info.php:220
+msgid "Sewer/Septic"
+msgstr "ביוב/ספיגה"
+
+#: includes/single-listing-ct-idx-pro-info.php:235
+#: includes/single-listing-sub-navigation.php:87
+msgid "Features"
+msgstr "תכונות"
+
+#: includes/single-listing-ct-idx-pro-info.php:241
+msgid "Equipment"
+msgstr "ציוד"
+
+#: includes/single-listing-ct-idx-pro-info.php:252
+msgid "Fireplace"
+msgstr "האח"
+
+#: includes/single-listing-ct-idx-pro-info.php:263
+msgid "Number of Fireplaces"
+msgstr "מספר קמינים"
+
+#: includes/single-listing-ct-idx-pro-info.php:274
+msgid "Pool"
+msgstr "בריכה"
+
+#: includes/single-listing-ct-idx-pro-info.php:296
+msgid "Security"
+msgstr "אבטחה"
+
+#: includes/single-listing-ct-idx-pro-info.php:307
+msgid "Floor Coverings"
+msgstr "כיסויי רצפה"
+
+#: includes/single-listing-ct-idx-pro-info.php:321
+#: includes/single-listing-ct-idx-pro-info.php:327
+msgid "HOA"
+msgstr "HOA"
+
+#: includes/single-listing-ct-idx-pro-info.php:338
+msgid "HOA Fee Due"
+msgstr "HOA בתשלום"
+
+#: includes/single-listing-ct-idx-pro-info.php:349
+msgid "HOA Includes"
+msgstr "HOA כולל"
+
+#: includes/single-listing-energy-efficiency.php:21
+msgid "Energy Efficiency"
+msgstr "יעילות אנרגיה"
+
+#: includes/single-listing-energy-efficiency.php:26
+msgid "Energy Class"
+msgstr "אנרגיה הכיתה"
+
+#: includes/single-listing-energy-efficiency.php:29
+msgid "Global Energy Performance"
+msgstr "האנרגיה העולמית ביצועים"
+
+#: includes/single-listing-energy-efficiency.php:32
+msgid "Renewable Energy Performance"
+msgstr "אנרגיה מתחדשת ביצועים"
+
+#: includes/single-listing-energy-efficiency.php:35
+msgid "Building Energy Performance"
+msgstr "בניין אנרגיה ביצועים"
+
+#: includes/single-listing-google-places.php:23
+#: includes/single-listing-yelp.php:23
+#: admin/ReduxFramework/theme-options/re7-config.php:3719
+msgid "What's Nearby?"
+msgstr "מה\\'s בקרבת מקום?"
+
+#: includes/single-listing-google-places.php:66
+#: includes/single-listing-yelp.php:41
+msgid "Restaurants"
+msgstr "מסעדות"
+
+#: includes/single-listing-google-places.php:75
+#: includes/single-listing-yelp.php:49
+msgid "Coffee Shops"
+msgstr "בתי קפה"
+
+#: includes/single-listing-google-places.php:84
+#: includes/single-listing-yelp.php:121
+msgid "Stores"
+msgstr "חנויות"
+
+#: includes/single-listing-google-places.php:93
+#: includes/single-listing-yelp.php:65
+msgid "Education"
+msgstr "חינוך"
+
+#: includes/single-listing-google-places.php:102
+msgid "Banks"
+msgstr "הבנקים"
+
+#: includes/single-listing-google-places.php:111
+#: includes/single-listing-yelp.php:81
+msgid "Bars"
+msgstr "סורגים"
+
+#: includes/single-listing-google-places.php:120
+#: includes/single-listing-yelp.php:89
+msgid "Hospitals"
+msgstr "בתי חולים"
+
+#: includes/single-listing-google-places.php:129
+#: includes/single-listing-yelp.php:97
+msgid "Gas Stations"
+msgstr "תחנות דלק"
+
+#: includes/single-listing-google-places.php:138
+#: includes/single-listing-yelp.php:105
+msgid "Transit Stations"
+msgstr "מעבר תחנות"
+
+#: includes/single-listing-google-places.php:147
+#: includes/single-listing-yelp.php:113
+msgid "Convenience Stores"
+msgstr "חנויות נוחות"
+
+#: includes/single-listing-google-places.php:156
+#: includes/single-listing-yelp.php:129
+msgid "Shopping Malls"
+msgstr "קניונים"
+
+#: includes/single-listing-google-places.php:165
+#: includes/single-listing-yelp.php:137
+msgid "Veterinary Care"
+msgstr "טיפול וטרינרי"
+
+#: includes/single-listing-google-places.php:174
+#: includes/single-listing-yelp.php:145
+msgid "Pet Store"
+msgstr "חנות לחיות מחמד"
+
+#: includes/single-listing-google-places.php:183
+#: includes/single-listing-yelp.php:153
+msgid "Park"
+msgstr "פארק"
+
+#: includes/single-listing-google-places.php:196
+msgid "Google Places/What's Nearby? Error."
+msgstr "גוגל מקומות/מה\\'s בקרבת מקום? שגיאה."
+
+#: includes/single-listing-google-places.php:197
+msgid ""
+"You need to create an API key go into Admin > Real Estate 7 Options > Google "
+"Maps > API Key, then setup the options via Real Estate 7 Options > \"What's "
+"Nearby?\" panel."
+msgstr ""
+"אתה צריך ליצור מפתח API להיכנס אל מנהל מערכת > נדל \"ן 7 אפשרויות < Google "
+"Maps > API Key, ואז להגדיר את אפשרויות באמצעות נדל\" ן. 7 אפשרויות < "
+"\"מה\\'s בקרבת מקום?\" פנל."
+
+#: includes/single-listing-header.php:33 includes/single-listing-header.php:76
+#: includes/single-listing-home.php:74
+msgid "Co-listing"
+msgstr "Co-רישום"
+
+#: includes/single-listing-home.php:135
+#: includes/single-listing-rental-info.php:47
+msgid "Prices"
+msgstr "מחירים"
+
+#: includes/single-listing-home.php:365
+msgid "Share This Listing"
+msgstr "לחלוק את זה פרטי"
+
+#: includes/single-listing-lead-media-with-contact.php:166
+msgid "Request Information"
+msgstr "בקשת מידע"
+
+#: includes/single-listing-map.php:27
+msgid "Enter your starting address"
+msgstr "הזן את כתובת ההתחלה שלך."
+
+#: includes/single-listing-map.php:43
+msgid "get directions"
+msgstr "קבל הוראות"
+
+#: includes/single-listing-multi-floorplan.php:21
+msgid "Floor Plans & Pricing"
+msgstr "תוכניות קומה "
+
+#: includes/single-listing-multi-floorplan.php:40
+msgid "Size"
+msgstr "גודל"
+
+#: includes/single-listing-multi-floorplan.php:46
+msgid "Availability"
+msgstr "זמינות"
+
+#: includes/single-listing-open-house.php:35
+msgid "Time"
+msgstr "זמן"
+
+#: includes/single-listing-open-house.php:38
+#: includes/single-listing-open-house.php:80
+msgid "RSVP"
+msgstr "RSVP"
+
+#: includes/single-listing-propinfo.php:18
+msgid "MLS #"
+msgstr ""
+
+#: includes/single-listing-propinfo.php:20
+msgid "Property ID #"
+msgstr ""
+
+#: includes/single-listing-rental-info.php:25
+msgid "Rental Information"
+msgstr "השכרת המידע"
+
+#: includes/single-listing-sub-listings.php:21
+msgid "Other Listings in Neighborhood"
+msgstr "רישומים אחרים בשכונה"
+
+#: includes/single-listing-sub-listings.php:23
+msgid "Other Listings in Suburb"
+msgstr "רישומים אחרים בפרברים"
+
+#: includes/single-listing-sub-listings.php:25
+msgid "Other Listings in District"
+msgstr "רישומים אחרים במחוז"
+
+#: includes/single-listing-sub-listings.php:27
+msgid "Other Listings in School District"
+msgstr "רישומים אחרים בבית הספר המחוזי"
+
+#: includes/single-listing-sub-listings.php:29
+msgid "Other Listings in Building"
+msgstr "רישומים אחרים בבניין"
+
+#: includes/single-listing-sub-listings.php:31
+msgid "Other Listings in Borough"
+msgstr "רישומים אחרים בתוך הרובע"
+
+#: includes/single-listing-sub-listings.php:33
+msgid "Other Listings in Community"
+msgstr "רישומים אחרים בקהילה"
+
+#: includes/single-listing-sub-navigation.php:34
+msgid "Description"
+msgstr "תיאור"
+
+#: includes/single-listing-sub-navigation.php:61
+msgid "Floor Plans"
+msgstr "תוכניות קומה"
+
+#: includes/single-listing-sub-navigation.php:96
+msgid "Booking"
+msgstr "ההזמנות"
+
+#: includes/single-listing-sub-navigation.php:117
+#: includes/single-listing-video.php:16
+msgid "Video"
+msgstr "וידאו"
+
+#: includes/single-listing-sub-navigation.php:127
+msgid "Tour"
+msgstr "סיור"
+
+#: includes/single-listing-sub-navigation.php:142
+msgid "Nearby"
+msgstr "בקרבת מקום"
+
+#: includes/single-listing-sub-navigation.php:163
+msgid "Listing Features"
+msgstr "רישום תכונות"
+
+#: includes/single-listing-virtual-tour.php:19
+msgid "Virtual Tour"
+msgstr "סיור וירטואלי"
+
+#: includes/single-listing-yelp.php:22
+msgid "powered by "
+msgstr "מופעל על ידי "
+
+#: includes/single-listing-yelp.php:57
+msgid "Grocery"
+msgstr "מכולת"
+
+#: includes/single-listing-yelp.php:73
+msgid "Bank"
+msgstr "בנק"
+
+#: layouts/blog-grid.php:96 layouts/blog-large.php:96
+msgid "Read More"
+msgstr "קרא עוד"
+
+#: layouts/grid.php:22 layouts/list.php:23
+msgid "This agent currently has no active listings."
+msgstr "הסוכן הזה יש כיום לא פעיל רישומים."
+
+#: layouts/grid.php:24 layouts/list.php:25
+msgid "This brokerage currently has no active listings."
+msgstr "זה תיווך יש כיום לא פעיל רישומים."
+
+#: layouts/grid.php:26 layouts/list.php:27
+msgid "No properties were found which match your search criteria"
+msgstr "אין מאפיינים נמצאו אשר תואם את קריטריוני החיפוש שלך"
+
+#: layouts/saved-search-list.php:57 includes/widgets/ct-widget-tabs.php:214
+msgid "on"
+msgstr "על"
+
+#: layouts/saved-search-list.php:57
+msgid "On"
+msgstr "על"
+
+#: layouts/saved-search-list.php:58
+msgid "off"
+msgstr "חופש"
+
+#: layouts/saved-search-list.php:58
+msgid "Off"
+msgstr "חופש"
+
+#: admin/ct-social/ct-social.php:28
+msgid "CT Social"
+msgstr "CT חברתית"
+
+#: admin/ct-social/ct-social.php:125
+#: includes/widgets/ct-widget-agentinfo.php:106
+#: includes/widgets/ct-widget-agentsotherlistings.php:287
+#: includes/widgets/ct-widget-blogauthor.php:60
+#: includes/widgets/ct-widget-brokerinfo.php:78
+#: includes/widgets/ct-widget-contactinfo.php:140
+#: includes/widgets/ct-widget-latestposts.php:70
+#: includes/widgets/ct-widget-listings.php:130
+#: includes/widgets/ct-widget-listingscontact.php:68
+#: includes/widgets/ct-widget-listingssearch.php:299
+#: includes/widgets/ct-widget-search.php:40
+#: includes/widgets/ct-widget-testimonials.php:62
+msgid "Title:"
+msgstr "כותרת:"
+
+#: admin/ct-social/ct-social.php:129
+msgid "Dribbble:"
+msgstr "Dribbble:"
+
+#: admin/ct-social/ct-social.php:133
+#: includes/widgets/ct-widget-contactinfo.php:176
+msgid "Email:"
+msgstr "דוא \" ל:"
+
+#: admin/ct-social/ct-social.php:137
+#: includes/widgets/ct-widget-contactinfo.php:180
+msgid "Facebook:"
+msgstr "Facebook:"
+
+#: admin/ct-social/ct-social.php:141
+msgid "Flickr:"
+msgstr "Flickr:"
+
+#: admin/ct-social/ct-social.php:145
+msgid "Foursquare:"
+msgstr "פורסקוור:"
+
+#: admin/ct-social/ct-social.php:149
+msgid "GitHub:"
+msgstr "GitHub:"
+
+#: admin/ct-social/ct-social.php:153
+#: includes/widgets/ct-widget-contactinfo.php:196
+msgid "Instagram:"
+msgstr "Instagram:"
+
+#: admin/ct-social/ct-social.php:157
+#: includes/widgets/ct-widget-contactinfo.php:188
+msgid "LinkedIn:"
+msgstr "LinkedIn:"
+
+#: admin/ct-social/ct-social.php:161
+msgid "Medium:"
+msgstr "בינוני:"
+
+#: admin/ct-social/ct-social.php:165
+#: includes/widgets/ct-widget-contactinfo.php:192
+msgid "Pinterest:"
+msgstr "Pinterest:"
+
+#: admin/ct-social/ct-social.php:169
+msgid "Skype:"
+msgstr "סקייפ:"
+
+#: admin/ct-social/ct-social.php:173
+#: includes/widgets/ct-widget-contactinfo.php:184
+msgid "Twitter:"
+msgstr "טוויטר:"
+
+#: admin/ct-social/ct-social.php:177
+msgid "YouTube:"
+msgstr "YouTube:"
+
+#: admin/ct-social/ct-social.php:181
+msgid "Links:"
+msgstr "קישורים:"
+
+#: admin/getting-started/getting-started.php:91
+#, php-format
+msgid "Getting started with %1$s v%2$s"
+msgstr "התחלתי עם %1$s v%2$s"
+
+#: admin/getting-started/getting-started.php:93
+#, php-format
+msgid ""
+"Thanks for purchasing %1$s! I truly appreciate the support and the "
+"opportunity to share my work with you. Please visit the tabs below to get "
+"started setting up your theme!"
+msgstr ""
+"תודה על רכישת %1$s! אני באמת מעריך את התמיכה וההזדמנות לחלוק את העבודה איתך. "
+"אנא בקר הטאבים למטה כדי להתחיל הגדרת הנושא שלך!"
+
+#: admin/getting-started/getting-started.php:99
+msgid "Start Here"
+msgstr "התחל כאן"
+
+#: admin/getting-started/getting-started.php:100
+msgid "Plugins"
+msgstr "תוספים"
+
+#: admin/getting-started/getting-started.php:101
+msgid "FAQ &amp; Support"
+msgstr "שאלות נפוצות "
+
+#: admin/getting-started/getting-started.php:102
+msgid "Latest Updates"
+msgstr "העדכונים האחרונים"
+
+#: admin/getting-started/getting-started.php:110
+#, php-format
+msgid "Installing %s"
+msgstr "התקנת %s"
+
+#: admin/getting-started/getting-started.php:116
+#: admin/ReduxFramework/theme-options/re7-config.php:5260
+msgid "Documentation"
+msgstr "תיעוד"
+
+#: admin/getting-started/getting-started.php:170
+msgid "Required & Recommended Plugins"
+msgstr "נדרש "
+
+#: admin/getting-started/getting-started.php:172
+msgid ""
+"Below is a list of required and recommended plugins to install that will "
+"help you get the most out of WP Pro Real Estate 7. To begin please use the "
+"button below or browse through the list to learn about each one in a little "
+"more detail."
+msgstr ""
+"להלן רשימה של חובה, מומלץ תוספים להתקין שיעזרו לך להפיק את המרב של WP Pro "
+"נדל \" ן 7. כדי להתחיל, אנא השתמש על הכפתור למטה או לדפדף ברשימה כדי ללמוד "
+"על כל אחד מהם בקצת יותר פירוט."
+
+#: admin/getting-started/getting-started.php:178
+#: admin/getting-started/getting-started.php:190
+#: admin/plugins/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr "נדרש"
+
+#: admin/getting-started/getting-started.php:178 admin/plugins/register.php:66
+msgid "Redux Framework"
+msgstr "Redux Framework"
+
+#: admin/getting-started/getting-started.php:180
+msgid "Install Redux Framework"
+msgstr "להתקין Redux Framework"
+
+#: admin/getting-started/getting-started.php:180
+#: admin/getting-started/getting-started.php:192
+#: admin/getting-started/getting-started.php:204
+#: admin/getting-started/getting-started.php:216
+#: admin/getting-started/getting-started.php:228
+#: admin/getting-started/getting-started.php:240
+#: admin/getting-started/getting-started.php:252
+#: admin/getting-started/getting-started.php:264
+#: admin/getting-started/getting-started.php:276
+#: admin/getting-started/getting-started.php:288
+#: admin/getting-started/getting-started.php:300
+#: admin/getting-started/getting-started.php:315
+#: admin/getting-started/getting-started.php:327
+#: admin/getting-started/getting-started.php:339
+#: admin/getting-started/getting-started.php:351
+#: admin/getting-started/getting-started.php:363
+#: admin/getting-started/getting-started.php:375
+#: admin/getting-started/getting-started.php:387
+msgid "Install Now"
+msgstr "התקן כעת"
+
+#: admin/getting-started/getting-started.php:182
+#: admin/getting-started/getting-started.php:194
+#: admin/getting-started/getting-started.php:206
+#: admin/getting-started/getting-started.php:218
+#: admin/getting-started/getting-started.php:230
+#: admin/getting-started/getting-started.php:242
+#: admin/getting-started/getting-started.php:254
+#: admin/getting-started/getting-started.php:266
+#: admin/getting-started/getting-started.php:278
+#: admin/getting-started/getting-started.php:290
+#: admin/getting-started/getting-started.php:302
+#: admin/getting-started/getting-started.php:317
+#: admin/getting-started/getting-started.php:329
+#: admin/getting-started/getting-started.php:341
+#: admin/getting-started/getting-started.php:353
+#: admin/getting-started/getting-started.php:365
+#: admin/getting-started/getting-started.php:377
+#: admin/getting-started/getting-started.php:389
+msgid "Installed"
+msgstr "מותקן"
+
+#: admin/getting-started/getting-started.php:186
+msgid "This plugin is used for the admin options framework."
+msgstr "תוסף זה משמש את מנהל מסגרת אפשרויות."
+
+#: admin/getting-started/getting-started.php:190 admin/plugins/register.php:72
+msgid "Contempo Real Estate Custom Posts"
+msgstr "Contempo נדל \" ן פוסטים מותאמים אישית"
+
+#: admin/getting-started/getting-started.php:192
+msgid "Install Contempo Real Estate Custom Posts"
+msgstr "להתקין Contempo נדל \" ן פוסטים מותאמים אישית"
+
+#: admin/getting-started/getting-started.php:198
+msgid ""
+"This plugin registers the listings, brokerages & testimonials custom post "
+"types, along with related custom fields & taxonomies, as well as all the "
+"custom Visual Composer modules (if you have the Visual Composer plugin "
+"installed & activated)."
+msgstr "תוסף זה רושם את רישומים, ברוקרים "
+
+#: admin/getting-started/getting-started.php:202
+#: admin/getting-started/getting-started.php:214
+#: admin/getting-started/getting-started.php:226
+#: admin/getting-started/getting-started.php:238
+#: admin/getting-started/getting-started.php:250
+#: admin/getting-started/getting-started.php:262
+#: admin/getting-started/getting-started.php:274
+#: admin/getting-started/getting-started.php:286
+#: admin/getting-started/getting-started.php:298
+#: admin/getting-started/getting-started.php:313
+#: admin/getting-started/getting-started.php:325
+#: admin/getting-started/getting-started.php:337
+#: admin/getting-started/getting-started.php:349
+#: admin/getting-started/getting-started.php:361
+#: admin/getting-started/getting-started.php:373
+#: admin/getting-started/getting-started.php:385
+#: admin/plugins/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr "מומלץ"
+
+#: admin/getting-started/getting-started.php:202 admin/plugins/register.php:132
+msgid "Contempo Membership & Packages"
+msgstr "Contempo חברות "
+
+#: admin/getting-started/getting-started.php:204
+msgid "Install Contempo Membership & Packages"
+msgstr "להתקין Contempo חברות "
+
+#: admin/getting-started/getting-started.php:210
+msgid ""
+"This plugin adds the ability to create membership & packages for use with "
+"the front end submission system in WP Pro Real Estate 7, with Stripe, PayPal "
+"& Wire Transfer payment methods."
+msgstr "תוסף זה מוסיף את היכולת ליצור חברות "
+
+#: admin/getting-started/getting-started.php:214 admin/plugins/register.php:176
+msgid "Contempo Saved Searches & Email Alerts"
+msgstr "Contempo חיפושים שמורים "
+
+#: admin/getting-started/getting-started.php:216
+msgid "Install Contempo Saved Searches & Email Alerts"
+msgstr "להתקין Contempo חיפושים שמורים "
+
+#: admin/getting-started/getting-started.php:222
+msgid "This plugin allows users be alerted via email when a listing is added."
+msgstr "תוסף זה מאפשר למשתמשים לקבל התראה בדוא \" ל כאשר רישום הוא הוסיף."
+
+#: admin/getting-started/getting-started.php:226 admin/plugins/register.php:165
+msgid "Contempo Compare Listings"
+msgstr "Contempo להשוות רישומים"
+
+#: admin/getting-started/getting-started.php:228
+#: admin/getting-started/getting-started.php:252
+msgid "Install Contempo Compare Listings"
+msgstr "להתקין Contempo להשוות רישומים"
+
+#: admin/getting-started/getting-started.php:234
+msgid "This plugin adds compare functionality for listings."
+msgstr "תוסף זה מוסיף להשוות פונקציונליות עבור רשימות."
+
+#: admin/getting-started/getting-started.php:238 admin/plugins/register.php:154
+msgid "Contempo Mortgage Calculator Widget"
+msgstr "Contempo מחשבון משכנתא יישומון"
+
+#: admin/getting-started/getting-started.php:240
+msgid "Install Contempo Mortgage Calculator Widget"
+msgstr "להתקין Contempo מחשבון משכנתא יישומון"
+
+#: admin/getting-started/getting-started.php:246
+msgid "This plugin enables a simple mortgage calculator widget."
+msgstr "תוסף זה מאפשר פשוטה מחשבון משכנתא יישומון."
+
+#: admin/getting-started/getting-started.php:250 admin/plugins/register.php:187
+msgid "Contempo Child Theme Generator"
+msgstr "Contempo הילד נושא גנרטור"
+
+#: admin/getting-started/getting-started.php:258
+msgid ""
+"This plugin allows admin users to easily generate a child theme from your "
+"Admin > Appearance panel."
+msgstr ""
+"תוסף זה מאפשר ניהול משתמשים כדי ליצור בקלות ילד שיר הנושא של הניהול שלך > "
+"פנל מראה."
+
+#: admin/getting-started/getting-started.php:262
+msgid "Contempo Payment Gateways"
+msgstr "Contempo שערים תשלום"
+
+#: admin/getting-started/getting-started.php:264
+msgid "Install Contempo Payment Gateways"
+msgstr "להתקין Contempo שערים תשלום"
+
+#: admin/getting-started/getting-started.php:270
+msgid ""
+"This plugin enables the PayPal API and only required if you're going to be "
+"charging single listing payments from the front end of the site, if you're "
+"using the Membership & Packages plugin leave this plugin deactivated."
+msgstr ""
+"תוסף זה מאפשר ל-PayPal API ו-נדרש רק אם אתה מחדש \"יהיה לחייב יחיד רישום "
+"תשלומים מן הקצה הקדמי של האתר, אם אתה מחדש\" באמצעות חברות "
+
+#: admin/getting-started/getting-started.php:274 admin/plugins/register.php:198
+msgid "Slider Revolution"
+msgstr "Slider Revolution"
+
+#: admin/getting-started/getting-started.php:276
+msgid "Install Slider Revolution"
+msgstr "להתקין Slider Revolution"
+
+#: admin/getting-started/getting-started.php:282
+msgid ""
+"Slider Revolution is an innovative, responsive WordPress Slider Plugin that "
+"displays your content the beautiful way."
+msgstr ""
+"מחוון מהפכה היא חדשנית, responsive WordPress סליידר הפלאגין שמציג את התוכן "
+"שלך הדרך היפה."
+
+#: admin/getting-started/getting-started.php:286
+msgid "Visual Composer"
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "מלחין חזותי"
+msgstr[1] "נושא זה דורש את התוספים הבאים: %1$s."
+
+#: admin/getting-started/getting-started.php:288
+msgid "Install Visual Composer"
+msgstr "להתקין מלחין חזותי"
+
+#: admin/getting-started/getting-started.php:294
+msgid ""
+"WordPress Page Builder plugin with intuitive drag and drop interface. Build "
+"any page fast and easy. Unlimited layouts for your website."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+"וורדפרס תוסף בונה דף עם אינטואיטיבי ממשק גרור ושחרר. לבנות כל דף מהיר וקל. "
+"ללא הגבלה פריסות עבור אתר האינטרנט שלך."
+msgstr[1] "הנושא הזה ממליץ על התוספים הבאים: %1$s."
+
+#: admin/getting-started/getting-started.php:298
+msgid "WPML"
+msgstr "WPML"
+
+#: admin/getting-started/getting-started.php:300
+msgid "Install WPML"
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] "להתקין את WPML"
+msgstr[1] ""
+"את התוספים הבאים עליך לעדכן את הגירסה העדכנית ביותר כדי להבטיח תאימות "
+"מקסימלית עם נושא זה: %1$s."
+
+#: admin/getting-started/getting-started.php:308
+#, php-format
+msgid ""
+"<a href=\"%s\" target=\"_blank\">WPML</a> allows running fully multilingual "
+"websites with WordPress, making it easy to translate WordPress pages, posts, "
+"tags, categories and themes."
+msgstr ""
+
+#: admin/getting-started/getting-started.php:313
+#: admin/getting-started/getting-started.php:337 admin/plugins/register.php:86
+msgid "WordPress Social Login"
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "וורדפרס חברתית כניסה"
+msgstr[1] "יש עדכונים זמינים עבור התוספים הבאים: %1$s."
+
+#: admin/getting-started/getting-started.php:315
+#: admin/getting-started/getting-started.php:327
+msgid "Install WP Favorite Posts"
+msgstr "להתקין WP ההודעות האהובים"
+
+#: admin/getting-started/getting-started.php:321
+msgid ""
+"This plugin allows users to login/register with their social profiles like "
+"Facebook, Google, Twitter, etc&hellip;"
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+"תוסף זה מאפשר למשתמשים להתחבר/להירשם עם הפרופילים החברתיים שלהם כמו Facebook,"
+" Google, Twitter, וכו'"
+msgstr[1] "להלן נדרש plugins כרגע לא פעיל: %1$s."
+
+#: admin/getting-started/getting-started.php:325 admin/plugins/register.php:121
+#: admin/ReduxFramework/theme-options/re7-config.php:4827
+msgid "WP Favorite Posts"
+msgstr "WP ההודעות האהובים"
+
+#: admin/getting-started/getting-started.php:333
+msgid ""
+"This plugin allows users to favorite & save listings from the front end of "
+"the site."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "תוסף זה מאפשר למשתמשים האהוב "
+msgstr[1] "הבא מומלצים תוספים כרגע לא פעיל: %1$s."
+
+#: admin/getting-started/getting-started.php:339
+msgid "Install WordPress Social Login"
+msgstr "להתקין וורדפרס חברתית כניסה"
+
+#: admin/getting-started/getting-started.php:345
+msgid ""
+"This plugin allows users to login/register for your site via social networks "
+"like Facebook, Google, Twitter, etc&hellip;"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+"תוסף זה מאפשר למשתמשים להתחבר/להירשם עבור האתר שלך באמצעות רשתות חברתיות כמו "
+"Facebook, Google, Twitter, וכו'"
+msgstr[1] "להתחיל בהתקנת תוספים"
+
+#: admin/getting-started/getting-started.php:349 admin/plugins/register.php:92
+msgid "Booking Calendar"
+msgstr "הזמנת לוח שנה"
+
+#: admin/getting-started/getting-started.php:351
+msgid "Install Booking Calendar"
+msgid_plural "Begin updating plugins"
+msgstr[0] "להתקין ההזמנות לוח שנה"
+msgstr[1] "מתחילים עדכון תוספים"
+
+#: admin/getting-started/getting-started.php:357
+msgid ""
+"This plugin will enable online booking services, however you're free to use "
+"whatever booking plugin you'd like as long as it supports shortcodes."
+msgstr ""
+"תוסף זה יאפשר באינטרנט שירותי הזמנה, עם זאת אתה מחדש \"חופשי להשתמש בכל "
+"ההזמנות תוסף אתה'ד כמו כל עוד הוא תומך shortcodes."
+
+#: admin/getting-started/getting-started.php:361 admin/plugins/register.php:98
+msgid "Co-Authors Plus"
+msgid_plural "Begin activating plugins"
+msgstr[0] "המחברים פלוס"
+msgstr[1] "להתחיל הפעלת תוספים"
+
+#: admin/getting-started/getting-started.php:363
+msgid "Install Co-Authors Plus"
+msgstr "להתקין המחברים פלוס"
+
+#: admin/getting-started/getting-started.php:369
+msgid ""
+"This plugin allows you to assign multiple users or agents to listings, "
+"perfect for co-listings."
+msgstr ""
+"תוסף זה מאפשר לך להקצות משתמשים מרובים או סוכנים רישומים, מושלם עבור שיתוף "
+"רישומים."
+
+#: admin/getting-started/getting-started.php:373 admin/plugins/register.php:104
+msgid "Comments Ratings"
+msgstr "הערות דירוגים"
+
+#: admin/getting-started/getting-started.php:375
+msgid "Install Comments Ratings"
+msgstr "להתקין הערות דירוגים"
+
+#: admin/getting-started/getting-started.php:381
+msgid "This plugin allows you to enable ratings for your listings."
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "תוסף זה מאפשר לך להפעיל דירוגים עבור רישומים שלך."
+msgstr[1] "את התוספים הבאים הופעלו בהצלחה:"
+
+#: admin/getting-started/getting-started.php:385 admin/plugins/register.php:220
+msgid "Envato Market"
+msgstr "Envato שוק"
+
+#: admin/getting-started/getting-started.php:387
+msgid "Install Envato Market"
+msgstr "להתקין Envato שוק"
+
+#: admin/getting-started/getting-started.php:393
+msgid ""
+"This plugin allows you to easily get theme updates through your WordPress "
+"admin."
+msgstr "תוסף זה מאפשר לך לקבל בקלות נושא עדכונים דרך admin וורדפרס."
+
+#: admin/getting-started/getting-started.php:402
+#, php-format
+msgid "Support for %s?"
+msgstr "תמיכה עבור %s?"
+
+#: admin/getting-started/getting-started.php:408
+#, php-format
+msgid ""
+"If you've read through the <a href=\"%1$s\" target=\"_blank\">"
+"documentation</a> and still have questions or are experiencing issues, I'm "
+"happy to help! Simply <a href=\"%2$s\"  target=\"_blank\" title=\"Open a "
+"live chat\">open a live chat</a> or <a href=\"%3$s\" target=\"_blank\">leave "
+"a comment</a> on the item page and I'll personally get back to you, thanks "
+"in advance for your patience."
+msgstr ""
+
+#: admin/getting-started/getting-started.php:411
+#, php-format
+msgid "FAQ for %s?"
+msgstr "שאלות נפוצות עבור %s?"
+
+#: admin/getting-started/getting-started.php:414
+msgid ""
+"The following articles below cover many frequently asked questions that you "
+"may have."
+msgstr "במאמרים הבאים בהמשך הרבה שאלות נפוצות שאתה עשוי לקבל."
+
+#: admin/getting-started/getting-started.php:460
+msgid "Need Modifications or Customizations?"
+msgstr "צריך שינויים או התאמות?"
+
+#: admin/getting-started/getting-started.php:465
+#, php-format
+msgid ""
+"Send me an email <a href=\"mailto:%s\">chris@contempothemes.com</a>, with a "
+"detailed outline of what you’d like to accomplish and I’ll get you a quote "
+"and turnaround time."
+msgstr ""
+
+#: admin/getting-started/getting-started.php:474
+#, php-format
+msgid ""
+"Please note that support requests will not be answered via email, only "
+"through my <a href=\"%1$s\" target=\"_blank\">live chat</a> or within the <a "
+"href=\"%2$s\" target=\"_blank\">item comments</a>."
+msgstr ""
+
+#: admin/getting-started/getting-started.php:484
+msgid "Hosting Recommendations"
+msgstr "אירוח המלצות"
+
+#: admin/getting-started/getting-started.php:498
+#: admin/getting-started/getting-started.php:501
+msgid "Visit the Knowledge Base"
+msgstr "לבקר את בסיס הידע"
+
+#: admin/getting-started/getting-started.php:499
+msgid ""
+"New to the WordPress world? The Knowledge Base has a boat load of articles "
+"to help you with any issues that might arise."
+msgstr ""
+"חדש וורדפרס העולם? מאגר הידע יש סירה עומס של מאמרים כדי לעזור לך עם כל בעיות "
+"שעלולות להתעורר."
+
+#: admin/getting-started/getting-started.php:501
+msgid "Visit the knowledge base"
+msgstr "לבקר את בסיס הידע"
+
+#: admin/google-places/GooglePlaces.php:149
+#: admin/google-places/GooglePlaces.php:165
+#: admin/google-places/GooglePlaces.php:182
+msgid "Google Places API is currently unavailable."
+msgstr "מקומות Google API אינו זמין כעת."
+
+#: admin/google-places/GooglePlaces.php:151
+msgid ""
+"You must specify a valid listing location, use street address in the listing "
+"title along with city, state & zip/postcode — if not use the optional "
+"latitude & longitude field."
+msgstr ""
+"עליך לציין בתוקף פרטי מיקום, השתמש כתובת רחוב ברישום כותרת יחד עם עיר, מדינה "
+
+#: admin/google-places/GooglePlaces.php:167
+#: admin/google-places/GooglePlaces.php:207
+msgid ""
+"You much specify at least one of the following: \"keyword\", \"name\", "
+"\"types\"."
+msgstr ""
+"אתה הרבה לציין לפחות אחת מהפעולות הבאות: \"מילת המפתח\", \"שם\", \"סוגים\"."
+
+#: admin/google-places/GooglePlaces.php:184
+#: admin/google-places/GooglePlaces.php:201
+msgid "You must specify a radius."
+msgstr "אתה חייב לציין את רדיוס."
+
+#: admin/google-places/GooglePlaces.php:197
+msgid "You must specify a location before calling radarsearch()."
+msgstr "עליך לציין את המיקום לפני שאתה קורא radarsearch()."
+
+#: admin/google-places/GooglePlaces.php:221
+msgid ""
+"You must specify either a \"placeid\" or a \"reference\" (but not both) "
+"before calling details()."
+msgstr ""
+"אתה חייב לציין גם את \"placeid\" או \"הפניה\" (אבל לא שניהם) לפני מתקשר "
+"פרטי()."
+
+#: admin/plugins/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr "התקן הנדרש תוספים"
+
+#: admin/plugins/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr "להתקין תוספים"
+
+#. %s: plugin name.
+#: admin/plugins/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "התקנת התוסף: %s"
+
+#. %s: plugin name.
+#: admin/plugins/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "עדכון תוסף: %s"
+msgstr[1] ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr "משהו השתבש עם API התוסף."
+
+#: admin/plugins/class-tgm-plugin-activation.php:341
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "נושא זה דורש הבאים תוסף: %1$s."
+msgstr[1] ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:347
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "נושא זה ממליצה הבאים תוסף: %1$s."
+msgstr[1] ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:353
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+"להלן תוסף צריך לעדכן את הגירסה העדכנית ביותר כדי להבטיח תאימות מקסימלית עם "
+"נושא זה: %1$s."
+msgstr[1] ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:359
+#, php-format
+msgid "There is an update available for: %1$s."
+msgstr "קיים עדכון זמין עבור: %1$s."
+
+#: admin/plugins/class-tgm-plugin-activation.php:365
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgstr "להלן נדרש תוסף כרגע לא פעיל: %1$s."
+
+#: admin/plugins/class-tgm-plugin-activation.php:371
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgstr "הבא מומלץ תוסף כרגע לא פעיל: %1$s."
+
+#: admin/plugins/class-tgm-plugin-activation.php:377
+msgid "Begin installing plugin"
+msgstr "להתחיל בהתקנת התוסף"
+
+#: admin/plugins/class-tgm-plugin-activation.php:382
+msgid "Begin updating plugin"
+msgstr "מתחילים לעדכן את התוסף"
+
+#: admin/plugins/class-tgm-plugin-activation.php:387
+msgid "Begin activating plugin"
+msgstr "להתחיל הפעלת התוסף"
+
+#: admin/plugins/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr "לחזור נדרש Plugins Installer"
+
+#: admin/plugins/class-tgm-plugin-activation.php:393
+#: admin/plugins/class-tgm-plugin-activation.php:912
+#: admin/plugins/class-tgm-plugin-activation.php:2618
+#: admin/plugins/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr "להחזיר את השליטה"
+
+#: admin/plugins/class-tgm-plugin-activation.php:394
+#: admin/plugins/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr "התוסף הופעל בהצלחה."
+
+#: admin/plugins/class-tgm-plugin-activation.php:395
+#: admin/plugins/class-tgm-plugin-activation.php:3037
+msgid "The following plugin was activated successfully:"
+msgstr "להלן התוסף הופעל בהצלחה:"
+
+#. 1: plugin name.
+#: admin/plugins/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "לא ננקטו. תוסף %1$s כבר היה פעיל."
+
+#. 1: plugin name.
+#: admin/plugins/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+"התוסף לא הופעל. לגרסה גבוהה יותר של %s היא שצריך בשביל הנושא הזה. בבקשה "
+"לעדכן את התוסף."
+
+#. 1: dashboard link.
+#: admin/plugins/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "כל התוספים מותקן ומופעל בהצלחה. %1$s"
+
+#: admin/plugins/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr "ישנם אחד או יותר נדרש או מומלץ תוספים להתקין, לעדכן או להפעיל."
+
+#: admin/plugins/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr "אנא צור קשר עם מנהל המערכת של האתר הזה בשביל לעזור."
+
+#: admin/plugins/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "תוסף זה צריך להיות מעודכן כדי להיות תואם עם הנושא שלך."
+
+#: admin/plugins/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr "עדכון חובה"
+
+#: admin/plugins/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr "השלט תוסף החבילה אינה כוללת את התיקייה הרצויה שבלול ושינוי שם לא עובד."
+
+#: admin/plugins/class-tgm-plugin-activation.php:1019
+#: admin/plugins/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+"אנא צור קשר עם התוסף ספק ולשאול אותם החבילה שלהם תוסף על פי וורדפרס הנחיות."
+
+#: admin/plugins/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr "השלט תוסף החבילה כוללת יותר מקובץ אחד, אבל הקבצים לא ארוז בתוך תיקייה."
+
+#: admin/plugins/class-tgm-plugin-activation.php:1206
+#: admin/plugins/class-tgm-plugin-activation.php:3033
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "ו"
+
+#. %s: version number
+#: admin/plugins/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr "וורדפרס"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr "מקור חיצוני"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr "ארוזים מראש"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr "לא מותקן"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr "מותקן אבל לא הופעלו."
+
+#: admin/plugins/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr "פעיל"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr "נדרש עדכון אינו זמין"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr "דורש עדכון"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr "עדכון מומלץ"
+
+#. 1: install status, 2: update status
+#: admin/plugins/class-tgm-plugin-activation.php:2427
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#. 1: number of plugins.
+#: admin/plugins/class-tgm-plugin-activation.php:2473
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#. 1: number of plugins.
+#: admin/plugins/class-tgm-plugin-activation.php:2477
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#. 1: number of plugins.
+#: admin/plugins/class-tgm-plugin-activation.php:2481
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#. 1: number of plugins.
+#: admin/plugins/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2567
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "לא ידוע"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr "הגרסה המותקנת:"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr "הגירסה המינימלית הדרושה:"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr "גרסה זמינה:"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr "לא תוספים להתקין, לעדכן או להפעיל."
+
+#: admin/plugins/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr "תוסף"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr "מקור"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr "גרסה"
+
+#. %2$s: plugin name in screen reader markup
+#: admin/plugins/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr "להתקין %2$s"
+
+#. %2$s: plugin name in screen reader markup
+#: admin/plugins/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr "עדכון %2$s"
+
+#. %2$s: plugin name in screen reader markup
+#: admin/plugins/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr "הפעל %2$s"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr "שדרוג הודעה תוסף המחבר:"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr "להתקין"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr "הפעל"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "לא plugins נבחרו כדי להיות מותקן. לא ננקטו."
+
+#: admin/plugins/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "לא plugins נבחרו כדי להיות מעודכן. לא ננקטו."
+
+#: admin/plugins/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr "לא תוספים זמינים כדי להיות מותקנים בשלב זה."
+
+#: admin/plugins/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr "לא תוספים זמינים כדי להיות מעודכן בזמן הזה."
+
+#: admin/plugins/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "לא plugins נבחרו כדי להיות מופעל. לא ננקטו."
+
+#: admin/plugins/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr "לא תוספים זמינים כדי להיות מופעל בשלב זה."
+
+#: admin/plugins/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr "תוסף ההפעלה נכשלה."
+
+#. 1: plugin name, 2: action number 3: total number of actions.
+#: admin/plugins/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "עדכון תוסף %1$s (%2$d/%3$d)"
+
+#. 1: plugin name, 2: error message.
+#: admin/plugins/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. 1: plugin name.
+#: admin/plugins/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "ההתקנה של %1$s נכשלה."
+
+#: admin/plugins/class-tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"תהליך ההתקנה והפעלה מתחיל. תהליך זה עשוי לקחת זמן מה על כמה צבאות, אז אנא "
+"היה סבלני."
+
+#. 1: plugin name.
+#: admin/plugins/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s מותקן ומופעל בהצלחה."
+
+#: admin/plugins/class-tgm-plugin-activation.php:3594
+#: admin/plugins/class-tgm-plugin-activation.php:3602
+msgid "Show Details"
+msgstr "הצג פרטים"
+
+#: admin/plugins/class-tgm-plugin-activation.php:3594
+#: admin/plugins/class-tgm-plugin-activation.php:3602
+msgid "Hide Details"
+msgstr "הסתר פרטים"
+
+#: admin/plugins/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr "כל התקנות והפעלות הושלמו."
+
+#. 1: plugin name, 2: action number 3: total number of actions.
+#: admin/plugins/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "התקנת והפעלת התוסף %1$s (%2$d/%3$d)"
+
+#: admin/plugins/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"תהליך ההתקנה מתחיל. תהליך זה עשוי לקחת זמן מה על כמה צבאות, אז אנא היה סבלני."
+
+#. 1: plugin name.
+#: admin/plugins/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s מותקן בהצלחה."
+
+#: admin/plugins/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr "כל ההתקנות הושלמו."
+
+#. 1: plugin name, 2: action number 3: total number of actions.
+#: admin/plugins/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "התקנת תוסף %1$s (%2$d/%3$d)"
+
+#: admin/plugins/register.php:80
+msgid "Elementor Page Builder"
+msgstr "Elementor בונה דף"
+
+#: admin/plugins/register.php:110
+msgid "Contempo Listing Analytics"
+msgstr "Contempo רישום Analytics"
+
+#: admin/plugins/register.php:143
+msgid "Contempo Real Estate 7 Payment Gateways"
+msgstr "Contempo נדל \" ן 7 שערים תשלום"
+
+#: admin/plugins/register.php:209
+msgid "WPBakery Page Builder"
+msgstr "WPBakery בונה דף"
+
+#: includes/widgets/ct-widget-adspace.php:13
+msgid "CT Adspace Widget"
+msgstr "CT Adspace יישומון"
+
+#: includes/widgets/ct-widget-adspace.php:61
+#: includes/widgets/ct-widget-listingscrolltocontact.php:62
+#: includes/widgets/ct-widget-listingssocial.php:48
+msgid "Title (optional):"
+msgstr "כותרת (לא חובה):"
+
+#: includes/widgets/ct-widget-adspace.php:65
+msgid "Ad Code:"
+msgstr "קוד מודעה:"
+
+#: includes/widgets/ct-widget-adspace.php:70
+msgid "Image Url:"
+msgstr "כתובת התמונה:"
+
+#: includes/widgets/ct-widget-adspace.php:74
+msgid "Link URL:"
+msgstr "כתובת הקישור:"
+
+#: includes/widgets/ct-widget-adspace.php:78
+msgid "Alt text:"
+msgstr "טקסט Alt:"
+
+#: includes/widgets/ct-widget-agentinfo.php:13
+msgid "CT Agent Info"
+msgstr "CT הסוכן פרטי"
+
+#: includes/widgets/ct-widget-agentinfo.php:69
+msgid "Mobile"
+msgstr "נייד"
+
+#: includes/widgets/ct-widget-agentinfo.php:72
+msgid "Office"
+msgstr "המשרד"
+
+#: includes/widgets/ct-widget-agentinfo.php:75
+msgid "Fax"
+msgstr "פקס"
+
+#: includes/widgets/ct-widget-agentsotherlistings.php:13
+msgid "CT Agents Other Listings"
+msgstr "CT סוכנים רישומים אחרים"
+
+#: includes/widgets/ct-widget-agentsotherlistings.php:291
+#: includes/widgets/ct-widget-flickr.php:55
+#: includes/widgets/ct-widget-latestposts.php:74
+#: includes/widgets/ct-widget-listings.php:134
+#: includes/widgets/ct-widget-testimonials.php:66
+msgid "Number:"
+msgstr "מספר:"
+
+#: includes/widgets/ct-widget-agentsotherlistings.php:299
+#: includes/widgets/ct-widget-listings.php:142
+msgid "Taxonomy:"
+msgstr "טקסונומיה:"
+
+#: includes/widgets/ct-widget-agentsotherlistings.php:308
+#: includes/widgets/ct-widget-listings.php:151
+msgid "Tag:"
+msgstr "תגית:"
+
+#: includes/widgets/ct-widget-blogauthor.php:13
+msgid "CT Blog Author Info"
+msgstr "CT בלוג פרטי המחבר"
+
+#: includes/widgets/ct-widget-blogauthor.php:64
+msgid "Bio:"
+msgstr "ביו:"
+
+#: includes/widgets/ct-widget-blogauthor.php:68
+msgid "<a href=\"http://www.gravatar.com/\">Gravatar</a> E-mail:"
+msgstr ""
+
+#: includes/widgets/ct-widget-blogauthor.php:72
+msgid "Gravatar Size:"
+msgstr "Gravatar גודל:"
+
+#: includes/widgets/ct-widget-blogauthor.php:76
+msgid "Gravatar Alignment:"
+msgstr "Gravatar יישור:"
+
+#: includes/widgets/ct-widget-blogauthor.php:78
+msgid "Left"
+msgstr "שמאל"
+
+#: includes/widgets/ct-widget-blogauthor.php:79
+msgid "Right"
+msgstr "נכון"
+
+#: includes/widgets/ct-widget-blogauthor.php:83
+msgid "Read More Text (optional):"
+msgstr "קרא עוד טקסט (אופציונלי):"
+
+#: includes/widgets/ct-widget-blogauthor.php:87
+msgid "Read More URL (optional):"
+msgstr "קרא עוד כתובת (לא חובה):"
+
+#: includes/widgets/ct-widget-blogauthor.php:91
+msgid "Visible Pages:"
+msgstr "גלוי עמודים:"
+
+#: includes/widgets/ct-widget-blogauthor.php:93
+msgid "All"
+msgstr "כל"
+
+#: includes/widgets/ct-widget-blogauthor.php:94
+msgid "Home only"
+msgstr "הביתה רק"
+
+#: includes/widgets/ct-widget-blogauthor.php:95
+msgid "Single only"
+msgstr "אחת בלבד"
+
+#: includes/widgets/ct-widget-brokerinfo.php:13
+msgid "CT Brokers Info"
+msgstr "CT ברוקרים מידע"
+
+#: includes/widgets/ct-widget-brokerinfo.php:54
+msgid "Email Office"
+msgstr "דוא \" ל המשרד."
+
+#: includes/widgets/ct-widget-brokerinfo.php:55
+msgid "Visit Brokers Website"
+msgstr "ביקור ברוקרים באתר"
+
+#: includes/widgets/ct-widget-brokerinfo.php:82
+msgid "Logo URL:"
+msgstr "לוגו כתובת האתר:"
+
+#: includes/widgets/ct-widget-brokerinfo.php:86
+msgid "Company:"
+msgstr "החברה:"
+
+#: includes/widgets/ct-widget-brokerinfo.php:90
+msgid "Office Phone:"
+msgstr "טלפון במשרד:"
+
+#: includes/widgets/ct-widget-brokerinfo.php:94
+msgid "Office Email:"
+msgstr "למשרד דוא \" ל:"
+
+#: includes/widgets/ct-widget-brokerinfo.php:98
+msgid "Website:"
+msgstr "אתר:"
+
+#: includes/widgets/ct-widget-contactinfo.php:13
+msgid "CT Contact Info"
+msgstr "CT ליצירת קשר."
+
+#: includes/widgets/ct-widget-contactinfo.php:133
+msgid "Show Logo:"
+msgstr "הצג סמל:"
+
+#: includes/widgets/ct-widget-contactinfo.php:144
+msgid "Blurb:"
+msgstr "תקציר:"
+
+#: includes/widgets/ct-widget-contactinfo.php:148
+msgid "Company Name:"
+msgstr "שם החברה:"
+
+#: includes/widgets/ct-widget-contactinfo.php:152
+msgid "Street Address:"
+msgstr "כתובת רחוב:"
+
+#: includes/widgets/ct-widget-contactinfo.php:156
+msgid "City:"
+msgstr "עיר:"
+
+#: includes/widgets/ct-widget-contactinfo.php:160
+msgid "State:"
+msgstr "המדינה:"
+
+#: includes/widgets/ct-widget-contactinfo.php:164
+msgid "Postal:"
+msgstr "דואר:"
+
+#: includes/widgets/ct-widget-contactinfo.php:168
+msgid "Country:"
+msgstr "מדינה:"
+
+#: includes/widgets/ct-widget-contactinfo.php:172
+msgid "Phone:"
+msgstr "טלפון:"
+
+#: includes/widgets/ct-widget-flickr.php:13
+msgid "CT Flickr"
+msgstr "CT Flickr"
+
+#: includes/widgets/ct-widget-flickr.php:26
+msgid "Photos on flickr"
+msgstr "תמונות בפליקר"
+
+#: includes/widgets/ct-widget-flickr.php:51
+msgid "Flickr ID (<a href=\"http://www.idgettr.com\">idGettr</a>):"
+msgstr ""
+
+#: includes/widgets/ct-widget-flickr.php:65
+msgid "User"
+msgstr "המשתמש"
+
+#: includes/widgets/ct-widget-flickr.php:66
+msgid "Group"
+msgstr "הקבוצה"
+
+#: includes/widgets/ct-widget-flickr.php:70
+msgid "Sorting:"
+msgstr "מיון:"
+
+#: includes/widgets/ct-widget-flickr.php:72
+#: includes/widgets/ct-widget-tabs.php:110
+#: includes/widgets/ct-widget-tabs.php:117
+msgid "Latest"
+msgstr "האחרון"
+
+#: includes/widgets/ct-widget-flickr.php:73
+msgid "Random"
+msgstr "אקראי"
+
+#: includes/widgets/ct-widget-flickr.php:77
+msgid "Size:"
+msgstr "גודל:"
+
+#: includes/widgets/ct-widget-flickr.php:79
+msgid "Square"
+msgstr "כיכר"
+
+#: includes/widgets/ct-widget-flickr.php:80
+msgid "Medium"
+msgstr "בינוני"
+
+#: includes/widgets/ct-widget-flickr.php:81
+msgid "Thumbnail"
+msgstr "ממוזערת"
+
+#: includes/widgets/ct-widget-latestposts.php:13
+msgid "CT Latest Posts"
+msgstr "CT ההודעות האחרונות"
+
+#: includes/widgets/ct-widget-listingbooktour.php:13
+msgid "CT Listing Book Showing"
+msgstr "CT רישום בספר מראה"
+
+#: includes/widgets/ct-widget-listingbooktour.php:154
+msgid ""
+"Thanks for booking a showing, we'll get back to confirm with you shortly."
+msgstr "תודה על ההזמנות מראה, אנחנו'll לקבל בחזרה כדי לאשר אותך תוך זמן קצר."
+
+#: includes/widgets/ct-widget-listingbooktour.php:161
+msgid "Request a Showing"
+msgstr "בקשת מראה"
+
+#: includes/widgets/ct-widget-listingbooktour.php:171
+msgid "Select Your Time and Day"
+msgstr "בחר את הזמן שלך היום"
+
+#: includes/widgets/ct-widget-listingbooktour.php:234
+msgid "Showing Request for "
+msgstr "מראה בקשה "
+
+#: includes/widgets/ct-widget-listingbooktour.php:240
+#: includes/widgets/ct-widget-listingbooktour.php:242
+msgid "Schedule Tour"
+msgstr "לוח הזמנים של הסיור"
+
+#: includes/widgets/ct-widget-listingbooktour.php:259
+msgid "No options required for this widget."
+msgstr "אין אפשרויות הנדרש עבור יישומון זה."
+
+#: includes/widgets/ct-widget-listings.php:13
+msgid "CT Listings"
+msgstr "CT רישומים"
+
+#: includes/widgets/ct-widget-listings.php:155
+msgid "View All Link Text"
+msgstr "הצג את כל קישור טקסט"
+
+#: includes/widgets/ct-widget-listings.php:159
+msgid "View All Link URL"
+msgstr "הצג את כל קישור URL"
+
+#: includes/widgets/ct-widget-listingscontact.php:13
+msgid "CT Listing Agent Contact"
+msgstr "CT סוכן רישום קשר"
+
+#: includes/widgets/ct-widget-listingscontact.php:72
+msgid "Subject:"
+msgstr "נושא:"
+
+#: includes/widgets/ct-widget-listingscrolltocontact.php:13
+msgid "CT Listing Contact ScrollTo"
+msgstr "CT פרטי קשר ScrollTo"
+
+#: includes/widgets/ct-widget-listingscrolltocontact.php:66
+msgid "Button One Text:"
+msgstr "כפתור טקסט אחד:"
+
+#: includes/widgets/ct-widget-listingscrolltocontact.php:70
+msgid "Button Two Text:"
+msgstr "כפתור טקסט שני:"
+
+#: includes/widgets/ct-widget-listingssearch.php:13
+msgid "CT Listings Search"
+msgstr "CT רישומים חיפוש"
+
+#: includes/widgets/ct-widget-listingssocial.php:13
+msgid "CT Listings Social"
+msgstr "CT רישומים חברתית"
+
+#: includes/widgets/ct-widget-search.php:13
+msgid "CT Search"
+msgstr "CT חיפוש"
+
+#: includes/widgets/ct-widget-tabs.php:13
+msgid "CT Tabs"
+msgstr "CT כרטיסיות"
+
+#: includes/widgets/ct-widget-tabs.php:103
+msgid "Number of posts:"
+msgstr "מספר הודעות:"
+
+#: includes/widgets/ct-widget-tabs.php:108
+msgid "First Visible Tab:"
+msgstr "הראשונה גלוי הכרטיסייה:"
+
+#: includes/widgets/ct-widget-tabs.php:111
+#: includes/widgets/ct-widget-tabs.php:120
+msgid "Comments"
+msgstr "תגובות"
+
+#: includes/widgets/ct-widget-tabs.php:112
+#: includes/widgets/ct-widget-tabs.php:123
+msgid "Tags"
+msgstr "קטגוריה"
+
+#: includes/widgets/ct-widget-testimonials.php:13
+msgid "CT Testimonials"
+msgstr "CT המלצות"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:245
+#: admin/ReduxFramework/theme-options/re7-config.php:246
+msgid "Real Estate 7 Options"
+msgstr "נדל \" ן 7 אפשרויות"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:923
+msgid "Theme Information 1"
+msgstr "נושא מידע 1"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:924
+#: admin/ReduxFramework/theme-options/re7-config.php:929
+msgid "<p>This is the tab content, HTML is allowed.</p>"
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:928
+msgid "Theme Information 2"
+msgstr "נושא מידע 2"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:935
+msgid "<p>This is the sidebar content, HTML is allowed.</p>"
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:941
+msgid "General Settings"
+msgstr "הגדרות כלליות"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1010
+#: admin/ReduxFramework/theme-options/re7-config.php:2168
+msgid "Header"
+msgstr "כותרת"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1078
+msgid "Custom Logo"
+msgstr "סמל מותאם אישית"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1129
+msgid "Top Bar"
+msgstr "סרגל עליון"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1150
+msgid "Contact Phone"
+msgstr "טלפון ליצירת קשר"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1170
+#: admin/ReduxFramework/theme-options/re7-config.php:1318
+#: admin/ReduxFramework/theme-options/re7-config.php:1349
+#: admin/ReduxFramework/theme-options/re7-config.php:1380
+msgid "Icon"
+msgstr "סמל"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1171
+#: admin/ReduxFramework/theme-options/re7-config.php:1319
+#: admin/ReduxFramework/theme-options/re7-config.php:1350
+#: admin/ReduxFramework/theme-options/re7-config.php:1381
+msgid "Select an icon."
+msgstr "בחר סמל."
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1188
+msgid "Currency Switcher"
+msgstr "מטבע Switcher"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1196
+msgid "Social Links"
+msgstr "קישורים חברתיים"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1287
+msgid "Header Info Columns"
+msgstr "כותרת מידע עמודות"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1295
+msgid "Column One"
+msgstr "טור אחד"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1326
+msgid "Column Two"
+msgstr "טור שני"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1357
+msgid "Column Three"
+msgstr "טור שלוש"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1389
+msgid "Homepage"
+msgstr "דף הבית"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1399
+msgid "Layout Manager"
+msgstr "פריסת מנהל"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1440
+msgid "Revolution Slider"
+msgstr "המהפכה Slider"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1457
+#: admin/ReduxFramework/theme-options/re7-config.php:1864
+msgid "FlexSlider"
+msgstr "FlexSlider"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1483
+msgid "Listing Carousel"
+msgstr "רישום קרוסלה"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1522
+msgid "Hero w/Search"
+msgstr "גיבור w/חיפוש"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1569
+msgid "Top Padding"
+msgstr "העליון ריפוד"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1570
+msgid "Set the top padding in percentage."
+msgstr "להגדיר את העליון ריפוד באחוזים."
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1580
+msgid "Bottom Padding"
+msgstr "התחתון ריפוד"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1581
+msgid "Set the bottom padding in percentage."
+msgstr "להגדיר את התחתון ריפוד באחוזים."
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1592
+msgid "Call To Action"
+msgstr "קריאה לפעולה"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1623
+msgid "Listings Count"
+msgstr "רישומים לספור"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1727
+msgid "Add/Edit Testimonials"
+msgstr "הוספה/עריכה של המלצות"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1728
+msgid "Add your testimonials to be displayed on the homepage."
+msgstr "להוסיף את המלצות יוצגו בדף הבית."
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1730
+msgid "Company or Person"
+msgstr "חברה או אדם"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1731
+msgid "Testimonial Here"
+msgstr "המלצה כאן"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1732
+#: admin/ReduxFramework/theme-options/re7-config.php:1762
+msgid "Link"
+msgstr "קישור"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1740
+msgid "Partners"
+msgstr "שותפים"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1757
+msgid "Add/Edit Partner Logos"
+msgstr "הוספה/עריכה של השותף לוגו"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1758
+msgid "Add your partner logos to be displayed on the homepage."
+msgstr "הוסף את השותף שלך סמלים יוצגו בדף הבית."
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1760
+msgid "Partner Title"
+msgstr "השותף כותרת"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1761
+msgid "Description Here (not used)"
+msgstr "תיאור כאן (לא בשימוש)"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1783
+msgid "Elementor"
+msgstr "Elementor"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1804
+msgid "Page Builder"
+msgstr "בונה דף"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1848
+msgid "Four Column Widget Area"
+msgstr "ארבע טור יישומון באזור"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1942
+msgid "Create a Skin"
+msgstr "יוצר עור"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1965
+#: admin/ReduxFramework/theme-options/re7-config.php:2179
+#: admin/ReduxFramework/theme-options/re7-config.php:2272
+#: admin/ReduxFramework/theme-options/re7-config.php:2355
+#: admin/ReduxFramework/theme-options/re7-config.php:2444
+#: admin/ReduxFramework/theme-options/re7-config.php:2484
+msgid "NOTE!"
+msgstr "שים לב!"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1966
+msgid "If this isn't set to Yes NONE of the Styles will be Applied."
+msgstr "אם זה isn לא מוגדר ל כן אף סגנונות ייושם."
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1973
+msgid "Typography"
+msgstr "טיפוגרפיה"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1993
+msgid "Body"
+msgstr "הגוף"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:3681
+msgid ""
+"Walk Score is the only international measure of walkability and the leading "
+"provider of neighborhood maps to the real estate industry. More than 30,000 "
+"websites use the Walk Score Neighborhood Map and we serve over 20 million "
+"scores each day. <a href=\"https://www.walkscore.com/professional/api-sign-"
+"up.php\" target=\"_blank\">Get your API Key</a>!."
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:5394
+msgid ""
+"<p class=\"description\">This is a section created by adding a filter to the "
+"sections array. Can be used by child themes to add/remove sections from the "
+"options.</p>"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"A responsive real estate theme, designed by <a href=\"http://www."
+"contempographicdesign.com\">Contempo</a>."
+msgstr ""

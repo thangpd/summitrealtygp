@@ -1,0 +1,237 @@
+0000.000 (0) Opened log file at time: Tue, 27 Oct 2020 07:00:04 +0000 on http://localhost/summitrealtygp
+0000.003 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 2.14.8.24 WP: 5.5.1 PHP: 7.3.19-1~deb10u1 (apache2handler, Linux debian 4.19.0-10-amd64 #1 SMP Debian 4.19.132-1 (2020-07-24) x86_64) MySQL: 8.0.21 WPLANG: en_US Server: Apache/2.4.38 (Debian) safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 10.3M | 2M) multisite: N openssl: OpenSSL 1.1.1d  10 Sep 2019 mcrypt: N LANG: C ZipArchive::addFile: Y
+0000.005 (0) Free space on disk containing Updraft's temporary directory: 5126.8 MB
+0000.008 (0) Deleting old temporary file: log.fa7483599e5b-browser.txt
+0000.011 (0) Tasks: Backup files: 1 (schedule: daily) Backup DB:  (schedule: daily)
+0000.013 (0) Processed schedules. Combining jobs from identical schedules. Tasks now: Backup files: 1 Backup DB: 1
+0000.019 (0) Requesting semaphore lock (fd) (apparently via scheduler: last_scheduled_action_called_at=1603721819, seconds_ago=60185)
+0000.022 (0) Semaphore (fd, wp_options) was stuck, set lock time to 2020-10-27 07:00:04
+0000.025 (0) Semaphore (fd, wp_options) reset to 1
+0000.027 (0) Set semaphore last lock (fd) time to 2020-10-27 07:00:04
+0000.030 (0) Semaphore lock (fd) complete
+0000.036 (0) Backup run: resumption=0, nonce=b3d68de78a10, begun at=1603782004 (0s ago), job type=backup
+0000.041 (0) Scheduling a resumption (1) after 300 seconds (1603782304) in case this run gets aborted
+0000.050 (0) Checking if we have a zip executable available
+0000.053 (0) Testing: /usr/bin/zip
+0000.060 (0) Output: zip warning: binziptest/test.zip not found or empty
+0000.063 (0) Output: adding: binziptest/subdir1/	(in=0) (out=0) (stored 0%)
+0000.065 (0) Output: adding: binziptest/subdir1/subdir2/	(in=0) (out=0) (stored 0%)
+0000.067 (0) Output: adding: binziptest/subdir1/subdir2/test.html	(in=131) (out=107) (deflated 18%)
+0000.070 (0) Output: total bytes=131, compressed=107 -> 18% savings
+0000.075 (0) Output: adding: binziptest/subdir1/subdir2/test2.html	(in=138) (out=113) (deflated 18%)
+0000.078 (0) Output: total bytes=269, compressed=220 -> 18% savings
+0000.084 (0) Working binary zip found: /usr/bin/zip
+0000.089 (0) Zip engine: found/will use a binary zip: /usr/bin/zip
+0000.092 (0) Creation of backups of directories: beginning
+0000.097 (0) No backup of plugins: excluded by user's options
+0000.100 (0) No backup of themes: excluded by user's options
+0000.102 (0) No backup of uploads: excluded by user's options
+0000.105 (0) No backup of wpcore: excluded by user's options
+0000.107 (0) No backup of others: excluded by user's options
+0000.109 (0) No backup of more: excluded by user's options
+0000.117 (0) Saving backup status to database (elements: 0)
+0000.123 (0) Beginning creation of database dump (WordPress DB)
+0000.127 (0) Testing: /usr/bin/mysqldump
+0000.173 (0) Output: /*!40103 SET @OLD_TIME_ZONE=@@TIME_ZONE */;\n/*!40103 SET TIME_ZONE='+00:00' */;\n/*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */;\n/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;\n/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;\n/*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;\nDROP TABLE IF EXISTS `wp_options`;\n/*!40101 SET @saved_cs_client     = @@character_set_client */;\n/*!50503 SET character_set_client = utf8mb4 */;\n (truncated - 1144 bytes total)
+0000.179 (0) Testing: /bin/mysqldump
+0000.210 (0) Output: /*!40103 SET @OLD_TIME_ZONE=@@TIME_ZONE */;\n/*!40103 SET TIME_ZONE='+00:00' */;\n/*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */;\n/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;\n/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;\n/*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;\nDROP TABLE IF EXISTS `wp_options`;\n/*!40101 SET @saved_cs_client     = @@character_set_client */;\n/*!50503 SET character_set_client = utf8mb4 */;\n (truncated - 1144 bytes total)
+0000.221 (0) Table wp_options: Total expected rows (approximate): 9809
+0000.461 (0) Table wp_options: Total rows added: 8729 in 0.24 seconds
+0000.464 (0) Table wp_options: finishing file (backup_2020-10-27-0000_Summit_Realty_Group_Inc_b3d68de78a10-db-table-wp_options.table.gz - 554.6 KB)
+0000.473 (0) Table wp_users: Total expected rows (approximate): 12
+0000.478 (0) Table wp_users: Total rows added: 12 in 0.00 seconds
+0000.480 (0) Table wp_users: finishing file (backup_2020-10-27-0000_Summit_Realty_Group_Inc_b3d68de78a10-db-table-wp_users.table.gz - 1.4 KB)
+0000.487 (0) Table wp_usermeta: Total expected rows (approximate): 561
+0000.504 (0) Table wp_usermeta: Total rows added: 562 in 0.01 seconds
+0000.538 (0) Table wp_usermeta: finishing file (backup_2020-10-27-0000_Summit_Realty_Group_Inc_b3d68de78a10-db-table-wp_usermeta.table.gz - 13.5 KB)
+0000.547 (0) Table wp_actionscheduler_actions: Total expected rows (approximate): 74
+0000.553 (0) Table wp_actionscheduler_actions: Total rows added: 79 in 0.00 seconds
+0000.556 (0) Table wp_actionscheduler_actions: finishing file (backup_2020-10-27-0000_Summit_Realty_Group_Inc_b3d68de78a10-db-table-wp_actionscheduler_actions.table.gz - 2.9 KB)
+0000.563 (0) Table wp_actionscheduler_claims: Total expected rows (approximate): 0
+0000.566 (0) Table wp_actionscheduler_claims: Total rows added: 0 in 0.00 seconds
+0000.568 (0) Table wp_actionscheduler_claims: finishing file (backup_2020-10-27-0000_Summit_Realty_Group_Inc_b3d68de78a10-db-table-wp_actionscheduler_claims.table.gz - 0.4 KB)
+0000.575 (0) Table wp_actionscheduler_groups: Total expected rows (approximate): 2
+0000.579 (0) Table wp_actionscheduler_groups: Total rows added: 2 in 0.00 seconds
+0000.582 (0) Table wp_actionscheduler_groups: finishing file (backup_2020-10-27-0000_Summit_Realty_Group_Inc_b3d68de78a10-db-table-wp_actionscheduler_groups.table.gz - 0.4 KB)
+0000.588 (0) Table wp_actionscheduler_logs: Total expected rows (approximate): 220
+0000.597 (0) Table wp_actionscheduler_logs: Total rows added: 235 in 0.01 seconds
+0000.599 (0) Table wp_actionscheduler_logs: finishing file (backup_2020-10-27-0000_Summit_Realty_Group_Inc_b3d68de78a10-db-table-wp_actionscheduler_logs.table.gz - 2.9 KB)
+0000.605 (0) Table wp_commentmeta: Total expected rows (approximate): 0
+0000.610 (0) Table wp_commentmeta: Total rows added: 0 in 0.00 seconds
+0000.612 (0) Table wp_commentmeta: finishing file (backup_2020-10-27-0000_Summit_Realty_Group_Inc_b3d68de78a10-db-table-wp_commentmeta.table.gz - 0.4 KB)
+0000.619 (0) Table wp_comments: Total expected rows (approximate): 0
+0000.622 (0) Table wp_comments: Total rows added: 0 in 0.00 seconds
+0000.624 (0) Table wp_comments: finishing file (backup_2020-10-27-0000_Summit_Realty_Group_Inc_b3d68de78a10-db-table-wp_comments.table.gz - 0.5 KB)
+0000.632 (0) Table wp_links: Total expected rows (approximate): 0
+0000.637 (0) Table wp_links: Total rows added: 0 in 0.00 seconds
+0000.640 (0) Table wp_links: finishing file (backup_2020-10-27-0000_Summit_Realty_Group_Inc_b3d68de78a10-db-table-wp_links.table.gz - 0.4 KB)
+0000.647 (0) Table wp_postmeta: Total expected rows (approximate): 389960
+0000.651 (0) [Warning] Table wp_postmeta has very many rows (389960) - we hope your web hosting company gives you enough resources to dump out that table in the backup If not, you will need to either remove data from this table, or contact your hosting company to request more resources.
+0124.265 (0) Table wp_postmeta: Total rows added: 389957 in 123.61 seconds
+0124.270 (0) Table wp_postmeta: finishing file (backup_2020-10-27-0000_Summit_Realty_Group_Inc_b3d68de78a10-db-table-wp_postmeta.table.gz - 11588.7 KB)
+0124.277 (0) Table wp_posts: Total expected rows (approximate): 141250
+0146.487 (0) Table wp_posts: Total rows added: 141253 in 22.21 seconds
+0146.490 (0) Table wp_posts: finishing file (backup_2020-10-27-0000_Summit_Realty_Group_Inc_b3d68de78a10-db-table-wp_posts.table.gz - 7092.2 KB)
+0146.498 (0) Table wp_term_relationships: Total expected rows (approximate): 13499
+0146.622 (0) Table wp_term_relationships: Total rows added: 13499 in 0.12 seconds
+0146.624 (0) Table wp_term_relationships: finishing file (backup_2020-10-27-0000_Summit_Realty_Group_Inc_b3d68de78a10-db-table-wp_term_relationships.table.gz - 42.7 KB)
+0146.631 (0) Table wp_term_taxonomy: Total expected rows (approximate): 522
+0146.640 (0) Table wp_term_taxonomy: Total rows added: 522 in 0.01 seconds
+0146.643 (0) Table wp_term_taxonomy: finishing file (backup_2020-10-27-0000_Summit_Realty_Group_Inc_b3d68de78a10-db-table-wp_term_taxonomy.table.gz - 4 KB)
+0146.651 (0) Table wp_termmeta: Total expected rows (approximate): 0
+0146.660 (0) Table wp_termmeta: Total rows added: 0 in 0.00 seconds
+0146.668 (0) Table wp_termmeta: finishing file (backup_2020-10-27-0000_Summit_Realty_Group_Inc_b3d68de78a10-db-table-wp_termmeta.table.gz - 0.4 KB)
+0146.684 (0) Table wp_terms: Total expected rows (approximate): 522
+0146.693 (0) Table wp_terms: Total rows added: 522 in 0.01 seconds
+0146.696 (0) Table wp_terms: finishing file (backup_2020-10-27-0000_Summit_Realty_Group_Inc_b3d68de78a10-db-table-wp_terms.table.gz - 6.5 KB)
+0146.703 (0) Table wp_booking: Total expected rows (approximate): 1
+0146.708 (0) Table wp_booking: Total rows added: 1 in 0.00 seconds
+0146.710 (0) Table wp_booking: finishing file (backup_2020-10-27-0000_Summit_Realty_Group_Inc_b3d68de78a10-db-table-wp_booking.table.gz - 0.6 KB)
+0146.718 (0) Table wp_bookingdates: Total expected rows (approximate): 3
+0146.723 (0) Table wp_bookingdates: Total rows added: 3 in 0.00 seconds
+0146.725 (0) Table wp_bookingdates: finishing file (backup_2020-10-27-0000_Summit_Realty_Group_Inc_b3d68de78a10-db-table-wp_bookingdates.table.gz - 0.4 KB)
+0146.732 (0) Table wp_ct_listing_analytics_bot_user_agents: Total expected rows (approximate): 0
+0146.737 (0) Table wp_ct_listing_analytics_bot_user_agents: Total rows added: 0 in 0.00 seconds
+0146.740 (0) Table wp_ct_listing_analytics_bot_user_agents: finishing file (backup_2020-10-27-0000_Summit_Realty_Group_Inc_b3d68de78a10-db-table-wp_ct_listing_analytics_bot_user_agents.table.gz - 0.4 KB)
+0146.747 (0) Table wp_ct_listing_analytics_downloads: Total expected rows (approximate): 0
+0146.751 (0) Table wp_ct_listing_analytics_downloads: Total rows added: 0 in 0.00 seconds
+0146.754 (0) Table wp_ct_listing_analytics_downloads: finishing file (backup_2020-10-27-0000_Summit_Realty_Group_Inc_b3d68de78a10-db-table-wp_ct_listing_analytics_downloads.table.gz - 0.5 KB)
+0146.761 (0) Table wp_ct_listing_analytics_views: Total expected rows (approximate): 1000
+0146.951 (0) Table wp_ct_listing_analytics_views: Total rows added: 5159 in 0.19 seconds
+0146.954 (0) Table wp_ct_listing_analytics_views: finishing file (backup_2020-10-27-0000_Summit_Realty_Group_Inc_b3d68de78a10-db-table-wp_ct_listing_analytics_views.table.gz - 157.9 KB)
+0146.964 (0) Table wp_ct_search: Total expected rows (approximate): 1
+0146.968 (0) Table wp_ct_search: Total rows added: 1 in 0.00 seconds
+0146.971 (0) Table wp_ct_search: finishing file (backup_2020-10-27-0000_Summit_Realty_Group_Inc_b3d68de78a10-db-table-wp_ct_search.table.gz - 0.8 KB)
+0146.979 (0) Table wp_elfsight_whatsapp_chat_widgets: Total expected rows (approximate): 0
+0146.983 (0) Table wp_elfsight_whatsapp_chat_widgets: Total rows added: 0 in 0.00 seconds
+0146.985 (0) Table wp_elfsight_whatsapp_chat_widgets: finishing file (backup_2020-10-27-0000_Summit_Realty_Group_Inc_b3d68de78a10-db-table-wp_elfsight_whatsapp_chat_widgets.table.gz - 0.4 KB)
+0146.994 (0) Table wp_imagify_files: Total expected rows (approximate): 0
+0146.998 (0) Table wp_imagify_files: Total rows added: 0 in 0.00 seconds
+0147.001 (0) Table wp_imagify_files: finishing file (backup_2020-10-27-0000_Summit_Realty_Group_Inc_b3d68de78a10-db-table-wp_imagify_files.table.gz - 0.5 KB)
+0147.010 (0) Table wp_imagify_folders: Total expected rows (approximate): 0
+0147.013 (0) Table wp_imagify_folders: Total rows added: 0 in 0.00 seconds
+0147.016 (0) Table wp_imagify_folders: finishing file (backup_2020-10-27-0000_Summit_Realty_Group_Inc_b3d68de78a10-db-table-wp_imagify_folders.table.gz - 0.4 KB)
+0147.037 (0) Table wp_pprh_table: Total expected rows (approximate): 5
+0147.050 (0) Table wp_pprh_table: Total rows added: 5 in 0.01 seconds
+0147.058 (0) Table wp_pprh_table: finishing file (backup_2020-10-27-0000_Summit_Realty_Group_Inc_b3d68de78a10-db-table-wp_pprh_table.table.gz - 0.5 KB)
+0147.082 (0) Table wp_pum_subscribers: Total expected rows (approximate): 0
+0147.095 (0) Table wp_pum_subscribers: Total rows added: 0 in 0.00 seconds
+0147.103 (0) Table wp_pum_subscribers: finishing file (backup_2020-10-27-0000_Summit_Realty_Group_Inc_b3d68de78a10-db-table-wp_pum_subscribers.table.gz - 0.4 KB)
+0147.129 (0) Table wp_revslider_css: Total expected rows (approximate): 118
+0147.153 (0) Table wp_revslider_css: Total rows added: 118 in 0.02 seconds
+0147.161 (0) Table wp_revslider_css: finishing file (backup_2020-10-27-0000_Summit_Realty_Group_Inc_b3d68de78a10-db-table-wp_revslider_css.table.gz - 5.2 KB)
+0147.177 (0) Table wp_revslider_css_bkp: Total expected rows (approximate): 47
+0147.184 (0) Table wp_revslider_css_bkp: Total rows added: 47 in 0.00 seconds
+0147.188 (0) Table wp_revslider_css_bkp: finishing file (backup_2020-10-27-0000_Summit_Realty_Group_Inc_b3d68de78a10-db-table-wp_revslider_css_bkp.table.gz - 1.8 KB)
+0147.200 (0) Table wp_revslider_layer_animations: Total expected rows (approximate): 3
+0147.207 (0) Table wp_revslider_layer_animations: Total rows added: 3 in 0.00 seconds
+0147.211 (0) Table wp_revslider_layer_animations: finishing file (backup_2020-10-27-0000_Summit_Realty_Group_Inc_b3d68de78a10-db-table-wp_revslider_layer_animations.table.gz - 0.6 KB)
+0147.225 (0) Table wp_revslider_layer_animations_bkp: Total expected rows (approximate): 0
+0147.230 (0) Table wp_revslider_layer_animations_bkp: Total rows added: 0 in 0.00 seconds
+0147.234 (0) Table wp_revslider_layer_animations_bkp: finishing file (backup_2020-10-27-0000_Summit_Realty_Group_Inc_b3d68de78a10-db-table-wp_revslider_layer_animations_bkp.table.gz - 0.3 KB)
+0147.248 (0) Table wp_revslider_navigations: Total expected rows (approximate): 2
+0147.256 (0) Table wp_revslider_navigations: Total rows added: 2 in 0.00 seconds
+0147.260 (0) Table wp_revslider_navigations: finishing file (backup_2020-10-27-0000_Summit_Realty_Group_Inc_b3d68de78a10-db-table-wp_revslider_navigations.table.gz - 1 KB)
+0147.275 (0) Table wp_revslider_navigations_bkp: Total expected rows (approximate): 0
+0147.282 (0) Table wp_revslider_navigations_bkp: Total rows added: 0 in 0.00 seconds
+0147.288 (0) Table wp_revslider_navigations_bkp: finishing file (backup_2020-10-27-0000_Summit_Realty_Group_Inc_b3d68de78a10-db-table-wp_revslider_navigations_bkp.table.gz - 0.3 KB)
+0147.306 (0) Table wp_revslider_sliders: Total expected rows (approximate): 17
+0147.321 (0) Table wp_revslider_sliders: Total rows added: 17 in 0.01 seconds
+0147.326 (0) Table wp_revslider_sliders: finishing file (backup_2020-10-27-0000_Summit_Realty_Group_Inc_b3d68de78a10-db-table-wp_revslider_sliders.table.gz - 12.9 KB)
+0147.343 (0) Table wp_revslider_sliders_bkp: Total expected rows (approximate): 1
+0147.356 (0) Table wp_revslider_sliders_bkp: Total rows added: 1 in 0.01 seconds
+0147.364 (0) Table wp_revslider_sliders_bkp: finishing file (backup_2020-10-27-0000_Summit_Realty_Group_Inc_b3d68de78a10-db-table-wp_revslider_sliders_bkp.table.gz - 0.4 KB)
+0147.389 (0) Table wp_revslider_slides: Total expected rows (approximate): 39
+0147.467 (0) Table wp_revslider_slides: Total rows added: 39 in 0.07 seconds
+0147.470 (0) Table wp_revslider_slides: finishing file (backup_2020-10-27-0000_Summit_Realty_Group_Inc_b3d68de78a10-db-table-wp_revslider_slides.table.gz - 122.7 KB)
+0147.480 (0) Table wp_revslider_slides_bkp: Total expected rows (approximate): 1
+0147.484 (0) Table wp_revslider_slides_bkp: Total rows added: 1 in 0.00 seconds
+0147.486 (0) Table wp_revslider_slides_bkp: finishing file (backup_2020-10-27-0000_Summit_Realty_Group_Inc_b3d68de78a10-db-table-wp_revslider_slides_bkp.table.gz - 0.4 KB)
+0147.496 (0) Table wp_revslider_static_slides: Total expected rows (approximate): 10
+0147.501 (0) Table wp_revslider_static_slides: Total rows added: 10 in 0.00 seconds
+0147.503 (0) Table wp_revslider_static_slides: finishing file (backup_2020-10-27-0000_Summit_Realty_Group_Inc_b3d68de78a10-db-table-wp_revslider_static_slides.table.gz - 3.9 KB)
+0147.511 (0) Table wp_revslider_static_slides_bkp: Total expected rows (approximate): 1
+0147.515 (0) Table wp_revslider_static_slides_bkp: Total rows added: 1 in 0.00 seconds
+0147.517 (0) Table wp_revslider_static_slides_bkp: finishing file (backup_2020-10-27-0000_Summit_Realty_Group_Inc_b3d68de78a10-db-table-wp_revslider_static_slides_bkp.table.gz - 0.4 KB)
+0147.527 (0) Table wp_smush_dir_images: Total expected rows (approximate): 0
+0147.530 (0) Table wp_smush_dir_images: Total rows added: 0 in 0.00 seconds
+0147.533 (0) Table wp_smush_dir_images: finishing file (backup_2020-10-27-0000_Summit_Realty_Group_Inc_b3d68de78a10-db-table-wp_smush_dir_images.table.gz - 0.4 KB)
+0147.542 (0) Table wp_um_metadata: Total expected rows (approximate): 0
+0147.545 (0) Table wp_um_metadata: Total rows added: 0 in 0.00 seconds
+0147.548 (0) Table wp_um_metadata: finishing file (backup_2020-10-27-0000_Summit_Realty_Group_Inc_b3d68de78a10-db-table-wp_um_metadata.table.gz - 0.4 KB)
+0147.557 (0) Table wp_wpmailsmtp_tasks_meta: Total expected rows (approximate): 14
+0147.561 (0) Table wp_wpmailsmtp_tasks_meta: Total rows added: 14 in 0.00 seconds
+0147.563 (0) Table wp_wpmailsmtp_tasks_meta: finishing file (backup_2020-10-27-0000_Summit_Realty_Group_Inc_b3d68de78a10-db-table-wp_wpmailsmtp_tasks_meta.table.gz - 0.6 KB)
+0147.573 (0) Table wp_wpns_backup_report: Total expected rows (approximate): 0
+0147.577 (0) Table wp_wpns_backup_report: Total rows added: 0 in 0.00 seconds
+0147.580 (0) Table wp_wpns_backup_report: finishing file (backup_2020-10-27-0000_Summit_Realty_Group_Inc_b3d68de78a10-db-table-wp_wpns_backup_report.table.gz - 0.3 KB)
+0147.588 (0) Table wp_wpns_files_scan: Total expected rows (approximate): 0
+0147.592 (0) Table wp_wpns_files_scan: Total rows added: 0 in 0.00 seconds
+0147.594 (0) Table wp_wpns_files_scan: finishing file (backup_2020-10-27-0000_Summit_Realty_Group_Inc_b3d68de78a10-db-table-wp_wpns_files_scan.table.gz - 0.4 KB)
+0147.603 (0) Table wp_wsluserscontacts: Total expected rows (approximate): 0
+0147.606 (0) Table wp_wsluserscontacts: Total rows added: 0 in 0.00 seconds
+0147.608 (0) Table wp_wsluserscontacts: finishing file (backup_2020-10-27-0000_Summit_Realty_Group_Inc_b3d68de78a10-db-table-wp_wsluserscontacts.table.gz - 0.4 KB)
+0147.630 (0) Table wp_wslusersprofiles: Total expected rows (approximate): 0
+0147.643 (0) Table wp_wslusersprofiles: Total rows added: 0 in 0.01 seconds
+0147.651 (0) Table wp_wslusersprofiles: finishing file (backup_2020-10-27-0000_Summit_Realty_Group_Inc_b3d68de78a10-db-table-wp_wslusersprofiles.table.gz - 0.5 KB)
+0147.666 (0) backup_2020-10-27-0000_Summit_Realty_Group_Inc_b3d68de78a10-db-table-wp_options.table.gz (1/46): adding to final database dump
+0147.775 (0) backup_2020-10-27-0000_Summit_Realty_Group_Inc_b3d68de78a10-db-table-wp_users.table.gz (2/46): adding to final database dump
+0147.777 (0) backup_2020-10-27-0000_Summit_Realty_Group_Inc_b3d68de78a10-db-table-wp_usermeta.table.gz (3/46): adding to final database dump
+0147.782 (0) backup_2020-10-27-0000_Summit_Realty_Group_Inc_b3d68de78a10-db-table-wp_actionscheduler_actions.table.gz (4/46): adding to final database dump
+0147.785 (0) backup_2020-10-27-0000_Summit_Realty_Group_Inc_b3d68de78a10-db-table-wp_actionscheduler_claims.table.gz (5/46): adding to final database dump
+0147.787 (0) backup_2020-10-27-0000_Summit_Realty_Group_Inc_b3d68de78a10-db-table-wp_actionscheduler_groups.table.gz (6/46): adding to final database dump
+0147.789 (0) backup_2020-10-27-0000_Summit_Realty_Group_Inc_b3d68de78a10-db-table-wp_actionscheduler_logs.table.gz (7/46): adding to final database dump
+0147.792 (0) backup_2020-10-27-0000_Summit_Realty_Group_Inc_b3d68de78a10-db-table-wp_commentmeta.table.gz (8/46): adding to final database dump
+0147.795 (0) backup_2020-10-27-0000_Summit_Realty_Group_Inc_b3d68de78a10-db-table-wp_comments.table.gz (9/46): adding to final database dump
+0147.797 (0) backup_2020-10-27-0000_Summit_Realty_Group_Inc_b3d68de78a10-db-table-wp_links.table.gz (10/46): adding to final database dump
+0147.800 (0) backup_2020-10-27-0000_Summit_Realty_Group_Inc_b3d68de78a10-db-table-wp_postmeta.table.gz (11/46): adding to final database dump
+0150.266 (0) backup_2020-10-27-0000_Summit_Realty_Group_Inc_b3d68de78a10-db-table-wp_posts.table.gz (12/46): adding to final database dump
+0151.393 (0) backup_2020-10-27-0000_Summit_Realty_Group_Inc_b3d68de78a10-db-table-wp_term_relationships.table.gz (13/46): adding to final database dump
+0151.419 (0) backup_2020-10-27-0000_Summit_Realty_Group_Inc_b3d68de78a10-db-table-wp_term_taxonomy.table.gz (14/46): adding to final database dump
+0151.424 (0) backup_2020-10-27-0000_Summit_Realty_Group_Inc_b3d68de78a10-db-table-wp_termmeta.table.gz (15/46): adding to final database dump
+0151.426 (0) backup_2020-10-27-0000_Summit_Realty_Group_Inc_b3d68de78a10-db-table-wp_terms.table.gz (16/46): adding to final database dump
+0151.431 (0) backup_2020-10-27-0000_Summit_Realty_Group_Inc_b3d68de78a10-db-table-wp_booking.table.gz (17/46): adding to final database dump
+0151.433 (0) backup_2020-10-27-0000_Summit_Realty_Group_Inc_b3d68de78a10-db-table-wp_bookingdates.table.gz (18/46): adding to final database dump
+0151.435 (0) backup_2020-10-27-0000_Summit_Realty_Group_Inc_b3d68de78a10-db-table-wp_ct_listing_analytics_bot_user_agents.table.gz (19/46): adding to final database dump
+0151.438 (0) backup_2020-10-27-0000_Summit_Realty_Group_Inc_b3d68de78a10-db-table-wp_ct_listing_analytics_downloads.table.gz (20/46): adding to final database dump
+0151.440 (0) backup_2020-10-27-0000_Summit_Realty_Group_Inc_b3d68de78a10-db-table-wp_ct_listing_analytics_views.table.gz (21/46): adding to final database dump
+0151.471 (0) backup_2020-10-27-0000_Summit_Realty_Group_Inc_b3d68de78a10-db-table-wp_ct_search.table.gz (22/46): adding to final database dump
+0151.474 (0) backup_2020-10-27-0000_Summit_Realty_Group_Inc_b3d68de78a10-db-table-wp_elfsight_whatsapp_chat_widgets.table.gz (23/46): adding to final database dump
+0151.476 (0) backup_2020-10-27-0000_Summit_Realty_Group_Inc_b3d68de78a10-db-table-wp_imagify_files.table.gz (24/46): adding to final database dump
+0151.479 (0) backup_2020-10-27-0000_Summit_Realty_Group_Inc_b3d68de78a10-db-table-wp_imagify_folders.table.gz (25/46): adding to final database dump
+0151.510 (0) backup_2020-10-27-0000_Summit_Realty_Group_Inc_b3d68de78a10-db-table-wp_pprh_table.table.gz (26/46): adding to final database dump
+0151.523 (0) backup_2020-10-27-0000_Summit_Realty_Group_Inc_b3d68de78a10-db-table-wp_pum_subscribers.table.gz (27/46): adding to final database dump
+0151.531 (0) backup_2020-10-27-0000_Summit_Realty_Group_Inc_b3d68de78a10-db-table-wp_revslider_css.table.gz (28/46): adding to final database dump
+0151.545 (0) backup_2020-10-27-0000_Summit_Realty_Group_Inc_b3d68de78a10-db-table-wp_revslider_css_bkp.table.gz (29/46): adding to final database dump
+0151.552 (0) backup_2020-10-27-0000_Summit_Realty_Group_Inc_b3d68de78a10-db-table-wp_revslider_layer_animations.table.gz (30/46): adding to final database dump
+0151.558 (0) backup_2020-10-27-0000_Summit_Realty_Group_Inc_b3d68de78a10-db-table-wp_revslider_layer_animations_bkp.table.gz (31/46): adding to final database dump
+0151.564 (0) backup_2020-10-27-0000_Summit_Realty_Group_Inc_b3d68de78a10-db-table-wp_revslider_navigations.table.gz (32/46): adding to final database dump
+0151.569 (0) backup_2020-10-27-0000_Summit_Realty_Group_Inc_b3d68de78a10-db-table-wp_revslider_navigations_bkp.table.gz (33/46): adding to final database dump
+0151.576 (0) backup_2020-10-27-0000_Summit_Realty_Group_Inc_b3d68de78a10-db-table-wp_revslider_sliders.table.gz (34/46): adding to final database dump
+0151.589 (0) backup_2020-10-27-0000_Summit_Realty_Group_Inc_b3d68de78a10-db-table-wp_revslider_sliders_bkp.table.gz (35/46): adding to final database dump
+0151.594 (0) backup_2020-10-27-0000_Summit_Realty_Group_Inc_b3d68de78a10-db-table-wp_revslider_slides.table.gz (36/46): adding to final database dump
+0151.643 (0) backup_2020-10-27-0000_Summit_Realty_Group_Inc_b3d68de78a10-db-table-wp_revslider_slides_bkp.table.gz (37/46): adding to final database dump
+0151.646 (0) backup_2020-10-27-0000_Summit_Realty_Group_Inc_b3d68de78a10-db-table-wp_revslider_static_slides.table.gz (38/46): adding to final database dump
+0151.652 (0) backup_2020-10-27-0000_Summit_Realty_Group_Inc_b3d68de78a10-db-table-wp_revslider_static_slides_bkp.table.gz (39/46): adding to final database dump
+0151.657 (0) backup_2020-10-27-0000_Summit_Realty_Group_Inc_b3d68de78a10-db-table-wp_smush_dir_images.table.gz (40/46): adding to final database dump
+0151.661 (0) backup_2020-10-27-0000_Summit_Realty_Group_Inc_b3d68de78a10-db-table-wp_um_metadata.table.gz (41/46): adding to final database dump
+0151.666 (0) backup_2020-10-27-0000_Summit_Realty_Group_Inc_b3d68de78a10-db-table-wp_wpmailsmtp_tasks_meta.table.gz (42/46): adding to final database dump
+0151.670 (0) backup_2020-10-27-0000_Summit_Realty_Group_Inc_b3d68de78a10-db-table-wp_wpns_backup_report.table.gz (43/46): adding to final database dump
+0151.676 (0) backup_2020-10-27-0000_Summit_Realty_Group_Inc_b3d68de78a10-db-table-wp_wpns_files_scan.table.gz (44/46): adding to final database dump
+0151.684 (0) backup_2020-10-27-0000_Summit_Realty_Group_Inc_b3d68de78a10-db-table-wp_wsluserscontacts.table.gz (45/46): adding to final database dump
+0151.692 (0) backup_2020-10-27-0000_Summit_Realty_Group_Inc_b3d68de78a10-db-table-wp_wslusersprofiles.table.gz (46/46): adding to final database dump
+0151.700 (0) backup_2020-10-27-0000_Summit_Realty_Group_Inc_b3d68de78a10-db.gz: finished writing out complete database file (19592 KB)
+0151.856 (0) Total database tables backed up: 46 (backup_2020-10-27-0000_Summit_Realty_Group_Inc_b3d68de78a10-db.gz, size: 20087792, sha256)
+0151.867 (0) backup_2020-10-27-0000_Summit_Realty_Group_Inc_b3d68de78a10-db.gz: db: This file has not yet been successfully uploaded: will queue
+0151.870 (0) Saving backup history. Total backup size: 19.2 MB
+0151.875 (0) Requesting upload of the files that have not yet been successfully uploaded (1)
+0151.881 (0) Cloud backup selection (1/1):  with instance (1/1) (last)
+0151.883 (0) No remote despatch: user chose no remote backup service
+0151.889 (0) Recording as successfully uploaded: backup_2020-10-27-0000_Summit_Realty_Group_Inc_b3d68de78a10-db.gz (7ddaa2547e4e9bd2d948feef65329aa4)
+0151.905 (0) Prune old backups from local store: nothing to do, since the user disabled local deletion and we are using local backups
+0151.910 (0) Resume backup (b3d68de78a10, 0): finish run
+0151.919 (0) Decremented the semaphore (fd) by 1
+0151.926 (0) Semaphore (fd) unlocked
+0151.930 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0151.942 (0) No email will/can be sent - the user has not configured an email address.
+0151.947 (0) The backup apparently succeeded and is now complete

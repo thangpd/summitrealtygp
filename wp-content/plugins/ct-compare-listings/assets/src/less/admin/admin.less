@@ -1,0 +1,310 @@
+@import "../component/nprogress.less";
+@import "../component/bootstrap-admin.less";
+@import "../component/react-select.less";
+@import "../component/react-toggle.less";
+
+.alike-selector {
+  float: left;
+
+  &.first {
+    width: 40%;
+  }
+  &.second {
+    width: 30%;
+  }
+}
+
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.alike-block-wrapper {
+  border: 1px solid #eeeeee;
+  border-radius: 2px;
+}
+.alike-table > thead > tr > th {
+  border-bottom: 0;
+}
+.alike-block-title {
+  position: relative;
+  padding: 20px 35px;
+  border-bottom: 1px solid #eeeeee;
+  h3 {
+    font-size: 16px;
+    line-height: 22px;
+  }
+
+  span {
+    position: absolute;
+    right: 30px;
+    top: 28px;
+    background: #f9f9f9;
+    padding: 10px;
+    border-radius: 50%;
+  }
+}
+.alike-block-content {
+  padding: 20px 35px;
+
+  label {
+    color: #888888;
+    font-size: 13px;
+    line-height: 22px;
+  }
+}
+
+.alike-selected-list {
+
+  li {
+    border: 1px solid #eeeeee;
+    padding: 14px 21px;
+    .alike-selected-move, .alike-selected-title, .alike-selected-edit {
+      float: left;
+      display: inline;
+    }
+    .alike-selected-move {
+      width: 10%;
+      color: #454545;
+      cursor: move;
+      i {
+        position: relative;
+        top: 10px;
+      }
+    }
+    .alike-selected-title {
+      width: 73%;
+    }
+    .alike-selected-edit {
+      width: 7%;
+      cursor: pointer;
+      background: #f9f9f9;
+      width: 35px;
+      height: 35px;
+      line-height: 35px;
+      border-radius: 50%;
+      position: absolute;
+      text-align: center;
+      right: 22px;
+      -webkit-transition: all .3s ease-in-out;
+      -moz-transition: all .3s ease-in-out;
+      -o-transition: all .3s ease-in-out;
+
+      &:hover {
+        background: #000000;
+        color: #FFFFFF;
+      }
+    }
+  }
+}
+
+// .alike-box {
+//   background: #fff;
+//   width: 90%;
+//   height: auto;
+//   margin: 5px;
+//   padding: 10px;
+// }
+
+.allike-container {
+  padding: 30px;
+  margin-top: 100px;
+}
+
+.alike-select {
+  margin-bottom:50px;
+}
+
+
+.ui-accordion {
+  .ui-accordion-header {
+    margin-bottom: 0;
+  }
+  .ui-accordion-content {
+    padding: 2.2em !important;
+    height: auto !important;
+  }
+}
+.alike-btn-wrap {
+  padding: 4px;
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  position: relative;
+  position: fixed;
+  top: 15%;
+  right: 0px;
+  overflow: visible;
+  width: 48px;
+  border: 1px solid #F1F1F1;
+  background: #F9F9F9;
+  z-index: 9000;
+}
+.alike-btn-item {
+  -webkit-transition: all .15s linear;
+  -moz-transition: all .15s linear;
+  -o-transition: all .15s linear;
+}
+.btn {
+  border-radius: 0;
+  border: 0;
+
+  i {
+    margin-right: 15px;
+  }
+}
+.btn.btn-save {
+  background-color: darken(#21BA45, 5%);
+  color: #FFF;
+  text-transform: uppercase;
+  padding-right: 70px;
+  height: 40px;
+  i {
+    font-weight: bold;
+  }
+
+  &:hover, &.active, .btn:focus, .btn.focus {
+    background-color: darken(#21BA45, 5%);
+    color: #FFF;
+  }
+}
+.btn.btn-update {
+  background-color: #E74C3C;
+  color: #FFF;
+  text-transform: uppercase;
+  height: 40px;
+
+  &:hover, &.active, .btn:focus, .btn.focus {
+    background-color: darken(#E74C3C, 5%);
+    color: #FFF;
+  }
+}
+
+.btn.btn-add-post {
+  background-color: #2185d0;
+  color: #FFF;
+  text-transform: uppercase;
+  height: 41px;
+  margin-top: 1px;
+  i {
+    margin-right: 4px;
+    font-weight: bold;
+  }
+  &:hover, &.active, .btn:focus, .btn.focus {
+    color: #FFF;
+  }
+}
+.Select-control {
+  border-radius: 0;
+  border: 1px solid #eeeeee;
+  .Select-item {
+    background: #fff2f1;
+    float: left;
+    margin: 0px 7px 7px 0;
+    color: #e74c3c;
+    padding: 4px 9px;
+    border-radius: 3px;
+    font-family: 'Open Sans', sans-serif;
+  }
+  .Select-item-icon {
+    cursor: pointer;
+    margin-right: 3px;
+  }
+}
+
+
+
+.alike-select {
+  padding-left: 0;
+}
+.col-md-6.pl0 {
+  padding-left: 0;
+
+}
+
+@media screen and (max-width: 991px) {
+  .col-md-6.pl0 {
+    padding-left: 15px;
+  }
+}
+
+.col-md-6.pr0 {
+  padding-right: 0;
+  @media (max-width: 991px){
+    padding-right: 15px;
+  }
+}
+.allike-container {
+  h3 {
+    margin-bottom: 7px;
+    font-size: 16px;
+    font-weight: bold;
+    font-family: 'Open Sans', sans-serif;
+  }
+  h4 {
+    font-size: 14px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: normal;
+    color: #888888;
+    margin-bottom: 0;
+  }
+}
+
+// BS ACCORDION
+
+.panel-body label {
+  color: #888888;
+  font-weight: lighter;
+  font-size: 13px;
+  line-height: 1;
+
+  input[type="checkbox"] {
+    position: relative;
+    margin-right: 5px;
+    top: -2px;
+  }
+}
+
+.alike-toggle {
+  position: relative;
+}
+.alike-toggle-label {
+  position: absolute;
+  top: 5px;
+  margin-left: 6px;
+  line-height: 14px;
+}
+
+.allike-container h4.panel-title {
+  color: #454545;
+  font-weight: bold;
+  font-size: 18px;
+  color: #454545;
+
+  a {
+    display: block;
+    padding: 15px;
+    &:hover {
+      text-decoration: none;
+    }
+  }
+}
+
+
+.panel-title a {
+  box-shadow: none;
+}
+
+@media (max-width: 991px) {
+  #alike-admin .panel.panel-default {
+    margin-top: 20px;
+  }
+}
+
+
+@media(max-width: 767px) {
+  .ReactModal__Content.ReactModal__Content--after-open {
+    width: 90% !important;
+  }
+}

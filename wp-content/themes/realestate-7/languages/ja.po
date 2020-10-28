@@ -1,0 +1,4576 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-01-04 21:37+0000\n"
+"PO-Revision-Date: 2020-01-04 21:37+0000\n"
+"Last-Translator: \n"
+"Language-Team: Japanese\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: comments.php:44
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: includes/featured-listings.php:67 includes/featured-listings.php:76
+#: includes/home-listings-carousel.php:44
+#: includes/home-listings-carousel.php:53 includes/single-listing-home.php:28
+msgid "featured"
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2031
+msgid "H1"
+msgstr "H1"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2051
+msgid "H2"
+msgstr "H2"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2071
+msgid "H3"
+msgstr "H3"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2091
+msgid "H4"
+msgstr "H4"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2111
+msgid "H5"
+msgstr "H5"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2131
+msgid "H6"
+msgstr "H6"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2152
+msgid "Body Background"
+msgstr "本体の背景"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2180
+#: admin/ReduxFramework/theme-options/re7-config.php:2273
+#: admin/ReduxFramework/theme-options/re7-config.php:2356
+#: admin/ReduxFramework/theme-options/re7-config.php:2445
+#: admin/ReduxFramework/theme-options/re7-config.php:2485
+msgid ""
+"You must set Create a Skin > Use Custom Styles > Yes, if this isn't set NONE "
+"of the Styles will be Applied."
+msgstr "して設定しなければなりませんの作成皮膚>利用カスタムスタイル>りこなして設定なしのスタイルが適用されます。"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2261
+msgid "Mobile Navigation"
+msgstr "モバイルナビ"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2344
+msgid "Secondary Colors"
+msgstr "二次色"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2433
+msgid "Links"
+msgstr "リンク"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2473
+#: admin/ReduxFramework/theme-options/re7-config.php:5174
+msgid "Footer"
+msgstr "フッター"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2543
+msgid "User Profile Fields"
+msgstr "ユーザープロファイル分野"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2679
+msgid "Agent Single"
+msgstr "剤シングル"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2742
+msgid "Google Maps"
+msgstr "Googleマップ"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2799
+msgid "Global Options"
+msgstr "グローバルオプション"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2800
+msgid ""
+"These options apply globally to the homepage, expanded area of header search "
+"and search widget."
+msgstr "これらのオプションの適用は世界のホームページの拡充、地域のヘッダを検索し、検索ウィジェット."
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2872
+msgid "Header Search"
+msgstr "ヘッダを検索"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2957
+msgid "Homepage Search"
+msgstr "ホームページを検索"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:3259
+msgid "Listings Search"
+msgstr "物件検索"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:3369
+msgid "Listing Single"
+msgstr "シングル一覧"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:3637
+msgid "Listing Stats"
+msgstr "上場Stats"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:3678
+msgid "Walk Score"
+msgstr "徒歩点"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:3722
+msgid ""
+"Set this up if you'd like to display \"What's Nearby?\" information on your "
+"listings such as restaurants, grocery stores, schools, coffee shops, "
+"etc&hellip;."
+msgstr "この場合、滞りのように表示\"What'sはないのでしょうか？\"などの情報を掲載などのレストラン、食料品店、学校、コーヒーショップなど"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:3829
+msgid "Front End Login & Registration"
+msgstr "フロント終了のログイン "
+
+#: admin/ReduxFramework/theme-options/re7-config.php:3925
+msgid "Front End Submission"
+msgstr "前の投稿"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:4138
+msgid "Submit Listing Form"
+msgstr "提出形式上場"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:4149
+#: admin/ReduxFramework/theme-options/re7-config.php:4238
+#: admin/ReduxFramework/theme-options/re7-config.php:4446
+#: admin/ReduxFramework/theme-options/re7-config.php:4535
+msgid "Select which fields you'd like to be required."
+msgstr "を選択する分野にお'd like toが必要となります。"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:4357
+msgid ""
+"Select which fields you'd like to be required, these are only shown if "
+"enabled via Listings > Listing Single > Enable Vacation Rentals/Booking "
+"Fields."
+msgstr "を選択する分野にお'dのように求められるとするならば、ここに示したもので有効になっている場合を介一覧>一覧>をバケーションレンタル予約。"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:4553
+msgid "PayPal Settings"
+msgstr "PayPalの設定"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:4626
+msgid "Stripe Settings"
+msgstr "ストライプの設定"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:4664
+msgid "Wire Transfer"
+msgstr "振"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:4733
+msgid "Email Content"
+msgstr "メールのコンテンツ"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:4869
+msgid "Blog Archive"
+msgstr "ブログアーカイブ"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:4911
+msgid "Single Post"
+msgstr "シングルポスト"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:5079
+msgid "Map Addresses"
+msgstr "地図アドレス"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:5080
+msgid ""
+"Enter the address of your locations to be used in the Google Map, needs to "
+"be entered in this format for each entry: 849 West Harbor Dr. San Diego, CA "
+"92101"
+msgstr ""
+"アドレスを入力しの場所で使用するGoogleマップ、ニュージにこのフォーマットのための各エントリ:849西港Dr San Diego,CA92101"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:5144
+msgid "Custom CSS"
+msgstr "カスタムCSS"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:5159
+msgid "Custom JS"
+msgstr "カスタムJS"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:5240
+msgid "Import/Export"
+msgstr "輸入/輸出"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:5277
+msgid "Changelog"
+msgstr "Changelog"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:5393
+msgid "Section via hook"
+msgstr "接フック"
+
+#. Name of the theme
+msgid "WP Pro Real Estate 7"
+msgstr "WP Pro不動産7"
+
+#. Author of the theme
+msgid "Chris Robinson"
+msgstr "クリス-ロビンソン"
+
+#: 404.php:15
+msgid "Page Not Found"
+msgstr "ページが見つかりませんで"
+
+#: 404.php:16
+msgid "Woah there! Looks like you've gotten lost."
+msgstr "迫力がありますよ！ うお've頂いております。"
+
+#: 404.php:17
+msgid "Go back to the homepage"
+msgstr "のホームページ"
+
+#: archive-brokerage.php:38
+#: admin/ReduxFramework/theme-options/re7-config.php:2711
+msgid "Brokerages"
+msgstr "オンライン証券"
+
+#: archive-brokerage.php:52 template-brokerages.php:52
+msgid "Type a brokerage name or address here to filter the list."
+msgstr "型証券会社の名称又は住所このフィルターの一覧です。"
+
+#: archive-brokerage.php:108 author.php:71 single-brokerage.php:78
+#: single-brokerage.php:280 template-agents.php:251 template-brokerages.php:122
+#: template-favorite-listings.php:111
+msgid "Tell me more about a property"
+msgstr "について教えてください件"
+
+#: archive-brokerage.php:109 author.php:72 single-brokerage.php:79
+#: single-brokerage.php:281 template-agents.php:252 template-brokerages.php:123
+#: template-favorite-listings.php:112 includes/agent-contact-modal.php:22
+#: includes/single-listing-contact.php:217 includes/single-listing-home.php:270
+#: includes/single-listing-lead-media-with-contact.php:141
+#: includes/widgets/ct-widget-listingscontact.php:31
+msgid "Request a showing"
+msgstr "要求を示す"
+
+#: archive-brokerage.php:110 author.php:73 single-brokerage.php:80
+#: single-brokerage.php:282 template-agents.php:253 template-brokerages.php:124
+#: template-favorite-listings.php:113
+msgid "General Questions"
+msgstr "一般的な質問"
+
+#: archive-brokerage.php:113 author.php:76 single-brokerage.php:83
+#: single-brokerage.php:285 template-agents.php:256 template-brokerages.php:127
+#: template-edit-profile.php:129 template-favorite-listings.php:116
+#: includes/agent-contact-modal.php:25 includes/agent-contact-modal.php:25
+#: includes/agent-contact-modal.php:25 includes/single-listing-contact.php:223
+#: includes/single-listing-home.php:273
+#: includes/single-listing-lead-media-with-contact.php:147
+#: includes/single-listing-multi-floorplan.php:27
+#: includes/widgets/ct-widget-listingscontact.php:34
+#: includes/widgets/ct-widget-listingscontact.php:34
+#: includes/widgets/ct-widget-listingscontact.php:34
+msgid "Name"
+msgstr "名称"
+
+#: archive-brokerage.php:115 archive-brokerage.php:177 author.php:78
+#: author.php:124 author.php:283 single-brokerage.php:85
+#: single-brokerage.php:135 single-brokerage.php:287 single-brokerage.php:350
+#: template-agents.php:258 template-brokerages.php:129
+#: template-brokerages.php:189 template-favorite-listings.php:118
+#: admin/theme-functions.php:3773 includes/agent-contact-modal.php:27
+#: includes/agent-contact-modal.php:27 includes/agent-contact-modal.php:27
+#: includes/single-listing-contact.php:89
+#: includes/single-listing-contact.php:171
+#: includes/single-listing-contact.php:227
+#: includes/single-listing-contact.php:297 includes/single-listing-home.php:253
+#: includes/single-listing-home.php:275 includes/single-listing-home.php:336
+#: includes/single-listing-lead-media-with-contact.php:151
+#: includes/widgets/ct-widget-agentinfo.php:78
+#: includes/widgets/ct-widget-listingscontact.php:36
+#: includes/widgets/ct-widget-listingscontact.php:36
+#: includes/widgets/ct-widget-listingscontact.php:36
+msgid "Email"
+msgstr "メール"
+
+#: archive-brokerage.php:117 author.php:80 single-brokerage.php:87
+#: single-brokerage.php:289 template-agents.php:260 template-brokerages.php:131
+#: template-contact.php:72 template-favorite-listings.php:120
+#: includes/agent-contact-modal.php:29 includes/agent-contact-modal.php:29
+#: includes/agent-contact-modal.php:29 includes/single-listing-contact.php:231
+#: includes/single-listing-home.php:277
+#: includes/single-listing-lead-media-with-contact.php:155
+#: includes/widgets/ct-widget-listingscontact.php:38
+#: includes/widgets/ct-widget-listingscontact.php:38
+#: includes/widgets/ct-widget-listingscontact.php:38
+msgid "Phone"
+msgstr "電話"
+
+#: archive-brokerage.php:125 author.php:88 single-brokerage.php:95
+#: single-brokerage.php:297 template-agents.php:268 template-brokerages.php:137
+#: template-contact.php:83 template-contact.php:83
+#: template-favorite-listings.php:127 template-submit-listing.php:804
+#: includes/agent-contact-modal.php:38 includes/single-listing-contact.php:242
+#: includes/single-listing-home.php:285
+#: includes/widgets/ct-widget-listingscontact.php:47
+msgid "Submit"
+msgstr "提出"
+
+#: archive-brokerage.php:208 template-brokerages.php:220
+#: template-view-listings.php:211 includes/featured-listings.php:118
+#: includes/single-listing-ct-idx-pro-info.php:285
+#: includes/single-listing-multi-floorplan.php:122 layouts/grid.php:76
+msgid "View"
+msgstr "眺望"
+
+#: archive-brokerage.php:218 template-brokerages.php:230
+msgid "No Brokerages Found."
+msgstr "なが可能となる。"
+
+#: archive.php:77
+msgid "No posts were found which match your search criteria"
+msgstr "無していましたが見つかり合わせた検索条件"
+
+#: archive.php:77 layouts/grid.php:26 layouts/list.php:27
+msgid "Try broadening your search to find more results."
+msgstr "い視野を広げを検索する。"
+
+#: author.php:33 admin/profile-fields.php:81 admin/theme-functions.php:1952
+#: admin/theme-functions.php:3799 includes/single-listing-contact.php:52
+#: includes/single-listing-lead-media-with-contact.php:110 layouts/list.php:149
+msgid "Agent"
+msgstr "剤"
+
+#: author.php:145 template-edit-listing.php:826 template-submit-listing.php:710
+#: admin/profile-fields.php:211
+msgid "Address"
+msgstr "住所"
+
+#: author.php:153
+msgid "Social"
+msgstr "社会"
+
+#: author.php:194 author.php:341
+msgid "Type a listing address or keyword to filter the list."
+msgstr "型上場アドレスまたはキーワードのフィルターの一覧です。"
+
+#: comments.php:13
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "この投稿はパスワード保護されている。 パスワードを入力します表示。"
+
+#: comments.php:31
+msgid "No Responses"
+msgstr "無回答"
+
+#: comments.php:31
+msgid "1 Comment"
+msgstr "1コメント"
+
+#: comments.php:31
+msgid "% Comments"
+msgstr "%コメント"
+
+#: comments.php:45
+msgid "Newer Comments &rarr;"
+msgstr "新しいコメント "
+
+#: comments.php:53
+msgid "Comments are closed, but"
+msgstr "コメントが"
+
+#: comments.php:53
+msgid "Trackback URL for this post"
+msgstr "トラックバックURL募"
+
+#: comments.php:53
+msgid "trackbacks"
+msgstr "トラックバック"
+
+#: comments.php:53
+msgid "and pingbacks are open."
+msgstr "およびトラックバック、ピングバックがオープンします。"
+
+#: comments.php:59
+msgid "Reviews are closed."
+msgstr "レビューはご利用いただけません。"
+
+#: comments.php:61
+msgid "Comments are closed."
+msgstr "コメントはご利用いただけません。"
+
+#: footer.php:91
+msgid "All Rights Reserved."
+msgstr "All Rights Reserved."
+
+#: functions.php:55
+msgid "Getting Started"
+msgstr "はじめに"
+
+#: header.php:185 header.php:491
+msgid "Hi, "
+msgstr "こんにちは, "
+
+#: header.php:204 header.php:510 includes/user-sidebar.php:37
+msgid "Dashboard"
+msgstr "ダッシュボード"
+
+#: header.php:208 header.php:514 includes/user-sidebar.php:41
+msgid "Favorite Listings"
+msgstr "お好きな物件"
+
+#: header.php:211 header.php:517
+msgid "Saved Searches"
+msgstr "保存した検索"
+
+#: header.php:216 header.php:522 header.php:552 includes/user-sidebar.php:49
+msgid "Submit Listing"
+msgstr "提出場"
+
+#: header.php:219 header.php:525 template-user-dashboard.php:103
+#: includes/user-sidebar.php:52
+msgid "My Listings"
+msgstr "私の物件"
+
+#. Name of the template
+#: header.php:222 header.php:528 template-user-dashboard.php:83
+#: includes/user-sidebar.php:55
+msgid "Membership"
+msgstr "会員"
+
+#. Name of the template
+#: header.php:225 header.php:531 includes/user-sidebar.php:58
+msgid "Invoices"
+msgstr "請求書"
+
+#. Name of the template
+#: header.php:228 header.php:534 includes/user-sidebar.php:61
+#: admin/ReduxFramework/theme-options/re7-config.php:3659
+msgid "Listing Analytics"
+msgstr "上場分析"
+
+#: header.php:233 header.php:539 includes/user-sidebar.php:65
+msgid "Account Settings"
+msgstr "アカウント設定"
+
+#: header.php:236 header.php:542 includes/user-sidebar.php:68
+msgid "Logout"
+msgstr "アウト"
+
+#: header.php:240 header.php:550
+msgid "Login / Register"
+msgstr "ログイン/登録"
+
+#: header.php:240 header.php:550 admin/theme-functions.php:3698
+msgid "Login"
+msgstr "ログイン"
+
+#: header.php:781
+msgid "Add \"CT Compare\" Widget via Appearance > Widgets > Compare."
+msgstr "追加\"CTの比較\"ウィジェット経由で外観>ウィジェット>を比較できます。"
+
+#: page.php:59 single.php:127 template-dsidxpress.php:41
+#: template-edit-listing.php:935 template-submit-listing.php:815
+msgid "Pages:"
+msgstr "ページ:"
+
+#: search-listings.php:153 search-listings.php:250
+msgid "listings found"
+msgstr "物件を見つ"
+
+#: search-listings.php:153 search-listings.php:250
+msgid "listing found"
+msgstr "一覧を見"
+
+#: search-listings.php:157 search-listings.php:254
+msgid "Find A Home"
+msgstr "見ホーム"
+
+#: search-listings.php:169 search-listings.php:265 search-listings.php:292
+msgid "Searching:"
+msgstr "検索:"
+
+#: search-listings.php:173 search-listings.php:269 search-listings.php:296
+msgid "All listings"
+msgstr "すべての物件"
+
+#: search-listings.php:175 admin/theme-functions.php:1172
+msgid "Open Search"
+msgstr "オープン検索"
+
+#: search-listings.php:272 search-listings.php:298
+#: admin/theme-functions.php:1169
+msgid "Close Map"
+msgstr "近地図"
+
+#: search-listings.php:332 search-listings.php:336
+msgid "Save This Search?"
+msgstr "保存この検索?"
+
+#: search-listings.php:334
+msgid "View Saved"
+msgstr "ビューの保存"
+
+#: single-brokerage.php:39 admin/profile-fields.php:180
+msgid "Brokerage"
+msgstr "仲介"
+
+#: single-brokerage.php:162 single-listings.php:38
+#: admin/ReduxFramework/theme-options/re7-config.php:2988
+msgid "Listings"
+msgstr "物件"
+
+#: single-brokerage.php:163
+#: admin/ReduxFramework/theme-options/re7-config.php:2601
+msgid "Agents"
+msgstr "剤"
+
+#: single-brokerage.php:164
+msgid "Map"
+msgstr "地図"
+
+#: single-brokerage.php:166 includes/single-listing-sub-navigation.php:149
+msgid "Reviews"
+msgstr "レビュー"
+
+#: single-brokerage.php:224
+msgid "Type an agents name or title here to filter the list."
+msgstr "型剤の氏名または名称にこのフィルターの一覧です。"
+
+#: single-brokerage.php:368
+msgid "View Listings"
+msgstr "ビュー一覧"
+
+#: single-brokerage.php:379
+msgid "This brokerage currently has no active agents."
+msgstr "この仲介、現在は活性剤です。"
+
+#: single-brokerage.php:379 layouts/grid.php:22 layouts/grid.php:24
+#: layouts/list.php:23 layouts/list.php:25
+msgid "Check back soon."
+msgstr "を確認します。"
+
+#: single-brokerage.php:401 includes/single-listing-reviews.php:19
+msgid "No Reviews"
+msgstr "なレビュー"
+
+#: single-brokerage.php:401 includes/single-listing-reviews.php:19
+msgid "1 Review"
+msgstr "1見直し"
+
+#: single-brokerage.php:401 includes/single-listing-reviews.php:19
+msgid "% Reviews"
+msgstr "%レビュー"
+
+#: single-listings.php:44 admin/theme-functions.php:6596
+#: admin/theme-functions.php:7601
+msgid "Home"
+msgstr "ホーム"
+
+#: single-listings.php:71 single-listings.php:77 single-listings.php:83
+#: single-listings.php:104 single-listings.php:105 single-listings.php:106
+#: includes/single-listing-home.php:367 includes/single-listing-home.php:368
+#: includes/single-listing-home.php:369
+#: includes/widgets/ct-widget-listingssocial.php:29
+#: includes/widgets/ct-widget-listingssocial.php:30
+#: includes/widgets/ct-widget-listingssocial.php:31
+msgid "Check out this great listing on"
+msgstr "チェックこの上場"
+
+#: single-listings.php:108 admin/theme-functions.php:1173
+#: includes/agent-contact-modal.php:16
+msgid "Close"
+msgstr "近"
+
+#: single-listings.php:212 template-edit-listing.php:394
+#: template-edit-profile.php:57 template-listing-analytics.php:62
+#: template-listing-email-alerts.php:69 template-membership.php:60
+#: template-submit-listing.php:354 template-user-dashboard.php:59
+#: template-view-invoices.php:60 template-view-listings.php:62
+msgid "You must be logged in to view this page."
+msgstr "するにはログインしてくださいこのページです。"
+
+#: single.php:79 includes/post-author-info.php:15 layouts/blog-grid.php:54
+#: layouts/blog-large.php:54
+msgid "By"
+msgstr "による"
+
+#: single.php:79 layouts/blog-grid.php:54 layouts/blog-large.php:54
+msgid "in"
+msgstr "に"
+
+#: single.php:79 layouts/blog-grid.php:54 layouts/blog-large.php:54
+msgid "with"
+msgstr "と"
+
+#. Name of the template
+#: admin/ReduxFramework/theme-options/re7-config.php:2789
+msgid "Advanced Search"
+msgstr "高度な検索"
+
+#: template-advanced-search.php:62 template-edit-listing.php:419
+#: template-submit-listing.php:417 admin/theme-functions.php:4925
+#: includes/advanced-search.php:35 includes/header-advanced-search.php:60
+#: includes/header-advanced-search.php:390
+#: admin/plugins/class-tgm-plugin-activation.php:2634
+#: includes/widgets/ct-widget-listingssearch.php:46
+msgid "Type"
+msgstr "タイプ"
+
+#: template-advanced-search.php:67 admin/profile-fields.php:217
+#: admin/theme-functions.php:5649 includes/advanced-search.php:44
+#: includes/header-advanced-search.php:69
+#: includes/header-advanced-search.php:400
+#: includes/widgets/ct-widget-listingssearch.php:55
+msgid "City"
+msgstr "都市"
+
+#: template-advanced-search.php:77 admin/theme-functions.php:5571
+#: admin/theme-functions.php:5590 admin/theme-functions.php:5672
+#: includes/advanced-search.php:58
+#: includes/widgets/ct-widget-listingssearch.php:69
+msgid "Area"
+msgstr "地"
+
+#: template-advanced-search.php:79 admin/theme-functions.php:5670
+#: admin/theme-functions.php:5710 includes/advanced-search.php:60
+#: includes/widgets/ct-widget-listingssearch.php:71
+msgid "Suburb"
+msgstr "郊外"
+
+#: template-advanced-search.php:81 admin/theme-functions.php:5674
+#: includes/advanced-search.php:62
+#: includes/widgets/ct-widget-listingssearch.php:73
+msgid "State"
+msgstr "状態"
+
+#: template-advanced-search.php:92 admin/theme-functions.php:5691
+#: includes/advanced-search.php:77
+#: includes/widgets/ct-widget-listingssearch.php:88
+msgid "Postcode"
+msgstr "郵便番号"
+
+#: template-advanced-search.php:94 admin/theme-functions.php:5693
+#: includes/advanced-search.php:79
+#: includes/widgets/ct-widget-listingssearch.php:90
+msgid "Zipcode"
+msgstr "Zipcode"
+
+#: template-advanced-search.php:100 template-edit-listing.php:852
+#: template-submit-listing.php:736 includes/advanced-search.php:89
+#: includes/header-advanced-search.php:99
+#: includes/header-advanced-search.php:428
+#: includes/widgets/ct-widget-listingssearch.php:100
+msgid "Country"
+msgstr "国"
+
+#: template-advanced-search.php:105 admin/theme-functions.php:4704
+#: admin/theme-functions.php:5609 admin/theme-functions.php:5921
+#: includes/advanced-search.php:116 includes/header-advanced-search.php:127
+#: includes/header-advanced-search.php:438
+#: includes/single-listing-multi-floorplan.php:33 layouts/list.php:88
+#: includes/widgets/ct-widget-listingssearch.php:127
+msgid "Beds"
+msgstr "ベッド"
+
+#: template-advanced-search.php:110 admin/theme-functions.php:4724
+#: admin/theme-functions.php:5628 admin/theme-functions.php:5927
+#: includes/advanced-search.php:125 includes/header-advanced-search.php:136
+#: includes/header-advanced-search.php:448
+#: includes/single-listing-multi-floorplan.php:36 includes/sub-listings.php:103
+#: layouts/list.php:108 includes/widgets/ct-widget-agentsotherlistings.php:140
+#: includes/widgets/ct-widget-listingssearch.php:136
+msgid "Baths"
+msgstr "大浴場"
+
+#: template-advanced-search.php:115 template-edit-listing.php:434
+#: template-submit-listing.php:422 template-view-invoices.php:95
+#: includes/advanced-search.php:134 includes/header-advanced-search.php:145
+#: includes/header-advanced-search.php:458
+#: includes/single-listing-ct-idx-pro-info.php:66
+#: admin/plugins/class-tgm-plugin-activation.php:2639
+#: includes/widgets/ct-widget-listingssearch.php:145
+msgid "Status"
+msgstr "状況"
+
+#: template-advanced-search.php:125 admin/theme-functions.php:5708
+#: includes/advanced-search.php:157 includes/header-advanced-search.php:159
+#: includes/header-advanced-search.php:482
+#: includes/single-listing-ct-idx-pro-info.php:88
+#: includes/widgets/ct-widget-listingssearch.php:168
+msgid "Neighborhood"
+msgstr "近隣"
+
+#: template-advanced-search.php:127 admin/theme-functions.php:5712
+#: includes/advanced-search.php:159 includes/header-advanced-search.php:161
+#: includes/header-advanced-search.php:484
+#: includes/widgets/ct-widget-listingssearch.php:170
+msgid "District"
+msgstr "地区"
+
+#: template-advanced-search.php:129 admin/theme-functions.php:5722
+#: includes/advanced-search.php:107 includes/advanced-search.php:161
+#: includes/header-advanced-search.php:118
+#: includes/header-advanced-search.php:163
+#: includes/header-advanced-search.php:486
+#: includes/widgets/ct-widget-listingssearch.php:118
+#: includes/widgets/ct-widget-listingssearch.php:172
+msgid "Community"
+msgstr "地域"
+
+#: template-advanced-search.php:135 template-advanced-search.php:136
+#: includes/advanced-search.php:171 includes/advanced-search.php:172
+#: includes/header-advanced-search.php:173
+#: includes/header-advanced-search.php:174
+#: includes/header-advanced-search.php:496
+#: includes/header-advanced-search.php:497
+#: includes/widgets/ct-widget-listingssearch.php:182
+#: includes/widgets/ct-widget-listingssearch.php:183
+msgid "Price From"
+msgstr "価格から"
+
+#: template-advanced-search.php:140 template-advanced-search.php:141
+#: includes/advanced-search.php:180 includes/advanced-search.php:181
+#: includes/header-advanced-search.php:182
+#: includes/header-advanced-search.php:183
+#: includes/header-advanced-search.php:505
+#: includes/header-advanced-search.php:506
+#: includes/widgets/ct-widget-listingssearch.php:191
+#: includes/widgets/ct-widget-listingssearch.php:192
+msgid "Price To"
+msgstr "価格"
+
+#: template-advanced-search.php:145 template-advanced-search.php:146
+#: includes/advanced-search.php:190 includes/header-advanced-search.php:210
+#: includes/header-advanced-search.php:533
+#: includes/widgets/ct-widget-listingssearch.php:201
+msgid "Size From"
+msgstr "サイズから"
+
+#: template-advanced-search.php:150 template-advanced-search.php:151
+#: includes/advanced-search.php:199 includes/header-advanced-search.php:219
+#: includes/header-advanced-search.php:542
+#: includes/widgets/ct-widget-listingssearch.php:210
+msgid "Size To"
+msgstr "サイズ"
+
+#: template-advanced-search.php:155 template-advanced-search.php:156
+#: includes/advanced-search.php:207 includes/advanced-search.php:208
+#: includes/header-advanced-search.php:245
+#: includes/header-advanced-search.php:246
+#: includes/header-advanced-search.php:568
+#: includes/header-advanced-search.php:569
+#: includes/widgets/ct-widget-listingssearch.php:218
+#: includes/widgets/ct-widget-listingssearch.php:219
+msgid "Lot Size From"
+msgstr "ロットサイズから"
+
+#: template-advanced-search.php:160 template-advanced-search.php:161
+#: includes/advanced-search.php:216 includes/advanced-search.php:217
+#: includes/header-advanced-search.php:254
+#: includes/header-advanced-search.php:255
+#: includes/header-advanced-search.php:577
+#: includes/header-advanced-search.php:578
+#: includes/widgets/ct-widget-listingssearch.php:227
+#: includes/widgets/ct-widget-listingssearch.php:228
+msgid "Lot Size To"
+msgstr "多くのサイズ"
+
+#: template-advanced-search.php:165 template-advanced-search.php:166
+#: template-edit-listing.php:708 template-submit-listing.php:591
+#: includes/advanced-search.php:229 includes/advanced-search.php:230
+#: includes/header-advanced-search.php:286
+#: includes/header-advanced-search.php:287
+#: includes/header-advanced-search.php:608
+#: includes/header-advanced-search.php:609
+#: includes/widgets/ct-widget-listingssearch.php:240
+#: includes/widgets/ct-widget-listingssearch.php:241
+msgid "Property ID"
+msgstr "物件ID"
+
+#: template-advanced-search.php:175 template-advanced-search.php:176
+#: includes/advanced-search.php:239 includes/advanced-search.php:240
+#: includes/header-advanced-search.php:296
+#: includes/header-advanced-search.php:297
+#: includes/header-advanced-search.php:618
+#: includes/header-advanced-search.php:619
+#: includes/widgets/ct-widget-listingssearch.php:250
+#: includes/widgets/ct-widget-listingssearch.php:251
+msgid "Number of Guests"
+msgstr "ご利用人数"
+
+#: template-advanced-search.php:181 includes/advanced-search.php:143
+#: includes/widgets/ct-widget-listingssearch.php:154
+msgid "Additional Features"
+msgstr "追加機能"
+
+#: template-advanced-search.php:187 includes/advanced-search.php:262
+#: includes/header-advanced-search.php:334
+#: includes/header-advanced-search.php:368
+#: includes/home-hero-advanced-search.php:38
+#: includes/widgets/ct-widget-listingssearch.php:271
+msgid "Search"
+msgstr "検索"
+
+#: template-agents.php:122 template-agents.php:147
+msgid ""
+"Type an agents name, title, business, phone or lic # here to filter the list."
+msgstr ""
+
+#: template-agents.php:369
+msgid "View Profile"
+msgstr "ビューロ"
+
+#: template-agents.php:403
+msgid "No Agents Found."
+msgstr "いない。"
+
+#. Name of the template
+msgid "Big Map"
+msgstr "大きな地図"
+
+#. Name of the template
+#: admin/theme-functions.php:4479
+msgid "Compare"
+msgstr "の比較"
+
+#. Name of the template
+msgid "Contact No Form"
+msgstr "ご連絡はいかなる形"
+
+#: includes/single-listing-sub-navigation.php:169
+#: admin/ReduxFramework/theme-options/re7-config.php:5019
+msgid "Contact"
+msgstr "連絡先"
+
+#: template-contact.php:64
+msgid "Name*"
+msgstr "名前*"
+
+#: template-contact.php:68
+msgid "Email*"
+msgstr "メール*"
+
+#: template-contact.php:75
+msgid "Subject*"
+msgstr "対象*"
+
+#: template-contact.php:77
+msgid "Message"
+msgstr "メッセージ"
+
+#. Name of the template
+msgid "Demo Home Listings Slider"
+msgstr "デモ住宅情報スライダー"
+
+#. Name of the template
+msgid "Demo Home Map"
+msgstr "デモをホームの地図"
+
+#. Name of the template
+msgid "Demo Home Video"
+msgstr "家庭用ビデオデモ"
+
+#. Name of the template
+msgid "dsIDXpress"
+msgstr "dsIDXpress"
+
+#. Name of the template
+msgid "Edit Listing"
+msgstr "編集一覧"
+
+#: template-edit-listing.php:407 template-submit-listing.php:405
+msgid "Street Address"
+msgstr "住所"
+
+#: template-edit-listing.php:412 template-submit-listing.php:410
+msgid "Alternate Title"
+msgstr "別タイトル"
+
+#: template-edit-listing.php:413 template-submit-listing.php:411
+msgid "(e.g. Downtown Penthouse)"
+msgstr "例えば繁華街Penthouse)"
+
+#: template-edit-listing.php:425 template-edit-listing.php:440
+#: admin/theme-functions.php:6083 admin/theme-functions.php:6111
+msgid "Any"
+msgstr "他の"
+
+#: template-edit-listing.php:449 template-submit-listing.php:427
+#: template-view-listings.php:179 admin/theme-functions.php:5417
+#: includes/home-listings-count.php:188
+msgid "Featured"
+msgstr "示"
+
+#: template-edit-listing.php:463 template-submit-listing.php:437
+#: includes/single-listing-multi-floorplan.php:43
+msgid "Price"
+msgstr "価格"
+
+#: template-edit-listing.php:468 template-submit-listing.php:442
+msgid "Price Prefix"
+msgstr "価格の接頭辞"
+
+#: template-edit-listing.php:469 template-submit-listing.php:443
+msgid " (e.g. From, Call for price)"
+msgstr " などから、価格)"
+
+#: template-edit-listing.php:473 template-submit-listing.php:447
+msgid "Price Postfix Text"
+msgstr "価格Postfixテキスト"
+
+#: template-edit-listing.php:474 template-submit-listing.php:448
+msgid " (e.g. /month, /week)"
+msgstr " （例：/月/時間)"
+
+#: template-edit-listing.php:479 template-submit-listing.php:453
+msgid "Listing Description"
+msgstr "上の説明"
+
+#: template-edit-listing.php:496 template-submit-listing.php:467
+msgid "Listing Featured Image"
+msgstr "一覧画像"
+
+#: template-edit-listing.php:505 template-submit-listing.php:479
+#: admin/ReduxFramework/theme-options/re7-config.php:3239
+msgid "Listing Images"
+msgstr "一覧画像"
+
+#: template-edit-listing.php:582 template-submit-listing.php:489
+msgid "Drag & Drop Images Here"
+msgstr "ドラッグ "
+
+#: template-edit-listing.php:585 template-submit-listing.php:492
+msgid "or"
+msgstr "または"
+
+#: template-edit-listing.php:588 template-submit-listing.php:495
+msgid "Select Images"
+msgstr "画像を選択"
+
+#: template-edit-listing.php:592
+msgid ""
+"*At least one image is required for valid submission, minimum width of 817px."
+msgstr "*少なくとも一つの画像が必要で有効な提出の最小幅の817px."
+
+#: template-edit-listing.php:593 template-submit-listing.php:500
+msgid ""
+"*You can mark an image as featured by clicking the star icon, Otherwise "
+"first image will be considered featured image."
+msgstr "※マークを画像として表をクリックするとスターアイコンを、そうでない最初のイメージを考えるペイメージです。"
+
+#: template-edit-listing.php:605 template-submit-listing.php:510
+msgid "Files & Documents"
+msgstr "ファイル "
+
+#: template-edit-listing.php:629 template-submit-listing.php:522
+msgid "*Supported file types are PDF, Word, Excel & PowerPoint."
+msgstr "*サポートしているデータ形式はPDF、Word、Excel "
+
+#: template-edit-listing.php:693 template-submit-listing.php:576
+#: admin/theme-functions.php:4872 includes/header-advanced-search.php:264
+#: includes/sub-listings.php:195
+#: includes/widgets/ct-widget-agentsotherlistings.php:232
+msgid "Lot Size"
+msgstr "ロットサイズ"
+
+#: template-edit-listing.php:698 template-submit-listing.php:581
+#: admin/theme-functions.php:4743
+msgid "Pets"
+msgstr "ペット"
+
+#: template-edit-listing.php:703 template-submit-listing.php:586
+#: admin/theme-functions.php:4758
+msgid "Parking"
+msgstr "駐車場"
+
+#: template-edit-listing.php:713 template-submit-listing.php:596
+msgid "Video URL"
+msgstr "映像のURL"
+
+#: template-edit-listing.php:720
+msgid "Vitrual Tour URL"
+msgstr "VitrualツアーのURL"
+
+#: template-edit-listing.php:728 template-submit-listing.php:611
+#: admin/theme-functions.php:5190 includes/single-listing-open-house.php:26
+#: includes/single-listing-sub-navigation.php:51
+msgid "Open House"
+msgstr "オープンハウス"
+
+#: template-edit-listing.php:731 template-submit-listing.php:614
+#: includes/single-listing-open-house.php:32
+msgid "Date"
+msgstr "日"
+
+#: template-edit-listing.php:736 template-submit-listing.php:619
+msgid "Start Time"
+msgstr "開始時間"
+
+#: template-edit-listing.php:741 template-submit-listing.php:624
+msgid "End Time"
+msgstr "終了時間"
+
+#: template-edit-listing.php:751 template-submit-listing.php:642
+msgid "Additional Features (comma separated)"
+msgstr "機能追加（コンマで区切られた)"
+
+#: template-edit-listing.php:766 template-submit-listing.php:657
+msgid "Max-number of Guests"
+msgstr "最大宿泊人数"
+
+#: template-edit-listing.php:771 template-submit-listing.php:662
+msgid "Minimum Stay"
+msgstr "最短滞在"
+
+#: template-edit-listing.php:778 template-submit-listing.php:669
+msgid "Check In Time"
+msgstr "チェック時間"
+
+#: template-edit-listing.php:783 template-submit-listing.php:674
+msgid "Check Out Time"
+msgstr "チェックアウト時間"
+
+#: template-edit-listing.php:790 template-submit-listing.php:681
+msgid "Extra Person Charge"
+msgstr "お"
+
+#: template-edit-listing.php:795 template-submit-listing.php:686
+#: admin/theme-functions.php:5019
+msgid "Cleaning Fee"
+msgstr "清掃料"
+
+#: template-edit-listing.php:802 template-submit-listing.php:693
+#: admin/theme-functions.php:5030
+msgid "Cancellation Fee"
+msgstr "キャンセル料"
+
+#: template-edit-listing.php:807 template-submit-listing.php:698
+#: admin/theme-functions.php:5041
+msgid "Security Deposit"
+msgstr "保証金"
+
+#: template-edit-listing.php:827 template-submit-listing.php:711
+msgid "Type in an address"
+msgstr "タイプ住所"
+
+#: template-edit-listing.php:847 template-submit-listing.php:731
+#: includes/advanced-search.php:98 includes/header-advanced-search.php:109
+#: includes/widgets/ct-widget-listingssearch.php:109
+msgid "County"
+msgstr "郡"
+
+#: template-edit-listing.php:862 template-submit-listing.php:746
+msgid "Latitude & Longitude (optional)"
+msgstr "緯度 "
+
+#: template-edit-listing.php:871 template-submit-listing.php:755
+msgid ""
+"You can also manually drag the marker to the exact location of your listing "
+"if the automatic geolocation is off."
+msgstr "また手動でドラッグのマーカーの正確な位置の場合は、自動geolocation（ジオロケーション）をオンにします。"
+
+#: template-edit-listing.php:877 template-submit-listing.php:767
+#: admin/theme-functions.php:4337
+#: admin/ReduxFramework/theme-options/re7-config.php:4534
+msgid "Private Notes"
+msgstr "関連私募債関連"
+
+#: template-edit-listing.php:878 template-submit-listing.php:768
+msgid ""
+"Write a private note about this listing, this textarea will not be displayed "
+"anywhere on the front end of the site."
+msgstr "書くの民間ご注意この上場に、このtextareaのまま表示されないこともにフロントのサイトです。"
+
+#: template-edit-listing.php:897 template-submit-listing.php:787
+msgid "Cancel"
+msgstr "消"
+
+#: template-edit-listing.php:901 template-submit-listing.php:796
+#: admin/theme-functions.php:3379
+msgid "Next"
+msgstr "次へ"
+
+#: template-edit-listing.php:902 template-submit-listing.php:805
+msgid "Previous"
+msgstr "前"
+
+#: template-edit-listing.php:919
+#: admin/plugins/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr "更新"
+
+#: template-edit-listing.php:929
+msgid "This isn't one of your assigned listings, editing is denied."
+msgstr "日本には\\'tの一覧、編集操作が拒否されます。"
+
+#. Name of the template
+msgid "Edit Profile"
+msgstr "プロファイルの編集"
+
+#: template-edit-profile.php:78
+msgid "The passwords you entered do not match. Your password was not updated."
+msgstr "のパスワードの入力は必ずしも一致しない。 パスワードませんでしたを更新しました。"
+
+#: template-edit-profile.php:86
+msgid "The Email you entered is not valid. Please try again."
+msgstr "電子メール入力は無効です。 もう一度入力してください。"
+
+#: template-edit-profile.php:88
+msgid "This email is already used by another user. Try a different one."
+msgstr "このメールが使われているので他のユーザーです。 く異なる。"
+
+#: template-edit-profile.php:133 admin/theme-functions.php:3689
+#: admin/theme-functions.php:3768
+msgid "Username"
+msgstr "ユーザー名"
+
+#: template-edit-profile.php:134
+msgid "Usernames cannot be changed."
+msgstr "ユーザ名の変更はできません。"
+
+#: template-edit-profile.php:137 admin/theme-functions.php:3778
+msgid "First Name"
+msgstr "名前"
+
+#: template-edit-profile.php:141 admin/theme-functions.php:3783
+msgid "Last Name"
+msgstr "氏名"
+
+#: template-edit-profile.php:145
+msgid "Nickname"
+msgstr "愛称"
+
+#: template-edit-profile.php:145
+msgid "(required)"
+msgstr "(必須)"
+
+#: template-edit-profile.php:149
+msgid "Display to Public as"
+msgstr "表示として公開"
+
+#: template-edit-profile.php:187
+msgid "Contact Info"
+msgstr "詳細は直接お問い合わせ"
+
+#: template-edit-profile.php:191
+msgid "E-mail *"
+msgstr "Eメール*"
+
+#: template-edit-profile.php:195 admin/theme-functions.php:3788
+msgid "Website"
+msgstr "Webサイト"
+
+#: template-edit-profile.php:218
+msgid "About Yourself"
+msgstr "サービス"
+
+#: template-edit-profile.php:222
+msgid "Biographical Information"
+msgstr "歴"
+
+#: template-edit-profile.php:222
+msgid ""
+"Share a little biographical information to fill out your profile. This may "
+"be shown publicly."
+msgstr "シェアを少しゆる情報を入力します。 この上で表示されるようになっていまを表している。"
+
+#: template-edit-profile.php:226
+msgid "New Password"
+msgstr "新しいパスワード"
+
+#: template-edit-profile.php:226
+msgid ""
+"If you would like to change the password type a new one. Otherwise leave "
+"this blank."
+msgstr "ただ、パスワードの変更をタイプす。 その他この欄を空白にします。"
+
+#: template-edit-profile.php:230
+msgid "Type your new password again."
+msgstr "インターネットにアクセスし、新しいパスワードです。"
+
+#: template-edit-profile.php:232
+msgid "Strength indicator"
+msgstr "強度の指標"
+
+#: template-edit-profile.php:244
+msgid "Update Profile"
+msgstr "更新概要"
+
+#: template-favorite-listings.php:100
+msgid "Request More Information on All Favorites"
+msgstr "資料請求をすべてお気に入り"
+
+#: template-favorite-listings.php:178 template-view-listings.php:142
+msgid "Bed:"
+msgstr "ベッド："
+
+#: template-favorite-listings.php:188 template-view-listings.php:152
+msgid "Baths:"
+msgstr "大浴場："
+
+#: template-favorite-listings.php:199 template-view-listings.php:163
+#: layouts/list.php:125 includes/widgets/ct-widget-flickr.php:63
+msgid "Type:"
+msgstr "タイプ："
+
+#: template-favorite-listings.php:224
+msgid "Previous Entries"
+msgstr "以前の作品"
+
+#: template-favorite-listings.php:225
+msgid "Next Entries"
+msgstr "次の応募"
+
+#. Name of the template
+msgid "Full Width 2"
+msgstr "全幅2"
+
+#. Name of the template
+msgid "Full Width"
+msgstr "全幅"
+
+#. Name of the template
+msgid "IDX Full Width"
+msgstr "IDX全幅"
+
+#. Name of the template
+msgid "IDX w/Sidebar"
+msgstr "IDX w/サイドバー"
+
+#. Name of the template
+msgid "Landing Page"
+msgstr "ランディングページ"
+
+#. Name of the template
+msgid "Left Sidebar"
+msgstr "左サイドバー"
+
+#. Name of the template
+#: includes/user-sidebar.php:44
+#: admin/ReduxFramework/theme-options/re7-config.php:4699
+msgid "Listing Email Alerts"
+msgstr "上場メールアラート"
+
+#: template-listing-email-alerts.php:84
+msgid "Manage your alerts"
+msgstr "管理の通知"
+
+#: template-listing-email-alerts.php:85
+msgid "Here you can turn saved alerts on/off or remove them completely."
+msgstr "こちらでき保存通知のon/offを削除します。"
+
+#: template-listing-email-alerts.php:90
+msgid "Query"
+msgstr "クエリ"
+
+#: template-listing-email-alerts.php:93
+msgid "Date Created"
+msgstr "作成日時"
+
+#: template-listing-email-alerts.php:96
+msgid "Email Setting"
+msgstr "メール設定"
+
+#: template-listing-email-alerts.php:99 admin/theme-functions.php:3547
+msgid "Delete"
+msgstr "削除"
+
+#: template-listing-email-alerts.php:126
+msgid "You don't have any saved searches yet, create one above."
+msgstr "まさかりして保存した検索しかし、ひとつ作成します。"
+
+#: template-listing-email-alerts.php:138
+msgid ""
+"Activate \"Contempo Email Alerts\" plugin via Appearance > Install Plugins."
+msgstr "活性化する\"コンテンポメールアラート\"プラグイン経由で外観>インストールです。"
+
+#. Name of the template
+#: includes/home-listings-count.php:58
+msgid "Open Houses"
+msgstr "オープンハウスなど"
+
+#. Name of the template
+msgid "Packages Thank You"
+msgstr "パッケージま"
+
+#: template-packages-thank-you.php:56
+msgid "Select a Package"
+msgstr "選択パッケージ"
+
+#: template-packages-thank-you.php:60
+msgid "Payment"
+msgstr "お支払い"
+
+#: template-packages-thank-you.php:64
+msgid "Complete"
+msgstr "完全"
+
+#. Name of the template
+msgid "Quick Search"
+msgstr "クイック検索"
+
+#. Name of the template
+msgid "Sitemap"
+msgstr "サイトマップ"
+
+#: template-sitemap.php:51
+msgid "Last Twenty Posts"
+msgstr "大人数投稿"
+
+#: template-sitemap.php:67
+msgid "Pages"
+msgstr "ページ"
+
+#: template-sitemap.php:74
+msgid "Categories"
+msgstr "カテゴリ"
+
+#: template-sitemap.php:81
+msgid "Posts per category"
+msgstr "ポカテゴリー別"
+
+#: template-submit-listing.php:379
+msgid "You haven't chosen a package yet…"
+msgstr "まいり選ばれたパッケージな..."
+
+#: template-submit-listing.php:380
+msgid "Get Started!"
+msgstr "の取得を開始しました！"
+
+#: template-submit-listing.php:386
+msgid "Listings Limit Reached"
+msgstr "上限に達した"
+
+#: template-submit-listing.php:387
+msgid "You've reached the listings limit for your membership package."
+msgstr "お'veに達した物件の制限のために会員パッケージです。"
+
+#: template-submit-listing.php:388
+msgid "Upgrade Today!"
+msgstr "アップ。"
+
+#: template-submit-listing.php:472
+msgid "Gallery Images (select as many as you like)"
+msgstr "ギャラリーの画像を選択してくだ)"
+
+#: template-submit-listing.php:499
+msgid "*At least one image is for valid submission, minimum width of 817px."
+msgstr "*少なくとも一つの画像は有効なのは、提出の最小幅の817px."
+
+#: template-submit-listing.php:582
+msgid "(e.g. Cats, small dogs)"
+msgstr "（猫-小型犬)"
+
+#: template-submit-listing.php:587
+msgid "(e.g. Carport, 2 Car Garage)"
+msgstr "例えばCarport、2つの車庫行"
+
+#: template-submit-listing.php:603
+msgid "Virtual Tour URL"
+msgstr "バーチャルツアーのURL"
+
+#: template-submit-listing.php:658
+msgid " (e.g. 2)"
+msgstr " (例2)"
+
+#: template-submit-listing.php:663
+msgid " (e.g. 1 night)"
+msgstr " （1泊）"
+
+#: template-submit-listing.php:670
+msgid " (e.g. 3:00 PM)"
+msgstr " 例3:00PM)"
+
+#: template-submit-listing.php:675
+msgid " (e.g. 11:00 AM)"
+msgstr " （例：11:00AM)"
+
+#: template-submit-listing.php:682
+msgid " (e.g. 50)"
+msgstr " 例えば50)"
+
+#: template-submit-listing.php:687
+msgid " (e.g. 150)"
+msgstr " （150)"
+
+#: template-submit-listing.php:694
+msgid " (e.g. 275)"
+msgstr " （275)"
+
+#: template-submit-listing.php:699
+msgid " (e.g. 895)"
+msgstr " 例えば895)"
+
+#: template-submit-listing.php:788
+msgid "Save As Draft"
+msgstr "として保存案"
+
+#. Name of the template
+#: admin/ReduxFramework/theme-options/re7-config.php:1706
+msgid "Testimonials"
+msgstr "お客様の声"
+
+#. Name of the template
+msgid "User Dashboard"
+msgstr "ユーザーのダッシュボード"
+
+#: template-user-dashboard.php:122
+#: admin/ReduxFramework/theme-options/re7-config.php:1656
+msgid "Featured Listings"
+msgstr "載物件"
+
+#: template-user-dashboard.php:141
+msgid "Pending Listings"
+msgstr "中物件"
+
+#: template-view-invoices.php:82
+msgid "You haven't placed any orders yet…"
+msgstr "いなりになり受注しているだけで。"
+
+#: template-view-invoices.php:90
+msgid "Invoice"
+msgstr "請求書"
+
+#: template-view-invoices.php:91
+msgid "Package"
+msgstr "パッケージ"
+
+#: template-view-invoices.php:92
+msgid "Start"
+msgstr "開始"
+
+#: template-view-invoices.php:93
+msgid "Expire"
+msgstr "切"
+
+#: template-view-invoices.php:94
+msgid "Recurring"
+msgstr "経常"
+
+#: template-view-invoices.php:96
+msgid "Total"
+msgstr "合計"
+
+#: template-view-invoices.php:112
+#: includes/widgets/ct-widget-contactinfo.php:135
+msgid "Yes"
+msgstr "あり"
+
+#: template-view-invoices.php:112
+#: includes/widgets/ct-widget-contactinfo.php:136
+msgid "No"
+msgstr "No"
+
+#: template-view-invoices.php:113
+msgid "Expired"
+msgstr "終了しました"
+
+#: template-view-invoices.php:123
+msgid "-"
+msgstr "-"
+
+#: template-view-listings.php:85
+msgid "Type a listing name or address here to filter the list."
+msgstr "タイプ一覧の名称又は住所このフィルターの一覧です。"
+
+#: template-view-listings.php:172
+msgid "Published"
+msgstr "掲載"
+
+#: template-view-listings.php:174
+msgid "Pending"
+msgstr "申請中"
+
+#: template-view-listings.php:176
+msgid "Draft"
+msgstr "案"
+
+#: template-view-listings.php:195
+msgid "Paid"
+msgstr "の支払額"
+
+#: template-view-listings.php:210
+msgid "Edit"
+msgstr "編集"
+
+#: template-view-listings.php:214 admin/theme-functions.php:4578
+msgid " Views"
+msgstr " 眺望"
+
+#: template-view-listings.php:233
+msgid "You don't have any listings yet..."
+msgstr "まわりをして物件なのに..."
+
+#: template-view-listings.php:234
+msgid "Create One"
+msgstr "トの作成"
+
+#: admin/merlin-config.php:104 admin/merlin-config.php:120
+#: admin/merlin-config.php:136 admin/merlin-config.php:152
+#: admin/merlin-config.php:168 admin/merlin-config.php:184
+#: admin/merlin-config.php:200 admin/merlin-config.php:216
+#: admin/merlin-config.php:232 admin/merlin-config.php:248
+#: admin/merlin-config.php:264 admin/merlin-config.php:280
+#: admin/merlin-config.php:296 admin/merlin-config.php:312
+#: admin/merlin-config.php:328
+msgid "A special note for this import."
+msgstr "特別な注意このサポートいたします。"
+
+#: admin/profile-fields.php:39
+msgid "Social profile information"
+msgstr "社会的プロファイル情報"
+
+#: admin/profile-fields.php:43
+msgid "Twitter Username"
+msgstr "Twitterユーザー名"
+
+#: admin/profile-fields.php:49
+msgid "Facebook URL"
+msgstr "Facebook URL"
+
+#: admin/profile-fields.php:55
+msgid "Instagram URL"
+msgstr "Instagram URL"
+
+#: admin/profile-fields.php:61
+msgid "LinkedIn URL"
+msgstr "LinkedIn URL"
+
+#: admin/profile-fields.php:67
+msgid "YouTube URL"
+msgstr "YouTube URL"
+
+#: admin/profile-fields.php:76
+msgid "Extra profile information"
+msgstr "エプロフィール情報"
+
+#: admin/profile-fields.php:88
+msgid "Agent Order"
+msgstr "剤注"
+
+#: admin/profile-fields.php:91
+msgid ""
+"If user is an agent select the order you would like them displayed on the "
+"agents page, e.g. 1, 2, 3, etc&hellip; NOTE: You must also set Real Estate 7 "
+"Options > Agents > Manually Order Agents? > to Yes, otherwise the ordering "
+"won't be applied."
+msgstr "場合はユーザエージェントを選択のうちに表示された薬剤のページなどは1、2、3、など"
+
+#: admin/profile-fields.php:95
+msgid "Profile Image"
+msgstr "プロフィール画像"
+
+#: admin/profile-fields.php:105
+msgid ""
+"Please upload a profile picture here, if none is chosen a default image will "
+"be used."
+msgstr "プをアップロードしてくださいプロフィール画像ここにない場合はデフォルトの画像を使用します。"
+
+#: admin/profile-fields.php:109
+msgid "Mobile #"
+msgstr ""
+
+#: admin/profile-fields.php:115
+msgid "Fax #"
+msgstr ""
+
+#: admin/profile-fields.php:122
+msgid "Title"
+msgstr "タイトル"
+
+#: admin/profile-fields.php:128
+msgid "Tagline"
+msgstr "ブランドメッセージ"
+
+#: admin/profile-fields.php:134
+msgid "Agent License #"
+msgstr ""
+
+#: admin/profile-fields.php:137
+msgid "Add the agents license number here."
+msgstr "追加のライセンス番号です。"
+
+#: admin/profile-fields.php:144
+msgid "Agent Testimonials"
+msgstr "剤お客様の声"
+
+#: admin/profile-fields.php:148
+msgid ""
+"If this user is marked as an agent (\"Show on agents page\" option above) "
+"use this area to add client testimonials."
+msgstr "このユーザが代理人として(\"展者ページ\"オプション）についての追加お客様の声."
+
+#: admin/profile-fields.php:162
+msgid "Office Information"
+msgstr "室情報"
+
+#: admin/profile-fields.php:166
+msgid "Personal Logo"
+msgstr "個人ロゴ"
+
+#: admin/profile-fields.php:176
+msgid ""
+"Upload your personal logo here, or if you choose to associate a Brokerage "
+"below that logo will be used instead."
+msgstr "アップロードは個人のロゴ、またはを選択するには、仲介、下のロゴができるようにしております。"
+
+#: admin/profile-fields.php:186
+msgid "Select a Brokerage"
+msgstr "選択仲介"
+
+#: admin/profile-fields.php:194
+msgid ""
+"Assign a brokerage here, these are pulled from the Brokerage custom post "
+"type."
+msgstr "を割り当て仲介ここでは、これらの仲介ポストカスタムタイプです。"
+
+#: admin/profile-fields.php:198
+msgid "Brokerage License #"
+msgstr ""
+
+#: admin/profile-fields.php:201
+msgid "Add the brokerage license number here."
+msgstr "追加の業免許番号です。"
+
+#: admin/profile-fields.php:205
+msgid "Office #"
+msgstr ""
+
+#: admin/profile-fields.php:223
+msgid "State or Province"
+msgstr "都道府県"
+
+#: admin/profile-fields.php:229 admin/theme-functions.php:5689
+msgid "Postal Code"
+msgstr "郵便番号"
+
+#: admin/theme-functions.php:45
+msgid "Please Update Your PHP Version to the Recommended 5.6+"
+msgstr "アップデートしてくださいPHPのバージョンにおすすめの56 "
+
+#: admin/theme-functions.php:46
+msgid ""
+"Otherwise some of the Theme Functions and Custom Visual Composer modules "
+"won't be available for use, or cause issues with your site display."
+msgstr "その他一部のテーマ機能およびカスタム映像作曲モジュールを獲りたがって利用することができますし、又は原因の問題のサイトに表示します。"
+
+#: admin/theme-functions.php:47
+msgid ""
+"Its a quick and simple process (no more than a couple minutes), please refer "
+"to this knowledgebase article below."
+msgstr "その迅速-簡便なプロセス（以カップルで分)についてはこちらを参照くださいナレッジベース第です。"
+
+#: admin/theme-functions.php:48
+msgid "Minimum PHP Version 5.6+ and How to Update to It"
+msgstr "最小PHP版5.6どのように更新で"
+
+#: admin/theme-functions.php:49 admin/theme-functions.php:91
+#: admin/theme-functions.php:133 admin/theme-functions.php:175
+#: admin/plugins/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr "任この通知"
+
+#: admin/theme-functions.php:89
+msgid "WP Favorite Posts Needs to be Setup"
+msgstr "WP好きなポーズする設定"
+
+#: admin/theme-functions.php:90 admin/theme-functions.php:132
+#: admin/theme-functions.php:174
+msgid "Just takes a few seconds to setup the plugin properly please see the "
+msgstr "歩数秒の設定プラグインの適正をご覧ください "
+
+#: admin/theme-functions.php:90 admin/theme-functions.php:132
+#: admin/theme-functions.php:174
+msgid "documentation"
+msgstr "文書"
+
+#: admin/theme-functions.php:131
+msgid "Contempo Compare Listings Needs to be Setup"
+msgstr "コンテンポを比較し上が必要ではないため、"
+
+#: admin/theme-functions.php:173
+msgid "WordPress Social Login Needs to be Setup"
+msgstr "WordPressの社会的インインが必要ではないため、"
+
+#: admin/theme-functions.php:387
+msgid "Listing Large"
+msgstr "上場大"
+
+#: admin/theme-functions.php:398
+msgid "Primary Left Menu"
+msgstr "主左メニュー"
+
+#: admin/theme-functions.php:399
+msgid "Primary Right Menu"
+msgstr "主右メニュー"
+
+#: admin/theme-functions.php:400
+msgid "Primary Full Width"
+msgstr "一次全幅"
+
+#: admin/theme-functions.php:401
+msgid "Footer Menu"
+msgstr "フッターメニュー"
+
+#: admin/theme-functions.php:425
+msgid "Menu doesn't exist, please create one by clicking here."
+msgstr "メニューになり、作成してくださいクリックする。"
+
+#: admin/theme-functions.php:1170
+msgid "Open Map"
+msgstr "開地図"
+
+#: admin/theme-functions.php:1171
+msgid "Close Search"
+msgstr "内検索"
+
+#: admin/theme-functions.php:1174
+msgid "Open"
+msgstr "Open"
+
+#: admin/theme-functions.php:1175
+msgid "Search Saved"
+msgstr "検索を保存"
+
+#: admin/theme-functions.php:1187 admin/theme-functions.php:5897
+msgid "All Towns"
+msgstr "すべての町"
+
+#: admin/theme-functions.php:1189 admin/theme-functions.php:5899
+msgid "All Villages"
+msgstr "すべての村"
+
+#: admin/theme-functions.php:1191 admin/theme-functions.php:5901
+msgid "All Cities"
+msgstr "すべての都市"
+
+#: admin/theme-functions.php:1195 admin/theme-functions.php:5903
+msgid "All Areas"
+msgstr "すべての領域"
+
+#: admin/theme-functions.php:1197 admin/theme-functions.php:5905
+#: admin/theme-functions.php:5939
+msgid "All Suburbs"
+msgstr "すべての郊外"
+
+#: admin/theme-functions.php:1199 admin/theme-functions.php:5907
+msgid "All Provinces"
+msgstr "すべての州"
+
+#: admin/theme-functions.php:1201 admin/theme-functions.php:5909
+msgid "All Regions"
+msgstr "すべての地域で"
+
+#: admin/theme-functions.php:1203 admin/theme-functions.php:5911
+msgid "All Parishes"
+msgstr "すべての教区"
+
+#: admin/theme-functions.php:1205 admin/theme-functions.php:5913
+msgid "All States"
+msgstr "すべての国"
+
+#: admin/theme-functions.php:1209 admin/theme-functions.php:5947
+msgid "All Postcodes"
+msgstr "すべての郵便番号"
+
+#: admin/theme-functions.php:1211 admin/theme-functions.php:5949
+msgid "All Postal Codes"
+msgstr "すべての郵便番号"
+
+#: admin/theme-functions.php:1213 admin/theme-functions.php:5951
+msgid "All Zipcodes"
+msgstr "すべてのZipcodes"
+
+#: admin/theme-functions.php:1228
+msgid "* This field is required"
+msgstr "*この分野が必要"
+
+#: admin/theme-functions.php:1229
+msgid "* Please select an option"
+msgstr "*オプションを選択してください"
+
+#: admin/theme-functions.php:1230
+msgid "* This checkbox is required"
+msgstr "※このチェックボックスが必要"
+
+#: admin/theme-functions.php:1231
+msgid "* Invalid phone number"
+msgstr "*電話番号が無効"
+
+#: admin/theme-functions.php:1232
+msgid "* Invalid email address"
+msgstr "*無効なメールアドレス"
+
+#: admin/theme-functions.php:1233
+msgid "* Invalid date, must be in YYYY-MM-DD format"
+msgstr "*無効な日付はYYYY-MM-DD形式"
+
+#: admin/theme-functions.php:1234
+msgid "* Numbers only"
+msgstr "*数字のみ"
+
+#: admin/theme-functions.php:1235
+msgid "* No special caracters allowed"
+msgstr "*特別なcaracters可"
+
+#: admin/theme-functions.php:1236
+msgid "* Letters only"
+msgstr "*文字のみ"
+
+#: admin/theme-functions.php:1921 admin/theme-functions.php:3797
+msgid "Buyer"
+msgstr "バイヤー"
+
+#: admin/theme-functions.php:1933 admin/theme-functions.php:3798
+msgid "Seller"
+msgstr "セラー"
+
+#: admin/theme-functions.php:1971
+msgid "Broker"
+msgstr "仲介"
+
+#: admin/theme-functions.php:2083 admin/theme-functions.php:2120
+#: admin/theme-functions.php:2156
+msgid "Beds: "
+msgstr "ベッド: "
+
+#: admin/theme-functions.php:2084 admin/theme-functions.php:2121
+#: admin/theme-functions.php:2157
+msgid "Baths: "
+msgstr "大浴場： "
+
+#: admin/theme-functions.php:2085 admin/theme-functions.php:2122
+#: admin/theme-functions.php:2158
+msgid "Sq Ft: "
+msgstr "Sq Ft: "
+
+#: admin/theme-functions.php:2094 admin/theme-functions.php:2131
+#: admin/theme-functions.php:2166
+msgid "1 Listing found"
+msgstr "1上場見つかり"
+
+#: admin/theme-functions.php:2096 admin/theme-functions.php:2133
+#: admin/theme-functions.php:2168
+msgid " Listings found"
+msgstr " 物件を見つ"
+
+#: admin/theme-functions.php:2173
+msgid "No Listings Found"
+msgstr "な物件を見つ"
+
+#: admin/theme-functions.php:2393
+msgid "Sort By"
+msgstr "並べ替え"
+
+#: admin/theme-functions.php:2394
+msgid "Default Order"
+msgstr "デフォルトの順序"
+
+#: admin/theme-functions.php:2395
+msgid "Price - Low to High"
+msgstr "価格-低高"
+
+#: admin/theme-functions.php:2396
+msgid "Price - High to Low"
+msgstr "価格の高低"
+
+#: admin/theme-functions.php:2397
+msgid "Date - Old to New"
+msgstr "日新"
+
+#: admin/theme-functions.php:2398
+msgid "Date - New to Old"
+msgstr "日新旧"
+
+#: admin/theme-functions.php:2625
+msgid "New submission in"
+msgstr "新しい投稿"
+
+#: admin/theme-functions.php:2627
+msgid "Hi!"
+msgstr "こんにちは!"
+
+#: admin/theme-functions.php:2628
+msgid "We have a new submission in"
+msgstr "\"という新しい投稿"
+
+#: admin/theme-functions.php:2629
+msgid "Check it out"
+msgstr "チェックしてみて"
+
+#: admin/theme-functions.php:2743 admin/theme-functions.php:2818
+#: admin/theme-functions.php:2921 admin/theme-functions.php:3036
+#: admin/theme-functions.php:3155 admin/theme-functions.php:3245
+#: admin/theme-functions.php:3356
+msgid "You need to setup the Google Maps API."
+msgstr "必要な設定をGoogle Maps APIに含まれています。"
+
+#: admin/theme-functions.php:2744 admin/theme-functions.php:2819
+#: admin/theme-functions.php:2922 admin/theme-functions.php:3037
+#: admin/theme-functions.php:3156 admin/theme-functions.php:3246
+#: admin/theme-functions.php:3357
+msgid "Go into Admin > Real Estate 7 Options > Google Maps"
+msgstr "入管理>不動産7オプション>Googleマップ"
+
+#: admin/theme-functions.php:3378
+msgid "Prev"
+msgstr "前へ"
+
+#: admin/theme-functions.php:3645
+msgid "User registration is not enabled"
+msgstr "ユーザー登録は有効ではありません"
+
+#: admin/theme-functions.php:3675
+msgid "Log in"
+msgstr "ログイン"
+
+#: admin/theme-functions.php:3677
+msgid "Don't have an account?"
+msgstr "わからないまた、いか。"
+
+#: admin/theme-functions.php:3677
+msgid "Create your account,"
+msgstr "アカウントの作成,"
+
+#: admin/theme-functions.php:3677
+msgid "it takes less than a minute."
+msgstr "かようになります。"
+
+#: admin/theme-functions.php:3692 admin/theme-functions.php:3805
+msgid "Password"
+msgstr "パスワード"
+
+#: admin/theme-functions.php:3707
+msgid "Lost your password?"
+msgstr "紛失されたパスワード?"
+
+#: admin/theme-functions.php:3717
+msgid "Lost Password?"
+msgstr "パスワードを忘れた?"
+
+#: admin/theme-functions.php:3718
+msgid ""
+"Enter your email address and we'll send you a link you can use to pick a new "
+"password."
+msgstr "メールアドレスを入力して\\'llをお送りいリンクを使用でき取りに新しいパスワードになります。"
+
+#: admin/theme-functions.php:3720
+msgid "Username or Email"
+msgstr "ユーザー名やメール"
+
+#: admin/theme-functions.php:3722
+msgid "Get New Password"
+msgstr "新しいパスワードの取得"
+
+#: admin/theme-functions.php:3758
+msgid "Create an account"
+msgstr "アカウント作成"
+
+#: admin/theme-functions.php:3759
+msgid "It takes less than a minute. If you already have an account "
+msgstr "かようになります。 すでに口座を開設して "
+
+#: admin/theme-functions.php:3759
+msgid "login"
+msgstr "ログイン"
+
+#: admin/theme-functions.php:3794
+msgid "Buyer, Seller or Agent?"
+msgstr "バイヤーの販売代理店?"
+
+#: admin/theme-functions.php:3796
+msgid "Please choose"
+msgstr "をお選びください"
+
+#: admin/theme-functions.php:3810
+msgid "Password Again"
+msgstr "パスワードを再"
+
+#: admin/theme-functions.php:3816
+msgid "I accept the"
+msgstr "お受けいたしますの"
+
+#: admin/theme-functions.php:3816
+msgid "Terms &amp; Conditions"
+msgstr "条件 "
+
+#: admin/theme-functions.php:3821
+msgid "Register"
+msgstr "登録"
+
+#: admin/theme-functions.php:3856
+msgid "Username already taken"
+msgstr "ユーザー名については"
+
+#: admin/theme-functions.php:3860 admin/theme-functions.php:4048
+#: admin/theme-functions.php:4095
+msgid "Invalid username"
+msgstr "無効なユーザー名"
+
+#: admin/theme-functions.php:3864
+msgid "Please enter a username"
+msgstr "を入力してくださいユーザー名"
+
+#: admin/theme-functions.php:3868
+msgid "Invalid email"
+msgstr "無効なメール"
+
+#: admin/theme-functions.php:3872
+msgid "Email already registered"
+msgstr "メール登録"
+
+#: admin/theme-functions.php:3876 admin/theme-functions.php:4053
+#: admin/theme-functions.php:4100
+msgid "Please enter a password"
+msgstr "パスワードを入力してください"
+
+#: admin/theme-functions.php:3880
+msgid "Passwords do not match"
+msgstr "パスワードが一致しない"
+
+#: admin/theme-functions.php:3884
+msgid "Terms & Conditions must be checked"
+msgstr "条件 "
+
+#: admin/theme-functions.php:4059 admin/theme-functions.php:4106
+msgid "Incorrect password"
+msgstr "誤ったパスワード"
+
+#: admin/theme-functions.php:4140
+msgid "Error"
+msgstr "エラー"
+
+#: admin/theme-functions.php:4263 admin/theme-functions.php:4267
+msgid "Featured Image"
+msgstr "画像"
+
+#: admin/theme-functions.php:4265
+msgid "Brokerage Logo"
+msgstr "仲介マーク"
+
+#: admin/theme-functions.php:4295
+msgid "Enter the listing street address here"
+msgstr "入力の上場住所こちら"
+
+#: admin/theme-functions.php:4311
+msgid ""
+"NOTE: The Listing Title needs to be <strong>only the Street Address</strong> "
+"(e.g. 123 Somewhere St.) otherwise the mapping won't work properly, use the "
+"Alternate Title field below for Listing Names, etc…the Alt Title field will "
+"override the street address on the front end of your site."
+msgstr ""
+
+#: admin/theme-functions.php:4330
+#: admin/ReduxFramework/theme-options/re7-config.php:4148
+msgid "Price & Description"
+msgstr "価格 "
+
+#: admin/theme-functions.php:4331
+msgid "Photos & Files"
+msgstr "写真 "
+
+#: admin/theme-functions.php:4332
+#: admin/ReduxFramework/theme-options/re7-config.php:4237
+msgid "Details"
+msgstr "詳細"
+
+#: admin/theme-functions.php:4334 includes/single-listing-sub-navigation.php:78
+#: admin/ReduxFramework/theme-options/re7-config.php:4356
+msgid "Rental Info"
+msgstr "賃貸情報"
+
+#: admin/theme-functions.php:4336 includes/single-listing-map.php:18
+#: includes/single-listing-sub-navigation.php:135
+#: includes/single-listing-sub-navigation.php:164
+#: admin/ReduxFramework/theme-options/re7-config.php:4445
+msgid "Location"
+msgstr "所在地"
+
+#: admin/theme-functions.php:4438
+msgid "Add to Favorites"
+msgstr "お気に入りに追加"
+
+#: admin/theme-functions.php:4443
+msgid "Favorite"
+msgstr "好きな"
+
+#: admin/theme-functions.php:4556
+msgid " Photo"
+msgstr " 写真"
+
+#: admin/theme-functions.php:4558
+msgid " Photos"
+msgstr " 写真"
+
+#: admin/theme-functions.php:4700 admin/theme-functions.php:5605
+#: admin/theme-functions.php:5915 layouts/list.php:84
+msgid "Rooms"
+msgstr "客室"
+
+#: admin/theme-functions.php:4702 admin/theme-functions.php:5607
+#: admin/theme-functions.php:5917 layouts/list.php:86
+msgid "Bedrooms"
+msgstr "ベッドルーム"
+
+#: admin/theme-functions.php:4706 admin/theme-functions.php:5611
+#: admin/theme-functions.php:5919 includes/sub-listings.php:89
+#: layouts/list.php:90 includes/widgets/ct-widget-agentsotherlistings.php:126
+msgid "Bed"
+msgstr "ベッド"
+
+#: admin/theme-functions.php:4722 admin/theme-functions.php:5626
+#: admin/theme-functions.php:5923 layouts/list.php:106
+msgid "Bathrooms"
+msgstr "バスルーム"
+
+#: admin/theme-functions.php:4726 admin/theme-functions.php:5630
+#: admin/theme-functions.php:5925 layouts/list.php:110
+msgid "Bath"
+msgstr "風呂"
+
+#: admin/theme-functions.php:4777 includes/sub-listings.php:122
+#: includes/widgets/ct-widget-agentsotherlistings.php:159
+msgid "Rating"
+msgstr "格付け"
+
+#: admin/theme-functions.php:4794 includes/sub-listings.php:139
+#: includes/widgets/ct-widget-agentsotherlistings.php:176
+msgid "Guests"
+msgstr "客"
+
+#: admin/theme-functions.php:4809 admin/theme-functions.php:4987
+#: includes/sub-listings.php:154
+#: includes/widgets/ct-widget-agentsotherlistings.php:191
+msgid "Min Stay"
+msgstr "分滞在"
+
+#: admin/theme-functions.php:4857
+msgid "Price Per"
+msgstr "価格"
+
+#: admin/theme-functions.php:4895
+msgid "Walk Score&reg;"
+msgstr "徒歩点"
+
+#: admin/theme-functions.php:4954
+msgid "Check In"
+msgstr "チェック"
+
+#: admin/theme-functions.php:4965
+msgid "Check Out"
+msgstr "チェック"
+
+#: admin/theme-functions.php:4976
+msgid "Max Guests"
+msgstr "最大宿泊人数"
+
+#: admin/theme-functions.php:5008
+msgid "Extra People"
+msgstr "理人"
+
+#: admin/theme-functions.php:5118
+#, php-format
+msgid "%s ago"
+msgstr "%s前"
+
+#: admin/theme-functions.php:5138
+msgid "Updated on"
+msgstr "更新"
+
+#: admin/theme-functions.php:5140
+msgid "at"
+msgstr "時"
+
+#: admin/theme-functions.php:5219
+msgid "Hosted By"
+msgstr "主催"
+
+#: admin/theme-functions.php:5276 admin/theme-functions.php:5293
+msgid "Listing Courtesy of"
+msgstr "客様の電話番号をお知らせの"
+
+#: admin/theme-functions.php:5278 admin/theme-functions.php:5295
+msgid "Brokered by"
+msgstr "仲介"
+
+#: admin/theme-functions.php:5567
+msgid " Sq Ft"
+msgstr " Sq Ft"
+
+#: admin/theme-functions.php:5569
+msgid " m²"
+msgstr " m2"
+
+#: admin/theme-functions.php:5584
+msgid "Acres"
+msgstr "エーカー"
+
+#: admin/theme-functions.php:5586
+msgid "Sq Ft"
+msgstr "Sq Ft"
+
+#: admin/theme-functions.php:5588
+msgid "m²"
+msgstr "m2"
+
+#: admin/theme-functions.php:5645
+msgid "Village"
+msgstr "村"
+
+#: admin/theme-functions.php:5647
+msgid "Town"
+msgstr "町"
+
+#: admin/theme-functions.php:5664
+msgid "Parish"
+msgstr "パリッシュ"
+
+#: admin/theme-functions.php:5666
+msgid "Region"
+msgstr "地域"
+
+#: admin/theme-functions.php:5668
+msgid "Province"
+msgstr "州"
+
+#: admin/theme-functions.php:5714
+msgid "School District"
+msgstr "学校区"
+
+#: admin/theme-functions.php:5716
+msgid "Building"
+msgstr "建物"
+
+#: admin/theme-functions.php:5718
+msgid "Borough"
+msgstr "分類区分"
+
+#: admin/theme-functions.php:5720
+msgid "Sector"
+msgstr "部門"
+
+#: admin/theme-functions.php:5891
+msgid "All Property Types"
+msgstr "すべての種類"
+
+#: admin/theme-functions.php:5893
+msgid "All Countries"
+msgstr "すべての国"
+
+#: admin/theme-functions.php:5895
+msgid "All Counties"
+msgstr "すべての国"
+
+#: admin/theme-functions.php:5929
+msgid "All Statuses"
+msgstr "すべてのステータス"
+
+#: admin/theme-functions.php:5931
+msgid "All Additional Features"
+msgstr "すべての追加機能"
+
+#: admin/theme-functions.php:5933
+msgid "All Neighborhoods"
+msgstr "すべての地区"
+
+#: admin/theme-functions.php:5935
+msgid "All Districts"
+msgstr "すべての地域"
+
+#: admin/theme-functions.php:5937
+msgid "All School Districts"
+msgstr "すべての学校区"
+
+#: admin/theme-functions.php:5941
+msgid "All Buildings"
+msgstr "すべての建物"
+
+#: admin/theme-functions.php:5943
+msgid "All Sectors"
+msgstr "すべての分野"
+
+#: admin/theme-functions.php:5945
+msgid "All Communities"
+msgstr "すべてのコミュニティ"
+
+#: admin/theme-functions.php:5953
+msgid "Pet Friendly?"
+msgstr "ペット?"
+
+#: admin/theme-functions.php:5955
+msgid "Furnished/Unfurnished?"
+msgstr "具/家具?"
+
+#: admin/theme-functions.php:6172 includes/single-listing-yelp.php:165
+msgid "You need to setup the Yelp Fusion API."
+msgstr "必要な設定は、Yelp融合します。"
+
+#: admin/theme-functions.php:6173 includes/single-listing-yelp.php:166
+msgid "Go into Admin > Real Estate 7 Options > What's Nearby? > Create App"
+msgstr "入管理>不動産7オプション>えりはないのでしょうか？ >アプリケーションを作成"
+
+#: admin/theme-functions.php:6175
+msgid "You've reached the daily Yelp Fusion API limit."
+msgstr "お'veの日Yelpの融合APIを制限します。"
+
+#: admin/theme-functions.php:6176
+msgid "Please visit https://www.yelp.com/developers/v3/manage_app"
+msgstr ""
+
+#: admin/theme-functions.php:6178
+msgid "General 502 Error from Yelp Fusion API"
+msgstr "一般502エラーからYelpの融合API"
+
+#: admin/theme-functions.php:6179 admin/theme-functions.php:6182
+msgid "Please check your server error logs."
+msgstr "を確認してくださいサーバーのエラーログダウンロード"
+
+#: admin/theme-functions.php:6181
+msgid "General 500 Error from Yelp Fusion API"
+msgstr "一般500エラーからYelpの融合API"
+
+#: admin/theme-functions.php:6184
+msgid "General Error from Yelp Fusion API"
+msgstr "一般的なエラーからYelpの融合API"
+
+#: admin/theme-functions.php:6267
+msgid " km"
+msgstr " キロ"
+
+#: admin/theme-functions.php:6269
+msgid " mi"
+msgstr " mi"
+
+#: admin/theme-functions.php:6284
+msgid "reviews"
+msgstr "レビュー"
+
+#: admin/theme-functions.php:6357
+msgid "Unfortunately, your API key is over its quota."
+msgstr "残念ながら、APIキーはその数量に達した場合。"
+
+#: admin/theme-functions.php:6363
+msgid "Unfortunately, there's no results nearby for this listing."
+msgstr "残念ながら、\\'s\"の結果があるこります。"
+
+#: admin/theme-functions.php:6369
+msgid ""
+"Unfortunately, your request was denied, generally because of lack of an "
+"invalid key parameter."
+msgstr "残念なことに、ご要求は拒否されました一般的な理由により、無効な鍵パラメータとします。"
+
+#: admin/theme-functions.php:6375
+msgid ""
+"Unfortunately, your request was invalid, generally due to wrong address "
+"information or lat/long coordinates."
+msgstr "残念なことに、ご要求があったので無効になり、一般的に間違ったアドレス情報は緯度経度座標です。"
+
+#: admin/theme-functions.php:6381
+msgid ""
+"A server-side error happened trying again may be successful, please "
+"shift+refresh the page."
+msgstr "サーバ側でエラーが起きうるものであるに成功してくださいフリフレッシュします。"
+
+#: admin/theme-functions.php:6598
+#, php-format
+msgid "Search Results for: %s"
+msgstr "検索結果：\"%s\""
+
+#: admin/theme-functions.php:6604
+#, php-format
+msgid "Author: %s"
+msgstr "著者:%s\""
+
+#: admin/theme-functions.php:6607
+#, php-format
+msgid "Day: %s"
+msgstr "日:%s\""
+
+#: admin/theme-functions.php:6610
+#, php-format
+msgid "Month: %s"
+msgstr "月:%s\""
+
+#: admin/theme-functions.php:6610
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: admin/theme-functions.php:6613
+#, php-format
+msgid "Year: %s"
+msgstr "期間:%s\""
+
+#: admin/theme-functions.php:6613
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: admin/theme-functions.php:6616
+msgid "Archives"
+msgstr "アーカイブ"
+
+#: admin/theme-functions.php:6691
+msgid "Share This"
+msgstr "この"
+
+#: admin/theme-functions.php:6694 admin/theme-functions.php:6695
+#: admin/theme-functions.php:6696 includes/post-social.php:16
+#: includes/post-social.php:17 includes/post-social.php:18
+msgid "Check out this great article on"
+msgstr "チェックこの記事"
+
+#: admin/theme-functions.php:6735
+msgid "About The Author"
+msgstr "著者について"
+
+#: admin/theme-functions.php:6792
+msgid "Related Posts"
+msgstr "関連載"
+
+#: admin/theme-functions.php:6842
+msgid "<span class=\"meta-nav\">&larr;</span> Older"
+msgstr ""
+
+#: admin/theme-functions.php:6843
+msgid "Newer <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: admin/theme-functions.php:7415
+msgid ""
+"<span class=\"meta-nav\"><i class=\"fa fa-chevron-left\"></i></span> Older "
+"listings"
+msgstr ""
+
+#: admin/theme-functions.php:7416
+msgid ""
+"Newer listings <span class=\"meta-nav\"><i class=\"fa fa-chevron-right\"></i>"
+"</span>"
+msgstr ""
+
+#: admin/theme-functions.php:7438 admin/theme-functions.php:7439
+msgid "%link"
+msgstr "%のリンク"
+
+#: admin/theme-functions.php:7759
+msgid "g:i a"
+msgstr "g：a"
+
+#: admin/theme-functions.php:7762
+#, php-format
+msgid "Minute %1$s"
+msgstr "分%1$s"
+
+#: admin/theme-functions.php:7762
+msgid "i"
+msgstr "i"
+
+#: admin/theme-functions.php:7765
+msgid "g a"
+msgstr "g a"
+
+#: admin/theme-functions.php:7776 admin/theme-functions.php:7782
+#: admin/theme-functions.php:7782 admin/theme-functions.php:7787
+#: admin/theme-functions.php:7787 admin/theme-functions.php:7792
+msgid "Y"
+msgstr "Y"
+
+#: admin/theme-functions.php:7777 admin/theme-functions.php:7788
+msgid "F"
+msgstr "F"
+
+#: admin/theme-functions.php:7778
+msgid "j"
+msgstr "j"
+
+#: admin/theme-functions.php:7783
+#, php-format
+msgid "Week %1$s"
+msgstr "週%1$s"
+
+#: admin/theme-functions.php:7783
+msgid "W"
+msgstr "W"
+
+#: admin/theme-functions.php:7799
+#, php-format
+msgid "Search results for &quot;%1$s&quot;"
+msgstr "検索結果 "
+
+#: admin/theme-functions.php:7803
+msgid "404 Not Found"
+msgstr "404見つかりませんで"
+
+#: includes/advanced-search.php:189 includes/header-advanced-search.php:209
+#: includes/header-advanced-search.php:532
+#: includes/widgets/ct-widget-listingssearch.php:200
+msgid "From"
+msgstr "から"
+
+#: includes/advanced-search.php:198 includes/header-advanced-search.php:218
+#: includes/header-advanced-search.php:541
+#: includes/widgets/ct-widget-listingssearch.php:209
+msgid "To"
+msgstr "へ"
+
+#: includes/advanced-search.php:226 includes/advanced-search.php:227
+#: includes/header-advanced-search.php:283
+#: includes/header-advanced-search.php:284
+#: includes/header-advanced-search.php:605
+#: includes/header-advanced-search.php:606
+#: includes/widgets/ct-widget-listingssearch.php:237
+#: includes/widgets/ct-widget-listingssearch.php:238
+msgid "MLS ID"
+msgstr "MLS ID"
+
+#: includes/advanced-search.php:248 includes/header-advanced-search.php:309
+#: includes/header-advanced-search.php:627
+#: includes/header-advanced-search.php:628
+msgid "Keyword"
+msgstr "キーワード"
+
+#: includes/advanced-search.php:249 includes/header-advanced-search.php:310
+msgid "Street, City, State, Zip or keyword"
+msgstr "通り、都市、州、Zipまたはキーワード"
+
+#: includes/advanced-search.php:265
+#: includes/widgets/ct-widget-listingssearch.php:275
+msgid "More Search Options"
+msgstr "以上の検索オプション"
+
+#: includes/agent-contact-modal.php:21 includes/single-listing-home.php:269
+#: includes/widgets/ct-widget-listingscontact.php:30
+msgid "Tell me more about this property"
+msgstr "について教えてくださいこの物件"
+
+#: includes/featured-listings.php:31 includes/featured-listings.php:33
+msgid "View All"
+msgstr "すべての"
+
+#: includes/header-advanced-search.php:192
+#: includes/header-advanced-search.php:515
+msgid "Price range:"
+msgstr "価格:"
+
+#: includes/header-advanced-search.php:194
+#: includes/header-advanced-search.php:230
+#: includes/header-advanced-search.php:267
+#: includes/header-advanced-search.php:517
+#: includes/header-advanced-search.php:553
+#: includes/header-advanced-search.php:589
+#: includes/widgets/ct-widget-listingbooktour.php:198
+msgid "to"
+msgstr "へ"
+
+#: includes/header-advanced-search.php:228
+#: includes/header-advanced-search.php:551
+msgid "Size range:"
+msgstr "サイズ範囲:"
+
+#: includes/header-advanced-search.php:265
+#: includes/header-advanced-search.php:587
+msgid "Lot size range:"
+msgstr "多くのサイズ範囲:"
+
+#: includes/header-advanced-search.php:312
+#: includes/home-hero-advanced-search.php:22
+msgid "Searching..."
+msgstr "検索..."
+
+#: includes/header-advanced-search.php:352
+msgid "Enter a street address or keyword"
+msgstr "入力通りにアドレスまたはキーワード"
+
+#: includes/header-advanced-search.php:468
+msgid "Addtional Features"
+msgstr "ョンの特徴"
+
+#: includes/home-hero-advanced-search.php:21
+msgid "Enter Street, City, State, Zip or keyword"
+msgstr "に入り、都市、州、Zipまたはキーワード"
+
+#: includes/home-listings-count.php:32
+msgid "Homes For Sale"
+msgstr "住宅販売"
+
+#: includes/home-listings-count.php:84
+msgid "Recently Sold"
+msgstr "最近の販売"
+
+#: includes/home-listings-count.php:110
+msgid "Reduced"
+msgstr "減"
+
+#: includes/home-listings-count.php:136
+msgid "For Rent"
+msgstr "賃貸"
+
+#: includes/home-listings-count.php:162
+msgid "Leased"
+msgstr "リース"
+
+#: includes/home-listings-count.php:214
+msgid "New Additions"
+msgstr "新たに追加"
+
+#: includes/home-listings-count.php:240
+msgid "Special Offers"
+msgstr "特別提供"
+
+#: includes/single-listing-attachments.php:20
+#: includes/single-listing-sub-navigation.php:106
+msgid "Attachments"
+msgstr "添付"
+
+#: includes/single-listing-booking-calendar.php:17
+#: includes/single-listing-home.php:155
+msgid "Book this listing"
+msgstr "この上場"
+
+#: includes/single-listing-contact.php:106
+msgid "Agent #"
+msgstr ""
+
+#: includes/single-listing-contact.php:203 includes/single-listing-home.php:265
+msgid "Request More Information"
+msgstr "資料請求"
+
+#: includes/single-listing-contact.php:216
+#: includes/single-listing-lead-media-with-contact.php:140
+msgid "Tell me more about this listing"
+msgstr "について教えてくださいこの上場"
+
+#: includes/single-listing-contact.php:257 includes/single-listing-home.php:296
+msgid "Co-listing Agent"
+msgstr "Co-上場剤"
+
+#: includes/single-listing-ct-idx-pro-info.php:60
+msgid "Overview"
+msgstr "概要"
+
+#: includes/single-listing-ct-idx-pro-info.php:77
+msgid "Sold Date"
+msgstr "販売日"
+
+#: includes/single-listing-ct-idx-pro-info.php:99
+msgid "Style"
+msgstr "スタイル"
+
+#: includes/single-listing-ct-idx-pro-info.php:110
+msgid "Year Built"
+msgstr "建築年"
+
+#: includes/single-listing-ct-idx-pro-info.php:121
+msgid "Fencing"
+msgstr "フェンシング"
+
+#: includes/single-listing-ct-idx-pro-info.php:132
+msgid "Topography"
+msgstr "地形"
+
+#: includes/single-listing-ct-idx-pro-info.php:143
+msgid "Exterior"
+msgstr "外観"
+
+#: includes/single-listing-ct-idx-pro-info.php:154
+msgid "Parking/Garage"
+msgstr "駐車場/ガレージ"
+
+#: includes/single-listing-ct-idx-pro-info.php:165
+msgid "Parking/Garage Spaces"
+msgstr "駐車場/ガレージ空間"
+
+#: includes/single-listing-ct-idx-pro-info.php:176
+msgid "Heating"
+msgstr "加熱"
+
+#: includes/single-listing-ct-idx-pro-info.php:187
+msgid "Heat Source"
+msgstr "熱源"
+
+#: includes/single-listing-ct-idx-pro-info.php:198
+msgid "Cooling"
+msgstr "冷却"
+
+#: includes/single-listing-ct-idx-pro-info.php:209
+msgid "Water"
+msgstr "水"
+
+#: includes/single-listing-ct-idx-pro-info.php:220
+msgid "Sewer/Septic"
+msgstr "下水道/浄化"
+
+#: includes/single-listing-ct-idx-pro-info.php:235
+#: includes/single-listing-sub-navigation.php:87
+msgid "Features"
+msgstr "特徴"
+
+#: includes/single-listing-ct-idx-pro-info.php:241
+msgid "Equipment"
+msgstr "設備"
+
+#: includes/single-listing-ct-idx-pro-info.php:252
+msgid "Fireplace"
+msgstr "暖炉"
+
+#: includes/single-listing-ct-idx-pro-info.php:263
+msgid "Number of Fireplaces"
+msgstr "数暖炉があります。"
+
+#: includes/single-listing-ct-idx-pro-info.php:274
+msgid "Pool"
+msgstr "プール"
+
+#: includes/single-listing-ct-idx-pro-info.php:296
+msgid "Security"
+msgstr "安全保障"
+
+#: includes/single-listing-ct-idx-pro-info.php:307
+msgid "Floor Coverings"
+msgstr "-床材"
+
+#: includes/single-listing-ct-idx-pro-info.php:321
+#: includes/single-listing-ct-idx-pro-info.php:327
+msgid "HOA"
+msgstr "HOA"
+
+#: includes/single-listing-ct-idx-pro-info.php:338
+msgid "HOA Fee Due"
+msgstr "ホアにより料"
+
+#: includes/single-listing-ct-idx-pro-info.php:349
+msgid "HOA Includes"
+msgstr "ホアを含む"
+
+#: includes/single-listing-energy-efficiency.php:21
+msgid "Energy Efficiency"
+msgstr "エネルギー効率"
+
+#: includes/single-listing-energy-efficiency.php:26
+msgid "Energy Class"
+msgstr "エネルギークラス"
+
+#: includes/single-listing-energy-efficiency.php:29
+msgid "Global Energy Performance"
+msgstr "グローバルなエネルギー性能"
+
+#: includes/single-listing-energy-efficiency.php:32
+msgid "Renewable Energy Performance"
+msgstr "再生可能エネルギー性能"
+
+#: includes/single-listing-energy-efficiency.php:35
+msgid "Building Energy Performance"
+msgstr "ビルのエネルギー性能"
+
+#: includes/single-listing-google-places.php:23
+#: includes/single-listing-yelp.php:23
+#: admin/ReduxFramework/theme-options/re7-config.php:3719
+msgid "What's Nearby?"
+msgstr "えりはないのでしょうか？"
+
+#: includes/single-listing-google-places.php:66
+#: includes/single-listing-yelp.php:41
+msgid "Restaurants"
+msgstr "レストラン"
+
+#: includes/single-listing-google-places.php:75
+#: includes/single-listing-yelp.php:49
+msgid "Coffee Shops"
+msgstr "コーヒーショップ"
+
+#: includes/single-listing-google-places.php:84
+#: includes/single-listing-yelp.php:121
+msgid "Stores"
+msgstr "店舗"
+
+#: includes/single-listing-google-places.php:93
+#: includes/single-listing-yelp.php:65
+msgid "Education"
+msgstr "教育"
+
+#: includes/single-listing-google-places.php:102
+msgid "Banks"
+msgstr "銀行"
+
+#: includes/single-listing-google-places.php:111
+#: includes/single-listing-yelp.php:81
+msgid "Bars"
+msgstr "バー"
+
+#: includes/single-listing-google-places.php:120
+#: includes/single-listing-yelp.php:89
+msgid "Hospitals"
+msgstr "病院"
+
+#: includes/single-listing-google-places.php:129
+#: includes/single-listing-yelp.php:97
+msgid "Gas Stations"
+msgstr "ガソリンス"
+
+#: includes/single-listing-google-places.php:138
+#: includes/single-listing-yelp.php:105
+msgid "Transit Stations"
+msgstr "交通局"
+
+#: includes/single-listing-google-places.php:147
+#: includes/single-listing-yelp.php:113
+msgid "Convenience Stores"
+msgstr "コンビニ"
+
+#: includes/single-listing-google-places.php:156
+#: includes/single-listing-yelp.php:129
+msgid "Shopping Malls"
+msgstr "ショッピングモール"
+
+#: includes/single-listing-google-places.php:165
+#: includes/single-listing-yelp.php:137
+msgid "Veterinary Care"
+msgstr "獣医療の"
+
+#: includes/single-listing-google-places.php:174
+#: includes/single-listing-yelp.php:145
+msgid "Pet Store"
+msgstr "ペット店"
+
+#: includes/single-listing-google-places.php:183
+#: includes/single-listing-yelp.php:153
+msgid "Park"
+msgstr "パーク"
+
+#: includes/single-listing-google-places.php:196
+msgid "Google Places/What's Nearby? Error."
+msgstr "Google所かりはないのでしょうか？ エラーになります。"
+
+#: includes/single-listing-google-places.php:197
+msgid ""
+"You need to create an API key go into Admin > Real Estate 7 Options > Google "
+"Maps > API Key, then setup the options via Real Estate 7 Options > \"What's "
+"Nearby?\" panel."
+msgstr ""
+"を作成する必要がありますのAPIキーの入管理>不動産7オプション>Googleマップ>APIキーを設定、ストックオプション（不動産7オプション>"
+"\"What'sはないのでしょうか？\"パネルです。"
+
+#: includes/single-listing-header.php:33 includes/single-listing-header.php:76
+#: includes/single-listing-home.php:74
+msgid "Co-listing"
+msgstr "共に上場"
+
+#: includes/single-listing-home.php:135
+#: includes/single-listing-rental-info.php:47
+msgid "Prices"
+msgstr "価格"
+
+#: includes/single-listing-home.php:365
+msgid "Share This Listing"
+msgstr "この上場"
+
+#: includes/single-listing-lead-media-with-contact.php:166
+msgid "Request Information"
+msgstr "リクエスト情報"
+
+#: includes/single-listing-map.php:27
+msgid "Enter your starting address"
+msgstr "入力開始アドレス"
+
+#: includes/single-listing-map.php:43
+msgid "get directions"
+msgstr "取得方向"
+
+#: includes/single-listing-multi-floorplan.php:21
+msgid "Floor Plans & Pricing"
+msgstr "階計画 "
+
+#: includes/single-listing-multi-floorplan.php:40
+msgid "Size"
+msgstr "サイズ"
+
+#: includes/single-listing-multi-floorplan.php:46
+msgid "Availability"
+msgstr "可用性"
+
+#: includes/single-listing-open-house.php:35
+msgid "Time"
+msgstr "時間"
+
+#: includes/single-listing-open-house.php:38
+#: includes/single-listing-open-house.php:80
+msgid "RSVP"
+msgstr "RSVP"
+
+#: includes/single-listing-propinfo.php:18
+msgid "MLS #"
+msgstr ""
+
+#: includes/single-listing-propinfo.php:20
+msgid "Property ID #"
+msgstr ""
+
+#: includes/single-listing-rental-info.php:25
+msgid "Rental Information"
+msgstr "賃貸情報"
+
+#: includes/single-listing-sub-listings.php:21
+msgid "Other Listings in Neighborhood"
+msgstr "その他の物件町"
+
+#: includes/single-listing-sub-listings.php:23
+msgid "Other Listings in Suburb"
+msgstr "その他の物件で郊外"
+
+#: includes/single-listing-sub-listings.php:25
+msgid "Other Listings in District"
+msgstr "その他の物件地区"
+
+#: includes/single-listing-sub-listings.php:27
+msgid "Other Listings in School District"
+msgstr "その他の物件の中学校区"
+
+#: includes/single-listing-sub-listings.php:29
+msgid "Other Listings in Building"
+msgstr "その他の物件でビル"
+
+#: includes/single-listing-sub-listings.php:31
+msgid "Other Listings in Borough"
+msgstr "その他の物件で分類区分"
+
+#: includes/single-listing-sub-listings.php:33
+msgid "Other Listings in Community"
+msgstr "その他の物件地域"
+
+#: includes/single-listing-sub-navigation.php:34
+msgid "Description"
+msgstr "説明"
+
+#: includes/single-listing-sub-navigation.php:61
+msgid "Floor Plans"
+msgstr "階計画"
+
+#: includes/single-listing-sub-navigation.php:96
+msgid "Booking"
+msgstr "ご予約"
+
+#: includes/single-listing-sub-navigation.php:117
+#: includes/single-listing-video.php:16
+msgid "Video"
+msgstr "ビデオ"
+
+#: includes/single-listing-sub-navigation.php:127
+msgid "Tour"
+msgstr "ツアー"
+
+#: includes/single-listing-sub-navigation.php:142
+msgid "Nearby"
+msgstr "近"
+
+#: includes/single-listing-sub-navigation.php:163
+msgid "Listing Features"
+msgstr "上場の特徴"
+
+#: includes/single-listing-virtual-tour.php:19
+msgid "Virtual Tour"
+msgstr "バーチャルツアー"
+
+#: includes/single-listing-yelp.php:22
+msgid "powered by "
+msgstr "powered by "
+
+#: includes/single-listing-yelp.php:57
+msgid "Grocery"
+msgstr "雑貨"
+
+#: includes/single-listing-yelp.php:73
+msgid "Bank"
+msgstr "銀行"
+
+#: layouts/blog-grid.php:96 layouts/blog-large.php:96
+msgid "Read More"
+msgstr "もっと読む"
+
+#: layouts/grid.php:22 layouts/list.php:23
+msgid "This agent currently has no active listings."
+msgstr "このエージェントが現在アクティブなします。"
+
+#: layouts/grid.php:24 layouts/list.php:25
+msgid "This brokerage currently has no active listings."
+msgstr "この仲介、現在は活躍します。"
+
+#: layouts/grid.php:26 layouts/list.php:27
+msgid "No properties were found which match your search criteria"
+msgstr "物件はありませんでしたマットな検索条件"
+
+#: layouts/saved-search-list.php:57 includes/widgets/ct-widget-tabs.php:214
+msgid "on"
+msgstr "月"
+
+#: layouts/saved-search-list.php:57
+msgid "On"
+msgstr "月"
+
+#: layouts/saved-search-list.php:58
+msgid "off"
+msgstr "off"
+
+#: layouts/saved-search-list.php:58
+msgid "Off"
+msgstr "Off"
+
+#: admin/ct-social/ct-social.php:28
+msgid "CT Social"
+msgstr "CT社会"
+
+#: admin/ct-social/ct-social.php:125
+#: includes/widgets/ct-widget-agentinfo.php:106
+#: includes/widgets/ct-widget-agentsotherlistings.php:287
+#: includes/widgets/ct-widget-blogauthor.php:60
+#: includes/widgets/ct-widget-brokerinfo.php:78
+#: includes/widgets/ct-widget-contactinfo.php:140
+#: includes/widgets/ct-widget-latestposts.php:70
+#: includes/widgets/ct-widget-listings.php:130
+#: includes/widgets/ct-widget-listingscontact.php:68
+#: includes/widgets/ct-widget-listingssearch.php:299
+#: includes/widgets/ct-widget-search.php:40
+#: includes/widgets/ct-widget-testimonials.php:62
+msgid "Title:"
+msgstr "タイトル:"
+
+#: admin/ct-social/ct-social.php:129
+msgid "Dribbble:"
+msgstr "Dribbble:"
+
+#: admin/ct-social/ct-social.php:133
+#: includes/widgets/ct-widget-contactinfo.php:176
+msgid "Email:"
+msgstr "メール:"
+
+#: admin/ct-social/ct-social.php:137
+#: includes/widgets/ct-widget-contactinfo.php:180
+msgid "Facebook:"
+msgstr "Facebook:"
+
+#: admin/ct-social/ct-social.php:141
+msgid "Flickr:"
+msgstr "Flickr:"
+
+#: admin/ct-social/ct-social.php:145
+msgid "Foursquare:"
+msgstr "Foursquare:"
+
+#: admin/ct-social/ct-social.php:149
+msgid "GitHub:"
+msgstr "GitHub:"
+
+#: admin/ct-social/ct-social.php:153
+#: includes/widgets/ct-widget-contactinfo.php:196
+msgid "Instagram:"
+msgstr "Instagram:"
+
+#: admin/ct-social/ct-social.php:157
+#: includes/widgets/ct-widget-contactinfo.php:188
+msgid "LinkedIn:"
+msgstr "LinkedIn:"
+
+#: admin/ct-social/ct-social.php:161
+msgid "Medium:"
+msgstr "中:"
+
+#: admin/ct-social/ct-social.php:165
+#: includes/widgets/ct-widget-contactinfo.php:192
+msgid "Pinterest:"
+msgstr "Pinterest(ピンタレスト)\":"
+
+#: admin/ct-social/ct-social.php:169
+msgid "Skype:"
+msgstr "Skype:"
+
+#: admin/ct-social/ct-social.php:173
+#: includes/widgets/ct-widget-contactinfo.php:184
+msgid "Twitter:"
+msgstr "Twitter:"
+
+#: admin/ct-social/ct-social.php:177
+msgid "YouTube:"
+msgstr "YouTube:"
+
+#: admin/ct-social/ct-social.php:181
+msgid "Links:"
+msgstr "リンク:"
+
+#: admin/getting-started/getting-started.php:91
+#, php-format
+msgid "Getting started with %1$s v%2$s"
+msgstr "にもかかわらず%1$s v%2$s"
+
+#: admin/getting-started/getting-started.php:93
+#, php-format
+msgid ""
+"Thanks for purchasing %1$s! I truly appreciate the support and the "
+"opportunity to share my work with you. Please visit the tabs below to get "
+"started setting up your theme!"
+msgstr ""
+"さ購買%1$s! いいただき、ありがとうございを支援と共有する機会を設けの仕事です。 ご覧くださいタブによって下記を始めるための設定にプレゼンテーション!"
+
+#: admin/getting-started/getting-started.php:99
+msgid "Start Here"
+msgstr "ここから始"
+
+#: admin/getting-started/getting-started.php:100
+msgid "Plugins"
+msgstr "プラグイン"
+
+#: admin/getting-started/getting-started.php:101
+msgid "FAQ &amp; Support"
+msgstr "FAQ "
+
+#: admin/getting-started/getting-started.php:102
+msgid "Latest Updates"
+msgstr "ネットワーク写真コンテスト"
+
+#: admin/getting-started/getting-started.php:110
+#, php-format
+msgid "Installing %s"
+msgstr "イ%s"
+
+#: admin/getting-started/getting-started.php:116
+#: admin/ReduxFramework/theme-options/re7-config.php:5260
+msgid "Documentation"
+msgstr "文書"
+
+#: admin/getting-started/getting-started.php:170
+msgid "Required & Recommended Plugins"
+msgstr "必要 "
+
+#: admin/getting-started/getting-started.php:172
+msgid ""
+"Below is a list of required and recommended plugins to install that will "
+"help you get the most out of WP Pro Real Estate 7. To begin please use the "
+"button below or browse through the list to learn about each one in a little "
+"more detail."
+msgstr ""
+"は、次のようなものがあります必要かおすすめのプラグインをインストールできますのWP Pro不動産7. "
+"開始使いくださいですが以下のボタンまたは閲覧のリストを知れちょっとがあります。"
+
+#: admin/getting-started/getting-started.php:178
+#: admin/getting-started/getting-started.php:190
+#: admin/plugins/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr "必要"
+
+#: admin/getting-started/getting-started.php:178 admin/plugins/register.php:66
+msgid "Redux Framework"
+msgstr "Reduxの枠組み"
+
+#: admin/getting-started/getting-started.php:180
+msgid "Install Redux Framework"
+msgstr "イReduxの枠組み"
+
+#: admin/getting-started/getting-started.php:180
+#: admin/getting-started/getting-started.php:192
+#: admin/getting-started/getting-started.php:204
+#: admin/getting-started/getting-started.php:216
+#: admin/getting-started/getting-started.php:228
+#: admin/getting-started/getting-started.php:240
+#: admin/getting-started/getting-started.php:252
+#: admin/getting-started/getting-started.php:264
+#: admin/getting-started/getting-started.php:276
+#: admin/getting-started/getting-started.php:288
+#: admin/getting-started/getting-started.php:300
+#: admin/getting-started/getting-started.php:315
+#: admin/getting-started/getting-started.php:327
+#: admin/getting-started/getting-started.php:339
+#: admin/getting-started/getting-started.php:351
+#: admin/getting-started/getting-started.php:363
+#: admin/getting-started/getting-started.php:375
+#: admin/getting-started/getting-started.php:387
+msgid "Install Now"
+msgstr "今すぐインストール"
+
+#: admin/getting-started/getting-started.php:182
+#: admin/getting-started/getting-started.php:194
+#: admin/getting-started/getting-started.php:206
+#: admin/getting-started/getting-started.php:218
+#: admin/getting-started/getting-started.php:230
+#: admin/getting-started/getting-started.php:242
+#: admin/getting-started/getting-started.php:254
+#: admin/getting-started/getting-started.php:266
+#: admin/getting-started/getting-started.php:278
+#: admin/getting-started/getting-started.php:290
+#: admin/getting-started/getting-started.php:302
+#: admin/getting-started/getting-started.php:317
+#: admin/getting-started/getting-started.php:329
+#: admin/getting-started/getting-started.php:341
+#: admin/getting-started/getting-started.php:353
+#: admin/getting-started/getting-started.php:365
+#: admin/getting-started/getting-started.php:377
+#: admin/getting-started/getting-started.php:389
+msgid "Installed"
+msgstr "を設置"
+
+#: admin/getting-started/getting-started.php:186
+msgid "This plugin is used for the admin options framework."
+msgstr "このプラグインが使用されるものは管理のオプションの枠組み"
+
+#: admin/getting-started/getting-started.php:190 admin/plugins/register.php:72
+msgid "Contempo Real Estate Custom Posts"
+msgstr "コンテンポ不動産カスタム投稿"
+
+#: admin/getting-started/getting-started.php:192
+msgid "Install Contempo Real Estate Custom Posts"
+msgstr "イコンテンポ不動産カスタム投稿"
+
+#: admin/getting-started/getting-started.php:198
+msgid ""
+"This plugin registers the listings, brokerages & testimonials custom post "
+"types, along with related custom fields & taxonomies, as well as all the "
+"custom Visual Composer modules (if you have the Visual Composer plugin "
+"installed & activated)."
+msgstr "このプラグインの登録は、オンライン証券 "
+
+#: admin/getting-started/getting-started.php:202
+#: admin/getting-started/getting-started.php:214
+#: admin/getting-started/getting-started.php:226
+#: admin/getting-started/getting-started.php:238
+#: admin/getting-started/getting-started.php:250
+#: admin/getting-started/getting-started.php:262
+#: admin/getting-started/getting-started.php:274
+#: admin/getting-started/getting-started.php:286
+#: admin/getting-started/getting-started.php:298
+#: admin/getting-started/getting-started.php:313
+#: admin/getting-started/getting-started.php:325
+#: admin/getting-started/getting-started.php:337
+#: admin/getting-started/getting-started.php:349
+#: admin/getting-started/getting-started.php:361
+#: admin/getting-started/getting-started.php:373
+#: admin/getting-started/getting-started.php:385
+#: admin/plugins/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr "おすすめ"
+
+#: admin/getting-started/getting-started.php:202 admin/plugins/register.php:132
+msgid "Contempo Membership & Packages"
+msgstr "コンテンポ会員 "
+
+#: admin/getting-started/getting-started.php:204
+msgid "Install Contempo Membership & Packages"
+msgstr "イコンテンポ会員 "
+
+#: admin/getting-started/getting-started.php:210
+msgid ""
+"This plugin adds the ability to create membership & packages for use with "
+"the front end submission system in WP Pro Real Estate 7, with Stripe, PayPal "
+"& Wire Transfer payment methods."
+msgstr "このプラグインを追加する機能を作成員 "
+
+#: admin/getting-started/getting-started.php:214 admin/plugins/register.php:176
+msgid "Contempo Saved Searches & Email Alerts"
+msgstr "コンテンポを保存検索 "
+
+#: admin/getting-started/getting-started.php:216
+msgid "Install Contempo Saved Searches & Email Alerts"
+msgstr "イコンテンポを保存検索 "
+
+#: admin/getting-started/getting-started.php:222
+msgid "This plugin allows users be alerted via email when a listing is added."
+msgstr "このプラグイン可能なユーザーに警告されるメールが上が追加されます。"
+
+#: admin/getting-started/getting-started.php:226 admin/plugins/register.php:165
+msgid "Contempo Compare Listings"
+msgstr "コンテンポを比較一覧"
+
+#: admin/getting-started/getting-started.php:228
+#: admin/getting-started/getting-started.php:252
+msgid "Install Contempo Compare Listings"
+msgstr "イコンテンポを比較一覧"
+
+#: admin/getting-started/getting-started.php:234
+msgid "This plugin adds compare functionality for listings."
+msgstr "キーワードを含むチケットの比較機能します。"
+
+#: admin/getting-started/getting-started.php:238 admin/plugins/register.php:154
+msgid "Contempo Mortgage Calculator Widget"
+msgstr "コンテンポ住宅ローンのウィジェット電卓"
+
+#: admin/getting-started/getting-started.php:240
+msgid "Install Contempo Mortgage Calculator Widget"
+msgstr "イコンテンポ住宅ローンのウィジェット電卓"
+
+#: admin/getting-started/getting-started.php:246
+msgid "This plugin enables a simple mortgage calculator widget."
+msgstr "このプラグインを簡単に住宅ローンの計算機パーツをプレゼント！"
+
+#: admin/getting-started/getting-started.php:250 admin/plugins/register.php:187
+msgid "Contempo Child Theme Generator"
+msgstr "コンテンポ、テーマを発生装置"
+
+#: admin/getting-started/getting-started.php:258
+msgid ""
+"This plugin allows admin users to easily generate a child theme from your "
+"Admin > Appearance panel."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "このプラグイン可能な管理者のユーザーが簡単に生成し、テーマから管理>外観パネルです。"
+msgstr[1] ""
+
+#: admin/getting-started/getting-started.php:262
+msgid "Contempo Payment Gateways"
+msgstr "コンテンポ決済ゲートウェイ"
+
+#: admin/getting-started/getting-started.php:264
+msgid "Install Contempo Payment Gateways"
+msgstr "イコンテンポ決済ゲートウェイ"
+
+#: admin/getting-started/getting-started.php:270
+msgid ""
+"This plugin enables the PayPal API and only required if you're going to be "
+"charging single listing payments from the front end of the site, if you're "
+"using the Membership & Packages plugin leave this plugin deactivated."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "このプラグイン可能にPayPal APIだけが必要だりする充電単独上場支払い前から終了にまりの会員 "
+msgstr[1] ""
+
+#: admin/getting-started/getting-started.php:274 admin/plugins/register.php:198
+msgid "Slider Revolution"
+msgstr "スライダー革命"
+
+#: admin/getting-started/getting-started.php:276
+msgid "Install Slider Revolution"
+msgstr "設置スライダー革命"
+
+#: admin/getting-started/getting-started.php:282
+msgid ""
+"Slider Revolution is an innovative, responsive WordPress Slider Plugin that "
+"displays your content the beautiful way."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] "スライダー革命、新たな対応WordPressのスライダープラグインを表示するコンテンツにしてみましょう。"
+msgstr[1] ""
+
+#: admin/getting-started/getting-started.php:286
+msgid "Visual Composer"
+msgstr "映像作曲家"
+
+#: admin/getting-started/getting-started.php:288
+msgid "Install Visual Composer"
+msgstr "ト映像作曲家"
+
+#: admin/getting-started/getting-started.php:294
+msgid ""
+"WordPress Page Builder plugin with intuitive drag and drop interface. Build "
+"any page fast and easy. Unlimited layouts for your website."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+"WordPressのページビルダープラグインと直感的なドロップインターフェース。 構築のページに速います。 無限のレイアウトのためにご用意しております。"
+msgstr[1] ""
+
+#: admin/getting-started/getting-started.php:298
+msgid "WPML"
+msgstr "WPML"
+
+#: admin/getting-started/getting-started.php:300
+msgid "Install WPML"
+msgstr "イWPML"
+
+#: admin/getting-started/getting-started.php:308
+#, php-format
+msgid ""
+"<a href=\"%s\" target=\"_blank\">WPML</a> allows running fully multilingual "
+"websites with WordPress, making it easy to translate WordPress pages, posts, "
+"tags, categories and themes."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/getting-started/getting-started.php:313
+#: admin/getting-started/getting-started.php:337 admin/plugins/register.php:86
+msgid "WordPress Social Login"
+msgstr "WordPressのソログイン"
+
+#: admin/getting-started/getting-started.php:315
+#: admin/getting-started/getting-started.php:327
+msgid "Install WP Favorite Posts"
+msgstr "イWP好きなポ"
+
+#: admin/getting-started/getting-started.php:321
+msgid ""
+"This plugin allows users to login/register with their social profiles like "
+"Facebook, Google, Twitter, etc&hellip;"
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "このプラグイン可能なユーザーがログイン/登録とその社会的プロファイルのようにFacebook、Google、Twitterなど"
+msgstr[1] ""
+
+#: admin/getting-started/getting-started.php:325 admin/plugins/register.php:121
+#: admin/ReduxFramework/theme-options/re7-config.php:4827
+msgid "WP Favorite Posts"
+msgstr "WP好きなポ"
+
+#: admin/getting-started/getting-started.php:333
+msgid ""
+"This plugin allows users to favorite & save listings from the front end of "
+"the site."
+msgstr "このプラグイン可能なユーザーが好み "
+
+#: admin/getting-started/getting-started.php:339
+msgid "Install WordPress Social Login"
+msgid_plural "Begin installing plugins"
+msgstr[0] "WordPressをインストールソログイン"
+msgstr[1] ""
+
+#: admin/getting-started/getting-started.php:345
+msgid ""
+"This plugin allows users to login/register for your site via social networks "
+"like Facebook, Google, Twitter, etc&hellip;"
+msgstr "このプラグイン可能なユーザーがログイン/会員登録サイト、ソーシャルネットワークのようにFacebook、Google、Twitterなど"
+
+#: admin/getting-started/getting-started.php:349 admin/plugins/register.php:92
+msgid "Booking Calendar"
+msgstr "予約カレンダー"
+
+#: admin/getting-started/getting-started.php:351
+msgid "Install Booking Calendar"
+msgid_plural "Begin updating plugins"
+msgstr[0] "トのご予約カレンダー"
+msgstr[1] ""
+
+#: admin/getting-started/getting-started.php:357
+msgid ""
+"This plugin will enable online booking services, however you're free to use "
+"whatever booking plugin you'd like as long as it supports shortcodes."
+msgstr ""
+"このプラグインをオンライン予約サービスしており自由に使うプラグインのご予約で、滞りなどの長能もサポートしていることから、shortcodes."
+
+#: admin/getting-started/getting-started.php:361 admin/plugins/register.php:98
+msgid "Co-Authors Plus"
+msgstr "共著者のプラス"
+
+#: admin/getting-started/getting-started.php:363
+msgid "Install Co-Authors Plus"
+msgid_plural "Begin activating plugins"
+msgstr[0] "イ共著プラス"
+msgstr[1] ""
+
+#: admin/getting-started/getting-started.php:369
+msgid ""
+"This plugin allows you to assign multiple users or agents to listings, "
+"perfect for co-listings."
+msgstr "このプラグインできる複数のユーザーまたは代理店一覧、ぴったりの共承ります。"
+
+#: admin/getting-started/getting-started.php:373 admin/plugins/register.php:104
+msgid "Comments Ratings"
+msgstr "コメントの格付"
+
+#: admin/getting-started/getting-started.php:375
+msgid "Install Comments Ratings"
+msgstr "トのコメントの格付"
+
+#: admin/getting-started/getting-started.php:381
+msgid "This plugin allows you to enable ratings for your listings."
+msgstr "このプラグインできる格付のご承ります。"
+
+#: admin/getting-started/getting-started.php:385 admin/plugins/register.php:220
+msgid "Envato Market"
+msgstr "Envato市場"
+
+#: admin/getting-started/getting-started.php:387
+msgid "Install Envato Market"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "イEnvato市場"
+msgstr[1] ""
+
+#: admin/getting-started/getting-started.php:393
+msgid ""
+"This plugin allows you to easily get theme updates through your WordPress "
+"admin."
+msgstr "このプラグインで簡単にテーマの更新を通じておWordPress admin."
+
+#: admin/getting-started/getting-started.php:402
+#, php-format
+msgid "Support for %s?"
+msgstr "支援%s?"
+
+#: admin/getting-started/getting-started.php:408
+#, php-format
+msgid ""
+"If you've read through the <a href=\"%1$s\" target=\"_blank\">"
+"documentation</a> and still have questions or are experiencing issues, I'm "
+"happy to help! Simply <a href=\"%2$s\"  target=\"_blank\" title=\"Open a "
+"live chat\">open a live chat</a> or <a href=\"%3$s\" target=\"_blank\">leave "
+"a comment</a> on the item page and I'll personally get back to you, thanks "
+"in advance for your patience."
+msgstr ""
+
+#: admin/getting-started/getting-started.php:411
+#, php-format
+msgid "FAQ for %s?"
+msgstr "FAQのための%s?"
+
+#: admin/getting-started/getting-started.php:414
+msgid ""
+"The following articles below cover many frequently asked questions that you "
+"may have."
+msgstr "以下の事項を以下のカバーが多くあるご質問が現実のものとなる可能性がある."
+
+#: admin/getting-started/getting-started.php:460
+msgid "Need Modifications or Customizations?"
+msgstr "必要な変更もしくはカスタマイズ?"
+
+#: admin/getting-started/getting-started.php:465
+#, php-format
+msgid ""
+"Send me an email <a href=\"mailto:%s\">chris@contempothemes.com</a>, with a "
+"detailed outline of what you’d like to accomplish and I’ll get you a quote "
+"and turnaround time."
+msgstr ""
+
+#: admin/getting-started/getting-started.php:474
+#, php-format
+msgid ""
+"Please note that support requests will not be answered via email, only "
+"through my <a href=\"%1$s\" target=\"_blank\">live chat</a> or within the <a "
+"href=\"%2$s\" target=\"_blank\">item comments</a>."
+msgstr ""
+
+#: admin/getting-started/getting-started.php:484
+msgid "Hosting Recommendations"
+msgstr "開催言"
+
+#: admin/getting-started/getting-started.php:498
+#: admin/getting-started/getting-started.php:501
+msgid "Visit the Knowledge Base"
+msgstr "の知識ベース"
+
+#: admin/getting-started/getting-started.php:499
+msgid ""
+"New to the WordPress world? The Knowledge Base has a boat load of articles "
+"to help you with any issues that might arise."
+msgstr "新しいWordPressのでしょうか。 知識ベースボート負荷の記事のお手伝いをさせていただいており問題が生じる."
+
+#: admin/getting-started/getting-started.php:501
+msgid "Visit the knowledge base"
+msgstr "の知識ベース"
+
+#: admin/google-places/GooglePlaces.php:149
+#: admin/google-places/GooglePlaces.php:165
+#: admin/google-places/GooglePlaces.php:182
+msgid "Google Places API is currently unavailable."
+msgstr "Google所APIでは現在、使用できません。"
+
+#: admin/google-places/GooglePlaces.php:151
+msgid ""
+"You must specify a valid listing location, use street address in the listing "
+"title along with city, state & zip/postcode — if not use the optional "
+"latitude & longitude field."
+msgstr "指定する必要がありますが有効な場所、住んでいる町名-番地の上場のタイトルにおいて、 "
+
+#: admin/google-places/GooglePlaces.php:167
+#: admin/google-places/GooglePlaces.php:207
+msgid ""
+"You much specify at least one of the following: \"keyword\", \"name\", "
+"\"types\"."
+msgstr "ご指定は少なくとも一つのキーワード\"、\"氏名\"、\"種類\"."
+
+#: admin/google-places/GooglePlaces.php:184
+#: admin/google-places/GooglePlaces.php:201
+msgid "You must specify a radius."
+msgstr "を指定しなければなりません。"
+
+#: admin/google-places/GooglePlaces.php:197
+msgid "You must specify a location before calling radarsearch()."
+msgstr "を指定しなければなりません場所を呼び出す前に、radarsearch()."
+
+#: admin/google-places/GooglePlaces.php:221
+msgid ""
+"You must specify either a \"placeid\" or a \"reference\" (but not both) "
+"before calling details()."
+msgstr "を指定する必要があります。は\"placeid\"または\"参照\"なものの両方)の呼び出しの前に詳細()."
+
+#: admin/plugins/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr "設置に必要なプラグイン"
+
+#: admin/plugins/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr "トのプラグイン"
+
+#. %s: plugin name.
+#: admin/plugins/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "プラグインの設置:%s\""
+
+#. %s: plugin name.
+#: admin/plugins/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr "更新のプラグイン:%s\""
+
+#: admin/plugins/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr "もっとプラグインのAPIに含まれています。"
+
+#: admin/plugins/class-tgm-plugin-activation.php:341
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgstr "このテーマは当ウェブサイトでは、pdfを使用:%1$sです。"
+
+#: admin/plugins/class-tgm-plugin-activation.php:347
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgstr "このテーマを推奨して以下のプラグイン:%1$sです。"
+
+#: admin/plugins/class-tgm-plugin-activation.php:353
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr "以下のプラグインが更新される必要があるときに、その最新バージョンの確保に最大限の互換性このテーマ:%1$sです。"
+
+#: admin/plugins/class-tgm-plugin-activation.php:359
+#, php-format
+msgid "There is an update available for: %1$s."
+msgstr "が更新可能:%1$sです。"
+
+#: admin/plugins/class-tgm-plugin-activation.php:365
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgstr "以下の必要なプラグインは現在休止:%1$sです。"
+
+#: admin/plugins/class-tgm-plugin-activation.php:371
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgstr "以下のおすすめプラグインは現在休止:%1$sです。"
+
+#: admin/plugins/class-tgm-plugin-activation.php:377
+msgid "Begin installing plugin"
+msgstr "インストールプラグイン"
+
+#: admin/plugins/class-tgm-plugin-activation.php:382
+msgid "Begin updating plugin"
+msgstr "始まりプラグイン更新"
+
+#: admin/plugins/class-tgm-plugin-activation.php:387
+msgid "Begin activating plugin"
+msgstr "始まり活性化プラグイン"
+
+#: admin/plugins/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr "戻り必要なプラグインインストーラー"
+
+#: admin/plugins/class-tgm-plugin-activation.php:393
+#: admin/plugins/class-tgm-plugin-activation.php:912
+#: admin/plugins/class-tgm-plugin-activation.php:2618
+#: admin/plugins/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr "のダッシュボード"
+
+#: admin/plugins/class-tgm-plugin-activation.php:394
+#: admin/plugins/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr "プラグイン起動が成功しました。"
+
+#: admin/plugins/class-tgm-plugin-activation.php:395
+#: admin/plugins/class-tgm-plugin-activation.php:3037
+msgid "The following plugin was activated successfully:"
+msgstr "以下のプラグインが成功:"
+
+#. 1: plugin name.
+#: admin/plugins/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "ョンです。 イ%1$s既に活躍しました。"
+
+#. 1: plugin name.
+#: admin/plugins/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr "プラグインは動作します。 バージョンの%s\"はこのテーマです。 アップデートをしてください。"
+
+#. 1: dashboard link.
+#: admin/plugins/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "すべてのプラグイン設置され、活性が成功しました。 %1$s"
+
+#: admin/plugins/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr "ある一つ以上の要求またはおすすめのプラグインをインストール、アップデータが作動します。"
+
+#: admin/plugins/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr "ご連絡は管理者がこのサイトです。"
+
+#: admin/plugins/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "このプラグインの更新が必要ださい。"
+
+#: admin/plugins/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr "更新"
+
+#: admin/plugins/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr "リモプラグインのパッケージを含まないフォルダーの、ご希望のスラグ及び名称変更しなかった。"
+
+#: admin/plugins/class-tgm-plugin-activation.php:1019
+#: admin/plugins/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr "下のプラグインのプロバイダとあわせてパッケージをプラグインによると、WordPressのガイドライン"
+
+#: admin/plugins/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr "リモプラグインのパッケージによりファイルが、ファイルをパッケージには、フォルダにまとめた。"
+
+#: admin/plugins/class-tgm-plugin-activation.php:1206
+#: admin/plugins/class-tgm-plugin-activation.php:3033
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "や"
+
+#. %s: version number
+#: admin/plugins/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s\""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr "WordPressリポジトリ"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr "外部ソース"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr "前のパッケージ"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr "置していない"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr "設置が活性化されません"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr "活動"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr "必要な更新不可"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr "更新が必要で"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr "更新おすすめ"
+
+#. 1: install status, 2: update status
+#: admin/plugins/class-tgm-plugin-activation.php:2427
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s%2$s"
+
+#. 1: number of plugins.
+#: admin/plugins/class-tgm-plugin-activation.php:2473
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#. 1: number of plugins.
+#: admin/plugins/class-tgm-plugin-activation.php:2477
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#. 1: number of plugins.
+#: admin/plugins/class-tgm-plugin-activation.php:2481
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#. 1: number of plugins.
+#: admin/plugins/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2567
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "不明"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr "インストールバージョン:"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr "必要最低限のバージョン:"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr "ご利用バージョン:"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr "ないプラグインをインストール、アップデータが作動します。"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr "プラグイン"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr "源"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr "版"
+
+#. %2$s: plugin name in screen reader markup
+#: admin/plugins/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr "イ%2$s"
+
+#. %2$s: plugin name in screen reader markup
+#: admin/plugins/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr "更新%2$s"
+
+#. %2$s: plugin name in screen reader markup
+#: admin/plugins/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr "活%2$s"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr "アップからのメッセージプラグインの著者:"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr "設置"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr "活性化"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "ないプラグインの選定を設置することができます。 ョンです。"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "ないプラグインされることとなります。 ョンです。"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr "などのプラグインを利用することができます。"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr "ないプラグインが使用可能となっているが更新されます。"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "ないプラグイン採用が活性化されることになります。 ョンです。"
+
+#: admin/plugins/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr "なライブラリ用gstreamerプラグインが利用可能です。"
+
+#: admin/plugins/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr "プラグインの活性化に失敗しました。"
+
+#. 1: plugin name, 2: action number 3: total number of actions.
+#: admin/plugins/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "更新のプラグイ%1$s%2$d/%3$d)"
+
+#. 1: plugin name, 2: error message.
+#: admin/plugins/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. 1: plugin name.
+#: admin/plugins/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "のイ%1$s失敗しました。"
+
+#: admin/plugins/class-tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr "の設置-活性化過程が不安定になることがあります。 このプロセスばらく時間がかかる場合があり一部のホストで、しばらくお待ちください。"
+
+#. 1: plugin name.
+#: admin/plugins/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s設置され、活性が成功しました。"
+
+#: admin/plugins/class-tgm-plugin-activation.php:3594
+#: admin/plugins/class-tgm-plugin-activation.php:3602
+msgid "Show Details"
+msgstr "詳細表示"
+
+#: admin/plugins/class-tgm-plugin-activation.php:3594
+#: admin/plugins/class-tgm-plugin-activation.php:3602
+msgid "Hide Details"
+msgstr "詳細を隠す"
+
+#: admin/plugins/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr "すべての施設及び賦活は完了しています。"
+
+#. 1: plugin name, 2: action number 3: total number of actions.
+#: admin/plugins/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "インストール活性化イ%1$s%2$d/%3$d)"
+
+#: admin/plugins/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr "このインストールプロセスが不安定になることがあります。 このプロセスばらく時間がかかる場合があり一部のホストで、しばらくお待ちください。"
+
+#. 1: plugin name.
+#: admin/plugins/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s設置しました。"
+
+#: admin/plugins/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr "すべての設備が完了しました。"
+
+#. 1: plugin name, 2: action number 3: total number of actions.
+#: admin/plugins/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "イイ%1$s%2$d/%3$d)"
+
+#: admin/plugins/register.php:80
+msgid "Elementor Page Builder"
+msgstr "Elementorページビルダー"
+
+#: admin/plugins/register.php:110
+msgid "Contempo Listing Analytics"
+msgstr "コンテンポ場分析"
+
+#: admin/plugins/register.php:143
+msgid "Contempo Real Estate 7 Payment Gateways"
+msgstr "コンテンポ不動産7支払いゲートウェイ"
+
+#: admin/plugins/register.php:209
+msgid "WPBakery Page Builder"
+msgstr "WPBakeryページビルダー"
+
+#: includes/widgets/ct-widget-adspace.php:13
+msgid "CT Adspace Widget"
+msgstr "CT Adspaceウィジェット"
+
+#: includes/widgets/ct-widget-adspace.php:61
+#: includes/widgets/ct-widget-listingscrolltocontact.php:62
+#: includes/widgets/ct-widget-listingssocial.php:48
+msgid "Title (optional):"
+msgstr "タイトル（オプション）"
+
+#: includes/widgets/ct-widget-adspace.php:65
+msgid "Ad Code:"
+msgstr "Adコード:"
+
+#: includes/widgets/ct-widget-adspace.php:70
+msgid "Image Url:"
+msgstr "画像のUrl:"
+
+#: includes/widgets/ct-widget-adspace.php:74
+msgid "Link URL:"
+msgstr "リンクURL:"
+
+#: includes/widgets/ct-widget-adspace.php:78
+msgid "Alt text:"
+msgstr "Altテキスト:"
+
+#: includes/widgets/ct-widget-agentinfo.php:13
+msgid "CT Agent Info"
+msgstr "CT剤情報"
+
+#: includes/widgets/ct-widget-agentinfo.php:69
+msgid "Mobile"
+msgstr "モバイル"
+
+#: includes/widgets/ct-widget-agentinfo.php:72
+msgid "Office"
+msgstr "事務所"
+
+#: includes/widgets/ct-widget-agentinfo.php:75
+msgid "Fax"
+msgstr "Fax"
+
+#: includes/widgets/ct-widget-agentsotherlistings.php:13
+msgid "CT Agents Other Listings"
+msgstr "CT剤その他の物件"
+
+#: includes/widgets/ct-widget-agentsotherlistings.php:291
+#: includes/widgets/ct-widget-flickr.php:55
+#: includes/widgets/ct-widget-latestposts.php:74
+#: includes/widgets/ct-widget-listings.php:134
+#: includes/widgets/ct-widget-testimonials.php:66
+msgid "Number:"
+msgstr "番号："
+
+#: includes/widgets/ct-widget-agentsotherlistings.php:299
+#: includes/widgets/ct-widget-listings.php:142
+msgid "Taxonomy:"
+msgstr "分類:"
+
+#: includes/widgets/ct-widget-agentsotherlistings.php:308
+#: includes/widgets/ct-widget-listings.php:151
+msgid "Tag:"
+msgstr "タグ:"
+
+#: includes/widgets/ct-widget-blogauthor.php:13
+msgid "CT Blog Author Info"
+msgstr "CTブログの著者情報"
+
+#: includes/widgets/ct-widget-blogauthor.php:64
+msgid "Bio:"
+msgstr "バイオ:"
+
+#: includes/widgets/ct-widget-blogauthor.php:68
+msgid "<a href=\"http://www.gravatar.com/\">Gravatar</a> E-mail:"
+msgstr ""
+
+#: includes/widgets/ct-widget-blogauthor.php:72
+msgid "Gravatar Size:"
+msgstr "Gravatarサイズ："
+
+#: includes/widgets/ct-widget-blogauthor.php:76
+msgid "Gravatar Alignment:"
+msgstr "Gravatar配置："
+
+#: includes/widgets/ct-widget-blogauthor.php:78
+msgid "Left"
+msgstr "左"
+
+#: includes/widgets/ct-widget-blogauthor.php:79
+msgid "Right"
+msgstr "右"
+
+#: includes/widgets/ct-widget-blogauthor.php:83
+msgid "Read More Text (optional):"
+msgstr "もっと読むテキスト（オプション）"
+
+#: includes/widgets/ct-widget-blogauthor.php:87
+msgid "Read More URL (optional):"
+msgstr "もっと読むURL（オプション）"
+
+#: includes/widgets/ct-widget-blogauthor.php:91
+msgid "Visible Pages:"
+msgstr "可視ページ："
+
+#: includes/widgets/ct-widget-blogauthor.php:93
+msgid "All"
+msgstr "すべての"
+
+#: includes/widgets/ct-widget-blogauthor.php:94
+msgid "Home only"
+msgstr "ホームのみ"
+
+#: includes/widgets/ct-widget-blogauthor.php:95
+msgid "Single only"
+msgstr "シングルのみ"
+
+#: includes/widgets/ct-widget-brokerinfo.php:13
+msgid "CT Brokers Info"
+msgstr "CTブローカー情報"
+
+#: includes/widgets/ct-widget-brokerinfo.php:54
+msgid "Email Office"
+msgstr "メール事務所"
+
+#: includes/widgets/ct-widget-brokerinfo.php:55
+msgid "Visit Brokers Website"
+msgstr "訪問ブローカーサイト"
+
+#: includes/widgets/ct-widget-brokerinfo.php:82
+msgid "Logo URL:"
+msgstr "マークのURL:"
+
+#: includes/widgets/ct-widget-brokerinfo.php:86
+msgid "Company:"
+msgstr "会社名："
+
+#: includes/widgets/ct-widget-brokerinfo.php:90
+msgid "Office Phone:"
+msgstr "事務所電話："
+
+#: includes/widgets/ct-widget-brokerinfo.php:94
+msgid "Office Email:"
+msgstr "事務所Email:"
+
+#: includes/widgets/ct-widget-brokerinfo.php:98
+msgid "Website:"
+msgstr "ウェブサイト："
+
+#: includes/widgets/ct-widget-contactinfo.php:13
+msgid "CT Contact Info"
+msgstr "CT詳細は直接お問い合わせ"
+
+#: includes/widgets/ct-widget-contactinfo.php:133
+msgid "Show Logo:"
+msgstr "ショーロゴマーク"
+
+#: includes/widgets/ct-widget-contactinfo.php:144
+msgid "Blurb:"
+msgstr "Blurb:"
+
+#: includes/widgets/ct-widget-contactinfo.php:148
+msgid "Company Name:"
+msgstr "会社名："
+
+#: includes/widgets/ct-widget-contactinfo.php:152
+msgid "Street Address:"
+msgstr "住所:"
+
+#: includes/widgets/ct-widget-contactinfo.php:156
+msgid "City:"
+msgstr "都市:"
+
+#: includes/widgets/ct-widget-contactinfo.php:160
+msgid "State:"
+msgstr "状態:"
+
+#: includes/widgets/ct-widget-contactinfo.php:164
+msgid "Postal:"
+msgstr "郵便:"
+
+#: includes/widgets/ct-widget-contactinfo.php:168
+msgid "Country:"
+msgstr "国:"
+
+#: includes/widgets/ct-widget-contactinfo.php:172
+msgid "Phone:"
+msgstr "電話:"
+
+#: includes/widgets/ct-widget-flickr.php:13
+msgid "CT Flickr"
+msgstr "CT Flickr"
+
+#: includes/widgets/ct-widget-flickr.php:26
+msgid "Photos on flickr"
+msgstr "写真がflickr"
+
+#: includes/widgets/ct-widget-flickr.php:51
+msgid "Flickr ID (<a href=\"http://www.idgettr.com\">idGettr</a>):"
+msgstr ""
+
+#: includes/widgets/ct-widget-flickr.php:65
+msgid "User"
+msgstr "ユーザー"
+
+#: includes/widgets/ct-widget-flickr.php:66
+msgid "Group"
+msgstr "グループ"
+
+#: includes/widgets/ct-widget-flickr.php:70
+msgid "Sorting:"
+msgstr "ソート:"
+
+#: includes/widgets/ct-widget-flickr.php:72
+#: includes/widgets/ct-widget-tabs.php:110
+#: includes/widgets/ct-widget-tabs.php:117
+msgid "Latest"
+msgstr "最新の"
+
+#: includes/widgets/ct-widget-flickr.php:73
+msgid "Random"
+msgstr "ランダム"
+
+#: includes/widgets/ct-widget-flickr.php:77
+msgid "Size:"
+msgstr "サイズ:"
+
+#: includes/widgets/ct-widget-flickr.php:79
+msgid "Square"
+msgstr "スクエア"
+
+#: includes/widgets/ct-widget-flickr.php:80
+msgid "Medium"
+msgstr "中"
+
+#: includes/widgets/ct-widget-flickr.php:81
+msgid "Thumbnail"
+msgstr "サムネイル"
+
+#: includes/widgets/ct-widget-latestposts.php:13
+msgid "CT Latest Posts"
+msgstr "CTの最新の投稿"
+
+#: includes/widgets/ct-widget-listingbooktour.php:13
+msgid "CT Listing Book Showing"
+msgstr "CT上場を予示"
+
+#: includes/widgets/ct-widget-listingbooktour.php:154
+msgid ""
+"Thanks for booking a showing, we'll get back to confirm with you shortly."
+msgstr "謝のためにご予約を示す、\\'ll get back確認す。"
+
+#: includes/widgets/ct-widget-listingbooktour.php:161
+msgid "Request a Showing"
+msgstr "要求を示す"
+
+#: includes/widgets/ct-widget-listingbooktour.php:171
+msgid "Select Your Time and Day"
+msgstr "選択時に、日"
+
+#: includes/widgets/ct-widget-listingbooktour.php:234
+msgid "Showing Request for "
+msgstr "を示す請求 "
+
+#: includes/widgets/ct-widget-listingbooktour.php:240
+#: includes/widgets/ct-widget-listingbooktour.php:242
+msgid "Schedule Tour"
+msgstr "ツアー日程"
+
+#: includes/widgets/ct-widget-listingbooktour.php:259
+msgid "No options required for this widget."
+msgstr "ないオプションに必要なパーツをプレゼント！"
+
+#: includes/widgets/ct-widget-listings.php:13
+msgid "CT Listings"
+msgstr "CT物件"
+
+#: includes/widgets/ct-widget-listings.php:155
+msgid "View All Link Text"
+msgstr "すべてのリンクテキストをドキュメント"
+
+#: includes/widgets/ct-widget-listings.php:159
+msgid "View All Link URL"
+msgstr "すべてのリンクURL"
+
+#: includes/widgets/ct-widget-listingscontact.php:13
+msgid "CT Listing Agent Contact"
+msgstr "CT上場剤お"
+
+#: includes/widgets/ct-widget-listingscontact.php:72
+msgid "Subject:"
+msgstr "対象:"
+
+#: includes/widgets/ct-widget-listingscrolltocontact.php:13
+msgid "CT Listing Contact ScrollTo"
+msgstr "CT上のおScrollTo"
+
+#: includes/widgets/ct-widget-listingscrolltocontact.php:66
+msgid "Button One Text:"
+msgstr "ボタン一つテキスト:"
+
+#: includes/widgets/ct-widget-listingscrolltocontact.php:70
+msgid "Button Two Text:"
+msgstr "ボタンの二つのテキスト:"
+
+#: includes/widgets/ct-widget-listingssearch.php:13
+msgid "CT Listings Search"
+msgstr "CT物件検索"
+
+#: includes/widgets/ct-widget-listingssocial.php:13
+msgid "CT Listings Social"
+msgstr "CT上場社会"
+
+#: includes/widgets/ct-widget-search.php:13
+msgid "CT Search"
+msgstr "CT検索"
+
+#: includes/widgets/ct-widget-tabs.php:13
+msgid "CT Tabs"
+msgstr "CTブ"
+
+#: includes/widgets/ct-widget-tabs.php:103
+msgid "Number of posts:"
+msgstr "投稿数:"
+
+#: includes/widgets/ct-widget-tabs.php:108
+msgid "First Visible Tab:"
+msgstr "最初の可視のタブ"
+
+#: includes/widgets/ct-widget-tabs.php:111
+#: includes/widgets/ct-widget-tabs.php:120
+msgid "Comments"
+msgstr "コメント"
+
+#: includes/widgets/ct-widget-tabs.php:112
+#: includes/widgets/ct-widget-tabs.php:123
+msgid "Tags"
+msgstr "タグ"
+
+#: includes/widgets/ct-widget-testimonials.php:13
+msgid "CT Testimonials"
+msgstr "CTお客様の声"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:245
+#: admin/ReduxFramework/theme-options/re7-config.php:246
+msgid "Real Estate 7 Options"
+msgstr "不動産7オプション"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:923
+msgid "Theme Information 1"
+msgstr "テーマ情報1"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:924
+#: admin/ReduxFramework/theme-options/re7-config.php:929
+msgid "<p>This is the tab content, HTML is allowed.</p>"
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:928
+msgid "Theme Information 2"
+msgstr "テーマ情報2"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:935
+msgid "<p>This is the sidebar content, HTML is allowed.</p>"
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:941
+msgid "General Settings"
+msgstr "一般設定"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1010
+#: admin/ReduxFramework/theme-options/re7-config.php:2168
+msgid "Header"
+msgstr "ヘッダー"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1078
+msgid "Custom Logo"
+msgstr "カスタムロゴ"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1129
+msgid "Top Bar"
+msgstr "トップバー"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1150
+msgid "Contact Phone"
+msgstr "連絡先電話"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1170
+#: admin/ReduxFramework/theme-options/re7-config.php:1318
+#: admin/ReduxFramework/theme-options/re7-config.php:1349
+#: admin/ReduxFramework/theme-options/re7-config.php:1380
+msgid "Icon"
+msgstr "アイコン"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1171
+#: admin/ReduxFramework/theme-options/re7-config.php:1319
+#: admin/ReduxFramework/theme-options/re7-config.php:1350
+#: admin/ReduxFramework/theme-options/re7-config.php:1381
+msgid "Select an icon."
+msgstr "選択アイコンです。"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1188
+msgid "Currency Switcher"
+msgstr "通貨スイッチャー"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1196
+msgid "Social Links"
+msgstr "社会リンク"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1287
+msgid "Header Info Columns"
+msgstr "ヘッダー情報カラム"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1295
+msgid "Column One"
+msgstr "カラム一"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1326
+msgid "Column Two"
+msgstr "列二"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1357
+msgid "Column Three"
+msgstr "カラム三"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1389
+msgid "Homepage"
+msgstr "ホームページ"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1399
+msgid "Layout Manager"
+msgstr "レイアウトマネージャ"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1440
+msgid "Revolution Slider"
+msgstr "回転スライダー"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1457
+#: admin/ReduxFramework/theme-options/re7-config.php:1864
+msgid "FlexSlider"
+msgstr "FlexSlider"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1483
+msgid "Listing Carousel"
+msgstr "上場カルーセル"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1522
+msgid "Hero w/Search"
+msgstr "ヒーロー w/検索"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1569
+msgid "Top Padding"
+msgstr "トップパディング"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1570
+msgid "Set the top padding in percentage."
+msgstr "セットトップのパディングにましたがどうすればよいですか。"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1580
+msgid "Bottom Padding"
+msgstr "下のパディング"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1581
+msgid "Set the bottom padding in percentage."
+msgstr "セット下のパディングにましたがどうすればよいですか。"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1592
+msgid "Call To Action"
+msgstr "アクションを求める呼びかけ、"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1623
+msgid "Listings Count"
+msgstr "物件数"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1727
+msgid "Add/Edit Testimonials"
+msgstr "追加/編集お客様の声"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1728
+msgid "Add your testimonials to be displayed on the homepage."
+msgstr "お客様の声を追加するに表示されます。"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1730
+msgid "Company or Person"
+msgstr "会社名"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1731
+msgid "Testimonial Here"
+msgstr "こちらの感謝状"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1732
+#: admin/ReduxFramework/theme-options/re7-config.php:1762
+msgid "Link"
+msgstr "リンク"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1740
+msgid "Partners"
+msgstr "パートナー"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1757
+msgid "Add/Edit Partner Logos"
+msgstr "追加/編集のパートナーロゴ"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1758
+msgid "Add your partner logos to be displayed on the homepage."
+msgstr "追加のパートナーロゴに表示するホームページ."
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1760
+msgid "Partner Title"
+msgstr "パートナー名"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1761
+msgid "Description Here (not used)"
+msgstr "説明はこちら(未使用)"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1783
+msgid "Elementor"
+msgstr "Elementor"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1804
+msgid "Page Builder"
+msgstr "ページビルダー"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1848
+msgid "Four Column Widget Area"
+msgstr "四柱ウィジェット領域"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1942
+msgid "Create a Skin"
+msgstr "を肌"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1965
+#: admin/ReduxFramework/theme-options/re7-config.php:2179
+#: admin/ReduxFramework/theme-options/re7-config.php:2272
+#: admin/ReduxFramework/theme-options/re7-config.php:2355
+#: admin/ReduxFramework/theme-options/re7-config.php:2444
+#: admin/ReduxFramework/theme-options/re7-config.php:2484
+msgid "NOTE!"
+msgstr "注意!"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1966
+msgid "If this isn't set to Yes NONE of the Styles will be Applied."
+msgstr "れば、日本には\\'t設定の有無のスタイルが適用されます。"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1973
+msgid "Typography"
+msgstr "タイポグラフィ"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1993
+msgid "Body"
+msgstr "本体"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2012
+msgid "Headings"
+msgstr "見出し"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:3681
+msgid ""
+"Walk Score is the only international measure of walkability and the leading "
+"provider of neighborhood maps to the real estate industry. More than 30,000 "
+"websites use the Walk Score Neighborhood Map and we serve over 20 million "
+"scores each day. <a href=\"https://www.walkscore.com/professional/api-sign-"
+"up.php\" target=\"_blank\">Get your API Key</a>!."
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:5394
+msgid ""
+"<p class=\"description\">This is a section created by adding a filter to the "
+"sections array. Can be used by child themes to add/remove sections from the "
+"options.</p>"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"A responsive real estate theme, designed by <a href=\"http://www."
+"contempographicdesign.com\">Contempo</a>."
+msgstr ""
+
+#. URI of the theme
+msgid "http://themeforest.net/user/contempoinc?ref=contempoinc"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://www.contempographicdesign.com"
+msgstr ""

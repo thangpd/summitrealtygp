@@ -1,0 +1,2502 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-01-04 21:39+0000\n"
+"PO-Revision-Date: 2020-01-04 21:40+0000\n"
+"Last-Translator: \n"
+"Language-Team: Slovak\n"
+"Language: sk_SK\n"
+"Plural-Forms: nplurals=3; plural=( n == 1 ) ? 0 : ( n >= 2 && n <= 4 ) ? 1 : "
+"2;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#. Name of the template
+msgid "Demo Home Listings Slider"
+msgstr "Demo Domov Záznamov, Jazdec"
+
+#. Name of the template
+msgid "Demo Home Map"
+msgstr "Demo Domov Mapu"
+
+#. Name of the template
+msgid "Demo Home Video"
+msgstr "Demo Home Video"
+
+#. Name of the template
+msgid "dsIDXpress"
+msgstr "dsIDXpress"
+
+#: includes/featured-listings.php:60 includes/featured-listings.php:69
+#: includes/single-listing-home.php:29
+msgid "featured"
+msgstr ""
+
+#: 404.php:15
+msgid "Page Not Found"
+msgstr "Stránka nenájdená"
+
+#: 404.php:16
+msgid "Woah there! Looks like you've gotten lost."
+msgstr "Woah tam! Vyzerá to, že ste sa stratili."
+
+#: 404.php:17
+msgid "Go back to the homepage"
+msgstr "Vráťte sa späť na domovskú stránku"
+
+#: archive-brokerage.php:37
+msgid "Brokerages"
+msgstr "Maklérskej"
+
+#: archive-brokerage.php:51 template-brokerages.php:52
+msgid "Type a brokerage name or address here to filter the list."
+msgstr "Tu zadajte názov alebo adresu pre makléra, aby ste filtrovali zoznam."
+
+#: archive-brokerage.php:107 author.php:70 single-brokerage.php:77
+#: single-brokerage.php:269 template-agents.php:125 template-brokerages.php:122
+#: template-favorite-listings.php:111
+msgid "Tell me more about a property"
+msgstr "Povedzte mi viac o nehnuteľnosti"
+
+#: archive-brokerage.php:108 author.php:71 single-brokerage.php:78
+#: single-brokerage.php:270 template-agents.php:126 template-brokerages.php:123
+#: template-favorite-listings.php:112 includes/agent-contact-modal.php:22
+#: includes/single-listing-contact.php:213 includes/single-listing-home.php:352
+#: includes/widgets/ct-widget-listingscontact.php:31
+msgid "Request a showing"
+msgstr "Požiadat o prehliadku"
+
+#: archive-brokerage.php:109 author.php:72 single-brokerage.php:79
+#: single-brokerage.php:271 template-agents.php:127 template-brokerages.php:124
+#: template-favorite-listings.php:113
+msgid "General Questions"
+msgstr "Všeobecné otázky"
+
+#: archive-brokerage.php:112 author.php:75 single-brokerage.php:82
+#: single-brokerage.php:274 template-agents.php:130 template-brokerages.php:127
+#: template-edit-profile.php:126 template-favorite-listings.php:116
+#: includes/agent-contact-modal.php:25 includes/single-listing-contact.php:216
+#: includes/single-listing-home.php:355
+#: includes/single-listing-multi-floorplan.php:27
+#: includes/widgets/ct-widget-listingscontact.php:34
+msgid "Name"
+msgstr " - "
+
+#: archive-brokerage.php:114 archive-brokerage.php:176 author.php:77
+#: author.php:144 single-brokerage.php:84 single-brokerage.php:134
+#: single-brokerage.php:276 single-brokerage.php:340 template-agents.php:132
+#: template-agents.php:200 template-brokerages.php:129
+#: template-brokerages.php:189 template-favorite-listings.php:118
+#: includes/agent-contact-modal.php:27 includes/single-listing-contact.php:88
+#: includes/single-listing-contact.php:168
+#: includes/single-listing-contact.php:218
+#: includes/single-listing-contact.php:283 includes/single-listing-home.php:334
+#: includes/single-listing-home.php:357 includes/single-listing-home.php:418
+#: includes/widgets/ct-widget-agentinfo.php:79
+#: includes/widgets/ct-widget-listingscontact.php:36
+msgid "Email"
+msgstr "Email"
+
+#: archive-brokerage.php:116 author.php:79 single-brokerage.php:86
+#: single-brokerage.php:278 template-agents.php:134 template-brokerages.php:131
+#: template-contact.php:71 template-favorite-listings.php:120
+#: includes/agent-contact-modal.php:29 includes/single-listing-contact.php:220
+#: includes/single-listing-home.php:359
+#: includes/widgets/ct-widget-listingscontact.php:38
+msgid "Phone"
+msgstr "Telefón"
+
+#: archive-brokerage.php:124 author.php:87 single-brokerage.php:94
+#: single-brokerage.php:286 template-agents.php:142 template-brokerages.php:137
+#: template-contact.php:82 template-favorite-listings.php:127
+#: template-submit-listing.php:491 includes/agent-contact-modal.php:38
+#: includes/single-listing-contact.php:228 includes/single-listing-home.php:367
+#: includes/widgets/ct-widget-listingscontact.php:47
+msgid "Submit"
+msgstr "Odoslat"
+
+#: archive-brokerage.php:193 template-brokerages.php:206
+#: template-view-listings.php:197
+#: includes/single-listing-multi-floorplan.php:122
+msgid "View"
+msgstr "Preskúmať"
+
+#: archive-brokerage.php:203 template-brokerages.php:216
+msgid "No Brokerages Found."
+msgstr "Neboli nájdené žiadni makléri."
+
+#: archive.php:67
+msgid "No posts were found which match your search criteria"
+msgstr ""
+"Neboli nájdené žiadne príspevky, ktoré by zodpovedali vašim kritériám "
+"vyhľadávania"
+
+#: archive.php:67 layouts/grid.php:23 layouts/list.php:20
+msgid "Try broadening your search to find more results."
+msgstr "Skúste rozšíriť vyhľadávanie, aby ste našli viac výsledkov."
+
+#: author.php:32 admin/profile-fields.php:52 layouts/list.php:119
+msgid "Agent"
+msgstr "Agent"
+
+#: author.php:202
+msgid "Type a listing address or keyword to filter the list."
+msgstr "Zadajte adresu zápisu alebo kľúčové slovo na filtrovanie zoznamu."
+
+#: comments.php:13
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+"Tento príspevok je chránený heslom. Zadajte heslo na zobrazenie komentárov."
+
+#: comments.php:31
+msgid "No Responses"
+msgstr "Žiadne odpovede"
+
+#: comments.php:31
+msgid "1 Comment"
+msgstr "1 Komentár"
+
+#: comments.php:31
+msgid "% Comments"
+msgstr "% Komentáre"
+
+#: comments.php:44
+msgid "&larr; Older Comments"
+msgstr "&larr; staršie komentáre"
+
+#: comments.php:45
+msgid "Newer Comments &rarr;"
+msgstr "Novšie komentáre &rarr;"
+
+#: comments.php:53
+msgid "Comments are closed, but"
+msgstr "Komentáre sú uzavreté, ale"
+
+#: comments.php:53
+msgid "Trackback URL for this post"
+msgstr "URL adresa pre sledovanie tohto príspevku"
+
+#: comments.php:53
+msgid "trackbacks"
+msgstr "spätné"
+
+#: comments.php:53
+msgid "and pingbacks are open."
+msgstr "pingbacky sú otvorené."
+
+#: comments.php:59
+msgid "Reviews are closed."
+msgstr "Recenzie sú uzavreté."
+
+#: comments.php:61
+msgid "Comments are closed."
+msgstr "Komentáre sú uzavreté."
+
+#: footer.php:64
+msgid "All Rights Reserved."
+msgstr "Všetky práva vyhradené."
+
+#: functions.php:59
+msgid "Getting Started"
+msgstr "Začíname"
+
+#: header.php:175 header.php:413
+msgid "Hi, "
+msgstr "Ahoj,"
+
+#: header.php:192 header.php:430 includes/user-sidebar.php:31
+msgid "Favorite Listings"
+msgstr "Obľúbené nehnuteľnosti"
+
+#: header.php:195 header.php:433 includes/user-sidebar.php:34
+msgid "Listing Alerts"
+msgstr "Upozornenia"
+
+#: header.php:198 header.php:436 header.php:454 includes/user-sidebar.php:37
+msgid "Submit Listing"
+msgstr "Pridať nehnuteľnosť"
+
+#: header.php:201 header.php:439 includes/user-sidebar.php:40
+msgid "My Listings"
+msgstr "Moje nehnuteľnosti"
+
+#: header.php:204 header.php:442 includes/user-sidebar.php:43
+msgid "Account Settings"
+msgstr "Nastavenia účtu"
+
+#: header.php:206 header.php:444 includes/user-sidebar.php:45
+msgid "Logout"
+msgstr "Odhlásiť sa"
+
+#: header.php:210 header.php:452
+msgid "Login / Register"
+msgstr "Prihlásiť / Registrovať"
+
+#: header.php:210 header.php:452
+msgid "Login"
+msgstr "Prihlásiť sa"
+
+#: header.php:641
+msgid "Add \"CT Compare\" Widget via Appearance > Widgets > Compare."
+msgstr "Pridať \"CT Compare\" widget pomocou vzhľad >Widgety > Porovnať."
+
+#: search-listings.php:354 search-listings.php:429
+msgid "listings found"
+msgstr "nájdené nehnuteľnosti"
+
+#: search-listings.php:354 search-listings.php:429
+msgid "listing found"
+msgstr "nájdené nehnutelnosti"
+
+#: search-listings.php:357 search-listings.php:432
+msgid "Find A Home"
+msgstr "Nájdi domov"
+
+#: search-listings.php:369 search-listings.php:443 search-listings.php:466
+msgid "Searching:"
+msgstr "Hľadanie:"
+
+#: search-listings.php:373 search-listings.php:447 search-listings.php:470
+msgid "All listings"
+msgstr "Všetky nehnuteľnosti"
+
+#: search-listings.php:375
+msgid "Open Search"
+msgstr "Otvorte hľadanie"
+
+#: search-listings.php:449 search-listings.php:472
+msgid "Close Map"
+msgstr "Zatvorte mapu"
+
+#: search-listings.php:506 search-listings.php:510
+msgid "Save This Search?"
+msgstr "Uložiť toto vyhľadávanie?"
+
+#: search-listings.php:508
+msgid "View Saved"
+msgstr "Zobraziť uložené"
+
+#: single-brokerage.php:38 admin/profile-fields.php:147
+msgid "Brokerage"
+msgstr "Maklér"
+
+#: single-brokerage.php:147 single-listings.php:38
+msgid "Listings"
+msgstr "Nehnuteľnosti"
+
+#: single-brokerage.php:148
+msgid "Agents"
+msgstr "Agenti"
+
+#: single-brokerage.php:149
+msgid "Map"
+msgstr "Mapa"
+
+#: single-brokerage.php:151 includes/single-listing-sub-navigation.php:149
+msgid "Reviews"
+msgstr "Recenzie"
+
+#: single-brokerage.php:213 template-agents.php:50
+msgid "Type an agents name or title here to filter the list."
+msgstr "Zadajte meno agenta alebo názov pre filtrovanie zoznamu."
+
+#: single-brokerage.php:359 template-agents.php:238
+msgid "View Listings"
+msgstr "Zobraziť nehnuteľnosti"
+
+#: single-brokerage.php:370
+msgid "This brokerage currently has no active agents."
+msgstr "Tento maklér momentálne nemá žiadnych aktívnych agentov."
+
+#: single-brokerage.php:370 layouts/grid.php:19 layouts/grid.php:21
+#: layouts/list.php:16 layouts/list.php:18
+msgid "Check back soon."
+msgstr "Skontrolovať čoskoro."
+
+#: single-brokerage.php:392 includes/single-listing-reviews.php:19
+msgid "No Reviews"
+msgstr "Žiadne recenzie"
+
+#: single-brokerage.php:392 includes/single-listing-reviews.php:19
+msgid "1 Review"
+msgstr "1 Recenzia"
+
+#: single-brokerage.php:392 includes/single-listing-reviews.php:19
+msgid "% Reviews"
+msgstr "% Recenzie"
+
+#: single-listings.php:62 single-listings.php:68 single-listings.php:74
+#: single-listings.php:101 single-listings.php:102 single-listings.php:103
+#: includes/single-listing-home.php:450 includes/single-listing-home.php:451
+#: includes/single-listing-home.php:452
+#: includes/widgets/ct-widget-listingssocial.php:29
+#: includes/widgets/ct-widget-listingssocial.php:30
+#: includes/widgets/ct-widget-listingssocial.php:31
+msgid "Check out this great listing on"
+msgstr "Pozrite sa na tento skvelý zoznam"
+
+#: single-listings.php:106 includes/agent-contact-modal.php:16
+msgid "Close"
+msgstr "Zavrieť"
+
+#: single-listings.php:167 template-edit-listing.php:193
+#: template-edit-profile.php:56 template-listing-email-alerts.php:68
+#: template-submit-listing.php:156 template-user-stats.php:51
+#: template-view-invoices.php:51 template-view-listings.php:58
+msgid "You must be logged in to view this page."
+msgstr "Ak chcete zobraziť túto stránku, musíte byť prihlásení."
+
+#: single.php:79 includes/post-author-info.php:15 layouts/blog-large.php:54
+msgid "By"
+msgstr "Podľa"
+
+#: single.php:79 layouts/blog-large.php:54
+msgid "in"
+msgstr "v"
+
+#: single.php:79 layouts/blog-large.php:54
+msgid "with"
+msgstr "s"
+
+#: single.php:127 template-agents.php:257 template-dsidxpress.php:41
+#: template-edit-listing.php:587 template-submit-listing.php:502
+msgid "Pages:"
+msgstr "Stránky:"
+
+#. Name of the template
+msgid "Advanced Search"
+msgstr "Pokročilé vyhľadávanie"
+
+#: template-advanced-search.php:62 template-edit-listing.php:213
+#: template-submit-listing.php:190 template-view-invoices.php:59
+#: includes/advanced-search.php:37 includes/header-advanced-search.php:31
+#: includes/header-advanced-search.php:280
+#: includes/widgets/ct-widget-listingssearch.php:46
+msgid "Type"
+msgstr "Nehnuteľnosť"
+
+#: template-advanced-search.php:67 template-edit-listing.php:498
+#: template-submit-listing.php:410 admin/profile-fields.php:173
+#: includes/advanced-search.php:46 includes/header-advanced-search.php:40
+#: includes/header-advanced-search.php:290
+#: includes/widgets/ct-widget-listingssearch.php:55
+msgid "City"
+msgstr "Mesto"
+
+#: template-advanced-search.php:77 template-edit-listing.php:508
+#: template-submit-listing.php:420 includes/advanced-search.php:60
+#: includes/widgets/ct-widget-listingssearch.php:69
+msgid "Area"
+msgstr "Oblast"
+
+#: template-advanced-search.php:79 template-edit-listing.php:510
+#: template-submit-listing.php:422 includes/advanced-search.php:62
+#: includes/widgets/ct-widget-listingssearch.php:71
+msgid "Suburb"
+msgstr "Predmestie"
+
+#: template-advanced-search.php:81 template-edit-listing.php:518
+#: template-submit-listing.php:430 includes/advanced-search.php:64
+#: includes/widgets/ct-widget-listingssearch.php:73
+msgid "State"
+msgstr "Štát"
+
+#: template-advanced-search.php:92 includes/advanced-search.php:79
+#: includes/widgets/ct-widget-listingssearch.php:88
+msgid "Postcode"
+msgstr "Stav"
+
+#: template-advanced-search.php:94 includes/advanced-search.php:81
+#: includes/widgets/ct-widget-listingssearch.php:90
+msgid "Zipcode"
+msgstr "Stav"
+
+#: template-advanced-search.php:100 template-edit-listing.php:529
+#: template-submit-listing.php:441 includes/advanced-search.php:91
+#: includes/header-advanced-search.php:65
+#: includes/header-advanced-search.php:318
+#: includes/widgets/ct-widget-listingssearch.php:100
+msgid "Country"
+msgstr "Okres"
+
+#: template-advanced-search.php:105 template-edit-listing.php:390
+#: template-submit-listing.php:278 includes/advanced-search.php:109
+#: includes/header-advanced-search.php:83
+#: includes/header-advanced-search.php:328
+#: includes/single-listing-multi-floorplan.php:33
+#: includes/widgets/ct-widget-listingssearch.php:118
+msgid "Beds"
+msgstr "Počet"
+
+#: template-advanced-search.php:110 template-edit-listing.php:395
+#: template-submit-listing.php:283 includes/advanced-search.php:118
+#: includes/header-advanced-search.php:92
+#: includes/header-advanced-search.php:338
+#: includes/single-listing-multi-floorplan.php:36 includes/sub-listings.php:95
+#: includes/widgets/ct-widget-agentsotherlistings.php:133
+#: includes/widgets/ct-widget-listingssearch.php:127
+msgid "Baths"
+msgstr "Balkón"
+
+#: template-advanced-search.php:115 template-edit-listing.php:228
+#: template-submit-listing.php:195 template-view-invoices.php:61
+#: includes/advanced-search.php:127 includes/header-advanced-search.php:101
+#: includes/header-advanced-search.php:348
+#: includes/widgets/ct-widget-listingssearch.php:136
+msgid "Status"
+msgstr "Typ"
+
+#: template-advanced-search.php:125 includes/advanced-search.php:150
+#: includes/header-advanced-search.php:115
+#: includes/header-advanced-search.php:372
+#: includes/widgets/ct-widget-listingssearch.php:159
+msgid "Neighborhood"
+msgstr "Susedstve"
+
+#: template-advanced-search.php:127 includes/advanced-search.php:152
+#: includes/header-advanced-search.php:117
+#: includes/header-advanced-search.php:374
+#: includes/widgets/ct-widget-listingssearch.php:161
+msgid "District"
+msgstr "Okres"
+
+#: template-advanced-search.php:129 includes/advanced-search.php:100
+#: includes/advanced-search.php:154 includes/header-advanced-search.php:74
+#: includes/header-advanced-search.php:119
+#: includes/header-advanced-search.php:376
+#: includes/widgets/ct-widget-listingssearch.php:109
+#: includes/widgets/ct-widget-listingssearch.php:163
+msgid "Community"
+msgstr "Spoločnosť"
+
+#: template-advanced-search.php:135 template-advanced-search.php:136
+#: includes/advanced-search.php:164 includes/advanced-search.php:165
+#: includes/header-advanced-search.php:129
+#: includes/header-advanced-search.php:130
+#: includes/header-advanced-search.php:386
+#: includes/header-advanced-search.php:387
+#: includes/widgets/ct-widget-listingssearch.php:173
+#: includes/widgets/ct-widget-listingssearch.php:174
+msgid "Price From"
+msgstr "Cena od"
+
+#: template-advanced-search.php:140 template-advanced-search.php:141
+#: includes/advanced-search.php:173 includes/advanced-search.php:174
+#: includes/header-advanced-search.php:138
+#: includes/header-advanced-search.php:139
+#: includes/header-advanced-search.php:395
+#: includes/header-advanced-search.php:396
+#: includes/widgets/ct-widget-listingssearch.php:182
+#: includes/widgets/ct-widget-listingssearch.php:183
+msgid "Price To"
+msgstr "Cena do"
+
+#: template-advanced-search.php:145 template-advanced-search.php:146
+#: includes/advanced-search.php:183 includes/header-advanced-search.php:148
+#: includes/header-advanced-search.php:405
+#: includes/widgets/ct-widget-listingssearch.php:192
+msgid "Size From"
+msgstr "Veľkosť od"
+
+#: template-advanced-search.php:150 template-advanced-search.php:151
+#: includes/advanced-search.php:192 includes/header-advanced-search.php:157
+#: includes/header-advanced-search.php:414
+#: includes/widgets/ct-widget-listingssearch.php:201
+msgid "Size To"
+msgstr "Veľkosť do"
+
+#: template-advanced-search.php:155 template-advanced-search.php:156
+#: includes/advanced-search.php:200 includes/advanced-search.php:201
+#: includes/header-advanced-search.php:165
+#: includes/header-advanced-search.php:166
+#: includes/header-advanced-search.php:422
+#: includes/header-advanced-search.php:423
+#: includes/widgets/ct-widget-listingssearch.php:209
+#: includes/widgets/ct-widget-listingssearch.php:210
+msgid "Lot Size From"
+msgstr "Veľkosť sady od"
+
+#: template-advanced-search.php:160 template-advanced-search.php:161
+#: includes/advanced-search.php:209 includes/advanced-search.php:210
+#: includes/header-advanced-search.php:174
+#: includes/header-advanced-search.php:175
+#: includes/header-advanced-search.php:431
+#: includes/header-advanced-search.php:432
+#: includes/widgets/ct-widget-listingssearch.php:218
+#: includes/widgets/ct-widget-listingssearch.php:219
+msgid "Lot Size To"
+msgstr "Veľkosť sady do"
+
+#: template-advanced-search.php:165 template-advanced-search.php:166
+#: template-edit-listing.php:405 template-submit-listing.php:293
+#: includes/advanced-search.php:218 includes/advanced-search.php:219
+#: includes/header-advanced-search.php:183
+#: includes/header-advanced-search.php:184
+#: includes/header-advanced-search.php:440
+#: includes/header-advanced-search.php:441
+#: includes/single-listing-propinfo.php:17
+#: includes/widgets/ct-widget-listingssearch.php:227
+#: includes/widgets/ct-widget-listingssearch.php:228
+msgid "Property ID"
+msgstr "ID nehnuteľnosti"
+
+#: template-advanced-search.php:176 template-advanced-search.php:177
+#: includes/advanced-search.php:227 includes/advanced-search.php:228
+#: includes/header-advanced-search.php:192
+#: includes/header-advanced-search.php:193
+#: includes/header-advanced-search.php:449
+#: includes/header-advanced-search.php:450
+#: includes/widgets/ct-widget-listingssearch.php:236
+#: includes/widgets/ct-widget-listingssearch.php:237
+msgid "Number of Guests"
+msgstr "Počet hostí"
+
+#: template-advanced-search.php:182 includes/advanced-search.php:136
+#: includes/widgets/ct-widget-listingssearch.php:145
+msgid "Additional Features"
+msgstr "Pridané vlastnosti"
+
+#: template-advanced-search.php:188 includes/advanced-search.php:247
+#: includes/header-advanced-search.php:227
+#: includes/header-advanced-search.php:259
+#: includes/home-hero-advanced-search.php:36
+#: includes/widgets/ct-widget-listingssearch.php:258
+msgid "Search"
+msgstr "Hľadať"
+
+#: template-agents.php:252
+msgid "No Agents Found."
+msgstr "Nenašli sa žiadni agenti."
+
+#. Name of the template
+msgid "Big Map"
+msgstr "Veľká mapa"
+
+#. Name of the template
+msgid "Compare"
+msgstr "Porovnať"
+
+#. Name of the template
+msgid "Contact No Form"
+msgstr "Kontaktný formulár žiadny"
+
+#: includes/single-listing-sub-navigation.php:169
+msgid "Contact"
+msgstr "Kontakt"
+
+#: template-contact.php:63
+msgid "Name*"
+msgstr "Meno*"
+
+#: template-contact.php:67
+msgid "Email*"
+msgstr "Email*"
+
+#: template-contact.php:74
+msgid "Subject*"
+msgstr "Předmět*"
+
+#: template-contact.php:76
+msgid "Message"
+msgstr "Správa"
+
+#. Name of the template
+msgid "Edit Listing"
+msgstr "Upraviť záznam"
+
+#: template-edit-listing.php:203 template-submit-listing.php:180
+msgid "Street Address"
+msgstr "Ulica"
+
+#: template-edit-listing.php:208 template-submit-listing.php:185
+msgid "Alternate Title"
+msgstr "Nadpis"
+
+#: template-edit-listing.php:209 template-submit-listing.php:186
+msgid "(e.g. Downtown Penthouse)"
+msgstr "(napr. Luxusný byt)"
+
+#: template-edit-listing.php:219 template-edit-listing.php:234
+msgid "Any"
+msgstr "Akýkoľvek"
+
+#: template-edit-listing.php:243 template-submit-listing.php:200
+#: includes/single-listing-multi-floorplan.php:43
+msgid "Price"
+msgstr "Cena"
+
+#: template-edit-listing.php:250 template-submit-listing.php:207
+msgid "Price Prefix"
+msgstr "Prefix ceny"
+
+#: template-edit-listing.php:250 template-submit-listing.php:208
+msgid " (e.g. From, Call for price)"
+msgstr " ( napr. Od, Cena na dotaz )"
+
+#: template-edit-listing.php:255 template-submit-listing.php:212
+msgid "Price Postfix Text"
+msgstr "Cena Postfix Text"
+
+#: template-edit-listing.php:255 template-submit-listing.php:213
+msgid " (e.g. /month, /week)"
+msgstr " (napr. / mesačne, / týždenne)"
+
+#: template-edit-listing.php:263 template-submit-listing.php:218
+msgid "Listing Description"
+msgstr "Popis nehnuteľnosti"
+
+#: template-edit-listing.php:280 template-submit-listing.php:232
+msgid "Listing Featured Image"
+msgstr "Zoznam doporučených obrázkov"
+
+#: template-edit-listing.php:289 template-submit-listing.php:244
+msgid "Listing Images"
+msgstr "Zoznam obrázkov"
+
+#: template-edit-listing.php:366 template-submit-listing.php:254
+msgid "Drag & Drop Images Here"
+msgstr "Drag & Drop obrázky tu"
+
+#: template-edit-listing.php:369 template-submit-listing.php:257
+msgid "or"
+msgstr "alebo"
+
+#: template-edit-listing.php:372 template-submit-listing.php:260
+msgid "Select Images"
+msgstr "Vyberte obrázky"
+
+#: template-edit-listing.php:376
+msgid ""
+"*At least one image is required for valid submission, minimum width of 817px."
+msgstr ""
+"* Pri platnom odoslaní je potrebný aspoň jeden obrázok, minimálna šírka 817 "
+"pixelov."
+
+#: template-edit-listing.php:377 template-submit-listing.php:265
+msgid ""
+"*You can mark an image as featured by clicking the star icon, Otherwise "
+"first image will be considered featured image."
+msgstr ""
+"* Môžete označiť obrázok ako hlavný kliknutím na ikonu hviezdičky. V opačnom "
+"prípade sa prvý obrázok bude považovať za hlavný obrázok."
+
+#: template-edit-listing.php:410 template-submit-listing.php:298
+msgid "Video URL"
+msgstr "Adresa URL videa"
+
+#: template-edit-listing.php:416 template-submit-listing.php:327
+msgid "Additional Features (comma separated)"
+msgstr "Ďalšie vlastnosti (oddelené čiarkou)"
+
+#: template-edit-listing.php:433 template-submit-listing.php:352
+msgid "Max-number of Guests"
+msgstr "Terasa"
+
+#: template-edit-listing.php:438 template-submit-listing.php:357
+msgid "Minimum Stay"
+msgstr "Minimálny pobyt"
+
+#: template-edit-listing.php:445 template-submit-listing.php:364
+msgid "Check In Time"
+msgstr "Poschodie"
+
+#: template-edit-listing.php:450 template-submit-listing.php:369
+msgid "Check Out Time"
+msgstr "balkón"
+
+#: template-edit-listing.php:457 template-submit-listing.php:376
+msgid "Extra Person Charge"
+msgstr "Poplatok za ďalšiu osobu"
+
+#: template-edit-listing.php:462 template-submit-listing.php:381
+msgid "Cleaning Fee"
+msgstr "Poplatok za upratovanie"
+
+#: template-edit-listing.php:469 template-submit-listing.php:388
+msgid "Cancellation Fee"
+msgstr "Poplatok za zrušenie"
+
+#: template-edit-listing.php:474 template-submit-listing.php:393
+msgid "Security Deposit"
+msgstr "Kaucia"
+
+#: template-edit-listing.php:493 template-submit-listing.php:405
+#: template-user-stats.php:80 template-user-stats.php:149
+#: admin/profile-fields.php:167
+msgid "Address"
+msgstr "Adresa"
+
+#: template-edit-listing.php:494 template-submit-listing.php:406
+msgid "Type in an address"
+msgstr "Zadajte adresu"
+
+#: template-edit-listing.php:512 template-submit-listing.php:424
+msgid "Province"
+msgstr "Provincie"
+
+#: template-edit-listing.php:514 template-submit-listing.php:426
+msgid "Region"
+msgstr "Štát"
+
+#: template-edit-listing.php:516 template-submit-listing.php:428
+msgid "Parish"
+msgstr "Farnosť"
+
+#: template-edit-listing.php:539 template-submit-listing.php:451
+msgid "Latitude & Longitude (optional)"
+msgstr "Zemepisná šírka a dĺžka (voliteľné)"
+
+#: template-edit-listing.php:548 template-submit-listing.php:460
+msgid ""
+"You can also manually drag the marker to the exact location of your listing "
+"if the automatic geolocation is off."
+msgstr ""
+"Môžete tiež ručne pretiahnuť značku na presné miesto vášho záznamu, ak je "
+"automatické geolokácia vypnuté."
+
+#: template-edit-listing.php:554 template-submit-listing.php:466
+msgid "Private Notes"
+msgstr "Súkromné poznámky"
+
+#: template-edit-listing.php:555 template-submit-listing.php:467
+msgid ""
+"Write a private note about this listing, this textarea will not be displayed "
+"anywhere on the front end of the site."
+msgstr ""
+"Napíšte súkromnú poznámku o tomto výpisu, toto textarea sa nebude zobrazovať "
+"nikde na prednej časti stránky."
+
+#: template-edit-listing.php:567 template-submit-listing.php:479
+msgid "Cancel"
+msgstr "Zrušiť"
+
+#: template-edit-listing.php:570 template-submit-listing.php:483
+msgid "Next"
+msgstr "Ďalšie"
+
+#: template-edit-listing.php:578
+msgid "Update"
+msgstr "Aktualizovať"
+
+#: template-edit-listing.php:579 template-submit-listing.php:492
+msgid "Previous"
+msgstr "Predchádzajúci"
+
+#. Name of the template
+msgid "Edit Profile"
+msgstr "Upraviť profil"
+
+#: template-edit-profile.php:75
+msgid "The passwords you entered do not match. Your password was not updated."
+msgstr "Zadané heslá sa nezhodujú. Vaše heslo nebolo aktualizované."
+
+#: template-edit-profile.php:83
+msgid "The Email you entered is not valid. Please try again."
+msgstr "Zadaný e-mail nie je platný. Prosím skúste znova."
+
+#: template-edit-profile.php:85
+msgid "This email is already used by another user. Try a different one."
+msgstr "Tento e-mail už používa iný používateľ. Skúste inú."
+
+#: template-edit-profile.php:130
+msgid "Username"
+msgstr "Užívateľské meno"
+
+#: template-edit-profile.php:131
+msgid "Usernames cannot be changed."
+msgstr "Užívateľské mená sa nedajú zmeniť."
+
+#: template-edit-profile.php:134
+msgid "First Name"
+msgstr "Krstné meno"
+
+#: template-edit-profile.php:138
+msgid "Last Name"
+msgstr "Priezvisko"
+
+#: template-edit-profile.php:142
+msgid "Nickname"
+msgstr "Prezývka"
+
+#: template-edit-profile.php:142
+msgid "(required)"
+msgstr "(požadovaný)"
+
+#: template-edit-profile.php:146
+msgid "Display to Public as"
+msgstr "Zobraziť ako verejné ako"
+
+#: template-edit-profile.php:184
+msgid "Contact Info"
+msgstr "Kontaktné informácie"
+
+#: template-edit-profile.php:188
+msgid "E-mail *"
+msgstr "E-mail *"
+
+#: template-edit-profile.php:192
+msgid "Website"
+msgstr "Web"
+
+#: template-edit-profile.php:215
+msgid "About Yourself"
+msgstr "O tebe"
+
+#: template-edit-profile.php:219
+msgid "Biographical Information"
+msgstr "Životopisné informácie"
+
+#: template-edit-profile.php:219
+msgid ""
+"Share a little biographical information to fill out your profile. This may "
+"be shown publicly."
+msgstr ""
+"Zdieľajte trochu životopisné informácie a vyplňte svoj profil. Toto môže byť "
+"verejne zobrazené."
+
+#: template-edit-profile.php:223
+msgid "New Password"
+msgstr "Nové heslo"
+
+#: template-edit-profile.php:223
+msgid ""
+"If you would like to change the password type a new one. Otherwise leave "
+"this blank."
+msgstr ""
+"Ak chcete zmeniť typ nového hesla. V opačnom prípade nechajte toto prázdne."
+
+#: template-edit-profile.php:227
+msgid "Type your new password again."
+msgstr "Zadajte nové heslo znovu."
+
+#: template-edit-profile.php:229
+msgid "Strength indicator"
+msgstr "Indikátor sily"
+
+#: template-edit-profile.php:241
+msgid "Update Profile"
+msgstr "Aktualizovať profil"
+
+#: template-favorite-listings.php:101
+msgid "Request More Information on All Favorites"
+msgstr "Požiadať o ďalšie informácie o všetkých obľúbených položkách"
+
+#: template-favorite-listings.php:178 template-view-listings.php:134
+#: layouts/list.php:74
+msgid "Bed:"
+msgstr "Izby:"
+
+#: template-favorite-listings.php:188 template-view-listings.php:144
+#: layouts/list.php:84
+msgid "Baths:"
+msgstr "Balkón:"
+
+#: template-favorite-listings.php:199 template-view-listings.php:155
+#: layouts/list.php:95 includes/widgets/ct-widget-flickr.php:63
+msgid "Type:"
+msgstr "Typ:"
+
+#: template-favorite-listings.php:224
+msgid "Previous Entries"
+msgstr "Predchádzajúce"
+
+#: template-favorite-listings.php:225
+msgid "Next Entries"
+msgstr "Ďalšie"
+
+#. Name of the template
+msgid "Full Width 2"
+msgstr "Plná šírka 2"
+
+#. Name of the template
+msgid "Full Width"
+msgstr "Plná šírka"
+
+msgid "Home"
+msgstr "Home"
+
+#. Name of the template
+msgid "IDX Full Width"
+msgstr "IDX plná šírka"
+
+#. Name of the template
+msgid "IDX w/Sidebar"
+msgstr "IDX s bočným panelom"
+
+#. Name of the template
+msgid "Landing Page"
+msgstr "Vstupná stránka"
+
+#. Name of the template
+msgid "Left Sidebar"
+msgstr "Ľavý bočný panel"
+
+#. Name of the template
+msgid "Listing Email Alerts"
+msgstr "Výpis e-mailov"
+
+#: template-listing-email-alerts.php:81
+msgid "Manage your alerts"
+msgstr "Spravujte svoje upozornenia"
+
+#: template-listing-email-alerts.php:82
+msgid "Here you can turn saved alerts on/off or remove them completely."
+msgstr "Tu môžete upozornenia zapnúť / vypnúť alebo ich úplne odstrániť."
+
+#: template-listing-email-alerts.php:87
+msgid "Query"
+msgstr "Dopyt"
+
+#: template-listing-email-alerts.php:90
+msgid "Date Created"
+msgstr "Dátum vytvorenia"
+
+#: template-listing-email-alerts.php:93
+msgid "Email Setting"
+msgstr "Nastavenie e-mailu"
+
+#: template-listing-email-alerts.php:96
+msgid "Delete"
+msgstr "Vymazať"
+
+#: template-listing-email-alerts.php:123
+msgid "You don't have any saved searches yet, create one above."
+msgstr "Nemáte ešte žiadne uložené vyhľadávania, vytvorte si ho vyššie."
+
+#: template-listing-email-alerts.php:135
+msgid ""
+"Activate \"Contempo Email Alerts\" plugin via Appearance > Install Plugins."
+msgstr ""
+"Aktivujte plugin \"Contempo Email Alerts\" pomocou funkcie Vzhľad> "
+"Inštalovať doplnky."
+
+#. Name of the template
+msgid "Sitemap"
+msgstr "Mapa stránky"
+
+#: template-sitemap.php:51
+msgid "Last Twenty Posts"
+msgstr "Posledných dvadsať príspevkov"
+
+#: template-sitemap.php:67
+msgid "Pages"
+msgstr "Stránky"
+
+#: template-sitemap.php:74
+msgid "Categories"
+msgstr "Kategórie"
+
+#: template-sitemap.php:81
+msgid "Posts per category"
+msgstr "Príspevky na kategóriu"
+
+#: template-submit-listing.php:163
+msgid "Listings Limit Reached"
+msgstr "Limit výpisov dosiahol"
+
+#: template-submit-listing.php:164
+msgid "You've reached the listings limit for your membership package."
+msgstr "Dosiahli ste limity na zoznamy pre váš balík členov."
+
+#: template-submit-listing.php:164
+msgid "Upgrade Today!"
+msgstr "Inovujte dnes!"
+
+#: template-submit-listing.php:237
+msgid "Gallery Images (select as many as you like)"
+msgstr "Galéria obrázkov (vyberte toľko, koľko chcete)"
+
+#: template-submit-listing.php:264
+msgid "*At least one image is for valid submission, minimum width of 817px."
+msgstr "* Aspoň jeden obrázok je pre platné odoslanie, minimálna šírka 817px."
+
+#: template-submit-listing.php:306 includes/single-listing-open-house.php:26
+#: includes/single-listing-sub-navigation.php:51
+msgid "Open House"
+msgstr "Dátum a čas obhliadky"
+
+#: template-submit-listing.php:309 template-view-invoices.php:60
+#: includes/single-listing-open-house.php:32
+msgid "Date"
+msgstr "Dátum"
+
+#: template-submit-listing.php:314
+msgid "Start Time"
+msgstr "Začiatok"
+
+#: template-submit-listing.php:319
+msgid "End Time"
+msgstr "Koniec"
+
+#: template-submit-listing.php:353
+msgid " (e.g. 2)"
+msgstr " (napr. 2)"
+
+#: template-submit-listing.php:358
+msgid " (e.g. 1 night)"
+msgstr " (napr. 1 noc)"
+
+#: template-submit-listing.php:365
+msgid " (e.g. 3:00 PM)"
+msgstr " (napr. 3:00 )"
+
+#: template-submit-listing.php:370
+msgid " (e.g. 11:00 AM)"
+msgstr " (napr. 11:00 )"
+
+#: template-submit-listing.php:377
+msgid " (e.g. 50)"
+msgstr " (napr. 50 )"
+
+#: template-submit-listing.php:382
+msgid " (e.g. 150)"
+msgstr " (napr. 150 )"
+
+#: template-submit-listing.php:389
+msgid " (e.g. 275)"
+msgstr " (napr. 275 )"
+
+#: template-submit-listing.php:394
+msgid " (e.g. 895)"
+msgstr " (napr. 895 )"
+
+#: template-submit-listing.php:480
+msgid "Save As Draft"
+msgstr "Uložiť ako koncept"
+
+#. Name of the template
+msgid "Testimonials"
+msgstr "Ohlasy"
+
+#. Name of the template
+msgid "User/Agent Stats"
+msgstr "Štatistiky používateľov a agentov"
+
+#: template-user-stats.php:56
+msgid "Traffic Overview"
+msgstr "Prehľad prevádzky"
+
+#: template-user-stats.php:64
+msgid "Top Listings"
+msgstr "Najlepšie záznamy"
+
+#: template-user-stats.php:67 template-user-stats.php:233
+msgid "Today"
+msgstr "Dnes"
+
+#: template-user-stats.php:68 template-user-stats.php:234
+msgid "Yesterday"
+msgstr "Včera"
+
+#: template-user-stats.php:81 template-user-stats.php:150
+msgid "Views"
+msgstr "Videnie"
+
+#: template-user-stats.php:136 template-user-stats.php:205
+msgid "Total Views"
+msgstr "Celkové pozretia"
+
+#: template-user-stats.php:137
+msgid "315"
+msgstr "315"
+
+#: template-user-stats.php:206
+msgid "314"
+msgstr "314"
+
+#: template-user-stats.php:222
+msgid "Traffic Sources"
+msgstr "Zdroje návštevnosti"
+
+#: template-user-stats.php:230
+msgid "Top Referrers"
+msgstr "Najlepší referenční pracovníci"
+
+#: template-user-stats.php:246 template-user-stats.php:279
+msgid "Referral Page Title"
+msgstr "Názov odporúčanej stránky"
+
+#: template-user-stats.php:247 template-user-stats.php:280
+msgid "Visits"
+msgstr "Návštevy"
+
+#: template-user-stats.php:266 template-user-stats.php:299
+msgid "Total Visits"
+msgstr "Celkové návštevy"
+
+#: template-user-stats.php:267 template-user-stats.php:300
+msgid "79"
+msgstr "79"
+
+#. Name of the template
+msgid "Invoices"
+msgstr "Faktúry"
+
+#: template-view-invoices.php:57
+msgid "Invoice"
+msgstr "Faktúra"
+
+#: template-view-invoices.php:58 includes/single-listing-sub-navigation.php:34
+msgid "Description"
+msgstr "Popis"
+
+#: template-view-invoices.php:62
+msgid "Total"
+msgstr "Celkový"
+
+#: template-view-listings.php:77
+msgid "Type a listing name or address here to filter the list."
+msgstr ""
+"Tu zadajte názov alebo adresu nehnuteľnosti, aby ste tento zoznam "
+"vyfiltrovali."
+
+#: template-view-listings.php:165
+msgid "Featured"
+msgstr "Hlavný"
+
+#: template-view-listings.php:181
+msgid "Paid"
+msgstr "Platený"
+
+#: template-view-listings.php:196
+msgid "Edit"
+msgstr "Editovať"
+
+#: template-view-listings.php:212
+msgid "You don't have any listings yet..."
+msgstr "Zatiaľ nemáte žiadne nehnuteľnosti ..."
+
+#: template-view-listings.php:213
+msgid "Create One"
+msgstr "Vytvor nehnutelnost"
+
+#: admin/profile-fields.php:27
+msgid "Select a Brokerage"
+msgstr "Vyberte makléra"
+
+#: admin/profile-fields.php:47
+msgid "Extra profile information"
+msgstr "Ďalšie informácie o profile"
+
+#: admin/profile-fields.php:59
+msgid "Agent Order"
+msgstr "Príkaz agentov"
+
+#: admin/profile-fields.php:62
+msgid ""
+"If user is an agent select the order you would like them displayed on the "
+"agents page, e.g. 1, 2, 3, etc&hellip; NOTE: You must also set Real Estate 7 "
+"Options > Agents > Manually Order Agents? > to Yes, otherwise the ordering "
+"won't be applied."
+msgstr ""
+"Ak je používateľ agentom, vyberte poradie, ktoré chcete zobraziť na stránke "
+"agentov, napr. 1, 2, 3, etc&hellip; POZNÁMKA: Musíte tiež nastaviť Livinex 7 "
+"Options> Sprostredkovatelia> Manuálne objednať agenti? > do Áno, inak sa "
+"objednávanie nebude uplatňovať."
+
+#: admin/profile-fields.php:66
+msgid "Profile Image"
+msgstr "Profilový obrázok"
+
+#: admin/profile-fields.php:76
+msgid ""
+"Please upload a profile picture here, if none is chosen a default image will "
+"be used."
+msgstr ""
+"Tu prosím nahrajte profilový obrázok, ak nie je zvolený žiadny obrázok, "
+"použije sa predvolený obrázok."
+
+#: admin/profile-fields.php:80
+msgid "Mobile #"
+msgstr "Mobil #"
+
+#: admin/profile-fields.php:86
+msgid "Fax #"
+msgstr "Fax #"
+
+#: admin/profile-fields.php:93
+msgid "Title"
+msgstr "Nadpis"
+
+#: admin/profile-fields.php:99
+msgid "Tagline"
+msgstr "Slogan"
+
+#: admin/profile-fields.php:105
+msgid "Agent License #"
+msgstr "Agent License #"
+
+#: admin/profile-fields.php:108
+msgid "Add the agents license number here."
+msgstr "Pridajte licenčné číslo agenta tu."
+
+#: admin/profile-fields.php:113
+msgid "Agent Testimonials"
+msgstr "Odporúčania"
+
+#: admin/profile-fields.php:117
+msgid ""
+"If this user is marked as an agent (\"Show on agents page\" option above) "
+"use this area to add client testimonials."
+msgstr ""
+"Ak je tento používateľ označený ako agent (možnosť \"Zobraziť na stránkach "
+"agenta\"), použite túto oblasť na pridanie posudkov klientov."
+
+#: admin/profile-fields.php:129
+msgid "Office Information"
+msgstr "Informácie o kancelárii"
+
+#: admin/profile-fields.php:133
+msgid "Personal Logo"
+msgstr "Osobné logo"
+
+#: admin/profile-fields.php:143
+msgid ""
+"Upload your personal logo here, or if you choose to associate a Brokerage "
+"below that logo will be used instead."
+msgstr ""
+"Tu vložte svoje osobné logo alebo ak sa rozhodnete priradiť "
+"sprostredkovateľstvo pod týmto logom."
+
+#: admin/profile-fields.php:150
+msgid ""
+"Assign a brokerage here, these are pulled from the Brokerage custom post "
+"type."
+msgstr ""
+"Priraďte sprostredkovanie tu, ktoré sú vytiahnuté z typu vlastného príspevku "
+"pre maklérov."
+
+#: admin/profile-fields.php:154
+msgid "Brokerage License #"
+msgstr "Maklérske oprávnenie #"
+
+#: admin/profile-fields.php:157
+msgid "Add the brokerage license number here."
+msgstr "Pridajte číslo sprostredkovateľskej licencie tu."
+
+#: admin/profile-fields.php:161
+msgid "Office #"
+msgstr "Kancelária #"
+
+#: admin/profile-fields.php:179
+msgid "State or Province"
+msgstr "Štát alebo provincia"
+
+#: admin/profile-fields.php:185
+msgid "Postal Code"
+msgstr "Stav"
+
+#: includes/advanced-search.php:182 includes/header-advanced-search.php:147
+#: includes/header-advanced-search.php:404
+#: includes/widgets/ct-widget-listingssearch.php:191
+msgid "From"
+msgstr "Z"
+
+#: includes/advanced-search.php:191 includes/header-advanced-search.php:156
+#: includes/header-advanced-search.php:413
+#: includes/widgets/ct-widget-listingssearch.php:200
+msgid "To"
+msgstr "Do"
+
+#: includes/advanced-search.php:236 includes/advanced-search.php:237
+#: includes/header-advanced-search.php:203
+#: includes/header-advanced-search.php:458
+#: includes/header-advanced-search.php:459
+msgid "Keyword"
+msgstr "Kľúčové slovo"
+
+#: includes/advanced-search.php:251
+#: includes/widgets/ct-widget-listingssearch.php:262
+msgid "More Search Options"
+msgstr "Ďalšie možnosti vyhľadávania"
+
+#: includes/agent-contact-modal.php:21 includes/single-listing-contact.php:212
+#: includes/single-listing-home.php:351
+#: includes/widgets/ct-widget-listingscontact.php:30
+msgid "Tell me more about this property"
+msgstr "Povedzte mi viac o tejto nehnuteľnosti"
+
+#: includes/featured-listings.php:30 includes/featured-listings.php:32
+msgid "View All"
+msgstr "Zobraziť všetko"
+
+#: includes/header-advanced-search.php:204
+msgid "Street address or keyword"
+msgstr "Ulica alebo kľúčové slovo"
+
+#: includes/header-advanced-search.php:244
+#: includes/home-hero-advanced-search.php:21
+msgid "Enter a street address or keyword"
+msgstr "Zadajte adresu ulice alebo kľúčové slovo"
+
+#: includes/header-advanced-search.php:358
+msgid "Addtional Features"
+msgstr "Pridané vlastnosti"
+
+#: includes/post-social.php:16 includes/post-social.php:17
+#: includes/post-social.php:18
+msgid "Check out this great article on"
+msgstr "Pozrite sa na tento skvelý článok"
+
+#: includes/single-listing-attachments.php:16
+#: includes/single-listing-sub-navigation.php:106
+msgid "Attachments"
+msgstr "Prílohy"
+
+#: includes/single-listing-booking-calendar.php:17
+#: includes/single-listing-home.php:157
+msgid "Book this listing"
+msgstr "Rdezervujte si nehnutelnost"
+
+#: includes/single-listing-contact.php:201 includes/single-listing-home.php:347
+msgid "Request More Information"
+msgstr "Požiadať o ďalšie informácie"
+
+#: includes/single-listing-contact.php:243 includes/single-listing-home.php:378
+msgid "Co-listing Agent"
+msgstr "Výpis Agenta"
+
+#: includes/single-listing-google-places.php:23
+#: includes/single-listing-home.php:208
+msgid "What's Nearby?"
+msgstr "Čo je blízko?"
+
+#: includes/single-listing-google-places.php:66
+msgid "Restaurants"
+msgstr "Reštaurácia"
+
+#: includes/single-listing-google-places.php:75
+msgid "Coffee Shops"
+msgstr "Kaviarne"
+
+#: includes/single-listing-google-places.php:84
+msgid "Grocery"
+msgstr "Potraviny"
+
+#: includes/single-listing-google-places.php:93
+msgid "Education"
+msgstr "Školstvo"
+
+#: includes/single-listing-google-places.php:102
+msgid "Bank"
+msgstr "Banka"
+
+#: includes/single-listing-google-places.php:111
+msgid "Bars"
+msgstr "Bary"
+
+#: includes/single-listing-google-places.php:120
+msgid "Hospitals"
+msgstr "Nemocnice"
+
+#: includes/single-listing-google-places.php:129
+msgid "Gas Stations"
+msgstr "Čerpacie stanice"
+
+#: includes/single-listing-google-places.php:142
+msgid "Yelp API OAuth Error."
+msgstr "Yelp API OAuth Error."
+
+#: includes/single-listing-google-places.php:143
+msgid "You need to activate the \"Contempo Payment Gateways\" plugin."
+msgstr "Musíte aktivovať plugin \"Contempo Payment Gateways\"."
+
+#: includes/single-listing-google-places.php:147
+msgid "You need to upgrade to the Yelp Fusion API."
+msgstr "Musíte inovovať na rozhranie Yelp Fusion API."
+
+#: includes/single-listing-google-places.php:148
+msgid "Go into Admin > Real Estate 7 Options > Yelp > Create App"
+msgstr "Prejdite do časti Správca> Livinex Options> Yelp> Vytvoriť aplikáciu"
+
+#: includes/single-listing-header.php:35 includes/single-listing-header.php:78
+#: includes/single-listing-home.php:75
+msgid "Co-listing"
+msgstr "Výpis"
+
+#: includes/single-listing-home.php:137
+#: includes/single-listing-rental-info.php:47
+msgid "Prices"
+msgstr "Ceny"
+
+#: includes/single-listing-home.php:207
+msgid "powered by "
+msgstr "poháňaný "
+
+#: includes/single-listing-home.php:448
+msgid "Share This Listing"
+msgstr "Zdieľať tuti nehnutelnost"
+
+#: includes/single-listing-map.php:18
+#: includes/single-listing-sub-navigation.php:135
+#: includes/single-listing-sub-navigation.php:164
+msgid "Location"
+msgstr "Poloha"
+
+#: includes/single-listing-map.php:27
+msgid "Enter your starting address"
+msgstr "Zadajte svoju počiatočnú adresu"
+
+#: includes/single-listing-multi-floorplan.php:21
+msgid "Floor Plans & Pricing"
+msgstr ""
+"Podrobnosti\n"
+
+#: includes/single-listing-multi-floorplan.php:40
+msgid "Size"
+msgstr "Veľkosť"
+
+#: includes/single-listing-multi-floorplan.php:46
+msgid "Availability"
+msgstr "Poznámka"
+
+#: includes/single-listing-open-house.php:35
+msgid "Time"
+msgstr "Čas"
+
+#: includes/single-listing-open-house.php:38
+#: includes/single-listing-open-house.php:80
+msgid "RSVP"
+msgstr "RSVP"
+
+#: includes/single-listing-rental-info.php:25
+msgid "Rental Information"
+msgstr "Informácie"
+
+#: includes/single-listing-sub-listings.php:15
+msgid "Other Listings in Community"
+msgstr "Ďalšie inzeráty"
+
+#: includes/single-listing-sub-navigation.php:61
+msgid "Floor Plans"
+msgstr "Vlastnosti"
+
+#: includes/single-listing-sub-navigation.php:78
+msgid "Rental Info"
+msgstr "Informácie"
+
+#: includes/single-listing-sub-navigation.php:87
+msgid "Features"
+msgstr "Výhody"
+
+#: includes/single-listing-sub-navigation.php:96
+msgid "Booking"
+msgstr "Rezervovať"
+
+#: includes/single-listing-sub-navigation.php:117
+#: includes/single-listing-video.php:16
+msgid "Video"
+msgstr "Video"
+
+#: includes/single-listing-sub-navigation.php:127
+msgid "Tour"
+msgstr "Pohľad z ulice"
+
+#: includes/single-listing-sub-navigation.php:142
+msgid "Nearby"
+msgstr "Okolie"
+
+#: includes/single-listing-sub-navigation.php:163
+msgid "Listing Features"
+msgstr "Vlastnosti nehnuteľnosti"
+
+#: includes/single-listing-virtual-tour.php:18
+msgid "Virtual Tour"
+msgstr "Pohľad z ulice"
+
+#: includes/sub-listings.php:81
+#: includes/widgets/ct-widget-agentsotherlistings.php:119
+msgid "Bed"
+msgstr "Izby:"
+
+#: includes/sub-listings.php:115
+#: includes/widgets/ct-widget-agentsotherlistings.php:153
+msgid "Rating"
+msgstr "Hodnotenie"
+
+#: includes/sub-listings.php:133
+#: includes/widgets/ct-widget-agentsotherlistings.php:171
+msgid "Guests"
+msgstr "Výťah"
+
+#: includes/sub-listings.php:148
+#: includes/widgets/ct-widget-agentsotherlistings.php:186
+msgid "Min Stay"
+msgstr "Stav"
+
+#: includes/sub-listings.php:189
+#: includes/widgets/ct-widget-agentsotherlistings.php:227
+msgid "Lot Size"
+msgstr "Veľkosť sady"
+
+#: layouts/blog-large.php:96
+msgid "Read More"
+msgstr "Čítaj viac"
+
+#: layouts/grid.php:19 layouts/list.php:16
+msgid "This agent currently has no active listings."
+msgstr "Tento agent momentálne nemá žiadne aktívne nehnuteľnosti."
+
+#: layouts/grid.php:21 layouts/list.php:18
+msgid "This brokerage currently has no active listings."
+msgstr "Táto maklérka momentálne nemá žiadne aktívne nehnuteľnosti"
+
+#: layouts/grid.php:23 layouts/list.php:20
+msgid "No properties were found which match your search criteria"
+msgstr ""
+"Neboli nájdené žiadne nehnuteľnosti, ktoré by vyhovovali vašim kritériám "
+"vyhľadávania"
+
+#: layouts/saved-search-list.php:53 includes/widgets/ct-widget-tabs.php:214
+msgid "on"
+msgstr "on"
+
+#: layouts/saved-search-list.php:53
+msgid "On"
+msgstr "On"
+
+#: layouts/saved-search-list.php:54
+msgid "off"
+msgstr "off"
+
+#: layouts/saved-search-list.php:54
+msgid "Off"
+msgstr "Off"
+
+#: admin/ct-social/ct-social.php:28
+msgid "CT Social"
+msgstr "CT Social"
+
+#: admin/ct-social/ct-social.php:130
+#: includes/widgets/ct-widget-agentinfo.php:108
+#: includes/widgets/ct-widget-agentsotherlistings.php:281
+#: includes/widgets/ct-widget-blogauthor.php:60
+#: includes/widgets/ct-widget-brokerinfo.php:78
+#: includes/widgets/ct-widget-contactinfo.php:133
+#: includes/widgets/ct-widget-latestposts.php:70
+#: includes/widgets/ct-widget-listings.php:131
+#: includes/widgets/ct-widget-listingscontact.php:68
+#: includes/widgets/ct-widget-listingssearch.php:286
+#: includes/widgets/ct-widget-search.php:40
+#: includes/widgets/ct-widget-testimonials.php:62
+msgid "Title:"
+msgstr "Názov:"
+
+#: admin/ct-social/ct-social.php:134
+msgid "Dribbble:"
+msgstr "Dribbble:"
+
+#: admin/ct-social/ct-social.php:138
+#: includes/widgets/ct-widget-contactinfo.php:169
+msgid "Email:"
+msgstr "Email:"
+
+#: admin/ct-social/ct-social.php:142
+#: includes/widgets/ct-widget-contactinfo.php:173
+msgid "Facebook:"
+msgstr "Facebook:"
+
+#: admin/ct-social/ct-social.php:146
+msgid "Flickr:"
+msgstr "Flickr:"
+
+#: admin/ct-social/ct-social.php:150
+msgid "Foursquare:"
+msgstr "Foursquare:"
+
+#: admin/ct-social/ct-social.php:154
+msgid "GitHub:"
+msgstr "GitHub:"
+
+#: admin/ct-social/ct-social.php:158
+#: includes/widgets/ct-widget-contactinfo.php:181
+msgid "Google+:"
+msgstr "Google+:"
+
+#: admin/ct-social/ct-social.php:162
+#: includes/widgets/ct-widget-contactinfo.php:193
+msgid "Instagram:"
+msgstr "Instagram:"
+
+#: admin/ct-social/ct-social.php:166
+#: includes/widgets/ct-widget-contactinfo.php:185
+msgid "LinkedIn:"
+msgstr "LinkedIn:"
+
+#: admin/ct-social/ct-social.php:170
+msgid "Medium:"
+msgstr "Medium:"
+
+#: admin/ct-social/ct-social.php:174
+#: includes/widgets/ct-widget-contactinfo.php:189
+msgid "Pinterest:"
+msgstr "Pinterest:"
+
+#: admin/ct-social/ct-social.php:178
+msgid "Skype:"
+msgstr "Skype:"
+
+#: admin/ct-social/ct-social.php:182
+#: includes/widgets/ct-widget-contactinfo.php:177
+msgid "Twitter:"
+msgstr "Twitter:"
+
+#: admin/ct-social/ct-social.php:186
+msgid "YouTube:"
+msgstr "YouTube:"
+
+#: admin/ct-social/ct-social.php:190
+msgid "Links:"
+msgstr "Links:"
+
+#: admin/getting-started/getting-started.php:91
+#, php-format
+msgid "Getting started with %1$s v%2$s"
+msgstr "Začíname s %1$s v%2$s"
+
+#: admin/getting-started/getting-started.php:93
+#, php-format
+msgid ""
+"Thanks for purchasing %1$s! I truly appreciate the support and the "
+"opportunity to share my work with you. Please visit the tabs below to get "
+"started setting up your theme!"
+msgstr ""
+"Ďakujeme za nákup %1$s! Naozaj ocenujeme podporu a príležitosť zdieľať svoju "
+"prácu s vami. Navštívte nižšie uvedené karty a začnite s nastavovaním témy!"
+
+#: admin/getting-started/getting-started.php:99
+msgid "Start Here"
+msgstr "Tu začnite"
+
+#: admin/getting-started/getting-started.php:100
+msgid "Plugins"
+msgstr "Plugins"
+
+#: admin/getting-started/getting-started.php:101
+msgid "FAQ &amp; Support"
+msgstr "FAQ &amp; Podpora"
+
+#: admin/getting-started/getting-started.php:102
+msgid "Latest Updates"
+msgstr "Najnovšie aktualizácie"
+
+#: admin/getting-started/getting-started.php:110
+#, php-format
+msgid "Installing %s"
+msgstr "Inštalácia %s"
+
+#: admin/getting-started/getting-started.php:116
+msgid "Documentation"
+msgstr "Dokumentácia"
+
+#: admin/getting-started/getting-started.php:164
+msgid "Required & Recommended Plugins"
+msgstr "Požadované a odporúčané doplnky"
+
+#: admin/getting-started/getting-started.php:166
+msgid ""
+"Below is a list of required and recommended plugins to install that will "
+"help you get the most out of WP Pro Real Estate 7. To begin please use the "
+"button below or browse through the list to learn about each one in a little "
+"more detail."
+msgstr ""
+"Nižšie je zoznam požadovaných a odporúčaných zásuvných modulov na inštaláciu,"
+" ktoré vám pomôžu získať čo najviac zo služby Livinex. Ak chcete začať "
+"používať nižšie uvedené tlačidlo alebo prechádzať zoznamom, získate "
+"podrobnejšie informácie o každej z nich."
+
+#: admin/getting-started/getting-started.php:172
+#: admin/getting-started/getting-started.php:184
+#: admin/getting-started/getting-started.php:196
+msgid "Required"
+msgstr "Požadovaný"
+
+#: admin/getting-started/getting-started.php:172 admin/plugins/register.php:64
+msgid "Redux Framework"
+msgstr "Redux Framework"
+
+#: admin/getting-started/getting-started.php:174
+msgid "Install Redux Framework"
+msgstr "Nainštalujte Redux Framework"
+
+#: admin/getting-started/getting-started.php:174
+#: admin/getting-started/getting-started.php:186
+#: admin/getting-started/getting-started.php:198
+#: admin/getting-started/getting-started.php:210
+#: admin/getting-started/getting-started.php:222
+#: admin/getting-started/getting-started.php:234
+#: admin/getting-started/getting-started.php:246
+#: admin/getting-started/getting-started.php:258
+#: admin/getting-started/getting-started.php:270
+#: admin/getting-started/getting-started.php:282
+#: admin/getting-started/getting-started.php:294
+#: admin/getting-started/getting-started.php:309
+#: admin/getting-started/getting-started.php:321
+#: admin/getting-started/getting-started.php:333
+#: admin/getting-started/getting-started.php:345
+#: admin/getting-started/getting-started.php:357
+#: admin/getting-started/getting-started.php:369
+#: admin/getting-started/getting-started.php:381
+msgid "Install Now"
+msgstr "Nainštalovať teraz"
+
+#: admin/getting-started/getting-started.php:176
+#: admin/getting-started/getting-started.php:188
+#: admin/getting-started/getting-started.php:200
+#: admin/getting-started/getting-started.php:212
+#: admin/getting-started/getting-started.php:224
+#: admin/getting-started/getting-started.php:236
+#: admin/getting-started/getting-started.php:248
+#: admin/getting-started/getting-started.php:260
+#: admin/getting-started/getting-started.php:272
+#: admin/getting-started/getting-started.php:284
+#: admin/getting-started/getting-started.php:296
+#: admin/getting-started/getting-started.php:311
+#: admin/getting-started/getting-started.php:323
+#: admin/getting-started/getting-started.php:335
+#: admin/getting-started/getting-started.php:347
+#: admin/getting-started/getting-started.php:359
+#: admin/getting-started/getting-started.php:371
+#: admin/getting-started/getting-started.php:383
+msgid "Installed"
+msgstr "Nainštalovaný"
+
+#: admin/getting-started/getting-started.php:180
+msgid "This plugin is used for the admin options framework."
+msgstr "Tento doplnok sa používa pre rámec možností administrátora."
+
+#: admin/getting-started/getting-started.php:184 admin/plugins/register.php:70
+msgid "Contempo Real Estate Custom Posts"
+msgstr "Contempo Real Estate Vlastné príspevky"
+
+#: admin/getting-started/getting-started.php:186
+msgid "Install Contempo Real Estate Custom Posts"
+msgstr "Nainštalujte Real Estate Custom Posts"
+
+#: admin/getting-started/getting-started.php:192
+msgid ""
+"This plugin registers the listings, brokerages & testimonials custom post "
+"types, along with related custom fields & taxonomies, as well as all the "
+"custom Visual Composer modules (if you have the Visual Composer plugin "
+"installed & activated)."
+msgstr ""
+"Tento doplnok registruje zoznamy, sprostredkovanie a posudky vlastných typov "
+"príspevkov spolu so súvisiacimi vlastnými poľami a taxonomiami, ako aj "
+"všetkými vlastnými modulmi Visual Composer (ak máte nainštalovaný a "
+"aktivovaný doplnok Visual Composer)."
+
+#: admin/getting-started/getting-started.php:196 admin/plugins/register.php:108
+msgid "Contempo Real Estate 7 Extensions Loader"
+msgstr "Contempo Real Estate Rozšírenie"
+
+#: admin/getting-started/getting-started.php:198
+msgid "Install Contempo Real Estate 7 Extensions Loader"
+msgstr "Nainštalujte aplikáciu Contempo Real Estate 7 Extensions Loader"
+
+#: admin/getting-started/getting-started.php:204
+msgid "This includes required extensions for the theme."
+msgstr "Toto zahŕňa potrebné rozšírenia pre danú tému."
+
+#: admin/getting-started/getting-started.php:208
+#: admin/getting-started/getting-started.php:220
+#: admin/getting-started/getting-started.php:232
+#: admin/getting-started/getting-started.php:244
+#: admin/getting-started/getting-started.php:256
+#: admin/getting-started/getting-started.php:268
+#: admin/getting-started/getting-started.php:280
+#: admin/getting-started/getting-started.php:292
+#: admin/getting-started/getting-started.php:307
+#: admin/getting-started/getting-started.php:319
+#: admin/getting-started/getting-started.php:331
+#: admin/getting-started/getting-started.php:343
+#: admin/getting-started/getting-started.php:355
+#: admin/getting-started/getting-started.php:367
+#: admin/getting-started/getting-started.php:379
+msgid "Recommended"
+msgstr "Rdporúčaný"
+
+#: admin/getting-started/getting-started.php:208 admin/plugins/register.php:141
+msgid "Contempo Saved Searches & Email Alerts"
+msgstr "Contempo Uložené vyhľadávania a e-mailové upozornenia"
+
+#: admin/getting-started/getting-started.php:210
+msgid "Install Contempo Saved Searches & Email Alerts"
+msgstr "Inštalovať kontempo uložené vyhľadávania a e-mailové upozornenia"
+
+#: admin/getting-started/getting-started.php:216
+msgid "This plugin allows users be alerted via email when a listing is added."
+msgstr ""
+"Tento doplnok umožňuje používateľom upozorniť e-mailom pri pridávaní "
+"nehnuteľnosti."
+
+#: admin/getting-started/getting-started.php:220 admin/plugins/register.php:130
+msgid "Contempo Compare Listings"
+msgstr "Contempo Compare Listings"
+
+#: admin/getting-started/getting-started.php:222
+#: admin/getting-started/getting-started.php:246
+msgid "Install Contempo Compare Listings"
+msgstr "Install Contempo Compare Listings"
+
+#: admin/getting-started/getting-started.php:228
+msgid "This plugin adds compare functionality for listings."
+msgstr "This plugin adds compare functionality for listings."
+
+#: admin/getting-started/getting-started.php:232
+msgid "Contempo Mortgage Calculator Widget"
+msgstr "Contempo Mortgage Calculator Widget"
+
+#: admin/getting-started/getting-started.php:234
+msgid "Install Contempo Mortgage Calculator Widget"
+msgstr "Install Contempo Mortgage Calculator Widget"
+
+#: admin/getting-started/getting-started.php:240
+msgid "This plugin enables a simple mortgage calculator widget."
+msgstr "This plugin enables a simple mortgage calculator widget."
+
+#: admin/getting-started/getting-started.php:244 admin/plugins/register.php:152
+msgid "Contempo Child Theme Generator"
+msgstr "Contempo Child Theme Generator"
+
+#: admin/getting-started/getting-started.php:252
+msgid ""
+"This plugin allows admin users to easily generate a child theme from your "
+"Admin > Appearance panel."
+msgstr ""
+"Tento doplnok umožňuje používateľom administrácie ľahko generovať podradenú "
+"tému z vášho panelu Admin> Appearance."
+
+#: admin/getting-started/getting-started.php:256
+msgid "Contempo Payment Gateways"
+msgstr "Platobné brány"
+
+#: admin/getting-started/getting-started.php:258
+msgid "Install Contempo Payment Gateways"
+msgstr "Inštalujte platobné brány"
+
+#: admin/getting-started/getting-started.php:264
+msgid ""
+"This plugin enables various payment gateways only required if you're going "
+"to be charging listing submissions from the front end of the site."
+msgstr ""
+"Tento plugin umožňuje rôzne platobné brány, ktoré sa vyžadujú iba vtedy, keď "
+"budete účtovať odosielanie záznamov z prednej časti stránky."
+
+#: admin/getting-started/getting-started.php:268 admin/plugins/register.php:163
+msgid "Slider Revolution"
+msgstr "Slider Revolution"
+
+#: admin/getting-started/getting-started.php:270
+msgid "Install Slider Revolution"
+msgstr "Install Slider Revolution"
+
+#: admin/getting-started/getting-started.php:276
+msgid ""
+"Slider Revolution is an innovative, responsive WordPress Slider Plugin that "
+"displays your content the beautiful way."
+msgstr ""
+"Slider Revolution je inovatívny a reagujúci doplnok WordPress Slider, ktorý "
+"zobrazuje váš obsah krásnym spôsobom."
+
+#: admin/getting-started/getting-started.php:280 admin/plugins/register.php:174
+msgid "Visual Composer"
+msgstr "Visual Composer"
+
+#: admin/getting-started/getting-started.php:282
+msgid "Install Visual Composer"
+msgstr "Install Visual Composer"
+
+#: admin/getting-started/getting-started.php:288
+msgid ""
+"WordPress Page Builder plugin with intuitive drag and drop interface. Build "
+"any page fast and easy. Unlimited layouts for your website."
+msgstr ""
+"WordPress Page Builder plugin s intuitívnym drag & drop rozhraním. "
+"Vytvárajte ľubovoľnú stránku rýchlo a jednoducho. Neobmedzené rozloženie pre "
+"vaše webové stránky."
+
+#: admin/getting-started/getting-started.php:292
+msgid "WPML"
+msgstr "WPML"
+
+#: admin/getting-started/getting-started.php:294
+msgid "Install WPML"
+msgstr "Install WPML"
+
+#: admin/getting-started/getting-started.php:302
+#, php-format
+msgid ""
+"<a href=\"%s\" target=\"_blank\">WPML</a> allows running fully multilingual "
+"websites with WordPress, making it easy to translate WordPress pages, posts, "
+"tags, categories and themes."
+msgstr ""
+"<a href=\"%s\" target=\"_blank\">WPML</a> allows running fully multilingual "
+"websites with WordPress, making it easy to translate WordPress pages, posts, "
+"tags, categories and themes."
+
+#: admin/getting-started/getting-started.php:307
+#: admin/getting-started/getting-started.php:331 admin/plugins/register.php:84
+msgid "WordPress Social Login"
+msgstr "WordPress Sociálne prihlásenie"
+
+#: admin/getting-started/getting-started.php:309
+#: admin/getting-started/getting-started.php:321
+msgid "Install WP Favorite Posts"
+msgstr "Inštalácia WP Favorite Posts"
+
+#: admin/getting-started/getting-started.php:315
+msgid ""
+"This plugin allows users to login/register with their social profiles like "
+"Facebook, Google, Twitter, etc&hellip;"
+msgstr ""
+"Tento doplnok umožňuje používateľom prihlásiť sa / zaregistrovať sa v "
+"sociálnych profiloch, ako sú Facebook, Google, Twitter, etc&hellip;"
+
+#: admin/getting-started/getting-started.php:319 admin/plugins/register.php:78
+msgid "WP Favorite Posts"
+msgstr "WP Favorite Posts"
+
+#: admin/getting-started/getting-started.php:327
+msgid ""
+"This plugin allows users to favorite & save listings from the front end of "
+"the site."
+msgstr ""
+"Tento doplnok umožňuje používateľom ukladať obľúbené položky a ukladať ich z "
+"prednej časti stránky."
+
+#: admin/getting-started/getting-started.php:333
+msgid "Install WordPress Social Login"
+msgstr "Nainštalujte aplikáciu WordPress Social Login"
+
+#: admin/getting-started/getting-started.php:339
+msgid ""
+"This plugin allows users to login/register for your site via social networks "
+"like Facebook, Google, Twitter, etc&hellip;"
+msgstr ""
+"Tento doplnok umožňuje používateľom prihlásiť / zaregistrovať sa na vašich "
+"stránkach prostredníctvom sociálnych sietí ako Facebook, Google, Twitter, "
+"etc&hellip;"
+
+#: admin/getting-started/getting-started.php:343 admin/plugins/register.php:90
+msgid "Booking Calendar"
+msgstr "Kalendár rezervácie"
+
+#: admin/getting-started/getting-started.php:345
+msgid "Install Booking Calendar"
+msgstr "Inštalácia kalendára rezervácií"
+
+#: admin/getting-started/getting-started.php:351
+msgid ""
+"This plugin will enable online booking services, however you're free to use "
+"whatever booking plugin you'd like as long as it supports shortcodes."
+msgstr ""
+"Tento doplnok umožní online rezervácie, avšak môžete používať akýkoľvek "
+"doplnok rezervácie, ktorý chcete, pokiaľ podporuje krátke kódy."
+
+#: admin/getting-started/getting-started.php:355 admin/plugins/register.php:96
+msgid "Co-Authors Plus"
+msgstr "Co-Authors Plus"
+
+#: admin/getting-started/getting-started.php:357
+msgid "Install Co-Authors Plus"
+msgstr "Install Co-Authors Plus"
+
+#: admin/getting-started/getting-started.php:363
+msgid ""
+"This plugin allows you to assign multiple users or agents to listings, "
+"perfect for co-listings."
+msgstr ""
+"Tento doplnok umožňuje priradiť viacerým používateľom alebo agentom zoznamy, "
+"ktoré sú ideálne pre spoločné zápisy."
+
+#: admin/getting-started/getting-started.php:367 admin/plugins/register.php:102
+msgid "Comments Ratings"
+msgstr "Hodnotenie komentárov"
+
+#: admin/getting-started/getting-started.php:369
+msgid "Install Comments Ratings"
+msgstr "Install Comments Ratings"
+
+#: admin/getting-started/getting-started.php:375
+msgid "This plugin allows you to enable ratings for your listings."
+msgstr "Tento plugin vám umožňuje povoliť hodnotenie vašich záznamov."
+
+#: admin/getting-started/getting-started.php:379 admin/plugins/register.php:185
+msgid "Envato Market"
+msgstr "Envato Market"
+
+#: admin/getting-started/getting-started.php:381
+msgid "Install Envato Market"
+msgstr "Install Envato Market"
+
+#: admin/getting-started/getting-started.php:387
+msgid ""
+"This plugin allows you to easily get theme updates through your WordPress "
+"admin."
+msgstr ""
+"Tento plugin vám umožňuje ľahko získať aktualizácie tém prostredníctvom "
+"správcu WordPress."
+
+#: admin/getting-started/getting-started.php:396
+#, php-format
+msgid "Support for %s?"
+msgstr "Podpora pre %s?"
+
+#: admin/getting-started/getting-started.php:402
+#, php-format
+msgid ""
+"If you've read through the <a href=\"%1$s\" target=\"_blank\">"
+"documentation</a> and still have questions or are experiencing issues, I'm "
+"happy to help! Simply <a href=\"%2$s\"  target=\"_blank\" title=\"Open a "
+"live chat\">open a live chat</a> or <a href=\"%3$s\" target=\"_blank\">leave "
+"a comment</a> on the item page and I'll personally get back to you, thanks "
+"in advance for your patience."
+msgstr ""
+"Ak ste si prečítali <a href=\"%1$s\" target=\"_blank\">dokumentáciu</a> a "
+"stále máte otázky alebo máte problémy, som rád, že vám pomôžem! jednoducho "
+"<a href=\"%2$s\"  target=\"_blank\" title=\"Open a live chat\">open a live "
+"chat</a> or <a href=\"%3$s\" target=\"_blank\">leave a comment</a>na stránke "
+"s položkami a ja sa osobne vrátim k vám, ďakujem vopred za trpezlivosť."
+
+#: admin/getting-started/getting-started.php:405
+#, php-format
+msgid "FAQ for %s?"
+msgstr "Často kladené otázky pre %s?"
+
+#: admin/getting-started/getting-started.php:408
+msgid ""
+"The following articles below cover many frequently asked questions that you "
+"may have."
+msgstr ""
+"Nasledujúce články sa týkajú mnohých často kladených otázok, ktoré môžete "
+"mať."
+
+#: admin/getting-started/getting-started.php:454
+msgid "Need Modifications or Customizations?"
+msgstr "Potrebujete úpravy alebo prispôsobenia?"
+
+#: admin/getting-started/getting-started.php:459
+#, php-format
+msgid ""
+"Send me an email <a href=\"mailto:%s\">chris@contempothemes.com</a>, with a "
+"detailed outline of what you’d like to accomplish and I’ll get you a quote "
+"and turnaround time."
+msgstr ""
+"Pošli mi email <a href=\"mailto:%s\">web@mrcall.sk</a>, with a detailed "
+"outline of what you’d like to accomplish and I’ll get you a quote and "
+"turnaround time."
+
+#: admin/getting-started/getting-started.php:468
+#, php-format
+msgid ""
+"Please note that support requests will not be answered via email, only "
+"through my <a href=\"%1$s\" target=\"_blank\">live chat</a> or within the <a "
+"href=\"%2$s\" target=\"_blank\">item comments</a>."
+msgstr ""
+"Upozorňujeme, že žiadosti o podporu nebudú odpovedané prostredníctvom e-"
+"mailu, iba prostredníctvom mojich <a href=\"%1$s\" target=\"_blank\">live "
+"chat</a> or within the <a href=\"%2$s\" target=\"_blank\">item comments</a>."
+
+#: admin/getting-started/getting-started.php:478
+msgid "Hosting Recommendations"
+msgstr "Odporúčania pre hosťovanie"
+
+#: admin/getting-started/getting-started.php:492
+#: admin/getting-started/getting-started.php:495
+msgid "Visit the Knowledge Base"
+msgstr "Navštívte databázu Knowledge Base"
+
+#: admin/getting-started/getting-started.php:493
+msgid ""
+"New to the WordPress world? The Knowledge Base has a boat load of articles "
+"to help you with any issues that might arise."
+msgstr ""
+"Nové pre svet WordPress? Znalostná báza obsahuje články, ktoré vám pomôžu s "
+"akýmikoľvek problémami, ktoré by mohli vzniknúť."
+
+#: admin/getting-started/getting-started.php:495
+msgid "Visit the knowledge base"
+msgstr "Navštívte databázu poznatkov"
+
+#: admin/google-places/GooglePlaces.php:149
+#: admin/google-places/GooglePlaces.php:165
+#: admin/google-places/GooglePlaces.php:182
+msgid "Google Places API is currently unavailable."
+msgstr "API služby Miesta Google momentálne nie je k dispozícii."
+
+#: admin/google-places/GooglePlaces.php:151
+msgid ""
+"You must specify a valid listing location, use street address in the listing "
+"title along with city, state & zip/postcode — if not use the optional "
+"latitude & longitude field."
+msgstr ""
+"Musíte zadať platné umiestnenie záznamu, použiť názov ulice v názve reklamy "
+"spolu s mestom, stavom & zip / postcode - ak nepoužívate voliteľné pole "
+"zemepisnej šírky a dĺžky."
+
+#: admin/google-places/GooglePlaces.php:167
+#: admin/google-places/GooglePlaces.php:207
+msgid ""
+"You much specify at least one of the following: \"keyword\", \"name\", "
+"\"types\"."
+msgstr ""
+"Musíte zadať aspoň jedno z nasledujúcich: \"kľúčové slovo\", \"meno\", "
+"\"typy\"."
+
+#: admin/google-places/GooglePlaces.php:184
+msgid "You must specify a radius."
+msgstr "Musíte zadať polomer."
+
+#: admin/google-places/GooglePlaces.php:197
+msgid "You must specify a location before calling radarsearch()."
+msgstr "Musíte zadať miesto před vyhladavanim ()."
+
+#: admin/google-places/GooglePlaces.php:221
+msgid ""
+"You must specify either a \"placeid\" or a \"reference\" (but not both) "
+"before calling details()."
+msgstr ""
+"Pred volaním podrobností musíte zadať buď \"miesto\" alebo \"odkaz\" (ale "
+"nie oboje) ()."
+
+#: admin/plugins/register.php:119
+msgid "Contempo Real Estate 7 Payment Gateways"
+msgstr "Platobné brány"
+
+#: admin/plugins/register.php:196
+msgid "CT Mortgage Calculator"
+msgstr "Hypotekárna kalkulačka"
+
+#: includes/widgets/ct-widget-adspace.php:13
+msgid "CT Adspace Widget"
+msgstr "Adspace Widget"
+
+#: includes/widgets/ct-widget-adspace.php:61
+#: includes/widgets/ct-widget-listingssocial.php:49
+msgid "Title (optional):"
+msgstr "Názov (nepovinné):"
+
+#: includes/widgets/ct-widget-adspace.php:65
+msgid "Ad Code:"
+msgstr "Kód reklamy:"
+
+#: includes/widgets/ct-widget-adspace.php:70
+msgid "Image Url:"
+msgstr "URL obrázka:"
+
+#: includes/widgets/ct-widget-adspace.php:74
+msgid "Link URL:"
+msgstr "URL odkazu:"
+
+#: includes/widgets/ct-widget-adspace.php:78
+msgid "Alt text:"
+msgstr "Alt text:"
+
+#: includes/widgets/ct-widget-agentinfo.php:13
+msgid "CT Agent Info"
+msgstr "Informácie o agentovi"
+
+#: includes/widgets/ct-widget-agentinfo.php:70
+msgid "Mobile"
+msgstr "Mobil"
+
+#: includes/widgets/ct-widget-agentinfo.php:73
+msgid "Office"
+msgstr "Kancelária"
+
+#: includes/widgets/ct-widget-agentinfo.php:76
+msgid "Fax"
+msgstr "Fax"
+
+#: includes/widgets/ct-widget-agentsotherlistings.php:13
+msgid "CT Agents Other Listings"
+msgstr "Ďalšie záznamy zástupca"
+
+#: includes/widgets/ct-widget-agentsotherlistings.php:285
+#: includes/widgets/ct-widget-flickr.php:55
+#: includes/widgets/ct-widget-latestposts.php:74
+#: includes/widgets/ct-widget-listings.php:135
+#: includes/widgets/ct-widget-testimonials.php:66
+msgid "Number:"
+msgstr "Číslo:"
+
+#: includes/widgets/ct-widget-agentsotherlistings.php:293
+#: includes/widgets/ct-widget-listings.php:143
+msgid "Taxonomy:"
+msgstr "Taxonómie:"
+
+#: includes/widgets/ct-widget-agentsotherlistings.php:302
+#: includes/widgets/ct-widget-listings.php:152
+msgid "Tag:"
+msgstr "Tag:"
+
+#: includes/widgets/ct-widget-blogauthor.php:13
+msgid "CT Blog Author Info"
+msgstr "Informácie o autorovi blogu"
+
+#: includes/widgets/ct-widget-blogauthor.php:64
+msgid "Bio:"
+msgstr "Bio:"
+
+#: includes/widgets/ct-widget-blogauthor.php:68
+msgid "<a href=\"http://www.gravatar.com/\">Gravatar</a> E-mail:"
+msgstr "<a href=\"http://www.gravatar.com/\">Gravatar</a> E-mail:"
+
+#: includes/widgets/ct-widget-blogauthor.php:72
+msgid "Gravatar Size:"
+msgstr "Gravatar Veľkosť:"
+
+#: includes/widgets/ct-widget-blogauthor.php:76
+msgid "Gravatar Alignment:"
+msgstr "Gravatar zarovnanie:"
+
+#: includes/widgets/ct-widget-blogauthor.php:78
+msgid "Left"
+msgstr "Ľavý"
+
+#: includes/widgets/ct-widget-blogauthor.php:79
+msgid "Right"
+msgstr "Pravý"
+
+#: includes/widgets/ct-widget-blogauthor.php:83
+msgid "Read More Text (optional):"
+msgstr "Čítajte viac Text (voliteľné):"
+
+#: includes/widgets/ct-widget-blogauthor.php:87
+msgid "Read More URL (optional):"
+msgstr "Čítajte viac URL (voliteľné):"
+
+#: includes/widgets/ct-widget-blogauthor.php:91
+msgid "Visible Pages:"
+msgstr "Viditeľné stránky:"
+
+#: includes/widgets/ct-widget-blogauthor.php:93
+msgid "All"
+msgstr "Všetko"
+
+#: includes/widgets/ct-widget-blogauthor.php:94
+msgid "Home only"
+msgstr "Home only"
+
+#: includes/widgets/ct-widget-blogauthor.php:95
+msgid "Single only"
+msgstr "Single only"
+
+#: includes/widgets/ct-widget-brokerinfo.php:13
+msgid "CT Brokers Info"
+msgstr "Brokers Info"
+
+#: includes/widgets/ct-widget-brokerinfo.php:54
+msgid "Email Office"
+msgstr "Email Office"
+
+#: includes/widgets/ct-widget-brokerinfo.php:55
+msgid "Visit Brokers Website"
+msgstr "Navštívte webovú stránku maklérov"
+
+#: includes/widgets/ct-widget-brokerinfo.php:82
+msgid "Logo URL:"
+msgstr "Logo URL:"
+
+#: includes/widgets/ct-widget-brokerinfo.php:86
+msgid "Company:"
+msgstr "Spoločnosť:"
+
+#: includes/widgets/ct-widget-brokerinfo.php:90
+msgid "Office Phone:"
+msgstr "Telefón v kancelárii:"
+
+#: includes/widgets/ct-widget-brokerinfo.php:94
+msgid "Office Email:"
+msgstr "Email v kancelárii:"
+
+#: includes/widgets/ct-widget-brokerinfo.php:98
+msgid "Website:"
+msgstr "Web:"
+
+#: includes/widgets/ct-widget-contactinfo.php:13
+msgid "CT Contact Info"
+msgstr "Kontaktné informácie"
+
+#: includes/widgets/ct-widget-contactinfo.php:126
+msgid "Show Logo:"
+msgstr "Zobraziť logo:"
+
+#: includes/widgets/ct-widget-contactinfo.php:128
+msgid "Yes"
+msgstr "Áno"
+
+#: includes/widgets/ct-widget-contactinfo.php:129
+msgid "No"
+msgstr "Nie"
+
+#: includes/widgets/ct-widget-contactinfo.php:137
+msgid "Blurb:"
+msgstr "Záložka:"
+
+#: includes/widgets/ct-widget-contactinfo.php:141
+msgid "Company Name:"
+msgstr "Meno spoločnosti:"
+
+#: includes/widgets/ct-widget-contactinfo.php:145
+msgid "Street Address:"
+msgstr "Ulica:"
+
+#: includes/widgets/ct-widget-contactinfo.php:149
+msgid "City:"
+msgstr "Město:"
+
+#: includes/widgets/ct-widget-contactinfo.php:153
+msgid "State:"
+msgstr "Štát:"
+
+#: includes/widgets/ct-widget-contactinfo.php:157
+msgid "Postal:"
+msgstr "Stav:"
+
+#: includes/widgets/ct-widget-contactinfo.php:161
+msgid "Country:"
+msgstr "Okres:"
+
+#: includes/widgets/ct-widget-contactinfo.php:165
+msgid "Phone:"
+msgstr "Telefón:"
+
+#: includes/widgets/ct-widget-flickr.php:13
+msgid "CT Flickr"
+msgstr "Flickr"
+
+#: includes/widgets/ct-widget-flickr.php:26
+msgid "Photos on flickr"
+msgstr "Fotografie na flickr"
+
+#: includes/widgets/ct-widget-flickr.php:51
+msgid "Flickr ID (<a href=\"http://www.idgettr.com\">idGettr</a>):"
+msgstr "Flickr ID (<a href=\"http://www.idgettr.com\">idGettr</a>):"
+
+#: includes/widgets/ct-widget-flickr.php:65
+msgid "User"
+msgstr "Užívateľ"
+
+#: includes/widgets/ct-widget-flickr.php:66
+msgid "Group"
+msgstr "Skupina"
+
+#: includes/widgets/ct-widget-flickr.php:70
+msgid "Sorting:"
+msgstr "Triedenie:"
+
+#: includes/widgets/ct-widget-flickr.php:72
+#: includes/widgets/ct-widget-tabs.php:110
+#: includes/widgets/ct-widget-tabs.php:117
+msgid "Latest"
+msgstr "Najnovšie"
+
+#: includes/widgets/ct-widget-flickr.php:73
+msgid "Random"
+msgstr "Náhodný"
+
+#: includes/widgets/ct-widget-flickr.php:77
+msgid "Size:"
+msgstr "Rozmery:"
+
+#: includes/widgets/ct-widget-flickr.php:79
+msgid "Square"
+msgstr "Square"
+
+#: includes/widgets/ct-widget-flickr.php:80
+msgid "Medium"
+msgstr "Medium"
+
+#: includes/widgets/ct-widget-flickr.php:81
+msgid "Thumbnail"
+msgstr "Náhľad"
+
+#: includes/widgets/ct-widget-latestposts.php:13
+msgid "CT Latest Posts"
+msgstr "Najnovšie príspevky"
+
+#: includes/widgets/ct-widget-listings.php:13
+msgid "CT Listings"
+msgstr "Nehnuteľnosti"
+
+#: includes/widgets/ct-widget-listings.php:156
+msgid "View All Link Text"
+msgstr "Zobraziť všetok text odkazu"
+
+#: includes/widgets/ct-widget-listings.php:160
+msgid "View All Link URL"
+msgstr "Zobraziť všetky odkazy URL"
+
+#: includes/widgets/ct-widget-listingscontact.php:13
+msgid "CT Listing Agent Contact"
+msgstr "Zoznam kontaktov agentov"
+
+#: includes/widgets/ct-widget-listingscontact.php:72
+msgid "Subject:"
+msgstr "Predmet:"
+
+#: includes/widgets/ct-widget-listingssearch.php:13
+msgid "CT Listings Search"
+msgstr "Hľadanie v zoznamoch"
+
+#: includes/widgets/ct-widget-listingssocial.php:13
+msgid "CT Listings Social"
+msgstr "Zoznam sociálne siete"
+
+#: includes/widgets/ct-widget-search.php:13
+msgid "CT Search"
+msgstr "Hľadanie"
+
+#: includes/widgets/ct-widget-tabs.php:13
+msgid "CT Tabs"
+msgstr "Záložky"
+
+#: includes/widgets/ct-widget-tabs.php:103
+msgid "Number of posts:"
+msgstr "Počet príspevkov:"
+
+#: includes/widgets/ct-widget-tabs.php:108
+msgid "First Visible Tab:"
+msgstr "Prvá viditeľná karta:"
+
+#: includes/widgets/ct-widget-tabs.php:111
+#: includes/widgets/ct-widget-tabs.php:120
+msgid "Comments"
+msgstr "Komentáre"
+
+#: includes/widgets/ct-widget-tabs.php:112
+#: includes/widgets/ct-widget-tabs.php:123
+msgid "Tags"
+msgstr "Tagy"
+
+#: includes/widgets/ct-widget-testimonials.php:13
+msgid "CT Testimonials"
+msgstr "Ohlasy"
+
+#. Name of the theme
+msgid "WP Pro Real Estate 7"
+msgstr "Livinex"
+
+#. Description of the theme
+msgid ""
+"A responsive real estate theme, designed by <a href=\"http://www."
+"contempographicdesign.com\">Contempo</a>."
+msgstr ""
+"A responsive real estate theme, designed by <a href=\"https://www.facebook."
+"com/WEB.CREATE.design/\">WEB CREATE: Computer & Web design</a>."
+
+#. URI of the theme
+msgid "http://themeforest.net/user/contempoinc?ref=contempoinc"
+msgstr "https://www.facebook.com/WEB.CREATE.design"
+
+#. Author of the theme
+msgid "Chris Robinson"
+msgstr "WEB CREATE: Computer & Web design"
+
+#. Author URI of the theme
+msgid "http://www.contempographicdesign.com"
+msgstr "https://www.facebook.com/WEB.CREATE.design"

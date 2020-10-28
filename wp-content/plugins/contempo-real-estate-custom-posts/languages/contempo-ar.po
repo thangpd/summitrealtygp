@@ -1,0 +1,4045 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-01-12 17:18+0000\n"
+"PO-Revision-Date: 2020-01-12 17:18+0000\n"
+"Last-Translator: \n"
+"Language-Team: Arabic\n"
+"Language: ar\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100 >= 3 "
+"&& n%100<=10 ? 3 : n%100 >= 11 && n%100<=99 ? 4 : 5;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: includes/ct-real-estate-custom-widgets.php:2491
+msgid "Links:"
+msgstr "الروابط:"
+
+#: ct-elementor-widgets/widgets/ct-listings-grid.php:96
+#: ct-elementor-widgets/widgets/ct-listings-list.php:96
+#: ct-elementor-widgets/widgets/ct-listings-map.php:96
+#: ct-elementor-widgets/widgets/ct-listings-minimal-grid.php:96
+msgid "Display IDX Listings?"
+msgstr "عرض IDX القوائم ؟ "
+
+#: ct-elementor-widgets/widgets/ct-listings-grid.php:157
+#: ct-elementor-widgets/widgets/ct-listings-list.php:157
+#: ct-elementor-widgets/widgets/ct-listings-map.php:174
+#: ct-elementor-widgets/widgets/ct-listings-minimal-grid.php:165
+msgid "Agent Name"
+msgstr "وكيل اسم"
+
+#: ct-elementor-widgets/widgets/ct-listings-grid.php:159
+#: ct-elementor-widgets/widgets/ct-listings-list.php:159
+#: ct-elementor-widgets/widgets/ct-listings-map.php:176
+#: ct-elementor-widgets/widgets/ct-listings-minimal-grid.php:167
+msgid "Mary Sanders"
+msgstr "مريم ساندرز"
+
+#: ct-elementor-widgets/widgets/ct-listings-grid.php:160
+#: ct-elementor-widgets/widgets/ct-listings-list.php:160
+#: ct-elementor-widgets/widgets/ct-listings-map.php:177
+#: ct-elementor-widgets/widgets/ct-listings-minimal-grid.php:168
+msgid ""
+"Show only a specific agents MLS listings, e.g. Mary Sanders, Bill Johnson, "
+"Ryan Serhant."
+msgstr ""
+"عرض معينة فقط وكلاء القوائم متعدد الأطراف ، مثل ماري ساندرز بيل جونسون ، "
+"سيرهانت Ryan."
+
+#: ct-elementor-widgets/widgets/ct-listings-grid.php:178
+#: ct-elementor-widgets/widgets/ct-listings-list.php:178
+#: ct-elementor-widgets/widgets/ct-listings-map.php:195
+#: ct-elementor-widgets/widgets/ct-listings-minimal-grid.php:186
+msgid "Price Min"
+msgstr "سعر دقيقة"
+
+#: ct-elementor-widgets/widgets/ct-listings-grid.php:181
+#: ct-elementor-widgets/widgets/ct-listings-list.php:181
+#: ct-elementor-widgets/widgets/ct-listings-map.php:198
+#: ct-elementor-widgets/widgets/ct-listings-minimal-grid.php:189
+msgid "No Minimum"
+msgstr "لا يوجد حد أدنى"
+
+#: ct-elementor-widgets/widgets/ct-listings-grid.php:182
+#: ct-elementor-widgets/widgets/ct-listings-list.php:182
+#: ct-elementor-widgets/widgets/ct-listings-map.php:199
+#: ct-elementor-widgets/widgets/ct-listings-minimal-grid.php:190
+msgid "Enter the price without currency or separators, e.g. 250000"
+msgstr "أدخل السعر بدون العملة أو فواصل مثل 250000"
+
+#: ct-elementor-widgets/widgets/ct-listings-grid.php:189
+#: ct-elementor-widgets/widgets/ct-listings-list.php:189
+#: ct-elementor-widgets/widgets/ct-listings-map.php:206
+#: ct-elementor-widgets/widgets/ct-listings-minimal-grid.php:197
+msgid "Price Max"
+msgstr "سعر ماكس"
+
+#: ct-elementor-widgets/widgets/ct-listings-grid.php:192
+#: ct-elementor-widgets/widgets/ct-listings-list.php:192
+#: ct-elementor-widgets/widgets/ct-listings-map.php:209
+#: ct-elementor-widgets/widgets/ct-listings-minimal-grid.php:199
+msgid "No Maximum"
+msgstr "ولا يوجد حد أقصى"
+
+#: ct-elementor-widgets/widgets/ct-listings-grid.php:193
+#: ct-elementor-widgets/widgets/ct-listings-list.php:193
+#: ct-elementor-widgets/widgets/ct-listings-map.php:210
+#: ct-elementor-widgets/widgets/ct-listings-minimal-grid.php:200
+msgid "Enter the price without currency or separators, e.g. 950000"
+msgstr "أدخل السعر بدون العملة أو فواصل مثل 950000"
+
+#: ct-elementor-widgets/widgets/ct-listings-grid.php:577
+#: ct-elementor-widgets/widgets/ct-listings-list.php:588
+#: ct-elementor-widgets/widgets/ct-listings-minimal-grid.php:602
+msgid "Featured"
+msgstr "المميز"
+
+#: ct-elementor-widgets/widgets/ct-listings-map.php:41
+msgid "CT Listings Map"
+msgstr "CT القوائم خريطة"
+
+#: ct-elementor-widgets/widgets/ct-listings-map.php:614
+#: ct-elementor-widgets/widgets/ct-listings-map.php:648
+msgid "You need to setup the Google Maps API."
+msgstr "تحتاج إلى إعداد خرائط جوجل API."
+
+#: ct-elementor-widgets/widgets/ct-listings-map.php:653
+msgid "Map Will Be Rendered in Frontend Preview or Live View"
+msgstr "خريطة سيتم تقديمها في الواجهة معاينة أو عرض لايف"
+
+#: ct-elementor-widgets/widgets/ct-listings-map.php:653
+msgid "Click the \"Eye\" icon next to Update to preview the page."
+msgstr "انقر فوق رمز \"العين\" بجانب تحديث معاينة الصفحة."
+
+#: ct-elementor-widgets/widgets/ct-listings-search.php:88
+msgid "Search Field Controls"
+msgstr "البحث الميداني الضوابط"
+
+#: ct-elementor-widgets/widgets/ct-listings-search.php:254
+msgid "Beds +"
+msgstr "سرير +"
+
+#: ct-elementor-widgets/widgets/ct-listings-search.php:264
+msgid "All Bed"
+msgstr "كل سرير"
+
+#: ct-elementor-widgets/widgets/ct-listings-search.php:280
+msgid "Baths +"
+msgstr "الحمامات +"
+
+#: ct-elementor-widgets/widgets/ct-listings-search.php:288
+msgid "All Bath"
+msgstr "كل حمام"
+
+#: ct-elementor-widgets/widgets/ct-listings-search.php:351
+msgid "Price range:"
+msgstr "النطاق السعري:"
+
+#: ct-elementor-widgets/widgets/ct-listings-search.php:387
+msgid "Size range:"
+msgstr "حجم مجموعة:"
+
+#: ct-elementor-widgets/widgets/ct-listings-search.php:424
+msgid "Lot size range:"
+msgstr "حجم مجموعة:"
+
+#: ct-elementor-widgets/widgets/ct-listings-search.php:468
+msgid "Keyword"
+msgstr "الكلمات الرئيسية"
+
+#: ct-elementor-widgets/widgets/ct-listings-search.php:469
+msgid "Street, City, State, Zip or keyword"
+msgstr "الشارع, المدينة, الدولة, الرمز البريدي أو الكلمات الرئيسية"
+
+#: ct-elementor-widgets/widgets/ct-listings-search.php:471
+msgid "Searching..."
+msgstr "البحث عن..."
+
+#: ct-elementor-widgets/widgets/ct-modern-item-grid.php:41
+msgid "CT Modern 6 Item Grid"
+msgstr "CT الحديث 6 البند الشبكة"
+
+#: ct-real-estate-cmb2-functions.php:63
+msgid "Choose a Brokerage"
+msgstr "اختيار الوساطة"
+
+#: ct-real-estate-cmb2-functions.php:141 ct-real-estate-cmb2-functions.php:704
+msgid "Information"
+msgstr "المعلومات"
+
+#: ct-real-estate-cmb2-functions.php:146 ct-real-estate-cmb2-functions.php:289
+msgid "Slider Images"
+msgstr "الصور المنزلق"
+
+#: ct-real-estate-cmb2-functions.php:150 ct-real-estate-cmb2-functions.php:385
+msgid "Files & Documents"
+msgstr "الملفات "
+
+#: ct-real-estate-cmb2-functions.php:154 ct-real-estate-cmb2-functions.php:398
+#: includes/metabox/metaboxes.php:82
+msgid "Video"
+msgstr "فيديو"
+
+#: ct-real-estate-cmb2-functions.php:158
+msgid "Virtual Tour"
+msgstr "جولة افتراضية"
+
+#: ct-real-estate-cmb2-functions.php:162 ct-real-estate-cmb2-functions.php:442
+msgid "Brokerage"
+msgstr "الوساطة"
+
+#: ct-real-estate-cmb2-functions.php:166
+msgid "Energy Efficiency"
+msgstr "كفاءة الطاقة"
+
+#: ct-real-estate-cmb2-functions.php:170
+msgid "Home Featured Order"
+msgstr "ظهرت المنزل من أجل"
+
+#: ct-real-estate-cmb2-functions.php:186
+msgid "Listing Alternate Title"
+msgstr "قائمة البديل العنوان"
+
+#: ct-real-estate-cmb2-functions.php:187
+msgid ""
+"Enter the listing alternate title here replaces street address, e.g. "
+"Downtown Penthouse."
+msgstr ""
+"أدخل قائمة بديلة العنوان هنا يستبدل عنوان الشارع على سبيل المثال وسط المدينة "
+"السقيفة."
+
+#: ct-real-estate-cmb2-functions.php:195
+msgid "Price Prefix Text"
+msgstr "السعر البادئة النص"
+
+#: ct-real-estate-cmb2-functions.php:196
+msgid ""
+"Enter the price prefix text here, e.g. (From, Call for price, Price on ask)."
+msgstr ""
+"أدخل السعر البادئة النص هنا على سبيل المثال (من يدعو سعر, سعر على الطلب)."
+
+#: ct-real-estate-cmb2-functions.php:204 ct-real-estate-cmb2-functions.php:665
+#: includes/ct-real-estate-custom-post-types.php:134
+#: includes/ct-real-estate-custom-post-types.php:148
+#: ct-elementor-widgets/widgets/ct-listings-grid.php:137
+#: ct-elementor-widgets/widgets/ct-listings-list.php:137
+#: ct-elementor-widgets/widgets/ct-listings-map.php:137
+#: ct-elementor-widgets/widgets/ct-listings-minimal-grid.php:145
+msgid "Price"
+msgstr "السعر"
+
+#: ct-real-estate-cmb2-functions.php:205
+msgid ""
+"Enter the price here, without commas or seperators. If empty no price will "
+"be shown."
+msgstr "أدخل السعر هنا دون فواصل أو seperators. إذا كان فارغا لا سيتم عرض سعر."
+
+#: ct-real-estate-cmb2-functions.php:213
+msgid "Price Postfix Text"
+msgstr "سعر Postfix النص"
+
+#: ct-real-estate-cmb2-functions.php:214
+msgid "Enter the price postfix text here, e.g. (/month, /week, /per night)."
+msgstr ""
+"أدخل سعر postfix النص هنا على سبيل المثال (/شهر /أسبوع /في الليلة الواحدة)."
+
+#: ct-real-estate-cmb2-functions.php:222
+#: ct-elementor-widgets/widgets/ct-listings-grid.php:854
+#: ct-elementor-widgets/widgets/ct-listings-list.php:862
+msgid "Sq Ft"
+msgstr "قدم مربعة"
+
+#: ct-real-estate-cmb2-functions.php:223
+msgid "Enter the sq ft or sq meters here."
+msgstr "أدخل قدم مربع أو متر مربع هنا."
+
+#: ct-real-estate-cmb2-functions.php:231
+#: includes/_ct-real-estate-custom-shortcodes.php:403
+#: includes/_ct-real-estate-custom-shortcodes.php:654
+#: includes/_ct-real-estate-custom-shortcodes.php:1217
+#: includes/ct-real-estate-custom-shortcodes.php:397
+#: includes/ct-real-estate-custom-shortcodes.php:646
+#: includes/ct-real-estate-custom-shortcodes.php:1298
+#: includes/ct-real-estate-custom-widgets.php:452
+#: ct-elementor-widgets/widgets/ct-listings-grid.php:839
+#: ct-elementor-widgets/widgets/ct-listings-list.php:847
+#: ct-elementor-widgets/widgets/ct-listings-minimal-grid.php:835
+#: ct-elementor-widgets/widgets/ct-listings-search.php:423
+msgid "Lot Size"
+msgstr "حجم الكثير"
+
+#: ct-real-estate-cmb2-functions.php:232
+msgid "Enter the lot size here."
+msgstr "أدخل حجم الكثير هنا."
+
+#: ct-real-estate-cmb2-functions.php:240
+msgid "Pets"
+msgstr "الحيوانات الأليفة"
+
+#: ct-real-estate-cmb2-functions.php:241
+msgid "Enter pets here, e.g. (Cats, small dogs)"
+msgstr "دخول الحيوانات الأليفة هنا مثل (القطط, الكلاب الصغيرة)"
+
+#: ct-real-estate-cmb2-functions.php:249
+msgid "Parking"
+msgstr "وقوف السيارات"
+
+#: ct-real-estate-cmb2-functions.php:250
+msgid "Enter parking here, e.g. (Carport, 2 Car Garage, Gated Parking Garage)"
+msgstr ""
+"أدخل الوقوف هنا على سبيل المثال (موقف سيارات و 2 مرآب للسيارات, بوابات مرآب "
+"للسيارات)"
+
+#: ct-real-estate-cmb2-functions.php:258
+#: includes/ct-real-estate-custom-widgets.php:1591
+#: includes/ct-real-estate-custom-widgets.php:1592
+#: ct-elementor-widgets/widgets/ct-listings-search.php:445
+#: ct-elementor-widgets/widgets/ct-listings-search.php:446
+msgid "Property ID"
+msgstr "الخاصية ID"
+
+#: ct-real-estate-cmb2-functions.php:259
+msgid "Enter the property ID here, e.g. 5648973"
+msgstr "أدخل معرف الخاصية هنا ، على سبيل المثال 5648973"
+
+#: ct-real-estate-cmb2-functions.php:267
+msgid "Latitude &amp; Longitude"
+msgstr "العرض "
+
+#: ct-real-estate-cmb2-functions.php:268
+msgid ""
+"<strong>OPTIONAL:</strong> Only use the latitude and longitude if the "
+"regular full address can't be found. (ex: 37.4419, -122.1419)"
+msgstr ""
+
+#: ct-real-estate-cmb2-functions.php:276
+msgid "Owner/Agent Notes"
+msgstr "مالك/وكيل الملاحظات"
+
+#: ct-real-estate-cmb2-functions.php:277
+msgid "Owner/Agent Notes (*not visible on front end)."
+msgstr "مالك/وكيل الملاحظات (*غير مرئي على الواجهة الأمامية)."
+
+#: ct-real-estate-cmb2-functions.php:290
+msgid "Upload all your slider images here, drag and drop to reorder."
+msgstr "تحميل جميع الصور المنزلق الخاص بك هنا, قم بسحب وإسقاط لإعادة ترتيب."
+
+#: ct-real-estate-cmb2-functions.php:386
+msgid ""
+"Supported file types are PDF, Word, Excel & PowerPoint.<br />NOTE: The files "
+"need to be uploaded/attached to this listing in order for them to show on "
+"the frontend."
+msgstr ""
+
+#: ct-real-estate-cmb2-functions.php:399
+msgid "Paste your video url here, supports YouTube, Vimeo."
+msgstr "لصق رابط الفيديو هنا يدعم يوتيوب, فيميو."
+
+#: ct-real-estate-cmb2-functions.php:411
+msgid "Virtual Tour (embed)"
+msgstr "جولة افتراضية (تضمين)"
+
+#: ct-real-estate-cmb2-functions.php:412
+msgid ""
+"Paste your virtual tour embed code here, <strong>NOTE:</strong> this area "
+"does not support [shortcodes]."
+msgstr ""
+
+#: ct-real-estate-cmb2-functions.php:420
+msgid "Virtual Tour (shortcode)"
+msgstr "جولة افتراضية (رمز قصير)"
+
+#: ct-real-estate-cmb2-functions.php:421
+msgid ""
+"Paste your virtual tour [shortcode] code here, <strong>NOTE:</strong> this "
+"is only for [shortcodes]."
+msgstr ""
+
+#: ct-real-estate-cmb2-functions.php:429
+msgid "Virtual Tour (URL)"
+msgstr "جولة افتراضية (URL)"
+
+#: ct-real-estate-cmb2-functions.php:430
+msgid ""
+"Paste your virtual tour URL here (e.g. https://somedomain.com/), to be used "
+"with an iframe."
+msgstr ""
+"لصق جولة افتراضية الرابط هنا (مثلا ، https://somedomain.com/), أن يكون "
+"استعملت مع iframe."
+
+#: ct-real-estate-cmb2-functions.php:443
+msgid ""
+"If the listing agent is affiliated with a brokerage you can select that here."
+msgstr "إذا كان الوكيل هو المنتسب الوساطة يمكنك تحديد ذلك هنا."
+
+#: ct-real-estate-cmb2-functions.php:456
+msgid "Energy Class"
+msgstr "فئة الطاقة"
+
+#: ct-real-estate-cmb2-functions.php:461
+msgid "A+++"
+msgstr "A "
+
+#: ct-real-estate-cmb2-functions.php:462
+msgid "A++"
+msgstr "A "
+
+#: ct-real-estate-cmb2-functions.php:463
+msgid "A+"
+msgstr "A "
+
+#: ct-real-estate-cmb2-functions.php:464
+msgid "A"
+msgstr "A"
+
+#: ct-real-estate-cmb2-functions.php:465
+msgid "B"
+msgstr "ب"
+
+#: ct-real-estate-cmb2-functions.php:466
+msgid "C"
+msgstr "ج"
+
+#: ct-real-estate-cmb2-functions.php:467
+msgid "D"
+msgstr "D"
+
+#: ct-real-estate-cmb2-functions.php:468
+msgid "E"
+msgstr "هـ"
+
+#: ct-real-estate-cmb2-functions.php:469
+msgid "F"
+msgstr "F"
+
+#: ct-real-estate-cmb2-functions.php:470
+msgid "G"
+msgstr "ز"
+
+#: ct-real-estate-cmb2-functions.php:477
+msgid "Global Energy Performance"
+msgstr "الطاقة العالمية الأداء"
+
+#: ct-real-estate-cmb2-functions.php:478
+msgid "e.g. 91.56 kWh / m<sup>2</sup>a"
+msgstr ""
+
+#: ct-real-estate-cmb2-functions.php:486
+msgid "Renewable Energy Performance"
+msgstr "الطاقة المتجددة الأداء"
+
+#: ct-real-estate-cmb2-functions.php:487
+msgid "e.g. 84.12 kWh / m<sup>2</sup>a"
+msgstr ""
+
+#: ct-real-estate-cmb2-functions.php:495
+msgid "Building Energy Performance"
+msgstr "بناء أداء الطاقة"
+
+#: ct-real-estate-cmb2-functions.php:496
+msgid "High, Low, etc…"
+msgstr "عالية, انخفاض, الخ..."
+
+#: ct-real-estate-cmb2-functions.php:508
+msgid "Home Featured Listing Order"
+msgstr "ظهرت المنزل أجل إدراج"
+
+#: ct-real-estate-cmb2-functions.php:509
+msgid ""
+"If you've marked this listing as Featured under Status you can select the "
+"order you would like them displayed on the homepage, e.g. 1, 2, 3, "
+"etc&hellip;NOTE: You must also set Real Estate 7 Options > Homepage > "
+"Featured Listings > Manually Order Featured Listings? > to Yes, otherwise "
+"the ordering won't be applied."
+msgstr ""
+"إذا كنت\\'لقد تميزت هذه القائمة كما ظهرت في ظل الوضع يمكنك تحديد ترتيب ترغب "
+"بها عرضها على الصفحة الرئيسية ، على سبيل المثال 1, 2, 3, الخ"
+
+#: ct-real-estate-cmb2-functions.php:534
+msgid "Open House"
+msgstr "البيت المفتوح"
+
+#: ct-real-estate-cmb2-functions.php:542
+msgid ""
+"Use this area to add open house dates & times. <strong>NOTE:</strong> Make "
+"sure you also go into Real Estate 7 Options > Listings > Single Listing > "
+"Content Layout > Open House > Enabled <a href=\"https://cl.ly/0J2v0B0f2b3F\">"
+"screenshot</a>, otherwise the floor plans will not be shown."
+msgstr ""
+
+#: ct-real-estate-cmb2-functions.php:544
+msgid "Open House {#}"
+msgstr ""
+
+#: ct-real-estate-cmb2-functions.php:545
+msgid "Add Another Open House"
+msgstr "إضافة آخر البيت المفتوح"
+
+#: ct-real-estate-cmb2-functions.php:546
+msgid "Remove Open House"
+msgstr "إزالة البيت المفتوح"
+
+#: ct-real-estate-cmb2-functions.php:559
+#: includes/_ct-real-estate-custom-shortcodes.php:2583
+#: includes/ct-real-estate-custom-shortcodes.php:2665
+#: ct-elementor-widgets/widgets/ct-listings-grid.php:136
+#: ct-elementor-widgets/widgets/ct-listings-list.php:136
+#: ct-elementor-widgets/widgets/ct-listings-map.php:136
+#: ct-elementor-widgets/widgets/ct-listings-minimal-grid.php:144
+msgid "Date"
+msgstr "تاريخ"
+
+#: ct-real-estate-cmb2-functions.php:567
+#: includes/_ct-real-estate-custom-shortcodes.php:2593
+#: includes/ct-real-estate-custom-shortcodes.php:2675
+msgid "Start Time"
+msgstr "وقت البدء"
+
+#: ct-real-estate-cmb2-functions.php:574
+#: includes/_ct-real-estate-custom-shortcodes.php:2603
+#: includes/ct-real-estate-custom-shortcodes.php:2685
+msgid "End Time"
+msgstr "نهاية الوقت"
+
+#: ct-real-estate-cmb2-functions.php:582
+msgid "RSVP"
+msgstr "RSVP"
+
+#: ct-real-estate-cmb2-functions.php:583
+msgid "If selected Yes this will add a scrollto link to the contact form."
+msgstr "في حالة اختيار نعم هذا إضافة scrollto رابط استمارة الاتصال."
+
+#: ct-real-estate-cmb2-functions.php:588
+#: includes/ct-real-estate-custom-widgets.php:877
+#: ct-elementor-widgets/widgets/ct-listings-grid.php:99
+#: ct-elementor-widgets/widgets/ct-listings-grid.php:233
+#: ct-elementor-widgets/widgets/ct-listings-list.php:99
+#: ct-elementor-widgets/widgets/ct-listings-list.php:233
+#: ct-elementor-widgets/widgets/ct-listings-map.php:99
+#: ct-elementor-widgets/widgets/ct-listings-map.php:250
+#: ct-elementor-widgets/widgets/ct-listings-minimal-grid.php:99
+#: ct-elementor-widgets/widgets/ct-listings-minimal-grid.php:240
+#: includes/metabox/metaboxes.php:34 includes/metabox/metaboxes.php:44
+#: includes/metabox/metaboxes.php:60 includes/metabox/metaboxes.php:78
+#: includes/metabox/metaboxes.php:181 includes/metabox/metaboxes.php:203
+#: includes/metabox/metaboxes.php:213
+msgid "No"
+msgstr "لا"
+
+#: ct-real-estate-cmb2-functions.php:589
+#: includes/ct-real-estate-custom-widgets.php:876
+#: ct-elementor-widgets/widgets/ct-listings-grid.php:100
+#: ct-elementor-widgets/widgets/ct-listings-grid.php:234
+#: ct-elementor-widgets/widgets/ct-listings-list.php:100
+#: ct-elementor-widgets/widgets/ct-listings-list.php:234
+#: ct-elementor-widgets/widgets/ct-listings-map.php:100
+#: ct-elementor-widgets/widgets/ct-listings-map.php:251
+#: ct-elementor-widgets/widgets/ct-listings-minimal-grid.php:100
+#: ct-elementor-widgets/widgets/ct-listings-minimal-grid.php:241
+#: includes/metabox/metaboxes.php:33 includes/metabox/metaboxes.php:43
+#: includes/metabox/metaboxes.php:59 includes/metabox/metaboxes.php:77
+#: includes/metabox/metaboxes.php:180 includes/metabox/metaboxes.php:202
+#: includes/metabox/metaboxes.php:212
+msgid "Yes"
+msgstr "نعم"
+
+#: ct-real-estate-cmb2-functions.php:620
+msgid ""
+"Use this area to add multiple floor plans to your listing along with pricing "
+"and descriptions. <strong>NOTE:</strong> Make sure you also go into Real "
+"Estate 7 Options > Listings > Enable Multi-Floorplan & Pricing Fields? > "
+"Select Yes <a href=\"http://cl.ly/3F3y1t1V2Z0u\">screenshot</a>, otherwise "
+"the floor plans will not be shown."
+msgstr ""
+
+#: ct-real-estate-cmb2-functions.php:622
+msgid "Floor Plan {#}"
+msgstr ""
+
+#: ct-real-estate-cmb2-functions.php:623
+msgid "Add Another Floor Plan"
+msgstr "إضافة آخر خطة الكلمة"
+
+#: ct-real-estate-cmb2-functions.php:624
+msgid "Remove Floor Plan"
+msgstr "إزالة خطة الكلمة"
+
+#: ct-real-estate-cmb2-functions.php:637
+#: includes/_ct-real-estate-custom-shortcodes.php:1822
+#: includes/_ct-real-estate-custom-shortcodes.php:1862
+#: includes/_ct-real-estate-custom-shortcodes.php:1902
+#: includes/_ct-real-estate-custom-shortcodes.php:2087
+#: includes/_ct-real-estate-custom-shortcodes.php:2128
+#: includes/_ct-real-estate-custom-shortcodes.php:2169
+#: includes/_ct-real-estate-custom-shortcodes.php:2210
+#: includes/_ct-real-estate-custom-shortcodes.php:2251
+#: includes/_ct-real-estate-custom-shortcodes.php:2292
+#: includes/_ct-real-estate-custom-shortcodes.php:2791
+#: includes/ct-real-estate-custom-shortcodes.php:1904
+#: includes/ct-real-estate-custom-shortcodes.php:1944
+#: includes/ct-real-estate-custom-shortcodes.php:1984
+#: includes/ct-real-estate-custom-shortcodes.php:2169
+#: includes/ct-real-estate-custom-shortcodes.php:2210
+#: includes/ct-real-estate-custom-shortcodes.php:2251
+#: includes/ct-real-estate-custom-shortcodes.php:2292
+#: includes/ct-real-estate-custom-shortcodes.php:2333
+#: includes/ct-real-estate-custom-shortcodes.php:2374
+#: includes/ct-real-estate-custom-shortcodes.php:2873
+#: ct-elementor-widgets/widgets/ct-agent.php:116
+#: ct-elementor-widgets/widgets/ct-modern-item-grid.php:95
+#: ct-elementor-widgets/widgets/ct-modern-item-grid.php:151
+#: ct-elementor-widgets/widgets/ct-modern-item-grid.php:207
+#: ct-elementor-widgets/widgets/ct-modern-item-grid.php:263
+#: ct-elementor-widgets/widgets/ct-modern-item-grid.php:319
+#: ct-elementor-widgets/widgets/ct-modern-item-grid.php:375
+#: ct-elementor-widgets/widgets/ct-six-item-grid.php:95
+#: ct-elementor-widgets/widgets/ct-six-item-grid.php:151
+#: ct-elementor-widgets/widgets/ct-six-item-grid.php:207
+#: ct-elementor-widgets/widgets/ct-six-item-grid.php:263
+#: ct-elementor-widgets/widgets/ct-six-item-grid.php:319
+#: ct-elementor-widgets/widgets/ct-six-item-grid.php:377
+#: ct-elementor-widgets/widgets/ct-three-item-grid.php:95
+#: ct-elementor-widgets/widgets/ct-three-item-grid.php:151
+#: ct-elementor-widgets/widgets/ct-three-item-grid.php:207
+#: includes/metabox/metaboxes.php:38
+msgid "Title"
+msgstr "العنوان"
+
+#: ct-real-estate-cmb2-functions.php:644
+#: includes/_ct-real-estate-custom-shortcodes.php:789
+#: includes/_ct-real-estate-custom-shortcodes.php:1352
+#: includes/ct-real-estate-custom-post-types.php:135
+#: includes/ct-real-estate-custom-post-types.php:149
+#: includes/ct-real-estate-custom-shortcodes.php:863
+#: includes/ct-real-estate-custom-shortcodes.php:1434
+#: includes/ct-real-estate-custom-taxonomies.php:128
+#: includes/ct-real-estate-custom-taxonomies.php:129
+#: includes/ct-real-estate-custom-widgets.php:1478
+#: ct-elementor-widgets/widgets/ct-listings-grid.php:200
+#: ct-elementor-widgets/widgets/ct-listings-grid.php:690
+#: ct-elementor-widgets/widgets/ct-listings-list.php:200
+#: ct-elementor-widgets/widgets/ct-listings-list.php:700
+#: ct-elementor-widgets/widgets/ct-listings-map.php:217
+#: ct-elementor-widgets/widgets/ct-listings-minimal-grid.php:207
+#: ct-elementor-widgets/widgets/ct-listings-minimal-grid.php:702
+#: ct-elementor-widgets/widgets/ct-listings-search.php:236
+msgid "Beds"
+msgstr "أسرة"
+
+#: ct-real-estate-cmb2-functions.php:651
+#: includes/_ct-real-estate-custom-shortcodes.php:293
+#: includes/_ct-real-estate-custom-shortcodes.php:544
+#: includes/_ct-real-estate-custom-shortcodes.php:798
+#: includes/_ct-real-estate-custom-shortcodes.php:1107
+#: includes/_ct-real-estate-custom-shortcodes.php:1361
+#: includes/ct-real-estate-custom-post-types.php:136
+#: includes/ct-real-estate-custom-post-types.php:150
+#: includes/ct-real-estate-custom-shortcodes.php:287
+#: includes/ct-real-estate-custom-shortcodes.php:536
+#: includes/ct-real-estate-custom-shortcodes.php:872
+#: includes/ct-real-estate-custom-shortcodes.php:1188
+#: includes/ct-real-estate-custom-shortcodes.php:1443
+#: includes/ct-real-estate-custom-taxonomies.php:243
+#: includes/ct-real-estate-custom-taxonomies.php:244
+#: includes/ct-real-estate-custom-widgets.php:360
+#: includes/ct-real-estate-custom-widgets.php:1487
+#: ct-elementor-widgets/widgets/ct-listings-grid.php:210
+#: ct-elementor-widgets/widgets/ct-listings-grid.php:710
+#: ct-elementor-widgets/widgets/ct-listings-list.php:210
+#: ct-elementor-widgets/widgets/ct-listings-list.php:720
+#: ct-elementor-widgets/widgets/ct-listings-map.php:227
+#: ct-elementor-widgets/widgets/ct-listings-minimal-grid.php:217
+#: ct-elementor-widgets/widgets/ct-listings-minimal-grid.php:719
+#: ct-elementor-widgets/widgets/ct-listings-search.php:245
+msgid "Baths"
+msgstr "الحمامات"
+
+#: ct-real-estate-cmb2-functions.php:658
+msgid "Sq Ft or Sq Meters"
+msgstr "قدم مربع أو متر مربع"
+
+#: ct-real-estate-cmb2-functions.php:673 includes/metabox/metaboxes.php:121
+msgid "Availability"
+msgstr "توافر"
+
+#: ct-real-estate-cmb2-functions.php:674
+msgid "Add the availability here, e.g. (Available, Call for Availability)"
+msgstr "إضافة توافر هنا ، على سبيل المثال (متوفرة, الاتصال عن توفر)"
+
+#: ct-real-estate-cmb2-functions.php:680
+msgid "Floor Plan Image"
+msgstr "خطة الكلمة صورة"
+
+#: ct-real-estate-cmb2-functions.php:709
+msgid "Social"
+msgstr "الاجتماعية"
+
+#: ct-real-estate-cmb2-functions.php:713 ct-real-estate-cmb2-functions.php:859
+msgid "Agents"
+msgstr "وكلاء"
+
+#: ct-real-estate-cmb2-functions.php:725
+#: includes/ct-real-estate-custom-widgets.php:1233
+#: includes/ct-real-estate-custom-widgets.php:1233
+#: includes/ct-real-estate-custom-widgets.php:1233
+msgid "Phone"
+msgstr "الهاتف"
+
+#: ct-real-estate-cmb2-functions.php:726
+msgid "Enter the office phone number here."
+msgstr "أدخل رقم هاتف المكتب هنا."
+
+#: ct-real-estate-cmb2-functions.php:734
+#: includes/ct-real-estate-custom-widgets.php:183
+msgid "Fax"
+msgstr "الفاكس"
+
+#: ct-real-estate-cmb2-functions.php:735
+msgid "Enter the office fax number here."
+msgstr "أدخل رقم الفاكس هنا."
+
+#: ct-real-estate-cmb2-functions.php:743
+msgid "Website"
+msgstr "الموقع"
+
+#: ct-real-estate-cmb2-functions.php:744
+msgid "Enter the website URL here."
+msgstr "أدخل عنوان الموقع هنا."
+
+#: ct-real-estate-cmb2-functions.php:752
+#: includes/ct-real-estate-custom-widgets.php:186
+#: includes/ct-real-estate-custom-widgets.php:1231
+#: includes/ct-real-estate-custom-widgets.php:1231
+#: includes/ct-real-estate-custom-widgets.php:1231
+msgid "Email"
+msgstr "البريد الإلكتروني"
+
+#: ct-real-estate-cmb2-functions.php:753
+msgid "Enter the office email here."
+msgstr "أدخل مكتب البريد الالكتروني هنا."
+
+#: ct-real-estate-cmb2-functions.php:761
+#: includes/_ct-real-estate-custom-shortcodes.php:2613
+#: includes/ct-real-estate-custom-shortcodes.php:2695
+msgid "Street Address"
+msgstr "عنوان الشارع"
+
+#: ct-real-estate-cmb2-functions.php:762
+msgid "Enter the office street address here e.g. (101 Front Street)"
+msgstr "أدخل المكتب عنوان الشارع هنا على سبيل المثال (101 الشارع الأمامي)"
+
+#: ct-real-estate-cmb2-functions.php:770
+msgid "Address Two"
+msgstr "العنوان اثنين"
+
+#: ct-real-estate-cmb2-functions.php:771
+msgid "Address two, e.g. (Suite 100)"
+msgstr "العنوان اثنين مثل (Suite 100)"
+
+#: ct-real-estate-cmb2-functions.php:779
+#: includes/_ct-real-estate-custom-shortcodes.php:828
+#: includes/_ct-real-estate-custom-shortcodes.php:1379
+#: includes/_ct-real-estate-custom-shortcodes.php:2623
+#: includes/ct-real-estate-custom-shortcodes.php:902
+#: includes/ct-real-estate-custom-shortcodes.php:1461
+#: includes/ct-real-estate-custom-shortcodes.php:2705
+#: includes/ct-real-estate-custom-taxonomies.php:353
+#: includes/ct-real-estate-custom-taxonomies.php:354
+#: includes/ct-real-estate-custom-widgets.php:1406
+#: ct-elementor-widgets/widgets/ct-listings-grid.php:243
+#: ct-elementor-widgets/widgets/ct-listings-list.php:243
+#: ct-elementor-widgets/widgets/ct-listings-map.php:260
+#: ct-elementor-widgets/widgets/ct-listings-minimal-grid.php:250
+#: ct-elementor-widgets/widgets/ct-listings-search.php:178
+msgid "City"
+msgstr "المدينة"
+
+#: ct-real-estate-cmb2-functions.php:780
+msgid "Enter the office city here."
+msgstr "أدخل مكتب المدينة هنا."
+
+#: ct-real-estate-cmb2-functions.php:788
+msgid "State or Area"
+msgstr "الدولة أو المنطقة"
+
+#: ct-real-estate-cmb2-functions.php:789
+msgid "Enter the office state or area here."
+msgstr "أدخل مكتب الدولة أو المنطقة."
+
+#: ct-real-estate-cmb2-functions.php:797
+msgid "Zipcode, Postcode or Postal Code"
+msgstr "الرمز البريدي, الرمز البريدي أو الرمز البريدي"
+
+#: ct-real-estate-cmb2-functions.php:798
+msgid "Enter the office zipcode, postcode or postal code here."
+msgstr "أدخل مكتب الرمز البريدي, الرمز البريدي أو الرمز البريدي هنا."
+
+#: ct-real-estate-cmb2-functions.php:806
+#: includes/_ct-real-estate-custom-shortcodes.php:855
+#: includes/_ct-real-estate-custom-shortcodes.php:1406
+#: includes/_ct-real-estate-custom-shortcodes.php:2653
+#: includes/ct-real-estate-custom-shortcodes.php:938
+#: includes/ct-real-estate-custom-shortcodes.php:1488
+#: includes/ct-real-estate-custom-shortcodes.php:2735
+#: includes/ct-real-estate-custom-taxonomies.php:598
+#: includes/ct-real-estate-custom-taxonomies.php:599
+#: includes/ct-real-estate-custom-widgets.php:1451
+#: ct-elementor-widgets/widgets/ct-listings-grid.php:283
+#: ct-elementor-widgets/widgets/ct-listings-list.php:283
+#: ct-elementor-widgets/widgets/ct-listings-map.php:300
+#: ct-elementor-widgets/widgets/ct-listings-minimal-grid.php:290
+#: ct-elementor-widgets/widgets/ct-listings-search.php:208
+msgid "Country"
+msgstr "البلد"
+
+#: ct-real-estate-cmb2-functions.php:807
+msgid "Enter the office country here (optional)."
+msgstr "أدخل المكتب البلد هنا (اختياري)."
+
+#: ct-real-estate-cmb2-functions.php:819
+msgid "Twitter"
+msgstr "تويتر"
+
+#: ct-real-estate-cmb2-functions.php:820
+msgid "Enter the office Twitter URL here."
+msgstr "أدخل مكتب تويتر الرابط هنا."
+
+#: ct-real-estate-cmb2-functions.php:828
+msgid "Facebook"
+msgstr "Facebook"
+
+#: ct-real-estate-cmb2-functions.php:829
+msgid "Enter the office Facebook URL here."
+msgstr "أدخل مكتب Facebook الرابط هنا."
+
+#: ct-real-estate-cmb2-functions.php:837
+msgid "LinkedIn"
+msgstr "ينكدين"
+
+#: ct-real-estate-cmb2-functions.php:838
+msgid "Enter the office LinkedIn URL here."
+msgstr "أدخل مكتب LinkedIn الرابط هنا."
+
+#: ct-real-estate-cmb2-functions.php:846
+msgid "Google+"
+msgstr "جوجل "
+
+#: ct-real-estate-cmb2-functions.php:847
+msgid "Enter the office Google+ URL here."
+msgstr "أدخل مكتب جوجل الرابط هنا."
+
+#: ct-real-estate-cmb2-functions.php:860
+msgid "Assign agents to this brokerage here."
+msgstr "تعيين وكلاء هذه الوساطة هنا."
+
+#: ct-real-estate-cmb2-functions.php:885
+msgid "Listing Expire Time"
+msgstr "قائمة انتهاء الوقت"
+
+#: ct-real-estate-cmb2-functions.php:896
+msgid "Days"
+msgstr "أيام"
+
+#: ct-real-estate-cmb2-functions.php:897
+msgid "The amount of days the listing will be shown."
+msgstr "كمية من أيام القائمة التي ستظهر."
+
+#: ct-real-estate-custom-posts.php:74
+msgid ""
+"<h3><strong>You currently have the incorrect real estate custom posts plugin "
+"installed/activated!</strong></h3>"
+msgstr ""
+
+#: ct-elementor-widgets/ct-elementor-widgets.php:196
+msgid "Real Estate 7"
+msgstr "العقارات 7"
+
+#: includes/_ct-real-estate-custom-shortcodes.php:220
+#: includes/_ct-real-estate-custom-shortcodes.php:477
+#: includes/_ct-real-estate-custom-shortcodes.php:1040
+#: includes/ct-real-estate-custom-shortcodes.php:214
+#: includes/ct-real-estate-custom-shortcodes.php:469
+#: includes/ct-real-estate-custom-shortcodes.php:1121
+#: ct-elementor-widgets/widgets/ct-listings-grid.php:620
+#: ct-elementor-widgets/widgets/ct-listings-list.php:631
+#: ct-elementor-widgets/widgets/ct-listings-minimal-grid.php:645
+msgid " Photos"
+msgstr " الصور"
+
+#: includes/_ct-real-estate-custom-shortcodes.php:227
+#: includes/_ct-real-estate-custom-shortcodes.php:484
+#: includes/_ct-real-estate-custom-shortcodes.php:1047
+#: includes/ct-real-estate-custom-shortcodes.php:221
+#: includes/ct-real-estate-custom-shortcodes.php:476
+#: includes/ct-real-estate-custom-shortcodes.php:1128
+#: ct-elementor-widgets/widgets/ct-listings-grid.php:627
+#: ct-elementor-widgets/widgets/ct-listings-list.php:638
+#: ct-elementor-widgets/widgets/ct-listings-minimal-grid.php:652
+msgid "Favorite"
+msgstr "المفضلة"
+
+#: includes/_ct-real-estate-custom-shortcodes.php:235
+#: includes/_ct-real-estate-custom-shortcodes.php:492
+#: includes/_ct-real-estate-custom-shortcodes.php:1055
+#: includes/ct-real-estate-custom-shortcodes.php:229
+#: includes/ct-real-estate-custom-shortcodes.php:484
+#: includes/ct-real-estate-custom-shortcodes.php:1136
+#: ct-elementor-widgets/widgets/ct-listings-grid.php:635
+#: ct-elementor-widgets/widgets/ct-listings-list.php:646
+#: ct-elementor-widgets/widgets/ct-listings-minimal-grid.php:660
+msgid "Compare"
+msgstr "قارن"
+
+#: includes/_ct-real-estate-custom-shortcodes.php:243
+#: includes/_ct-real-estate-custom-shortcodes.php:500
+#: includes/_ct-real-estate-custom-shortcodes.php:1063
+#: includes/ct-real-estate-custom-shortcodes.php:237
+#: includes/ct-real-estate-custom-shortcodes.php:492
+#: includes/ct-real-estate-custom-shortcodes.php:1144
+#: ct-elementor-widgets/widgets/ct-listings-grid.php:643
+#: ct-elementor-widgets/widgets/ct-listings-list.php:654
+#: ct-elementor-widgets/widgets/ct-listings-minimal-grid.php:668
+msgid " Views"
+msgstr " الآراء"
+
+#: includes/_ct-real-estate-custom-shortcodes.php:279
+#: includes/_ct-real-estate-custom-shortcodes.php:530
+#: includes/_ct-real-estate-custom-shortcodes.php:1093
+#: includes/ct-real-estate-custom-shortcodes.php:273
+#: includes/ct-real-estate-custom-shortcodes.php:522
+#: includes/ct-real-estate-custom-shortcodes.php:1174
+#: includes/ct-real-estate-custom-taxonomies.php:153
+#: includes/ct-real-estate-custom-taxonomies.php:154
+#: includes/ct-real-estate-custom-widgets.php:346
+#: ct-elementor-widgets/widgets/ct-listings-grid.php:692
+#: ct-elementor-widgets/widgets/ct-listings-list.php:702
+#: ct-elementor-widgets/widgets/ct-listings-minimal-grid.php:704
+msgid "Bed"
+msgstr "السرير"
+
+#: includes/_ct-real-estate-custom-shortcodes.php:309
+#: includes/_ct-real-estate-custom-shortcodes.php:560
+#: includes/_ct-real-estate-custom-shortcodes.php:1123
+#: includes/ct-real-estate-custom-shortcodes.php:303
+#: includes/ct-real-estate-custom-shortcodes.php:552
+#: includes/ct-real-estate-custom-shortcodes.php:1204
+#: ct-elementor-widgets/widgets/ct-listings-grid.php:729
+#: ct-elementor-widgets/widgets/ct-listings-list.php:739
+#: ct-elementor-widgets/widgets/ct-listings-minimal-grid.php:738
+msgid "Walk Score&reg;"
+msgstr "النتيجة المشي"
+
+#: includes/_ct-real-estate-custom-shortcodes.php:329
+#: includes/_ct-real-estate-custom-shortcodes.php:580
+#: includes/_ct-real-estate-custom-shortcodes.php:1143
+#: includes/ct-real-estate-custom-shortcodes.php:323
+#: includes/ct-real-estate-custom-shortcodes.php:572
+#: includes/ct-real-estate-custom-shortcodes.php:1224
+#: includes/ct-real-estate-custom-widgets.php:379
+#: ct-elementor-widgets/widgets/ct-listings-grid.php:749
+#: ct-elementor-widgets/widgets/ct-listings-list.php:759
+#: ct-elementor-widgets/widgets/ct-listings-minimal-grid.php:758
+msgid "Rating"
+msgstr "تصنيف"
+
+#: includes/_ct-real-estate-custom-shortcodes.php:347
+#: includes/_ct-real-estate-custom-shortcodes.php:598
+#: includes/_ct-real-estate-custom-shortcodes.php:1161
+#: includes/ct-real-estate-custom-shortcodes.php:341
+#: includes/ct-real-estate-custom-shortcodes.php:590
+#: includes/ct-real-estate-custom-shortcodes.php:1242
+#: includes/ct-real-estate-custom-widgets.php:396
+#: ct-elementor-widgets/widgets/ct-listings-grid.php:767
+#: ct-elementor-widgets/widgets/ct-listings-list.php:777
+#: ct-elementor-widgets/widgets/ct-listings-minimal-grid.php:776
+#: includes/metabox/metaboxes.php:115
+msgid "Guests"
+msgstr "يمكن للضيوف"
+
+#: includes/_ct-real-estate-custom-shortcodes.php:362
+#: includes/_ct-real-estate-custom-shortcodes.php:613
+#: includes/_ct-real-estate-custom-shortcodes.php:1176
+#: includes/ct-real-estate-custom-shortcodes.php:356
+#: includes/ct-real-estate-custom-shortcodes.php:605
+#: includes/ct-real-estate-custom-shortcodes.php:1257
+#: includes/ct-real-estate-custom-widgets.php:411
+#: ct-elementor-widgets/widgets/ct-listings-grid.php:782
+#: ct-elementor-widgets/widgets/ct-listings-list.php:792
+#: ct-elementor-widgets/widgets/ct-listings-minimal-grid.php:791
+msgid "Min Stay"
+msgstr "مين البقاء"
+
+#: includes/_ct-real-estate-custom-shortcodes.php:712
+#: includes/ct-real-estate-custom-shortcodes.php:785
+#: includes/ct-real-estate-custom-widgets.php:1042
+msgid "CT Listings"
+msgstr "CT القوائم"
+
+#: includes/_ct-real-estate-custom-shortcodes.php:716
+#: includes/_ct-real-estate-custom-shortcodes.php:1284
+#: includes/_ct-real-estate-custom-shortcodes.php:1816
+#: includes/_ct-real-estate-custom-shortcodes.php:2080
+#: includes/_ct-real-estate-custom-shortcodes.php:2543
+#: includes/_ct-real-estate-custom-shortcodes.php:2775
+#: includes/ct-real-estate-custom-shortcodes.php:789
+#: includes/ct-real-estate-custom-shortcodes.php:1365
+#: includes/ct-real-estate-custom-shortcodes.php:1898
+#: includes/ct-real-estate-custom-shortcodes.php:2162
+#: includes/ct-real-estate-custom-shortcodes.php:2625
+#: includes/ct-real-estate-custom-shortcodes.php:2857
+msgid "CT Modules"
+msgstr "CT وحدات"
+
+#: includes/_ct-real-estate-custom-shortcodes.php:717
+#: includes/ct-real-estate-custom-shortcodes.php:790
+msgid "Display listings in standard grid layout."
+msgstr "عرض القوائم في معيار تخطيط الشبكة."
+
+#: includes/_ct-real-estate-custom-shortcodes.php:723
+#: includes/_ct-real-estate-custom-shortcodes.php:1291
+#: includes/_ct-real-estate-custom-shortcodes.php:2549
+#: includes/ct-real-estate-custom-shortcodes.php:796
+#: includes/ct-real-estate-custom-shortcodes.php:1372
+#: includes/ct-real-estate-custom-shortcodes.php:2631
+#: ct-elementor-widgets/widgets/ct-listings-minimal-grid.php:110
+msgid "Layout"
+msgstr "تخطيط"
+
+#: includes/_ct-real-estate-custom-shortcodes.php:729
+#: includes/ct-real-estate-custom-shortcodes.php:802
+msgid "Choose the style of grid or list."
+msgstr "اختيار نمط من شبكة أو قائمة."
+
+#: includes/_ct-real-estate-custom-shortcodes.php:735
+#: includes/ct-real-estate-custom-shortcodes.php:808
+#: ct-elementor-widgets/widgets/ct-listings-grid.php:110
+#: ct-elementor-widgets/widgets/ct-listings-list.php:110
+#: ct-elementor-widgets/widgets/ct-listings-map.php:110
+msgid "Number"
+msgstr "عدد"
+
+#: includes/_ct-real-estate-custom-shortcodes.php:738
+msgid "Enter the number to show."
+msgstr "أدخل الرقم تظهر."
+
+#: includes/_ct-real-estate-custom-shortcodes.php:744
+#: includes/_ct-real-estate-custom-shortcodes.php:1307
+#: includes/ct-real-estate-custom-shortcodes.php:817
+#: includes/ct-real-estate-custom-shortcodes.php:1388
+#: ct-elementor-widgets/widgets/ct-listings-grid.php:120
+#: ct-elementor-widgets/widgets/ct-listings-list.php:120
+#: ct-elementor-widgets/widgets/ct-listings-map.php:120
+#: ct-elementor-widgets/widgets/ct-listings-minimal-grid.php:128
+msgid "Order"
+msgstr "النظام"
+
+#: includes/_ct-real-estate-custom-shortcodes.php:750
+#: includes/_ct-real-estate-custom-shortcodes.php:1313
+#: includes/ct-real-estate-custom-shortcodes.php:823
+#: includes/ct-real-estate-custom-shortcodes.php:1394
+msgid "Order ascending or descending."
+msgstr "ترتيب تصاعدي أو تنازلي."
+
+#: includes/_ct-real-estate-custom-shortcodes.php:756
+#: includes/_ct-real-estate-custom-shortcodes.php:1319
+#: includes/ct-real-estate-custom-shortcodes.php:829
+#: includes/ct-real-estate-custom-shortcodes.php:1400
+msgid "Order By"
+msgstr "النظام"
+
+#: includes/_ct-real-estate-custom-shortcodes.php:762
+#: includes/_ct-real-estate-custom-shortcodes.php:1325
+msgid "Order by Date or Price."
+msgstr "ترتيب حسب التاريخ أو السعر."
+
+#: includes/_ct-real-estate-custom-shortcodes.php:768
+#: includes/_ct-real-estate-custom-shortcodes.php:1331
+#: includes/ct-real-estate-custom-shortcodes.php:842
+#: includes/ct-real-estate-custom-shortcodes.php:1413
+msgid "Meta Key"
+msgstr "الرئيسية ميتا"
+
+#: includes/_ct-real-estate-custom-shortcodes.php:774
+#: includes/_ct-real-estate-custom-shortcodes.php:1337
+#: includes/ct-real-estate-custom-shortcodes.php:848
+#: includes/ct-real-estate-custom-shortcodes.php:1419
+msgid "If selected price above select Price here."
+msgstr "إذا الأسعار المحددة أعلاه حدد السعر هنا."
+
+#: includes/_ct-real-estate-custom-shortcodes.php:780
+#: includes/_ct-real-estate-custom-shortcodes.php:1343
+#: includes/ct-real-estate-custom-shortcodes.php:854
+#: includes/ct-real-estate-custom-shortcodes.php:1425
+#: includes/ct-real-estate-custom-widgets.php:1397
+#: ct-elementor-widgets/widgets/ct-listings-grid.php:168
+#: ct-elementor-widgets/widgets/ct-listings-list.php:168
+#: ct-elementor-widgets/widgets/ct-listings-map.php:185
+#: ct-elementor-widgets/widgets/ct-listings-minimal-grid.php:176
+#: ct-elementor-widgets/widgets/ct-listings-search.php:169
+msgid "Type"
+msgstr "نوع"
+
+#: includes/_ct-real-estate-custom-shortcodes.php:783
+#: includes/_ct-real-estate-custom-shortcodes.php:1346
+#: includes/ct-real-estate-custom-shortcodes.php:857
+#: includes/ct-real-estate-custom-shortcodes.php:1428
+msgid "Enter the type, e.g. single-family-home, commercial."
+msgstr "أدخل نوع ، مثل أسرة واحدة المنزلية والتجارية."
+
+#: includes/_ct-real-estate-custom-shortcodes.php:792
+#: includes/_ct-real-estate-custom-shortcodes.php:1355
+#: includes/ct-real-estate-custom-shortcodes.php:866
+#: includes/ct-real-estate-custom-shortcodes.php:1437
+msgid "Enter the beds, e.g. 2, 3, 4."
+msgstr "أدخل سريرا ، على سبيل المثال 2, 3, 4."
+
+#: includes/_ct-real-estate-custom-shortcodes.php:801
+#: includes/_ct-real-estate-custom-shortcodes.php:1364
+#: includes/ct-real-estate-custom-shortcodes.php:875
+#: includes/ct-real-estate-custom-shortcodes.php:1446
+msgid "Enter the baths, e.g. 2, 3, 4."
+msgstr "دخول الحمامات ، على سبيل المثال 2, 3, 4."
+
+#: includes/_ct-real-estate-custom-shortcodes.php:807
+#: includes/_ct-real-estate-custom-shortcodes.php:1370
+#: includes/ct-real-estate-custom-post-types.php:139
+#: includes/ct-real-estate-custom-post-types.php:153
+#: includes/ct-real-estate-custom-shortcodes.php:881
+#: includes/ct-real-estate-custom-shortcodes.php:1452
+#: includes/ct-real-estate-custom-taxonomies.php:280
+#: includes/ct-real-estate-custom-taxonomies.php:281
+#: includes/ct-real-estate-custom-widgets.php:1496
+#: ct-elementor-widgets/widgets/ct-listings-grid.php:220
+#: ct-elementor-widgets/widgets/ct-listings-list.php:220
+#: ct-elementor-widgets/widgets/ct-listings-map.php:237
+#: ct-elementor-widgets/widgets/ct-listings-minimal-grid.php:227
+#: ct-elementor-widgets/widgets/ct-listings-search.php:304
+msgid "Status"
+msgstr "حالة"
+
+#: includes/_ct-real-estate-custom-shortcodes.php:810
+#: includes/_ct-real-estate-custom-shortcodes.php:1373
+#: includes/ct-real-estate-custom-shortcodes.php:884
+#: includes/ct-real-estate-custom-shortcodes.php:1455
+#: ct-elementor-widgets/widgets/ct-listings-grid.php:223
+#: ct-elementor-widgets/widgets/ct-listings-list.php:223
+#: ct-elementor-widgets/widgets/ct-listings-map.php:240
+#: ct-elementor-widgets/widgets/ct-listings-minimal-grid.php:230
+msgid "Enter the status, e.g. for-sale, for-rent, open-house."
+msgstr "أدخل الوضع ، على سبيل المثال للبيع, للإيجار, البيت المفتوح."
+
+#: includes/_ct-real-estate-custom-shortcodes.php:816
+#: includes/ct-real-estate-custom-shortcodes.php:890
+#: ct-elementor-widgets/widgets/ct-listings-grid.php:230
+#: ct-elementor-widgets/widgets/ct-listings-list.php:230
+#: ct-elementor-widgets/widgets/ct-listings-map.php:247
+#: ct-elementor-widgets/widgets/ct-listings-minimal-grid.php:237
+msgid "Exclude Sold?"
+msgstr "استبعاد تباع ؟ "
+
+#: includes/_ct-real-estate-custom-shortcodes.php:822
+#: includes/ct-real-estate-custom-shortcodes.php:896
+msgid "Choose if you'd like to exclude any listings with the Sold status."
+msgstr "اختيار ما إذا كنت'د ترغب في استبعاد أي قوائم تباع حالة."
+
+#: includes/_ct-real-estate-custom-shortcodes.php:831
+#: includes/_ct-real-estate-custom-shortcodes.php:1382
+#: includes/ct-real-estate-custom-shortcodes.php:905
+#: includes/ct-real-estate-custom-shortcodes.php:1464
+#: ct-elementor-widgets/widgets/ct-listings-grid.php:246
+#: ct-elementor-widgets/widgets/ct-listings-list.php:246
+#: ct-elementor-widgets/widgets/ct-listings-map.php:263
+#: ct-elementor-widgets/widgets/ct-listings-minimal-grid.php:253
+msgid "Enter the city, e.g. san-diego, los-angeles, new-york."
+msgstr "دخول مدينة مثل سان دييغو ، لوس أنجلوس ، نيويورك."
+
+#: includes/_ct-real-estate-custom-shortcodes.php:837
+#: includes/_ct-real-estate-custom-shortcodes.php:1388
+#: includes/_ct-real-estate-custom-shortcodes.php:2633
+#: includes/ct-real-estate-custom-shortcodes.php:911
+#: includes/ct-real-estate-custom-shortcodes.php:1470
+#: includes/ct-real-estate-custom-shortcodes.php:2715
+#: includes/ct-real-estate-custom-taxonomies.php:471
+#: includes/ct-real-estate-custom-taxonomies.php:472
+#: includes/ct-real-estate-custom-widgets.php:1424
+#: ct-elementor-widgets/widgets/ct-listings-grid.php:253
+#: ct-elementor-widgets/widgets/ct-listings-list.php:253
+#: ct-elementor-widgets/widgets/ct-listings-map.php:270
+#: ct-elementor-widgets/widgets/ct-listings-minimal-grid.php:260
+msgid "State"
+msgstr "الدولة"
+
+#: includes/_ct-real-estate-custom-shortcodes.php:840
+#: includes/_ct-real-estate-custom-shortcodes.php:1391
+#: includes/ct-real-estate-custom-shortcodes.php:914
+#: includes/ct-real-estate-custom-shortcodes.php:1473
+#: ct-elementor-widgets/widgets/ct-listings-grid.php:256
+#: ct-elementor-widgets/widgets/ct-listings-list.php:256
+#: ct-elementor-widgets/widgets/ct-listings-map.php:273
+#: ct-elementor-widgets/widgets/ct-listings-minimal-grid.php:263
+msgid "Enter the state, e.g. ca, tx, ny."
+msgstr "تدخل الدولة ، مثل ca, tx, ny."
+
+#: includes/_ct-real-estate-custom-shortcodes.php:846
+#: includes/_ct-real-estate-custom-shortcodes.php:1397
+#: includes/ct-real-estate-custom-shortcodes.php:920
+#: includes/ct-real-estate-custom-shortcodes.php:1479
+#: ct-elementor-widgets/widgets/ct-listings-grid.php:263
+#: ct-elementor-widgets/widgets/ct-listings-list.php:263
+#: ct-elementor-widgets/widgets/ct-listings-map.php:280
+#: ct-elementor-widgets/widgets/ct-listings-minimal-grid.php:270
+msgid "Zip or Postcode"
+msgstr "الرمز البريدي أو الرمز البريدي"
+
+#: includes/_ct-real-estate-custom-shortcodes.php:849
+#: includes/_ct-real-estate-custom-shortcodes.php:1400
+#: includes/ct-real-estate-custom-shortcodes.php:923
+#: includes/ct-real-estate-custom-shortcodes.php:1482
+#: ct-elementor-widgets/widgets/ct-listings-grid.php:266
+#: ct-elementor-widgets/widgets/ct-listings-list.php:266
+#: ct-elementor-widgets/widgets/ct-listings-map.php:283
+#: ct-elementor-widgets/widgets/ct-listings-minimal-grid.php:273
+msgid "Enter the zip or postcode, e.g. 92101, 92065, 94027."
+msgstr ""
+"أدخل الرمز البريدي أو الرمز البريدي ، على سبيل المثال 92101, 92065, 94027."
+
+#: includes/_ct-real-estate-custom-shortcodes.php:858
+#: includes/_ct-real-estate-custom-shortcodes.php:1409
+#: includes/ct-real-estate-custom-shortcodes.php:941
+#: includes/ct-real-estate-custom-shortcodes.php:1491
+#: ct-elementor-widgets/widgets/ct-listings-grid.php:286
+#: ct-elementor-widgets/widgets/ct-listings-list.php:286
+#: ct-elementor-widgets/widgets/ct-listings-map.php:303
+#: ct-elementor-widgets/widgets/ct-listings-minimal-grid.php:293
+msgid "Enter the country, e.g. usa, england, greece."
+msgstr "أدخل البلاد مثل الولايات المتحدة الأمريكية وانجلترا واليونان."
+
+#: includes/_ct-real-estate-custom-shortcodes.php:864
+#: includes/_ct-real-estate-custom-shortcodes.php:1415
+#: includes/ct-real-estate-custom-shortcodes.php:947
+#: includes/ct-real-estate-custom-shortcodes.php:1497
+#: includes/ct-real-estate-custom-taxonomies.php:830
+#: includes/ct-real-estate-custom-taxonomies.php:831
+#: includes/ct-real-estate-custom-widgets.php:1469
+#: includes/ct-real-estate-custom-widgets.php:1523
+#: ct-elementor-widgets/widgets/ct-listings-grid.php:293
+#: ct-elementor-widgets/widgets/ct-listings-list.php:293
+#: ct-elementor-widgets/widgets/ct-listings-map.php:310
+#: ct-elementor-widgets/widgets/ct-listings-minimal-grid.php:300
+#: ct-elementor-widgets/widgets/ct-listings-search.php:227
+#: ct-elementor-widgets/widgets/ct-listings-search.php:322
+msgid "Community"
+msgstr "المجتمع"
+
+#: includes/_ct-real-estate-custom-shortcodes.php:867
+#: includes/_ct-real-estate-custom-shortcodes.php:1418
+#: includes/ct-real-estate-custom-shortcodes.php:950
+#: includes/ct-real-estate-custom-shortcodes.php:1500
+#: ct-elementor-widgets/widgets/ct-listings-grid.php:296
+#: ct-elementor-widgets/widgets/ct-listings-list.php:296
+#: ct-elementor-widgets/widgets/ct-listings-map.php:313
+#: ct-elementor-widgets/widgets/ct-listings-minimal-grid.php:303
+msgid "Enter the community, e.g. the-grand-estates, broadstone-apartments."
+msgstr "يدخل المجتمع ، على سبيل المثال-grand-estates, بول-الشقق."
+
+#: includes/_ct-real-estate-custom-shortcodes.php:873
+#: includes/_ct-real-estate-custom-shortcodes.php:1424
+#: includes/ct-real-estate-custom-shortcodes.php:956
+#: includes/ct-real-estate-custom-shortcodes.php:1506
+#: includes/ct-real-estate-custom-taxonomies.php:865
+#: includes/ct-real-estate-custom-widgets.php:1505
+#: ct-elementor-widgets/widgets/ct-listings-grid.php:303
+#: ct-elementor-widgets/widgets/ct-listings-list.php:303
+#: ct-elementor-widgets/widgets/ct-listings-map.php:320
+#: ct-elementor-widgets/widgets/ct-listings-minimal-grid.php:310
+msgid "Additional Features"
+msgstr "ميزات إضافية"
+
+#: includes/_ct-real-estate-custom-shortcodes.php:876
+#: includes/_ct-real-estate-custom-shortcodes.php:1427
+#: includes/ct-real-estate-custom-shortcodes.php:959
+#: includes/ct-real-estate-custom-shortcodes.php:1509
+#: ct-elementor-widgets/widgets/ct-listings-grid.php:306
+#: ct-elementor-widgets/widgets/ct-listings-list.php:306
+#: ct-elementor-widgets/widgets/ct-listings-map.php:323
+#: ct-elementor-widgets/widgets/ct-listings-minimal-grid.php:313
+msgid "Enter the additional features, e.g. pool, gated, beach-frontage."
+msgstr "دخول ميزات إضافية ، مثل حمام سباحة, بوابات, شاطئ-frontage."
+
+#: includes/_ct-real-estate-custom-shortcodes.php:1280
+#: includes/ct-real-estate-custom-shortcodes.php:1361
+#: ct-elementor-widgets/widgets/ct-listings-minimal-grid.php:41
+msgid "CT Listings Minimal Grid"
+msgstr "CT القوائم الحد الأدنى من الشبكة"
+
+#: includes/_ct-real-estate-custom-shortcodes.php:1285
+#: includes/ct-real-estate-custom-shortcodes.php:1366
+msgid "Display listings items in a beautiful minimal style grid layout."
+msgstr "عرض قوائم العناصر في الحد الأدنى جميلة نمط تخطيط الشبكة."
+
+#: includes/_ct-real-estate-custom-shortcodes.php:1301
+#: includes/ct-real-estate-custom-shortcodes.php:1382
+msgid "Choose the grid layout you'd like to use."
+msgstr "اختيار تخطيط الشبكة كنت'د ترغب في استخدام."
+
+#: includes/_ct-real-estate-custom-shortcodes.php:1811
+#: includes/ct-real-estate-custom-shortcodes.php:1893
+#: ct-elementor-widgets/widgets/ct-three-item-grid.php:41
+msgid "CT 3 Item Grid"
+msgstr "CT 3 البند الشبكة"
+
+#: includes/_ct-real-estate-custom-shortcodes.php:1812
+#: includes/ct-real-estate-custom-shortcodes.php:1894
+msgid "Display any three content items in a beautiful grid layout."
+msgstr "عرض أي ثلاثة عناصر المحتوى في جميلة تخطيط الشبكة."
+
+#: includes/_ct-real-estate-custom-shortcodes.php:1825
+#: includes/_ct-real-estate-custom-shortcodes.php:1865
+#: includes/_ct-real-estate-custom-shortcodes.php:1905
+#: includes/_ct-real-estate-custom-shortcodes.php:2090
+#: includes/_ct-real-estate-custom-shortcodes.php:2131
+#: includes/_ct-real-estate-custom-shortcodes.php:2172
+#: includes/_ct-real-estate-custom-shortcodes.php:2213
+#: includes/_ct-real-estate-custom-shortcodes.php:2254
+#: includes/_ct-real-estate-custom-shortcodes.php:2295
+#: includes/_ct-real-estate-custom-shortcodes.php:2794
+#: includes/ct-real-estate-custom-shortcodes.php:1907
+#: includes/ct-real-estate-custom-shortcodes.php:1947
+#: includes/ct-real-estate-custom-shortcodes.php:1987
+#: includes/ct-real-estate-custom-shortcodes.php:2172
+#: includes/ct-real-estate-custom-shortcodes.php:2213
+#: includes/ct-real-estate-custom-shortcodes.php:2254
+#: includes/ct-real-estate-custom-shortcodes.php:2295
+#: includes/ct-real-estate-custom-shortcodes.php:2336
+#: includes/ct-real-estate-custom-shortcodes.php:2377
+#: includes/ct-real-estate-custom-shortcodes.php:2876
+msgid "Enter the title here."
+msgstr "أدخل العنوان هنا."
+
+#: includes/_ct-real-estate-custom-shortcodes.php:1832
+#: includes/_ct-real-estate-custom-shortcodes.php:1872
+#: includes/_ct-real-estate-custom-shortcodes.php:1912
+#: includes/_ct-real-estate-custom-shortcodes.php:2097
+#: includes/_ct-real-estate-custom-shortcodes.php:2138
+#: includes/_ct-real-estate-custom-shortcodes.php:2179
+#: includes/_ct-real-estate-custom-shortcodes.php:2220
+#: includes/_ct-real-estate-custom-shortcodes.php:2261
+#: includes/_ct-real-estate-custom-shortcodes.php:2302
+#: includes/_ct-real-estate-custom-shortcodes.php:2563
+#: includes/_ct-real-estate-custom-shortcodes.php:2801
+#: includes/ct-real-estate-custom-shortcodes.php:1914
+#: includes/ct-real-estate-custom-shortcodes.php:1954
+#: includes/ct-real-estate-custom-shortcodes.php:1994
+#: includes/ct-real-estate-custom-shortcodes.php:2179
+#: includes/ct-real-estate-custom-shortcodes.php:2220
+#: includes/ct-real-estate-custom-shortcodes.php:2261
+#: includes/ct-real-estate-custom-shortcodes.php:2302
+#: includes/ct-real-estate-custom-shortcodes.php:2343
+#: includes/ct-real-estate-custom-shortcodes.php:2384
+#: includes/ct-real-estate-custom-shortcodes.php:2645
+#: includes/ct-real-estate-custom-shortcodes.php:2883
+msgid "Link"
+msgstr "الرابط"
+
+#: includes/_ct-real-estate-custom-shortcodes.php:1835
+#: includes/_ct-real-estate-custom-shortcodes.php:1875
+#: includes/_ct-real-estate-custom-shortcodes.php:1915
+#: includes/_ct-real-estate-custom-shortcodes.php:2100
+#: includes/_ct-real-estate-custom-shortcodes.php:2141
+#: includes/_ct-real-estate-custom-shortcodes.php:2182
+#: includes/_ct-real-estate-custom-shortcodes.php:2223
+#: includes/_ct-real-estate-custom-shortcodes.php:2264
+#: includes/_ct-real-estate-custom-shortcodes.php:2305
+#: includes/_ct-real-estate-custom-shortcodes.php:2804
+#: includes/ct-real-estate-custom-shortcodes.php:1917
+#: includes/ct-real-estate-custom-shortcodes.php:1957
+#: includes/ct-real-estate-custom-shortcodes.php:1997
+#: includes/ct-real-estate-custom-shortcodes.php:2182
+#: includes/ct-real-estate-custom-shortcodes.php:2223
+#: includes/ct-real-estate-custom-shortcodes.php:2264
+#: includes/ct-real-estate-custom-shortcodes.php:2305
+#: includes/ct-real-estate-custom-shortcodes.php:2346
+#: includes/ct-real-estate-custom-shortcodes.php:2387
+#: includes/ct-real-estate-custom-shortcodes.php:2886
+msgid "Enter the URL here, e.g. http://yourlink.com"
+msgstr "أدخل عنوان URL هنا مثلا http://yourlink.com"
+
+#: includes/_ct-real-estate-custom-shortcodes.php:1842
+#: includes/_ct-real-estate-custom-shortcodes.php:1882
+#: includes/_ct-real-estate-custom-shortcodes.php:1922
+#: includes/_ct-real-estate-custom-shortcodes.php:2107
+#: includes/_ct-real-estate-custom-shortcodes.php:2148
+#: includes/_ct-real-estate-custom-shortcodes.php:2189
+#: includes/_ct-real-estate-custom-shortcodes.php:2230
+#: includes/_ct-real-estate-custom-shortcodes.php:2271
+#: includes/_ct-real-estate-custom-shortcodes.php:2312
+#: includes/_ct-real-estate-custom-shortcodes.php:2573
+#: includes/_ct-real-estate-custom-shortcodes.php:2811
+#: includes/ct-real-estate-custom-shortcodes.php:1924
+#: includes/ct-real-estate-custom-shortcodes.php:1964
+#: includes/ct-real-estate-custom-shortcodes.php:2004
+#: includes/ct-real-estate-custom-shortcodes.php:2189
+#: includes/ct-real-estate-custom-shortcodes.php:2230
+#: includes/ct-real-estate-custom-shortcodes.php:2271
+#: includes/ct-real-estate-custom-shortcodes.php:2312
+#: includes/ct-real-estate-custom-shortcodes.php:2353
+#: includes/ct-real-estate-custom-shortcodes.php:2394
+#: includes/ct-real-estate-custom-shortcodes.php:2655
+#: includes/ct-real-estate-custom-shortcodes.php:2893
+#: ct-elementor-widgets/widgets/ct-agent.php:141
+#: ct-elementor-widgets/widgets/ct-modern-item-grid.php:120
+#: ct-elementor-widgets/widgets/ct-modern-item-grid.php:176
+#: ct-elementor-widgets/widgets/ct-modern-item-grid.php:232
+#: ct-elementor-widgets/widgets/ct-modern-item-grid.php:288
+#: ct-elementor-widgets/widgets/ct-modern-item-grid.php:344
+#: ct-elementor-widgets/widgets/ct-modern-item-grid.php:400
+#: ct-elementor-widgets/widgets/ct-six-item-grid.php:120
+#: ct-elementor-widgets/widgets/ct-six-item-grid.php:176
+#: ct-elementor-widgets/widgets/ct-six-item-grid.php:232
+#: ct-elementor-widgets/widgets/ct-six-item-grid.php:288
+#: ct-elementor-widgets/widgets/ct-six-item-grid.php:344
+#: ct-elementor-widgets/widgets/ct-six-item-grid.php:402
+#: ct-elementor-widgets/widgets/ct-three-item-grid.php:120
+#: ct-elementor-widgets/widgets/ct-three-item-grid.php:176
+#: ct-elementor-widgets/widgets/ct-three-item-grid.php:232
+msgid "Description"
+msgstr "الوصف"
+
+#: includes/_ct-real-estate-custom-shortcodes.php:1845
+#: includes/_ct-real-estate-custom-shortcodes.php:1885
+#: includes/_ct-real-estate-custom-shortcodes.php:1925
+#: includes/_ct-real-estate-custom-shortcodes.php:2110
+#: includes/_ct-real-estate-custom-shortcodes.php:2151
+#: includes/_ct-real-estate-custom-shortcodes.php:2192
+#: includes/_ct-real-estate-custom-shortcodes.php:2233
+#: includes/_ct-real-estate-custom-shortcodes.php:2274
+#: includes/_ct-real-estate-custom-shortcodes.php:2315
+#: includes/_ct-real-estate-custom-shortcodes.php:2576
+#: includes/_ct-real-estate-custom-shortcodes.php:2814
+#: includes/ct-real-estate-custom-shortcodes.php:1927
+#: includes/ct-real-estate-custom-shortcodes.php:1967
+#: includes/ct-real-estate-custom-shortcodes.php:2007
+#: includes/ct-real-estate-custom-shortcodes.php:2192
+#: includes/ct-real-estate-custom-shortcodes.php:2233
+#: includes/ct-real-estate-custom-shortcodes.php:2274
+#: includes/ct-real-estate-custom-shortcodes.php:2315
+#: includes/ct-real-estate-custom-shortcodes.php:2356
+#: includes/ct-real-estate-custom-shortcodes.php:2397
+#: includes/ct-real-estate-custom-shortcodes.php:2658
+#: includes/ct-real-estate-custom-shortcodes.php:2896
+msgid "Enter the description here."
+msgstr "أدخل الوصف هنا."
+
+#: includes/_ct-real-estate-custom-shortcodes.php:1852
+#: includes/_ct-real-estate-custom-shortcodes.php:1892
+#: includes/_ct-real-estate-custom-shortcodes.php:1932
+#: includes/_ct-real-estate-custom-shortcodes.php:2117
+#: includes/_ct-real-estate-custom-shortcodes.php:2158
+#: includes/_ct-real-estate-custom-shortcodes.php:2199
+#: includes/_ct-real-estate-custom-shortcodes.php:2240
+#: includes/_ct-real-estate-custom-shortcodes.php:2281
+#: includes/_ct-real-estate-custom-shortcodes.php:2322
+#: includes/_ct-real-estate-custom-shortcodes.php:2663
+#: includes/_ct-real-estate-custom-shortcodes.php:2821
+#: includes/ct-real-estate-custom-post-types.php:130
+#: includes/ct-real-estate-custom-post-types.php:145
+#: includes/ct-real-estate-custom-post-types.php:480
+#: includes/ct-real-estate-custom-shortcodes.php:1934
+#: includes/ct-real-estate-custom-shortcodes.php:1974
+#: includes/ct-real-estate-custom-shortcodes.php:2014
+#: includes/ct-real-estate-custom-shortcodes.php:2199
+#: includes/ct-real-estate-custom-shortcodes.php:2240
+#: includes/ct-real-estate-custom-shortcodes.php:2281
+#: includes/ct-real-estate-custom-shortcodes.php:2322
+#: includes/ct-real-estate-custom-shortcodes.php:2363
+#: includes/ct-real-estate-custom-shortcodes.php:2404
+#: includes/ct-real-estate-custom-shortcodes.php:2745
+#: includes/ct-real-estate-custom-shortcodes.php:2903
+msgid "Image"
+msgstr "صورة"
+
+#: includes/_ct-real-estate-custom-shortcodes.php:1855
+#: includes/_ct-real-estate-custom-shortcodes.php:1895
+#: includes/_ct-real-estate-custom-shortcodes.php:1935
+#: includes/_ct-real-estate-custom-shortcodes.php:2120
+#: includes/_ct-real-estate-custom-shortcodes.php:2161
+#: includes/_ct-real-estate-custom-shortcodes.php:2202
+#: includes/_ct-real-estate-custom-shortcodes.php:2243
+#: includes/_ct-real-estate-custom-shortcodes.php:2284
+#: includes/_ct-real-estate-custom-shortcodes.php:2325
+#: includes/_ct-real-estate-custom-shortcodes.php:2666
+#: includes/_ct-real-estate-custom-shortcodes.php:2824
+#: includes/ct-real-estate-custom-shortcodes.php:1937
+#: includes/ct-real-estate-custom-shortcodes.php:1977
+#: includes/ct-real-estate-custom-shortcodes.php:2017
+#: includes/ct-real-estate-custom-shortcodes.php:2202
+#: includes/ct-real-estate-custom-shortcodes.php:2243
+#: includes/ct-real-estate-custom-shortcodes.php:2284
+#: includes/ct-real-estate-custom-shortcodes.php:2325
+#: includes/ct-real-estate-custom-shortcodes.php:2366
+#: includes/ct-real-estate-custom-shortcodes.php:2407
+#: includes/ct-real-estate-custom-shortcodes.php:2748
+#: includes/ct-real-estate-custom-shortcodes.php:2906
+msgid "Upload an image here."
+msgstr "تحميل صورة هنا."
+
+#: includes/_ct-real-estate-custom-shortcodes.php:2075
+#: includes/ct-real-estate-custom-shortcodes.php:2157
+#: ct-elementor-widgets/widgets/ct-six-item-grid.php:41
+msgid "CT 6 Item Grid"
+msgstr "CT 6 البند الشبكة"
+
+#: includes/_ct-real-estate-custom-shortcodes.php:2076
+#: includes/ct-real-estate-custom-shortcodes.php:2158
+msgid "Display any six content items in a beautiful grid layout."
+msgstr "عرض أي ستة عناصر المحتوى في جميلة تخطيط الشبكة."
+
+#: includes/_ct-real-estate-custom-shortcodes.php:2440
+#: includes/ct-real-estate-custom-shortcodes.php:2522
+msgid "Date:"
+msgstr "التاريخ:"
+
+#: includes/_ct-real-estate-custom-shortcodes.php:2442
+#: includes/ct-real-estate-custom-shortcodes.php:2524
+msgid "Details:"
+msgstr "التفاصيل:"
+
+#: includes/_ct-real-estate-custom-shortcodes.php:2458
+#: includes/ct-real-estate-custom-shortcodes.php:2540
+msgid "Start Time:"
+msgstr "وقت البدء:"
+
+#: includes/_ct-real-estate-custom-shortcodes.php:2476
+#: includes/ct-real-estate-custom-shortcodes.php:2558
+msgid "End Time:"
+msgstr "نهاية الوقت:"
+
+#: includes/_ct-real-estate-custom-shortcodes.php:2538
+#: includes/ct-real-estate-custom-shortcodes.php:2620
+msgid "CT Open House"
+msgstr "CT البيت المفتوح"
+
+#: includes/_ct-real-estate-custom-shortcodes.php:2539
+#: includes/ct-real-estate-custom-shortcodes.php:2621
+msgid "Display an open house, date, start & end time, listing address."
+msgstr "عرض بيت مفتوح تاريخ بدء "
+
+#: includes/_ct-real-estate-custom-shortcodes.php:2556
+#: includes/ct-real-estate-custom-shortcodes.php:2638
+msgid "Select either a grid or list style layout."
+msgstr "حدد إما شبكة أو نمط القائمة تخطيط."
+
+#: includes/_ct-real-estate-custom-shortcodes.php:2566
+#: includes/ct-real-estate-custom-shortcodes.php:2648
+msgid "Enter a URL here, or link to a specific listing."
+msgstr "أدخل عنوان URL هنا أو رابط معين القائمة."
+
+#: includes/_ct-real-estate-custom-shortcodes.php:2586
+#: includes/ct-real-estate-custom-shortcodes.php:2668
+msgid "Enter the date here."
+msgstr "أدخل التاريخ هنا."
+
+#: includes/_ct-real-estate-custom-shortcodes.php:2596
+#: includes/ct-real-estate-custom-shortcodes.php:2678
+msgid "Enter the start time here."
+msgstr "أدخل وقت البدء هنا."
+
+#: includes/_ct-real-estate-custom-shortcodes.php:2606
+#: includes/ct-real-estate-custom-shortcodes.php:2688
+msgid "Enter the end time here."
+msgstr "أدخل نهاية الوقت هنا."
+
+#: includes/_ct-real-estate-custom-shortcodes.php:2616
+#: includes/ct-real-estate-custom-shortcodes.php:2698
+msgid "Enter the street address here."
+msgstr "أدخل عنوان الشارع هنا."
+
+#: includes/_ct-real-estate-custom-shortcodes.php:2626
+#: includes/ct-real-estate-custom-shortcodes.php:2708
+msgid "Enter the city here."
+msgstr "دخول المدينة هنا."
+
+#: includes/_ct-real-estate-custom-shortcodes.php:2636
+#: includes/ct-real-estate-custom-shortcodes.php:2718
+msgid "Enter the state here."
+msgstr "تدخل الدولة هنا."
+
+#: includes/_ct-real-estate-custom-shortcodes.php:2643
+#: includes/ct-real-estate-custom-shortcodes.php:2725
+msgid "Zip/Post Code"
+msgstr "الرمز البريدي/الرمز البريدي"
+
+#: includes/_ct-real-estate-custom-shortcodes.php:2646
+#: includes/ct-real-estate-custom-shortcodes.php:2728
+msgid "Enter the zip/post code here."
+msgstr "أدخل الرمز البريدي/الرمز البريدي هنا."
+
+#: includes/_ct-real-estate-custom-shortcodes.php:2656
+#: includes/ct-real-estate-custom-shortcodes.php:2738
+msgid "Enter the country here."
+msgstr "أدخل البلد هنا."
+
+#: includes/_ct-real-estate-custom-shortcodes.php:2743
+#: includes/ct-real-estate-custom-shortcodes.php:2825
+#: ct-elementor-widgets/widgets/ct-agent.php:204
+msgid "View Profile"
+msgstr "عرض الملف الشخصي"
+
+#: includes/_ct-real-estate-custom-shortcodes.php:2770
+#: includes/ct-real-estate-custom-shortcodes.php:2852
+#: ct-elementor-widgets/widgets/ct-agent.php:41
+msgid "CT Agent"
+msgstr "CT الوكيل"
+
+#: includes/_ct-real-estate-custom-shortcodes.php:2771
+#: includes/ct-real-estate-custom-shortcodes.php:2853
+msgid ""
+"Display your agents image, name, title &amp; description with a link to "
+"their profile."
+msgstr "عرض وكلاء الخاص بك صورة ، الاسم ، العنوان "
+
+#: includes/_ct-real-estate-custom-shortcodes.php:2781
+#: includes/ct-real-estate-custom-shortcodes.php:2863
+#: includes/ct-real-estate-custom-widgets.php:1229
+#: includes/ct-real-estate-custom-widgets.php:1229
+#: includes/ct-real-estate-custom-widgets.php:1229
+#: ct-elementor-widgets/widgets/ct-agent.php:106
+msgid "Name"
+msgstr "اسم"
+
+#: includes/_ct-real-estate-custom-shortcodes.php:2784
+#: includes/ct-real-estate-custom-shortcodes.php:2866
+msgid "Enter the name here."
+msgstr "أدخل اسم هنا."
+
+#: includes/ct-real-estate-custom-post-types.php:35
+msgctxt "Post Type General Name"
+msgid "Listings"
+msgstr "القوائم"
+
+#: includes/ct-real-estate-custom-post-types.php:36
+msgctxt "Post Type Singular Name"
+msgid "Listing"
+msgstr "قائمة"
+
+#: includes/ct-real-estate-custom-post-types.php:37
+#: includes/ct-real-estate-custom-post-types.php:339
+#: includes/ct-real-estate-custom-post-types.php:432
+msgid "Add New"
+msgstr "إضافة جديدة"
+
+#: includes/ct-real-estate-custom-post-types.php:38
+msgid "Add New Listing"
+msgstr "إضافة قائمة جديدة"
+
+#: includes/ct-real-estate-custom-post-types.php:39
+msgid "Edit Listing"
+msgstr "تحرير قائمة"
+
+#: includes/ct-real-estate-custom-post-types.php:40
+msgid "New Listing"
+msgstr "قائمة جديدة"
+
+#: includes/ct-real-estate-custom-post-types.php:41
+msgid "View Listing"
+msgstr "عرض قائمة"
+
+#: includes/ct-real-estate-custom-post-types.php:42
+msgid "Search Listings"
+msgstr "قوائم البحث"
+
+#: includes/ct-real-estate-custom-post-types.php:43
+msgid "No listings items found"
+msgstr "لا قوائم البنود وجدت"
+
+#: includes/ct-real-estate-custom-post-types.php:44
+msgid "No listings found in Trash"
+msgstr "لا قوائم وجدت في القمامة"
+
+#: includes/ct-real-estate-custom-post-types.php:61
+msgid "Listings"
+msgstr "القوائم"
+
+#: includes/ct-real-estate-custom-post-types.php:131
+#: includes/ct-real-estate-custom-post-types.php:146
+msgid "Address"
+msgstr "عنوان"
+
+#: includes/ct-real-estate-custom-post-types.php:132
+#: includes/ct-real-estate-custom-post-types.php:147
+#: includes/ct-real-estate-custom-post-types.php:389
+msgid "Location"
+msgstr "الموقع"
+
+#: includes/ct-real-estate-custom-post-types.php:137
+#: includes/ct-real-estate-custom-post-types.php:151
+#: ct-elementor-widgets/widgets/ct-agent.php:118
+#: ct-elementor-widgets/widgets/ct-listings-list.php:901
+msgid "Agent"
+msgstr "الوكيل"
+
+#: includes/ct-real-estate-custom-post-types.php:138
+#: includes/ct-real-estate-custom-post-types.php:152
+msgid "ID"
+msgstr "معرف"
+
+#: includes/ct-real-estate-custom-post-types.php:140
+#: includes/ct-real-estate-custom-post-types.php:154
+msgid "Listed"
+msgstr "المدرجة"
+
+#: includes/ct-real-estate-custom-post-types.php:192
+#: includes/ct-real-estate-custom-post-types.php:204
+#: includes/ct-real-estate-custom-post-types.php:216
+#: includes/ct-real-estate-custom-post-types.php:228
+#: includes/ct-real-estate-custom-post-types.php:253
+#: includes/ct-real-estate-custom-post-types.php:270
+#: includes/ct-real-estate-custom-post-types.php:301
+msgid "-"
+msgstr "-"
+
+#: includes/ct-real-estate-custom-post-types.php:337
+msgctxt "Post Type General Name"
+msgid "Brokerages"
+msgstr "شركات السمسرة"
+
+#: includes/ct-real-estate-custom-post-types.php:338
+msgctxt "Post Type Singular Name"
+msgid "Brokerage"
+msgstr "الوساطة"
+
+#: includes/ct-real-estate-custom-post-types.php:340
+msgid "Add New Brokerage"
+msgstr "إضافة جديدة الوساطة"
+
+#: includes/ct-real-estate-custom-post-types.php:341
+msgid "Edit Brokerage"
+msgstr "تحرير الوساطة"
+
+#: includes/ct-real-estate-custom-post-types.php:342
+msgid "New Brokerage"
+msgstr "وساطة جديدة"
+
+#: includes/ct-real-estate-custom-post-types.php:343
+msgid "View Brokerage"
+msgstr "عرض الوساطة"
+
+#: includes/ct-real-estate-custom-post-types.php:344
+msgid "Search Brokerages"
+msgstr "بحث شركات السمسرة"
+
+#: includes/ct-real-estate-custom-post-types.php:345
+msgid "No Brokerages found"
+msgstr "لا شركات السمسرة وجدت"
+
+#: includes/ct-real-estate-custom-post-types.php:346
+msgid "No Brokerages found in Trash"
+msgstr "لا شركات السمسرة وجدت في القمامة"
+
+#: includes/ct-real-estate-custom-post-types.php:362
+msgid "Brokerages"
+msgstr "شركات السمسرة"
+
+#: includes/ct-real-estate-custom-post-types.php:387
+msgid "Logo"
+msgstr "شعار"
+
+#: includes/ct-real-estate-custom-post-types.php:388
+msgid "Brokerage Name"
+msgstr "الوساطة اسم"
+
+#: includes/ct-real-estate-custom-post-types.php:430
+msgctxt "Post Type General Name"
+msgid "Testimonials"
+msgstr "الشهادات"
+
+#: includes/ct-real-estate-custom-post-types.php:431
+msgctxt "Post Type Singular Name"
+msgid "Testimonial"
+msgstr "شهادة"
+
+#: includes/ct-real-estate-custom-post-types.php:433
+msgid "Add New Testimonial"
+msgstr "إضافة شهادة جديدة"
+
+#: includes/ct-real-estate-custom-post-types.php:434
+msgid "Edit Testimonial"
+msgstr "تحرير شهادة"
+
+#: includes/ct-real-estate-custom-post-types.php:435
+msgid "New Testimonial"
+msgstr "شهادة جديدة"
+
+#: includes/ct-real-estate-custom-post-types.php:436
+msgid "View Testimonial"
+msgstr "عرض شهادة"
+
+#: includes/ct-real-estate-custom-post-types.php:437
+msgid "Search Testimonials"
+msgstr "البحث الشهادات"
+
+#: includes/ct-real-estate-custom-post-types.php:438
+msgid "No Testimonials found"
+msgstr "لا شهادات وجدت"
+
+#: includes/ct-real-estate-custom-post-types.php:439
+msgid "No Testimonials found in Trash"
+msgstr "لا شهادات وجدت في القمامة"
+
+#: includes/ct-real-estate-custom-post-types.php:455
+msgid "Testimonials"
+msgstr "الشهادات"
+
+#: includes/ct-real-estate-custom-post-types.php:481
+msgid "Person or Company"
+msgstr "الشخص أو الشركة"
+
+#: includes/ct-real-estate-custom-post-types.php:482
+msgid "Quote"
+msgstr "اقتباس"
+
+#: includes/ct-real-estate-custom-post-types.php:483
+#: includes/ct-real-estate-custom-widgets.php:1871
+#: includes/ct-real-estate-custom-widgets.php:1882
+msgid "Tags"
+msgstr "Tags"
+
+#: includes/ct-real-estate-custom-post-types.php:484
+msgid "Author"
+msgstr "الكاتب"
+
+#: includes/ct-real-estate-custom-post-types.php:485
+msgid "Created"
+msgstr "خلق"
+
+#: includes/ct-real-estate-custom-shortcodes.php:667
+#: ct-elementor-widgets/widgets/ct-listings-grid.php:876
+msgid "View"
+msgstr "عرض"
+
+#: includes/ct-real-estate-custom-shortcodes.php:811
+#: ct-elementor-widgets/widgets/ct-listings-grid.php:113
+#: ct-elementor-widgets/widgets/ct-listings-list.php:113
+#: ct-elementor-widgets/widgets/ct-listings-map.php:113
+msgid "Enter the number to show per page, if you'd like to show all enter -1."
+msgstr "أدخل الرقم تظهر في الصفحة إذا كنت'د ترغب في مشاهدة جميع أدخل -1."
+
+#: includes/ct-real-estate-custom-shortcodes.php:836
+#: includes/ct-real-estate-custom-shortcodes.php:1407
+msgid "Order by Date, Price or Random."
+msgstr "ترتيب حسب التاريخ أو سعر أو عشوائية."
+
+#: includes/ct-real-estate-custom-shortcodes.php:929
+#: includes/ct-real-estate-custom-taxonomies.php:634
+#: includes/ct-real-estate-custom-taxonomies.php:635
+#: includes/ct-real-estate-custom-widgets.php:1460
+#: ct-elementor-widgets/widgets/ct-listings-grid.php:273
+#: ct-elementor-widgets/widgets/ct-listings-list.php:273
+#: ct-elementor-widgets/widgets/ct-listings-map.php:290
+#: ct-elementor-widgets/widgets/ct-listings-minimal-grid.php:280
+#: ct-elementor-widgets/widgets/ct-listings-search.php:218
+msgid "County"
+msgstr "مقاطعة"
+
+#: includes/ct-real-estate-custom-shortcodes.php:932
+#: ct-elementor-widgets/widgets/ct-listings-grid.php:276
+#: ct-elementor-widgets/widgets/ct-listings-list.php:276
+#: ct-elementor-widgets/widgets/ct-listings-map.php:293
+#: ct-elementor-widgets/widgets/ct-listings-minimal-grid.php:283
+msgid "Enter the county, e.g. alpine-county, imperial-county, napa-county."
+msgstr "أدخل مقاطعة مثل جبال الألب في مقاطعة امبريال-مقاطعة نابا-مقاطعة."
+
+#: includes/ct-real-estate-custom-taxonomies.php:41
+#: includes/ct-real-estate-custom-taxonomies.php:42
+msgid "Property Type"
+msgstr "نوع العقار"
+
+#: includes/ct-real-estate-custom-taxonomies.php:43
+msgid "Search Property Types"
+msgstr "البحث أنواع العقارات"
+
+#: includes/ct-real-estate-custom-taxonomies.php:44
+msgid "Popular Property Types"
+msgstr "شعبية أنواع العقارات"
+
+#: includes/ct-real-estate-custom-taxonomies.php:45
+msgid "All Property Types"
+msgstr "جميع أنواع العقارات"
+
+#: includes/ct-real-estate-custom-taxonomies.php:48
+msgid "Edit Property Type"
+msgstr "تحرير نوع العقار"
+
+#: includes/ct-real-estate-custom-taxonomies.php:49
+msgid "Update Property Type"
+msgstr "تحديث نوع العقار"
+
+#: includes/ct-real-estate-custom-taxonomies.php:50
+msgid "Add New Property Type"
+msgstr "إضافة خاصية جديدة نوع"
+
+#: includes/ct-real-estate-custom-taxonomies.php:51
+msgid "New Property Type Name"
+msgstr "خاصية جديدة اكتب اسم"
+
+#: includes/ct-real-estate-custom-taxonomies.php:52
+msgid "Separate Property Types with commas"
+msgstr "فصل أنواع العقارات مع الفواصل"
+
+#: includes/ct-real-estate-custom-taxonomies.php:53
+msgid "Add or remove Property Types"
+msgstr "إضافة أو إزالة أنواع العقارات"
+
+#: includes/ct-real-estate-custom-taxonomies.php:54
+msgid "Choose from the most used Property Types"
+msgstr "الاختيار من بين الأكثر استخداما أنواع العقارات"
+
+#: includes/ct-real-estate-custom-taxonomies.php:78
+#: ct-elementor-widgets/widgets/ct-listings-grid.php:686
+#: ct-elementor-widgets/widgets/ct-listings-list.php:696
+#: ct-elementor-widgets/widgets/ct-listings-minimal-grid.php:698
+msgid "Rooms"
+msgstr "الغرف"
+
+#: includes/ct-real-estate-custom-taxonomies.php:79
+msgid "Room"
+msgstr "غرفة"
+
+#: includes/ct-real-estate-custom-taxonomies.php:80
+msgid "Search Rooms"
+msgstr "البحث الغرف"
+
+#: includes/ct-real-estate-custom-taxonomies.php:81
+msgid "Popular Rooms"
+msgstr "شعبية الغرف"
+
+#: includes/ct-real-estate-custom-taxonomies.php:82
+#: ct-elementor-widgets/widgets/ct-listings-search.php:258
+msgid "All Rooms"
+msgstr "جميع الغرف"
+
+#: includes/ct-real-estate-custom-taxonomies.php:85
+msgid "Edit Rooms"
+msgstr "تحرير الغرف"
+
+#: includes/ct-real-estate-custom-taxonomies.php:86
+msgid "Update Rooms"
+msgstr "تحديث الغرف"
+
+#: includes/ct-real-estate-custom-taxonomies.php:87
+msgid "Add New Rooms"
+msgstr "إضافة غرف جديدة"
+
+#: includes/ct-real-estate-custom-taxonomies.php:88
+msgid "New Rooms Name"
+msgstr "الغرف الجديدة اسم"
+
+#: includes/ct-real-estate-custom-taxonomies.php:89
+msgid "Separate Rooms with commas"
+msgstr "غرف منفصلة بفواصل"
+
+#: includes/ct-real-estate-custom-taxonomies.php:90
+msgid "Add or remove Rooms"
+msgstr "إضافة أو إزالة الغرف"
+
+#: includes/ct-real-estate-custom-taxonomies.php:91
+msgid "Choose from the most used Rooms"
+msgstr "اختيار من أكثر الغرف استخداما"
+
+#: includes/ct-real-estate-custom-taxonomies.php:103
+#: ct-elementor-widgets/widgets/ct-listings-grid.php:688
+#: ct-elementor-widgets/widgets/ct-listings-list.php:698
+#: ct-elementor-widgets/widgets/ct-listings-minimal-grid.php:700
+msgid "Bedrooms"
+msgstr "غرف نوم"
+
+#: includes/ct-real-estate-custom-taxonomies.php:104
+msgid "Bedroom"
+msgstr "غرفة نوم"
+
+#: includes/ct-real-estate-custom-taxonomies.php:105
+msgid "Search Bedrooms"
+msgstr "البحث نوم"
+
+#: includes/ct-real-estate-custom-taxonomies.php:106
+msgid "Popular Bedrooms"
+msgstr "شعبية غرف نوم"
+
+#: includes/ct-real-estate-custom-taxonomies.php:107
+#: ct-elementor-widgets/widgets/ct-listings-search.php:260
+msgid "All Bedrooms"
+msgstr "جميع غرف النوم"
+
+#: includes/ct-real-estate-custom-taxonomies.php:110
+msgid "Edit Bedrooms"
+msgstr "تحرير غرف نوم"
+
+#: includes/ct-real-estate-custom-taxonomies.php:111
+msgid "Update Bedrooms"
+msgstr "تحديث غرف نوم"
+
+#: includes/ct-real-estate-custom-taxonomies.php:112
+msgid "Add New Bedrooms"
+msgstr "إضافة جديدة غرف نوم"
+
+#: includes/ct-real-estate-custom-taxonomies.php:113
+msgid "New Bedrooms Name"
+msgstr "جديد غرف نوم اسم"
+
+#: includes/ct-real-estate-custom-taxonomies.php:114
+msgid "Separate Bedrooms with commas"
+msgstr "غرف نوم منفصلة مع الفواصل"
+
+#: includes/ct-real-estate-custom-taxonomies.php:115
+msgid "Add or remove Bedrooms"
+msgstr "إضافة أو إزالة غرف نوم"
+
+#: includes/ct-real-estate-custom-taxonomies.php:116
+msgid "Choose from the most used Bedrooms"
+msgstr "الاختيار من بين الأكثر استخداما غرف نوم"
+
+#: includes/ct-real-estate-custom-taxonomies.php:130
+#: includes/ct-real-estate-custom-taxonomies.php:155
+msgid "Search Beds"
+msgstr "البحث أسرة"
+
+#: includes/ct-real-estate-custom-taxonomies.php:131
+#: includes/ct-real-estate-custom-taxonomies.php:156
+msgid "Popular Beds"
+msgstr "شعبية أسرة"
+
+#: includes/ct-real-estate-custom-taxonomies.php:132
+#: includes/ct-real-estate-custom-taxonomies.php:157
+#: ct-elementor-widgets/widgets/ct-listings-search.php:262
+msgid "All Beds"
+msgstr "جميع الغرف"
+
+#: includes/ct-real-estate-custom-taxonomies.php:135
+#: includes/ct-real-estate-custom-taxonomies.php:160
+msgid "Edit Beds"
+msgstr "أسرة تحرير"
+
+#: includes/ct-real-estate-custom-taxonomies.php:136
+#: includes/ct-real-estate-custom-taxonomies.php:161
+msgid "Update Beds"
+msgstr "تحديث أسرة"
+
+#: includes/ct-real-estate-custom-taxonomies.php:137
+#: includes/ct-real-estate-custom-taxonomies.php:162
+msgid "Add New Beds"
+msgstr "إضافة أسرة جديدة"
+
+#: includes/ct-real-estate-custom-taxonomies.php:138
+#: includes/ct-real-estate-custom-taxonomies.php:163
+msgid "New Beds Name"
+msgstr "الأسرة الجديدة اسم"
+
+#: includes/ct-real-estate-custom-taxonomies.php:139
+#: includes/ct-real-estate-custom-taxonomies.php:164
+msgid "Separate Beds with commas"
+msgstr "أسرة منفصلة بفواصل"
+
+#: includes/ct-real-estate-custom-taxonomies.php:140
+#: includes/ct-real-estate-custom-taxonomies.php:165
+msgid "Add or remove Beds"
+msgstr "إضافة أو إزالة أسرة"
+
+#: includes/ct-real-estate-custom-taxonomies.php:141
+#: includes/ct-real-estate-custom-taxonomies.php:166
+msgid "Choose from the most used Beds"
+msgstr "الاختيار من بين الأكثر استخداما أسرة"
+
+#: includes/ct-real-estate-custom-taxonomies.php:193
+#: ct-elementor-widgets/widgets/ct-listings-grid.php:708
+#: ct-elementor-widgets/widgets/ct-listings-list.php:718
+#: ct-elementor-widgets/widgets/ct-listings-minimal-grid.php:717
+msgid "Bathrooms"
+msgstr "الحمامات"
+
+#: includes/ct-real-estate-custom-taxonomies.php:194
+msgid "Bathroom"
+msgstr "حمام"
+
+#: includes/ct-real-estate-custom-taxonomies.php:195
+msgid "Search Bathrooms"
+msgstr "البحث الحمامات"
+
+#: includes/ct-real-estate-custom-taxonomies.php:196
+msgid "Popular Bathrooms"
+msgstr "شعبية الحمامات"
+
+#: includes/ct-real-estate-custom-taxonomies.php:197
+#: ct-elementor-widgets/widgets/ct-listings-search.php:284
+msgid "All Bathrooms"
+msgstr "جميع الحمامات"
+
+#: includes/ct-real-estate-custom-taxonomies.php:200
+msgid "Edit Bathrooms"
+msgstr "تحرير الحمامات"
+
+#: includes/ct-real-estate-custom-taxonomies.php:201
+msgid "Update Bathrooms"
+msgstr "تحديث الحمامات"
+
+#: includes/ct-real-estate-custom-taxonomies.php:202
+msgid "Add New Bathrooms"
+msgstr "إضافة حمامات جديدة"
+
+#: includes/ct-real-estate-custom-taxonomies.php:203
+msgid "New Bathrooms Name"
+msgstr "الحمامات الجديدة اسم"
+
+#: includes/ct-real-estate-custom-taxonomies.php:204
+msgid "Separate Bathrooms with commas"
+msgstr "حمامات منفصلة بفواصل"
+
+#: includes/ct-real-estate-custom-taxonomies.php:205
+msgid "Add or remove Bathrooms"
+msgstr "إضافة أو إزالة الحمامات"
+
+#: includes/ct-real-estate-custom-taxonomies.php:206
+msgid "Choose from the most used Bathrooms"
+msgstr "الاختيار من بين الأكثر استخداما الحمامات"
+
+#: includes/ct-real-estate-custom-taxonomies.php:218
+#: includes/ct-real-estate-custom-taxonomies.php:219
+#: ct-elementor-widgets/widgets/ct-listings-grid.php:712
+#: ct-elementor-widgets/widgets/ct-listings-list.php:722
+#: ct-elementor-widgets/widgets/ct-listings-minimal-grid.php:721
+msgid "Bath"
+msgstr "حوض استحمام"
+
+#: includes/ct-real-estate-custom-taxonomies.php:220
+#: includes/ct-real-estate-custom-taxonomies.php:245
+msgid "Search Baths"
+msgstr "البحث الحمامات"
+
+#: includes/ct-real-estate-custom-taxonomies.php:221
+#: includes/ct-real-estate-custom-taxonomies.php:246
+msgid "Popular Baths"
+msgstr "شعبية الحمامات"
+
+#: includes/ct-real-estate-custom-taxonomies.php:222
+#: includes/ct-real-estate-custom-taxonomies.php:247
+#: ct-elementor-widgets/widgets/ct-listings-search.php:286
+msgid "All Baths"
+msgstr "جميع الحمامات"
+
+#: includes/ct-real-estate-custom-taxonomies.php:225
+#: includes/ct-real-estate-custom-taxonomies.php:250
+msgid "Edit Baths"
+msgstr "تحرير الحمامات"
+
+#: includes/ct-real-estate-custom-taxonomies.php:226
+#: includes/ct-real-estate-custom-taxonomies.php:251
+msgid "Update Baths"
+msgstr "تحديث الحمامات"
+
+#: includes/ct-real-estate-custom-taxonomies.php:227
+#: includes/ct-real-estate-custom-taxonomies.php:252
+msgid "Add New Baths"
+msgstr "إضافة جديدة الحمامات"
+
+#: includes/ct-real-estate-custom-taxonomies.php:228
+#: includes/ct-real-estate-custom-taxonomies.php:253
+msgid "New Baths Name"
+msgstr "جديد حمامات اسم"
+
+#: includes/ct-real-estate-custom-taxonomies.php:229
+#: includes/ct-real-estate-custom-taxonomies.php:254
+msgid "Separate Baths with commas"
+msgstr "منفصلة مع حمامات الفواصل"
+
+#: includes/ct-real-estate-custom-taxonomies.php:230
+#: includes/ct-real-estate-custom-taxonomies.php:255
+msgid "Add or remove Baths"
+msgstr "إضافة أو إزالة الحمامات"
+
+#: includes/ct-real-estate-custom-taxonomies.php:231
+#: includes/ct-real-estate-custom-taxonomies.php:256
+msgid "Choose from the most used Baths"
+msgstr "الاختيار من بين الأكثر استخداما الحمامات"
+
+#: includes/ct-real-estate-custom-taxonomies.php:282
+msgid "Search Statuses"
+msgstr "البحث الأوضاع"
+
+#: includes/ct-real-estate-custom-taxonomies.php:283
+msgid "Popular Statuses"
+msgstr "شعبية الأوضاع"
+
+#: includes/ct-real-estate-custom-taxonomies.php:284
+msgid "All Statuses"
+msgstr "جميع الحالات"
+
+#: includes/ct-real-estate-custom-taxonomies.php:287
+msgid "Edit Statuses"
+msgstr "تعديل الأوضاع"
+
+#: includes/ct-real-estate-custom-taxonomies.php:288
+msgid "Update Statuses"
+msgstr "الأوضاع التحديث"
+
+#: includes/ct-real-estate-custom-taxonomies.php:289
+msgid "Add New Status"
+msgstr "إضافة الوضع الجديد"
+
+#: includes/ct-real-estate-custom-taxonomies.php:290
+msgid "New Status Name"
+msgstr "الوضع الجديد اسم"
+
+#: includes/ct-real-estate-custom-taxonomies.php:291
+msgid "Separate Statuses with commas"
+msgstr "منفصلة الأوضاع مع الفواصل"
+
+#: includes/ct-real-estate-custom-taxonomies.php:292
+msgid "Add or remove Status"
+msgstr "إضافة أو إزالة حالة"
+
+#: includes/ct-real-estate-custom-taxonomies.php:293
+msgid "Choose from the most used Statuses"
+msgstr "الاختيار من بين الأكثر استخداما الأوضاع"
+
+#: includes/ct-real-estate-custom-taxonomies.php:317
+#: includes/ct-real-estate-custom-taxonomies.php:318
+msgid "Village"
+msgstr "قرية"
+
+#: includes/ct-real-estate-custom-taxonomies.php:319
+msgid "Search Villages"
+msgstr "البحث القرى"
+
+#: includes/ct-real-estate-custom-taxonomies.php:320
+msgid "Popular Villages"
+msgstr "شعبية القرى"
+
+#: includes/ct-real-estate-custom-taxonomies.php:321
+msgid "All Villages"
+msgstr "جميع القرى"
+
+#: includes/ct-real-estate-custom-taxonomies.php:324
+msgid "Edit Villages"
+msgstr "تحرير القرى"
+
+#: includes/ct-real-estate-custom-taxonomies.php:325
+msgid "Update Village"
+msgstr "تحديث قرية"
+
+#: includes/ct-real-estate-custom-taxonomies.php:326
+msgid "Add New Village"
+msgstr "إضافة جديدة القرية"
+
+#: includes/ct-real-estate-custom-taxonomies.php:327
+msgid "New Village Name"
+msgstr "الجديد اسم القرية"
+
+#: includes/ct-real-estate-custom-taxonomies.php:328
+msgid "Separate Villages with commas"
+msgstr "قرى منفصلة بفواصل"
+
+#: includes/ct-real-estate-custom-taxonomies.php:329
+msgid "Add or remove Villages"
+msgstr "إضافة أو إزالة القرى"
+
+#: includes/ct-real-estate-custom-taxonomies.php:330
+msgid "Choose from the most used Villages"
+msgstr "الاختيار من بين الأكثر استخداما القرى"
+
+#: includes/ct-real-estate-custom-taxonomies.php:335
+#: includes/ct-real-estate-custom-taxonomies.php:336
+msgid "Town"
+msgstr "المدينة"
+
+#: includes/ct-real-estate-custom-taxonomies.php:337
+msgid "Search Towns"
+msgstr "البحث المدن"
+
+#: includes/ct-real-estate-custom-taxonomies.php:338
+msgid "Popular Towns"
+msgstr "شعبية المدن"
+
+#: includes/ct-real-estate-custom-taxonomies.php:339
+msgid "All Towns"
+msgstr "جميع المدن"
+
+#: includes/ct-real-estate-custom-taxonomies.php:342
+msgid "Edit Towns"
+msgstr "تحرير المدن"
+
+#: includes/ct-real-estate-custom-taxonomies.php:343
+msgid "Update Town"
+msgstr "تحديث المدينة"
+
+#: includes/ct-real-estate-custom-taxonomies.php:344
+#: includes/ct-real-estate-custom-taxonomies.php:362
+msgid "Add New City"
+msgstr "إضافة مدينة جديدة"
+
+#: includes/ct-real-estate-custom-taxonomies.php:345
+msgid "New Town Name"
+msgstr "المدينة الجديدة اسم"
+
+#: includes/ct-real-estate-custom-taxonomies.php:346
+msgid "Separate Towns with commas"
+msgstr "مدن منفصلة بفواصل"
+
+#: includes/ct-real-estate-custom-taxonomies.php:347
+msgid "Add or remove Towns"
+msgstr "إضافة أو إزالة المدن"
+
+#: includes/ct-real-estate-custom-taxonomies.php:348
+msgid "Choose from the most used Towns"
+msgstr "الاختيار من بين الأكثر استخداما المدن"
+
+#: includes/ct-real-estate-custom-taxonomies.php:355
+msgid "Search Cities"
+msgstr "البحث المدن"
+
+#: includes/ct-real-estate-custom-taxonomies.php:356
+msgid "Popular Cities"
+msgstr "المدن شعبية"
+
+#: includes/ct-real-estate-custom-taxonomies.php:357
+msgid "All Cities"
+msgstr "جميع المدن"
+
+#: includes/ct-real-estate-custom-taxonomies.php:360
+msgid "Edit Cities"
+msgstr "تحرير المدن"
+
+#: includes/ct-real-estate-custom-taxonomies.php:361
+msgid "Update City"
+msgstr "تحديث المدينة"
+
+#: includes/ct-real-estate-custom-taxonomies.php:363
+msgid "New City Name"
+msgstr "المدينة الجديدة اسم"
+
+#: includes/ct-real-estate-custom-taxonomies.php:364
+msgid "Separate Cities with commas"
+msgstr "مدن منفصلة بفواصل"
+
+#: includes/ct-real-estate-custom-taxonomies.php:365
+msgid "Add or remove Cities"
+msgstr "إضافة أو إزالة المدن"
+
+#: includes/ct-real-estate-custom-taxonomies.php:366
+msgid "Choose from the most used Cities"
+msgstr "الاختيار من بين الأكثر استخداما المدن"
+
+#: includes/ct-real-estate-custom-taxonomies.php:393
+#: includes/ct-real-estate-custom-taxonomies.php:394
+#: includes/ct-real-estate-custom-widgets.php:1420
+#: ct-elementor-widgets/widgets/ct-listings-grid.php:858
+#: ct-elementor-widgets/widgets/ct-listings-list.php:866
+msgid "Area"
+msgstr "المنطقة"
+
+#: includes/ct-real-estate-custom-taxonomies.php:395
+msgid "Search Areas"
+msgstr "البحث المجالات"
+
+#: includes/ct-real-estate-custom-taxonomies.php:396
+msgid "Popular Areas"
+msgstr "المناطق الشعبية"
+
+#: includes/ct-real-estate-custom-taxonomies.php:397
+msgid "All Areas"
+msgstr "جميع المناطق"
+
+#: includes/ct-real-estate-custom-taxonomies.php:400
+msgid "Edit Areas"
+msgstr "تحرير المناطق"
+
+#: includes/ct-real-estate-custom-taxonomies.php:401
+msgid "Update Area"
+msgstr "تحديث المنطقة"
+
+#: includes/ct-real-estate-custom-taxonomies.php:402
+msgid "Add New Area"
+msgstr "إضافة منطقة جديدة"
+
+#: includes/ct-real-estate-custom-taxonomies.php:403
+msgid "New Area Name"
+msgstr "الجديد اسم المجال"
+
+#: includes/ct-real-estate-custom-taxonomies.php:404
+msgid "Separate Area with commas"
+msgstr "منطقة منفصلة بفواصل"
+
+#: includes/ct-real-estate-custom-taxonomies.php:405
+msgid "Add or remove Areas"
+msgstr "إضافة أو إزالة المناطق"
+
+#: includes/ct-real-estate-custom-taxonomies.php:406
+msgid "Choose from the most used Areas"
+msgstr "الاختيار من بين الأكثر استخداما المناطق"
+
+#: includes/ct-real-estate-custom-taxonomies.php:419
+#: includes/ct-real-estate-custom-taxonomies.php:420
+#: includes/ct-real-estate-custom-taxonomies.php:700
+#: includes/ct-real-estate-custom-taxonomies.php:701
+#: includes/ct-real-estate-custom-widgets.php:1422
+msgid "Suburb"
+msgstr "ضاحية"
+
+#: includes/ct-real-estate-custom-taxonomies.php:421
+#: includes/ct-real-estate-custom-taxonomies.php:702
+msgid "Search Suburbs"
+msgstr "البحث الضواحي"
+
+#: includes/ct-real-estate-custom-taxonomies.php:422
+#: includes/ct-real-estate-custom-taxonomies.php:703
+msgid "Popular Suburbs"
+msgstr "الضواحي الشعبية"
+
+#: includes/ct-real-estate-custom-taxonomies.php:423
+#: includes/ct-real-estate-custom-taxonomies.php:704
+msgid "All Suburbs"
+msgstr "جميع الضواحي"
+
+#: includes/ct-real-estate-custom-taxonomies.php:426
+msgid "Edit Suburbs"
+msgstr "تحرير ضواحي"
+
+#: includes/ct-real-estate-custom-taxonomies.php:427
+#: includes/ct-real-estate-custom-taxonomies.php:708
+msgid "Update Suburb"
+msgstr "تحديث ضاحية"
+
+#: includes/ct-real-estate-custom-taxonomies.php:428
+#: includes/ct-real-estate-custom-taxonomies.php:709
+msgid "Add New Suburb"
+msgstr "إضافة جديدة ضاحية"
+
+#: includes/ct-real-estate-custom-taxonomies.php:429
+msgid "New Suburb Name"
+msgstr "جديدة ضاحية اسم"
+
+#: includes/ct-real-estate-custom-taxonomies.php:430
+msgid "Separate Suburb with commas"
+msgstr "منفصلة ضاحية بفواصل"
+
+#: includes/ct-real-estate-custom-taxonomies.php:431
+#: includes/ct-real-estate-custom-taxonomies.php:712
+msgid "Add or remove Suburbs"
+msgstr "إضافة أو إزالة الضواحي"
+
+#: includes/ct-real-estate-custom-taxonomies.php:432
+#: includes/ct-real-estate-custom-taxonomies.php:713
+msgid "Choose from the most used Suburbs"
+msgstr "الاختيار من بين الأكثر استخداما الضواحي"
+
+#: includes/ct-real-estate-custom-taxonomies.php:445
+#: includes/ct-real-estate-custom-taxonomies.php:446
+msgid "Province"
+msgstr "محافظة"
+
+#: includes/ct-real-estate-custom-taxonomies.php:447
+msgid "Search Provinces"
+msgstr "البحث المحافظات"
+
+#: includes/ct-real-estate-custom-taxonomies.php:448
+msgid "Popular Provinces"
+msgstr "شعبية المحافظات"
+
+#: includes/ct-real-estate-custom-taxonomies.php:449
+msgid "All Provinces"
+msgstr "جميع المحافظات"
+
+#: includes/ct-real-estate-custom-taxonomies.php:452
+msgid "Edit Provinces"
+msgstr "تحرير المحافظات"
+
+#: includes/ct-real-estate-custom-taxonomies.php:453
+msgid "Update Province"
+msgstr "تحديث مقاطعة"
+
+#: includes/ct-real-estate-custom-taxonomies.php:454
+msgid "Add New Province"
+msgstr "إضافة جديدة مقاطعة"
+
+#: includes/ct-real-estate-custom-taxonomies.php:455
+msgid "New Province Name"
+msgstr "مقاطعة جديدة اسم"
+
+#: includes/ct-real-estate-custom-taxonomies.php:456
+msgid "Separate Province with commas"
+msgstr "منفصلة مقاطعة مع الفواصل"
+
+#: includes/ct-real-estate-custom-taxonomies.php:457
+msgid "Add or remove Provinces"
+msgstr "إضافة أو إزالة المحافظات"
+
+#: includes/ct-real-estate-custom-taxonomies.php:458
+msgid "Choose from the most used Provinces"
+msgstr "الاختيار من بين الأكثر استخداما المحافظات"
+
+#: includes/ct-real-estate-custom-taxonomies.php:473
+msgid "Search States"
+msgstr "البحث الولايات"
+
+#: includes/ct-real-estate-custom-taxonomies.php:474
+msgid "Popular States"
+msgstr "شعبية الدول"
+
+#: includes/ct-real-estate-custom-taxonomies.php:475
+msgid "All States"
+msgstr "جميع الدول"
+
+#: includes/ct-real-estate-custom-taxonomies.php:478
+msgid "Edit States"
+msgstr "تحرير الدول"
+
+#: includes/ct-real-estate-custom-taxonomies.php:479
+msgid "Update State"
+msgstr "تحديث الدولة"
+
+#: includes/ct-real-estate-custom-taxonomies.php:480
+msgid "Add New State"
+msgstr "إضافة دولة جديدة"
+
+#: includes/ct-real-estate-custom-taxonomies.php:481
+msgid "New State Name"
+msgstr "الدولة الجديدة اسم"
+
+#: includes/ct-real-estate-custom-taxonomies.php:482
+msgid "Separate States with commas"
+msgstr "دول منفصلة بفواصل"
+
+#: includes/ct-real-estate-custom-taxonomies.php:483
+msgid "Add or remove States"
+msgstr "إضافة أو إزالة الدول"
+
+#: includes/ct-real-estate-custom-taxonomies.php:484
+msgid "Choose from the most used States"
+msgstr "الاختيار من بين أكثر الدول المستخدمة"
+
+#: includes/ct-real-estate-custom-taxonomies.php:510
+#: includes/ct-real-estate-custom-taxonomies.php:511
+#: includes/ct-real-estate-custom-widgets.php:1439
+msgid "Postcode"
+msgstr "الرمز البريدي"
+
+#: includes/ct-real-estate-custom-taxonomies.php:512
+msgid "Search Postcodes"
+msgstr "البحث الرموز البريدية"
+
+#: includes/ct-real-estate-custom-taxonomies.php:513
+msgid "Popular Postcodes"
+msgstr "شعبية الرموز البريدية"
+
+#: includes/ct-real-estate-custom-taxonomies.php:514
+msgid "All Postcodes"
+msgstr "جميع الرموز البريدية"
+
+#: includes/ct-real-estate-custom-taxonomies.php:517
+msgid "Edit Postcode"
+msgstr "تحرير الرمز البريدي"
+
+#: includes/ct-real-estate-custom-taxonomies.php:518
+msgid "Update Postcode"
+msgstr "تحديث الرمز البريدي"
+
+#: includes/ct-real-estate-custom-taxonomies.php:519
+msgid "Add New Postcode"
+msgstr "إضافة الرمز البريدي"
+
+#: includes/ct-real-estate-custom-taxonomies.php:520
+msgid "New Postcode"
+msgstr "جديدة الرمز البريدي"
+
+#: includes/ct-real-estate-custom-taxonomies.php:521
+msgid "Separate Postcodes with commas"
+msgstr "فصل الرموز البريدية مع الفواصل"
+
+#: includes/ct-real-estate-custom-taxonomies.php:522
+msgid "Add or remove Postcodes"
+msgstr "إضافة أو إزالة الرموز البريدية"
+
+#: includes/ct-real-estate-custom-taxonomies.php:523
+msgid "Choose from the most used Postcodes"
+msgstr "اختيار من أكثر تستخدم الرموز البريدية"
+
+#: includes/ct-real-estate-custom-taxonomies.php:536
+#: includes/ct-real-estate-custom-taxonomies.php:537
+msgid "Postal Code"
+msgstr "الرمز البريدي"
+
+#: includes/ct-real-estate-custom-taxonomies.php:538
+msgid "Search Postal Codes"
+msgstr "البحث الرموز البريدية"
+
+#: includes/ct-real-estate-custom-taxonomies.php:539
+msgid "Popular Postal Codes"
+msgstr "شعبية الرموز البريدية"
+
+#: includes/ct-real-estate-custom-taxonomies.php:540
+msgid "All Postal Codes"
+msgstr "جميع الرموز البريدية"
+
+#: includes/ct-real-estate-custom-taxonomies.php:543
+msgid "Edit Postal Code"
+msgstr "تحرير الرمز البريدي"
+
+#: includes/ct-real-estate-custom-taxonomies.php:544
+msgid "Update Postal Code"
+msgstr "تحديث الرمز البريدي"
+
+#: includes/ct-real-estate-custom-taxonomies.php:545
+msgid "Add New Postal Code"
+msgstr "إضافة الرمز البريدي"
+
+#: includes/ct-real-estate-custom-taxonomies.php:546
+msgid "New Postal Code"
+msgstr "جديدة الرمز البريدي"
+
+#: includes/ct-real-estate-custom-taxonomies.php:547
+msgid "Separate Postal Codes with commas"
+msgstr "فصل الرموز البريدية مع الفواصل"
+
+#: includes/ct-real-estate-custom-taxonomies.php:548
+msgid "Add or remove Postal Codes"
+msgstr "إضافة أو إزالة الرموز البريدية"
+
+#: includes/ct-real-estate-custom-taxonomies.php:549
+msgid "Choose from the most used Postal Codes"
+msgstr "اختيار من أكثر تستخدم الرموز البريدية"
+
+#: includes/ct-real-estate-custom-taxonomies.php:562
+#: includes/ct-real-estate-custom-taxonomies.php:563
+#: includes/ct-real-estate-custom-widgets.php:1441
+msgid "Zipcode"
+msgstr "الرمز البريدي"
+
+#: includes/ct-real-estate-custom-taxonomies.php:564
+msgid "Search Zipcodes"
+msgstr "البحث Zipcodes"
+
+#: includes/ct-real-estate-custom-taxonomies.php:565
+msgid "Popular Zipcodes"
+msgstr "شعبية Zipcodes"
+
+#: includes/ct-real-estate-custom-taxonomies.php:566
+msgid "All Zipcodes"
+msgstr "كل Zipcodes"
+
+#: includes/ct-real-estate-custom-taxonomies.php:569
+msgid "Edit Zipcode"
+msgstr "تحرير الرمز البريدي"
+
+#: includes/ct-real-estate-custom-taxonomies.php:570
+msgid "Update Zipcode"
+msgstr "تحديث الرمز البريدي"
+
+#: includes/ct-real-estate-custom-taxonomies.php:571
+msgid "Add New Zipcode"
+msgstr "إضافة الرمز البريدي"
+
+#: includes/ct-real-estate-custom-taxonomies.php:572
+msgid "New Zipcode"
+msgstr "جديدة الرمز البريدي"
+
+#: includes/ct-real-estate-custom-taxonomies.php:573
+msgid "Separate Zipcodes with commas"
+msgstr "منفصلة Zipcodes مع الفواصل"
+
+#: includes/ct-real-estate-custom-taxonomies.php:574
+msgid "Add or remove Zipcodes"
+msgstr "إضافة أو إزالة Zipcodes"
+
+#: includes/ct-real-estate-custom-taxonomies.php:575
+msgid "Choose from the most used Zipcodes"
+msgstr "الاختيار من بين الأكثر استخداما Zipcodes"
+
+#: includes/ct-real-estate-custom-taxonomies.php:600
+msgid "Search Countries"
+msgstr "البحث البلدان"
+
+#: includes/ct-real-estate-custom-taxonomies.php:601
+msgid "Popular Countries"
+msgstr "شعبية البلدان"
+
+#: includes/ct-real-estate-custom-taxonomies.php:602
+msgid "All Countries"
+msgstr "جميع البلدان"
+
+#: includes/ct-real-estate-custom-taxonomies.php:605
+msgid "Edit Countries"
+msgstr "تحرير البلدان"
+
+#: includes/ct-real-estate-custom-taxonomies.php:606
+msgid "Update Countries"
+msgstr "تحديث البلدان"
+
+#: includes/ct-real-estate-custom-taxonomies.php:607
+msgid "Add New Countries"
+msgstr "إضافة بلدان جديدة"
+
+#: includes/ct-real-estate-custom-taxonomies.php:608
+msgid "New Country Name"
+msgstr "الجديد اسم البلد"
+
+#: includes/ct-real-estate-custom-taxonomies.php:609
+msgid "Separate Countries with commas"
+msgstr "بلدان منفصلة بفواصل"
+
+#: includes/ct-real-estate-custom-taxonomies.php:610
+msgid "Add or remove Countries"
+msgstr "إضافة أو إزالة البلدان"
+
+#: includes/ct-real-estate-custom-taxonomies.php:611
+msgid "Choose from the most used Countries"
+msgstr "الاختيار من بين أكثر الدول المستخدمة"
+
+#: includes/ct-real-estate-custom-taxonomies.php:636
+msgid "Search Counties"
+msgstr "البحث المقاطعات"
+
+#: includes/ct-real-estate-custom-taxonomies.php:637
+msgid "Popular Counties"
+msgstr "شعبية المقاطعات"
+
+#: includes/ct-real-estate-custom-taxonomies.php:638
+msgid "All Counties"
+msgstr "جميع المقاطعات"
+
+#: includes/ct-real-estate-custom-taxonomies.php:641
+msgid "Edit Counties"
+msgstr "تحرير المقاطعات"
+
+#: includes/ct-real-estate-custom-taxonomies.php:642
+msgid "Update Counties"
+msgstr "تحديث المقاطعات"
+
+#: includes/ct-real-estate-custom-taxonomies.php:643
+msgid "Add New Counties"
+msgstr "إضافة جديدة المقاطعات"
+
+#: includes/ct-real-estate-custom-taxonomies.php:644
+msgid "New County Name"
+msgstr "مقاطعة الجديد اسم"
+
+#: includes/ct-real-estate-custom-taxonomies.php:645
+msgid "Separate Counties with commas"
+msgstr "منفصلة المقاطعات مع الفواصل"
+
+#: includes/ct-real-estate-custom-taxonomies.php:646
+msgid "Add or remove Counties"
+msgstr "إضافة أو إزالة المقاطعات"
+
+#: includes/ct-real-estate-custom-taxonomies.php:647
+msgid "Choose from the most used Counties"
+msgstr "الاختيار من بين الأكثر استخداما المقاطعات"
+
+#: includes/ct-real-estate-custom-taxonomies.php:674
+#: includes/ct-real-estate-custom-taxonomies.php:675
+#: includes/ct-real-estate-custom-widgets.php:1519
+#: ct-elementor-widgets/widgets/ct-listings-search.php:318
+msgid "Neighborhood"
+msgstr "حي"
+
+#: includes/ct-real-estate-custom-taxonomies.php:676
+msgid "Search Neighborhoods"
+msgstr "البحث الأحياء"
+
+#: includes/ct-real-estate-custom-taxonomies.php:677
+msgid "Popular Neighborhoods"
+msgstr "الأحياء الشعبية"
+
+#: includes/ct-real-estate-custom-taxonomies.php:678
+msgid "All Neighborhoods"
+msgstr "كل الأحياء"
+
+#: includes/ct-real-estate-custom-taxonomies.php:681
+msgid "Edit Neighborhood"
+msgstr "تحرير الحي"
+
+#: includes/ct-real-estate-custom-taxonomies.php:682
+msgid "Update Neighborhood"
+msgstr "التحديث الحي"
+
+#: includes/ct-real-estate-custom-taxonomies.php:683
+msgid "Add New Neighborhood"
+msgstr "إضافة جديدة حي"
+
+#: includes/ct-real-estate-custom-taxonomies.php:684
+msgid "New Neighborhood"
+msgstr "حي جديد"
+
+#: includes/ct-real-estate-custom-taxonomies.php:685
+msgid "Separate Neighborhoods with commas"
+msgstr "أحياء منفصلة بفواصل"
+
+#: includes/ct-real-estate-custom-taxonomies.php:686
+msgid "Add or remove Neighborhoods"
+msgstr "إضافة أو إزالة الأحياء"
+
+#: includes/ct-real-estate-custom-taxonomies.php:687
+msgid "Choose from the most used Neighborhoods"
+msgstr "الاختيار من بين الأكثر استخداما الأحياء"
+
+#: includes/ct-real-estate-custom-taxonomies.php:707
+msgid "Edit Suburb"
+msgstr "تحرير ضاحية"
+
+#: includes/ct-real-estate-custom-taxonomies.php:710
+msgid "New Suburb"
+msgstr "ضاحية جديدة"
+
+#: includes/ct-real-estate-custom-taxonomies.php:711
+msgid "Separate Suburbs with commas"
+msgstr "فصل ضواحي مع الفواصل"
+
+#: includes/ct-real-estate-custom-taxonomies.php:726
+#: includes/ct-real-estate-custom-taxonomies.php:727
+#: includes/ct-real-estate-custom-widgets.php:1521
+#: ct-elementor-widgets/widgets/ct-listings-search.php:320
+msgid "District"
+msgstr "حي"
+
+#: includes/ct-real-estate-custom-taxonomies.php:728
+msgid "Search Districts"
+msgstr "البحث أحياء"
+
+#: includes/ct-real-estate-custom-taxonomies.php:729
+msgid "Popular Districts"
+msgstr "المناطق الشعبية"
+
+#: includes/ct-real-estate-custom-taxonomies.php:730
+msgid "All Districts"
+msgstr "جميع المناطق"
+
+#: includes/ct-real-estate-custom-taxonomies.php:733
+msgid "Edit District"
+msgstr "تحرير منطقة"
+
+#: includes/ct-real-estate-custom-taxonomies.php:734
+msgid "Update District"
+msgstr "تحديث منطقة"
+
+#: includes/ct-real-estate-custom-taxonomies.php:735
+msgid "Add New District"
+msgstr "إضافة جديدة حي"
+
+#: includes/ct-real-estate-custom-taxonomies.php:736
+msgid "New District"
+msgstr "منطقة الجديدة"
+
+#: includes/ct-real-estate-custom-taxonomies.php:737
+msgid "Separate Districts with commas"
+msgstr "مناطق منفصلة بفواصل"
+
+#: includes/ct-real-estate-custom-taxonomies.php:738
+msgid "Add or remove Districts"
+msgstr "إضافة أو إزالة المناطق"
+
+#: includes/ct-real-estate-custom-taxonomies.php:739
+msgid "Choose from the most used Districts"
+msgstr "الاختيار من بين أكثر المناطق المستخدمة"
+
+#: includes/ct-real-estate-custom-taxonomies.php:752
+#: includes/ct-real-estate-custom-taxonomies.php:753
+msgid "Building"
+msgstr "بناء"
+
+#: includes/ct-real-estate-custom-taxonomies.php:754
+msgid "Search Buildings"
+msgstr "البحث المباني"
+
+#: includes/ct-real-estate-custom-taxonomies.php:755
+msgid "Popular Buildings"
+msgstr "شعبية المباني"
+
+#: includes/ct-real-estate-custom-taxonomies.php:756
+msgid "All Buildings"
+msgstr "جميع المباني"
+
+#: includes/ct-real-estate-custom-taxonomies.php:759
+msgid "Edit Building"
+msgstr "تحرير مبنى"
+
+#: includes/ct-real-estate-custom-taxonomies.php:760
+msgid "Update Building"
+msgstr "تحديث المبنى"
+
+#: includes/ct-real-estate-custom-taxonomies.php:761
+msgid "Add New Building"
+msgstr "إضافة مبنى جديد"
+
+#: includes/ct-real-estate-custom-taxonomies.php:762
+msgid "New Building"
+msgstr "المبنى الجديد"
+
+#: includes/ct-real-estate-custom-taxonomies.php:763
+msgid "Separate Buildings with commas"
+msgstr "مبان منفصلة بفواصل"
+
+#: includes/ct-real-estate-custom-taxonomies.php:764
+msgid "Add or remove Buildings"
+msgstr "إضافة أو إزالة المباني"
+
+#: includes/ct-real-estate-custom-taxonomies.php:765
+msgid "Choose from the most used Buildings"
+msgstr "الاختيار من بين الأكثر استخداما المباني"
+
+#: includes/ct-real-estate-custom-taxonomies.php:778
+#: includes/ct-real-estate-custom-taxonomies.php:779
+msgid "Borough"
+msgstr "بورو"
+
+#: includes/ct-real-estate-custom-taxonomies.php:780
+msgid "Search Boroughs"
+msgstr "البحث الأحياء"
+
+#: includes/ct-real-estate-custom-taxonomies.php:781
+msgid "Popular Boroughs"
+msgstr "شعبية الأحياء"
+
+#: includes/ct-real-estate-custom-taxonomies.php:782
+msgid "All Boroughs"
+msgstr "كل الأحياء"
+
+#: includes/ct-real-estate-custom-taxonomies.php:785
+msgid "Edit Borough"
+msgstr "تحرير البلدة"
+
+#: includes/ct-real-estate-custom-taxonomies.php:786
+msgid "Update Borough"
+msgstr "تحديث بورو"
+
+#: includes/ct-real-estate-custom-taxonomies.php:787
+msgid "Add New Borough"
+msgstr "إضافة جديدة بورو"
+
+#: includes/ct-real-estate-custom-taxonomies.php:788
+msgid "New Borough"
+msgstr "الجديد بورو"
+
+#: includes/ct-real-estate-custom-taxonomies.php:789
+msgid "Separate Boroughs with commas"
+msgstr "فصل الأحياء مع الفواصل"
+
+#: includes/ct-real-estate-custom-taxonomies.php:790
+msgid "Add or remove Boroughs"
+msgstr "إضافة أو إزالة الأحياء"
+
+#: includes/ct-real-estate-custom-taxonomies.php:791
+msgid "Choose from the most used Boroughs"
+msgstr "الاختيار من بين الأكثر استخداما الأحياء"
+
+#: includes/ct-real-estate-custom-taxonomies.php:804
+#: includes/ct-real-estate-custom-taxonomies.php:805
+msgid "Sector"
+msgstr "القطاع"
+
+#: includes/ct-real-estate-custom-taxonomies.php:806
+msgid "Search Sectors"
+msgstr "البحث القطاعات"
+
+#: includes/ct-real-estate-custom-taxonomies.php:807
+msgid "Popular Sectors"
+msgstr "القطاعات الشعبية"
+
+#: includes/ct-real-estate-custom-taxonomies.php:808
+msgid "All Sectors"
+msgstr "جميع القطاعات"
+
+#: includes/ct-real-estate-custom-taxonomies.php:811
+msgid "Edit Sector"
+msgstr "تحرير القطاع"
+
+#: includes/ct-real-estate-custom-taxonomies.php:812
+msgid "Update Sector"
+msgstr "تحديث القطاع"
+
+#: includes/ct-real-estate-custom-taxonomies.php:813
+msgid "Add New Sector"
+msgstr "إضافة قطاع جديد"
+
+#: includes/ct-real-estate-custom-taxonomies.php:814
+msgid "New Sector"
+msgstr "قطاع جديد"
+
+#: includes/ct-real-estate-custom-taxonomies.php:815
+msgid "Separate Sectors with commas"
+msgstr "قطاعات منفصلة بفواصل"
+
+#: includes/ct-real-estate-custom-taxonomies.php:816
+msgid "Add or remove Sectors"
+msgstr "إضافة أو إزالة القطاعات"
+
+#: includes/ct-real-estate-custom-taxonomies.php:817
+msgid "Choose from the most used Sectors"
+msgstr "الاختيار من بين الأكثر استخداما القطاعات"
+
+#: includes/ct-real-estate-custom-taxonomies.php:832
+msgid "Search Communities"
+msgstr "البحث المجتمعات"
+
+#: includes/ct-real-estate-custom-taxonomies.php:833
+msgid "Popular Communities"
+msgstr "شعبية المجتمعات"
+
+#: includes/ct-real-estate-custom-taxonomies.php:834
+msgid "All Communities"
+msgstr "كل المجتمعات"
+
+#: includes/ct-real-estate-custom-taxonomies.php:837
+msgid "Edit Community"
+msgstr "تحرير المجتمع"
+
+#: includes/ct-real-estate-custom-taxonomies.php:838
+msgid "Update Community"
+msgstr "تحديث المجتمع"
+
+#: includes/ct-real-estate-custom-taxonomies.php:839
+msgid "Add New Community"
+msgstr "إضافة جديدة للمجتمع"
+
+#: includes/ct-real-estate-custom-taxonomies.php:840
+msgid "New Community"
+msgstr "المجتمع الجديد"
+
+#: includes/ct-real-estate-custom-taxonomies.php:841
+msgid "Separate Communities with commas"
+msgstr "مجتمعات منفصلة بفواصل"
+
+#: includes/ct-real-estate-custom-taxonomies.php:842
+msgid "Add or remove Communities"
+msgstr "إضافة أو إزالة المجتمعات"
+
+#: includes/ct-real-estate-custom-taxonomies.php:843
+msgid "Choose from the most used Communities"
+msgstr "الاختيار من بين الأكثر استخداما المجتمعات"
+
+#: includes/ct-real-estate-custom-taxonomies.php:866
+msgid "Additional Feature"
+msgstr "ميزة إضافية"
+
+#: includes/ct-real-estate-custom-taxonomies.php:867
+msgid "Search Additional Features"
+msgstr "البحث ميزات إضافية"
+
+#: includes/ct-real-estate-custom-taxonomies.php:868
+msgid "Popular Additional Features"
+msgstr "شعبية ميزات إضافية"
+
+#: includes/ct-real-estate-custom-taxonomies.php:869
+msgid "All Additional Features"
+msgstr "جميع ميزات إضافية"
+
+#: includes/ct-real-estate-custom-taxonomies.php:872
+msgid "Edit Additional Features"
+msgstr "تحرير ميزات إضافية"
+
+#: includes/ct-real-estate-custom-taxonomies.php:873
+msgid "Update Additional Feature"
+msgstr "تحديث ميزة إضافية"
+
+#: includes/ct-real-estate-custom-taxonomies.php:874
+msgid "Add New Additional Feature"
+msgstr "إضافة ميزة إضافية"
+
+#: includes/ct-real-estate-custom-taxonomies.php:875
+msgid "New Additional Feature"
+msgstr "الجديدة ميزة إضافية"
+
+#: includes/ct-real-estate-custom-taxonomies.php:876
+msgid "Separate Additional Features with commas"
+msgstr "منفصلة ميزات إضافية مع الفواصل"
+
+#: includes/ct-real-estate-custom-taxonomies.php:877
+msgid "Add or remove Additional Features"
+msgstr "إضافة أو إزالة ميزات إضافية"
+
+#: includes/ct-real-estate-custom-taxonomies.php:878
+msgid "Choose from the most used Additional Features"
+msgstr "الاختيار من بين الأكثر استخداما ميزات إضافية"
+
+#: includes/ct-real-estate-custom-taxonomies.php:902
+msgid "Property Features"
+msgstr "مواصفات العقار"
+
+#: includes/ct-real-estate-custom-widgets.php:36
+msgid "CT Adspace Widget"
+msgstr "CT Adspace القطعة"
+
+#: includes/ct-real-estate-custom-widgets.php:84
+#: includes/ct-real-estate-custom-widgets.php:1336
+#: includes/ct-real-estate-custom-widgets.php:1705
+msgid "Title (optional):"
+msgstr "العنوان (اختياري):"
+
+#: includes/ct-real-estate-custom-widgets.php:88
+msgid "Ad Code:"
+msgstr "رمز الإعلان:"
+
+#: includes/ct-real-estate-custom-widgets.php:93
+msgid "Image Url:"
+msgstr "رابط الصورة:"
+
+#: includes/ct-real-estate-custom-widgets.php:97
+msgid "Link URL:"
+msgstr "URL رابط:"
+
+#: includes/ct-real-estate-custom-widgets.php:101
+msgid "Alt text:"
+msgstr "النص البديل:"
+
+#: includes/ct-real-estate-custom-widgets.php:121
+msgid "CT Agent Info"
+msgstr "CT معلومات الوكيل"
+
+#: includes/ct-real-estate-custom-widgets.php:177
+msgid "Mobile"
+msgstr "المحمول"
+
+#: includes/ct-real-estate-custom-widgets.php:180
+msgid "Office"
+msgstr "مكتب"
+
+#: includes/ct-real-estate-custom-widgets.php:214
+#: includes/ct-real-estate-custom-widgets.php:507
+#: includes/ct-real-estate-custom-widgets.php:595
+#: includes/ct-real-estate-custom-widgets.php:715
+#: includes/ct-real-estate-custom-widgets.php:881
+#: includes/ct-real-estate-custom-widgets.php:1014
+#: includes/ct-real-estate-custom-widgets.php:1159
+#: includes/ct-real-estate-custom-widgets.php:1263
+#: includes/ct-real-estate-custom-widgets.php:1650
+#: includes/ct-real-estate-custom-widgets.php:1752
+#: includes/ct-real-estate-custom-widgets.php:2044
+#: includes/ct-real-estate-custom-widgets.php:2435
+msgid "Title:"
+msgstr "العنوان:"
+
+#: includes/ct-real-estate-custom-widgets.php:233
+msgid "CT Agents Other Listings"
+msgstr "CT وكلاء القوائم الأخرى"
+
+#: includes/ct-real-estate-custom-widgets.php:511
+#: includes/ct-real-estate-custom-widgets.php:1018
+#: includes/ct-real-estate-custom-widgets.php:1163
+#: includes/ct-real-estate-custom-widgets.php:2048
+msgid "Number:"
+msgstr "عدد:"
+
+#: includes/ct-real-estate-custom-widgets.php:519
+#: includes/ct-real-estate-custom-widgets.php:1171
+msgid "Taxonomy:"
+msgstr "التصنيف:"
+
+#: includes/ct-real-estate-custom-widgets.php:528
+#: includes/ct-real-estate-custom-widgets.php:1180
+msgid "Tag:"
+msgstr "العلامة:"
+
+#: includes/ct-real-estate-custom-widgets.php:548
+msgid "CT Blog Author Info"
+msgstr "CT بلوق معلومات الكاتب"
+
+#: includes/ct-real-estate-custom-widgets.php:599
+msgid "Bio:"
+msgstr "Bio:"
+
+#: includes/ct-real-estate-custom-widgets.php:603
+msgid "<a href=\"http://www.gravatar.com/\">Gravatar</a> E-mail:"
+msgstr ""
+
+#: includes/ct-real-estate-custom-widgets.php:607
+msgid "Gravatar Size:"
+msgstr "غرفتر الحجم:"
+
+#: includes/ct-real-estate-custom-widgets.php:611
+msgid "Gravatar Alignment:"
+msgstr "غرفتر المحاذاة:"
+
+#: includes/ct-real-estate-custom-widgets.php:613
+msgid "Left"
+msgstr "اليسار"
+
+#: includes/ct-real-estate-custom-widgets.php:614
+msgid "Right"
+msgstr "صحيح"
+
+#: includes/ct-real-estate-custom-widgets.php:618
+msgid "Read More Text (optional):"
+msgstr "قراءة أكثر من نص (اختياري):"
+
+#: includes/ct-real-estate-custom-widgets.php:622
+msgid "Read More URL (optional):"
+msgstr "قراءة المزيد URL (اختياري):"
+
+#: includes/ct-real-estate-custom-widgets.php:626
+msgid "Visible Pages:"
+msgstr "مرئية الصفحات:"
+
+#: includes/ct-real-estate-custom-widgets.php:628
+msgid "All"
+msgstr "كل"
+
+#: includes/ct-real-estate-custom-widgets.php:629
+msgid "Home only"
+msgstr "المنزل فقط"
+
+#: includes/ct-real-estate-custom-widgets.php:630
+msgid "Single only"
+msgstr "واحد فقط"
+
+#: includes/ct-real-estate-custom-widgets.php:650
+msgid "CT Brokers Info"
+msgstr "CT وسطاء المعلومات"
+
+#: includes/ct-real-estate-custom-widgets.php:691
+msgid "Email Office"
+msgstr "البريد"
+
+#: includes/ct-real-estate-custom-widgets.php:692
+msgid "Visit Brokers Website"
+msgstr "زيارة موقع السماسرة"
+
+#: includes/ct-real-estate-custom-widgets.php:719
+msgid "Logo URL:"
+msgstr "شعار URL:"
+
+#: includes/ct-real-estate-custom-widgets.php:723
+msgid "Company:"
+msgstr "الشركة:"
+
+#: includes/ct-real-estate-custom-widgets.php:727
+msgid "Office Phone:"
+msgstr "هاتف المكتب:"
+
+#: includes/ct-real-estate-custom-widgets.php:731
+msgid "Office Email:"
+msgstr "مكتب البريد الالكتروني:"
+
+#: includes/ct-real-estate-custom-widgets.php:735
+msgid "Website:"
+msgstr "الموقع:"
+
+#: includes/ct-real-estate-custom-widgets.php:754
+msgid "CT Contact Info"
+msgstr "CT معلومات الاتصال"
+
+#: includes/ct-real-estate-custom-widgets.php:874
+msgid "Show Logo:"
+msgstr "عرض شعار:"
+
+#: includes/ct-real-estate-custom-widgets.php:885
+msgid "Blurb:"
+msgstr "دعاية مغالى فيها:"
+
+#: includes/ct-real-estate-custom-widgets.php:889
+msgid "Company Name:"
+msgstr "اسم الشركة:"
+
+#: includes/ct-real-estate-custom-widgets.php:893
+msgid "Street Address:"
+msgstr "عنوان الشارع:"
+
+#: includes/ct-real-estate-custom-widgets.php:897
+msgid "City:"
+msgstr "المدينة:"
+
+#: includes/ct-real-estate-custom-widgets.php:901
+msgid "State:"
+msgstr "الدولة:"
+
+#: includes/ct-real-estate-custom-widgets.php:905
+msgid "Postal:"
+msgstr "البريدية:"
+
+#: includes/ct-real-estate-custom-widgets.php:909
+msgid "Country:"
+msgstr "البلد:"
+
+#: includes/ct-real-estate-custom-widgets.php:913
+msgid "Phone:"
+msgstr "الهاتف:"
+
+#: includes/ct-real-estate-custom-widgets.php:917
+#: includes/ct-real-estate-custom-widgets.php:2443
+msgid "Email:"
+msgstr "البريد الإلكتروني:"
+
+#: includes/ct-real-estate-custom-widgets.php:921
+#: includes/ct-real-estate-custom-widgets.php:2447
+msgid "Facebook:"
+msgstr "Facebook:"
+
+#: includes/ct-real-estate-custom-widgets.php:925
+#: includes/ct-real-estate-custom-widgets.php:2483
+msgid "Twitter:"
+msgstr "تويتر:"
+
+#: includes/ct-real-estate-custom-widgets.php:929
+#: includes/ct-real-estate-custom-widgets.php:2467
+msgid "LinkedIn:"
+msgstr "LinkedIn:"
+
+#: includes/ct-real-estate-custom-widgets.php:933
+#: includes/ct-real-estate-custom-widgets.php:2475
+msgid "Pinterest:"
+msgstr "بينتيريست:"
+
+#: includes/ct-real-estate-custom-widgets.php:937
+#: includes/ct-real-estate-custom-widgets.php:2463
+msgid "Instagram:"
+msgstr "Instagram:"
+
+#: includes/ct-real-estate-custom-widgets.php:957
+msgid "CT Latest Posts"
+msgstr "CT المشاركات"
+
+#: includes/ct-real-estate-custom-widgets.php:1184
+msgid "View All Link Text"
+msgstr "عرض كل وصلة النص"
+
+#: includes/ct-real-estate-custom-widgets.php:1188
+msgid "View All Link URL"
+msgstr "عرض كل رابط URL"
+
+#: includes/ct-real-estate-custom-widgets.php:1208
+msgid "CT Listing Agent Contact"
+msgstr "CT الوكيل الاتصال"
+
+#: includes/ct-real-estate-custom-widgets.php:1225
+msgid "Tell me more about this property"
+msgstr "قل لي المزيد عن هذا العقار"
+
+#: includes/ct-real-estate-custom-widgets.php:1226
+msgid "Request a showing"
+msgstr "طلب عرض"
+
+#: includes/ct-real-estate-custom-widgets.php:1242
+msgid "Submit"
+msgstr "تقدم"
+
+#: includes/ct-real-estate-custom-widgets.php:1267
+msgid "Subject:"
+msgstr "الموضوع:"
+
+#: includes/ct-real-estate-custom-widgets.php:1287
+msgid "CT Listing Contact ScrollTo"
+msgstr "CT قائمة الاتصال ScrollTo"
+
+#: includes/ct-real-estate-custom-widgets.php:1340
+msgid "Button One Text:"
+msgstr "زر نص واحد:"
+
+#: includes/ct-real-estate-custom-widgets.php:1344
+msgid "Button Two Text:"
+msgstr "زر اثنين من النص:"
+
+#: includes/ct-real-estate-custom-widgets.php:1364
+#: ct-elementor-widgets/widgets/ct-listings-search.php:41
+msgid "CT Listings Search"
+msgstr "CT قوائم البحث"
+
+#: includes/ct-real-estate-custom-widgets.php:1533
+#: includes/ct-real-estate-custom-widgets.php:1534
+#: ct-elementor-widgets/widgets/ct-listings-search.php:332
+#: ct-elementor-widgets/widgets/ct-listings-search.php:333
+msgid "Price From"
+msgstr "السعر من"
+
+#: includes/ct-real-estate-custom-widgets.php:1542
+#: includes/ct-real-estate-custom-widgets.php:1543
+#: ct-elementor-widgets/widgets/ct-listings-search.php:341
+#: ct-elementor-widgets/widgets/ct-listings-search.php:342
+msgid "Price To"
+msgstr "السعر"
+
+#: includes/ct-real-estate-custom-widgets.php:1551
+#: ct-elementor-widgets/widgets/ct-listings-search.php:368
+msgid "From"
+msgstr "من"
+
+#: includes/ct-real-estate-custom-widgets.php:1552
+#: ct-elementor-widgets/widgets/ct-listings-search.php:369
+msgid "Size From"
+msgstr "حجم من"
+
+#: includes/ct-real-estate-custom-widgets.php:1560
+#: ct-elementor-widgets/widgets/ct-listings-search.php:377
+msgid "To"
+msgstr "إلى"
+
+#: includes/ct-real-estate-custom-widgets.php:1561
+#: ct-elementor-widgets/widgets/ct-listings-search.php:378
+msgid "Size To"
+msgstr "حجم"
+
+#: includes/ct-real-estate-custom-widgets.php:1569
+#: includes/ct-real-estate-custom-widgets.php:1570
+#: ct-elementor-widgets/widgets/ct-listings-search.php:404
+#: ct-elementor-widgets/widgets/ct-listings-search.php:405
+msgid "Lot Size From"
+msgstr "حجم الكثير من"
+
+#: includes/ct-real-estate-custom-widgets.php:1578
+#: includes/ct-real-estate-custom-widgets.php:1579
+#: ct-elementor-widgets/widgets/ct-listings-search.php:413
+#: ct-elementor-widgets/widgets/ct-listings-search.php:414
+msgid "Lot Size To"
+msgstr "الكثير الحجم"
+
+#: includes/ct-real-estate-custom-widgets.php:1588
+#: includes/ct-real-estate-custom-widgets.php:1589
+#: ct-elementor-widgets/widgets/ct-listings-search.php:442
+#: ct-elementor-widgets/widgets/ct-listings-search.php:443
+msgid "MLS ID"
+msgstr "MLS ID"
+
+#: includes/ct-real-estate-custom-widgets.php:1601
+#: includes/ct-real-estate-custom-widgets.php:1602
+#: ct-elementor-widgets/widgets/ct-listings-search.php:455
+#: ct-elementor-widgets/widgets/ct-listings-search.php:456
+msgid "Number of Guests"
+msgstr "عدد من الضيوف"
+
+#: includes/ct-real-estate-custom-widgets.php:1622
+#: ct-elementor-widgets/widgets/ct-listings-search.php:514
+msgid "Search"
+msgstr "البحث"
+
+#: includes/ct-real-estate-custom-widgets.php:1626
+msgid "More Search Options"
+msgstr "المزيد من خيارات البحث"
+
+#: includes/ct-real-estate-custom-widgets.php:1670
+msgid "CT Listings Social"
+msgstr "CT القوائم الاجتماعية"
+
+#: includes/ct-real-estate-custom-widgets.php:1686
+#: includes/ct-real-estate-custom-widgets.php:1687
+#: includes/ct-real-estate-custom-widgets.php:1688
+msgid "Check out this great listing on"
+msgstr "تحقق هذه كبيرة قائمة على"
+
+#: includes/ct-real-estate-custom-widgets.php:1725
+msgid "CT Search"
+msgstr "CT البحث"
+
+#: includes/ct-real-estate-custom-widgets.php:1772
+msgid "CT Tabs"
+msgstr "CT علامات التبويب"
+
+#: includes/ct-real-estate-custom-widgets.php:1862
+msgid "Number of posts:"
+msgstr "عدد المشاركات:"
+
+#: includes/ct-real-estate-custom-widgets.php:1867
+msgid "First Visible Tab:"
+msgstr "الظاهرة الأولى التبويب:"
+
+#: includes/ct-real-estate-custom-widgets.php:1869
+#: includes/ct-real-estate-custom-widgets.php:1876
+msgid "Latest"
+msgstr "أحدث"
+
+#: includes/ct-real-estate-custom-widgets.php:1870
+#: includes/ct-real-estate-custom-widgets.php:1879
+msgid "Comments"
+msgstr "تعليقات"
+
+#: includes/ct-real-estate-custom-widgets.php:1974
+msgid "on"
+msgstr "على"
+
+#: includes/ct-real-estate-custom-widgets.php:1995
+msgid "CT Testimonials"
+msgstr "CT الشهادات"
+
+#: includes/ct-real-estate-custom-widgets.php:2072
+msgid "CT Listing Book Showing"
+msgstr "CT قائمة عرض الكتاب"
+
+#: includes/ct-real-estate-custom-widgets.php:2213
+msgid ""
+"Thanks for booking a showing, we'll get back to confirm with you shortly."
+msgstr "شكرا على الحجز عرض سنعود إلى تأكيد معكم قريبا."
+
+#: includes/ct-real-estate-custom-widgets.php:2220
+msgid "Request a Showing"
+msgstr "طلب عرض"
+
+#: includes/ct-real-estate-custom-widgets.php:2230
+msgid "Select Your Time and Day"
+msgstr "حدد الوقت واليوم"
+
+#: includes/ct-real-estate-custom-widgets.php:2257
+#: ct-elementor-widgets/widgets/ct-listings-search.php:353
+#: ct-elementor-widgets/widgets/ct-listings-search.php:389
+#: ct-elementor-widgets/widgets/ct-listings-search.php:426
+msgid "to"
+msgstr "إلى"
+
+#: includes/ct-real-estate-custom-widgets.php:2293
+msgid "Showing Request for "
+msgstr "عرض طلب "
+
+#: includes/ct-real-estate-custom-widgets.php:2299
+#: includes/ct-real-estate-custom-widgets.php:2301
+msgid "Schedule Tour"
+msgstr "جدول سياحي"
+
+#: includes/ct-real-estate-custom-widgets.php:2318
+msgid "No options required for this widget."
+msgstr "لا الخيارات المطلوبة لهذه القطعة."
+
+#: includes/ct-real-estate-custom-widgets.php:2338
+msgid "CT Social"
+msgstr "CT الاجتماعية"
+
+#: includes/ct-real-estate-custom-widgets.php:2439
+msgid "Dribbble:"
+msgstr "Dribbble:"
+
+#: includes/ct-real-estate-custom-widgets.php:2451
+msgid "Flickr:"
+msgstr "فليكر:"
+
+#: includes/ct-real-estate-custom-widgets.php:2455
+msgid "Foursquare:"
+msgstr "شخصيات قصص الابطال الخارقين:"
+
+#: includes/ct-real-estate-custom-widgets.php:2459
+msgid "GitHub:"
+msgstr "جيثب:"
+
+#: includes/ct-real-estate-custom-widgets.php:2471
+msgid "Medium:"
+msgstr "المتوسطة:"
+
+#: includes/ct-real-estate-custom-widgets.php:2479
+msgid "Skype:"
+msgstr "سكايب:"
+
+#: includes/ct-real-estate-custom-widgets.php:2487
+msgid "YouTube:"
+msgstr "يوتيوب:"
+
+#: ct-elementor-widgets/widgets/ct-agent.php:88
+msgid "Details"
+msgstr "التفاصيل"
+
+#: ct-elementor-widgets/widgets/ct-agent.php:95
+#: ct-elementor-widgets/widgets/ct-modern-item-grid.php:131
+#: ct-elementor-widgets/widgets/ct-modern-item-grid.php:187
+#: ct-elementor-widgets/widgets/ct-modern-item-grid.php:243
+#: ct-elementor-widgets/widgets/ct-modern-item-grid.php:299
+#: ct-elementor-widgets/widgets/ct-modern-item-grid.php:355
+#: ct-elementor-widgets/widgets/ct-modern-item-grid.php:411
+#: ct-elementor-widgets/widgets/ct-six-item-grid.php:131
+#: ct-elementor-widgets/widgets/ct-six-item-grid.php:187
+#: ct-elementor-widgets/widgets/ct-six-item-grid.php:243
+#: ct-elementor-widgets/widgets/ct-six-item-grid.php:299
+#: ct-elementor-widgets/widgets/ct-six-item-grid.php:355
+#: ct-elementor-widgets/widgets/ct-six-item-grid.php:413
+#: ct-elementor-widgets/widgets/ct-three-item-grid.php:131
+#: ct-elementor-widgets/widgets/ct-three-item-grid.php:187
+#: ct-elementor-widgets/widgets/ct-three-item-grid.php:243
+msgid "Choose Image"
+msgstr "اختيار صورة"
+
+#: ct-elementor-widgets/widgets/ct-agent.php:108
+msgid "Bill Harwick"
+msgstr "بيل Harwick"
+
+#: ct-elementor-widgets/widgets/ct-agent.php:109
+#: ct-elementor-widgets/widgets/ct-agent.php:119
+msgid "Add the agents name here"
+msgstr "إضافة وكلاء اسم هنا"
+
+#: ct-elementor-widgets/widgets/ct-agent.php:128
+#: ct-elementor-widgets/widgets/ct-modern-item-grid.php:107
+#: ct-elementor-widgets/widgets/ct-modern-item-grid.php:163
+#: ct-elementor-widgets/widgets/ct-modern-item-grid.php:219
+#: ct-elementor-widgets/widgets/ct-modern-item-grid.php:275
+#: ct-elementor-widgets/widgets/ct-modern-item-grid.php:331
+#: ct-elementor-widgets/widgets/ct-modern-item-grid.php:387
+#: ct-elementor-widgets/widgets/ct-six-item-grid.php:107
+#: ct-elementor-widgets/widgets/ct-six-item-grid.php:163
+#: ct-elementor-widgets/widgets/ct-six-item-grid.php:219
+#: ct-elementor-widgets/widgets/ct-six-item-grid.php:275
+#: ct-elementor-widgets/widgets/ct-six-item-grid.php:331
+#: ct-elementor-widgets/widgets/ct-six-item-grid.php:389
+#: ct-elementor-widgets/widgets/ct-three-item-grid.php:107
+#: ct-elementor-widgets/widgets/ct-three-item-grid.php:163
+#: ct-elementor-widgets/widgets/ct-three-item-grid.php:219
+msgid "https://your-link.com"
+msgstr "https://your-link.com"
+
+#: ct-elementor-widgets/widgets/ct-agent.php:144
+#: ct-elementor-widgets/widgets/ct-modern-item-grid.php:123
+#: ct-elementor-widgets/widgets/ct-modern-item-grid.php:179
+#: ct-elementor-widgets/widgets/ct-modern-item-grid.php:235
+#: ct-elementor-widgets/widgets/ct-modern-item-grid.php:291
+#: ct-elementor-widgets/widgets/ct-modern-item-grid.php:347
+#: ct-elementor-widgets/widgets/ct-modern-item-grid.php:403
+#: ct-elementor-widgets/widgets/ct-six-item-grid.php:123
+#: ct-elementor-widgets/widgets/ct-six-item-grid.php:179
+#: ct-elementor-widgets/widgets/ct-six-item-grid.php:235
+#: ct-elementor-widgets/widgets/ct-six-item-grid.php:291
+#: ct-elementor-widgets/widgets/ct-six-item-grid.php:347
+#: ct-elementor-widgets/widgets/ct-six-item-grid.php:405
+#: ct-elementor-widgets/widgets/ct-three-item-grid.php:123
+#: ct-elementor-widgets/widgets/ct-three-item-grid.php:179
+#: ct-elementor-widgets/widgets/ct-three-item-grid.php:235
+msgid "Default description"
+msgstr "الوصف الافتراضي"
+
+#: ct-elementor-widgets/widgets/ct-agent.php:145
+#: ct-elementor-widgets/widgets/ct-modern-item-grid.php:124
+#: ct-elementor-widgets/widgets/ct-modern-item-grid.php:180
+#: ct-elementor-widgets/widgets/ct-modern-item-grid.php:236
+#: ct-elementor-widgets/widgets/ct-modern-item-grid.php:292
+#: ct-elementor-widgets/widgets/ct-modern-item-grid.php:348
+#: ct-elementor-widgets/widgets/ct-modern-item-grid.php:404
+#: ct-elementor-widgets/widgets/ct-six-item-grid.php:124
+#: ct-elementor-widgets/widgets/ct-six-item-grid.php:180
+#: ct-elementor-widgets/widgets/ct-six-item-grid.php:236
+#: ct-elementor-widgets/widgets/ct-six-item-grid.php:292
+#: ct-elementor-widgets/widgets/ct-six-item-grid.php:348
+#: ct-elementor-widgets/widgets/ct-six-item-grid.php:406
+#: ct-elementor-widgets/widgets/ct-three-item-grid.php:124
+#: ct-elementor-widgets/widgets/ct-three-item-grid.php:180
+#: ct-elementor-widgets/widgets/ct-three-item-grid.php:236
+msgid "Type your description here"
+msgstr "اكتب الوصف هنا"
+
+#: ct-elementor-widgets/widgets/ct-listings-grid.php:41
+msgid "CT Listings Grid"
+msgstr "CT قوائم الشبكة"
+
+#: ct-elementor-widgets/widgets/ct-listings-grid.php:88
+#: ct-elementor-widgets/widgets/ct-listings-list.php:88
+#: ct-elementor-widgets/widgets/ct-listings-map.php:88
+#: ct-elementor-widgets/widgets/ct-listings-minimal-grid.php:88
+msgid "Query"
+msgstr "الاستعلام"
+
+#: ct-elementor-widgets/widgets/ct-listings-grid.php:112
+#: ct-elementor-widgets/widgets/ct-listings-list.php:112
+#: ct-elementor-widgets/widgets/ct-listings-map.php:112
+#: ct-elementor-widgets/widgets/ct-listings-minimal-grid.php:117
+msgid "6"
+msgstr "6"
+
+#: ct-elementor-widgets/widgets/ct-listings-grid.php:123
+#: ct-elementor-widgets/widgets/ct-listings-list.php:123
+#: ct-elementor-widgets/widgets/ct-listings-map.php:123
+#: ct-elementor-widgets/widgets/ct-listings-minimal-grid.php:131
+msgid "Ascending"
+msgstr "تصاعدي"
+
+#: ct-elementor-widgets/widgets/ct-listings-grid.php:124
+#: ct-elementor-widgets/widgets/ct-listings-list.php:124
+#: ct-elementor-widgets/widgets/ct-listings-map.php:124
+#: ct-elementor-widgets/widgets/ct-listings-minimal-grid.php:132
+msgid "Descending"
+msgstr "تنازلي"
+
+#: ct-elementor-widgets/widgets/ct-listings-grid.php:133
+#: ct-elementor-widgets/widgets/ct-listings-list.php:133
+#: ct-elementor-widgets/widgets/ct-listings-map.php:133
+#: ct-elementor-widgets/widgets/ct-listings-minimal-grid.php:141
+msgid "Order by"
+msgstr "النظام"
+
+#: ct-elementor-widgets/widgets/ct-listings-grid.php:138
+#: ct-elementor-widgets/widgets/ct-listings-list.php:138
+#: ct-elementor-widgets/widgets/ct-listings-map.php:138
+#: ct-elementor-widgets/widgets/ct-listings-minimal-grid.php:146
+msgid "Random"
+msgstr "عشوائية"
+
+#: ct-elementor-widgets/widgets/ct-listings-grid.php:149
+#: ct-elementor-widgets/widgets/ct-listings-list.php:149
+#: ct-elementor-widgets/widgets/ct-listings-map.php:166
+#: ct-elementor-widgets/widgets/ct-listings-minimal-grid.php:157
+msgid "Listing Parameters"
+msgstr "قائمة المعلمات"
+
+#: ct-elementor-widgets/widgets/ct-listings-grid.php:170
+#: ct-elementor-widgets/widgets/ct-listings-list.php:170
+#: ct-elementor-widgets/widgets/ct-listings-map.php:187
+#: ct-elementor-widgets/widgets/ct-listings-minimal-grid.php:178
+msgid "single-family-home"
+msgstr "أسرة واحدة-الصفحة الرئيسية"
+
+#: ct-elementor-widgets/widgets/ct-listings-grid.php:171
+#: ct-elementor-widgets/widgets/ct-listings-list.php:171
+#: ct-elementor-widgets/widgets/ct-listings-map.php:188
+#: ct-elementor-widgets/widgets/ct-listings-minimal-grid.php:179
+msgid "Enter the type, e.g. single-family-home, condo, commercial."
+msgstr "أدخل نوع ، مثل الأسرة الواحدة المنزل, الشقة, التجارية."
+
+#: ct-elementor-widgets/widgets/ct-listings-grid.php:202
+#: ct-elementor-widgets/widgets/ct-listings-list.php:202
+#: ct-elementor-widgets/widgets/ct-listings-map.php:219
+#: ct-elementor-widgets/widgets/ct-listings-minimal-grid.php:115
+#: ct-elementor-widgets/widgets/ct-listings-minimal-grid.php:209
+msgid "3"
+msgstr "3"
+
+#: ct-elementor-widgets/widgets/ct-listings-grid.php:212
+#: ct-elementor-widgets/widgets/ct-listings-list.php:212
+#: ct-elementor-widgets/widgets/ct-listings-map.php:229
+#: ct-elementor-widgets/widgets/ct-listings-minimal-grid.php:114
+#: ct-elementor-widgets/widgets/ct-listings-minimal-grid.php:219
+msgid "2"
+msgstr "2"
+
+#: ct-elementor-widgets/widgets/ct-listings-grid.php:222
+#: ct-elementor-widgets/widgets/ct-listings-list.php:222
+#: ct-elementor-widgets/widgets/ct-listings-map.php:239
+#: ct-elementor-widgets/widgets/ct-listings-minimal-grid.php:229
+msgid "for-sale"
+msgstr "للبيع"
+
+#: ct-elementor-widgets/widgets/ct-listings-grid.php:245
+#: ct-elementor-widgets/widgets/ct-listings-list.php:245
+#: ct-elementor-widgets/widgets/ct-listings-map.php:262
+#: ct-elementor-widgets/widgets/ct-listings-minimal-grid.php:252
+msgid "san-diego"
+msgstr "سان دييغو"
+
+#: ct-elementor-widgets/widgets/ct-listings-grid.php:255
+#: ct-elementor-widgets/widgets/ct-listings-list.php:255
+#: ct-elementor-widgets/widgets/ct-listings-map.php:272
+#: ct-elementor-widgets/widgets/ct-listings-minimal-grid.php:262
+msgid "ca"
+msgstr "ca"
+
+#: ct-elementor-widgets/widgets/ct-listings-grid.php:265
+#: ct-elementor-widgets/widgets/ct-listings-list.php:265
+#: ct-elementor-widgets/widgets/ct-listings-map.php:282
+#: ct-elementor-widgets/widgets/ct-listings-minimal-grid.php:272
+msgid "92101"
+msgstr "92101"
+
+#: ct-elementor-widgets/widgets/ct-listings-grid.php:852
+#: ct-elementor-widgets/widgets/ct-listings-list.php:860
+msgid "Acres"
+msgstr "فدان"
+
+#: ct-elementor-widgets/widgets/ct-listings-grid.php:856
+#: ct-elementor-widgets/widgets/ct-listings-list.php:864
+msgid "m²"
+msgstr "m2"
+
+#: ct-elementor-widgets/widgets/ct-listings-list.php:41
+msgid "CT Listings List"
+msgstr "CT القوائم قائمة"
+
+#: ct-elementor-widgets/widgets/ct-listings-list.php:875
+msgid "Type:"
+msgstr "نوع:"
+
+#: ct-elementor-widgets/widgets/ct-listings-map.php:615
+#: ct-elementor-widgets/widgets/ct-listings-map.php:649
+msgid "Go into Admin > Real Estate 7 Options > Google Maps"
+msgstr ""
+
+#: ct-elementor-widgets/widgets/ct-listings-minimal-grid.php:113
+msgid "1"
+msgstr "1"
+
+#: ct-elementor-widgets/widgets/ct-listings-minimal-grid.php:116
+msgid "4"
+msgstr "4"
+
+#: ct-elementor-widgets/widgets/ct-listings-minimal-grid.php:118
+msgid "7"
+msgstr "7"
+
+#: ct-elementor-widgets/widgets/ct-listings-minimal-grid.php:119
+msgid "8"
+msgstr "8"
+
+#: ct-elementor-widgets/widgets/ct-listings-search.php:97
+msgid ""
+"The search fields can be controlled in:</strong><br />Real Estate 7 Options >"
+" Advanced Search > Elementor Search Module"
+msgstr ""
+
+#: ct-elementor-widgets/widgets/ct-modern-item-grid.php:88
+#: ct-elementor-widgets/widgets/ct-six-item-grid.php:88
+#: ct-elementor-widgets/widgets/ct-three-item-grid.php:88
+msgid "Item 1"
+msgstr "البند 1"
+
+#: ct-elementor-widgets/widgets/ct-modern-item-grid.php:97
+#: ct-elementor-widgets/widgets/ct-modern-item-grid.php:153
+#: ct-elementor-widgets/widgets/ct-modern-item-grid.php:209
+#: ct-elementor-widgets/widgets/ct-modern-item-grid.php:265
+#: ct-elementor-widgets/widgets/ct-modern-item-grid.php:321
+#: ct-elementor-widgets/widgets/ct-modern-item-grid.php:377
+#: ct-elementor-widgets/widgets/ct-six-item-grid.php:97
+#: ct-elementor-widgets/widgets/ct-six-item-grid.php:153
+#: ct-elementor-widgets/widgets/ct-six-item-grid.php:209
+#: ct-elementor-widgets/widgets/ct-six-item-grid.php:265
+#: ct-elementor-widgets/widgets/ct-six-item-grid.php:321
+#: ct-elementor-widgets/widgets/ct-six-item-grid.php:379
+#: ct-elementor-widgets/widgets/ct-three-item-grid.php:97
+#: ct-elementor-widgets/widgets/ct-three-item-grid.php:153
+#: ct-elementor-widgets/widgets/ct-three-item-grid.php:209
+msgid "Default title"
+msgstr "العنوان الافتراضي"
+
+#: ct-elementor-widgets/widgets/ct-modern-item-grid.php:98
+#: ct-elementor-widgets/widgets/ct-modern-item-grid.php:154
+#: ct-elementor-widgets/widgets/ct-modern-item-grid.php:210
+#: ct-elementor-widgets/widgets/ct-modern-item-grid.php:266
+#: ct-elementor-widgets/widgets/ct-modern-item-grid.php:322
+#: ct-elementor-widgets/widgets/ct-modern-item-grid.php:378
+#: ct-elementor-widgets/widgets/ct-six-item-grid.php:98
+#: ct-elementor-widgets/widgets/ct-six-item-grid.php:154
+#: ct-elementor-widgets/widgets/ct-six-item-grid.php:210
+#: ct-elementor-widgets/widgets/ct-six-item-grid.php:266
+#: ct-elementor-widgets/widgets/ct-six-item-grid.php:322
+#: ct-elementor-widgets/widgets/ct-six-item-grid.php:380
+#: ct-elementor-widgets/widgets/ct-three-item-grid.php:98
+#: ct-elementor-widgets/widgets/ct-three-item-grid.php:154
+#: ct-elementor-widgets/widgets/ct-three-item-grid.php:210
+msgid "Type your title here"
+msgstr "اكتب العنوان الخاص بك هنا"
+
+#: ct-elementor-widgets/widgets/ct-modern-item-grid.php:144
+#: ct-elementor-widgets/widgets/ct-six-item-grid.php:144
+#: ct-elementor-widgets/widgets/ct-three-item-grid.php:144
+msgid "Item 2"
+msgstr "البند 2"
+
+#: ct-elementor-widgets/widgets/ct-modern-item-grid.php:200
+#: ct-elementor-widgets/widgets/ct-six-item-grid.php:200
+#: ct-elementor-widgets/widgets/ct-three-item-grid.php:200
+msgid "Item 3"
+msgstr "البند 3"
+
+#: ct-elementor-widgets/widgets/ct-modern-item-grid.php:256
+#: ct-elementor-widgets/widgets/ct-six-item-grid.php:256
+msgid "Item 4"
+msgstr "البند 4"
+
+#: ct-elementor-widgets/widgets/ct-modern-item-grid.php:312
+#: ct-elementor-widgets/widgets/ct-six-item-grid.php:312
+msgid "Item 5"
+msgstr "البند 5"
+
+#: ct-elementor-widgets/widgets/ct-modern-item-grid.php:368
+#: ct-elementor-widgets/widgets/ct-six-item-grid.php:370
+msgid "Item 6"
+msgstr "البند 6"
+
+#: includes/metabox/metaboxes.php:21
+msgid "Post Options"
+msgstr "آخر الخيارات"
+
+#: includes/metabox/metaboxes.php:28
+msgid "Header"
+msgstr "رأس"
+
+#: includes/metabox/metaboxes.php:29
+msgid "Display Post Header?"
+msgstr "عرض رأس آخر?"
+
+#: includes/metabox/metaboxes.php:39
+msgid "Display Post Title?"
+msgstr "عرض آخر العنوان ؟ "
+
+#: includes/metabox/metaboxes.php:48 includes/metabox/metaboxes.php:185
+msgid "Sub Title"
+msgstr "العنوان الفرعي"
+
+#: includes/metabox/metaboxes.php:49 includes/metabox/metaboxes.php:83
+#: includes/metabox/metaboxes.php:186
+msgid "Enter the sub title here, if you'd like to use one."
+msgstr "أدخل العنوان الفرعي هنا إذا كنت'د ترغب في استخدام واحد."
+
+#: includes/metabox/metaboxes.php:54
+msgid "Post Header Background Image"
+msgstr "آخر صورة خلفية رأس"
+
+#: includes/metabox/metaboxes.php:55
+msgid "Use Featured Image as Header Background?"
+msgstr "استخدام صورة مميزة كما رأس الخلفية ؟ "
+
+#: includes/metabox/metaboxes.php:64
+msgid "Post Header Background Color"
+msgstr "بعد رأس لون الخلفية"
+
+#: includes/metabox/metaboxes.php:65
+msgid ""
+"If you don't have a featured post image, you can specify a custom bg color "
+"for your header here.)"
+msgstr ""
+"إذا كنت don\\ \\ 'ر لها ظهرت وظيفة الصورة ، يمكنك تحديد مخصص bg اللون على "
+"رأس الخاصة بك هنا.)"
+
+#: includes/metabox/metaboxes.php:72
+msgid "Automatic Slider"
+msgstr "التلقائي التمرير"
+
+#: includes/metabox/metaboxes.php:73
+msgid ""
+"Display automatic slider if more than one image is uploaded to a post on "
+"archive &amp; category pages?"
+msgstr ""
+"العرض التلقائي التمرير إذا كان أكثر من صورة واحدة هي التي يتم تحميلها إلى "
+"آخر على الأرشيف "
+
+#: includes/metabox/metaboxes.php:96
+msgid "Rental Info"
+msgstr "تأجير معلومات"
+
+#: includes/metabox/metaboxes.php:103
+msgid "Booking Calendar Shortcode"
+msgstr "حجز التقويم رمز قصير"
+
+#: includes/metabox/metaboxes.php:104
+msgid "Paste your booking calendar shortcode here, e.g. [booking nummonths=1]."
+msgstr "لصق الحجز التقويم رمز قصير هنا ، على سبيل المثال [حجز nummonths=1]."
+
+#: includes/metabox/metaboxes.php:109
+msgid "Listing Title"
+msgstr "سرد العنوان"
+
+#: includes/metabox/metaboxes.php:110
+msgid "Enter the listing title here, e.g. Villa in Bali."
+msgstr "أدخل قائمة العنوان هنا ، على سبيل المثال فيلا في بالي."
+
+#: includes/metabox/metaboxes.php:116
+msgid "Enter the max-number of guests here, e.g. 2."
+msgstr "أدخل الحد الأقصى لعدد الضيوف هنا ، على سبيل المثال 2."
+
+#: includes/metabox/metaboxes.php:122
+msgid "Enter minimum stay, e.g. 1 night."
+msgstr "أدخل الحد الأدنى للإقامة ، على سبيل المثال 1 الليل."
+
+#: includes/metabox/metaboxes.php:127
+msgid "Check In Time"
+msgstr "تحقق في الوقت المناسب"
+
+#: includes/metabox/metaboxes.php:128
+msgid "Enter check in time."
+msgstr "أدخل الاختيار في الوقت المناسب."
+
+#: includes/metabox/metaboxes.php:133
+msgid "Check Out Time"
+msgstr "تحقق من الوقت"
+
+#: includes/metabox/metaboxes.php:134
+msgid "Enter check out time."
+msgstr "أدخل تحقق من الوقت."
+
+#: includes/metabox/metaboxes.php:139
+msgid "Extra People Charge"
+msgstr "إضافية الناس تهمة"
+
+#: includes/metabox/metaboxes.php:140
+msgid "Enter extra per person charge, without commas or seperators."
+msgstr "أدخل إضافية للشخص المسؤول ، دون فواصل أو seperators."
+
+#: includes/metabox/metaboxes.php:145
+msgid "Cleaning Fee"
+msgstr "رسوم التنظيف"
+
+#: includes/metabox/metaboxes.php:146
+msgid "Enter cleaning fee, without commas or seperators."
+msgstr "أدخل رسوم التنظيف دون فواصل أو seperators."
+
+#: includes/metabox/metaboxes.php:151
+msgid "Cancellation Fee"
+msgstr "رسوم الإلغاء"
+
+#: includes/metabox/metaboxes.php:152
+msgid "Enter cancellation fee, without commas or seperators."
+msgstr "أدخل رسوم الإلغاء دون فواصل أو seperators."
+
+#: includes/metabox/metaboxes.php:157
+msgid "Security Deposit"
+msgstr "الأمن إيداع"
+
+#: includes/metabox/metaboxes.php:158
+msgid "Enter the security deposit, without commas or seperators."
+msgstr "أدخل مبلغ التأمين دون فواصل أو seperators."
+
+#: includes/metabox/metaboxes.php:168
+msgid "Page Options"
+msgstr "خيارات الصفحة"
+
+#: includes/metabox/metaboxes.php:175
+msgid "Display Page Title?"
+msgstr "عرض صفحة العنوان ؟ "
+
+#: includes/metabox/metaboxes.php:176
+msgid "Select whether or not you'd like to display the page title?"
+msgstr "حدد ما إذا كان أو لا كنت'د ترغب في عرض صفحة العنوان ؟ "
+
+#: includes/metabox/metaboxes.php:191
+msgid "Page Header Background Image"
+msgstr "صورة خلفية رأس الصفحة"
+
+#: includes/metabox/metaboxes.php:192
+msgid "Add a background image for your page header."
+msgstr "إضافة صورة خلفية رأس الصفحة الخاصة بك."
+
+#: includes/metabox/metaboxes.php:197
+msgid "Top Page Margin?"
+msgstr "أعلى الصفحة الهامش ؟ "
+
+#: includes/metabox/metaboxes.php:198
+msgid ""
+"Select whether or not you'd like the top page margin to seperate the header "
+"and content area?"
+msgstr "حدد ما إذا كنت\\'د مثل أعلى هامش الصفحة للتفريق رأس المحتوى المنطقة ؟ "
+
+#: includes/metabox/metaboxes.php:207
+msgid "Bottom Page Margin?"
+msgstr "أسفل الصفحة الهامش ؟ "
+
+#: includes/metabox/metaboxes.php:208
+msgid ""
+"Select whether or not you'd like the top page margin to seperate the content "
+"area and footer?"
+msgstr ""
+"حدد ما إذا كنت\\'د مثل أعلى هامش الصفحة للتفريق منطقة المحتوى و تذييل ؟ "
+
+#: includes/metabox/metaboxes.php:225
+msgid "Paid Submission Information"
+msgstr "دفعت تقديم المعلومات"
+
+#: includes/metabox/metaboxes.php:232 includes/metabox/metaboxes.php:233
+msgid "Transaction ID"
+msgstr "رقم المعاملات"
+
+#. Name of the plugin
+msgid "Contempo Real Estate Custom Posts"
+msgstr "Contempo العقارات المخصصة المشاركات"
+
+#. Description of the plugin
+msgid ""
+"This plugin registers listings, brokerages & testimonials custom post types, "
+"along with related custom fields & taxonomies."
+msgstr "هذا البرنامج المساعد سجلات قوائم شركات السمسرة "
+
+#. URI of the plugin
+msgid "http://wordpress.org/contempo-real-estate-custom-posts/"
+msgstr "http://wordpress.org/contempo-real-estate-custom-posts/"
+
+#. Author of the plugin
+msgid "Contempo"
+msgstr "Contempo"
+
+#. Author URI of the plugin
+msgid "http://contempographicdesign.com"
+msgstr "http://contempographicdesign.com"

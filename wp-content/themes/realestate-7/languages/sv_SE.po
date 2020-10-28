@@ -1,0 +1,4494 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-01-04 21:40+0000\n"
+"PO-Revision-Date: 2020-01-04 21:40+0000\n"
+"Last-Translator: \n"
+"Language-Team: Swedish\n"
+"Language: sv_SE\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: comments.php:44
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: includes/featured-listings.php:67 includes/featured-listings.php:76
+#: includes/home-listings-carousel.php:44
+#: includes/home-listings-carousel.php:53 includes/single-listing-home.php:28
+msgid "featured"
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:5151
+msgid "Custom CSS"
+msgstr "Custom CSS"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:5166
+msgid "Custom JS"
+msgstr "Anpassad JS"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:5247
+msgid "Import/Export"
+msgstr "Import/Export"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:5284
+msgid "Changelog"
+msgstr "Changelog"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:5400
+msgid "Section via hook"
+msgstr "Avsnitt via krok"
+
+#. Name of the theme
+msgid "WP Pro Real Estate 7"
+msgstr "WP Pro Fastigheter 7"
+
+#. URI of the theme
+msgid "http://themeforest.net/user/contempoinc?ref=contempoinc"
+msgstr "http://themeforest.net/user/contempoinc?ref=contempoinc"
+
+#. Author of the theme
+msgid "Chris Robinson"
+msgstr "Chris Robinson"
+
+#. Author URI of the theme
+msgid "http://www.contempographicdesign.com"
+msgstr "http://www.contempographicdesign.com"
+
+#: 404.php:15
+msgid "Page Not Found"
+msgstr "Sidan Kunde Inte Hittas"
+
+#: 404.php:16
+msgid "Woah there! Looks like you've gotten lost."
+msgstr "Woah det! Ser ut som du\\'ve fått förlorat."
+
+#: 404.php:17
+msgid "Go back to the homepage"
+msgstr "Gå tillbaka till startsidan"
+
+#: archive-brokerage.php:38
+#: admin/ReduxFramework/theme-options/re7-config.php:2711
+msgid "Brokerages"
+msgstr "Mäklarhus"
+
+#: archive-brokerage.php:52 template-brokerages.php:52
+msgid "Type a brokerage name or address here to filter the list."
+msgstr "Skriv ett courtage namn eller adress här för att filtrera listan."
+
+#: archive-brokerage.php:108 author.php:71 single-brokerage.php:78
+#: single-brokerage.php:284 template-agents.php:241 template-brokerages.php:122
+#: template-favorite-listings.php:111
+msgid "Tell me more about a property"
+msgstr "Berätta för mig mer om en fastighet"
+
+#: archive-brokerage.php:109 author.php:72 single-brokerage.php:79
+#: single-brokerage.php:285 template-agents.php:242 template-brokerages.php:123
+#: template-favorite-listings.php:112 includes/agent-contact-modal.php:22
+#: includes/single-listing-contact.php:217 includes/single-listing-home.php:270
+#: includes/widgets/ct-widget-listingscontact.php:31
+msgid "Request a showing"
+msgstr "Begära en visning"
+
+#: archive-brokerage.php:110 author.php:73 single-brokerage.php:80
+#: single-brokerage.php:286 template-agents.php:243 template-brokerages.php:124
+#: template-favorite-listings.php:113
+msgid "General Questions"
+msgstr "Allmänna Frågor"
+
+#: archive-brokerage.php:113 author.php:76 single-brokerage.php:83
+#: single-brokerage.php:289 template-agents.php:246 template-brokerages.php:127
+#: template-edit-profile.php:129 template-favorite-listings.php:116
+#: includes/agent-contact-modal.php:25 includes/agent-contact-modal.php:25
+#: includes/agent-contact-modal.php:25 includes/single-listing-contact.php:223
+#: includes/single-listing-home.php:273
+#: includes/single-listing-multi-floorplan.php:27
+#: includes/widgets/ct-widget-listingscontact.php:34
+#: includes/widgets/ct-widget-listingscontact.php:34
+#: includes/widgets/ct-widget-listingscontact.php:34
+msgid "Name"
+msgstr "Namn"
+
+#: archive-brokerage.php:115 archive-brokerage.php:177 author.php:78
+#: author.php:124 author.php:283 single-brokerage.php:85
+#: single-brokerage.php:135 single-brokerage.php:291 single-brokerage.php:354
+#: template-agents.php:248 template-brokerages.php:129
+#: template-brokerages.php:189 template-favorite-listings.php:118
+#: admin/theme-functions.php:3732 includes/agent-contact-modal.php:27
+#: includes/agent-contact-modal.php:27 includes/agent-contact-modal.php:27
+#: includes/single-listing-contact.php:89
+#: includes/single-listing-contact.php:171
+#: includes/single-listing-contact.php:227
+#: includes/single-listing-contact.php:297 includes/single-listing-home.php:253
+#: includes/single-listing-home.php:275 includes/single-listing-home.php:336
+#: includes/widgets/ct-widget-agentinfo.php:78
+#: includes/widgets/ct-widget-listingscontact.php:36
+#: includes/widgets/ct-widget-listingscontact.php:36
+#: includes/widgets/ct-widget-listingscontact.php:36
+msgid "Email"
+msgstr "E-post"
+
+#: archive-brokerage.php:117 author.php:80 single-brokerage.php:87
+#: single-brokerage.php:293 template-agents.php:250 template-brokerages.php:131
+#: template-contact.php:72 template-favorite-listings.php:120
+#: includes/agent-contact-modal.php:29 includes/agent-contact-modal.php:29
+#: includes/agent-contact-modal.php:29 includes/single-listing-contact.php:231
+#: includes/single-listing-home.php:277
+#: includes/widgets/ct-widget-listingscontact.php:38
+#: includes/widgets/ct-widget-listingscontact.php:38
+#: includes/widgets/ct-widget-listingscontact.php:38
+msgid "Phone"
+msgstr "Telefon"
+
+#: archive-brokerage.php:125 author.php:88 single-brokerage.php:95
+#: single-brokerage.php:301 template-agents.php:258 template-brokerages.php:137
+#: template-contact.php:83 template-contact.php:83
+#: template-favorite-listings.php:127 template-submit-listing.php:817
+#: includes/agent-contact-modal.php:38 includes/single-listing-contact.php:242
+#: includes/single-listing-home.php:285
+#: includes/widgets/ct-widget-listingscontact.php:47
+msgid "Submit"
+msgstr "Skicka"
+
+#: archive-brokerage.php:208 template-brokerages.php:220
+#: template-view-listings.php:211 includes/featured-listings.php:118
+#: includes/single-listing-multi-floorplan.php:122 layouts/grid.php:76
+msgid "View"
+msgstr "Visa"
+
+#: archive-brokerage.php:218 template-brokerages.php:230
+msgid "No Brokerages Found."
+msgstr "Ingen Mäklarhus Som Finns."
+
+#: archive.php:77
+msgid "No posts were found which match your search criteria"
+msgstr "Inga inlägg hittades som matchar dina sökkriterier"
+
+#: archive.php:77 layouts/grid.php:26 layouts/list.php:27
+msgid "Try broadening your search to find more results."
+msgstr "Prova att vidga din sökning för att hitta fler resultat."
+
+#: author.php:33 admin/profile-fields.php:81 admin/theme-functions.php:1926
+#: admin/theme-functions.php:3758 layouts/list.php:149
+msgid "Agent"
+msgstr "Agent"
+
+#: author.php:145 template-edit-listing.php:826 template-submit-listing.php:707
+#: admin/profile-fields.php:211
+msgid "Address"
+msgstr "Adress"
+
+#: author.php:153
+msgid "Social"
+msgstr "Sociala"
+
+#: author.php:194 author.php:341
+msgid "Type a listing address or keyword to filter the list."
+msgstr "Skriv en lista adress eller sökord för att filtrera listan."
+
+#: comments.php:13
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+"Detta inlägg är lösenordsskyddat. Ange lösenord för att visa kommentarerna."
+
+#: comments.php:31
+msgid "No Responses"
+msgstr "Inga Svar"
+
+#: comments.php:31
+msgid "1 Comment"
+msgstr "1 Kommentar"
+
+#: comments.php:31
+msgid "% Comments"
+msgstr "% Kommentarer"
+
+#: comments.php:45
+msgid "Newer Comments &rarr;"
+msgstr "Nyare Kommentarer "
+
+#: comments.php:53
+msgid "Comments are closed, but"
+msgstr "Kommentarer är stängda, men"
+
+#: comments.php:53
+msgid "Trackback URL for this post"
+msgstr "Trackback URL för detta inlägg"
+
+#: comments.php:53
+msgid "trackbacks"
+msgstr "trackbacks"
+
+#: comments.php:53
+msgid "and pingbacks are open."
+msgstr "och pingbacks som är öppna."
+
+#: comments.php:59
+msgid "Reviews are closed."
+msgstr "Recensioner är stängt."
+
+#: comments.php:61
+msgid "Comments are closed."
+msgstr "Kommentarer är stängda."
+
+#: footer.php:67
+msgid "All Rights Reserved."
+msgstr "Alla Rättigheter Förbehållna."
+
+#: functions.php:55
+msgid "Getting Started"
+msgstr "Komma Igång"
+
+#: header.php:185 header.php:491
+msgid "Hi, "
+msgstr "Hej, "
+
+#: header.php:204 header.php:510 includes/user-sidebar.php:37
+msgid "Dashboard"
+msgstr "Instrumentpanelen"
+
+#: header.php:208 header.php:514 includes/user-sidebar.php:41
+msgid "Favorite Listings"
+msgstr "Favorit Listor"
+
+#: header.php:211 header.php:517
+msgid "Saved Searches"
+msgstr "Sparade Sökningar"
+
+#: header.php:216 header.php:522 header.php:552 includes/user-sidebar.php:49
+msgid "Submit Listing"
+msgstr "Skicka Lista"
+
+#: header.php:219 header.php:525 template-user-dashboard.php:103
+#: includes/user-sidebar.php:52
+msgid "My Listings"
+msgstr "Mina Listor"
+
+#. Name of the template
+#: header.php:222 header.php:528 template-user-dashboard.php:83
+#: includes/user-sidebar.php:55
+msgid "Membership"
+msgstr "Medlemskap"
+
+#. Name of the template
+#: header.php:225 header.php:531 includes/user-sidebar.php:58
+msgid "Invoices"
+msgstr "Fakturor"
+
+#. Name of the template
+#: header.php:228 header.php:534 includes/user-sidebar.php:61
+#: admin/ReduxFramework/theme-options/re7-config.php:3638
+msgid "Listing Analytics"
+msgstr "Notering Analytics"
+
+#: header.php:233 header.php:539 includes/user-sidebar.php:65
+msgid "Account Settings"
+msgstr "Kontoinställningar"
+
+#: header.php:236 header.php:542 includes/user-sidebar.php:68
+msgid "Logout"
+msgstr "Logga ut"
+
+#: header.php:240 header.php:550
+msgid "Login / Register"
+msgstr "Logga In / Registrera"
+
+#: header.php:240 header.php:550 admin/theme-functions.php:3657
+msgid "Login"
+msgstr "Logga in"
+
+#: header.php:781
+msgid "Add \"CT Compare\" Widget via Appearance > Widgets > Compare."
+msgstr "Lägg till \"CT Jämför\" Widget via Utseende > Widgets > Jämför."
+
+#: page.php:59 single.php:127 template-dsidxpress.php:41
+#: template-edit-listing.php:951 template-submit-listing.php:828
+msgid "Pages:"
+msgstr "Sidor:"
+
+#: search-listings.php:148 search-listings.php:245
+msgid "listings found"
+msgstr "listor finns"
+
+#: search-listings.php:148 search-listings.php:245
+msgid "listing found"
+msgstr "notering finns"
+
+#: search-listings.php:152 search-listings.php:249
+msgid "Find A Home"
+msgstr "Att Hitta Ett Hem"
+
+#: search-listings.php:164 search-listings.php:260 search-listings.php:287
+msgid "Searching:"
+msgstr "Söker:"
+
+#: search-listings.php:168 search-listings.php:264 search-listings.php:291
+msgid "All listings"
+msgstr "Alla listor"
+
+#: search-listings.php:170 admin/theme-functions.php:1164
+msgid "Open Search"
+msgstr "Öppna Sök"
+
+#: search-listings.php:267 search-listings.php:293
+#: admin/theme-functions.php:1161
+msgid "Close Map"
+msgstr "Stäng Karta"
+
+#: search-listings.php:327 search-listings.php:331
+msgid "Save This Search?"
+msgstr "Spara Denna Sökning?"
+
+#: search-listings.php:329
+msgid "View Saved"
+msgstr "Visa Sparade"
+
+#: single-brokerage.php:39 admin/profile-fields.php:180
+msgid "Brokerage"
+msgstr "Mäkleri"
+
+#: single-brokerage.php:162 single-listings.php:38
+#: admin/ReduxFramework/theme-options/re7-config.php:2982
+msgid "Listings"
+msgstr "Listor"
+
+#: single-brokerage.php:163
+#: admin/ReduxFramework/theme-options/re7-config.php:2601
+msgid "Agents"
+msgstr "Ombud"
+
+#: single-brokerage.php:164
+msgid "Map"
+msgstr "Karta"
+
+#: single-brokerage.php:166 includes/single-listing-sub-navigation.php:149
+msgid "Reviews"
+msgstr "Recensioner"
+
+#: single-brokerage.php:228
+msgid "Type an agents name or title here to filter the list."
+msgstr "Skriv ett agenter namn eller titel här för att filtrera listan."
+
+#: single-brokerage.php:372
+msgid "View Listings"
+msgstr "Visa Listor"
+
+#: single-brokerage.php:383
+msgid "This brokerage currently has no active agents."
+msgstr "Denna förmedling har för närvarande inga aktiva agenter."
+
+#: single-brokerage.php:383 layouts/grid.php:22 layouts/grid.php:24
+#: layouts/list.php:23 layouts/list.php:25
+msgid "Check back soon."
+msgstr "Kontrollera tillbaka snart."
+
+#: single-brokerage.php:405 includes/single-listing-reviews.php:19
+msgid "No Reviews"
+msgstr "Inga Recensioner"
+
+#: single-brokerage.php:405 includes/single-listing-reviews.php:19
+msgid "1 Review"
+msgstr "1 Recension"
+
+#: single-brokerage.php:405 includes/single-listing-reviews.php:19
+msgid "% Reviews"
+msgstr "% Recensioner"
+
+#: single-listings.php:44 admin/theme-functions.php:6448
+#: admin/theme-functions.php:7389
+msgid "Home"
+msgstr "Hem"
+
+#: single-listings.php:71 single-listings.php:77 single-listings.php:83
+#: single-listings.php:104 single-listings.php:105 single-listings.php:106
+#: includes/single-listing-home.php:367 includes/single-listing-home.php:368
+#: includes/single-listing-home.php:369
+#: includes/widgets/ct-widget-listingssocial.php:29
+#: includes/widgets/ct-widget-listingssocial.php:30
+#: includes/widgets/ct-widget-listingssocial.php:31
+msgid "Check out this great listing on"
+msgstr "Kolla in denna stora notering på"
+
+#: single-listings.php:108 admin/theme-functions.php:1165
+#: includes/agent-contact-modal.php:16
+msgid "Close"
+msgstr "Stäng"
+
+#: single-listings.php:186 template-edit-listing.php:394
+#: template-edit-profile.php:57 template-listing-analytics.php:62
+#: template-listing-email-alerts.php:69 template-membership.php:60
+#: template-submit-listing.php:351 template-user-dashboard.php:59
+#: template-view-invoices.php:60 template-view-listings.php:62
+msgid "You must be logged in to view this page."
+msgstr "Du måste vara inloggad för att se denna sida."
+
+#: single.php:79 includes/post-author-info.php:15 layouts/blog-grid.php:54
+#: layouts/blog-large.php:54
+msgid "By"
+msgstr "Av"
+
+#: single.php:79 layouts/blog-grid.php:54 layouts/blog-large.php:54
+msgid "in"
+msgstr "i"
+
+#: single.php:79 layouts/blog-grid.php:54 layouts/blog-large.php:54
+msgid "with"
+msgstr "med"
+
+#. Name of the template
+#: admin/ReduxFramework/theme-options/re7-config.php:2789
+msgid "Advanced Search"
+msgstr "Avancerat Sök"
+
+#: template-advanced-search.php:62 template-edit-listing.php:419
+#: template-submit-listing.php:414 admin/theme-functions.php:4883
+#: includes/advanced-search.php:35 includes/header-advanced-search.php:60
+#: includes/header-advanced-search.php:330
+#: admin/plugins/class-tgm-plugin-activation.php:2634
+#: includes/widgets/ct-widget-listingssearch.php:46
+msgid "Type"
+msgstr "Typ"
+
+#: template-advanced-search.php:67 template-edit-listing.php:832
+#: template-submit-listing.php:713 admin/profile-fields.php:217
+#: includes/advanced-search.php:44 includes/header-advanced-search.php:69
+#: includes/header-advanced-search.php:340
+#: includes/widgets/ct-widget-listingssearch.php:55
+msgid "City"
+msgstr "Staden"
+
+#: template-advanced-search.php:77 template-edit-listing.php:842
+#: template-submit-listing.php:723 admin/theme-functions.php:5507
+#: admin/theme-functions.php:5526 includes/advanced-search.php:58
+#: includes/widgets/ct-widget-listingssearch.php:69
+msgid "Area"
+msgstr "Området"
+
+#: template-advanced-search.php:79 template-edit-listing.php:844
+#: template-submit-listing.php:725 admin/theme-functions.php:5562
+#: includes/advanced-search.php:60
+#: includes/widgets/ct-widget-listingssearch.php:71
+msgid "Suburb"
+msgstr "Förort"
+
+#: template-advanced-search.php:81 template-edit-listing.php:852
+#: template-submit-listing.php:733 includes/advanced-search.php:62
+#: includes/widgets/ct-widget-listingssearch.php:73
+msgid "State"
+msgstr "Staten"
+
+#: template-advanced-search.php:92 admin/theme-functions.php:5543
+#: includes/advanced-search.php:77
+#: includes/widgets/ct-widget-listingssearch.php:88
+msgid "Postcode"
+msgstr "Postnummer"
+
+#: template-advanced-search.php:94 admin/theme-functions.php:5545
+#: includes/advanced-search.php:79
+#: includes/widgets/ct-widget-listingssearch.php:90
+msgid "Zipcode"
+msgstr "Postnummer"
+
+#: template-advanced-search.php:100 template-edit-listing.php:868
+#: template-submit-listing.php:749 includes/advanced-search.php:89
+#: includes/header-advanced-search.php:99
+#: includes/header-advanced-search.php:368
+#: includes/widgets/ct-widget-listingssearch.php:100
+msgid "Country"
+msgstr "Landet"
+
+#: template-advanced-search.php:105 template-edit-listing.php:678
+#: template-submit-listing.php:558 admin/theme-functions.php:4662
+#: admin/theme-functions.php:5773 includes/advanced-search.php:116
+#: includes/header-advanced-search.php:127
+#: includes/header-advanced-search.php:378
+#: includes/single-listing-multi-floorplan.php:33 layouts/list.php:88
+#: includes/widgets/ct-widget-listingssearch.php:127
+msgid "Beds"
+msgstr "Sängar"
+
+#: template-advanced-search.php:110 template-edit-listing.php:683
+#: template-submit-listing.php:563 admin/theme-functions.php:4682
+#: admin/theme-functions.php:5779 includes/advanced-search.php:125
+#: includes/header-advanced-search.php:136
+#: includes/header-advanced-search.php:388
+#: includes/single-listing-multi-floorplan.php:36 includes/sub-listings.php:103
+#: layouts/list.php:108 includes/widgets/ct-widget-agentsotherlistings.php:139
+#: includes/widgets/ct-widget-listingssearch.php:136
+msgid "Baths"
+msgstr "Bad"
+
+#: template-advanced-search.php:115 template-edit-listing.php:434
+#: template-submit-listing.php:419 template-view-invoices.php:95
+#: includes/advanced-search.php:134 includes/header-advanced-search.php:145
+#: includes/header-advanced-search.php:398
+#: admin/plugins/class-tgm-plugin-activation.php:2639
+#: includes/widgets/ct-widget-listingssearch.php:145
+msgid "Status"
+msgstr "Status"
+
+#: template-advanced-search.php:125 admin/theme-functions.php:5560
+#: includes/advanced-search.php:157 includes/header-advanced-search.php:159
+#: includes/header-advanced-search.php:422
+#: includes/widgets/ct-widget-listingssearch.php:168
+msgid "Neighborhood"
+msgstr "Stadsdel"
+
+#: template-advanced-search.php:127 admin/theme-functions.php:5564
+#: includes/advanced-search.php:159 includes/header-advanced-search.php:161
+#: includes/header-advanced-search.php:424
+#: includes/widgets/ct-widget-listingssearch.php:170
+msgid "District"
+msgstr "Distriktet"
+
+#: template-advanced-search.php:129 admin/theme-functions.php:5574
+#: includes/advanced-search.php:107 includes/advanced-search.php:161
+#: includes/header-advanced-search.php:118
+#: includes/header-advanced-search.php:163
+#: includes/header-advanced-search.php:426
+#: includes/widgets/ct-widget-listingssearch.php:118
+#: includes/widgets/ct-widget-listingssearch.php:172
+msgid "Community"
+msgstr "Gemenskapen"
+
+#: template-advanced-search.php:135 template-advanced-search.php:136
+#: includes/advanced-search.php:171 includes/advanced-search.php:172
+#: includes/header-advanced-search.php:173
+#: includes/header-advanced-search.php:174
+#: includes/header-advanced-search.php:436
+#: includes/header-advanced-search.php:437
+#: includes/widgets/ct-widget-listingssearch.php:182
+#: includes/widgets/ct-widget-listingssearch.php:183
+msgid "Price From"
+msgstr "Pris Från"
+
+#: template-advanced-search.php:140 template-advanced-search.php:141
+#: includes/advanced-search.php:180 includes/advanced-search.php:181
+#: includes/header-advanced-search.php:182
+#: includes/header-advanced-search.php:183
+#: includes/header-advanced-search.php:445
+#: includes/header-advanced-search.php:446
+#: includes/widgets/ct-widget-listingssearch.php:191
+#: includes/widgets/ct-widget-listingssearch.php:192
+msgid "Price To"
+msgstr "Pris Till"
+
+#: template-advanced-search.php:145 template-advanced-search.php:146
+#: includes/advanced-search.php:190 includes/header-advanced-search.php:192
+#: includes/header-advanced-search.php:455
+#: includes/widgets/ct-widget-listingssearch.php:201
+msgid "Size From"
+msgstr "Storlek Från"
+
+#: template-advanced-search.php:150 template-advanced-search.php:151
+#: includes/advanced-search.php:199 includes/header-advanced-search.php:201
+#: includes/header-advanced-search.php:464
+#: includes/widgets/ct-widget-listingssearch.php:210
+msgid "Size To"
+msgstr "Storlek"
+
+#: template-advanced-search.php:155 template-advanced-search.php:156
+#: includes/advanced-search.php:207 includes/advanced-search.php:208
+#: includes/header-advanced-search.php:209
+#: includes/header-advanced-search.php:210
+#: includes/header-advanced-search.php:472
+#: includes/header-advanced-search.php:473
+#: includes/widgets/ct-widget-listingssearch.php:218
+#: includes/widgets/ct-widget-listingssearch.php:219
+msgid "Lot Size From"
+msgstr "Partistorlek Från"
+
+#: template-advanced-search.php:160 template-advanced-search.php:161
+#: includes/advanced-search.php:216 includes/advanced-search.php:217
+#: includes/header-advanced-search.php:218
+#: includes/header-advanced-search.php:219
+#: includes/header-advanced-search.php:481
+#: includes/header-advanced-search.php:482
+#: includes/widgets/ct-widget-listingssearch.php:227
+#: includes/widgets/ct-widget-listingssearch.php:228
+msgid "Lot Size To"
+msgstr "Lot Storlek"
+
+#: template-advanced-search.php:165 template-advanced-search.php:166
+#: template-edit-listing.php:708 template-submit-listing.php:588
+#: includes/advanced-search.php:225 includes/advanced-search.php:226
+#: includes/header-advanced-search.php:227
+#: includes/header-advanced-search.php:228
+#: includes/header-advanced-search.php:490
+#: includes/header-advanced-search.php:491
+#: includes/single-listing-propinfo.php:17
+#: includes/widgets/ct-widget-listingssearch.php:236
+#: includes/widgets/ct-widget-listingssearch.php:237
+msgid "Property ID"
+msgstr "ID för webbegendom"
+
+#: template-advanced-search.php:175 template-advanced-search.php:176
+#: includes/advanced-search.php:234 includes/advanced-search.php:235
+#: includes/header-advanced-search.php:236
+#: includes/header-advanced-search.php:237
+#: includes/header-advanced-search.php:499
+#: includes/header-advanced-search.php:500
+#: includes/widgets/ct-widget-listingssearch.php:245
+#: includes/widgets/ct-widget-listingssearch.php:246
+msgid "Number of Guests"
+msgstr "Antal Gäster"
+
+#: template-advanced-search.php:181 includes/advanced-search.php:143
+#: includes/widgets/ct-widget-listingssearch.php:154
+msgid "Additional Features"
+msgstr "Ytterligare Funktioner"
+
+#: template-advanced-search.php:187 includes/advanced-search.php:257
+#: includes/header-advanced-search.php:274
+#: includes/header-advanced-search.php:308
+#: includes/home-hero-advanced-search.php:38
+#: includes/widgets/ct-widget-listingssearch.php:266
+msgid "Search"
+msgstr "Sök"
+
+#: template-agents.php:122 template-agents.php:147
+msgid ""
+"Type an agents name, title, business, phone or lic # here to filter the list."
+msgstr ""
+
+#: template-agents.php:359
+msgid "View Profile"
+msgstr "Visa Profil"
+
+#: template-agents.php:393
+msgid "No Agents Found."
+msgstr "Några Agenter Som Finns."
+
+#. Name of the template
+msgid "Big Map"
+msgstr "Stor Karta"
+
+#. Name of the template
+#: admin/theme-functions.php:4437
+msgid "Compare"
+msgstr "Jämför"
+
+#. Name of the template
+msgid "Contact No Form"
+msgstr "Kontakta Någon Form"
+
+#: includes/single-listing-sub-navigation.php:169
+#: admin/ReduxFramework/theme-options/re7-config.php:5026
+msgid "Contact"
+msgstr "Kontakta"
+
+#: template-contact.php:64
+msgid "Name*"
+msgstr "Namn*"
+
+#: template-contact.php:68
+msgid "Email*"
+msgstr "E-post*"
+
+#: template-contact.php:75
+msgid "Subject*"
+msgstr "Ämne*"
+
+#: template-contact.php:77
+msgid "Message"
+msgstr "Meddelande"
+
+#. Name of the template
+msgid "Demo Home Listings Slider"
+msgstr "Demo Hem Listor Glida"
+
+#. Name of the template
+msgid "Demo Home Map"
+msgstr "Demo Hem Karta"
+
+#. Name of the template
+msgid "Demo Home Video"
+msgstr "Demo-Video"
+
+#. Name of the template
+msgid "dsIDXpress"
+msgstr "dsIDXpress"
+
+#. Name of the template
+msgid "Edit Listing"
+msgstr "Redigera Lista"
+
+#: template-edit-listing.php:407 template-submit-listing.php:402
+msgid "Street Address"
+msgstr "Adress"
+
+#: template-edit-listing.php:412 template-submit-listing.php:407
+msgid "Alternate Title"
+msgstr "Alternativa Namn"
+
+#: template-edit-listing.php:413 template-submit-listing.php:408
+msgid "(e.g. Downtown Penthouse)"
+msgstr "(t ex Centrala Penthouse)"
+
+#: template-edit-listing.php:425 template-edit-listing.php:440
+#: admin/theme-functions.php:5935 admin/theme-functions.php:5963
+msgid "Any"
+msgstr "Alla"
+
+#: template-edit-listing.php:449 template-submit-listing.php:424
+#: template-view-listings.php:179 admin/theme-functions.php:5353
+#: includes/home-listings-count.php:188
+msgid "Featured"
+msgstr "Utvalda"
+
+#: template-edit-listing.php:463 template-submit-listing.php:434
+#: includes/single-listing-multi-floorplan.php:43
+msgid "Price"
+msgstr "Pris"
+
+#: template-edit-listing.php:468 template-submit-listing.php:439
+msgid "Price Prefix"
+msgstr "Pris Prefix"
+
+#: template-edit-listing.php:469 template-submit-listing.php:440
+msgid " (e.g. From, Call for price)"
+msgstr " (t ex Från, Ring för pris)"
+
+#: template-edit-listing.php:473 template-submit-listing.php:444
+msgid "Price Postfix Text"
+msgstr "Pris Postfix Text"
+
+#: template-edit-listing.php:474 template-submit-listing.php:445
+msgid " (e.g. /month, /week)"
+msgstr " (t ex /månad /vecka)"
+
+#: template-edit-listing.php:479 template-submit-listing.php:450
+msgid "Listing Description"
+msgstr "Notering Beskrivning"
+
+#: template-edit-listing.php:496 template-submit-listing.php:464
+msgid "Listing Featured Image"
+msgstr "Notering Dagens Bild"
+
+#: template-edit-listing.php:505 template-submit-listing.php:476
+#: admin/ReduxFramework/theme-options/re7-config.php:3233
+msgid "Listing Images"
+msgstr "Notering Bilder"
+
+#: template-edit-listing.php:582 template-submit-listing.php:486
+msgid "Drag & Drop Images Here"
+msgstr "Dra "
+
+#: template-edit-listing.php:585 template-submit-listing.php:489
+msgid "or"
+msgstr "eller"
+
+#: template-edit-listing.php:588 template-submit-listing.php:492
+msgid "Select Images"
+msgstr "Välj Bilder"
+
+#: template-edit-listing.php:592
+msgid ""
+"*At least one image is required for valid submission, minimum width of 817px."
+msgstr "*Minst en bild krävs för giltigt inlämning, minsta bredd av 817px."
+
+#: template-edit-listing.php:593 template-submit-listing.php:497
+msgid ""
+"*You can mark an image as featured by clicking the star icon, Otherwise "
+"first image will be considered featured image."
+msgstr ""
+"*Du kan markera en bild som visas genom att klicka på stjärnan, Annars "
+"första bilden som kommer att betraktas som dagens bild."
+
+#: template-edit-listing.php:605 template-submit-listing.php:507
+msgid "Files & Documents"
+msgstr "Filer "
+
+#: template-edit-listing.php:629 template-submit-listing.php:519
+msgid "*Supported file types are PDF, Word, Excel & PowerPoint."
+msgstr "*Filtyper som stöds är PDF, Word, Excel "
+
+#: template-edit-listing.php:693 template-submit-listing.php:573
+#: admin/theme-functions.php:4830 includes/sub-listings.php:195
+#: includes/widgets/ct-widget-agentsotherlistings.php:231
+msgid "Lot Size"
+msgstr "Lot Storlek"
+
+#: template-edit-listing.php:698 template-submit-listing.php:578
+#: admin/theme-functions.php:4701
+msgid "Pets"
+msgstr "Husdjur"
+
+#: template-edit-listing.php:703 template-submit-listing.php:583
+#: admin/theme-functions.php:4716
+msgid "Parking"
+msgstr "Parkering"
+
+#: template-edit-listing.php:713 template-submit-listing.php:593
+msgid "Video URL"
+msgstr "Video-URL"
+
+#: template-edit-listing.php:720
+msgid "Vitrual Tour URL"
+msgstr "Vitrual Tur URL"
+
+#: template-edit-listing.php:728 template-submit-listing.php:608
+#: admin/theme-functions.php:5148 includes/single-listing-open-house.php:26
+#: includes/single-listing-sub-navigation.php:51
+msgid "Open House"
+msgstr "Öppet Hus"
+
+#: template-edit-listing.php:731 template-submit-listing.php:611
+#: includes/single-listing-open-house.php:32
+msgid "Date"
+msgstr "Datum"
+
+#: template-edit-listing.php:736 template-submit-listing.php:616
+msgid "Start Time"
+msgstr "Start Tid"
+
+#: template-edit-listing.php:741 template-submit-listing.php:621
+msgid "End Time"
+msgstr "Slut Tid"
+
+#: template-edit-listing.php:751 template-submit-listing.php:639
+msgid "Additional Features (comma separated)"
+msgstr "Ytterligare Funktioner (åtskilda med kommatecken)"
+
+#: template-edit-listing.php:766 template-submit-listing.php:654
+msgid "Max-number of Guests"
+msgstr "Max antal Gäster"
+
+#: template-edit-listing.php:771 template-submit-listing.php:659
+msgid "Minimum Stay"
+msgstr "Minimum Stanna"
+
+#: template-edit-listing.php:778 template-submit-listing.php:666
+msgid "Check In Time"
+msgstr "Kontrollera I Tid"
+
+#: template-edit-listing.php:783 template-submit-listing.php:671
+msgid "Check Out Time"
+msgstr "Utcheckningstiden"
+
+#: template-edit-listing.php:790 template-submit-listing.php:678
+msgid "Extra Person Charge"
+msgstr "Extra Person Avgift"
+
+#: template-edit-listing.php:795 template-submit-listing.php:683
+#: admin/theme-functions.php:4977
+msgid "Cleaning Fee"
+msgstr "Städavgift"
+
+#: template-edit-listing.php:802 template-submit-listing.php:690
+#: admin/theme-functions.php:4988
+msgid "Cancellation Fee"
+msgstr "Avbokningsavgift"
+
+#: template-edit-listing.php:807 template-submit-listing.php:695
+#: admin/theme-functions.php:4999
+msgid "Security Deposit"
+msgstr "Deposition"
+
+#: template-edit-listing.php:827 template-submit-listing.php:708
+msgid "Type in an address"
+msgstr "Skriv in en adress"
+
+#: template-edit-listing.php:846 template-submit-listing.php:727
+msgid "Province"
+msgstr "Provinsen"
+
+#: template-edit-listing.php:848 template-submit-listing.php:729
+msgid "Region"
+msgstr "Regionen"
+
+#: template-edit-listing.php:850 template-submit-listing.php:731
+msgid "Parish"
+msgstr "Socken"
+
+#: template-edit-listing.php:863 template-submit-listing.php:744
+#: includes/advanced-search.php:98 includes/header-advanced-search.php:109
+#: includes/widgets/ct-widget-listingssearch.php:109
+msgid "County"
+msgstr "Län"
+
+#: template-edit-listing.php:878 template-submit-listing.php:759
+msgid "Latitude & Longitude (optional)"
+msgstr "Latitud "
+
+#: template-edit-listing.php:887 template-submit-listing.php:768
+msgid ""
+"You can also manually drag the marker to the exact location of your listing "
+"if the automatic geolocation is off."
+msgstr ""
+"Du kan också manuellt drag markören till den exakta platsen för din notering "
+"om den automatiska geolocation är avstängd."
+
+#: template-edit-listing.php:893 template-submit-listing.php:780
+#: admin/theme-functions.php:4295
+#: admin/ReduxFramework/theme-options/re7-config.php:4541
+msgid "Private Notes"
+msgstr "Privata Anteckningar"
+
+#: template-edit-listing.php:894 template-submit-listing.php:781
+msgid ""
+"Write a private note about this listing, this textarea will not be displayed "
+"anywhere on the front end of the site."
+msgstr ""
+"Skriv en egen kommentar om denna notering, detta textarea kommer inte att "
+"visas någonstans på den främre delen av webbplatsen."
+
+#: template-edit-listing.php:913 template-submit-listing.php:800
+msgid "Cancel"
+msgstr "Avbryt"
+
+#: template-edit-listing.php:917 template-submit-listing.php:809
+#: admin/theme-functions.php:3325
+msgid "Next"
+msgstr "Nästa"
+
+#: template-edit-listing.php:918 template-submit-listing.php:818
+msgid "Previous"
+msgstr "Föregående"
+
+#: template-edit-listing.php:935
+#: admin/plugins/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr "Uppdatering"
+
+#: template-edit-listing.php:945
+msgid "This isn't one of your assigned listings, editing is denied."
+msgstr "Detta är\\'t en av dina tilldelade listor, redigera nekas."
+
+#. Name of the template
+msgid "Edit Profile"
+msgstr "Redigera Profil"
+
+#: template-edit-profile.php:78
+msgid "The passwords you entered do not match. Your password was not updated."
+msgstr ""
+"Lösenorden du angav matchar inte varandra. Att ditt lösenord inte är "
+"uppdaterad."
+
+#: template-edit-profile.php:86
+msgid "The Email you entered is not valid. Please try again."
+msgstr "Den E-post du angav är inte giltig. Var god försök igen."
+
+#: template-edit-profile.php:88
+msgid "This email is already used by another user. Try a different one."
+msgstr "Den här e-används redan av en annan användare. Prova en annan."
+
+#: template-edit-profile.php:133 admin/theme-functions.php:3648
+#: admin/theme-functions.php:3727
+msgid "Username"
+msgstr "Användarnamn"
+
+#: template-edit-profile.php:134
+msgid "Usernames cannot be changed."
+msgstr "Användarnamn kan inte ändras."
+
+#: template-edit-profile.php:137 admin/theme-functions.php:3737
+msgid "First Name"
+msgstr "Förnamn"
+
+#: template-edit-profile.php:141 admin/theme-functions.php:3742
+msgid "Last Name"
+msgstr "Efternamn"
+
+#: template-edit-profile.php:145
+msgid "Nickname"
+msgstr "Smeknamn"
+
+#: template-edit-profile.php:145
+msgid "(required)"
+msgstr "(krävs)"
+
+#: template-edit-profile.php:149
+msgid "Display to Public as"
+msgstr "Visa till Allmänheten"
+
+#: template-edit-profile.php:187
+msgid "Contact Info"
+msgstr "Kontakta Info"
+
+#: template-edit-profile.php:191
+msgid "E-mail *"
+msgstr "E-post *"
+
+#: template-edit-profile.php:195 admin/theme-functions.php:3747
+msgid "Website"
+msgstr "Hemsida"
+
+#: template-edit-profile.php:218
+msgid "About Yourself"
+msgstr "Om Dig Själv"
+
+#: template-edit-profile.php:222
+msgid "Biographical Information"
+msgstr "Biografiska Uppgifter"
+
+#: template-edit-profile.php:222
+msgid ""
+"Share a little biographical information to fill out your profile. This may "
+"be shown publicly."
+msgstr ""
+"Dela en liten biografiska uppgifter att fylla i din profil. Detta kan vara "
+"visas offentligt."
+
+#: template-edit-profile.php:226
+msgid "New Password"
+msgstr "Nytt Lösenord"
+
+#: template-edit-profile.php:226
+msgid ""
+"If you would like to change the password type a new one. Otherwise leave "
+"this blank."
+msgstr ""
+"Om du vill ändra lösenord, skriv in ett nytt. Annars lämna fältet tomt."
+
+#: template-edit-profile.php:230
+msgid "Type your new password again."
+msgstr "Skriv ditt nya lösenord igen."
+
+#: template-edit-profile.php:232
+msgid "Strength indicator"
+msgstr "För signalstyrka och batterinivå"
+
+#: template-edit-profile.php:244
+msgid "Update Profile"
+msgstr "Uppdatera Profil"
+
+#: template-favorite-listings.php:100
+msgid "Request More Information on All Favorites"
+msgstr "Begär Mer Information om Alla Favoriter"
+
+#: template-favorite-listings.php:178 template-view-listings.php:142
+msgid "Bed:"
+msgstr "Säng:"
+
+#: template-favorite-listings.php:188 template-view-listings.php:152
+msgid "Baths:"
+msgstr "Bad:"
+
+#: template-favorite-listings.php:199 template-view-listings.php:163
+#: layouts/list.php:125 includes/widgets/ct-widget-flickr.php:63
+msgid "Type:"
+msgstr "Typ:"
+
+#: template-favorite-listings.php:224
+msgid "Previous Entries"
+msgstr "Tidigare Poster"
+
+#: template-favorite-listings.php:225
+msgid "Next Entries"
+msgstr "Nästa Poster"
+
+#. Name of the template
+msgid "Full Width 2"
+msgstr "Full Width 2"
+
+#. Name of the template
+msgid "Full Width"
+msgstr "Full Bredd"
+
+#. Name of the template
+msgid "IDX Full Width"
+msgstr "IDX Full Bredd"
+
+#. Name of the template
+msgid "IDX w/Sidebar"
+msgstr "IDX w/Sidofältet"
+
+#. Name of the template
+msgid "Landing Page"
+msgstr "Målsidan"
+
+#. Name of the template
+msgid "Left Sidebar"
+msgstr "Vänster"
+
+#. Name of the template
+#: includes/user-sidebar.php:44
+#: admin/ReduxFramework/theme-options/re7-config.php:4706
+msgid "Listing Email Alerts"
+msgstr "Notering Av E-Postvarningar"
+
+#: template-listing-email-alerts.php:84
+msgid "Manage your alerts"
+msgstr "Hantera dina varningar"
+
+#: template-listing-email-alerts.php:85
+msgid "Here you can turn saved alerts on/off or remove them completely."
+msgstr "Här kan du vända sparat larm på/stänga av eller ta bort dem helt."
+
+#: template-listing-email-alerts.php:90
+msgid "Query"
+msgstr "Fråga"
+
+#: template-listing-email-alerts.php:93
+msgid "Date Created"
+msgstr "Datum Skapad"
+
+#: template-listing-email-alerts.php:96
+msgid "Email Setting"
+msgstr "E-Inställning"
+
+#: template-listing-email-alerts.php:99 admin/theme-functions.php:3493
+msgid "Delete"
+msgstr "Ta bort"
+
+#: template-listing-email-alerts.php:126
+msgid "You don't have any saved searches yet, create one above."
+msgstr "Du don't har några sparade sökningar ännu, skapa en ovan."
+
+#: template-listing-email-alerts.php:138
+msgid ""
+"Activate \"Contempo Email Alerts\" plugin via Appearance > Install Plugins."
+msgstr ""
+"Aktivera \"Contempo E-Postvarningar\" plugin via Utseende > Installera "
+"Plugins."
+
+#. Name of the template
+#: includes/home-listings-count.php:58
+msgid "Open Houses"
+msgstr "Öppet Hus"
+
+#. Name of the template
+msgid "Packages Thank You"
+msgstr "Paket Tack"
+
+#: template-packages-thank-you.php:56
+msgid "Select a Package"
+msgstr "Välj ett Paket"
+
+#: template-packages-thank-you.php:60
+msgid "Payment"
+msgstr "Betalning"
+
+#: template-packages-thank-you.php:64
+msgid "Complete"
+msgstr "Komplett"
+
+#. Name of the template
+msgid "Quick Search"
+msgstr "Snabb Sökning"
+
+#. Name of the template
+msgid "Sitemap"
+msgstr "Sitemap"
+
+#: template-sitemap.php:51
+msgid "Last Twenty Posts"
+msgstr "Senaste Tjugo Inlägg"
+
+#: template-sitemap.php:67
+msgid "Pages"
+msgstr "Sidor"
+
+#: template-sitemap.php:74
+msgid "Categories"
+msgstr "Kategorier"
+
+#: template-sitemap.php:81
+msgid "Posts per category"
+msgstr "Inlägg per kategori"
+
+#: template-submit-listing.php:376
+msgid "You haven't chosen a package yet…"
+msgstr "Du har\\'t valt ett paket ännu..."
+
+#: template-submit-listing.php:377
+msgid "Get Started!"
+msgstr "Komma Igång!"
+
+#: template-submit-listing.php:383
+msgid "Listings Limit Reached"
+msgstr "Listor Nådd"
+
+#: template-submit-listing.php:384
+msgid "You've reached the listings limit for your membership package."
+msgstr "You\\'ve nått listor gränsen för ditt medlemskap paket."
+
+#: template-submit-listing.php:385
+msgid "Upgrade Today!"
+msgstr "Uppgradera Idag!"
+
+#: template-submit-listing.php:469
+msgid "Gallery Images (select as many as you like)"
+msgstr "Galleri Bilder (välj så många du vill)"
+
+#: template-submit-listing.php:496
+msgid "*At least one image is for valid submission, minimum width of 817px."
+msgstr "*Minst en bild är för giltigt inlämning, minsta bredd av 817px."
+
+#: template-submit-listing.php:579
+msgid "(e.g. Cats, small dogs)"
+msgstr "(t ex Katter, små hundar)"
+
+#: template-submit-listing.php:584
+msgid "(e.g. Carport, 2 Car Garage)"
+msgstr "(exempel Carport, 2 Bil Garage)"
+
+#: template-submit-listing.php:600
+msgid "Virtual Tour URL"
+msgstr "Virtuell Tur URL"
+
+#: template-submit-listing.php:655
+msgid " (e.g. 2)"
+msgstr " (exempel 2)"
+
+#: template-submit-listing.php:660
+msgid " (e.g. 1 night)"
+msgstr " (exempel 1 natt)"
+
+#: template-submit-listing.php:667
+msgid " (e.g. 3:00 PM)"
+msgstr " (exempel 3:00 PM)"
+
+#: template-submit-listing.php:672
+msgid " (e.g. 11:00 AM)"
+msgstr " (exempel 11:00)"
+
+#: template-submit-listing.php:679
+msgid " (e.g. 50)"
+msgstr " (t ex 50)"
+
+#: template-submit-listing.php:684
+msgid " (e.g. 150)"
+msgstr " (t ex 150)"
+
+#: template-submit-listing.php:691
+msgid " (e.g. 275)"
+msgstr " (t ex 275)"
+
+#: template-submit-listing.php:696
+msgid " (e.g. 895)"
+msgstr " (t ex 895)"
+
+#: template-submit-listing.php:801
+msgid "Save As Draft"
+msgstr "Spara Som Utkast"
+
+#. Name of the template
+#: admin/ReduxFramework/theme-options/re7-config.php:1706
+msgid "Testimonials"
+msgstr "Omdömen"
+
+#. Name of the template
+msgid "User Dashboard"
+msgstr "Användaren Dashboard"
+
+#: template-user-dashboard.php:122
+#: admin/ReduxFramework/theme-options/re7-config.php:1656
+msgid "Featured Listings"
+msgstr "Dagens Listor"
+
+#: template-user-dashboard.php:141
+msgid "Pending Listings"
+msgstr "I Avvaktan På Listor"
+
+#: template-view-invoices.php:82
+msgid "You haven't placed any orders yet…"
+msgstr "Du har\\'t gjort några beställningar men ändå..."
+
+#: template-view-invoices.php:90
+msgid "Invoice"
+msgstr "Faktura"
+
+#: template-view-invoices.php:91
+msgid "Package"
+msgstr "Paket"
+
+#: template-view-invoices.php:92
+msgid "Start"
+msgstr "Start"
+
+#: template-view-invoices.php:93
+msgid "Expire"
+msgstr "Upphör att gälla"
+
+#: template-view-invoices.php:94
+msgid "Recurring"
+msgstr "Återkommande"
+
+#: template-view-invoices.php:96
+msgid "Total"
+msgstr "Totalt"
+
+#: template-view-invoices.php:112
+#: includes/widgets/ct-widget-contactinfo.php:136
+msgid "Yes"
+msgstr "Ja"
+
+#: template-view-invoices.php:112
+#: includes/widgets/ct-widget-contactinfo.php:137
+msgid "No"
+msgstr "Inga"
+
+#: template-view-invoices.php:113
+msgid "Expired"
+msgstr "Utgångna"
+
+#: template-view-invoices.php:123
+msgid "-"
+msgstr "-"
+
+#: template-view-listings.php:85
+msgid "Type a listing name or address here to filter the list."
+msgstr "Skriv en notering namn eller adress här för att filtrera listan."
+
+#: template-view-listings.php:172
+msgid "Published"
+msgstr "Publicerad"
+
+#: template-view-listings.php:174
+msgid "Pending"
+msgstr "Väntan"
+
+#: template-view-listings.php:176
+msgid "Draft"
+msgstr "Förslag till"
+
+#: template-view-listings.php:195
+msgid "Paid"
+msgstr "Betalas"
+
+#: template-view-listings.php:210
+msgid "Edit"
+msgstr "Ändra"
+
+#: template-view-listings.php:214 admin/theme-functions.php:4536
+msgid " Views"
+msgstr " Visningar"
+
+#: template-view-listings.php:233
+msgid "You don't have any listings yet..."
+msgstr "Du don't har några listor men ändå..."
+
+#: template-view-listings.php:234
+msgid "Create One"
+msgstr "Skapa Ett"
+
+#: admin/merlin-config.php:104 admin/merlin-config.php:120
+#: admin/merlin-config.php:136 admin/merlin-config.php:152
+#: admin/merlin-config.php:168 admin/merlin-config.php:184
+#: admin/merlin-config.php:200 admin/merlin-config.php:216
+#: admin/merlin-config.php:232 admin/merlin-config.php:248
+#: admin/merlin-config.php:264 admin/merlin-config.php:280
+#: admin/merlin-config.php:296 admin/merlin-config.php:312
+msgid "A special note for this import."
+msgstr "En särskild anmärkning för denna import."
+
+#: admin/profile-fields.php:39
+msgid "Social profile information"
+msgstr "Social profil information"
+
+#: admin/profile-fields.php:43
+msgid "Twitter Username"
+msgstr "Twitter-Användarnamn"
+
+#: admin/profile-fields.php:49
+msgid "Facebook URL"
+msgstr "Facebook URL"
+
+#: admin/profile-fields.php:55
+msgid "Instagram URL"
+msgstr "Instagram URL"
+
+#: admin/profile-fields.php:61
+msgid "LinkedIn URL"
+msgstr "LinkedIn URL"
+
+#: admin/profile-fields.php:67
+msgid "YouTube URL"
+msgstr "YouTube URL"
+
+#: admin/profile-fields.php:76
+msgid "Extra profile information"
+msgstr "Extra profil information"
+
+#: admin/profile-fields.php:88
+msgid "Agent Order"
+msgstr "Agent För"
+
+#: admin/profile-fields.php:91
+msgid ""
+"If user is an agent select the order you would like them displayed on the "
+"agents page, e.g. 1, 2, 3, etc&hellip; NOTE: You must also set Real Estate 7 "
+"Options > Agents > Manually Order Agents? > to Yes, otherwise the ordering "
+"won't be applied."
+msgstr ""
+"Om användaren är en agent väljer du i vilken ordning du vill att de ska "
+"visas på ombud sidan, t ex 1, 2, 3, etc"
+
+#: admin/profile-fields.php:95
+msgid "Profile Image"
+msgstr "Profil Bild"
+
+#: admin/profile-fields.php:105
+msgid ""
+"Please upload a profile picture here, if none is chosen a default image will "
+"be used."
+msgstr ""
+"Lägg upp en profil bild här, om inget väljs en standard bilden kommer att "
+"användas."
+
+#: admin/profile-fields.php:109
+msgid "Mobile #"
+msgstr ""
+
+#: admin/profile-fields.php:115
+msgid "Fax #"
+msgstr ""
+
+#: admin/profile-fields.php:122
+msgid "Title"
+msgstr "Titel"
+
+#: admin/profile-fields.php:128
+msgid "Tagline"
+msgstr "Tagline"
+
+#: admin/profile-fields.php:134
+msgid "Agent License #"
+msgstr ""
+
+#: admin/profile-fields.php:137
+msgid "Add the agents license number here."
+msgstr "Lägg till agenter licensnummer här."
+
+#: admin/profile-fields.php:144
+msgid "Agent Testimonials"
+msgstr "Agent Omdömen"
+
+#: admin/profile-fields.php:148
+msgid ""
+"If this user is marked as an agent (\"Show on agents page\" option above) "
+"use this area to add client testimonials."
+msgstr ""
+"Om användaren är markerad som en agent (\"Visa på agenter sida\" för "
+"alternativet ovan) att använda detta område för att lägga till klient "
+"vittnesmål."
+
+#: admin/profile-fields.php:162
+msgid "Office Information"
+msgstr "Office Information"
+
+#: admin/profile-fields.php:166
+msgid "Personal Logo"
+msgstr "En Personlig Logotyp"
+
+#: admin/profile-fields.php:176
+msgid ""
+"Upload your personal logo here, or if you choose to associate a Brokerage "
+"below that logo will be used instead."
+msgstr ""
+"Ladda upp din egen logotyp här, eller om du väljer att koppla en mäklare "
+"nedan för att logotypen ska användas i stället."
+
+#: admin/profile-fields.php:186
+msgid "Select a Brokerage"
+msgstr "Välj en mäklare"
+
+#: admin/profile-fields.php:194
+msgid ""
+"Assign a brokerage here, these are pulled from the Brokerage custom post "
+"type."
+msgstr "Tilldela en mäklare här, dessa dras från Courtage custom post type."
+
+#: admin/profile-fields.php:198
+msgid "Brokerage License #"
+msgstr ""
+
+#: admin/profile-fields.php:201
+msgid "Add the brokerage license number here."
+msgstr "Lägg till förmedling licensnummer här."
+
+#: admin/profile-fields.php:205
+msgid "Office #"
+msgstr ""
+
+#: admin/profile-fields.php:223
+msgid "State or Province"
+msgstr "Stat eller Provins"
+
+#: admin/profile-fields.php:229 admin/theme-functions.php:5541
+msgid "Postal Code"
+msgstr "Postnummer"
+
+#: admin/theme-functions.php:45
+msgid "Please Update Your PHP Version to the Recommended 5.6+"
+msgstr "Vänligen Uppdatera Din PHP-Version till den Rekommenderade 5.6 "
+
+#: admin/theme-functions.php:46
+msgid ""
+"Otherwise some of the Theme Functions and Custom Visual Composer modules "
+"won't be available for use, or cause issues with your site display."
+msgstr ""
+"Annars kan en del av Temat Funktioner och Egna Visuella Kompositör moduler "
+"won't vara tillgänglig för användning eller orsaka problem med din webbplats "
+"i display."
+
+#: admin/theme-functions.php:47
+msgid ""
+"Its a quick and simple process (no more than a couple minutes), please refer "
+"to this knowledgebase article below."
+msgstr ""
+"Det är en snabb och enkel process (inte mer än ett par minuter), hänvisa "
+"till denna kunskapsbank i artikeln nedan."
+
+#: admin/theme-functions.php:48
+msgid "Minimum PHP Version 5.6+ and How to Update to It"
+msgstr "Minst PHP Version 5.6 och Hur för att Uppdatera till Det"
+
+#: admin/theme-functions.php:49 admin/theme-functions.php:91
+#: admin/theme-functions.php:133 admin/theme-functions.php:175
+#: admin/plugins/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr "Att ta bort detta meddelande"
+
+#: admin/theme-functions.php:89
+msgid "WP Favorite Posts Needs to be Setup"
+msgstr "WP Favorit Inlägg Måste ställas in"
+
+#: admin/theme-functions.php:90 admin/theme-functions.php:132
+#: admin/theme-functions.php:174
+msgid "Just takes a few seconds to setup the plugin properly please see the "
+msgstr "Tar bara några sekunder att installera plugin ordentligt vänligen se "
+
+#: admin/theme-functions.php:90 admin/theme-functions.php:132
+#: admin/theme-functions.php:174
+msgid "documentation"
+msgstr "dokumentation"
+
+#: admin/theme-functions.php:131
+msgid "Contempo Compare Listings Needs to be Setup"
+msgstr "Contempo Jämföra Listor Måste ställas in"
+
+#: admin/theme-functions.php:173
+msgid "WordPress Social Login Needs to be Setup"
+msgstr "WordPress Social Login Måste ställas in"
+
+#: admin/theme-functions.php:387
+msgid "Listing Large"
+msgstr "Notering Stor"
+
+#: admin/theme-functions.php:398
+msgid "Primary Left Menu"
+msgstr "Primära Vänster Meny"
+
+#: admin/theme-functions.php:399
+msgid "Primary Right Menu"
+msgstr "Primära Menyn Till Höger"
+
+#: admin/theme-functions.php:400
+msgid "Primary Full Width"
+msgstr "Primära Full Bredd"
+
+#: admin/theme-functions.php:401
+msgid "Footer Menu"
+msgstr "Sidfot-Menyn"
+
+#: admin/theme-functions.php:425
+msgid "Menu doesn't exist, please create one by clicking here."
+msgstr "Meny spelar't finns måste du skapa en genom att klicka här."
+
+#: admin/theme-functions.php:1162
+msgid "Open Map"
+msgstr "Öppna Karta"
+
+#: admin/theme-functions.php:1163
+msgid "Close Search"
+msgstr "Stäng Sök"
+
+#: admin/theme-functions.php:1166
+msgid "Open"
+msgstr "Öppna"
+
+#: admin/theme-functions.php:1167
+msgid "Search Saved"
+msgstr "Sök Sparas"
+
+#: admin/theme-functions.php:1179 admin/theme-functions.php:5749
+msgid "All Towns"
+msgstr "Alla Städer"
+
+#: admin/theme-functions.php:1181 admin/theme-functions.php:5751
+msgid "All Villages"
+msgstr "Alla Byar"
+
+#: admin/theme-functions.php:1183 admin/theme-functions.php:5753
+msgid "All Cities"
+msgstr "Alla Städer"
+
+#: admin/theme-functions.php:1187 admin/theme-functions.php:5755
+msgid "All Areas"
+msgstr "Alla Områden"
+
+#: admin/theme-functions.php:1189 admin/theme-functions.php:5757
+#: admin/theme-functions.php:5791
+msgid "All Suburbs"
+msgstr "Alla Förorter"
+
+#: admin/theme-functions.php:1191 admin/theme-functions.php:5759
+msgid "All Provinces"
+msgstr "Alla Län"
+
+#: admin/theme-functions.php:1193 admin/theme-functions.php:5761
+msgid "All Regions"
+msgstr "Alla Regioner"
+
+#: admin/theme-functions.php:1195 admin/theme-functions.php:5763
+msgid "All Parishes"
+msgstr "Samtliga Församlingar"
+
+#: admin/theme-functions.php:1197 admin/theme-functions.php:5765
+msgid "All States"
+msgstr "Alla Stater"
+
+#: admin/theme-functions.php:1201 admin/theme-functions.php:5799
+msgid "All Postcodes"
+msgstr "Alla Postnummer"
+
+#: admin/theme-functions.php:1203 admin/theme-functions.php:5801
+msgid "All Postal Codes"
+msgstr "Alla Postnummer"
+
+#: admin/theme-functions.php:1205 admin/theme-functions.php:5803
+msgid "All Zipcodes"
+msgstr "Alla Postnummer"
+
+#: admin/theme-functions.php:1220
+msgid "* This field is required"
+msgstr "* Det här fältet är obligatoriskt"
+
+#: admin/theme-functions.php:1221
+msgid "* Please select an option"
+msgstr "* Vänligen välj ett alternativ"
+
+#: admin/theme-functions.php:1222
+msgid "* This checkbox is required"
+msgstr "* Denna kryssruta krävs"
+
+#: admin/theme-functions.php:1223
+msgid "* Invalid phone number"
+msgstr "* Ogiltigt telefonnummer"
+
+#: admin/theme-functions.php:1224
+msgid "* Invalid email address"
+msgstr "* Ogiltig e-postadress"
+
+#: admin/theme-functions.php:1225
+msgid "* Invalid date, must be in YYYY-MM-DD format"
+msgstr "* Ogiltigt datum, måste vara inom ÅÅÅÅ-MM-DD format"
+
+#: admin/theme-functions.php:1226
+msgid "* Numbers only"
+msgstr "* Endast siffror"
+
+#: admin/theme-functions.php:1227
+msgid "* No special caracters allowed"
+msgstr "* Inga särskilda caracters tillåtna"
+
+#: admin/theme-functions.php:1228
+msgid "* Letters only"
+msgstr "* Endast bokstäver"
+
+#: admin/theme-functions.php:1895 admin/theme-functions.php:3756
+msgid "Buyer"
+msgstr "Köpare"
+
+#: admin/theme-functions.php:1907 admin/theme-functions.php:3757
+msgid "Seller"
+msgstr "Säljare"
+
+#: admin/theme-functions.php:1945
+msgid "Broker"
+msgstr "Mäklare"
+
+#: admin/theme-functions.php:2057 admin/theme-functions.php:2094
+#: admin/theme-functions.php:2130
+msgid "Beds: "
+msgstr "Sängar: "
+
+#: admin/theme-functions.php:2058 admin/theme-functions.php:2095
+#: admin/theme-functions.php:2131
+msgid "Baths: "
+msgstr "Bad: "
+
+#: admin/theme-functions.php:2059 admin/theme-functions.php:2096
+#: admin/theme-functions.php:2132
+msgid "Sq Ft: "
+msgstr "Sq Ft: "
+
+#: admin/theme-functions.php:2068 admin/theme-functions.php:2105
+#: admin/theme-functions.php:2140
+msgid "1 Listing found"
+msgstr "1 Lista finns"
+
+#: admin/theme-functions.php:2070 admin/theme-functions.php:2107
+#: admin/theme-functions.php:2142
+msgid " Listings found"
+msgstr " Listor finns"
+
+#: admin/theme-functions.php:2147
+msgid "No Listings Found"
+msgstr "Inga Annonser Funna"
+
+#: admin/theme-functions.php:2366
+msgid "Sort By"
+msgstr "Sortera Efter"
+
+#: admin/theme-functions.php:2367
+msgid "Default Order"
+msgstr "Standard För"
+
+#: admin/theme-functions.php:2368
+msgid "Price - Low to High"
+msgstr "Pris Lågt till Högt"
+
+#: admin/theme-functions.php:2369
+msgid "Price - High to Low"
+msgstr "Pris - Högt till Lågt"
+
+#: admin/theme-functions.php:2370
+msgid "Date - Old to New"
+msgstr "Datum - Gammalt och Nytt"
+
+#: admin/theme-functions.php:2371
+msgid "Date - New to Old"
+msgstr "Date - Nya till Gamla"
+
+#: admin/theme-functions.php:2598
+msgid "New submission in"
+msgstr "Ny inlämning i"
+
+#: admin/theme-functions.php:2600
+msgid "Hi!"
+msgstr "Hej!"
+
+#: admin/theme-functions.php:2601
+msgid "We have a new submission in"
+msgstr "Vi har en ny inlämning i"
+
+#: admin/theme-functions.php:2602
+msgid "Check it out"
+msgstr "Kolla upp det"
+
+#: admin/theme-functions.php:2716 admin/theme-functions.php:2791
+#: admin/theme-functions.php:2894 admin/theme-functions.php:3009
+#: admin/theme-functions.php:3101 admin/theme-functions.php:3191
+#: admin/theme-functions.php:3302
+msgid "You need to setup the Google Maps API."
+msgstr "Du behöver konfigurera Google Maps API."
+
+#: admin/theme-functions.php:2717 admin/theme-functions.php:2792
+#: admin/theme-functions.php:2895 admin/theme-functions.php:3010
+#: admin/theme-functions.php:3102 admin/theme-functions.php:3192
+#: admin/theme-functions.php:3303
+msgid "Go into Admin > Real Estate 7 Options > Google Maps"
+msgstr "Gå till Admin - > Real Estate 7 Val > Google Maps"
+
+#: admin/theme-functions.php:3324
+msgid "Prev"
+msgstr "Föregående"
+
+#: admin/theme-functions.php:3604
+msgid "User registration is not enabled"
+msgstr "Användarregistrering är inte aktiverat"
+
+#: admin/theme-functions.php:3634
+msgid "Log in"
+msgstr "Logga in"
+
+#: admin/theme-functions.php:3636
+msgid "Don't have an account?"
+msgstr "Don\\'t har ett konto?"
+
+#: admin/theme-functions.php:3636
+msgid "Create your account,"
+msgstr "Skapa ditt konto"
+
+#: admin/theme-functions.php:3636
+msgid "it takes less than a minute."
+msgstr "det tar mindre än en minut."
+
+#: admin/theme-functions.php:3651 admin/theme-functions.php:3764
+msgid "Password"
+msgstr "Lösenord"
+
+#: admin/theme-functions.php:3666
+msgid "Lost your password?"
+msgstr "Glömt ditt lösenord?"
+
+#: admin/theme-functions.php:3676
+msgid "Lost Password?"
+msgstr "Glömt Ditt Lösenord?"
+
+#: admin/theme-functions.php:3677
+msgid ""
+"Enter your email address and we'll send you a link you can use to pick a new "
+"password."
+msgstr ""
+"Ange din e-postadress och vi\\'ll sända du en länk som du kan använda för "
+"att välja ett nytt lösenord."
+
+#: admin/theme-functions.php:3679
+msgid "Username or Email"
+msgstr "Användarnamn eller E-post"
+
+#: admin/theme-functions.php:3681
+msgid "Get New Password"
+msgstr "Få Nytt Lösenord"
+
+#: admin/theme-functions.php:3717
+msgid "Create an account"
+msgstr "Skapa ett konto"
+
+#: admin/theme-functions.php:3718
+msgid "It takes less than a minute. If you already have an account "
+msgstr "Det tar mindre än en minut. Om du redan har ett konto "
+
+#: admin/theme-functions.php:3718
+msgid "login"
+msgstr "logga in"
+
+#: admin/theme-functions.php:3753
+msgid "Buyer, Seller or Agent?"
+msgstr "Köpare, Säljare eller Agent?"
+
+#: admin/theme-functions.php:3755
+msgid "Please choose"
+msgstr "Välj"
+
+#: admin/theme-functions.php:3769
+msgid "Password Again"
+msgstr "Lösenordet Igen"
+
+#: admin/theme-functions.php:3775
+msgid "I accept the"
+msgstr "Jag godkänner"
+
+#: admin/theme-functions.php:3775
+msgid "Terms &amp; Conditions"
+msgstr "Villkor "
+
+#: admin/theme-functions.php:3780
+msgid "Register"
+msgstr "Registrera dig"
+
+#: admin/theme-functions.php:3815
+msgid "Username already taken"
+msgstr "Användarnamnet redan tagit"
+
+#: admin/theme-functions.php:3819 admin/theme-functions.php:4007
+#: admin/theme-functions.php:4053
+msgid "Invalid username"
+msgstr "Ogiltigt användarnamn"
+
+#: admin/theme-functions.php:3823
+msgid "Please enter a username"
+msgstr "Vänligen ange ett användarnamn"
+
+#: admin/theme-functions.php:3827
+msgid "Invalid email"
+msgstr "Ogiltiga e-post"
+
+#: admin/theme-functions.php:3831
+msgid "Email already registered"
+msgstr "E-post redan är registrerat"
+
+#: admin/theme-functions.php:3835 admin/theme-functions.php:4012
+#: admin/theme-functions.php:4058
+msgid "Please enter a password"
+msgstr "Vänligen ange ett lösenord"
+
+#: admin/theme-functions.php:3839
+msgid "Passwords do not match"
+msgstr "Lösenorden matchar inte"
+
+#: admin/theme-functions.php:3843
+msgid "Terms & Conditions must be checked"
+msgstr "Villkor "
+
+#: admin/theme-functions.php:4018 admin/theme-functions.php:4064
+msgid "Incorrect password"
+msgstr "Felaktigt lösenord"
+
+#: admin/theme-functions.php:4098
+msgid "Error"
+msgstr "Fel"
+
+#: admin/theme-functions.php:4221 admin/theme-functions.php:4225
+msgid "Featured Image"
+msgstr "Dagens Bild"
+
+#: admin/theme-functions.php:4223
+msgid "Brokerage Logo"
+msgstr "Courtage Logotyp"
+
+#: admin/theme-functions.php:4253
+msgid "Enter the listing street address here"
+msgstr "Ange notering besöksadress här"
+
+#: admin/theme-functions.php:4269
+msgid ""
+"NOTE: The Listing Title needs to be <strong>only the Street Address</strong> "
+"(e.g. 123 Somewhere St.) otherwise the mapping won't work properly, use the "
+"Alternate Title field below for Listing Names, etc…the Alt Title field will "
+"override the street address on the front end of your site."
+msgstr ""
+
+#: admin/theme-functions.php:4288
+#: admin/ReduxFramework/theme-options/re7-config.php:4155
+msgid "Price & Description"
+msgstr "Pris "
+
+#: admin/theme-functions.php:4289
+msgid "Photos & Files"
+msgstr "Foton "
+
+#: admin/theme-functions.php:4290
+#: admin/ReduxFramework/theme-options/re7-config.php:4244
+msgid "Details"
+msgstr "Detaljer"
+
+#: admin/theme-functions.php:4292 includes/single-listing-sub-navigation.php:78
+#: admin/ReduxFramework/theme-options/re7-config.php:4363
+msgid "Rental Info"
+msgstr "Hyra Info"
+
+#: admin/theme-functions.php:4294 includes/single-listing-map.php:18
+#: includes/single-listing-sub-navigation.php:135
+#: includes/single-listing-sub-navigation.php:164
+#: admin/ReduxFramework/theme-options/re7-config.php:4452
+msgid "Location"
+msgstr "Läge"
+
+#: admin/theme-functions.php:4396
+msgid "Add to Favorites"
+msgstr "Lägg till i Favoriter"
+
+#: admin/theme-functions.php:4401
+msgid "Favorite"
+msgstr "Favorit"
+
+#: admin/theme-functions.php:4514
+msgid " Photo"
+msgstr " Foto"
+
+#: admin/theme-functions.php:4516
+msgid " Photos"
+msgstr " Foton"
+
+#: admin/theme-functions.php:4658 admin/theme-functions.php:5767
+#: layouts/list.php:84
+msgid "Rooms"
+msgstr "Rum"
+
+#: admin/theme-functions.php:4660 admin/theme-functions.php:5769
+#: layouts/list.php:86
+msgid "Bedrooms"
+msgstr "Sovrum"
+
+#: admin/theme-functions.php:4664 admin/theme-functions.php:5771
+#: includes/sub-listings.php:89 layouts/list.php:90
+#: includes/widgets/ct-widget-agentsotherlistings.php:125
+msgid "Bed"
+msgstr "Säng"
+
+#: admin/theme-functions.php:4680 admin/theme-functions.php:5775
+#: layouts/list.php:106
+msgid "Bathrooms"
+msgstr "Badrum"
+
+#: admin/theme-functions.php:4684 admin/theme-functions.php:5777
+#: layouts/list.php:110
+msgid "Bath"
+msgstr "Badkar"
+
+#: admin/theme-functions.php:4735 includes/sub-listings.php:122
+#: includes/widgets/ct-widget-agentsotherlistings.php:158
+msgid "Rating"
+msgstr "Betyg"
+
+#: admin/theme-functions.php:4752 includes/sub-listings.php:139
+#: includes/widgets/ct-widget-agentsotherlistings.php:175
+msgid "Guests"
+msgstr "Gäster"
+
+#: admin/theme-functions.php:4767 admin/theme-functions.php:4945
+#: includes/sub-listings.php:154
+#: includes/widgets/ct-widget-agentsotherlistings.php:190
+msgid "Min Stay"
+msgstr "Min Vistelse"
+
+#: admin/theme-functions.php:4815
+msgid "Price Per"
+msgstr "Pris Per"
+
+#: admin/theme-functions.php:4853
+msgid "Walk Score&reg;"
+msgstr "Promenad Betyg"
+
+#: admin/theme-functions.php:4912
+msgid "Check In"
+msgstr "In I"
+
+#: admin/theme-functions.php:4923
+msgid "Check Out"
+msgstr "Kolla In"
+
+#: admin/theme-functions.php:4934
+msgid "Max Guests"
+msgstr "Max Antal Gäster"
+
+#: admin/theme-functions.php:4966
+msgid "Extra People"
+msgstr "Extra Personer"
+
+#: admin/theme-functions.php:5076
+#, php-format
+msgid "%s ago"
+msgstr "%s sedan"
+
+#: admin/theme-functions.php:5096
+msgid "Updated on"
+msgstr "Uppdaterad"
+
+#: admin/theme-functions.php:5098
+msgid "at"
+msgstr "på"
+
+#: admin/theme-functions.php:5177
+msgid "Hosted By"
+msgstr "Värd"
+
+#: admin/theme-functions.php:5231 admin/theme-functions.php:5236
+msgid "Brokered by"
+msgstr "Med hjälp av"
+
+#: admin/theme-functions.php:5503
+msgid " Sq Ft"
+msgstr " Sq Ft"
+
+#: admin/theme-functions.php:5505
+msgid " m²"
+msgstr " m2"
+
+#: admin/theme-functions.php:5520
+msgid "Acres"
+msgstr "Hektar"
+
+#: admin/theme-functions.php:5522
+msgid "Sq Ft"
+msgstr "Sq Ft"
+
+#: admin/theme-functions.php:5524
+msgid "m²"
+msgstr "m2"
+
+#: admin/theme-functions.php:5566
+msgid "School District"
+msgstr "School District"
+
+#: admin/theme-functions.php:5568
+msgid "Building"
+msgstr "Byggnad"
+
+#: admin/theme-functions.php:5570
+msgid "Borough"
+msgstr "Borough"
+
+#: admin/theme-functions.php:5572
+msgid "Sector"
+msgstr "Sektorn"
+
+#: admin/theme-functions.php:5743
+msgid "All Property Types"
+msgstr "Alla Fastighetstyper"
+
+#: admin/theme-functions.php:5745
+msgid "All Countries"
+msgstr "Alla Länder"
+
+#: admin/theme-functions.php:5747
+msgid "All Counties"
+msgstr "Alla Län"
+
+#: admin/theme-functions.php:5781
+msgid "All Statuses"
+msgstr "Alla Statusar"
+
+#: admin/theme-functions.php:5783
+msgid "All Additional Features"
+msgstr "Alla Extra Funktioner"
+
+#: admin/theme-functions.php:5785
+msgid "All Neighborhoods"
+msgstr "Alla Stadsdelar"
+
+#: admin/theme-functions.php:5787
+msgid "All Districts"
+msgstr "Alla Distrikt"
+
+#: admin/theme-functions.php:5789
+msgid "All School Districts"
+msgstr "Alla Skoldistrikt"
+
+#: admin/theme-functions.php:5793
+msgid "All Buildings"
+msgstr "Alla Byggnader"
+
+#: admin/theme-functions.php:5795
+msgid "All Sectors"
+msgstr "Alla Sektorer"
+
+#: admin/theme-functions.php:5797
+msgid "All Communities"
+msgstr "Alla Samhällen"
+
+#: admin/theme-functions.php:5805
+msgid "Pet Friendly?"
+msgstr "Pet-Vänliga?"
+
+#: admin/theme-functions.php:5807
+msgid "Furnished/Unfurnished?"
+msgstr "Möblerad/Omöblerad?"
+
+#: admin/theme-functions.php:6024 includes/single-listing-yelp.php:165
+msgid "You need to setup the Yelp Fusion API."
+msgstr "Du måste installera den Yelp Fusion API."
+
+#: admin/theme-functions.php:6025 includes/single-listing-yelp.php:166
+msgid "Go into Admin > Real Estate 7 Options > What's Nearby? > Create App"
+msgstr "Gå till Admin - > Real Estate 7 Val > Vad\\'s i Närheten? > Skapa App"
+
+#: admin/theme-functions.php:6027
+msgid "You've reached the daily Yelp Fusion API limit."
+msgstr "You\\'ve nått den dagliga Yelp Fusion API-gräns."
+
+#: admin/theme-functions.php:6028
+msgid "Please visit https://www.yelp.com/developers/v3/manage_app"
+msgstr "Besök https://www.yelp.com/developers/v3/manage_app"
+
+#: admin/theme-functions.php:6030
+msgid "General 502 Error from Yelp Fusion API"
+msgstr "Allmänt 502 Fel från Yelp Fusion API"
+
+#: admin/theme-functions.php:6031 admin/theme-functions.php:6034
+msgid "Please check your server error logs."
+msgstr "Vänligen kontrollera din server fel-loggar."
+
+#: admin/theme-functions.php:6033
+msgid "General 500 Error from Yelp Fusion API"
+msgstr "Allmänt 500-Fel från Yelp Fusion API"
+
+#: admin/theme-functions.php:6036
+msgid "General Error from Yelp Fusion API"
+msgstr "Allmänt Fel från Yelp Fusion API"
+
+#: admin/theme-functions.php:6119
+msgid " km"
+msgstr " km"
+
+#: admin/theme-functions.php:6121
+msgid " mi"
+msgstr " mi"
+
+#: admin/theme-functions.php:6136
+msgid "reviews"
+msgstr "recensioner"
+
+#: admin/theme-functions.php:6209
+msgid "Unfortunately, your API key is over its quota."
+msgstr "Tyvärr, din API-nyckel är över sin kvot."
+
+#: admin/theme-functions.php:6215
+msgid "Unfortunately, there's no results nearby for this listing."
+msgstr "Tyvärr, finns det inget resultat i närheten för denna notering."
+
+#: admin/theme-functions.php:6221
+msgid ""
+"Unfortunately, your request was denied, generally because of lack of an "
+"invalid key parameter."
+msgstr ""
+"Tyvärr, din begäran avslogs, i allmänhet på grund av avsaknaden av ett "
+"ogiltigt viktig parameter."
+
+#: admin/theme-functions.php:6227
+msgid ""
+"Unfortunately, your request was invalid, generally due to wrong address "
+"information or lat/long coordinates."
+msgstr ""
+"Tyvärr, din förfrågan kunde ogiltig, i allmänhet på grund av att fel adress "
+"information eller lat/long koordinater."
+
+#: admin/theme-functions.php:6233
+msgid ""
+"A server-side error happened trying again may be successful, please "
+"shift+refresh the page."
+msgstr ""
+"En server-side fel uppstod försöker igen kan vara framgångsrik, vänligen "
+"skift uppdatera sidan."
+
+#: admin/theme-functions.php:6450
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Sökresultat för: %s"
+
+#: admin/theme-functions.php:6456
+#, php-format
+msgid "Author: %s"
+msgstr "Författare: %s"
+
+#: admin/theme-functions.php:6459
+#, php-format
+msgid "Day: %s"
+msgstr "Dag: %s"
+
+#: admin/theme-functions.php:6462
+#, php-format
+msgid "Month: %s"
+msgstr "Månad: %s"
+
+#: admin/theme-functions.php:6462
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: admin/theme-functions.php:6465
+#, php-format
+msgid "Year: %s"
+msgstr "År: %s"
+
+#: admin/theme-functions.php:6465
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: admin/theme-functions.php:6468
+msgid "Archives"
+msgstr "Arkiv"
+
+#: admin/theme-functions.php:6543
+msgid "Share This"
+msgstr "Dela Denna"
+
+#: admin/theme-functions.php:6546 admin/theme-functions.php:6547
+#: admin/theme-functions.php:6548 includes/post-social.php:16
+#: includes/post-social.php:17 includes/post-social.php:18
+msgid "Check out this great article on"
+msgstr "Kolla in denna fantastiska artikel på"
+
+#: admin/theme-functions.php:6587
+msgid "About The Author"
+msgstr "Om Författaren"
+
+#: admin/theme-functions.php:6644
+msgid "Related Posts"
+msgstr "Relaterade Inlägg"
+
+#: admin/theme-functions.php:6694
+msgid "<span class=\"meta-nav\">&larr;</span> Older"
+msgstr ""
+
+#: admin/theme-functions.php:6695
+msgid "Newer <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: admin/theme-functions.php:7203
+msgid ""
+"<span class=\"meta-nav\"><i class=\"fa fa-chevron-left\"></i></span> Older "
+"listings"
+msgstr ""
+
+#: admin/theme-functions.php:7204
+msgid ""
+"Newer listings <span class=\"meta-nav\"><i class=\"fa fa-chevron-right\"></i>"
+"</span>"
+msgstr ""
+
+#: admin/theme-functions.php:7226 admin/theme-functions.php:7227
+msgid "%link"
+msgstr "%länk"
+
+#: admin/theme-functions.php:7547
+msgid "g:i a"
+msgstr "g:jag ett"
+
+#: admin/theme-functions.php:7550
+#, php-format
+msgid "Minute %1$s"
+msgstr "Minuters %1$s"
+
+#: admin/theme-functions.php:7550
+msgid "i"
+msgstr "jag"
+
+#: admin/theme-functions.php:7553
+msgid "g a"
+msgstr "g a"
+
+#: admin/theme-functions.php:7564 admin/theme-functions.php:7570
+#: admin/theme-functions.php:7570 admin/theme-functions.php:7575
+#: admin/theme-functions.php:7575 admin/theme-functions.php:7580
+msgid "Y"
+msgstr "Y"
+
+#: admin/theme-functions.php:7565 admin/theme-functions.php:7576
+msgid "F"
+msgstr "F"
+
+#: admin/theme-functions.php:7566
+msgid "j"
+msgstr "j"
+
+#: admin/theme-functions.php:7571
+#, php-format
+msgid "Week %1$s"
+msgstr "Vecka %1$s"
+
+#: admin/theme-functions.php:7571
+msgid "W"
+msgstr "W"
+
+#: admin/theme-functions.php:7587
+#, php-format
+msgid "Search results for &quot;%1$s&quot;"
+msgstr "Sökresultat för "
+
+#: admin/theme-functions.php:7591
+msgid "404 Not Found"
+msgstr "404 Hittades Inte"
+
+#: includes/advanced-search.php:189 includes/header-advanced-search.php:191
+#: includes/header-advanced-search.php:454
+#: includes/widgets/ct-widget-listingssearch.php:200
+msgid "From"
+msgstr "Från"
+
+#: includes/advanced-search.php:198 includes/header-advanced-search.php:200
+#: includes/header-advanced-search.php:463
+#: includes/widgets/ct-widget-listingssearch.php:209
+msgid "To"
+msgstr "Till"
+
+#: includes/advanced-search.php:243 includes/header-advanced-search.php:249
+#: includes/header-advanced-search.php:508
+#: includes/header-advanced-search.php:509
+msgid "Keyword"
+msgstr "Nyckelord"
+
+#: includes/advanced-search.php:244 includes/header-advanced-search.php:250
+msgid "Street, City, State, Zip or keyword"
+msgstr "Gata, Stad, Postnummer eller sökord"
+
+#: includes/advanced-search.php:260
+#: includes/widgets/ct-widget-listingssearch.php:270
+msgid "More Search Options"
+msgstr "Fler Sökalternativ"
+
+#: includes/agent-contact-modal.php:21 includes/single-listing-home.php:269
+#: includes/widgets/ct-widget-listingscontact.php:30
+msgid "Tell me more about this property"
+msgstr "Berätta mer om denna fastighet"
+
+#: includes/featured-listings.php:31 includes/featured-listings.php:33
+msgid "View All"
+msgstr "Visa Alla"
+
+#: includes/header-advanced-search.php:252
+#: includes/home-hero-advanced-search.php:22
+msgid "Searching..."
+msgstr "Söker..."
+
+#: includes/header-advanced-search.php:292
+#: includes/home-hero-advanced-search.php:21
+msgid "Enter a street address or keyword"
+msgstr "Ange en gatuadress eller sökord"
+
+#: includes/header-advanced-search.php:408
+msgid "Addtional Features"
+msgstr "Ytterligare Funktioner"
+
+#: includes/home-listings-count.php:32
+msgid "Homes For Sale"
+msgstr "Bostäder Till Salu"
+
+#: includes/home-listings-count.php:84
+msgid "Recently Sold"
+msgstr "Nyligen Sålt"
+
+#: includes/home-listings-count.php:110
+msgid "Reduced"
+msgstr "Minskad"
+
+#: includes/home-listings-count.php:136
+msgid "For Rent"
+msgstr "Uthyres"
+
+#: includes/home-listings-count.php:162
+msgid "Leased"
+msgstr "Leasade"
+
+#: includes/home-listings-count.php:214
+msgid "New Additions"
+msgstr "Nya Tillägg"
+
+#: includes/home-listings-count.php:240
+msgid "Special Offers"
+msgstr "Speciella Erbjudanden"
+
+#: includes/single-listing-attachments.php:20
+#: includes/single-listing-sub-navigation.php:106
+msgid "Attachments"
+msgstr "Bifogade filer"
+
+#: includes/single-listing-booking-calendar.php:17
+#: includes/single-listing-home.php:155
+msgid "Book this listing"
+msgstr "Boka denna lista"
+
+#: includes/single-listing-contact.php:106
+msgid "Agent #"
+msgstr ""
+
+#: includes/single-listing-contact.php:203 includes/single-listing-home.php:265
+msgid "Request More Information"
+msgstr "Begär Mer Information"
+
+#: includes/single-listing-contact.php:216
+msgid "Tell me more about this listing"
+msgstr "Berätta mer om denna notering"
+
+#: includes/single-listing-contact.php:257 includes/single-listing-home.php:296
+msgid "Co-listing Agent"
+msgstr "Co-listing Agent"
+
+#: includes/single-listing-energy-efficiency.php:21
+msgid "Energy Efficiency"
+msgstr "Energieffektivitet"
+
+#: includes/single-listing-energy-efficiency.php:26
+msgid "Energy Class"
+msgstr "Energi Klass"
+
+#: includes/single-listing-energy-efficiency.php:29
+msgid "Global Energy Performance"
+msgstr "Global Energi Prestanda"
+
+#: includes/single-listing-energy-efficiency.php:32
+msgid "Renewable Energy Performance"
+msgstr "Förnybar Energi Prestanda"
+
+#: includes/single-listing-energy-efficiency.php:35
+msgid "Building Energy Performance"
+msgstr "Byggnads Energiprestanda"
+
+#: includes/single-listing-google-places.php:23
+#: includes/single-listing-yelp.php:23
+#: admin/ReduxFramework/theme-options/re7-config.php:3726
+msgid "What's Nearby?"
+msgstr "Vad\\'s i Närheten?"
+
+#: includes/single-listing-google-places.php:66
+#: includes/single-listing-yelp.php:41
+msgid "Restaurants"
+msgstr "Restauranger"
+
+#: includes/single-listing-google-places.php:75
+#: includes/single-listing-yelp.php:49
+msgid "Coffee Shops"
+msgstr "Kaffe Butiker"
+
+#: includes/single-listing-google-places.php:84
+#: includes/single-listing-yelp.php:121
+msgid "Stores"
+msgstr "Butiker"
+
+#: includes/single-listing-google-places.php:93
+#: includes/single-listing-yelp.php:65
+msgid "Education"
+msgstr "Utbildning"
+
+#: includes/single-listing-google-places.php:102
+msgid "Banks"
+msgstr "Banker"
+
+#: includes/single-listing-google-places.php:111
+#: includes/single-listing-yelp.php:81
+msgid "Bars"
+msgstr "Barer"
+
+#: includes/single-listing-google-places.php:120
+#: includes/single-listing-yelp.php:89
+msgid "Hospitals"
+msgstr "Sjukhus"
+
+#: includes/single-listing-google-places.php:129
+#: includes/single-listing-yelp.php:97
+msgid "Gas Stations"
+msgstr "Bensinstationer"
+
+#: includes/single-listing-google-places.php:138
+#: includes/single-listing-yelp.php:105
+msgid "Transit Stations"
+msgstr "Transitstationer"
+
+#: includes/single-listing-google-places.php:147
+#: includes/single-listing-yelp.php:113
+msgid "Convenience Stores"
+msgstr "Närbutiker"
+
+#: includes/single-listing-google-places.php:156
+#: includes/single-listing-yelp.php:129
+msgid "Shopping Malls"
+msgstr "Köpcentrum"
+
+#: includes/single-listing-google-places.php:165
+#: includes/single-listing-yelp.php:137
+msgid "Veterinary Care"
+msgstr "Veterinärvård"
+
+#: includes/single-listing-google-places.php:174
+#: includes/single-listing-yelp.php:145
+msgid "Pet Store"
+msgstr "Pet Store"
+
+#: includes/single-listing-google-places.php:183
+#: includes/single-listing-yelp.php:153
+msgid "Park"
+msgstr "Park"
+
+#: includes/single-listing-google-places.php:196
+msgid "Google Places/What's Nearby? Error."
+msgstr "Google Places/Vad\\'s i Närheten? Felet."
+
+#: includes/single-listing-google-places.php:197
+msgid ""
+"You need to create an API key go into Admin > Real Estate 7 Options > Google "
+"Maps > API Key, then setup the options via Real Estate 7 Options > \"What's "
+"Nearby?\" panel."
+msgstr ""
+"Du behöver för att skapa en API-nyckel gå till Admin - > Real Estate 7 Val > "
+"Google Maps > API-Nyckel, då setup alternativ via Fastigheter 7 Val > "
+"\"Det\\'s i Närheten?\" - panelen."
+
+#: includes/single-listing-header.php:38 includes/single-listing-header.php:81
+#: includes/single-listing-home.php:74
+msgid "Co-listing"
+msgstr "Co-lista"
+
+#: includes/single-listing-home.php:135
+#: includes/single-listing-rental-info.php:47
+msgid "Prices"
+msgstr "Priser"
+
+#: includes/single-listing-home.php:365
+msgid "Share This Listing"
+msgstr "Dela Denna Lista"
+
+#: includes/single-listing-map.php:27
+msgid "Enter your starting address"
+msgstr "Ange din start adress"
+
+#: includes/single-listing-map.php:43
+msgid "get directions"
+msgstr "få en vägbeskrivning"
+
+#: includes/single-listing-multi-floorplan.php:21
+msgid "Floor Plans & Pricing"
+msgstr "Planritningar "
+
+#: includes/single-listing-multi-floorplan.php:40
+msgid "Size"
+msgstr "Storlek"
+
+#: includes/single-listing-multi-floorplan.php:46
+msgid "Availability"
+msgstr "Tillgänglighet"
+
+#: includes/single-listing-open-house.php:35
+msgid "Time"
+msgstr "Tid"
+
+#: includes/single-listing-open-house.php:38
+#: includes/single-listing-open-house.php:80
+msgid "RSVP"
+msgstr "OSA"
+
+#: includes/single-listing-rental-info.php:25
+msgid "Rental Information"
+msgstr "Hyra Information"
+
+#: includes/single-listing-sub-listings.php:21
+msgid "Other Listings in Neighborhood"
+msgstr "Andra Listor i Närheten"
+
+#: includes/single-listing-sub-listings.php:23
+msgid "Other Listings in Suburb"
+msgstr "Andra Listor i Förort"
+
+#: includes/single-listing-sub-listings.php:25
+msgid "Other Listings in District"
+msgstr "Andra Listor i Distriktet"
+
+#: includes/single-listing-sub-listings.php:27
+msgid "Other Listings in School District"
+msgstr "Andra Listor i Skolan Distrikt"
+
+#: includes/single-listing-sub-listings.php:29
+msgid "Other Listings in Building"
+msgstr "Andra Listor i Byggnad"
+
+#: includes/single-listing-sub-listings.php:31
+msgid "Other Listings in Borough"
+msgstr "Andra Listor i Borough"
+
+#: includes/single-listing-sub-listings.php:33
+msgid "Other Listings in Community"
+msgstr "Andra Listor i Gemenskapen"
+
+#: includes/single-listing-sub-navigation.php:34
+msgid "Description"
+msgstr "Beskrivning"
+
+#: includes/single-listing-sub-navigation.php:61
+msgid "Floor Plans"
+msgstr "Planritningar"
+
+#: includes/single-listing-sub-navigation.php:87
+msgid "Features"
+msgstr "Funktioner"
+
+#: includes/single-listing-sub-navigation.php:96
+msgid "Booking"
+msgstr "Bokning"
+
+#: includes/single-listing-sub-navigation.php:117
+#: includes/single-listing-video.php:16
+msgid "Video"
+msgstr "Video"
+
+#: includes/single-listing-sub-navigation.php:127
+msgid "Tour"
+msgstr "Tur"
+
+#: includes/single-listing-sub-navigation.php:142
+msgid "Nearby"
+msgstr "I närheten"
+
+#: includes/single-listing-sub-navigation.php:163
+msgid "Listing Features"
+msgstr "Notering Funktioner"
+
+#: includes/single-listing-virtual-tour.php:19
+msgid "Virtual Tour"
+msgstr "Virtuell Tur"
+
+#: includes/single-listing-yelp.php:22
+msgid "powered by "
+msgstr "drivs av "
+
+#: includes/single-listing-yelp.php:57
+msgid "Grocery"
+msgstr "Livsmedelsbutik"
+
+#: includes/single-listing-yelp.php:73
+msgid "Bank"
+msgstr "Bank"
+
+#: layouts/blog-grid.php:96 layouts/blog-large.php:96
+msgid "Read More"
+msgstr "Läs Mer"
+
+#: layouts/grid.php:22 layouts/list.php:23
+msgid "This agent currently has no active listings."
+msgstr "Denna agent har för närvarande inga aktiva annonser."
+
+#: layouts/grid.php:24 layouts/list.php:25
+msgid "This brokerage currently has no active listings."
+msgstr "Denna förmedling har för närvarande inga aktiva annonser."
+
+#: layouts/grid.php:26 layouts/list.php:27
+msgid "No properties were found which match your search criteria"
+msgstr "Inga fastigheter som matchar dina sökkriterier"
+
+#: layouts/saved-search-list.php:57 includes/widgets/ct-widget-tabs.php:214
+msgid "on"
+msgstr "på"
+
+#: layouts/saved-search-list.php:57
+msgid "On"
+msgstr "På"
+
+#: layouts/saved-search-list.php:58
+msgid "off"
+msgstr "mindre"
+
+#: layouts/saved-search-list.php:58
+msgid "Off"
+msgstr "Mindre"
+
+#: admin/ct-social/ct-social.php:28
+msgid "CT Social"
+msgstr "CT Sociala"
+
+#: admin/ct-social/ct-social.php:126
+#: includes/widgets/ct-widget-agentinfo.php:106
+#: includes/widgets/ct-widget-agentsotherlistings.php:286
+#: includes/widgets/ct-widget-blogauthor.php:60
+#: includes/widgets/ct-widget-brokerinfo.php:78
+#: includes/widgets/ct-widget-contactinfo.php:141
+#: includes/widgets/ct-widget-latestposts.php:70
+#: includes/widgets/ct-widget-listings.php:129
+#: includes/widgets/ct-widget-listingscontact.php:68
+#: includes/widgets/ct-widget-listingssearch.php:294
+#: includes/widgets/ct-widget-search.php:40
+#: includes/widgets/ct-widget-testimonials.php:62
+msgid "Title:"
+msgstr "Titel:"
+
+#: admin/ct-social/ct-social.php:130
+msgid "Dribbble:"
+msgstr "Dribbble:"
+
+#: admin/ct-social/ct-social.php:134
+#: includes/widgets/ct-widget-contactinfo.php:177
+msgid "Email:"
+msgstr "E-post:"
+
+#: admin/ct-social/ct-social.php:138
+#: includes/widgets/ct-widget-contactinfo.php:181
+msgid "Facebook:"
+msgstr "Facebook:"
+
+#: admin/ct-social/ct-social.php:142
+msgid "Flickr:"
+msgstr "Flickr:"
+
+#: admin/ct-social/ct-social.php:146
+msgid "Foursquare:"
+msgstr "Foursquare:"
+
+#: admin/ct-social/ct-social.php:150
+msgid "GitHub:"
+msgstr "GitHub:"
+
+#: admin/ct-social/ct-social.php:154
+#: includes/widgets/ct-widget-contactinfo.php:189
+msgid "Google+:"
+msgstr "Google :"
+
+#: admin/ct-social/ct-social.php:158
+#: includes/widgets/ct-widget-contactinfo.php:201
+msgid "Instagram:"
+msgstr "Instagram:"
+
+#: admin/ct-social/ct-social.php:162
+#: includes/widgets/ct-widget-contactinfo.php:193
+msgid "LinkedIn:"
+msgstr "LinkedIn:"
+
+#: admin/ct-social/ct-social.php:166
+msgid "Medium:"
+msgstr "Medium:"
+
+#: admin/ct-social/ct-social.php:170
+#: includes/widgets/ct-widget-contactinfo.php:197
+msgid "Pinterest:"
+msgstr "Pinterest:"
+
+#: admin/ct-social/ct-social.php:174
+msgid "Skype:"
+msgstr "Skype:"
+
+#: admin/ct-social/ct-social.php:178
+#: includes/widgets/ct-widget-contactinfo.php:185
+msgid "Twitter:"
+msgstr "Twitter:"
+
+#: admin/ct-social/ct-social.php:182
+msgid "YouTube:"
+msgstr "YouTube:"
+
+#: admin/ct-social/ct-social.php:186
+msgid "Links:"
+msgstr "Länkar:"
+
+#: admin/getting-started/getting-started.php:91
+#, php-format
+msgid "Getting started with %1$s v%2$s"
+msgstr "Komma igång med %1$s v%2$s"
+
+#: admin/getting-started/getting-started.php:93
+#, php-format
+msgid ""
+"Thanks for purchasing %1$s! I truly appreciate the support and the "
+"opportunity to share my work with you. Please visit the tabs below to get "
+"started setting up your theme!"
+msgstr ""
+"Tack för att du köper %1$s! Jag verkligen uppskattar det stöd och möjlighet "
+"att dela mitt arbete med dig. Besök flikarna nedan för att komma igång "
+"ställa upp ditt tema!"
+
+#: admin/getting-started/getting-started.php:99
+msgid "Start Here"
+msgstr "Börja Här"
+
+#: admin/getting-started/getting-started.php:100
+msgid "Plugins"
+msgstr "Plugins"
+
+#: admin/getting-started/getting-started.php:101
+msgid "FAQ &amp; Support"
+msgstr "FAQ "
+
+#: admin/getting-started/getting-started.php:102
+msgid "Latest Updates"
+msgstr "Senaste Uppdateringar"
+
+#: admin/getting-started/getting-started.php:110
+#, php-format
+msgid "Installing %s"
+msgstr "Installation av %s"
+
+#: admin/getting-started/getting-started.php:116
+#: admin/ReduxFramework/theme-options/re7-config.php:5267
+msgid "Documentation"
+msgstr "Dokumentation"
+
+#: admin/getting-started/getting-started.php:170
+msgid "Required & Recommended Plugins"
+msgstr "Krävs "
+
+#: admin/getting-started/getting-started.php:172
+msgid ""
+"Below is a list of required and recommended plugins to install that will "
+"help you get the most out of WP Pro Real Estate 7. To begin please use the "
+"button below or browse through the list to learn about each one in a little "
+"more detail."
+msgstr ""
+"Nedan är en lista över nödvändiga och rekommenderade plugins att installera "
+"som kommer att hjälpa dig att få ut det mesta av WP Pro Fastigheter 7. Börja "
+"använd knappen nedan eller bläddra igenom listan för att läsa mer om var och "
+"en i lite mer detalj."
+
+#: admin/getting-started/getting-started.php:178
+#: admin/getting-started/getting-started.php:190
+#: admin/plugins/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr "Krävs"
+
+#: admin/getting-started/getting-started.php:178 admin/plugins/register.php:66
+msgid "Redux Framework"
+msgstr "Redux Ram"
+
+#: admin/getting-started/getting-started.php:180
+msgid "Install Redux Framework"
+msgstr "Installera Redux Ram"
+
+#: admin/getting-started/getting-started.php:180
+#: admin/getting-started/getting-started.php:192
+#: admin/getting-started/getting-started.php:204
+#: admin/getting-started/getting-started.php:216
+#: admin/getting-started/getting-started.php:228
+#: admin/getting-started/getting-started.php:240
+#: admin/getting-started/getting-started.php:252
+#: admin/getting-started/getting-started.php:264
+#: admin/getting-started/getting-started.php:276
+#: admin/getting-started/getting-started.php:288
+#: admin/getting-started/getting-started.php:300
+#: admin/getting-started/getting-started.php:315
+#: admin/getting-started/getting-started.php:327
+#: admin/getting-started/getting-started.php:339
+#: admin/getting-started/getting-started.php:351
+#: admin/getting-started/getting-started.php:363
+#: admin/getting-started/getting-started.php:375
+#: admin/getting-started/getting-started.php:387
+msgid "Install Now"
+msgstr "Installera Nu"
+
+#: admin/getting-started/getting-started.php:182
+#: admin/getting-started/getting-started.php:194
+#: admin/getting-started/getting-started.php:206
+#: admin/getting-started/getting-started.php:218
+#: admin/getting-started/getting-started.php:230
+#: admin/getting-started/getting-started.php:242
+#: admin/getting-started/getting-started.php:254
+#: admin/getting-started/getting-started.php:266
+#: admin/getting-started/getting-started.php:278
+#: admin/getting-started/getting-started.php:290
+#: admin/getting-started/getting-started.php:302
+#: admin/getting-started/getting-started.php:317
+#: admin/getting-started/getting-started.php:329
+#: admin/getting-started/getting-started.php:341
+#: admin/getting-started/getting-started.php:353
+#: admin/getting-started/getting-started.php:365
+#: admin/getting-started/getting-started.php:377
+#: admin/getting-started/getting-started.php:389
+msgid "Installed"
+msgstr "Installerade"
+
+#: admin/getting-started/getting-started.php:186
+msgid "This plugin is used for the admin options framework."
+msgstr "Detta plugin används för admin alternativ ram."
+
+#: admin/getting-started/getting-started.php:190 admin/plugins/register.php:72
+msgid "Contempo Real Estate Custom Posts"
+msgstr "Contempo Fastigheter Egna Inlägg"
+
+#: admin/getting-started/getting-started.php:192
+msgid "Install Contempo Real Estate Custom Posts"
+msgstr "Installera Contempo Fastigheter Egna Inlägg"
+
+#: admin/getting-started/getting-started.php:198
+msgid ""
+"This plugin registers the listings, brokerages & testimonials custom post "
+"types, along with related custom fields & taxonomies, as well as all the "
+"custom Visual Composer modules (if you have the Visual Composer plugin "
+"installed & activated)."
+msgstr "Detta plugin register listor, mäklarhus "
+
+#: admin/getting-started/getting-started.php:202
+#: admin/getting-started/getting-started.php:214
+#: admin/getting-started/getting-started.php:226
+#: admin/getting-started/getting-started.php:238
+#: admin/getting-started/getting-started.php:250
+#: admin/getting-started/getting-started.php:262
+#: admin/getting-started/getting-started.php:274
+#: admin/getting-started/getting-started.php:286
+#: admin/getting-started/getting-started.php:298
+#: admin/getting-started/getting-started.php:313
+#: admin/getting-started/getting-started.php:325
+#: admin/getting-started/getting-started.php:337
+#: admin/getting-started/getting-started.php:349
+#: admin/getting-started/getting-started.php:361
+#: admin/getting-started/getting-started.php:373
+#: admin/getting-started/getting-started.php:385
+#: admin/plugins/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr "Rekommenderas"
+
+#: admin/getting-started/getting-started.php:202 admin/plugins/register.php:132
+msgid "Contempo Membership & Packages"
+msgstr "Contempo Medlemskap "
+
+#: admin/getting-started/getting-started.php:204
+msgid "Install Contempo Membership & Packages"
+msgstr "Installera Contempo Medlemskap "
+
+#: admin/getting-started/getting-started.php:210
+msgid ""
+"This plugin adds the ability to create membership & packages for use with "
+"the front end submission system in WP Pro Real Estate 7, with Stripe, PayPal "
+"& Wire Transfer payment methods."
+msgstr "Denna plugin ger möjlighet att skapa medlemskap "
+
+#: admin/getting-started/getting-started.php:214 admin/plugins/register.php:176
+msgid "Contempo Saved Searches & Email Alerts"
+msgstr "Contempo Sparade Sökningar "
+
+#: admin/getting-started/getting-started.php:216
+msgid "Install Contempo Saved Searches & Email Alerts"
+msgstr "Installera Contempo Sparade Sökningar "
+
+#: admin/getting-started/getting-started.php:222
+msgid "This plugin allows users be alerted via email when a listing is added."
+msgstr ""
+"Detta plugin gör att användare meddelas via e-post när en lista är tillagd."
+
+#: admin/getting-started/getting-started.php:226 admin/plugins/register.php:165
+msgid "Contempo Compare Listings"
+msgstr "Contempo Jämföra Listor"
+
+#: admin/getting-started/getting-started.php:228
+#: admin/getting-started/getting-started.php:252
+msgid "Install Contempo Compare Listings"
+msgstr "Installera Contempo Jämföra Listor"
+
+#: admin/getting-started/getting-started.php:234
+msgid "This plugin adds compare functionality for listings."
+msgstr "Detta plugin lägger jämföra funktioner för listor."
+
+#: admin/getting-started/getting-started.php:238 admin/plugins/register.php:154
+msgid "Contempo Mortgage Calculator Widget"
+msgstr "Contempo Mortgage Calculator Widget"
+
+#: admin/getting-started/getting-started.php:240
+msgid "Install Contempo Mortgage Calculator Widget"
+msgstr "Installera Contempo Mortgage Calculator Widget"
+
+#: admin/getting-started/getting-started.php:246
+msgid "This plugin enables a simple mortgage calculator widget."
+msgstr "Detta plugin gör en enkel mortgage calculator widget."
+
+#: admin/getting-started/getting-started.php:250 admin/plugins/register.php:187
+msgid "Contempo Child Theme Generator"
+msgstr "Contempo Barn Tema Generator"
+
+#: admin/getting-started/getting-started.php:258
+msgid ""
+"This plugin allows admin users to easily generate a child theme from your "
+"Admin > Appearance panel."
+msgstr ""
+"Detta plugin gör att admin-användare att enkelt generera ett barn tema från "
+"din Admin - > Utseende-panelen."
+
+#: admin/getting-started/getting-started.php:262
+msgid "Contempo Payment Gateways"
+msgstr "Contempo Betalning Gateways"
+
+#: admin/getting-started/getting-started.php:264
+msgid "Install Contempo Payment Gateways"
+msgstr "Installera Contempo Betalning Gateways"
+
+#: admin/getting-started/getting-started.php:270
+msgid ""
+"This plugin enables the PayPal API and only required if you're going to be "
+"charging single listing payments from the front end of the site, if you're "
+"using the Membership & Packages plugin leave this plugin deactivated."
+msgstr ""
+"Denna plugin gör det möjligt för Paypals API och krävs endast om du\\'re "
+"kommer att laddas enda notering betalningar från den främre änden av "
+"webbplatsen, om du\\'re hjälp Medlemskap "
+
+#: admin/getting-started/getting-started.php:274 admin/plugins/register.php:198
+msgid "Slider Revolution"
+msgstr "Reglaget Revolution"
+
+#: admin/getting-started/getting-started.php:276
+msgid "Install Slider Revolution"
+msgstr "Installera Reglaget Revolution"
+
+#: admin/getting-started/getting-started.php:282
+msgid ""
+"Slider Revolution is an innovative, responsive WordPress Slider Plugin that "
+"displays your content the beautiful way."
+msgstr ""
+"Reglaget Revolutionen är en innovativ, lyhörd WordPress Reglaget Plugin som "
+"visar ditt innehåll på vackra sätt."
+
+#: admin/getting-started/getting-started.php:286
+msgid "Visual Composer"
+msgstr "Visuell Kompositör"
+
+#: admin/getting-started/getting-started.php:288
+msgid "Install Visual Composer"
+msgstr "Installera Visual Kompositör"
+
+#: admin/getting-started/getting-started.php:294
+msgid ""
+"WordPress Page Builder plugin with intuitive drag and drop interface. Build "
+"any page fast and easy. Unlimited layouts for your website."
+msgstr ""
+"WordPress-Sida Builder plugin med intuitiva dra-och-släpp-gränssnitt. Bygga "
+"vilken sida som helst snabbt och enkelt. Obegränsad layouter för din "
+"webbplats."
+
+#: admin/getting-started/getting-started.php:298
+msgid "WPML"
+msgstr "WPML"
+
+#: admin/getting-started/getting-started.php:300
+msgid "Install WPML"
+msgstr "Installerar WPML"
+
+#: admin/getting-started/getting-started.php:308
+#, php-format
+msgid ""
+"<a href=\"%s\" target=\"_blank\">WPML</a> allows running fully multilingual "
+"websites with WordPress, making it easy to translate WordPress pages, posts, "
+"tags, categories and themes."
+msgstr ""
+
+#: admin/getting-started/getting-started.php:313
+#: admin/getting-started/getting-started.php:337 admin/plugins/register.php:86
+msgid "WordPress Social Login"
+msgstr "WordPress Social Login"
+
+#: admin/getting-started/getting-started.php:315
+#: admin/getting-started/getting-started.php:327
+msgid "Install WP Favorite Posts"
+msgstr "Installera WP Favorit Inlägg"
+
+#: admin/getting-started/getting-started.php:321
+msgid ""
+"This plugin allows users to login/register with their social profiles like "
+"Facebook, Google, Twitter, etc&hellip;"
+msgstr ""
+"Denna plugin gör det möjligt för användare att logga in/registrera med deras "
+"sociala profiler som Facebook, Google, Twitter, etc"
+
+#: admin/getting-started/getting-started.php:325 admin/plugins/register.php:121
+#: admin/ReduxFramework/theme-options/re7-config.php:4834
+msgid "WP Favorite Posts"
+msgstr "WP Favorit Inlägg"
+
+#: admin/getting-started/getting-started.php:333
+msgid ""
+"This plugin allows users to favorite & save listings from the front end of "
+"the site."
+msgstr "Detta plugin gör att användare till favorit "
+
+#: admin/getting-started/getting-started.php:339
+msgid "Install WordPress Social Login"
+msgstr "Installera WordPress Social Login"
+
+#: admin/getting-started/getting-started.php:345
+msgid ""
+"This plugin allows users to login/register for your site via social networks "
+"like Facebook, Google, Twitter, etc&hellip;"
+msgstr ""
+"Denna plugin gör det möjligt för användare att logga in/registrera dig för "
+"att din webbplats via sociala nätverk som Facebook, Google, Twitter, etc"
+
+#: admin/getting-started/getting-started.php:349 admin/plugins/register.php:92
+msgid "Booking Calendar"
+msgstr "Bokning Kalender"
+
+#: admin/getting-started/getting-started.php:351
+msgid "Install Booking Calendar"
+msgstr "Installera Bokning Kalender"
+
+#: admin/getting-started/getting-started.php:357
+msgid ""
+"This plugin will enable online booking services, however you're free to use "
+"whatever booking plugin you'd like as long as it supports shortcodes."
+msgstr ""
+"Denna plugin kommer att aktivera online-bokning tjänster, men du\\'re gratis "
+"att använda oavsett bokning plugin du'd vill så länge som det stöd för "
+"kortkoder."
+
+#: admin/getting-started/getting-started.php:361 admin/plugins/register.php:98
+msgid "Co-Authors Plus"
+msgstr "Medförfattare Plus"
+
+#: admin/getting-started/getting-started.php:363
+msgid "Install Co-Authors Plus"
+msgstr "Installera Co-Författare Plus"
+
+#: admin/getting-started/getting-started.php:369
+msgid ""
+"This plugin allows you to assign multiple users or agents to listings, "
+"perfect for co-listings."
+msgstr ""
+"Detta plugin gör att du kan tilldela flera användare eller agenter för att "
+"listor, perfekt för co-listor."
+
+#: admin/getting-started/getting-started.php:373 admin/plugins/register.php:104
+msgid "Comments Ratings"
+msgstr "Kommentarer Betyg"
+
+#: admin/getting-started/getting-started.php:375
+msgid "Install Comments Ratings"
+msgstr "Installera Kommentarer Betyg"
+
+#: admin/getting-started/getting-started.php:381
+msgid "This plugin allows you to enable ratings for your listings."
+msgstr "Detta plugin låter dig aktivera betyg för dina uppgifter."
+
+#: admin/getting-started/getting-started.php:385 admin/plugins/register.php:220
+msgid "Envato Market"
+msgstr "Envato Marknaden"
+
+#: admin/getting-started/getting-started.php:387
+msgid "Install Envato Market"
+msgstr "Installera Envato Marknaden"
+
+#: admin/getting-started/getting-started.php:393
+msgid ""
+"This plugin allows you to easily get theme updates through your WordPress "
+"admin."
+msgstr ""
+"Denna plugin kan du enkelt få tema uppdateringar via din WordPress admin."
+
+#: admin/getting-started/getting-started.php:402
+#, php-format
+msgid "Support for %s?"
+msgstr "Stöd för %s?"
+
+#: admin/getting-started/getting-started.php:408
+#, php-format
+msgid ""
+"If you've read through the <a href=\"%1$s\" target=\"_blank\">"
+"documentation</a> and still have questions or are experiencing issues, I'm "
+"happy to help! Simply <a href=\"%2$s\"  target=\"_blank\" title=\"Open a "
+"live chat\">open a live chat</a> or <a href=\"%3$s\" target=\"_blank\">leave "
+"a comment</a> on the item page and I'll personally get back to you, thanks "
+"in advance for your patience."
+msgstr ""
+
+#: admin/getting-started/getting-started.php:411
+#, php-format
+msgid "FAQ for %s?"
+msgstr "FAQ för %s?"
+
+#: admin/getting-started/getting-started.php:414
+msgid ""
+"The following articles below cover many frequently asked questions that you "
+"may have."
+msgstr "Följande artiklar att omfatta många vanliga frågor som du kan ha."
+
+#: admin/getting-started/getting-started.php:460
+msgid "Need Modifications or Customizations?"
+msgstr "Behöver Ändringar eller Anpassningar?"
+
+#: admin/getting-started/getting-started.php:465
+#, php-format
+msgid ""
+"Send me an email <a href=\"mailto:%s\">chris@contempothemes.com</a>, with a "
+"detailed outline of what you’d like to accomplish and I’ll get you a quote "
+"and turnaround time."
+msgstr ""
+
+#: admin/getting-started/getting-started.php:474
+#, php-format
+msgid ""
+"Please note that support requests will not be answered via email, only "
+"through my <a href=\"%1$s\" target=\"_blank\">live chat</a> or within the <a "
+"href=\"%2$s\" target=\"_blank\">item comments</a>."
+msgstr ""
+
+#: admin/getting-started/getting-started.php:484
+msgid "Hosting Recommendations"
+msgstr "Hosting Rekommendationer"
+
+#: admin/getting-started/getting-started.php:498
+#: admin/getting-started/getting-started.php:501
+msgid "Visit the Knowledge Base"
+msgstr "Besök Knowledge Base"
+
+#: admin/getting-started/getting-started.php:499
+msgid ""
+"New to the WordPress world? The Knowledge Base has a boat load of articles "
+"to help you with any issues that might arise."
+msgstr ""
+"Ny till WordPress världen? Den Kunskap som Bas har en båt belastning av "
+"artiklar för att hjälpa dig med alla frågor som kan uppstå."
+
+#: admin/getting-started/getting-started.php:501
+msgid "Visit the knowledge base"
+msgstr "Besök knowledge base"
+
+#: admin/google-places/GooglePlaces.php:149
+#: admin/google-places/GooglePlaces.php:165
+#: admin/google-places/GooglePlaces.php:182
+msgid "Google Places API is currently unavailable."
+msgstr "Google Places API är tillgänglig för närvarande."
+
+#: admin/google-places/GooglePlaces.php:151
+msgid ""
+"You must specify a valid listing location, use street address in the listing "
+"title along with city, state & zip/postcode — if not use the optional "
+"latitude & longitude field."
+msgstr ""
+"Du måste ange en giltig notering läge, använd street adress i listan titel "
+"tillsammans med stad, stat "
+
+#: admin/google-places/GooglePlaces.php:167
+#: admin/google-places/GooglePlaces.php:207
+msgid ""
+"You much specify at least one of the following: \"keyword\", \"name\", "
+"\"types\"."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Du mycket ange minst en av följande: \"sökord\", \"namn\", \"typ\"."
+msgstr[1] "Detta tema kräver följande plugins: %1$s."
+
+#: admin/google-places/GooglePlaces.php:184
+#: admin/google-places/GooglePlaces.php:201
+msgid "You must specify a radius."
+msgstr "Du måste ange en radie."
+
+#: admin/google-places/GooglePlaces.php:197
+msgid "You must specify a location before calling radarsearch()."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Du måste ange en plats innan du ringer radarsearch()."
+msgstr[1] "Detta tema rekommenderar följande plugins: %1$s."
+
+#: admin/google-places/GooglePlaces.php:221
+msgid ""
+"You must specify either a \"placeid\" or a \"reference\" (but not both) "
+"before calling details()."
+msgstr ""
+"Du måste antingen ange en \"placeid\" eller en \"referens\" (men inte båda) "
+"innan du ringer detaljer()."
+
+#: admin/plugins/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] "Installera Nödvändiga Plugins"
+msgstr[1] ""
+"Följande plugins behöver uppdateras till den senaste versionen för att "
+"säkerställa maximal kompatibilitet med detta tema: %1$s."
+
+#: admin/plugins/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr "Installera Plugins"
+
+#. %s: plugin name.
+#: admin/plugins/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Installera Plugin: %s"
+msgstr[1] "Det finns uppdateringar tillgängliga för de följande plugins: %1$s."
+
+#. %s: plugin name.
+#: admin/plugins/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr "Uppdatera Plugin: %s"
+
+#: admin/plugins/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Något gick fel med plugin API."
+msgstr[1] "Följande krävs plugins är för närvarande inaktiv: %1$s."
+
+#: admin/plugins/class-tgm-plugin-activation.php:341
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgstr "Detta tema kräver följande plugin: %1$s."
+
+#: admin/plugins/class-tgm-plugin-activation.php:347
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgstr "Detta tema rekommenderar följande plugin: %1$s."
+
+#: admin/plugins/class-tgm-plugin-activation.php:353
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr ""
+"Följande plugin behöver uppdateras till den senaste versionen för att "
+"säkerställa maximal kompatibilitet med detta tema: %1$s."
+
+#: admin/plugins/class-tgm-plugin-activation.php:359
+#, php-format
+msgid "There is an update available for: %1$s."
+msgstr "Det finns en uppdatering tillgänglig för: %1$s."
+
+#: admin/plugins/class-tgm-plugin-activation.php:365
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgstr "Följande krävs för plugin är för närvarande inaktiv: %1$s."
+
+#: admin/plugins/class-tgm-plugin-activation.php:371
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgstr "Följande rekommenderade plugin är för närvarande inaktiv: %1$s."
+
+#: admin/plugins/class-tgm-plugin-activation.php:377
+msgid "Begin installing plugin"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "Börja med att installera plugin"
+msgstr[1] "Följande plugins var aktiverats:"
+
+#: admin/plugins/class-tgm-plugin-activation.php:382
+msgid "Begin updating plugin"
+msgstr "Börja uppdatera plugin"
+
+#: admin/plugins/class-tgm-plugin-activation.php:387
+msgid "Begin activating plugin"
+msgstr "Börja med att aktivera plugin"
+
+#: admin/plugins/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr "Tillbaka till Nödvändiga Plugins Installer"
+
+#: admin/plugins/class-tgm-plugin-activation.php:393
+#: admin/plugins/class-tgm-plugin-activation.php:912
+#: admin/plugins/class-tgm-plugin-activation.php:2618
+#: admin/plugins/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr "Tillbaka till Översikten"
+
+#: admin/plugins/class-tgm-plugin-activation.php:394
+#: admin/plugins/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr "Plugin aktiverats."
+
+#: admin/plugins/class-tgm-plugin-activation.php:395
+#: admin/plugins/class-tgm-plugin-activation.php:3037
+msgid "The following plugin was activated successfully:"
+msgstr "Följande plugin aktiveras framgångsrikt:"
+
+#. 1: plugin name.
+#: admin/plugins/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Ingen åtgärd vidtas. Plugin %1$s redan var aktiv."
+
+#. 1: plugin name.
+#: admin/plugins/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+"Plugin inte är aktiverad. En större version av %s, som är nödvändig för "
+"detta tema. Vänligen uppdatera plugin."
+
+#. 1: dashboard link.
+#: admin/plugins/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Alla insticksprogram som installerats och aktiverats. %1$s"
+
+#: admin/plugins/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+"Det finns en eller flera som krävs eller rekommenderas plugins att "
+"installera, uppdatera eller aktivera."
+
+#: admin/plugins/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr "Kontakta administratören för denna webbplats för att hjälpa till."
+
+#: admin/plugins/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+"Denna plugin behöver för att vara uppdaterad för att vara kompatibel med din "
+"tema."
+
+#: admin/plugins/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr "Uppdatering Krävs"
+
+#: admin/plugins/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+"Fjärrkontrollen plugin-paketet inte innehåller en mapp med önskad slug och "
+"döpa fungerade inte."
+
+#: admin/plugins/class-tgm-plugin-activation.php:1019
+#: admin/plugins/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+"Vänligen kontakta plugin-leverantör och be dem att paketera deras plugin "
+"enligt WordPress riktlinjer."
+
+#: admin/plugins/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+"Fjärrkontrollen plugin-paketet består av mer än en fil, men de filer som "
+"inte är förpackade i en mapp."
+
+#: admin/plugins/class-tgm-plugin-activation.php:1206
+#: admin/plugins/class-tgm-plugin-activation.php:3033
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "och"
+
+#. %s: version number
+#: admin/plugins/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr "WordPress Arkiv"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Extern Källa"
+msgstr[1] ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr "Färdigförpackade"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Inte Installerats"
+msgstr[1] ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr "Installerad Men Inte Aktiverad"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Aktiv"
+msgstr[1] ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr "Uppdatering som krävs inte Tillgängligt"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Kräver Uppdatering"
+msgstr[1] ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr "Uppdateringen rekommenderas"
+
+#. 1: install status, 2: update status
+#: admin/plugins/class-tgm-plugin-activation.php:2427
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s %2$s"
+
+#. 1: number of plugins.
+#: admin/plugins/class-tgm-plugin-activation.php:2473
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#. 1: number of plugins.
+#: admin/plugins/class-tgm-plugin-activation.php:2477
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#. 1: number of plugins.
+#: admin/plugins/class-tgm-plugin-activation.php:2481
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#. 1: number of plugins.
+#: admin/plugins/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2567
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "okänd"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr "Installerade versionen:"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr "Lägsta version som krävs:"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr "Tillgängliga versionen:"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr "Inga plugins att installera, uppdatera eller aktivera."
+
+#: admin/plugins/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr "Plugin"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr "Källa"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr "Version"
+
+#. %2$s: plugin name in screen reader markup
+#: admin/plugins/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr "Installera %2$s"
+
+#. %2$s: plugin name in screen reader markup
+#: admin/plugins/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr "Uppdatering %2$s"
+
+#. %2$s: plugin name in screen reader markup
+#: admin/plugins/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr "Aktivera %2$s"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr "Uppgradera meddelande från plugin författare:"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr "Installera"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr "Aktivera"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Inga plugins valdes för att installeras. Ingen åtgärd vidtas."
+
+#: admin/plugins/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+"Inga plugins har valts ut för att vara uppdaterade. Ingen åtgärd vidtas."
+
+#: admin/plugins/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr "Inga plugins som finns tillgängliga att installeras vid denna tid."
+
+#: admin/plugins/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+"Inga plugins som finns tillgängliga för att vara uppdaterade på den här "
+"gången."
+
+#: admin/plugins/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Inga plugins valdes för att aktiveras. Ingen åtgärd vidtas."
+
+#: admin/plugins/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+"Inga plugins som finns tillgängliga för att aktiveras vid den här tiden."
+
+#: admin/plugins/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr "Plugin-aktivering misslyckades."
+
+#. 1: plugin name, 2: action number 3: total number of actions.
+#: admin/plugins/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Uppdatera Plugin %1$s och%2$d/%3$d)"
+
+#. 1: plugin name, 2: error message.
+#: admin/plugins/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. 1: plugin name.
+#: admin/plugins/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "Installation av %1$s misslyckades."
+
+#: admin/plugins/class-tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"Installationen och aktiveringen börjar. Denna process kan ta ett tag på "
+"vissa värdar, så ha tålamod."
+
+#. 1: plugin name.
+#: admin/plugins/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s har installerats och aktiverats."
+
+#: admin/plugins/class-tgm-plugin-activation.php:3594
+#: admin/plugins/class-tgm-plugin-activation.php:3602
+msgid "Show Details"
+msgstr "Visa Detaljer"
+
+#: admin/plugins/class-tgm-plugin-activation.php:3594
+#: admin/plugins/class-tgm-plugin-activation.php:3602
+msgid "Hide Details"
+msgstr "Dölj Detaljer"
+
+#: admin/plugins/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr "Alla installationer och aktiveringar har slutförts."
+
+#. 1: plugin name, 2: action number 3: total number of actions.
+#: admin/plugins/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Installation och Aktivering av Plugin %1$s och%2$d/%3$d)"
+
+#: admin/plugins/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"Installationen börjar. Denna process kan ta ett tag på vissa värdar, så ha "
+"tålamod."
+
+#. 1: plugin name.
+#: admin/plugins/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s installerats."
+
+#: admin/plugins/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr "Alla anläggningar har slutförts."
+
+#. 1: plugin name, 2: action number 3: total number of actions.
+#: admin/plugins/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Installera Plugin %1$s och%2$d/%3$d)"
+
+#: admin/plugins/register.php:80
+msgid "Elementor Page Builder"
+msgstr "Elementor Sidan Builder"
+
+#: admin/plugins/register.php:110
+msgid "Contempo Listing Analytics"
+msgstr "Contempo Notering Analytics"
+
+#: admin/plugins/register.php:143
+msgid "Contempo Real Estate 7 Payment Gateways"
+msgstr "Contempo Fastigheter 7 Betalning Gateways"
+
+#: admin/plugins/register.php:209
+msgid "WPBakery Page Builder"
+msgstr "WPBakery Sidan Builder"
+
+#: includes/widgets/ct-widget-adspace.php:13
+msgid "CT Adspace Widget"
+msgstr "CT Reklamyta Widget"
+
+#: includes/widgets/ct-widget-adspace.php:61
+#: includes/widgets/ct-widget-listingscrolltocontact.php:62
+#: includes/widgets/ct-widget-listingssocial.php:48
+msgid "Title (optional):"
+msgstr "Namn (valfritt):"
+
+#: includes/widgets/ct-widget-adspace.php:65
+msgid "Ad Code:"
+msgstr "Annons-Kod:"
+
+#: includes/widgets/ct-widget-adspace.php:70
+msgid "Image Url:"
+msgstr "Bildens Url:"
+
+#: includes/widgets/ct-widget-adspace.php:74
+msgid "Link URL:"
+msgstr "URL-länk:"
+
+#: includes/widgets/ct-widget-adspace.php:78
+msgid "Alt text:"
+msgstr "Alt-text:"
+
+#: includes/widgets/ct-widget-agentinfo.php:13
+msgid "CT Agent Info"
+msgstr "CT-Agent Info"
+
+#: includes/widgets/ct-widget-agentinfo.php:69
+msgid "Mobile"
+msgstr "Mobil"
+
+#: includes/widgets/ct-widget-agentinfo.php:72
+msgid "Office"
+msgstr "Office"
+
+#: includes/widgets/ct-widget-agentinfo.php:75
+msgid "Fax"
+msgstr "Fax"
+
+#: includes/widgets/ct-widget-agentsotherlistings.php:13
+msgid "CT Agents Other Listings"
+msgstr "CT-Agenter Andra Listor"
+
+#: includes/widgets/ct-widget-agentsotherlistings.php:290
+#: includes/widgets/ct-widget-flickr.php:55
+#: includes/widgets/ct-widget-latestposts.php:74
+#: includes/widgets/ct-widget-listings.php:133
+#: includes/widgets/ct-widget-testimonials.php:66
+msgid "Number:"
+msgstr "Nummer:"
+
+#: includes/widgets/ct-widget-agentsotherlistings.php:298
+#: includes/widgets/ct-widget-listings.php:141
+msgid "Taxonomy:"
+msgstr "Taxonomi:"
+
+#: includes/widgets/ct-widget-agentsotherlistings.php:307
+#: includes/widgets/ct-widget-listings.php:150
+msgid "Tag:"
+msgstr "Tag:"
+
+#: includes/widgets/ct-widget-blogauthor.php:13
+msgid "CT Blog Author Info"
+msgstr "CT Blogg Författare Info"
+
+#: includes/widgets/ct-widget-blogauthor.php:64
+msgid "Bio:"
+msgstr "Bio:"
+
+#: includes/widgets/ct-widget-blogauthor.php:68
+msgid "<a href=\"http://www.gravatar.com/\">Gravatar</a> E-mail:"
+msgstr ""
+
+#: includes/widgets/ct-widget-blogauthor.php:72
+msgid "Gravatar Size:"
+msgstr "Gravatar Storlek:"
+
+#: includes/widgets/ct-widget-blogauthor.php:76
+msgid "Gravatar Alignment:"
+msgstr "Gravatar-Justering:"
+
+#: includes/widgets/ct-widget-blogauthor.php:78
+msgid "Left"
+msgstr "Vänster"
+
+#: includes/widgets/ct-widget-blogauthor.php:79
+msgid "Right"
+msgstr "Rätt"
+
+#: includes/widgets/ct-widget-blogauthor.php:83
+msgid "Read More Text (optional):"
+msgstr "Läs Mer Text (valfritt):"
+
+#: includes/widgets/ct-widget-blogauthor.php:87
+msgid "Read More URL (optional):"
+msgstr "Läs Mer URL (valfritt):"
+
+#: includes/widgets/ct-widget-blogauthor.php:91
+msgid "Visible Pages:"
+msgstr "Synliga Sidor:"
+
+#: includes/widgets/ct-widget-blogauthor.php:93
+msgid "All"
+msgstr "Alla"
+
+#: includes/widgets/ct-widget-blogauthor.php:94
+msgid "Home only"
+msgstr "Hem bara"
+
+#: includes/widgets/ct-widget-blogauthor.php:95
+msgid "Single only"
+msgstr "Enda endast"
+
+#: includes/widgets/ct-widget-brokerinfo.php:13
+msgid "CT Brokers Info"
+msgstr "CT Mäklare Info"
+
+#: includes/widgets/ct-widget-brokerinfo.php:54
+msgid "Email Office"
+msgstr "E-Post Office"
+
+#: includes/widgets/ct-widget-brokerinfo.php:55
+msgid "Visit Brokers Website"
+msgstr "Besök Mäklare Webbplats"
+
+#: includes/widgets/ct-widget-brokerinfo.php:82
+msgid "Logo URL:"
+msgstr "Logotyp URL:"
+
+#: includes/widgets/ct-widget-brokerinfo.php:86
+msgid "Company:"
+msgstr "Företag:"
+
+#: includes/widgets/ct-widget-brokerinfo.php:90
+msgid "Office Phone:"
+msgstr "Telefon Kontor:"
+
+#: includes/widgets/ct-widget-brokerinfo.php:94
+msgid "Office Email:"
+msgstr "Kontor E-Post:"
+
+#: includes/widgets/ct-widget-brokerinfo.php:98
+msgid "Website:"
+msgstr "Hemsida:"
+
+#: includes/widgets/ct-widget-contactinfo.php:13
+msgid "CT Contact Info"
+msgstr "CT Kontakta Info"
+
+#: includes/widgets/ct-widget-contactinfo.php:134
+msgid "Show Logo:"
+msgstr "Visa Logotyp:"
+
+#: includes/widgets/ct-widget-contactinfo.php:145
+msgid "Blurb:"
+msgstr "Baksidestexten:"
+
+#: includes/widgets/ct-widget-contactinfo.php:149
+msgid "Company Name:"
+msgstr "Företagets Namn:"
+
+#: includes/widgets/ct-widget-contactinfo.php:153
+msgid "Street Address:"
+msgstr "Adress:"
+
+#: includes/widgets/ct-widget-contactinfo.php:157
+msgid "City:"
+msgstr "Stad:"
+
+#: includes/widgets/ct-widget-contactinfo.php:161
+msgid "State:"
+msgstr "Status:"
+
+#: includes/widgets/ct-widget-contactinfo.php:165
+msgid "Postal:"
+msgstr "Postal:"
+
+#: includes/widgets/ct-widget-contactinfo.php:169
+msgid "Country:"
+msgstr "Land:"
+
+#: includes/widgets/ct-widget-contactinfo.php:173
+msgid "Phone:"
+msgstr "Telefon:"
+
+#: includes/widgets/ct-widget-flickr.php:13
+msgid "CT Flickr"
+msgstr "CT Flickr"
+
+#: includes/widgets/ct-widget-flickr.php:26
+msgid "Photos on flickr"
+msgstr "Foton på flickr"
+
+#: includes/widgets/ct-widget-flickr.php:51
+msgid "Flickr ID (<a href=\"http://www.idgettr.com\">idGettr</a>):"
+msgstr ""
+
+#: includes/widgets/ct-widget-flickr.php:65
+msgid "User"
+msgstr "Användare"
+
+#: includes/widgets/ct-widget-flickr.php:66
+msgid "Group"
+msgstr "Grupp"
+
+#: includes/widgets/ct-widget-flickr.php:70
+msgid "Sorting:"
+msgstr "Sortering:"
+
+#: includes/widgets/ct-widget-flickr.php:72
+#: includes/widgets/ct-widget-tabs.php:110
+#: includes/widgets/ct-widget-tabs.php:117
+msgid "Latest"
+msgstr "Senaste"
+
+#: includes/widgets/ct-widget-flickr.php:73
+msgid "Random"
+msgstr "Random"
+
+#: includes/widgets/ct-widget-flickr.php:77
+msgid "Size:"
+msgstr "Storlek:"
+
+#: includes/widgets/ct-widget-flickr.php:79
+msgid "Square"
+msgstr "Torget"
+
+#: includes/widgets/ct-widget-flickr.php:80
+msgid "Medium"
+msgstr "Medium"
+
+#: includes/widgets/ct-widget-flickr.php:81
+msgid "Thumbnail"
+msgstr "Miniatyr"
+
+#: includes/widgets/ct-widget-latestposts.php:13
+msgid "CT Latest Posts"
+msgstr "CT Senaste Inlägg"
+
+#: includes/widgets/ct-widget-listings.php:13
+msgid "CT Listings"
+msgstr "CT-Listor"
+
+#: includes/widgets/ct-widget-listings.php:154
+msgid "View All Link Text"
+msgstr "Visa All Text Länk"
+
+#: includes/widgets/ct-widget-listings.php:158
+msgid "View All Link URL"
+msgstr "Visa Alla URL-Länk"
+
+#: includes/widgets/ct-widget-listingscontact.php:13
+msgid "CT Listing Agent Contact"
+msgstr "CT Listing Agent Kontakt"
+
+#: includes/widgets/ct-widget-listingscontact.php:72
+msgid "Subject:"
+msgstr "Ämne:"
+
+#: includes/widgets/ct-widget-listingscrolltocontact.php:13
+msgid "CT Listing Contact ScrollTo"
+msgstr "CT Notering Kontakta ScrollTo"
+
+#: includes/widgets/ct-widget-listingscrolltocontact.php:66
+msgid "Button One Text:"
+msgstr "Knappen En Text:"
+
+#: includes/widgets/ct-widget-listingscrolltocontact.php:70
+msgid "Button Two Text:"
+msgstr "Knappen Två Sms: A:"
+
+#: includes/widgets/ct-widget-listingssearch.php:13
+msgid "CT Listings Search"
+msgstr "CT-Listor Sök"
+
+#: includes/widgets/ct-widget-listingssocial.php:13
+msgid "CT Listings Social"
+msgstr "CT-Listor Sociala"
+
+#: includes/widgets/ct-widget-search.php:13
+msgid "CT Search"
+msgstr "CT-Sök"
+
+#: includes/widgets/ct-widget-tabs.php:13
+msgid "CT Tabs"
+msgstr "CT Flikar"
+
+#: includes/widgets/ct-widget-tabs.php:103
+msgid "Number of posts:"
+msgstr "Antal inlägg:"
+
+#: includes/widgets/ct-widget-tabs.php:108
+msgid "First Visible Tab:"
+msgstr "Första Synliga Fliken:"
+
+#: includes/widgets/ct-widget-tabs.php:111
+#: includes/widgets/ct-widget-tabs.php:120
+msgid "Comments"
+msgstr "Kommentarer"
+
+#: includes/widgets/ct-widget-tabs.php:112
+#: includes/widgets/ct-widget-tabs.php:123
+msgid "Tags"
+msgstr "Taggar"
+
+#: includes/widgets/ct-widget-testimonials.php:13
+msgid "CT Testimonials"
+msgstr "CT Omdömen"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:245
+#: admin/ReduxFramework/theme-options/re7-config.php:246
+msgid "Real Estate 7 Options"
+msgstr "Fastigheter 7 Val"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:923
+msgid "Theme Information 1"
+msgstr "Tema Information 1"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:924
+#: admin/ReduxFramework/theme-options/re7-config.php:929
+msgid "<p>This is the tab content, HTML is allowed.</p>"
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:928
+msgid "Theme Information 2"
+msgstr "Tema 2"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:935
+msgid "<p>This is the sidebar content, HTML is allowed.</p>"
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:941
+msgid "General Settings"
+msgstr "Allmänna Inställningar"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1010
+#: admin/ReduxFramework/theme-options/re7-config.php:2168
+msgid "Header"
+msgstr "Rubrik"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1078
+msgid "Custom Logo"
+msgstr "Anpassad Logotyp"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1129
+msgid "Top Bar"
+msgstr "Top Bar"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1150
+msgid "Contact Phone"
+msgstr "Kontakt Telefon"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1170
+#: admin/ReduxFramework/theme-options/re7-config.php:1318
+#: admin/ReduxFramework/theme-options/re7-config.php:1349
+#: admin/ReduxFramework/theme-options/re7-config.php:1380
+msgid "Icon"
+msgstr "Ikonen"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1171
+#: admin/ReduxFramework/theme-options/re7-config.php:1319
+#: admin/ReduxFramework/theme-options/re7-config.php:1350
+#: admin/ReduxFramework/theme-options/re7-config.php:1381
+msgid "Select an icon."
+msgstr "Välj en ikon."
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1188
+msgid "Currency Switcher"
+msgstr "Valuta-Växlare"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1196
+msgid "Social Links"
+msgstr "Sociala Länkar"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1287
+msgid "Header Info Columns"
+msgstr "Header Info Kolumner"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1295
+msgid "Column One"
+msgstr "Kolumn"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1326
+msgid "Column Two"
+msgstr "Kolumn Två"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1357
+msgid "Column Three"
+msgstr "Kolumn Tre"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1389
+msgid "Homepage"
+msgstr "Hemsida"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1399
+msgid "Layout Manager"
+msgstr "Layout Manager"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1440
+msgid "Revolution Slider"
+msgstr "Revolutionen Glida"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1457
+#: admin/ReduxFramework/theme-options/re7-config.php:1864
+msgid "FlexSlider"
+msgstr "FlexSlider"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1483
+msgid "Listing Carousel"
+msgstr "Notering Karusell"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1522
+msgid "Hero w/Search"
+msgstr "Hero w/Sök"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1569
+msgid "Top Padding"
+msgstr "Topp Utfyllnad"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1570
+msgid "Set the top padding in percentage."
+msgstr "Ställ upp som utfyllnad i procent."
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1580
+msgid "Bottom Padding"
+msgstr "Botten Utfyllnad"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1581
+msgid "Set the bottom padding in percentage."
+msgstr "Ställ in den nedre utfyllnad i procent."
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1592
+msgid "Call To Action"
+msgstr "Uppmaning"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1623
+msgid "Listings Count"
+msgstr "Listor Räknas"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1727
+msgid "Add/Edit Testimonials"
+msgstr "Lägg Till/Redigera Omdömen"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1728
+msgid "Add your testimonials to be displayed on the homepage."
+msgstr "Lägg till ditt vittnesmål till att visas på hemsidan."
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1730
+msgid "Company or Person"
+msgstr "Företaget eller Person som"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1731
+msgid "Testimonial Here"
+msgstr "Omdöme Här"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1732
+#: admin/ReduxFramework/theme-options/re7-config.php:1762
+msgid "Link"
+msgstr "Länk"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1740
+msgid "Partners"
+msgstr "Partners"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1757
+msgid "Add/Edit Partner Logos"
+msgstr "Lägg Till/Redigera Partner Logotyper"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1758
+msgid "Add your partner logos to be displayed on the homepage."
+msgstr "Lägg till din partner logotyper som visas på hemsidan."
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1760
+msgid "Partner Title"
+msgstr "Partner Titel"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1761
+msgid "Description Here (not used)"
+msgstr "Beskrivning Här (som inte används)"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1783
+msgid "Elementor"
+msgstr "Elementor"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1804
+msgid "Page Builder"
+msgstr "Sidan Builder"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1848
+msgid "Four Column Widget Area"
+msgstr "Fyra Kolumn Widget Område"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1942
+msgid "Create a Skin"
+msgstr "Skapa en Hud"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1965
+#: admin/ReduxFramework/theme-options/re7-config.php:2179
+#: admin/ReduxFramework/theme-options/re7-config.php:2272
+#: admin/ReduxFramework/theme-options/re7-config.php:2355
+#: admin/ReduxFramework/theme-options/re7-config.php:2444
+#: admin/ReduxFramework/theme-options/re7-config.php:2484
+msgid "NOTE!"
+msgstr "OBS!"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1966
+msgid "If this isn't set to Yes NONE of the Styles will be Applied."
+msgstr "Om detta inte\\'t Ja INGEN av de Stilar som kommer att Tillämpas."
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1973
+msgid "Typography"
+msgstr "Typografi"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1993
+msgid "Body"
+msgstr "Kroppen"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2012
+msgid "Headings"
+msgstr "Rubriker"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2031
+msgid "H1"
+msgstr "H1"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2051
+msgid "H2"
+msgstr "H2"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2071
+msgid "H3"
+msgstr "H3"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2091
+msgid "H4"
+msgstr "H4"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2111
+msgid "H5"
+msgstr "H5"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2131
+msgid "H6"
+msgstr "H6"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2152
+msgid "Body Background"
+msgstr "Kroppen Bakgrund"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2180
+#: admin/ReduxFramework/theme-options/re7-config.php:2273
+#: admin/ReduxFramework/theme-options/re7-config.php:2356
+#: admin/ReduxFramework/theme-options/re7-config.php:2445
+#: admin/ReduxFramework/theme-options/re7-config.php:2485
+msgid ""
+"You must set Create a Skin > Use Custom Styles > Yes, if this isn't set NONE "
+"of the Styles will be Applied."
+msgstr ""
+"Du måste Skapa en Hud > > Använda Egna Formatmallar > Ja, om detta inte\\'t "
+"som INGEN av de Stilar som kommer att Tillämpas."
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2261
+msgid "Mobile Navigation"
+msgstr "Mobil Navigation"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2344
+msgid "Secondary Colors"
+msgstr "Sekundära Färger"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2433
+msgid "Links"
+msgstr "Länkar"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2473
+#: admin/ReduxFramework/theme-options/re7-config.php:5181
+msgid "Footer"
+msgstr "Sidfot"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2543
+msgid "User Profile Fields"
+msgstr "Användarprofil Fält"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2679
+msgid "Agent Single"
+msgstr "Agent Enda"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2742
+msgid "Google Maps"
+msgstr "Google Maps"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2799
+msgid "Global Options"
+msgstr "Globala Alternativ"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2800
+msgid ""
+"These options apply globally to the homepage, expanded area of header search "
+"and search widget."
+msgstr ""
+"Dessa alternativ gäller globalt till hemsidan, utökade området av rubriken "
+"sök och sök widget."
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2869
+msgid "Header Search"
+msgstr "Rubriken Sök"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2951
+msgid "Homepage Search"
+msgstr "Startsida Sök"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:3253
+msgid "Listings Search"
+msgstr "Listor Sök"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:3351
+msgid "Listing Single"
+msgstr "Notering Enda"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:3616
+msgid "Listing Stats"
+msgstr "Notering Statistik"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:3659
+msgid "Listing IDX/MLS"
+msgstr "Notering IDX/MLS"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:3685
+msgid "Walk Score"
+msgstr "Promenad Betyg"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:3688
+msgid ""
+"Walk Score is the only international measure of walkability and the leading "
+"provider of neighborhood maps to the real estate industry. More than 30,000 "
+"websites use the Walk Score Neighborhood Map and we serve over 20 million "
+"scores each day. <a href=\"https://www.walkscore.com/professional/api-sign-"
+"up.php\" target=\"_blank\">Get your API Key</a>!."
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:3729
+msgid ""
+"Set this up if you'd like to display \"What's Nearby?\" information on your "
+"listings such as restaurants, grocery stores, schools, coffee shops, "
+"etc&hellip;."
+msgstr ""
+"Ställa in detta om du\\'d som för att visa \"Vad\\'s i Närheten?\" "
+"information om din listor på till exempel restauranger, livsmedelsbutiker, "
+"skolor, caféer, etc"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:3836
+msgid "Front End Login & Registration"
+msgstr "Front End Logga In "
+
+#: admin/ReduxFramework/theme-options/re7-config.php:3932
+msgid "Front End Submission"
+msgstr "Front End Inlämning"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:4145
+msgid "Submit Listing Form"
+msgstr "Skicka Lista Form"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:4156
+#: admin/ReduxFramework/theme-options/re7-config.php:4245
+#: admin/ReduxFramework/theme-options/re7-config.php:4453
+#: admin/ReduxFramework/theme-options/re7-config.php:4542
+msgid "Select which fields you'd like to be required."
+msgstr "Välj vilka fält du\\'d som krävs."
+
+#: admin/ReduxFramework/theme-options/re7-config.php:4364
+msgid ""
+"Select which fields you'd like to be required, these are only shown if "
+"enabled via Listings > Listing Single > Enable Vacation Rentals/Booking "
+"Fields."
+msgstr ""
+"Välj vilka fält du'd vill vara nödvändigt, dessa visas endast om det har "
+"aktiverats via Listor > Notering Enda > Aktivera Semesterbostäder/Bokning "
+"Fält."
+
+#: admin/ReduxFramework/theme-options/re7-config.php:4560
+msgid "PayPal Settings"
+msgstr "PayPal Inställningar"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:4633
+msgid "Stripe Settings"
+msgstr "Rand Inställningar"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:4671
+msgid "Wire Transfer"
+msgstr "Banköverföring"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:4740
+msgid "Email Content"
+msgstr "E-Post Innehåll"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:4876
+msgid "Blog Archive"
+msgstr "Blogg Arkiv"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:4918
+msgid "Single Post"
+msgstr "Enstaka Inlägg"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:5086
+msgid "Map Addresses"
+msgstr "Karta Adresser"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:5087
+msgid ""
+"Enter the address of your locations to be used in the Google Map, needs to "
+"be entered in this format for each entry: 849 West Harbor Dr. San Diego, CA "
+"92101"
+msgstr ""
+"Ange adressen till din platser som ska användas i Google-Karta, behöver tas "
+"upp i detta format för varje inlägg: 849 Västra Hamnen Dr., San Diego, CA "
+"92101"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:5401
+msgid ""
+"<p class=\"description\">This is a section created by adding a filter to the "
+"sections array. Can be used by child themes to add/remove sections from the "
+"options.</p>"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"A responsive real estate theme, designed by <a href=\"http://www."
+"contempographicdesign.com\">Contempo</a>."
+msgstr ""

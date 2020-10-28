@@ -1,0 +1,92 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Contempo Mortgage Calculator Widget\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-01-15 12:59+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.1; wp-5.3.2"
+
+#. Description of the plugin
+msgid ""
+"A simple mortgage calculator widget with sale price, interest rate, term & "
+"down payment."
+msgstr ""
+
+#: ct-mortgage-calculator.php:119 ct-mortgage-calculator.php:169
+msgid "Calculate"
+msgstr ""
+
+#. Author of the plugin
+msgid "Contempo"
+msgstr ""
+
+#. Name of the plugin
+msgid "Contempo Mortgage Calculator Widget"
+msgstr ""
+
+#: ct-mortgage-calculator.php:69
+msgid "CT Mortgage Calculator"
+msgstr ""
+
+#: ct-mortgage-calculator.php:143
+msgid "Currency:"
+msgstr ""
+
+#: ct-mortgage-calculator.php:167
+msgid "Down payment (<?php echo $currency; ?>)"
+msgstr ""
+
+#: ct-mortgage-calculator.php:116
+msgid "Down payment (no separators)"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "http://contemporealestatethemes.com"
+msgstr ""
+
+#: ct-mortgage-calculator.php:108
+msgid "Interest Rate"
+msgstr ""
+
+#: ct-mortgage-calculator.php:165
+msgid "Interest Rate (%)"
+msgstr ""
+
+#: ct-mortgage-calculator.php:120
+msgid "Monthly Payment:"
+msgstr ""
+
+#: ct-mortgage-calculator.php:164
+msgid "Sale price ($)"
+msgstr ""
+
+#: ct-mortgage-calculator.php:164
+msgid "Sale price (<?php echo $currency; ?>)"
+msgstr ""
+
+#: ct-mortgage-calculator.php:101 ct-mortgage-calculator.php:103
+msgid "Sale price (no separators)"
+msgstr ""
+
+#: ct-mortgage-calculator.php:112 ct-mortgage-calculator.php:166
+#: ct-mortgage-calculator.php:166 ct-mortgage-calculator.php:166
+msgid "Term (years)"
+msgstr ""
+
+#: ct-mortgage-calculator.php:141
+msgid "Title:"
+msgstr ""
+
+#: ct-mortgage-calculator.php:171
+msgid "Your Monthly Payment"
+msgstr ""

@@ -1,0 +1,4446 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Pro Real Estate 7\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-08-28 15:52+0000\n"
+"POT-Revision-Date: Wed Jul 27 2016 08:19:42 GMT-0700 (PDT)\n"
+"PO-Revision-Date: 2019-09-06 15:02+0000\n"
+"Last-Translator: Chris Robinson <chris@contempographicdesign.com>\n"
+"Language-Team: English (United States)\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: includes\n"
+"X-Poedit-SearchPath-2: layouts\n"
+"X-Poedit-SearchPath-3: 404.php\n"
+"X-Poedit-SearchPath-4: archive.php\n"
+"X-Poedit-SearchPath-5: author.php\n"
+"X-Poedit-SearchPath-6: comments.php\n"
+"X-Poedit-SearchPath-7: content.php\n"
+"X-Poedit-SearchPath-8: footer.php\n"
+"X-Poedit-SearchPath-9: functions.php\n"
+"X-Poedit-SearchPath-10: header.php\n"
+"X-Poedit-SearchPath-11: index.php\n"
+"X-Poedit-SearchPath-12: page.php\n"
+"X-Poedit-SearchPath-13: rtl.css\n"
+"X-Poedit-SearchPath-14: search-listings.php\n"
+"X-Poedit-SearchPath-15: searchform.php\n"
+"X-Poedit-SearchPath-16: sidebar.php\n"
+"X-Poedit-SearchPath-17: single-listings.php\n"
+"X-Poedit-SearchPath-18: single.php\n"
+"X-Poedit-SearchPath-19: template-agents.php\n"
+"X-Poedit-SearchPath-20: template-big-map.php\n"
+"X-Poedit-SearchPath-21: template-contact.php\n"
+"X-Poedit-SearchPath-22: template-demo-home-map.php\n"
+"X-Poedit-SearchPath-23: template-dsidxpress.php\n"
+"X-Poedit-SearchPath-24: template-edit-listing.php\n"
+"X-Poedit-SearchPath-25: template-edit-profile.php\n"
+"X-Poedit-SearchPath-26: template-favorite-listings.php\n"
+"X-Poedit-SearchPath-27: template-full-width.php\n"
+"X-Poedit-SearchPath-28: template-home.php\n"
+"X-Poedit-SearchPath-29: template-left-sidebar.php\n"
+"X-Poedit-SearchPath-30: template-sitemap.php\n"
+"X-Poedit-SearchPath-31: template-submit-listing.php\n"
+"X-Poedit-SearchPath-32: template-testimonials.php\n"
+"X-Poedit-SearchPath-33: template-view-listings.php\n"
+"X-Poedit-SearchPath-34: admin/ct-child-theme\n"
+"X-Poedit-SearchPath-35: admin/profile-fields.php\n"
+"X-Poedit-SearchPath-36: admin/theme-functions.php\n"
+"X-Poedit-SearchPathExcluded-0: admin/ReduxFramework\n"
+"X-Poedit-SearchPathExcluded-1: admin/aq-resizer\n"
+"X-Poedit-SearchPathExcluded-2: admin/plugins\n"
+"X-Poedit-SearchPathExcluded-3: js\n"
+"X-Poedit-SearchPathExcluded-4: css\n"
+"X-Poedit-SearchPathExcluded-5: fonts\n"
+"X-Poedit-SearchPathExcluded-6: images\n"
+"X-Poedit-SearchPathExcluded-7: admin/images\n"
+"Language: en_US\n"
+"X-Loco-Version: 2.3.0; wp-5.2.3"
+
+#: 404.php:15
+msgid "Page Not Found"
+msgstr ""
+
+#: 404.php:16
+msgid "Woah there! Looks like you've gotten lost."
+msgstr ""
+
+#: 404.php:17
+msgid "Go back to the homepage"
+msgstr ""
+
+#: archive-brokerage.php:38
+#: admin/ReduxFramework/theme-options/re7-config.php:2711
+msgid "Brokerages"
+msgstr ""
+
+#: archive-brokerage.php:52 template-brokerages.php:52
+msgid "Type a brokerage name or address here to filter the list."
+msgstr ""
+
+#: archive-brokerage.php:108 author.php:71 single-brokerage.php:78
+#: single-brokerage.php:284 template-agents.php:241 template-brokerages.php:122
+#: template-favorite-listings.php:111
+msgid "Tell me more about a property"
+msgstr ""
+
+#: archive-brokerage.php:109 author.php:72 single-brokerage.php:79
+#: single-brokerage.php:285 template-agents.php:242 template-brokerages.php:123
+#: template-favorite-listings.php:112 includes/agent-contact-modal.php:22
+#: includes/single-listing-contact.php:217 includes/single-listing-home.php:270
+#: includes/widgets/ct-widget-listingscontact.php:31
+msgid "Request a showing"
+msgstr ""
+
+#: archive-brokerage.php:110 author.php:73 single-brokerage.php:80
+#: single-brokerage.php:286 template-agents.php:243 template-brokerages.php:124
+#: template-favorite-listings.php:113
+msgid "General Questions"
+msgstr ""
+
+#: archive-brokerage.php:113 author.php:76 single-brokerage.php:83
+#: single-brokerage.php:289 template-agents.php:246 template-brokerages.php:127
+#: template-edit-profile.php:129 template-favorite-listings.php:116
+#: includes/agent-contact-modal.php:25 includes/agent-contact-modal.php:25
+#: includes/agent-contact-modal.php:25 includes/single-listing-contact.php:223
+#: includes/single-listing-home.php:273
+#: includes/single-listing-multi-floorplan.php:27
+#: includes/widgets/ct-widget-listingscontact.php:34
+#: includes/widgets/ct-widget-listingscontact.php:34
+#: includes/widgets/ct-widget-listingscontact.php:34
+msgid "Name"
+msgstr ""
+
+#: archive-brokerage.php:115 archive-brokerage.php:177 author.php:78
+#: author.php:124 author.php:283 single-brokerage.php:85
+#: single-brokerage.php:135 single-brokerage.php:291 single-brokerage.php:354
+#: template-agents.php:248 template-brokerages.php:129
+#: template-brokerages.php:189 template-favorite-listings.php:118
+#: admin/theme-functions.php:3732 includes/agent-contact-modal.php:27
+#: includes/agent-contact-modal.php:27 includes/agent-contact-modal.php:27
+#: includes/single-listing-contact.php:89
+#: includes/single-listing-contact.php:171
+#: includes/single-listing-contact.php:227
+#: includes/single-listing-contact.php:297 includes/single-listing-home.php:253
+#: includes/single-listing-home.php:275 includes/single-listing-home.php:336
+#: includes/widgets/ct-widget-agentinfo.php:78
+#: includes/widgets/ct-widget-listingscontact.php:36
+#: includes/widgets/ct-widget-listingscontact.php:36
+#: includes/widgets/ct-widget-listingscontact.php:36
+msgid "Email"
+msgstr ""
+
+#: archive-brokerage.php:117 author.php:80 single-brokerage.php:87
+#: single-brokerage.php:293 template-agents.php:250 template-brokerages.php:131
+#: template-contact.php:72 template-favorite-listings.php:120
+#: includes/agent-contact-modal.php:29 includes/agent-contact-modal.php:29
+#: includes/agent-contact-modal.php:29 includes/single-listing-contact.php:231
+#: includes/single-listing-home.php:277
+#: includes/widgets/ct-widget-listingscontact.php:38
+#: includes/widgets/ct-widget-listingscontact.php:38
+#: includes/widgets/ct-widget-listingscontact.php:38
+msgid "Phone"
+msgstr ""
+
+#: archive-brokerage.php:125 author.php:88 single-brokerage.php:95
+#: single-brokerage.php:301 template-agents.php:258 template-brokerages.php:137
+#: template-contact.php:83 template-contact.php:83
+#: template-favorite-listings.php:127 template-submit-listing.php:817
+#: includes/agent-contact-modal.php:38 includes/single-listing-contact.php:242
+#: includes/single-listing-home.php:285
+#: includes/widgets/ct-widget-listingscontact.php:47
+msgid "Submit"
+msgstr ""
+
+#: archive-brokerage.php:208 template-brokerages.php:220
+#: template-view-listings.php:211 includes/featured-listings.php:118
+#: includes/single-listing-multi-floorplan.php:122 layouts/grid.php:76
+msgid "View"
+msgstr ""
+
+#: archive-brokerage.php:218 template-brokerages.php:230
+msgid "No Brokerages Found."
+msgstr ""
+
+#: archive.php:77
+msgid "No posts were found which match your search criteria"
+msgstr ""
+
+#: archive.php:77 layouts/grid.php:26 layouts/list.php:27
+msgid "Try broadening your search to find more results."
+msgstr ""
+
+#: author.php:33 admin/profile-fields.php:81 admin/theme-functions.php:1926
+#: admin/theme-functions.php:3758 layouts/list.php:149
+msgid "Agent"
+msgstr ""
+
+#: author.php:145 template-edit-listing.php:826 template-submit-listing.php:707
+#: admin/profile-fields.php:211
+msgid "Address"
+msgstr ""
+
+#: author.php:153
+msgid "Social"
+msgstr ""
+
+#: author.php:194 author.php:341
+msgid "Type a listing address or keyword to filter the list."
+msgstr ""
+
+#: comments.php:13
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:31
+msgid "No Responses"
+msgstr ""
+
+#: comments.php:31
+msgid "1 Comment"
+msgstr ""
+
+#: comments.php:31
+msgid "% Comments"
+msgstr ""
+
+#: comments.php:44
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:45
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:53
+msgid "Comments are closed, but"
+msgstr ""
+
+#: comments.php:53
+msgid "Trackback URL for this post"
+msgstr ""
+
+#: comments.php:53
+msgid "trackbacks"
+msgstr ""
+
+#: comments.php:53
+msgid "and pingbacks are open."
+msgstr ""
+
+#: comments.php:59
+msgid "Reviews are closed."
+msgstr ""
+
+#: comments.php:61
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:67
+msgid "All Rights Reserved."
+msgstr ""
+
+#: functions.php:55
+msgid "Getting Started"
+msgstr ""
+
+#: header.php:185 header.php:491
+msgid "Hi, "
+msgstr ""
+
+#: header.php:204 header.php:510 includes/user-sidebar.php:37
+msgid "Dashboard"
+msgstr ""
+
+#: header.php:208 header.php:514 includes/user-sidebar.php:41
+msgid "Favorite Listings"
+msgstr ""
+
+#: header.php:211 header.php:517
+msgid "Saved Searches"
+msgstr ""
+
+#: header.php:216 header.php:522 header.php:552 includes/user-sidebar.php:49
+msgid "Submit Listing"
+msgstr ""
+
+#: header.php:219 header.php:525 template-user-dashboard.php:103
+#: includes/user-sidebar.php:52
+msgid "My Listings"
+msgstr ""
+
+#. Name of the template
+#: header.php:222 header.php:528 template-user-dashboard.php:83
+#: includes/user-sidebar.php:55
+msgid "Membership"
+msgstr ""
+
+#. Name of the template
+#: header.php:225 header.php:531 includes/user-sidebar.php:58
+msgid "Invoices"
+msgstr ""
+
+#. Name of the template
+#: header.php:228 header.php:534 includes/user-sidebar.php:61
+#: admin/ReduxFramework/theme-options/re7-config.php:3638
+msgid "Listing Analytics"
+msgstr ""
+
+#: header.php:233 header.php:539 includes/user-sidebar.php:65
+msgid "Account Settings"
+msgstr ""
+
+#: header.php:236 header.php:542 includes/user-sidebar.php:68
+msgid "Logout"
+msgstr ""
+
+#: header.php:240 header.php:550
+msgid "Login / Register"
+msgstr ""
+
+#: header.php:240 header.php:550 admin/theme-functions.php:3657
+msgid "Login"
+msgstr ""
+
+#: header.php:781
+msgid "Add \"CT Compare\" Widget via Appearance > Widgets > Compare."
+msgstr ""
+
+#: page.php:59 single.php:127 template-dsidxpress.php:41
+#: template-edit-listing.php:951 template-submit-listing.php:828
+msgid "Pages:"
+msgstr ""
+
+#: search-listings.php:148 search-listings.php:245
+msgid "listings found"
+msgstr ""
+
+#: search-listings.php:148 search-listings.php:245
+msgid "listing found"
+msgstr ""
+
+#: search-listings.php:152 search-listings.php:249
+msgid "Find A Home"
+msgstr ""
+
+#: search-listings.php:164 search-listings.php:260 search-listings.php:287
+msgid "Searching:"
+msgstr ""
+
+#: search-listings.php:168 search-listings.php:264 search-listings.php:291
+msgid "All listings"
+msgstr ""
+
+#: search-listings.php:170 admin/theme-functions.php:1164
+msgid "Open Search"
+msgstr ""
+
+#: search-listings.php:267 search-listings.php:293
+#: admin/theme-functions.php:1161
+msgid "Close Map"
+msgstr ""
+
+#: search-listings.php:327 search-listings.php:331
+msgid "Save This Search?"
+msgstr ""
+
+#: search-listings.php:329
+msgid "View Saved"
+msgstr ""
+
+#: single-brokerage.php:39 admin/profile-fields.php:180
+msgid "Brokerage"
+msgstr ""
+
+#: single-brokerage.php:162 single-listings.php:38
+#: admin/ReduxFramework/theme-options/re7-config.php:2982
+msgid "Listings"
+msgstr ""
+
+#: single-brokerage.php:163
+#: admin/ReduxFramework/theme-options/re7-config.php:2601
+msgid "Agents"
+msgstr ""
+
+#: single-brokerage.php:164
+msgid "Map"
+msgstr ""
+
+#: single-brokerage.php:166 includes/single-listing-sub-navigation.php:149
+msgid "Reviews"
+msgstr ""
+
+#: single-brokerage.php:228
+msgid "Type an agents name or title here to filter the list."
+msgstr ""
+
+#: single-brokerage.php:372
+msgid "View Listings"
+msgstr ""
+
+#: single-brokerage.php:383
+msgid "This brokerage currently has no active agents."
+msgstr ""
+
+#: single-brokerage.php:383 layouts/grid.php:22 layouts/grid.php:24
+#: layouts/list.php:23 layouts/list.php:25
+msgid "Check back soon."
+msgstr ""
+
+#: single-brokerage.php:405 includes/single-listing-reviews.php:19
+msgid "No Reviews"
+msgstr ""
+
+#: single-brokerage.php:405 includes/single-listing-reviews.php:19
+msgid "1 Review"
+msgstr ""
+
+#: single-brokerage.php:405 includes/single-listing-reviews.php:19
+msgid "% Reviews"
+msgstr ""
+
+#: single-listings.php:44 admin/theme-functions.php:6448
+#: admin/theme-functions.php:7389
+msgid "Home"
+msgstr ""
+
+#: single-listings.php:71 single-listings.php:77 single-listings.php:83
+#: single-listings.php:104 single-listings.php:105 single-listings.php:106
+#: includes/single-listing-home.php:367 includes/single-listing-home.php:368
+#: includes/single-listing-home.php:369
+#: includes/widgets/ct-widget-listingssocial.php:29
+#: includes/widgets/ct-widget-listingssocial.php:30
+#: includes/widgets/ct-widget-listingssocial.php:31
+msgid "Check out this great listing on"
+msgstr ""
+
+#: single-listings.php:108 admin/theme-functions.php:1165
+#: includes/agent-contact-modal.php:16
+msgid "Close"
+msgstr ""
+
+#: single-listings.php:186 template-edit-listing.php:394
+#: template-edit-profile.php:57 template-listing-analytics.php:62
+#: template-listing-email-alerts.php:69 template-membership.php:60
+#: template-submit-listing.php:351 template-user-dashboard.php:59
+#: template-view-invoices.php:60 template-view-listings.php:62
+msgid "You must be logged in to view this page."
+msgstr ""
+
+#: single.php:79 includes/post-author-info.php:15 layouts/blog-grid.php:54
+#: layouts/blog-large.php:54
+msgid "By"
+msgstr ""
+
+#: single.php:79 layouts/blog-grid.php:54 layouts/blog-large.php:54
+msgid "in"
+msgstr ""
+
+#: single.php:79 layouts/blog-grid.php:54 layouts/blog-large.php:54
+msgid "with"
+msgstr ""
+
+#. Name of the template
+#: admin/ReduxFramework/theme-options/re7-config.php:2789
+msgid "Advanced Search"
+msgstr ""
+
+#: template-advanced-search.php:62 template-edit-listing.php:419
+#: template-submit-listing.php:414 admin/theme-functions.php:4883
+#: includes/advanced-search.php:35 includes/header-advanced-search.php:60
+#: includes/header-advanced-search.php:330
+#: admin/plugins/class-tgm-plugin-activation.php:2634
+#: includes/widgets/ct-widget-listingssearch.php:46
+msgid "Type"
+msgstr ""
+
+#: template-advanced-search.php:67 template-edit-listing.php:832
+#: template-submit-listing.php:713 admin/profile-fields.php:217
+#: includes/advanced-search.php:44 includes/header-advanced-search.php:69
+#: includes/header-advanced-search.php:340
+#: includes/widgets/ct-widget-listingssearch.php:55
+msgid "City"
+msgstr ""
+
+#: template-advanced-search.php:77 template-edit-listing.php:842
+#: template-submit-listing.php:723 admin/theme-functions.php:5507
+#: admin/theme-functions.php:5526 includes/advanced-search.php:58
+#: includes/widgets/ct-widget-listingssearch.php:69
+msgid "Area"
+msgstr ""
+
+#: template-advanced-search.php:79 template-edit-listing.php:844
+#: template-submit-listing.php:725 admin/theme-functions.php:5562
+#: includes/advanced-search.php:60
+#: includes/widgets/ct-widget-listingssearch.php:71
+msgid "Suburb"
+msgstr ""
+
+#: template-advanced-search.php:81 template-edit-listing.php:852
+#: template-submit-listing.php:733 includes/advanced-search.php:62
+#: includes/widgets/ct-widget-listingssearch.php:73
+msgid "State"
+msgstr ""
+
+#: template-advanced-search.php:92 admin/theme-functions.php:5543
+#: includes/advanced-search.php:77
+#: includes/widgets/ct-widget-listingssearch.php:88
+msgid "Postcode"
+msgstr ""
+
+#: template-advanced-search.php:94 admin/theme-functions.php:5545
+#: includes/advanced-search.php:79
+#: includes/widgets/ct-widget-listingssearch.php:90
+msgid "Zipcode"
+msgstr ""
+
+#: template-advanced-search.php:100 template-edit-listing.php:868
+#: template-submit-listing.php:749 includes/advanced-search.php:89
+#: includes/header-advanced-search.php:99
+#: includes/header-advanced-search.php:368
+#: includes/widgets/ct-widget-listingssearch.php:100
+msgid "Country"
+msgstr ""
+
+#: template-advanced-search.php:105 template-edit-listing.php:678
+#: template-submit-listing.php:558 admin/theme-functions.php:4662
+#: admin/theme-functions.php:5773 includes/advanced-search.php:116
+#: includes/header-advanced-search.php:127
+#: includes/header-advanced-search.php:378
+#: includes/single-listing-multi-floorplan.php:33 layouts/list.php:88
+#: includes/widgets/ct-widget-listingssearch.php:127
+msgid "Beds"
+msgstr ""
+
+#: template-advanced-search.php:110 template-edit-listing.php:683
+#: template-submit-listing.php:563 admin/theme-functions.php:4682
+#: admin/theme-functions.php:5779 includes/advanced-search.php:125
+#: includes/header-advanced-search.php:136
+#: includes/header-advanced-search.php:388
+#: includes/single-listing-multi-floorplan.php:36 includes/sub-listings.php:103
+#: layouts/list.php:108 includes/widgets/ct-widget-agentsotherlistings.php:139
+#: includes/widgets/ct-widget-listingssearch.php:136
+msgid "Baths"
+msgstr ""
+
+#: template-advanced-search.php:115 template-edit-listing.php:434
+#: template-submit-listing.php:419 template-view-invoices.php:95
+#: includes/advanced-search.php:134 includes/header-advanced-search.php:145
+#: includes/header-advanced-search.php:398
+#: admin/plugins/class-tgm-plugin-activation.php:2639
+#: includes/widgets/ct-widget-listingssearch.php:145
+msgid "Status"
+msgstr ""
+
+#: template-advanced-search.php:125 admin/theme-functions.php:5560
+#: includes/advanced-search.php:157 includes/header-advanced-search.php:159
+#: includes/header-advanced-search.php:422
+#: includes/widgets/ct-widget-listingssearch.php:168
+msgid "Neighborhood"
+msgstr ""
+
+#: template-advanced-search.php:127 admin/theme-functions.php:5564
+#: includes/advanced-search.php:159 includes/header-advanced-search.php:161
+#: includes/header-advanced-search.php:424
+#: includes/widgets/ct-widget-listingssearch.php:170
+msgid "District"
+msgstr ""
+
+#: template-advanced-search.php:129 admin/theme-functions.php:5574
+#: includes/advanced-search.php:107 includes/advanced-search.php:161
+#: includes/header-advanced-search.php:118
+#: includes/header-advanced-search.php:163
+#: includes/header-advanced-search.php:426
+#: includes/widgets/ct-widget-listingssearch.php:118
+#: includes/widgets/ct-widget-listingssearch.php:172
+msgid "Community"
+msgstr ""
+
+#: template-advanced-search.php:135 template-advanced-search.php:136
+#: includes/advanced-search.php:171 includes/advanced-search.php:172
+#: includes/header-advanced-search.php:173
+#: includes/header-advanced-search.php:174
+#: includes/header-advanced-search.php:436
+#: includes/header-advanced-search.php:437
+#: includes/widgets/ct-widget-listingssearch.php:182
+#: includes/widgets/ct-widget-listingssearch.php:183
+msgid "Price From"
+msgstr ""
+
+#: template-advanced-search.php:140 template-advanced-search.php:141
+#: includes/advanced-search.php:180 includes/advanced-search.php:181
+#: includes/header-advanced-search.php:182
+#: includes/header-advanced-search.php:183
+#: includes/header-advanced-search.php:445
+#: includes/header-advanced-search.php:446
+#: includes/widgets/ct-widget-listingssearch.php:191
+#: includes/widgets/ct-widget-listingssearch.php:192
+msgid "Price To"
+msgstr ""
+
+#: template-advanced-search.php:145 template-advanced-search.php:146
+#: includes/advanced-search.php:190 includes/header-advanced-search.php:192
+#: includes/header-advanced-search.php:455
+#: includes/widgets/ct-widget-listingssearch.php:201
+msgid "Size From"
+msgstr ""
+
+#: template-advanced-search.php:150 template-advanced-search.php:151
+#: includes/advanced-search.php:199 includes/header-advanced-search.php:201
+#: includes/header-advanced-search.php:464
+#: includes/widgets/ct-widget-listingssearch.php:210
+msgid "Size To"
+msgstr ""
+
+#: template-advanced-search.php:155 template-advanced-search.php:156
+#: includes/advanced-search.php:207 includes/advanced-search.php:208
+#: includes/header-advanced-search.php:209
+#: includes/header-advanced-search.php:210
+#: includes/header-advanced-search.php:472
+#: includes/header-advanced-search.php:473
+#: includes/widgets/ct-widget-listingssearch.php:218
+#: includes/widgets/ct-widget-listingssearch.php:219
+msgid "Lot Size From"
+msgstr ""
+
+#: template-advanced-search.php:160 template-advanced-search.php:161
+#: includes/advanced-search.php:216 includes/advanced-search.php:217
+#: includes/header-advanced-search.php:218
+#: includes/header-advanced-search.php:219
+#: includes/header-advanced-search.php:481
+#: includes/header-advanced-search.php:482
+#: includes/widgets/ct-widget-listingssearch.php:227
+#: includes/widgets/ct-widget-listingssearch.php:228
+msgid "Lot Size To"
+msgstr ""
+
+#: template-advanced-search.php:165 template-advanced-search.php:166
+#: template-edit-listing.php:708 template-submit-listing.php:588
+#: includes/advanced-search.php:225 includes/advanced-search.php:226
+#: includes/header-advanced-search.php:227
+#: includes/header-advanced-search.php:228
+#: includes/header-advanced-search.php:490
+#: includes/header-advanced-search.php:491
+#: includes/single-listing-propinfo.php:17
+#: includes/widgets/ct-widget-listingssearch.php:236
+#: includes/widgets/ct-widget-listingssearch.php:237
+msgid "Property ID"
+msgstr ""
+
+#: template-advanced-search.php:175 template-advanced-search.php:176
+#: includes/advanced-search.php:234 includes/advanced-search.php:235
+#: includes/header-advanced-search.php:236
+#: includes/header-advanced-search.php:237
+#: includes/header-advanced-search.php:499
+#: includes/header-advanced-search.php:500
+#: includes/widgets/ct-widget-listingssearch.php:245
+#: includes/widgets/ct-widget-listingssearch.php:246
+msgid "Number of Guests"
+msgstr ""
+
+#: template-advanced-search.php:181 includes/advanced-search.php:143
+#: includes/widgets/ct-widget-listingssearch.php:154
+msgid "Additional Features"
+msgstr ""
+
+#: template-advanced-search.php:187 includes/advanced-search.php:257
+#: includes/header-advanced-search.php:274
+#: includes/header-advanced-search.php:308
+#: includes/home-hero-advanced-search.php:38
+#: includes/widgets/ct-widget-listingssearch.php:266
+msgid "Search"
+msgstr ""
+
+#: template-agents.php:122 template-agents.php:147
+msgid ""
+"Type an agents name, title, business, phone or lic # here to filter the list."
+msgstr ""
+
+#: template-agents.php:359
+msgid "View Profile"
+msgstr ""
+
+#: template-agents.php:393
+msgid "No Agents Found."
+msgstr ""
+
+#. Name of the template
+msgid "Big Map"
+msgstr ""
+
+#. Name of the template
+#: admin/theme-functions.php:4437
+msgid "Compare"
+msgstr ""
+
+#. Name of the template
+msgid "Contact No Form"
+msgstr ""
+
+#: includes/single-listing-sub-navigation.php:169
+#: admin/ReduxFramework/theme-options/re7-config.php:5026
+msgid "Contact"
+msgstr ""
+
+#: template-contact.php:64
+msgid "Name*"
+msgstr ""
+
+#: template-contact.php:68
+msgid "Email*"
+msgstr ""
+
+#: template-contact.php:75
+msgid "Subject*"
+msgstr ""
+
+#: template-contact.php:77
+msgid "Message"
+msgstr ""
+
+#. Name of the template
+msgid "Demo Home Listings Slider"
+msgstr ""
+
+#. Name of the template
+msgid "Demo Home Map"
+msgstr ""
+
+#. Name of the template
+msgid "Demo Home Video"
+msgstr ""
+
+#. Name of the template
+msgid "dsIDXpress"
+msgstr ""
+
+#. Name of the template
+msgid "Edit Listing"
+msgstr ""
+
+#: template-edit-listing.php:407 template-submit-listing.php:402
+msgid "Street Address"
+msgstr ""
+
+#: template-edit-listing.php:412 template-submit-listing.php:407
+msgid "Alternate Title"
+msgstr ""
+
+#: template-edit-listing.php:413 template-submit-listing.php:408
+msgid "(e.g. Downtown Penthouse)"
+msgstr ""
+
+#: template-edit-listing.php:425 template-edit-listing.php:440
+#: admin/theme-functions.php:5935 admin/theme-functions.php:5963
+msgid "Any"
+msgstr ""
+
+#: template-edit-listing.php:449 template-submit-listing.php:424
+#: template-view-listings.php:179 admin/theme-functions.php:5353
+#: includes/home-listings-count.php:188
+msgid "Featured"
+msgstr ""
+
+#: template-edit-listing.php:463 template-submit-listing.php:434
+#: includes/single-listing-multi-floorplan.php:43
+msgid "Price"
+msgstr ""
+
+#: template-edit-listing.php:468 template-submit-listing.php:439
+msgid "Price Prefix"
+msgstr ""
+
+#: template-edit-listing.php:469 template-submit-listing.php:440
+msgid " (e.g. From, Call for price)"
+msgstr ""
+
+#: template-edit-listing.php:473 template-submit-listing.php:444
+msgid "Price Postfix Text"
+msgstr ""
+
+#: template-edit-listing.php:474 template-submit-listing.php:445
+msgid " (e.g. /month, /week)"
+msgstr ""
+
+#: template-edit-listing.php:479 template-submit-listing.php:450
+msgid "Listing Description"
+msgstr ""
+
+#: template-edit-listing.php:496 template-submit-listing.php:464
+msgid "Listing Featured Image"
+msgstr ""
+
+#: template-edit-listing.php:505 template-submit-listing.php:476
+#: admin/ReduxFramework/theme-options/re7-config.php:3233
+msgid "Listing Images"
+msgstr ""
+
+#: template-edit-listing.php:582 template-submit-listing.php:486
+msgid "Drag & Drop Images Here"
+msgstr ""
+
+#: template-edit-listing.php:585 template-submit-listing.php:489
+msgid "or"
+msgstr ""
+
+#: template-edit-listing.php:588 template-submit-listing.php:492
+msgid "Select Images"
+msgstr ""
+
+#: template-edit-listing.php:592
+msgid ""
+"*At least one image is required for valid submission, minimum width of 817px."
+msgstr ""
+
+#: template-edit-listing.php:593 template-submit-listing.php:497
+msgid ""
+"*You can mark an image as featured by clicking the star icon, Otherwise "
+"first image will be considered featured image."
+msgstr ""
+
+#: template-edit-listing.php:605 template-submit-listing.php:507
+msgid "Files & Documents"
+msgstr ""
+
+#: template-edit-listing.php:629 template-submit-listing.php:519
+msgid "*Supported file types are PDF, Word, Excel & PowerPoint."
+msgstr ""
+
+#: template-edit-listing.php:693 template-submit-listing.php:573
+#: admin/theme-functions.php:4830 includes/sub-listings.php:195
+#: includes/widgets/ct-widget-agentsotherlistings.php:231
+msgid "Lot Size"
+msgstr ""
+
+#: template-edit-listing.php:698 template-submit-listing.php:578
+#: admin/theme-functions.php:4701
+msgid "Pets"
+msgstr ""
+
+#: template-edit-listing.php:703 template-submit-listing.php:583
+#: admin/theme-functions.php:4716
+msgid "Parking"
+msgstr ""
+
+#: template-edit-listing.php:713 template-submit-listing.php:593
+msgid "Video URL"
+msgstr ""
+
+#: template-edit-listing.php:720
+msgid "Vitrual Tour URL"
+msgstr ""
+
+#: template-edit-listing.php:728 template-submit-listing.php:608
+#: admin/theme-functions.php:5148 includes/single-listing-open-house.php:26
+#: includes/single-listing-sub-navigation.php:51
+msgid "Open House"
+msgstr ""
+
+#: template-edit-listing.php:731 template-submit-listing.php:611
+#: includes/single-listing-open-house.php:32
+msgid "Date"
+msgstr ""
+
+#: template-edit-listing.php:736 template-submit-listing.php:616
+msgid "Start Time"
+msgstr ""
+
+#: template-edit-listing.php:741 template-submit-listing.php:621
+msgid "End Time"
+msgstr ""
+
+#: template-edit-listing.php:751 template-submit-listing.php:639
+msgid "Additional Features (comma separated)"
+msgstr ""
+
+#: template-edit-listing.php:766 template-submit-listing.php:654
+msgid "Max-number of Guests"
+msgstr ""
+
+#: template-edit-listing.php:771 template-submit-listing.php:659
+msgid "Minimum Stay"
+msgstr ""
+
+#: template-edit-listing.php:778 template-submit-listing.php:666
+msgid "Check In Time"
+msgstr ""
+
+#: template-edit-listing.php:783 template-submit-listing.php:671
+msgid "Check Out Time"
+msgstr ""
+
+#: template-edit-listing.php:790 template-submit-listing.php:678
+msgid "Extra Person Charge"
+msgstr ""
+
+#: template-edit-listing.php:795 template-submit-listing.php:683
+#: admin/theme-functions.php:4977
+msgid "Cleaning Fee"
+msgstr ""
+
+#: template-edit-listing.php:802 template-submit-listing.php:690
+#: admin/theme-functions.php:4988
+msgid "Cancellation Fee"
+msgstr ""
+
+#: template-edit-listing.php:807 template-submit-listing.php:695
+#: admin/theme-functions.php:4999
+msgid "Security Deposit"
+msgstr ""
+
+#: template-edit-listing.php:827 template-submit-listing.php:708
+msgid "Type in an address"
+msgstr ""
+
+#: template-edit-listing.php:846 template-submit-listing.php:727
+msgid "Province"
+msgstr ""
+
+#: template-edit-listing.php:848 template-submit-listing.php:729
+msgid "Region"
+msgstr ""
+
+#: template-edit-listing.php:850 template-submit-listing.php:731
+msgid "Parish"
+msgstr ""
+
+#: template-edit-listing.php:863 template-submit-listing.php:744
+#: includes/advanced-search.php:98 includes/header-advanced-search.php:109
+#: includes/widgets/ct-widget-listingssearch.php:109
+msgid "County"
+msgstr ""
+
+#: template-edit-listing.php:878 template-submit-listing.php:759
+msgid "Latitude & Longitude (optional)"
+msgstr ""
+
+#: template-edit-listing.php:887 template-submit-listing.php:768
+msgid ""
+"You can also manually drag the marker to the exact location of your listing "
+"if the automatic geolocation is off."
+msgstr ""
+
+#: template-edit-listing.php:893 template-submit-listing.php:780
+#: admin/theme-functions.php:4295
+#: admin/ReduxFramework/theme-options/re7-config.php:4541
+msgid "Private Notes"
+msgstr ""
+
+#: template-edit-listing.php:894 template-submit-listing.php:781
+msgid ""
+"Write a private note about this listing, this textarea will not be displayed "
+"anywhere on the front end of the site."
+msgstr ""
+
+#: template-edit-listing.php:913 template-submit-listing.php:800
+msgid "Cancel"
+msgstr ""
+
+#: template-edit-listing.php:917 template-submit-listing.php:809
+#: admin/theme-functions.php:3325
+msgid "Next"
+msgstr ""
+
+#: template-edit-listing.php:918 template-submit-listing.php:818
+msgid "Previous"
+msgstr ""
+
+#: template-edit-listing.php:935
+#: admin/plugins/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr ""
+
+#: template-edit-listing.php:945
+msgid "This isn't one of your assigned listings, editing is denied."
+msgstr ""
+
+#. Name of the template
+msgid "Edit Profile"
+msgstr ""
+
+#: template-edit-profile.php:78
+msgid "The passwords you entered do not match. Your password was not updated."
+msgstr ""
+
+#: template-edit-profile.php:86
+msgid "The Email you entered is not valid. Please try again."
+msgstr ""
+
+#: template-edit-profile.php:88
+msgid "This email is already used by another user. Try a different one."
+msgstr ""
+
+#: template-edit-profile.php:133 admin/theme-functions.php:3648
+#: admin/theme-functions.php:3727
+msgid "Username"
+msgstr ""
+
+#: template-edit-profile.php:134
+msgid "Usernames cannot be changed."
+msgstr ""
+
+#: template-edit-profile.php:137 admin/theme-functions.php:3737
+msgid "First Name"
+msgstr ""
+
+#: template-edit-profile.php:141 admin/theme-functions.php:3742
+msgid "Last Name"
+msgstr ""
+
+#: template-edit-profile.php:145
+msgid "Nickname"
+msgstr ""
+
+#: template-edit-profile.php:145
+msgid "(required)"
+msgstr ""
+
+#: template-edit-profile.php:149
+msgid "Display to Public as"
+msgstr ""
+
+#: template-edit-profile.php:187
+msgid "Contact Info"
+msgstr ""
+
+#: template-edit-profile.php:191
+msgid "E-mail *"
+msgstr ""
+
+#: template-edit-profile.php:195 admin/theme-functions.php:3747
+msgid "Website"
+msgstr ""
+
+#: template-edit-profile.php:218
+msgid "About Yourself"
+msgstr ""
+
+#: template-edit-profile.php:222
+msgid "Biographical Information"
+msgstr ""
+
+#: template-edit-profile.php:222
+msgid ""
+"Share a little biographical information to fill out your profile. This may "
+"be shown publicly."
+msgstr ""
+
+#: template-edit-profile.php:226
+msgid "New Password"
+msgstr ""
+
+#: template-edit-profile.php:226
+msgid ""
+"If you would like to change the password type a new one. Otherwise leave "
+"this blank."
+msgstr ""
+
+#: template-edit-profile.php:230
+msgid "Type your new password again."
+msgstr ""
+
+#: template-edit-profile.php:232
+msgid "Strength indicator"
+msgstr ""
+
+#: template-edit-profile.php:244
+msgid "Update Profile"
+msgstr ""
+
+#: template-favorite-listings.php:100
+msgid "Request More Information on All Favorites"
+msgstr ""
+
+#: template-favorite-listings.php:178 template-view-listings.php:142
+msgid "Bed:"
+msgstr ""
+
+#: template-favorite-listings.php:188 template-view-listings.php:152
+msgid "Baths:"
+msgstr ""
+
+#: template-favorite-listings.php:199 template-view-listings.php:163
+#: layouts/list.php:125 includes/widgets/ct-widget-flickr.php:63
+msgid "Type:"
+msgstr ""
+
+#: template-favorite-listings.php:224
+msgid "Previous Entries"
+msgstr ""
+
+#: template-favorite-listings.php:225
+msgid "Next Entries"
+msgstr ""
+
+#. Name of the template
+msgid "Full Width 2"
+msgstr ""
+
+#. Name of the template
+msgid "Full Width"
+msgstr ""
+
+#. Name of the template
+msgid "IDX Full Width"
+msgstr ""
+
+#. Name of the template
+msgid "IDX w/Sidebar"
+msgstr ""
+
+#. Name of the template
+msgid "Landing Page"
+msgstr ""
+
+#. Name of the template
+msgid "Left Sidebar"
+msgstr ""
+
+#. Name of the template
+#: includes/user-sidebar.php:44
+#: admin/ReduxFramework/theme-options/re7-config.php:4706
+msgid "Listing Email Alerts"
+msgstr ""
+
+#: template-listing-email-alerts.php:84
+msgid "Manage your alerts"
+msgstr ""
+
+#: template-listing-email-alerts.php:85
+msgid "Here you can turn saved alerts on/off or remove them completely."
+msgstr ""
+
+#: template-listing-email-alerts.php:90
+msgid "Query"
+msgstr ""
+
+#: template-listing-email-alerts.php:93
+msgid "Date Created"
+msgstr ""
+
+#: template-listing-email-alerts.php:96
+msgid "Email Setting"
+msgstr ""
+
+#: template-listing-email-alerts.php:99 admin/theme-functions.php:3493
+msgid "Delete"
+msgstr ""
+
+#: template-listing-email-alerts.php:126
+msgid "You don't have any saved searches yet, create one above."
+msgstr ""
+
+#: template-listing-email-alerts.php:138
+msgid ""
+"Activate \"Contempo Email Alerts\" plugin via Appearance > Install Plugins."
+msgstr ""
+
+#. Name of the template
+#: includes/home-listings-count.php:58
+msgid "Open Houses"
+msgstr ""
+
+#. Name of the template
+msgid "Packages Thank You"
+msgstr ""
+
+#: template-packages-thank-you.php:56
+msgid "Select a Package"
+msgstr ""
+
+#: template-packages-thank-you.php:60
+msgid "Payment"
+msgstr ""
+
+#: template-packages-thank-you.php:64
+msgid "Complete"
+msgstr ""
+
+#. Name of the template
+msgid "Quick Search"
+msgstr ""
+
+#. Name of the template
+msgid "Sitemap"
+msgstr ""
+
+#: template-sitemap.php:51
+msgid "Last Twenty Posts"
+msgstr ""
+
+#: template-sitemap.php:67
+msgid "Pages"
+msgstr ""
+
+#: template-sitemap.php:74
+msgid "Categories"
+msgstr ""
+
+#: template-sitemap.php:81
+msgid "Posts per category"
+msgstr ""
+
+#: template-submit-listing.php:376
+msgid "You haven't chosen a package yet…"
+msgstr ""
+
+#: template-submit-listing.php:377
+msgid "Get Started!"
+msgstr ""
+
+#: template-submit-listing.php:383
+msgid "Listings Limit Reached"
+msgstr ""
+
+#: template-submit-listing.php:384
+msgid "You've reached the listings limit for your membership package."
+msgstr ""
+
+#: template-submit-listing.php:385
+msgid "Upgrade Today!"
+msgstr ""
+
+#: template-submit-listing.php:469
+msgid "Gallery Images (select as many as you like)"
+msgstr ""
+
+#: template-submit-listing.php:496
+msgid "*At least one image is for valid submission, minimum width of 817px."
+msgstr ""
+
+#: template-submit-listing.php:579
+msgid "(e.g. Cats, small dogs)"
+msgstr ""
+
+#: template-submit-listing.php:584
+msgid "(e.g. Carport, 2 Car Garage)"
+msgstr ""
+
+#: template-submit-listing.php:600
+msgid "Virtual Tour URL"
+msgstr ""
+
+#: template-submit-listing.php:655
+msgid " (e.g. 2)"
+msgstr ""
+
+#: template-submit-listing.php:660
+msgid " (e.g. 1 night)"
+msgstr ""
+
+#: template-submit-listing.php:667
+msgid " (e.g. 3:00 PM)"
+msgstr ""
+
+#: template-submit-listing.php:672
+msgid " (e.g. 11:00 AM)"
+msgstr ""
+
+#: template-submit-listing.php:679
+msgid " (e.g. 50)"
+msgstr ""
+
+#: template-submit-listing.php:684
+msgid " (e.g. 150)"
+msgstr ""
+
+#: template-submit-listing.php:691
+msgid " (e.g. 275)"
+msgstr ""
+
+#: template-submit-listing.php:696
+msgid " (e.g. 895)"
+msgstr ""
+
+#: template-submit-listing.php:801
+msgid "Save As Draft"
+msgstr ""
+
+#. Name of the template
+#: admin/ReduxFramework/theme-options/re7-config.php:1706
+msgid "Testimonials"
+msgstr ""
+
+#. Name of the template
+msgid "User Dashboard"
+msgstr ""
+
+#: template-user-dashboard.php:122
+#: admin/ReduxFramework/theme-options/re7-config.php:1656
+msgid "Featured Listings"
+msgstr ""
+
+#: template-user-dashboard.php:141
+msgid "Pending Listings"
+msgstr ""
+
+#: template-view-invoices.php:82
+msgid "You haven't placed any orders yet…"
+msgstr ""
+
+#: template-view-invoices.php:90
+msgid "Invoice"
+msgstr ""
+
+#: template-view-invoices.php:91
+msgid "Package"
+msgstr ""
+
+#: template-view-invoices.php:92
+msgid "Start"
+msgstr ""
+
+#: template-view-invoices.php:93
+msgid "Expire"
+msgstr ""
+
+#: template-view-invoices.php:94
+msgid "Recurring"
+msgstr ""
+
+#: template-view-invoices.php:96
+msgid "Total"
+msgstr ""
+
+#: template-view-invoices.php:112
+#: includes/widgets/ct-widget-contactinfo.php:136
+msgid "Yes"
+msgstr ""
+
+#: template-view-invoices.php:112
+#: includes/widgets/ct-widget-contactinfo.php:137
+msgid "No"
+msgstr ""
+
+#: template-view-invoices.php:113
+msgid "Expired"
+msgstr ""
+
+#: template-view-invoices.php:123
+msgid "-"
+msgstr ""
+
+#: template-view-listings.php:85
+msgid "Type a listing name or address here to filter the list."
+msgstr ""
+
+#: template-view-listings.php:172
+msgid "Published"
+msgstr ""
+
+#: template-view-listings.php:174
+msgid "Pending"
+msgstr ""
+
+#: template-view-listings.php:176
+msgid "Draft"
+msgstr ""
+
+#: template-view-listings.php:195
+msgid "Paid"
+msgstr ""
+
+#: template-view-listings.php:210
+msgid "Edit"
+msgstr ""
+
+#: template-view-listings.php:214 admin/theme-functions.php:4536
+msgid " Views"
+msgstr ""
+
+#: template-view-listings.php:233
+msgid "You don't have any listings yet..."
+msgstr ""
+
+#: template-view-listings.php:234
+msgid "Create One"
+msgstr ""
+
+#: admin/merlin-config.php:104 admin/merlin-config.php:120
+#: admin/merlin-config.php:136 admin/merlin-config.php:152
+#: admin/merlin-config.php:168 admin/merlin-config.php:184
+#: admin/merlin-config.php:200 admin/merlin-config.php:216
+#: admin/merlin-config.php:232 admin/merlin-config.php:248
+#: admin/merlin-config.php:264 admin/merlin-config.php:280
+#: admin/merlin-config.php:296 admin/merlin-config.php:312
+msgid "A special note for this import."
+msgstr ""
+
+#: admin/profile-fields.php:39
+msgid "Social profile information"
+msgstr ""
+
+#: admin/profile-fields.php:43
+msgid "Twitter Username"
+msgstr ""
+
+#: admin/profile-fields.php:49
+msgid "Facebook URL"
+msgstr ""
+
+#: admin/profile-fields.php:55
+msgid "Instagram URL"
+msgstr ""
+
+#: admin/profile-fields.php:61
+msgid "LinkedIn URL"
+msgstr ""
+
+#: admin/profile-fields.php:67
+msgid "YouTube URL"
+msgstr ""
+
+#: admin/profile-fields.php:76
+msgid "Extra profile information"
+msgstr ""
+
+#: admin/profile-fields.php:88
+msgid "Agent Order"
+msgstr ""
+
+#: admin/profile-fields.php:91
+msgid ""
+"If user is an agent select the order you would like them displayed on the "
+"agents page, e.g. 1, 2, 3, etc&hellip; NOTE: You must also set Real Estate 7 "
+"Options > Agents > Manually Order Agents? > to Yes, otherwise the ordering "
+"won't be applied."
+msgstr ""
+
+#: admin/profile-fields.php:95
+msgid "Profile Image"
+msgstr ""
+
+#: admin/profile-fields.php:105
+msgid ""
+"Please upload a profile picture here, if none is chosen a default image will "
+"be used."
+msgstr ""
+
+#: admin/profile-fields.php:109
+msgid "Mobile #"
+msgstr ""
+
+#: admin/profile-fields.php:115
+msgid "Fax #"
+msgstr ""
+
+#: admin/profile-fields.php:122
+msgid "Title"
+msgstr ""
+
+#: admin/profile-fields.php:128
+msgid "Tagline"
+msgstr ""
+
+#: admin/profile-fields.php:134
+msgid "Agent License #"
+msgstr ""
+
+#: admin/profile-fields.php:137
+msgid "Add the agents license number here."
+msgstr ""
+
+#: admin/profile-fields.php:144
+msgid "Agent Testimonials"
+msgstr ""
+
+#: admin/profile-fields.php:148
+msgid ""
+"If this user is marked as an agent (\"Show on agents page\" option above) "
+"use this area to add client testimonials."
+msgstr ""
+
+#: admin/profile-fields.php:162
+msgid "Office Information"
+msgstr ""
+
+#: admin/profile-fields.php:166
+msgid "Personal Logo"
+msgstr ""
+
+#: admin/profile-fields.php:176
+msgid ""
+"Upload your personal logo here, or if you choose to associate a Brokerage "
+"below that logo will be used instead."
+msgstr ""
+
+#: admin/profile-fields.php:186
+msgid "Select a Brokerage"
+msgstr ""
+
+#: admin/profile-fields.php:194
+msgid ""
+"Assign a brokerage here, these are pulled from the Brokerage custom post "
+"type."
+msgstr ""
+
+#: admin/profile-fields.php:198
+msgid "Brokerage License #"
+msgstr ""
+
+#: admin/profile-fields.php:201
+msgid "Add the brokerage license number here."
+msgstr ""
+
+#: admin/profile-fields.php:205
+msgid "Office #"
+msgstr ""
+
+#: admin/profile-fields.php:223
+msgid "State or Province"
+msgstr ""
+
+#: admin/profile-fields.php:229 admin/theme-functions.php:5541
+msgid "Postal Code"
+msgstr ""
+
+#: admin/theme-functions.php:45
+msgid "Please Update Your PHP Version to the Recommended 5.6+"
+msgstr ""
+
+#: admin/theme-functions.php:46
+msgid ""
+"Otherwise some of the Theme Functions and Custom Visual Composer modules "
+"won't be available for use, or cause issues with your site display."
+msgstr ""
+
+#: admin/theme-functions.php:47
+msgid ""
+"Its a quick and simple process (no more than a couple minutes), please refer "
+"to this knowledgebase article below."
+msgstr ""
+
+#: admin/theme-functions.php:48
+msgid "Minimum PHP Version 5.6+ and How to Update to It"
+msgstr ""
+
+#: admin/theme-functions.php:49 admin/theme-functions.php:91
+#: admin/theme-functions.php:133 admin/theme-functions.php:175
+#: admin/plugins/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: admin/theme-functions.php:89
+msgid "WP Favorite Posts Needs to be Setup"
+msgstr ""
+
+#: admin/theme-functions.php:90 admin/theme-functions.php:132
+#: admin/theme-functions.php:174
+msgid "Just takes a few seconds to setup the plugin properly please see the "
+msgstr ""
+
+#: admin/theme-functions.php:90 admin/theme-functions.php:132
+#: admin/theme-functions.php:174
+msgid "documentation"
+msgstr ""
+
+#: admin/theme-functions.php:131
+msgid "Contempo Compare Listings Needs to be Setup"
+msgstr ""
+
+#: admin/theme-functions.php:173
+msgid "WordPress Social Login Needs to be Setup"
+msgstr ""
+
+#: admin/theme-functions.php:387
+msgid "Listing Large"
+msgstr ""
+
+#: admin/theme-functions.php:398
+msgid "Primary Left Menu"
+msgstr ""
+
+#: admin/theme-functions.php:399
+msgid "Primary Right Menu"
+msgstr ""
+
+#: admin/theme-functions.php:400
+msgid "Primary Full Width"
+msgstr ""
+
+#: admin/theme-functions.php:401
+msgid "Footer Menu"
+msgstr ""
+
+#: admin/theme-functions.php:425
+msgid "Menu doesn't exist, please create one by clicking here."
+msgstr ""
+
+#: admin/theme-functions.php:1162
+msgid "Open Map"
+msgstr ""
+
+#: admin/theme-functions.php:1163
+msgid "Close Search"
+msgstr ""
+
+#: admin/theme-functions.php:1166
+msgid "Open"
+msgstr ""
+
+#: admin/theme-functions.php:1167
+msgid "Search Saved"
+msgstr ""
+
+#: admin/theme-functions.php:1179 admin/theme-functions.php:5749
+msgid "All Towns"
+msgstr ""
+
+#: admin/theme-functions.php:1181 admin/theme-functions.php:5751
+msgid "All Villages"
+msgstr ""
+
+#: admin/theme-functions.php:1183 admin/theme-functions.php:5753
+msgid "All Cities"
+msgstr ""
+
+#: admin/theme-functions.php:1187 admin/theme-functions.php:5755
+msgid "All Areas"
+msgstr ""
+
+#: admin/theme-functions.php:1189 admin/theme-functions.php:5757
+#: admin/theme-functions.php:5791
+msgid "All Suburbs"
+msgstr ""
+
+#: admin/theme-functions.php:1191 admin/theme-functions.php:5759
+msgid "All Provinces"
+msgstr ""
+
+#: admin/theme-functions.php:1193 admin/theme-functions.php:5761
+msgid "All Regions"
+msgstr ""
+
+#: admin/theme-functions.php:1195 admin/theme-functions.php:5763
+msgid "All Parishes"
+msgstr ""
+
+#: admin/theme-functions.php:1197 admin/theme-functions.php:5765
+msgid "All States"
+msgstr ""
+
+#: admin/theme-functions.php:1201 admin/theme-functions.php:5799
+msgid "All Postcodes"
+msgstr ""
+
+#: admin/theme-functions.php:1203 admin/theme-functions.php:5801
+msgid "All Postal Codes"
+msgstr ""
+
+#: admin/theme-functions.php:1205 admin/theme-functions.php:5803
+msgid "All Zipcodes"
+msgstr ""
+
+#: admin/theme-functions.php:1220
+msgid "* This field is required"
+msgstr ""
+
+#: admin/theme-functions.php:1221
+msgid "* Please select an option"
+msgstr ""
+
+#: admin/theme-functions.php:1222
+msgid "* This checkbox is required"
+msgstr ""
+
+#: admin/theme-functions.php:1223
+msgid "* Invalid phone number"
+msgstr ""
+
+#: admin/theme-functions.php:1224
+msgid "* Invalid email address"
+msgstr ""
+
+#: admin/theme-functions.php:1225
+msgid "* Invalid date, must be in YYYY-MM-DD format"
+msgstr ""
+
+#: admin/theme-functions.php:1226
+msgid "* Numbers only"
+msgstr ""
+
+#: admin/theme-functions.php:1227
+msgid "* No special caracters allowed"
+msgstr ""
+
+#: admin/theme-functions.php:1228
+msgid "* Letters only"
+msgstr ""
+
+#: admin/theme-functions.php:1895 admin/theme-functions.php:3756
+msgid "Buyer"
+msgstr ""
+
+#: admin/theme-functions.php:1907 admin/theme-functions.php:3757
+msgid "Seller"
+msgstr ""
+
+#: admin/theme-functions.php:1945
+msgid "Broker"
+msgstr ""
+
+#: admin/theme-functions.php:2057 admin/theme-functions.php:2094
+#: admin/theme-functions.php:2130
+msgid "Beds: "
+msgstr ""
+
+#: admin/theme-functions.php:2058 admin/theme-functions.php:2095
+#: admin/theme-functions.php:2131
+msgid "Baths: "
+msgstr ""
+
+#: admin/theme-functions.php:2059 admin/theme-functions.php:2096
+#: admin/theme-functions.php:2132
+msgid "Sq Ft: "
+msgstr ""
+
+#: admin/theme-functions.php:2068 admin/theme-functions.php:2105
+#: admin/theme-functions.php:2140
+msgid "1 Listing found"
+msgstr ""
+
+#: admin/theme-functions.php:2070 admin/theme-functions.php:2107
+#: admin/theme-functions.php:2142
+msgid " Listings found"
+msgstr ""
+
+#: admin/theme-functions.php:2147
+msgid "No Listings Found"
+msgstr ""
+
+#: admin/theme-functions.php:2366
+msgid "Sort By"
+msgstr ""
+
+#: admin/theme-functions.php:2367
+msgid "Default Order"
+msgstr ""
+
+#: admin/theme-functions.php:2368
+msgid "Price - Low to High"
+msgstr ""
+
+#: admin/theme-functions.php:2369
+msgid "Price - High to Low"
+msgstr ""
+
+#: admin/theme-functions.php:2370
+msgid "Date - Old to New"
+msgstr ""
+
+#: admin/theme-functions.php:2371
+msgid "Date - New to Old"
+msgstr ""
+
+#: admin/theme-functions.php:2598
+msgid "New submission in"
+msgstr ""
+
+#: admin/theme-functions.php:2600
+msgid "Hi!"
+msgstr ""
+
+#: admin/theme-functions.php:2601
+msgid "We have a new submission in"
+msgstr ""
+
+#: admin/theme-functions.php:2602
+msgid "Check it out"
+msgstr ""
+
+#: admin/theme-functions.php:2716 admin/theme-functions.php:2791
+#: admin/theme-functions.php:2894 admin/theme-functions.php:3009
+#: admin/theme-functions.php:3101 admin/theme-functions.php:3191
+#: admin/theme-functions.php:3302
+msgid "You need to setup the Google Maps API."
+msgstr ""
+
+#: admin/theme-functions.php:2717 admin/theme-functions.php:2792
+#: admin/theme-functions.php:2895 admin/theme-functions.php:3010
+#: admin/theme-functions.php:3102 admin/theme-functions.php:3192
+#: admin/theme-functions.php:3303
+msgid "Go into Admin > Real Estate 7 Options > Google Maps"
+msgstr ""
+
+#: admin/theme-functions.php:3324
+msgid "Prev"
+msgstr ""
+
+#: admin/theme-functions.php:3604
+msgid "User registration is not enabled"
+msgstr ""
+
+#: admin/theme-functions.php:3634
+msgid "Log in"
+msgstr ""
+
+#: admin/theme-functions.php:3636
+msgid "Don't have an account?"
+msgstr ""
+
+#: admin/theme-functions.php:3636
+msgid "Create your account,"
+msgstr ""
+
+#: admin/theme-functions.php:3636
+msgid "it takes less than a minute."
+msgstr ""
+
+#: admin/theme-functions.php:3651 admin/theme-functions.php:3764
+msgid "Password"
+msgstr ""
+
+#: admin/theme-functions.php:3666
+msgid "Lost your password?"
+msgstr ""
+
+#: admin/theme-functions.php:3676
+msgid "Lost Password?"
+msgstr ""
+
+#: admin/theme-functions.php:3677
+msgid ""
+"Enter your email address and we'll send you a link you can use to pick a new "
+"password."
+msgstr ""
+
+#: admin/theme-functions.php:3679
+msgid "Username or Email"
+msgstr ""
+
+#: admin/theme-functions.php:3681
+msgid "Get New Password"
+msgstr ""
+
+#: admin/theme-functions.php:3717
+msgid "Create an account"
+msgstr ""
+
+#: admin/theme-functions.php:3718
+msgid "It takes less than a minute. If you already have an account "
+msgstr ""
+
+#: admin/theme-functions.php:3718
+msgid "login"
+msgstr ""
+
+#: admin/theme-functions.php:3753
+msgid "Buyer, Seller or Agent?"
+msgstr ""
+
+#: admin/theme-functions.php:3755
+msgid "Please choose"
+msgstr ""
+
+#: admin/theme-functions.php:3769
+msgid "Password Again"
+msgstr ""
+
+#: admin/theme-functions.php:3775
+msgid "I accept the"
+msgstr ""
+
+#: admin/theme-functions.php:3775
+msgid "Terms &amp; Conditions"
+msgstr ""
+
+#: admin/theme-functions.php:3780
+msgid "Register"
+msgstr ""
+
+#: admin/theme-functions.php:3815
+msgid "Username already taken"
+msgstr ""
+
+#: admin/theme-functions.php:3819 admin/theme-functions.php:4007
+#: admin/theme-functions.php:4053
+msgid "Invalid username"
+msgstr ""
+
+#: admin/theme-functions.php:3823
+msgid "Please enter a username"
+msgstr ""
+
+#: admin/theme-functions.php:3827
+msgid "Invalid email"
+msgstr ""
+
+#: admin/theme-functions.php:3831
+msgid "Email already registered"
+msgstr ""
+
+#: admin/theme-functions.php:3835 admin/theme-functions.php:4012
+#: admin/theme-functions.php:4058
+msgid "Please enter a password"
+msgstr ""
+
+#: admin/theme-functions.php:3839
+msgid "Passwords do not match"
+msgstr ""
+
+#: admin/theme-functions.php:3843
+msgid "Terms & Conditions must be checked"
+msgstr ""
+
+#: admin/theme-functions.php:4018 admin/theme-functions.php:4064
+msgid "Incorrect password"
+msgstr ""
+
+#: admin/theme-functions.php:4098
+msgid "Error"
+msgstr ""
+
+#: admin/theme-functions.php:4221 admin/theme-functions.php:4225
+msgid "Featured Image"
+msgstr ""
+
+#: admin/theme-functions.php:4223
+msgid "Brokerage Logo"
+msgstr ""
+
+#: admin/theme-functions.php:4253
+msgid "Enter the listing street address here"
+msgstr ""
+
+#: admin/theme-functions.php:4269
+msgid ""
+"NOTE: The Listing Title needs to be <strong>only the Street Address</strong> "
+"(e.g. 123 Somewhere St.) otherwise the mapping won't work properly, use the "
+"Alternate Title field below for Listing Names, etc…the Alt Title field will "
+"override the street address on the front end of your site."
+msgstr ""
+
+#: admin/theme-functions.php:4288
+#: admin/ReduxFramework/theme-options/re7-config.php:4155
+msgid "Price & Description"
+msgstr ""
+
+#: admin/theme-functions.php:4289
+msgid "Photos & Files"
+msgstr ""
+
+#: admin/theme-functions.php:4290
+#: admin/ReduxFramework/theme-options/re7-config.php:4244
+msgid "Details"
+msgstr ""
+
+#: admin/theme-functions.php:4292 includes/single-listing-sub-navigation.php:78
+#: admin/ReduxFramework/theme-options/re7-config.php:4363
+msgid "Rental Info"
+msgstr ""
+
+#: admin/theme-functions.php:4294 includes/single-listing-map.php:18
+#: includes/single-listing-sub-navigation.php:135
+#: includes/single-listing-sub-navigation.php:164
+#: admin/ReduxFramework/theme-options/re7-config.php:4452
+msgid "Location"
+msgstr ""
+
+#: admin/theme-functions.php:4396
+msgid "Add to Favorites"
+msgstr ""
+
+#: admin/theme-functions.php:4401
+msgid "Favorite"
+msgstr ""
+
+#: admin/theme-functions.php:4514
+msgid " Photo"
+msgstr ""
+
+#: admin/theme-functions.php:4516
+msgid " Photos"
+msgstr ""
+
+#: admin/theme-functions.php:4658 admin/theme-functions.php:5767
+#: layouts/list.php:84
+msgid "Rooms"
+msgstr ""
+
+#: admin/theme-functions.php:4660 admin/theme-functions.php:5769
+#: layouts/list.php:86
+msgid "Bedrooms"
+msgstr ""
+
+#: admin/theme-functions.php:4664 admin/theme-functions.php:5771
+#: includes/sub-listings.php:89 layouts/list.php:90
+#: includes/widgets/ct-widget-agentsotherlistings.php:125
+msgid "Bed"
+msgstr ""
+
+#: admin/theme-functions.php:4680 admin/theme-functions.php:5775
+#: layouts/list.php:106
+msgid "Bathrooms"
+msgstr ""
+
+#: admin/theme-functions.php:4684 admin/theme-functions.php:5777
+#: layouts/list.php:110
+msgid "Bath"
+msgstr ""
+
+#: admin/theme-functions.php:4735 includes/sub-listings.php:122
+#: includes/widgets/ct-widget-agentsotherlistings.php:158
+msgid "Rating"
+msgstr ""
+
+#: admin/theme-functions.php:4752 includes/sub-listings.php:139
+#: includes/widgets/ct-widget-agentsotherlistings.php:175
+msgid "Guests"
+msgstr ""
+
+#: admin/theme-functions.php:4767 admin/theme-functions.php:4945
+#: includes/sub-listings.php:154
+#: includes/widgets/ct-widget-agentsotherlistings.php:190
+msgid "Min Stay"
+msgstr ""
+
+#: admin/theme-functions.php:4815
+msgid "Price Per"
+msgstr ""
+
+#: admin/theme-functions.php:4853
+msgid "Walk Score&reg;"
+msgstr ""
+
+#: admin/theme-functions.php:4912
+msgid "Check In"
+msgstr ""
+
+#: admin/theme-functions.php:4923
+msgid "Check Out"
+msgstr ""
+
+#: admin/theme-functions.php:4934
+msgid "Max Guests"
+msgstr ""
+
+#: admin/theme-functions.php:4966
+msgid "Extra People"
+msgstr ""
+
+#: admin/theme-functions.php:5076
+#, php-format
+msgid "%s ago"
+msgstr ""
+
+#: admin/theme-functions.php:5096
+msgid "Updated on"
+msgstr ""
+
+#: admin/theme-functions.php:5098
+msgid "at"
+msgstr ""
+
+#: admin/theme-functions.php:5177
+msgid "Hosted By"
+msgstr ""
+
+#: admin/theme-functions.php:5231 admin/theme-functions.php:5236
+msgid "Brokered by"
+msgstr ""
+
+#: admin/theme-functions.php:5503
+msgid " Sq Ft"
+msgstr ""
+
+#: admin/theme-functions.php:5505
+msgid " m²"
+msgstr ""
+
+#: admin/theme-functions.php:5520
+msgid "Acres"
+msgstr ""
+
+#: admin/theme-functions.php:5522
+msgid "Sq Ft"
+msgstr ""
+
+#: admin/theme-functions.php:5524
+msgid "m²"
+msgstr ""
+
+#: admin/theme-functions.php:5566
+msgid "School District"
+msgstr ""
+
+#: admin/theme-functions.php:5568
+msgid "Building"
+msgstr ""
+
+#: admin/theme-functions.php:5570
+msgid "Borough"
+msgstr ""
+
+#: admin/theme-functions.php:5572
+msgid "Sector"
+msgstr ""
+
+#: admin/theme-functions.php:5743
+msgid "All Property Types"
+msgstr ""
+
+#: admin/theme-functions.php:5745
+msgid "All Countries"
+msgstr ""
+
+#: admin/theme-functions.php:5747
+msgid "All Counties"
+msgstr ""
+
+#: admin/theme-functions.php:5781
+msgid "All Statuses"
+msgstr ""
+
+#: admin/theme-functions.php:5783
+msgid "All Additional Features"
+msgstr ""
+
+#: admin/theme-functions.php:5785
+msgid "All Neighborhoods"
+msgstr ""
+
+#: admin/theme-functions.php:5787
+msgid "All Districts"
+msgstr ""
+
+#: admin/theme-functions.php:5789
+msgid "All School Districts"
+msgstr ""
+
+#: admin/theme-functions.php:5793
+msgid "All Buildings"
+msgstr ""
+
+#: admin/theme-functions.php:5795
+msgid "All Sectors"
+msgstr ""
+
+#: admin/theme-functions.php:5797
+msgid "All Communities"
+msgstr ""
+
+#: admin/theme-functions.php:5805
+msgid "Pet Friendly?"
+msgstr ""
+
+#: admin/theme-functions.php:5807
+msgid "Furnished/Unfurnished?"
+msgstr ""
+
+#: admin/theme-functions.php:6024 includes/single-listing-yelp.php:165
+msgid "You need to setup the Yelp Fusion API."
+msgstr ""
+
+#: admin/theme-functions.php:6025 includes/single-listing-yelp.php:166
+msgid "Go into Admin > Real Estate 7 Options > What's Nearby? > Create App"
+msgstr ""
+
+#: admin/theme-functions.php:6027
+msgid "You've reached the daily Yelp Fusion API limit."
+msgstr ""
+
+#: admin/theme-functions.php:6028
+msgid "Please visit https://www.yelp.com/developers/v3/manage_app"
+msgstr ""
+
+#: admin/theme-functions.php:6030
+msgid "General 502 Error from Yelp Fusion API"
+msgstr ""
+
+#: admin/theme-functions.php:6031 admin/theme-functions.php:6034
+msgid "Please check your server error logs."
+msgstr ""
+
+#: admin/theme-functions.php:6033
+msgid "General 500 Error from Yelp Fusion API"
+msgstr ""
+
+#: admin/theme-functions.php:6036
+msgid "General Error from Yelp Fusion API"
+msgstr ""
+
+#: admin/theme-functions.php:6119
+msgid " km"
+msgstr ""
+
+#: admin/theme-functions.php:6121
+msgid " mi"
+msgstr ""
+
+#: admin/theme-functions.php:6136
+msgid "reviews"
+msgstr ""
+
+#: admin/theme-functions.php:6209
+msgid "Unfortunately, your API key is over its quota."
+msgstr ""
+
+#: admin/theme-functions.php:6215
+msgid "Unfortunately, there's no results nearby for this listing."
+msgstr ""
+
+#: admin/theme-functions.php:6221
+msgid ""
+"Unfortunately, your request was denied, generally because of lack of an "
+"invalid key parameter."
+msgstr ""
+
+#: admin/theme-functions.php:6227
+msgid ""
+"Unfortunately, your request was invalid, generally due to wrong address "
+"information or lat/long coordinates."
+msgstr ""
+
+#: admin/theme-functions.php:6233
+msgid ""
+"A server-side error happened trying again may be successful, please "
+"shift+refresh the page."
+msgstr ""
+
+#: admin/theme-functions.php:6450
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: admin/theme-functions.php:6456
+#, php-format
+msgid "Author: %s"
+msgstr ""
+
+#: admin/theme-functions.php:6459
+#, php-format
+msgid "Day: %s"
+msgstr ""
+
+#: admin/theme-functions.php:6462
+#, php-format
+msgid "Month: %s"
+msgstr ""
+
+#: admin/theme-functions.php:6462
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: admin/theme-functions.php:6465
+#, php-format
+msgid "Year: %s"
+msgstr ""
+
+#: admin/theme-functions.php:6465
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: admin/theme-functions.php:6468
+msgid "Archives"
+msgstr ""
+
+#: admin/theme-functions.php:6543
+msgid "Share This"
+msgstr ""
+
+#: admin/theme-functions.php:6546 admin/theme-functions.php:6547
+#: admin/theme-functions.php:6548 includes/post-social.php:16
+#: includes/post-social.php:17 includes/post-social.php:18
+msgid "Check out this great article on"
+msgstr ""
+
+#: admin/theme-functions.php:6587
+msgid "About The Author"
+msgstr ""
+
+#: admin/theme-functions.php:6644
+msgid "Related Posts"
+msgstr ""
+
+#: admin/theme-functions.php:6694
+msgid "<span class=\"meta-nav\">&larr;</span> Older"
+msgstr ""
+
+#: admin/theme-functions.php:6695
+msgid "Newer <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: admin/theme-functions.php:7203
+msgid ""
+"<span class=\"meta-nav\"><i class=\"fa fa-chevron-left\"></i></span> Older "
+"listings"
+msgstr ""
+
+#: admin/theme-functions.php:7204
+msgid ""
+"Newer listings <span class=\"meta-nav\"><i class=\"fa fa-chevron-right\"></i>"
+"</span>"
+msgstr ""
+
+#: admin/theme-functions.php:7226 admin/theme-functions.php:7227
+msgid "%link"
+msgstr ""
+
+#: admin/theme-functions.php:7547
+msgid "g:i a"
+msgstr ""
+
+#: admin/theme-functions.php:7550
+#, php-format
+msgid "Minute %1$s"
+msgstr ""
+
+#: admin/theme-functions.php:7550
+msgid "i"
+msgstr ""
+
+#: admin/theme-functions.php:7553
+msgid "g a"
+msgstr ""
+
+#: admin/theme-functions.php:7564 admin/theme-functions.php:7570
+#: admin/theme-functions.php:7570 admin/theme-functions.php:7575
+#: admin/theme-functions.php:7575 admin/theme-functions.php:7580
+msgid "Y"
+msgstr ""
+
+#: admin/theme-functions.php:7565 admin/theme-functions.php:7576
+msgid "F"
+msgstr ""
+
+#: admin/theme-functions.php:7566
+msgid "j"
+msgstr ""
+
+#: admin/theme-functions.php:7571
+#, php-format
+msgid "Week %1$s"
+msgstr ""
+
+#: admin/theme-functions.php:7571
+msgid "W"
+msgstr ""
+
+#: admin/theme-functions.php:7587
+#, php-format
+msgid "Search results for &quot;%1$s&quot;"
+msgstr ""
+
+#: admin/theme-functions.php:7591
+msgid "404 Not Found"
+msgstr ""
+
+#: includes/advanced-search.php:189 includes/header-advanced-search.php:191
+#: includes/header-advanced-search.php:454
+#: includes/widgets/ct-widget-listingssearch.php:200
+msgid "From"
+msgstr ""
+
+#: includes/advanced-search.php:198 includes/header-advanced-search.php:200
+#: includes/header-advanced-search.php:463
+#: includes/widgets/ct-widget-listingssearch.php:209
+msgid "To"
+msgstr ""
+
+#: includes/advanced-search.php:243 includes/header-advanced-search.php:249
+#: includes/header-advanced-search.php:508
+#: includes/header-advanced-search.php:509
+msgid "Keyword"
+msgstr ""
+
+#: includes/advanced-search.php:244 includes/header-advanced-search.php:250
+msgid "Street, City, State, Zip or keyword"
+msgstr ""
+
+#: includes/advanced-search.php:260
+#: includes/widgets/ct-widget-listingssearch.php:270
+msgid "More Search Options"
+msgstr ""
+
+#: includes/agent-contact-modal.php:21 includes/single-listing-home.php:269
+#: includes/widgets/ct-widget-listingscontact.php:30
+msgid "Tell me more about this property"
+msgstr ""
+
+#: includes/featured-listings.php:31 includes/featured-listings.php:33
+msgid "View All"
+msgstr ""
+
+#: includes/featured-listings.php:67 includes/featured-listings.php:76
+#: includes/home-listings-carousel.php:44
+#: includes/home-listings-carousel.php:53 includes/single-listing-home.php:28
+msgid "featured"
+msgstr ""
+
+#: includes/header-advanced-search.php:252
+#: includes/home-hero-advanced-search.php:22
+msgid "Searching..."
+msgstr ""
+
+#: includes/header-advanced-search.php:292
+#: includes/home-hero-advanced-search.php:21
+msgid "Enter a street address or keyword"
+msgstr ""
+
+#: includes/header-advanced-search.php:408
+msgid "Addtional Features"
+msgstr ""
+
+#: includes/home-listings-count.php:32
+msgid "Homes For Sale"
+msgstr ""
+
+#: includes/home-listings-count.php:84
+msgid "Recently Sold"
+msgstr ""
+
+#: includes/home-listings-count.php:110
+msgid "Reduced"
+msgstr ""
+
+#: includes/home-listings-count.php:136
+msgid "For Rent"
+msgstr ""
+
+#: includes/home-listings-count.php:162
+msgid "Leased"
+msgstr ""
+
+#: includes/home-listings-count.php:214
+msgid "New Additions"
+msgstr ""
+
+#: includes/home-listings-count.php:240
+msgid "Special Offers"
+msgstr ""
+
+#: includes/single-listing-attachments.php:20
+#: includes/single-listing-sub-navigation.php:106
+msgid "Attachments"
+msgstr ""
+
+#: includes/single-listing-booking-calendar.php:17
+#: includes/single-listing-home.php:155
+msgid "Book this listing"
+msgstr ""
+
+#: includes/single-listing-contact.php:106
+msgid "Agent #"
+msgstr ""
+
+#: includes/single-listing-contact.php:203 includes/single-listing-home.php:265
+msgid "Request More Information"
+msgstr ""
+
+#: includes/single-listing-contact.php:216
+msgid "Tell me more about this listing"
+msgstr ""
+
+#: includes/single-listing-contact.php:257 includes/single-listing-home.php:296
+msgid "Co-listing Agent"
+msgstr ""
+
+#: includes/single-listing-energy-efficiency.php:21
+msgid "Energy Efficiency"
+msgstr ""
+
+#: includes/single-listing-energy-efficiency.php:26
+msgid "Energy Class"
+msgstr ""
+
+#: includes/single-listing-energy-efficiency.php:29
+msgid "Global Energy Performance"
+msgstr ""
+
+#: includes/single-listing-energy-efficiency.php:32
+msgid "Renewable Energy Performance"
+msgstr ""
+
+#: includes/single-listing-energy-efficiency.php:35
+msgid "Building Energy Performance"
+msgstr ""
+
+#: includes/single-listing-google-places.php:23
+#: includes/single-listing-yelp.php:23
+#: admin/ReduxFramework/theme-options/re7-config.php:3726
+msgid "What's Nearby?"
+msgstr ""
+
+#: includes/single-listing-google-places.php:66
+#: includes/single-listing-yelp.php:41
+msgid "Restaurants"
+msgstr ""
+
+#: includes/single-listing-google-places.php:75
+#: includes/single-listing-yelp.php:49
+msgid "Coffee Shops"
+msgstr ""
+
+#: includes/single-listing-google-places.php:84
+#: includes/single-listing-yelp.php:121
+msgid "Stores"
+msgstr ""
+
+#: includes/single-listing-google-places.php:93
+#: includes/single-listing-yelp.php:65
+msgid "Education"
+msgstr ""
+
+#: includes/single-listing-google-places.php:102
+msgid "Banks"
+msgstr ""
+
+#: includes/single-listing-google-places.php:111
+#: includes/single-listing-yelp.php:81
+msgid "Bars"
+msgstr ""
+
+#: includes/single-listing-google-places.php:120
+#: includes/single-listing-yelp.php:89
+msgid "Hospitals"
+msgstr ""
+
+#: includes/single-listing-google-places.php:129
+#: includes/single-listing-yelp.php:97
+msgid "Gas Stations"
+msgstr ""
+
+#: includes/single-listing-google-places.php:138
+#: includes/single-listing-yelp.php:105
+msgid "Transit Stations"
+msgstr ""
+
+#: includes/single-listing-google-places.php:147
+#: includes/single-listing-yelp.php:113
+msgid "Convenience Stores"
+msgstr ""
+
+#: includes/single-listing-google-places.php:156
+#: includes/single-listing-yelp.php:129
+msgid "Shopping Malls"
+msgstr ""
+
+#: includes/single-listing-google-places.php:165
+#: includes/single-listing-yelp.php:137
+msgid "Veterinary Care"
+msgstr ""
+
+#: includes/single-listing-google-places.php:174
+#: includes/single-listing-yelp.php:145
+msgid "Pet Store"
+msgstr ""
+
+#: includes/single-listing-google-places.php:183
+#: includes/single-listing-yelp.php:153
+msgid "Park"
+msgstr ""
+
+#: includes/single-listing-google-places.php:196
+msgid "Google Places/What's Nearby? Error."
+msgstr ""
+
+#: includes/single-listing-google-places.php:197
+msgid ""
+"You need to create an API key go into Admin > Real Estate 7 Options > Google "
+"Maps > API Key, then setup the options via Real Estate 7 Options > \"What's "
+"Nearby?\" panel."
+msgstr ""
+
+#: includes/single-listing-header.php:38 includes/single-listing-header.php:81
+#: includes/single-listing-home.php:74
+msgid "Co-listing"
+msgstr ""
+
+#: includes/single-listing-home.php:135
+#: includes/single-listing-rental-info.php:47
+msgid "Prices"
+msgstr ""
+
+#: includes/single-listing-home.php:365
+msgid "Share This Listing"
+msgstr ""
+
+#: includes/single-listing-map.php:27
+msgid "Enter your starting address"
+msgstr ""
+
+#: includes/single-listing-map.php:43
+msgid "get directions"
+msgstr ""
+
+#: includes/single-listing-multi-floorplan.php:21
+msgid "Floor Plans & Pricing"
+msgstr ""
+
+#: includes/single-listing-multi-floorplan.php:40
+msgid "Size"
+msgstr ""
+
+#: includes/single-listing-multi-floorplan.php:46
+msgid "Availability"
+msgstr ""
+
+#: includes/single-listing-open-house.php:35
+msgid "Time"
+msgstr ""
+
+#: includes/single-listing-open-house.php:38
+#: includes/single-listing-open-house.php:80
+msgid "RSVP"
+msgstr ""
+
+#: includes/single-listing-rental-info.php:25
+msgid "Rental Information"
+msgstr ""
+
+#: includes/single-listing-sub-listings.php:21
+msgid "Other Listings in Neighborhood"
+msgstr ""
+
+#: includes/single-listing-sub-listings.php:23
+msgid "Other Listings in Suburb"
+msgstr ""
+
+#: includes/single-listing-sub-listings.php:25
+msgid "Other Listings in District"
+msgstr ""
+
+#: includes/single-listing-sub-listings.php:27
+msgid "Other Listings in School District"
+msgstr ""
+
+#: includes/single-listing-sub-listings.php:29
+msgid "Other Listings in Building"
+msgstr ""
+
+#: includes/single-listing-sub-listings.php:31
+msgid "Other Listings in Borough"
+msgstr ""
+
+#: includes/single-listing-sub-listings.php:33
+msgid "Other Listings in Community"
+msgstr ""
+
+#: includes/single-listing-sub-navigation.php:34
+msgid "Description"
+msgstr ""
+
+#: includes/single-listing-sub-navigation.php:61
+msgid "Floor Plans"
+msgstr ""
+
+#: includes/single-listing-sub-navigation.php:87
+msgid "Features"
+msgstr ""
+
+#: includes/single-listing-sub-navigation.php:96
+msgid "Booking"
+msgstr ""
+
+#: includes/single-listing-sub-navigation.php:117
+#: includes/single-listing-video.php:16
+msgid "Video"
+msgstr ""
+
+#: includes/single-listing-sub-navigation.php:127
+msgid "Tour"
+msgstr ""
+
+#: includes/single-listing-sub-navigation.php:142
+msgid "Nearby"
+msgstr ""
+
+#: includes/single-listing-sub-navigation.php:163
+msgid "Listing Features"
+msgstr ""
+
+#: includes/single-listing-virtual-tour.php:19
+msgid "Virtual Tour"
+msgstr ""
+
+#: includes/single-listing-yelp.php:22
+msgid "powered by "
+msgstr ""
+
+#: includes/single-listing-yelp.php:57
+msgid "Grocery"
+msgstr ""
+
+#: includes/single-listing-yelp.php:73
+msgid "Bank"
+msgstr ""
+
+#: layouts/blog-grid.php:96 layouts/blog-large.php:96
+msgid "Read More"
+msgstr ""
+
+#: layouts/grid.php:22 layouts/list.php:23
+msgid "This agent currently has no active listings."
+msgstr ""
+
+#: layouts/grid.php:24 layouts/list.php:25
+msgid "This brokerage currently has no active listings."
+msgstr ""
+
+#: layouts/grid.php:26 layouts/list.php:27
+msgid "No properties were found which match your search criteria"
+msgstr ""
+
+#: layouts/saved-search-list.php:57 includes/widgets/ct-widget-tabs.php:214
+msgid "on"
+msgstr ""
+
+#: layouts/saved-search-list.php:57
+msgid "On"
+msgstr ""
+
+#: layouts/saved-search-list.php:58
+msgid "off"
+msgstr ""
+
+#: layouts/saved-search-list.php:58
+msgid "Off"
+msgstr ""
+
+#: admin/ct-social/ct-social.php:28
+msgid "CT Social"
+msgstr ""
+
+#: admin/ct-social/ct-social.php:126
+#: includes/widgets/ct-widget-agentinfo.php:106
+#: includes/widgets/ct-widget-agentsotherlistings.php:286
+#: includes/widgets/ct-widget-blogauthor.php:60
+#: includes/widgets/ct-widget-brokerinfo.php:78
+#: includes/widgets/ct-widget-contactinfo.php:141
+#: includes/widgets/ct-widget-latestposts.php:70
+#: includes/widgets/ct-widget-listings.php:129
+#: includes/widgets/ct-widget-listingscontact.php:68
+#: includes/widgets/ct-widget-listingssearch.php:294
+#: includes/widgets/ct-widget-search.php:40
+#: includes/widgets/ct-widget-testimonials.php:62
+msgid "Title:"
+msgstr ""
+
+#: admin/ct-social/ct-social.php:130
+msgid "Dribbble:"
+msgstr ""
+
+#: admin/ct-social/ct-social.php:134
+#: includes/widgets/ct-widget-contactinfo.php:177
+msgid "Email:"
+msgstr ""
+
+#: admin/ct-social/ct-social.php:138
+#: includes/widgets/ct-widget-contactinfo.php:181
+msgid "Facebook:"
+msgstr ""
+
+#: admin/ct-social/ct-social.php:142
+msgid "Flickr:"
+msgstr ""
+
+#: admin/ct-social/ct-social.php:146
+msgid "Foursquare:"
+msgstr ""
+
+#: admin/ct-social/ct-social.php:150
+msgid "GitHub:"
+msgstr ""
+
+#: admin/ct-social/ct-social.php:154
+#: includes/widgets/ct-widget-contactinfo.php:189
+msgid "Google+:"
+msgstr ""
+
+#: admin/ct-social/ct-social.php:158
+#: includes/widgets/ct-widget-contactinfo.php:201
+msgid "Instagram:"
+msgstr ""
+
+#: admin/ct-social/ct-social.php:162
+#: includes/widgets/ct-widget-contactinfo.php:193
+msgid "LinkedIn:"
+msgstr ""
+
+#: admin/ct-social/ct-social.php:166
+msgid "Medium:"
+msgstr ""
+
+#: admin/ct-social/ct-social.php:170
+#: includes/widgets/ct-widget-contactinfo.php:197
+msgid "Pinterest:"
+msgstr ""
+
+#: admin/ct-social/ct-social.php:174
+msgid "Skype:"
+msgstr ""
+
+#: admin/ct-social/ct-social.php:178
+#: includes/widgets/ct-widget-contactinfo.php:185
+msgid "Twitter:"
+msgstr ""
+
+#: admin/ct-social/ct-social.php:182
+msgid "YouTube:"
+msgstr ""
+
+#: admin/ct-social/ct-social.php:186
+msgid "Links:"
+msgstr ""
+
+#: admin/getting-started/getting-started.php:91
+#, php-format
+msgid "Getting started with %1$s v%2$s"
+msgstr ""
+
+#: admin/getting-started/getting-started.php:93
+#, php-format
+msgid ""
+"Thanks for purchasing %1$s! I truly appreciate the support and the "
+"opportunity to share my work with you. Please visit the tabs below to get "
+"started setting up your theme!"
+msgstr ""
+
+#: admin/getting-started/getting-started.php:99
+msgid "Start Here"
+msgstr ""
+
+#: admin/getting-started/getting-started.php:100
+msgid "Plugins"
+msgstr ""
+
+#: admin/getting-started/getting-started.php:101
+msgid "FAQ &amp; Support"
+msgstr ""
+
+#: admin/getting-started/getting-started.php:102
+msgid "Latest Updates"
+msgstr ""
+
+#: admin/getting-started/getting-started.php:110
+#, php-format
+msgid "Installing %s"
+msgstr ""
+
+#: admin/getting-started/getting-started.php:116
+#: admin/ReduxFramework/theme-options/re7-config.php:5267
+msgid "Documentation"
+msgstr ""
+
+#: admin/getting-started/getting-started.php:170
+msgid "Required & Recommended Plugins"
+msgstr ""
+
+#: admin/getting-started/getting-started.php:172
+msgid ""
+"Below is a list of required and recommended plugins to install that will "
+"help you get the most out of WP Pro Real Estate 7. To begin please use the "
+"button below or browse through the list to learn about each one in a little "
+"more detail."
+msgstr ""
+
+#: admin/getting-started/getting-started.php:178
+#: admin/getting-started/getting-started.php:190
+#: admin/plugins/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr ""
+
+#: admin/getting-started/getting-started.php:178 admin/plugins/register.php:66
+msgid "Redux Framework"
+msgstr ""
+
+#: admin/getting-started/getting-started.php:180
+msgid "Install Redux Framework"
+msgstr ""
+
+#: admin/getting-started/getting-started.php:180
+#: admin/getting-started/getting-started.php:192
+#: admin/getting-started/getting-started.php:204
+#: admin/getting-started/getting-started.php:216
+#: admin/getting-started/getting-started.php:228
+#: admin/getting-started/getting-started.php:240
+#: admin/getting-started/getting-started.php:252
+#: admin/getting-started/getting-started.php:264
+#: admin/getting-started/getting-started.php:276
+#: admin/getting-started/getting-started.php:288
+#: admin/getting-started/getting-started.php:300
+#: admin/getting-started/getting-started.php:315
+#: admin/getting-started/getting-started.php:327
+#: admin/getting-started/getting-started.php:339
+#: admin/getting-started/getting-started.php:351
+#: admin/getting-started/getting-started.php:363
+#: admin/getting-started/getting-started.php:375
+#: admin/getting-started/getting-started.php:387
+msgid "Install Now"
+msgstr ""
+
+#: admin/getting-started/getting-started.php:182
+#: admin/getting-started/getting-started.php:194
+#: admin/getting-started/getting-started.php:206
+#: admin/getting-started/getting-started.php:218
+#: admin/getting-started/getting-started.php:230
+#: admin/getting-started/getting-started.php:242
+#: admin/getting-started/getting-started.php:254
+#: admin/getting-started/getting-started.php:266
+#: admin/getting-started/getting-started.php:278
+#: admin/getting-started/getting-started.php:290
+#: admin/getting-started/getting-started.php:302
+#: admin/getting-started/getting-started.php:317
+#: admin/getting-started/getting-started.php:329
+#: admin/getting-started/getting-started.php:341
+#: admin/getting-started/getting-started.php:353
+#: admin/getting-started/getting-started.php:365
+#: admin/getting-started/getting-started.php:377
+#: admin/getting-started/getting-started.php:389
+msgid "Installed"
+msgstr ""
+
+#: admin/getting-started/getting-started.php:186
+msgid "This plugin is used for the admin options framework."
+msgstr ""
+
+#: admin/getting-started/getting-started.php:190 admin/plugins/register.php:72
+msgid "Contempo Real Estate Custom Posts"
+msgstr ""
+
+#: admin/getting-started/getting-started.php:192
+msgid "Install Contempo Real Estate Custom Posts"
+msgstr ""
+
+#: admin/getting-started/getting-started.php:198
+msgid ""
+"This plugin registers the listings, brokerages & testimonials custom post "
+"types, along with related custom fields & taxonomies, as well as all the "
+"custom Visual Composer modules (if you have the Visual Composer plugin "
+"installed & activated)."
+msgstr ""
+
+#: admin/getting-started/getting-started.php:202
+#: admin/getting-started/getting-started.php:214
+#: admin/getting-started/getting-started.php:226
+#: admin/getting-started/getting-started.php:238
+#: admin/getting-started/getting-started.php:250
+#: admin/getting-started/getting-started.php:262
+#: admin/getting-started/getting-started.php:274
+#: admin/getting-started/getting-started.php:286
+#: admin/getting-started/getting-started.php:298
+#: admin/getting-started/getting-started.php:313
+#: admin/getting-started/getting-started.php:325
+#: admin/getting-started/getting-started.php:337
+#: admin/getting-started/getting-started.php:349
+#: admin/getting-started/getting-started.php:361
+#: admin/getting-started/getting-started.php:373
+#: admin/getting-started/getting-started.php:385
+#: admin/plugins/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr ""
+
+#: admin/getting-started/getting-started.php:202 admin/plugins/register.php:132
+msgid "Contempo Membership & Packages"
+msgstr ""
+
+#: admin/getting-started/getting-started.php:204
+msgid "Install Contempo Membership & Packages"
+msgstr ""
+
+#: admin/getting-started/getting-started.php:210
+msgid ""
+"This plugin adds the ability to create membership & packages for use with "
+"the front end submission system in WP Pro Real Estate 7, with Stripe, PayPal "
+"& Wire Transfer payment methods."
+msgstr ""
+
+#: admin/getting-started/getting-started.php:214 admin/plugins/register.php:176
+msgid "Contempo Saved Searches & Email Alerts"
+msgstr ""
+
+#: admin/getting-started/getting-started.php:216
+msgid "Install Contempo Saved Searches & Email Alerts"
+msgstr ""
+
+#: admin/getting-started/getting-started.php:222
+msgid "This plugin allows users be alerted via email when a listing is added."
+msgstr ""
+
+#: admin/getting-started/getting-started.php:226 admin/plugins/register.php:165
+msgid "Contempo Compare Listings"
+msgstr ""
+
+#: admin/getting-started/getting-started.php:228
+#: admin/getting-started/getting-started.php:252
+msgid "Install Contempo Compare Listings"
+msgstr ""
+
+#: admin/getting-started/getting-started.php:234
+msgid "This plugin adds compare functionality for listings."
+msgstr ""
+
+#: admin/getting-started/getting-started.php:238 admin/plugins/register.php:154
+msgid "Contempo Mortgage Calculator Widget"
+msgstr ""
+
+#: admin/getting-started/getting-started.php:240
+msgid "Install Contempo Mortgage Calculator Widget"
+msgstr ""
+
+#: admin/getting-started/getting-started.php:246
+msgid "This plugin enables a simple mortgage calculator widget."
+msgstr ""
+
+#: admin/getting-started/getting-started.php:250 admin/plugins/register.php:187
+msgid "Contempo Child Theme Generator"
+msgstr ""
+
+#: admin/getting-started/getting-started.php:258
+msgid ""
+"This plugin allows admin users to easily generate a child theme from your "
+"Admin > Appearance panel."
+msgstr ""
+
+#: admin/getting-started/getting-started.php:262
+msgid "Contempo Payment Gateways"
+msgstr ""
+
+#: admin/getting-started/getting-started.php:264
+msgid "Install Contempo Payment Gateways"
+msgstr ""
+
+#: admin/getting-started/getting-started.php:270
+msgid ""
+"This plugin enables the PayPal API and only required if you're going to be "
+"charging single listing payments from the front end of the site, if you're "
+"using the Membership & Packages plugin leave this plugin deactivated."
+msgstr ""
+
+#: admin/getting-started/getting-started.php:274 admin/plugins/register.php:198
+msgid "Slider Revolution"
+msgstr ""
+
+#: admin/getting-started/getting-started.php:276
+msgid "Install Slider Revolution"
+msgstr ""
+
+#: admin/getting-started/getting-started.php:282
+msgid ""
+"Slider Revolution is an innovative, responsive WordPress Slider Plugin that "
+"displays your content the beautiful way."
+msgstr ""
+
+#: admin/getting-started/getting-started.php:286
+msgid "Visual Composer"
+msgstr ""
+
+#: admin/getting-started/getting-started.php:288
+msgid "Install Visual Composer"
+msgstr ""
+
+#: admin/getting-started/getting-started.php:294
+msgid ""
+"WordPress Page Builder plugin with intuitive drag and drop interface. Build "
+"any page fast and easy. Unlimited layouts for your website."
+msgstr ""
+
+#: admin/getting-started/getting-started.php:298
+msgid "WPML"
+msgstr ""
+
+#: admin/getting-started/getting-started.php:300
+msgid "Install WPML"
+msgstr ""
+
+#: admin/getting-started/getting-started.php:308
+#, php-format
+msgid ""
+"<a href=\"%s\" target=\"_blank\">WPML</a> allows running fully multilingual "
+"websites with WordPress, making it easy to translate WordPress pages, posts, "
+"tags, categories and themes."
+msgstr ""
+
+#: admin/getting-started/getting-started.php:313
+#: admin/getting-started/getting-started.php:337 admin/plugins/register.php:86
+msgid "WordPress Social Login"
+msgstr ""
+
+#: admin/getting-started/getting-started.php:315
+#: admin/getting-started/getting-started.php:327
+msgid "Install WP Favorite Posts"
+msgstr ""
+
+#: admin/getting-started/getting-started.php:321
+msgid ""
+"This plugin allows users to login/register with their social profiles like "
+"Facebook, Google, Twitter, etc&hellip;"
+msgstr ""
+
+#: admin/getting-started/getting-started.php:325 admin/plugins/register.php:121
+#: admin/ReduxFramework/theme-options/re7-config.php:4834
+msgid "WP Favorite Posts"
+msgstr ""
+
+#: admin/getting-started/getting-started.php:333
+msgid ""
+"This plugin allows users to favorite & save listings from the front end of "
+"the site."
+msgstr ""
+
+#: admin/getting-started/getting-started.php:339
+msgid "Install WordPress Social Login"
+msgstr ""
+
+#: admin/getting-started/getting-started.php:345
+msgid ""
+"This plugin allows users to login/register for your site via social networks "
+"like Facebook, Google, Twitter, etc&hellip;"
+msgstr ""
+
+#: admin/getting-started/getting-started.php:349 admin/plugins/register.php:92
+msgid "Booking Calendar"
+msgstr ""
+
+#: admin/getting-started/getting-started.php:351
+msgid "Install Booking Calendar"
+msgstr ""
+
+#: admin/getting-started/getting-started.php:357
+msgid ""
+"This plugin will enable online booking services, however you're free to use "
+"whatever booking plugin you'd like as long as it supports shortcodes."
+msgstr ""
+
+#: admin/getting-started/getting-started.php:361 admin/plugins/register.php:98
+msgid "Co-Authors Plus"
+msgstr ""
+
+#: admin/getting-started/getting-started.php:363
+msgid "Install Co-Authors Plus"
+msgstr ""
+
+#: admin/getting-started/getting-started.php:369
+msgid ""
+"This plugin allows you to assign multiple users or agents to listings, "
+"perfect for co-listings."
+msgstr ""
+
+#: admin/getting-started/getting-started.php:373 admin/plugins/register.php:104
+msgid "Comments Ratings"
+msgstr ""
+
+#: admin/getting-started/getting-started.php:375
+msgid "Install Comments Ratings"
+msgstr ""
+
+#: admin/getting-started/getting-started.php:381
+msgid "This plugin allows you to enable ratings for your listings."
+msgstr ""
+
+#: admin/getting-started/getting-started.php:385 admin/plugins/register.php:220
+msgid "Envato Market"
+msgstr ""
+
+#: admin/getting-started/getting-started.php:387
+msgid "Install Envato Market"
+msgstr ""
+
+#: admin/getting-started/getting-started.php:393
+msgid ""
+"This plugin allows you to easily get theme updates through your WordPress "
+"admin."
+msgstr ""
+
+#: admin/getting-started/getting-started.php:402
+#, php-format
+msgid "Support for %s?"
+msgstr ""
+
+#: admin/getting-started/getting-started.php:408
+#, php-format
+msgid ""
+"If you've read through the <a href=\"%1$s\" target=\"_blank\">"
+"documentation</a> and still have questions or are experiencing issues, I'm "
+"happy to help! Simply <a href=\"%2$s\"  target=\"_blank\" title=\"Open a "
+"live chat\">open a live chat</a> or <a href=\"%3$s\" target=\"_blank\">leave "
+"a comment</a> on the item page and I'll personally get back to you, thanks "
+"in advance for your patience."
+msgstr ""
+
+#: admin/getting-started/getting-started.php:411
+#, php-format
+msgid "FAQ for %s?"
+msgstr ""
+
+#: admin/getting-started/getting-started.php:414
+msgid ""
+"The following articles below cover many frequently asked questions that you "
+"may have."
+msgstr ""
+
+#: admin/getting-started/getting-started.php:460
+msgid "Need Modifications or Customizations?"
+msgstr ""
+
+#: admin/getting-started/getting-started.php:465
+#, php-format
+msgid ""
+"Send me an email <a href=\"mailto:%s\">chris@contempothemes.com</a>, with a "
+"detailed outline of what you’d like to accomplish and I’ll get you a quote "
+"and turnaround time."
+msgstr ""
+
+#: admin/getting-started/getting-started.php:474
+#, php-format
+msgid ""
+"Please note that support requests will not be answered via email, only "
+"through my <a href=\"%1$s\" target=\"_blank\">live chat</a> or within the <a "
+"href=\"%2$s\" target=\"_blank\">item comments</a>."
+msgstr ""
+
+#: admin/getting-started/getting-started.php:484
+msgid "Hosting Recommendations"
+msgstr ""
+
+#: admin/getting-started/getting-started.php:498
+#: admin/getting-started/getting-started.php:501
+msgid "Visit the Knowledge Base"
+msgstr ""
+
+#: admin/getting-started/getting-started.php:499
+msgid ""
+"New to the WordPress world? The Knowledge Base has a boat load of articles "
+"to help you with any issues that might arise."
+msgstr ""
+
+#: admin/getting-started/getting-started.php:501
+msgid "Visit the knowledge base"
+msgstr ""
+
+#: admin/google-places/GooglePlaces.php:149
+#: admin/google-places/GooglePlaces.php:165
+#: admin/google-places/GooglePlaces.php:182
+msgid "Google Places API is currently unavailable."
+msgstr ""
+
+#: admin/google-places/GooglePlaces.php:151
+msgid ""
+"You must specify a valid listing location, use street address in the listing "
+"title along with city, state & zip/postcode — if not use the optional "
+"latitude & longitude field."
+msgstr ""
+
+#: admin/google-places/GooglePlaces.php:167
+#: admin/google-places/GooglePlaces.php:207
+msgid ""
+"You much specify at least one of the following: \"keyword\", \"name\", "
+"\"types\"."
+msgstr ""
+
+#: admin/google-places/GooglePlaces.php:184
+#: admin/google-places/GooglePlaces.php:201
+msgid "You must specify a radius."
+msgstr ""
+
+#: admin/google-places/GooglePlaces.php:197
+msgid "You must specify a location before calling radarsearch()."
+msgstr ""
+
+#: admin/google-places/GooglePlaces.php:221
+msgid ""
+"You must specify either a \"placeid\" or a \"reference\" (but not both) "
+"before calling details()."
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#. %s: plugin name.
+#: admin/plugins/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. %s: plugin name.
+#: admin/plugins/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:341
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:347
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:353
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:359
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:365
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:371
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:377
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:382
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:387
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:393
+#: admin/plugins/class-tgm-plugin-activation.php:912
+#: admin/plugins/class-tgm-plugin-activation.php:2618
+#: admin/plugins/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:394
+#: admin/plugins/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:395
+#: admin/plugins/class-tgm-plugin-activation.php:3037
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#. 1: plugin name.
+#: admin/plugins/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. 1: plugin name.
+#: admin/plugins/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#. 1: dashboard link.
+#: admin/plugins/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:1019
+#: admin/plugins/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:1206
+#: admin/plugins/class-tgm-plugin-activation.php:3033
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. %s: version number
+#: admin/plugins/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr ""
+
+#. 1: install status, 2: update status
+#: admin/plugins/class-tgm-plugin-activation.php:2427
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. 1: number of plugins.
+#: admin/plugins/class-tgm-plugin-activation.php:2473
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. 1: number of plugins.
+#: admin/plugins/class-tgm-plugin-activation.php:2477
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. 1: number of plugins.
+#: admin/plugins/class-tgm-plugin-activation.php:2481
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. 1: number of plugins.
+#: admin/plugins/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2567
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr ""
+
+#. %2$s: plugin name in screen reader markup
+#: admin/plugins/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#. %2$s: plugin name in screen reader markup
+#: admin/plugins/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#. %2$s: plugin name in screen reader markup
+#: admin/plugins/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr ""
+
+#. 1: plugin name, 2: action number 3: total number of actions.
+#: admin/plugins/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. 1: plugin name, 2: error message.
+#: admin/plugins/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. 1: plugin name.
+#: admin/plugins/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#. 1: plugin name.
+#: admin/plugins/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:3594
+#: admin/plugins/class-tgm-plugin-activation.php:3602
+msgid "Show Details"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:3594
+#: admin/plugins/class-tgm-plugin-activation.php:3602
+msgid "Hide Details"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. 1: plugin name, 2: action number 3: total number of actions.
+#: admin/plugins/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#. 1: plugin name.
+#: admin/plugins/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr ""
+
+#. 1: plugin name, 2: action number 3: total number of actions.
+#: admin/plugins/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: admin/plugins/register.php:80
+msgid "Elementor Page Builder"
+msgstr ""
+
+#: admin/plugins/register.php:110
+msgid "Contempo Listing Analytics"
+msgstr ""
+
+#: admin/plugins/register.php:143
+msgid "Contempo Real Estate 7 Payment Gateways"
+msgstr ""
+
+#: admin/plugins/register.php:209
+msgid "WPBakery Page Builder"
+msgstr ""
+
+#: includes/widgets/ct-widget-adspace.php:13
+msgid "CT Adspace Widget"
+msgstr ""
+
+#: includes/widgets/ct-widget-adspace.php:61
+#: includes/widgets/ct-widget-listingscrolltocontact.php:62
+#: includes/widgets/ct-widget-listingssocial.php:48
+msgid "Title (optional):"
+msgstr ""
+
+#: includes/widgets/ct-widget-adspace.php:65
+msgid "Ad Code:"
+msgstr ""
+
+#: includes/widgets/ct-widget-adspace.php:70
+msgid "Image Url:"
+msgstr ""
+
+#: includes/widgets/ct-widget-adspace.php:74
+msgid "Link URL:"
+msgstr ""
+
+#: includes/widgets/ct-widget-adspace.php:78
+msgid "Alt text:"
+msgstr ""
+
+#: includes/widgets/ct-widget-agentinfo.php:13
+msgid "CT Agent Info"
+msgstr ""
+
+#: includes/widgets/ct-widget-agentinfo.php:69
+msgid "Mobile"
+msgstr ""
+
+#: includes/widgets/ct-widget-agentinfo.php:72
+msgid "Office"
+msgstr ""
+
+#: includes/widgets/ct-widget-agentinfo.php:75
+msgid "Fax"
+msgstr ""
+
+#: includes/widgets/ct-widget-agentsotherlistings.php:13
+msgid "CT Agents Other Listings"
+msgstr ""
+
+#: includes/widgets/ct-widget-agentsotherlistings.php:290
+#: includes/widgets/ct-widget-flickr.php:55
+#: includes/widgets/ct-widget-latestposts.php:74
+#: includes/widgets/ct-widget-listings.php:133
+#: includes/widgets/ct-widget-testimonials.php:66
+msgid "Number:"
+msgstr ""
+
+#: includes/widgets/ct-widget-agentsotherlistings.php:298
+#: includes/widgets/ct-widget-listings.php:141
+msgid "Taxonomy:"
+msgstr ""
+
+#: includes/widgets/ct-widget-agentsotherlistings.php:307
+#: includes/widgets/ct-widget-listings.php:150
+msgid "Tag:"
+msgstr ""
+
+#: includes/widgets/ct-widget-blogauthor.php:13
+msgid "CT Blog Author Info"
+msgstr ""
+
+#: includes/widgets/ct-widget-blogauthor.php:64
+msgid "Bio:"
+msgstr ""
+
+#: includes/widgets/ct-widget-blogauthor.php:68
+msgid "<a href=\"http://www.gravatar.com/\">Gravatar</a> E-mail:"
+msgstr ""
+
+#: includes/widgets/ct-widget-blogauthor.php:72
+msgid "Gravatar Size:"
+msgstr ""
+
+#: includes/widgets/ct-widget-blogauthor.php:76
+msgid "Gravatar Alignment:"
+msgstr ""
+
+#: includes/widgets/ct-widget-blogauthor.php:78
+msgid "Left"
+msgstr ""
+
+#: includes/widgets/ct-widget-blogauthor.php:79
+msgid "Right"
+msgstr ""
+
+#: includes/widgets/ct-widget-blogauthor.php:83
+msgid "Read More Text (optional):"
+msgstr ""
+
+#: includes/widgets/ct-widget-blogauthor.php:87
+msgid "Read More URL (optional):"
+msgstr ""
+
+#: includes/widgets/ct-widget-blogauthor.php:91
+msgid "Visible Pages:"
+msgstr ""
+
+#: includes/widgets/ct-widget-blogauthor.php:93
+msgid "All"
+msgstr ""
+
+#: includes/widgets/ct-widget-blogauthor.php:94
+msgid "Home only"
+msgstr ""
+
+#: includes/widgets/ct-widget-blogauthor.php:95
+msgid "Single only"
+msgstr ""
+
+#: includes/widgets/ct-widget-brokerinfo.php:13
+msgid "CT Brokers Info"
+msgstr ""
+
+#: includes/widgets/ct-widget-brokerinfo.php:54
+msgid "Email Office"
+msgstr ""
+
+#: includes/widgets/ct-widget-brokerinfo.php:55
+msgid "Visit Brokers Website"
+msgstr ""
+
+#: includes/widgets/ct-widget-brokerinfo.php:82
+msgid "Logo URL:"
+msgstr ""
+
+#: includes/widgets/ct-widget-brokerinfo.php:86
+msgid "Company:"
+msgstr ""
+
+#: includes/widgets/ct-widget-brokerinfo.php:90
+msgid "Office Phone:"
+msgstr ""
+
+#: includes/widgets/ct-widget-brokerinfo.php:94
+msgid "Office Email:"
+msgstr ""
+
+#: includes/widgets/ct-widget-brokerinfo.php:98
+msgid "Website:"
+msgstr ""
+
+#: includes/widgets/ct-widget-contactinfo.php:13
+msgid "CT Contact Info"
+msgstr ""
+
+#: includes/widgets/ct-widget-contactinfo.php:134
+msgid "Show Logo:"
+msgstr ""
+
+#: includes/widgets/ct-widget-contactinfo.php:145
+msgid "Blurb:"
+msgstr ""
+
+#: includes/widgets/ct-widget-contactinfo.php:149
+msgid "Company Name:"
+msgstr ""
+
+#: includes/widgets/ct-widget-contactinfo.php:153
+msgid "Street Address:"
+msgstr ""
+
+#: includes/widgets/ct-widget-contactinfo.php:157
+msgid "City:"
+msgstr ""
+
+#: includes/widgets/ct-widget-contactinfo.php:161
+msgid "State:"
+msgstr ""
+
+#: includes/widgets/ct-widget-contactinfo.php:165
+msgid "Postal:"
+msgstr ""
+
+#: includes/widgets/ct-widget-contactinfo.php:169
+msgid "Country:"
+msgstr ""
+
+#: includes/widgets/ct-widget-contactinfo.php:173
+msgid "Phone:"
+msgstr ""
+
+#: includes/widgets/ct-widget-flickr.php:13
+msgid "CT Flickr"
+msgstr ""
+
+#: includes/widgets/ct-widget-flickr.php:26
+msgid "Photos on flickr"
+msgstr ""
+
+#: includes/widgets/ct-widget-flickr.php:51
+msgid "Flickr ID (<a href=\"http://www.idgettr.com\">idGettr</a>):"
+msgstr ""
+
+#: includes/widgets/ct-widget-flickr.php:65
+msgid "User"
+msgstr ""
+
+#: includes/widgets/ct-widget-flickr.php:66
+msgid "Group"
+msgstr ""
+
+#: includes/widgets/ct-widget-flickr.php:70
+msgid "Sorting:"
+msgstr ""
+
+#: includes/widgets/ct-widget-flickr.php:72
+#: includes/widgets/ct-widget-tabs.php:110
+#: includes/widgets/ct-widget-tabs.php:117
+msgid "Latest"
+msgstr ""
+
+#: includes/widgets/ct-widget-flickr.php:73
+msgid "Random"
+msgstr ""
+
+#: includes/widgets/ct-widget-flickr.php:77
+msgid "Size:"
+msgstr ""
+
+#: includes/widgets/ct-widget-flickr.php:79
+msgid "Square"
+msgstr ""
+
+#: includes/widgets/ct-widget-flickr.php:80
+msgid "Medium"
+msgstr ""
+
+#: includes/widgets/ct-widget-flickr.php:81
+msgid "Thumbnail"
+msgstr ""
+
+#: includes/widgets/ct-widget-latestposts.php:13
+msgid "CT Latest Posts"
+msgstr ""
+
+#: includes/widgets/ct-widget-listings.php:13
+msgid "CT Listings"
+msgstr ""
+
+#: includes/widgets/ct-widget-listings.php:154
+msgid "View All Link Text"
+msgstr ""
+
+#: includes/widgets/ct-widget-listings.php:158
+msgid "View All Link URL"
+msgstr ""
+
+#: includes/widgets/ct-widget-listingscontact.php:13
+msgid "CT Listing Agent Contact"
+msgstr ""
+
+#: includes/widgets/ct-widget-listingscontact.php:72
+msgid "Subject:"
+msgstr ""
+
+#: includes/widgets/ct-widget-listingscrolltocontact.php:13
+msgid "CT Listing Contact ScrollTo"
+msgstr ""
+
+#: includes/widgets/ct-widget-listingscrolltocontact.php:66
+msgid "Button One Text:"
+msgstr ""
+
+#: includes/widgets/ct-widget-listingscrolltocontact.php:70
+msgid "Button Two Text:"
+msgstr ""
+
+#: includes/widgets/ct-widget-listingssearch.php:13
+msgid "CT Listings Search"
+msgstr ""
+
+#: includes/widgets/ct-widget-listingssocial.php:13
+msgid "CT Listings Social"
+msgstr ""
+
+#: includes/widgets/ct-widget-search.php:13
+msgid "CT Search"
+msgstr ""
+
+#: includes/widgets/ct-widget-tabs.php:13
+msgid "CT Tabs"
+msgstr ""
+
+#: includes/widgets/ct-widget-tabs.php:103
+msgid "Number of posts:"
+msgstr ""
+
+#: includes/widgets/ct-widget-tabs.php:108
+msgid "First Visible Tab:"
+msgstr ""
+
+#: includes/widgets/ct-widget-tabs.php:111
+#: includes/widgets/ct-widget-tabs.php:120
+msgid "Comments"
+msgstr ""
+
+#: includes/widgets/ct-widget-tabs.php:112
+#: includes/widgets/ct-widget-tabs.php:123
+msgid "Tags"
+msgstr ""
+
+#: includes/widgets/ct-widget-testimonials.php:13
+msgid "CT Testimonials"
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:245
+#: admin/ReduxFramework/theme-options/re7-config.php:246
+msgid "Real Estate 7 Options"
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:923
+msgid "Theme Information 1"
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:924
+#: admin/ReduxFramework/theme-options/re7-config.php:929
+msgid "<p>This is the tab content, HTML is allowed.</p>"
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:928
+msgid "Theme Information 2"
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:935
+msgid "<p>This is the sidebar content, HTML is allowed.</p>"
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:941
+msgid "General Settings"
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1010
+#: admin/ReduxFramework/theme-options/re7-config.php:2168
+msgid "Header"
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1078
+msgid "Custom Logo"
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1129
+msgid "Top Bar"
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1150
+msgid "Contact Phone"
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1170
+#: admin/ReduxFramework/theme-options/re7-config.php:1318
+#: admin/ReduxFramework/theme-options/re7-config.php:1349
+#: admin/ReduxFramework/theme-options/re7-config.php:1380
+msgid "Icon"
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1171
+#: admin/ReduxFramework/theme-options/re7-config.php:1319
+#: admin/ReduxFramework/theme-options/re7-config.php:1350
+#: admin/ReduxFramework/theme-options/re7-config.php:1381
+msgid "Select an icon."
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1188
+msgid "Currency Switcher"
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1196
+msgid "Social Links"
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1287
+msgid "Header Info Columns"
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1295
+msgid "Column One"
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1326
+msgid "Column Two"
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1357
+msgid "Column Three"
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1389
+msgid "Homepage"
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1399
+msgid "Layout Manager"
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1440
+msgid "Revolution Slider"
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1457
+#: admin/ReduxFramework/theme-options/re7-config.php:1864
+msgid "FlexSlider"
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1483
+msgid "Listing Carousel"
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1522
+msgid "Hero w/Search"
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1569
+msgid "Top Padding"
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1570
+msgid "Set the top padding in percentage."
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1580
+msgid "Bottom Padding"
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1581
+msgid "Set the bottom padding in percentage."
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1592
+msgid "Call To Action"
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1623
+msgid "Listings Count"
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1727
+msgid "Add/Edit Testimonials"
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1728
+msgid "Add your testimonials to be displayed on the homepage."
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1730
+msgid "Company or Person"
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1731
+msgid "Testimonial Here"
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1732
+#: admin/ReduxFramework/theme-options/re7-config.php:1762
+msgid "Link"
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1740
+msgid "Partners"
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1757
+msgid "Add/Edit Partner Logos"
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1758
+msgid "Add your partner logos to be displayed on the homepage."
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1760
+msgid "Partner Title"
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1761
+msgid "Description Here (not used)"
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1783
+msgid "Elementor"
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1804
+msgid "Page Builder"
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1848
+msgid "Four Column Widget Area"
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1942
+msgid "Create a Skin"
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1965
+#: admin/ReduxFramework/theme-options/re7-config.php:2179
+#: admin/ReduxFramework/theme-options/re7-config.php:2272
+#: admin/ReduxFramework/theme-options/re7-config.php:2355
+#: admin/ReduxFramework/theme-options/re7-config.php:2444
+#: admin/ReduxFramework/theme-options/re7-config.php:2484
+msgid "NOTE!"
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1966
+msgid "If this isn't set to Yes NONE of the Styles will be Applied."
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1973
+msgid "Typography"
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1993
+msgid "Body"
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2012
+msgid "Headings"
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2031
+msgid "H1"
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2051
+msgid "H2"
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2071
+msgid "H3"
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2091
+msgid "H4"
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2111
+msgid "H5"
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2131
+msgid "H6"
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2152
+msgid "Body Background"
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2180
+#: admin/ReduxFramework/theme-options/re7-config.php:2273
+#: admin/ReduxFramework/theme-options/re7-config.php:2356
+#: admin/ReduxFramework/theme-options/re7-config.php:2445
+#: admin/ReduxFramework/theme-options/re7-config.php:2485
+msgid ""
+"You must set Create a Skin > Use Custom Styles > Yes, if this isn't set NONE "
+"of the Styles will be Applied."
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2261
+msgid "Mobile Navigation"
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2344
+msgid "Secondary Colors"
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2433
+msgid "Links"
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2473
+#: admin/ReduxFramework/theme-options/re7-config.php:5181
+msgid "Footer"
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2543
+msgid "User Profile Fields"
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2679
+msgid "Agent Single"
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2742
+msgid "Google Maps"
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2799
+msgid "Global Options"
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2800
+msgid ""
+"These options apply globally to the homepage, expanded area of header search "
+"and search widget."
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2869
+msgid "Header Search"
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2951
+msgid "Homepage Search"
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:3253
+msgid "Listings Search"
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:3351
+msgid "Listing Single"
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:3616
+msgid "Listing Stats"
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:3659
+msgid "Listing IDX/MLS"
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:3685
+msgid "Walk Score"
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:3688
+msgid ""
+"Walk Score is the only international measure of walkability and the leading "
+"provider of neighborhood maps to the real estate industry. More than 30,000 "
+"websites use the Walk Score Neighborhood Map and we serve over 20 million "
+"scores each day. <a href=\"https://www.walkscore.com/professional/api-sign-"
+"up.php\" target=\"_blank\">Get your API Key</a>!."
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:3729
+msgid ""
+"Set this up if you'd like to display \"What's Nearby?\" information on your "
+"listings such as restaurants, grocery stores, schools, coffee shops, "
+"etc&hellip;."
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:3836
+msgid "Front End Login & Registration"
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:3932
+msgid "Front End Submission"
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:4145
+msgid "Submit Listing Form"
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:4156
+#: admin/ReduxFramework/theme-options/re7-config.php:4245
+#: admin/ReduxFramework/theme-options/re7-config.php:4453
+#: admin/ReduxFramework/theme-options/re7-config.php:4542
+msgid "Select which fields you'd like to be required."
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:4364
+msgid ""
+"Select which fields you'd like to be required, these are only shown if "
+"enabled via Listings > Listing Single > Enable Vacation Rentals/Booking "
+"Fields."
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:4560
+msgid "PayPal Settings"
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:4633
+msgid "Stripe Settings"
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:4671
+msgid "Wire Transfer"
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:4740
+msgid "Email Content"
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:4876
+msgid "Blog Archive"
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:4918
+msgid "Single Post"
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:5086
+msgid "Map Addresses"
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:5087
+msgid ""
+"Enter the address of your locations to be used in the Google Map, needs to "
+"be entered in this format for each entry: 849 West Harbor Dr. San Diego, CA "
+"92101"
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:5151
+msgid "Custom CSS"
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:5166
+msgid "Custom JS"
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:5247
+msgid "Import/Export"
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:5284
+msgid "Changelog"
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:5400
+msgid "Section via hook"
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:5401
+msgid ""
+"<p class=\"description\">This is a section created by adding a filter to the "
+"sections array. Can be used by child themes to add/remove sections from the "
+"options.</p>"
+msgstr ""
+
+#. Name of the theme
+msgid "WP Pro Real Estate 7"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"A responsive real estate theme, designed by <a href=\"http://www."
+"contempographicdesign.com\">Contempo</a>."
+msgstr ""
+
+#. URI of the theme
+msgid "http://themeforest.net/user/contempoinc?ref=contempoinc"
+msgstr ""
+
+#. Author of the theme
+msgid "Chris Robinson"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://www.contempographicdesign.com"
+msgstr ""

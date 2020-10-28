@@ -1,0 +1,4697 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-01-04 21:29+0000\n"
+"PO-Revision-Date: 2020-01-04 21:30+0000\n"
+"Last-Translator: root <chris@contempographicdesign.com>\n"
+"Language-Team: Arabic (Argentina)\n"
+"Language: ar_AR\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.1; wp-5.3.2"
+
+#: comments.php:44
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: includes/featured-listings.php:67 includes/featured-listings.php:76
+#: includes/home-listings-carousel.php:44
+#: includes/home-listings-carousel.php:53 includes/single-listing-home.php:28
+msgid "featured"
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2180
+#: admin/ReduxFramework/theme-options/re7-config.php:2273
+#: admin/ReduxFramework/theme-options/re7-config.php:2356
+#: admin/ReduxFramework/theme-options/re7-config.php:2445
+#: admin/ReduxFramework/theme-options/re7-config.php:2485
+msgid ""
+"You must set Create a Skin > Use Custom Styles > Yes, if this isn't set NONE "
+"of the Styles will be Applied."
+msgstr ""
+"يجب عليك تعيين إنشاء الجلد > استخدام الأنماط المخصصة > نعم ، إذا كان هذا "
+"يسن'ر تعيين أيا من الأساليب التي سيتم تطبيقها."
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2261
+msgid "Mobile Navigation"
+msgstr "الملاحة المحمول"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2344
+msgid "Secondary Colors"
+msgstr "الألوان الثانوية"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2473
+#: admin/ReduxFramework/theme-options/re7-config.php:5174
+msgid "Footer"
+msgstr "تذييل"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2543
+msgid "User Profile Fields"
+msgstr "المستخدم حقول الملف الشخصي"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2679
+msgid "Agent Single"
+msgstr "وكيل واحد"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2742
+msgid "Google Maps"
+msgstr "خرائط جوجل"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2799
+msgid "Global Options"
+msgstr "الخيارات العالمية"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2800
+msgid ""
+"These options apply globally to the homepage, expanded area of header search "
+"and search widget."
+msgstr ""
+"هذه الخيارات تنطبق على الصعيد العالمي إلى الصفحة الرئيسية ، توسيع منطقة رأس "
+"البحث والبحث القطعة."
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2872
+msgid "Header Search"
+msgstr "رأس البحث"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2957
+msgid "Homepage Search"
+msgstr "الصفحة الرئيسية البحث"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:3259
+msgid "Listings Search"
+msgstr "قوائم البحث"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:3369
+msgid "Listing Single"
+msgstr "واحدة قائمة"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:3637
+msgid "Listing Stats"
+msgstr "قائمة احصائيات"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:3678
+msgid "Walk Score"
+msgstr "النتيجة المشي"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:3722
+msgid ""
+"Set this up if you'd like to display \"What's Nearby?\" information on your "
+"listings such as restaurants, grocery stores, schools, coffee shops, "
+"etc&hellip;."
+msgstr ""
+"وضع هذا الأمر إذا كنت'د ترغب في عرض \"ما\\'s قريب ؟\" معلومات عن القوائم "
+"الخاصة بك مثل المطاعم ومحلات البقالة, مدارس, محلات القهوة, الخ"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:3829
+msgid "Front End Login & Registration"
+msgstr "الأمامية تسجيل الدخول "
+
+#: admin/ReduxFramework/theme-options/re7-config.php:3925
+msgid "Front End Submission"
+msgstr "تقديم الأمامية"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:4138
+msgid "Submit Listing Form"
+msgstr "تقديم شكل قائمة"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:4149
+#: admin/ReduxFramework/theme-options/re7-config.php:4238
+#: admin/ReduxFramework/theme-options/re7-config.php:4446
+#: admin/ReduxFramework/theme-options/re7-config.php:4535
+msgid "Select which fields you'd like to be required."
+msgstr "حدد الحقول التي كنت'د ترغب في أن تكون مطلوبة."
+
+#: admin/ReduxFramework/theme-options/re7-config.php:4357
+msgid ""
+"Select which fields you'd like to be required, these are only shown if "
+"enabled via Listings > Listing Single > Enable Vacation Rentals/Booking "
+"Fields."
+msgstr ""
+"حدد الحقول التي كنت'د ترغب في أن تكون المطلوبة, هذه لا يتم عرضها إلا إذا تم "
+"تمكين عبر القوائم > قائمة واحدة > تمكين Vacation Rentals/حجز المجالات."
+
+#: admin/ReduxFramework/theme-options/re7-config.php:4553
+msgid "PayPal Settings"
+msgstr "باي بال الإعدادات"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:4626
+msgid "Stripe Settings"
+msgstr "شريط الإعدادات"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:4664
+msgid "Wire Transfer"
+msgstr "حوالة مصرفية"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:4733
+msgid "Email Content"
+msgstr "محتوى البريد الإلكتروني"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:4869
+msgid "Blog Archive"
+msgstr "أرشيف المدونة"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:4911
+msgid "Single Post"
+msgstr "مشاركة واحدة"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:5079
+msgid "Map Addresses"
+msgstr "خريطة عناوين"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:5080
+msgid ""
+"Enter the address of your locations to be used in the Google Map, needs to "
+"be entered in this format for each entry: 849 West Harbor Dr. San Diego, CA "
+"92101"
+msgstr ""
+"أدخل عنوان المواقع الخاصة بك لاستخدامها في خريطة جوجل, يحتاج إلى أن دخلت في "
+"هذا الشكل لكل إدخال: 849 غرب الميناء الدكتور سان دييغو, CA 92101"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:5159
+msgid "Custom JS"
+msgstr "مخصص JS"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:5240
+msgid "Import/Export"
+msgstr "استيراد/تصدير"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:5277
+msgid "Changelog"
+msgstr "التغيير"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:5393
+msgid "Section via hook"
+msgstr "القسم عبر ربط"
+
+#. Name of the theme
+msgid "WP Pro Real Estate 7"
+msgstr "WP برو عقارات 7"
+
+#. Author of the theme
+msgid "Chris Robinson"
+msgstr "كريس روبنسون"
+
+#: 404.php:15
+msgid "Page Not Found"
+msgstr "لم يتم العثور على الصفحة"
+
+#: 404.php:16
+msgid "Woah there! Looks like you've gotten lost."
+msgstr "مهلا هناك! يبدو وكأنه كنت'هاء حصلت فقدت."
+
+#: 404.php:17
+msgid "Go back to the homepage"
+msgstr "العودة إلى الصفحة الرئيسية"
+
+#: archive-brokerage.php:38
+#: admin/ReduxFramework/theme-options/re7-config.php:2711
+msgid "Brokerages"
+msgstr "شركات السمسرة"
+
+#: archive-brokerage.php:52 template-brokerages.php:52
+msgid "Type a brokerage name or address here to filter the list."
+msgstr "نوع الوساطة الاسم أو العنوان هنا إلى تصفية القائمة."
+
+#: archive-brokerage.php:108 author.php:71 single-brokerage.php:78
+#: single-brokerage.php:280 template-agents.php:251 template-brokerages.php:122
+#: template-favorite-listings.php:111
+msgid "Tell me more about a property"
+msgstr "أخبرني المزيد عن خاصية"
+
+#: archive-brokerage.php:109 author.php:72 single-brokerage.php:79
+#: single-brokerage.php:281 template-agents.php:252 template-brokerages.php:123
+#: template-favorite-listings.php:112 includes/agent-contact-modal.php:22
+#: includes/single-listing-contact.php:217 includes/single-listing-home.php:270
+#: includes/single-listing-lead-media-with-contact.php:141
+#: includes/widgets/ct-widget-listingscontact.php:31
+msgid "Request a showing"
+msgstr "طلب عرض"
+
+#: archive-brokerage.php:110 author.php:73 single-brokerage.php:80
+#: single-brokerage.php:282 template-agents.php:253 template-brokerages.php:124
+#: template-favorite-listings.php:113
+msgid "General Questions"
+msgstr "الأسئلة العامة"
+
+#: archive-brokerage.php:113 author.php:76 single-brokerage.php:83
+#: single-brokerage.php:285 template-agents.php:256 template-brokerages.php:127
+#: template-edit-profile.php:129 template-favorite-listings.php:116
+#: includes/agent-contact-modal.php:25 includes/agent-contact-modal.php:25
+#: includes/agent-contact-modal.php:25 includes/single-listing-contact.php:223
+#: includes/single-listing-home.php:273
+#: includes/single-listing-lead-media-with-contact.php:147
+#: includes/single-listing-multi-floorplan.php:27
+#: includes/widgets/ct-widget-listingscontact.php:34
+#: includes/widgets/ct-widget-listingscontact.php:34
+#: includes/widgets/ct-widget-listingscontact.php:34
+msgid "Name"
+msgstr "الاسم"
+
+#: archive-brokerage.php:115 archive-brokerage.php:177 author.php:78
+#: author.php:124 author.php:283 single-brokerage.php:85
+#: single-brokerage.php:135 single-brokerage.php:287 single-brokerage.php:350
+#: template-agents.php:258 template-brokerages.php:129
+#: template-brokerages.php:189 template-favorite-listings.php:118
+#: admin/theme-functions.php:3773 includes/agent-contact-modal.php:27
+#: includes/agent-contact-modal.php:27 includes/agent-contact-modal.php:27
+#: includes/single-listing-contact.php:89
+#: includes/single-listing-contact.php:171
+#: includes/single-listing-contact.php:227
+#: includes/single-listing-contact.php:297 includes/single-listing-home.php:253
+#: includes/single-listing-home.php:275 includes/single-listing-home.php:336
+#: includes/single-listing-lead-media-with-contact.php:151
+#: includes/widgets/ct-widget-agentinfo.php:78
+#: includes/widgets/ct-widget-listingscontact.php:36
+#: includes/widgets/ct-widget-listingscontact.php:36
+#: includes/widgets/ct-widget-listingscontact.php:36
+msgid "Email"
+msgstr "البريد الإلكتروني"
+
+#: archive-brokerage.php:117 author.php:80 single-brokerage.php:87
+#: single-brokerage.php:289 template-agents.php:260 template-brokerages.php:131
+#: template-contact.php:72 template-favorite-listings.php:120
+#: includes/agent-contact-modal.php:29 includes/agent-contact-modal.php:29
+#: includes/agent-contact-modal.php:29 includes/single-listing-contact.php:231
+#: includes/single-listing-home.php:277
+#: includes/single-listing-lead-media-with-contact.php:155
+#: includes/widgets/ct-widget-listingscontact.php:38
+#: includes/widgets/ct-widget-listingscontact.php:38
+#: includes/widgets/ct-widget-listingscontact.php:38
+msgid "Phone"
+msgstr "الهاتف"
+
+#: archive-brokerage.php:125 author.php:88 single-brokerage.php:95
+#: single-brokerage.php:297 template-agents.php:268 template-brokerages.php:137
+#: template-contact.php:83 template-contact.php:83
+#: template-favorite-listings.php:127 template-submit-listing.php:804
+#: includes/agent-contact-modal.php:38 includes/single-listing-contact.php:242
+#: includes/single-listing-home.php:285
+#: includes/widgets/ct-widget-listingscontact.php:47
+msgid "Submit"
+msgstr "تقدم"
+
+#: archive-brokerage.php:208 template-brokerages.php:220
+#: template-view-listings.php:211 includes/featured-listings.php:118
+#: includes/single-listing-ct-idx-pro-info.php:285
+#: includes/single-listing-multi-floorplan.php:122 layouts/grid.php:76
+msgid "View"
+msgstr "عرض"
+
+#: archive-brokerage.php:218 template-brokerages.php:230
+msgid "No Brokerages Found."
+msgstr "لا شركات السمسرة وجدت."
+
+#: archive.php:77
+msgid "No posts were found which match your search criteria"
+msgstr "لا وظيفة تم العثور على أي تطابق معايير البحث"
+
+#: archive.php:77 layouts/grid.php:26 layouts/list.php:27
+msgid "Try broadening your search to find more results."
+msgstr "محاولة توسيع البحث للعثور على المزيد من النتائج."
+
+#: author.php:33 admin/profile-fields.php:81 admin/theme-functions.php:1952
+#: admin/theme-functions.php:3799 includes/single-listing-contact.php:52
+#: includes/single-listing-lead-media-with-contact.php:110 layouts/list.php:149
+msgid "Agent"
+msgstr "الوكيل"
+
+#: author.php:145 template-edit-listing.php:826 template-submit-listing.php:710
+#: admin/profile-fields.php:211
+msgid "Address"
+msgstr "عنوان"
+
+#: author.php:153
+msgid "Social"
+msgstr "الاجتماعية"
+
+#: author.php:194 author.php:341
+msgid "Type a listing address or keyword to filter the list."
+msgstr "اكتب قائمة العناوين أو الكلمات الرئيسية لتصفية القائمة."
+
+#: comments.php:13
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+"هذه المقالة محمية بكلمة مرور. لمشاهدة التعليقات، قم بكتابة كلمة المرور."
+
+#: comments.php:31
+msgid "No Responses"
+msgstr "لا الردود"
+
+#: comments.php:31
+msgid "1 Comment"
+msgstr "تعليق واحد"
+
+#: comments.php:31
+msgid "% Comments"
+msgstr "% التعليقات"
+
+#: comments.php:45
+msgid "Newer Comments &rarr;"
+msgstr "أحدث التعليقات "
+
+#: comments.php:53
+msgid "Comments are closed, but"
+msgstr "التعليقات مغلقة ، ولكن"
+
+#: comments.php:53
+msgid "Trackback URL for this post"
+msgstr "URL تعقيب على هذا المنصب"
+
+#: comments.php:53
+msgid "trackbacks"
+msgstr "تركبكس"
+
+#: comments.php:53
+msgid "and pingbacks are open."
+msgstr "و والتنبيهات مفتوحة."
+
+#: comments.php:59
+msgid "Reviews are closed."
+msgstr "التعليقات مغلقة."
+
+#: comments.php:61
+msgid "Comments are closed."
+msgstr "التعليقات مغلقة."
+
+#: footer.php:91
+msgid "All Rights Reserved."
+msgstr "جميع الحقوق محفوظة."
+
+#: functions.php:55
+msgid "Getting Started"
+msgstr "الشروع في العمل"
+
+#: header.php:185 header.php:491
+msgid "Hi, "
+msgstr "مرحبا ، "
+
+#: header.php:204 header.php:510 includes/user-sidebar.php:37
+msgid "Dashboard"
+msgstr "الرئيسية"
+
+#: header.php:208 header.php:514 includes/user-sidebar.php:41
+msgid "Favorite Listings"
+msgstr "قوائم المفضلة"
+
+#: header.php:211 header.php:517
+msgid "Saved Searches"
+msgstr "عمليات البحث المحفوظة"
+
+#: header.php:216 header.php:522 header.php:552 includes/user-sidebar.php:49
+msgid "Submit Listing"
+msgstr "تقديم قائمة"
+
+#: header.php:219 header.php:525 template-user-dashboard.php:103
+#: includes/user-sidebar.php:52
+msgid "My Listings"
+msgstr "القوائم بلدي"
+
+#. Name of the template
+#: header.php:222 header.php:528 template-user-dashboard.php:83
+#: includes/user-sidebar.php:55
+msgid "Membership"
+msgstr "عضوية"
+
+#. Name of the template
+#: header.php:225 header.php:531 includes/user-sidebar.php:58
+msgid "Invoices"
+msgstr "الفواتير"
+
+#. Name of the template
+#: header.php:228 header.php:534 includes/user-sidebar.php:61
+#: admin/ReduxFramework/theme-options/re7-config.php:3659
+msgid "Listing Analytics"
+msgstr "قائمة Analytics"
+
+#: header.php:233 header.php:539 includes/user-sidebar.php:65
+msgid "Account Settings"
+msgstr "إعدادات الحساب"
+
+#: header.php:236 header.php:542 includes/user-sidebar.php:68
+msgid "Logout"
+msgstr "خروج"
+
+#: header.php:240 header.php:550
+msgid "Login / Register"
+msgstr "تسجيل الدخول / تسجيل"
+
+#: header.php:240 header.php:550 admin/theme-functions.php:3698
+msgid "Login"
+msgstr "تسجيل الدخول"
+
+#: header.php:781
+msgid "Add \"CT Compare\" Widget via Appearance > Widgets > Compare."
+msgstr "إضافة \"CT مقارنة\" القطعة عن طريق المظهر > القطع > مقارنة."
+
+#: page.php:59 single.php:127 template-dsidxpress.php:41
+#: template-edit-listing.php:935 template-submit-listing.php:815
+msgid "Pages:"
+msgstr "الصفحات:"
+
+#: search-listings.php:153 search-listings.php:250
+msgid "listings found"
+msgstr "قوائم وجدت"
+
+#: search-listings.php:153 search-listings.php:250
+msgid "listing found"
+msgstr "قائمة وجدت"
+
+#: search-listings.php:157 search-listings.php:254
+msgid "Find A Home"
+msgstr "العثور على منزل"
+
+#: search-listings.php:169 search-listings.php:265 search-listings.php:292
+msgid "Searching:"
+msgstr "البحث:"
+
+#: search-listings.php:173 search-listings.php:269 search-listings.php:296
+msgid "All listings"
+msgstr "جميع القوائم"
+
+#: search-listings.php:175 admin/theme-functions.php:1172
+msgid "Open Search"
+msgstr "فتح البحث"
+
+#: search-listings.php:272 search-listings.php:298
+#: admin/theme-functions.php:1169
+msgid "Close Map"
+msgstr "وثيقة خريطة"
+
+#: search-listings.php:332 search-listings.php:336
+msgid "Save This Search?"
+msgstr "حفظ هذا البحث ؟ "
+
+#: search-listings.php:334
+msgid "View Saved"
+msgstr "حفظ عرض"
+
+#: single-brokerage.php:39 admin/profile-fields.php:180
+msgid "Brokerage"
+msgstr "الوساطة"
+
+#: single-brokerage.php:162 single-listings.php:38
+#: admin/ReduxFramework/theme-options/re7-config.php:2988
+msgid "Listings"
+msgstr "القوائم"
+
+#: single-brokerage.php:163
+#: admin/ReduxFramework/theme-options/re7-config.php:2601
+msgid "Agents"
+msgstr "وكلاء"
+
+#: single-brokerage.php:164
+msgid "Map"
+msgstr "خريطة"
+
+#: single-brokerage.php:166 includes/single-listing-sub-navigation.php:149
+msgid "Reviews"
+msgstr "استعراض"
+
+#: single-brokerage.php:224
+msgid "Type an agents name or title here to filter the list."
+msgstr "نوع وكلاء الاسم أو العنوان هنا إلى تصفية القائمة."
+
+#: single-brokerage.php:368
+msgid "View Listings"
+msgstr "عرض القوائم"
+
+#: single-brokerage.php:379
+msgid "This brokerage currently has no active agents."
+msgstr "هذه الوساطة لديها حاليا أي عوامل نشطة."
+
+#: single-brokerage.php:379 layouts/grid.php:22 layouts/grid.php:24
+#: layouts/list.php:23 layouts/list.php:25
+msgid "Check back soon."
+msgstr "التحقق مرة أخرى قريبا."
+
+#: single-brokerage.php:401 includes/single-listing-reviews.php:19
+msgid "No Reviews"
+msgstr "لا التقييمات"
+
+#: single-brokerage.php:401 includes/single-listing-reviews.php:19
+msgid "1 Review"
+msgstr "1 استعراض"
+
+#: single-brokerage.php:401 includes/single-listing-reviews.php:19
+msgid "% Reviews"
+msgstr "% استعراض"
+
+#: single-listings.php:44 admin/theme-functions.php:6596
+#: admin/theme-functions.php:7601
+msgid "Home"
+msgstr "الرئيسية"
+
+#: single-listings.php:71 single-listings.php:77 single-listings.php:83
+#: single-listings.php:104 single-listings.php:105 single-listings.php:106
+#: includes/single-listing-home.php:367 includes/single-listing-home.php:368
+#: includes/single-listing-home.php:369
+#: includes/widgets/ct-widget-listingssocial.php:29
+#: includes/widgets/ct-widget-listingssocial.php:30
+#: includes/widgets/ct-widget-listingssocial.php:31
+msgid "Check out this great listing on"
+msgstr "تحقق هذه كبيرة قائمة على"
+
+#: single-listings.php:108 admin/theme-functions.php:1173
+#: includes/agent-contact-modal.php:16
+msgid "Close"
+msgstr "إغلاق"
+
+#: single-listings.php:212 template-edit-listing.php:394
+#: template-edit-profile.php:57 template-listing-analytics.php:62
+#: template-listing-email-alerts.php:69 template-membership.php:60
+#: template-submit-listing.php:354 template-user-dashboard.php:59
+#: template-view-invoices.php:60 template-view-listings.php:62
+msgid "You must be logged in to view this page."
+msgstr "يجب عليك تسجيل الدخول لمشاهدة هذه الصفحة."
+
+#: single.php:79 includes/post-author-info.php:15 layouts/blog-grid.php:54
+#: layouts/blog-large.php:54
+msgid "By"
+msgstr "قبل"
+
+#: single.php:79 layouts/blog-grid.php:54 layouts/blog-large.php:54
+msgid "in"
+msgstr "في"
+
+#: single.php:79 layouts/blog-grid.php:54 layouts/blog-large.php:54
+msgid "with"
+msgstr "مع"
+
+#. Name of the template
+#: admin/ReduxFramework/theme-options/re7-config.php:2789
+msgid "Advanced Search"
+msgstr "البحث المتقدم"
+
+#: template-advanced-search.php:62 template-edit-listing.php:419
+#: template-submit-listing.php:417 admin/theme-functions.php:4925
+#: includes/advanced-search.php:35 includes/header-advanced-search.php:60
+#: includes/header-advanced-search.php:390
+#: admin/plugins/class-tgm-plugin-activation.php:2634
+#: includes/widgets/ct-widget-listingssearch.php:46
+msgid "Type"
+msgstr "نوع"
+
+#: template-advanced-search.php:67 admin/profile-fields.php:217
+#: admin/theme-functions.php:5649 includes/advanced-search.php:44
+#: includes/header-advanced-search.php:69
+#: includes/header-advanced-search.php:400
+#: includes/widgets/ct-widget-listingssearch.php:55
+msgid "City"
+msgstr "المدينة"
+
+#: template-advanced-search.php:77 admin/theme-functions.php:5571
+#: admin/theme-functions.php:5590 admin/theme-functions.php:5672
+#: includes/advanced-search.php:58
+#: includes/widgets/ct-widget-listingssearch.php:69
+msgid "Area"
+msgstr "المنطقة"
+
+#: template-advanced-search.php:79 admin/theme-functions.php:5670
+#: admin/theme-functions.php:5710 includes/advanced-search.php:60
+#: includes/widgets/ct-widget-listingssearch.php:71
+msgid "Suburb"
+msgstr "ضاحية"
+
+#: template-advanced-search.php:81 admin/theme-functions.php:5674
+#: includes/advanced-search.php:62
+#: includes/widgets/ct-widget-listingssearch.php:73
+msgid "State"
+msgstr "الدولة"
+
+#: template-advanced-search.php:92 admin/theme-functions.php:5691
+#: includes/advanced-search.php:77
+#: includes/widgets/ct-widget-listingssearch.php:88
+msgid "Postcode"
+msgstr "الرمز البريدي"
+
+#: template-advanced-search.php:94 admin/theme-functions.php:5693
+#: includes/advanced-search.php:79
+#: includes/widgets/ct-widget-listingssearch.php:90
+msgid "Zipcode"
+msgstr "الرمز البريدي"
+
+#: template-advanced-search.php:100 template-edit-listing.php:852
+#: template-submit-listing.php:736 includes/advanced-search.php:89
+#: includes/header-advanced-search.php:99
+#: includes/header-advanced-search.php:428
+#: includes/widgets/ct-widget-listingssearch.php:100
+msgid "Country"
+msgstr "البلد"
+
+#: template-advanced-search.php:105 admin/theme-functions.php:4704
+#: admin/theme-functions.php:5609 admin/theme-functions.php:5921
+#: includes/advanced-search.php:116 includes/header-advanced-search.php:127
+#: includes/header-advanced-search.php:438
+#: includes/single-listing-multi-floorplan.php:33 layouts/list.php:88
+#: includes/widgets/ct-widget-listingssearch.php:127
+msgid "Beds"
+msgstr "أسرة"
+
+#: template-advanced-search.php:110 admin/theme-functions.php:4724
+#: admin/theme-functions.php:5628 admin/theme-functions.php:5927
+#: includes/advanced-search.php:125 includes/header-advanced-search.php:136
+#: includes/header-advanced-search.php:448
+#: includes/single-listing-multi-floorplan.php:36 includes/sub-listings.php:103
+#: layouts/list.php:108 includes/widgets/ct-widget-agentsotherlistings.php:140
+#: includes/widgets/ct-widget-listingssearch.php:136
+msgid "Baths"
+msgstr "الحمامات"
+
+#: template-advanced-search.php:115 template-edit-listing.php:434
+#: template-submit-listing.php:422 template-view-invoices.php:95
+#: includes/advanced-search.php:134 includes/header-advanced-search.php:145
+#: includes/header-advanced-search.php:458
+#: includes/single-listing-ct-idx-pro-info.php:66
+#: admin/plugins/class-tgm-plugin-activation.php:2639
+#: includes/widgets/ct-widget-listingssearch.php:145
+msgid "Status"
+msgstr "حالة"
+
+#: template-advanced-search.php:125 admin/theme-functions.php:5708
+#: includes/advanced-search.php:157 includes/header-advanced-search.php:159
+#: includes/header-advanced-search.php:482
+#: includes/single-listing-ct-idx-pro-info.php:88
+#: includes/widgets/ct-widget-listingssearch.php:168
+msgid "Neighborhood"
+msgstr "حي"
+
+#: template-advanced-search.php:127 admin/theme-functions.php:5712
+#: includes/advanced-search.php:159 includes/header-advanced-search.php:161
+#: includes/header-advanced-search.php:484
+#: includes/widgets/ct-widget-listingssearch.php:170
+msgid "District"
+msgstr "حي"
+
+#: template-advanced-search.php:129 admin/theme-functions.php:5722
+#: includes/advanced-search.php:107 includes/advanced-search.php:161
+#: includes/header-advanced-search.php:118
+#: includes/header-advanced-search.php:163
+#: includes/header-advanced-search.php:486
+#: includes/widgets/ct-widget-listingssearch.php:118
+#: includes/widgets/ct-widget-listingssearch.php:172
+msgid "Community"
+msgstr "المجتمع"
+
+#: template-advanced-search.php:135 template-advanced-search.php:136
+#: includes/advanced-search.php:171 includes/advanced-search.php:172
+#: includes/header-advanced-search.php:173
+#: includes/header-advanced-search.php:174
+#: includes/header-advanced-search.php:496
+#: includes/header-advanced-search.php:497
+#: includes/widgets/ct-widget-listingssearch.php:182
+#: includes/widgets/ct-widget-listingssearch.php:183
+msgid "Price From"
+msgstr "السعر من"
+
+#: template-advanced-search.php:140 template-advanced-search.php:141
+#: includes/advanced-search.php:180 includes/advanced-search.php:181
+#: includes/header-advanced-search.php:182
+#: includes/header-advanced-search.php:183
+#: includes/header-advanced-search.php:505
+#: includes/header-advanced-search.php:506
+#: includes/widgets/ct-widget-listingssearch.php:191
+#: includes/widgets/ct-widget-listingssearch.php:192
+msgid "Price To"
+msgstr "السعر"
+
+#: template-advanced-search.php:145 template-advanced-search.php:146
+#: includes/advanced-search.php:190 includes/header-advanced-search.php:210
+#: includes/header-advanced-search.php:533
+#: includes/widgets/ct-widget-listingssearch.php:201
+msgid "Size From"
+msgstr "حجم من"
+
+#: template-advanced-search.php:150 template-advanced-search.php:151
+#: includes/advanced-search.php:199 includes/header-advanced-search.php:219
+#: includes/header-advanced-search.php:542
+#: includes/widgets/ct-widget-listingssearch.php:210
+msgid "Size To"
+msgstr "حجم"
+
+#: template-advanced-search.php:155 template-advanced-search.php:156
+#: includes/advanced-search.php:207 includes/advanced-search.php:208
+#: includes/header-advanced-search.php:245
+#: includes/header-advanced-search.php:246
+#: includes/header-advanced-search.php:568
+#: includes/header-advanced-search.php:569
+#: includes/widgets/ct-widget-listingssearch.php:218
+#: includes/widgets/ct-widget-listingssearch.php:219
+msgid "Lot Size From"
+msgstr "حجم الكثير من"
+
+#: template-advanced-search.php:160 template-advanced-search.php:161
+#: includes/advanced-search.php:216 includes/advanced-search.php:217
+#: includes/header-advanced-search.php:254
+#: includes/header-advanced-search.php:255
+#: includes/header-advanced-search.php:577
+#: includes/header-advanced-search.php:578
+#: includes/widgets/ct-widget-listingssearch.php:227
+#: includes/widgets/ct-widget-listingssearch.php:228
+msgid "Lot Size To"
+msgstr "الكثير الحجم"
+
+#: template-advanced-search.php:165 template-advanced-search.php:166
+#: template-edit-listing.php:708 template-submit-listing.php:591
+#: includes/advanced-search.php:229 includes/advanced-search.php:230
+#: includes/header-advanced-search.php:286
+#: includes/header-advanced-search.php:287
+#: includes/header-advanced-search.php:608
+#: includes/header-advanced-search.php:609
+#: includes/widgets/ct-widget-listingssearch.php:240
+#: includes/widgets/ct-widget-listingssearch.php:241
+msgid "Property ID"
+msgstr "الخاصية ID"
+
+#: template-advanced-search.php:175 template-advanced-search.php:176
+#: includes/advanced-search.php:239 includes/advanced-search.php:240
+#: includes/header-advanced-search.php:296
+#: includes/header-advanced-search.php:297
+#: includes/header-advanced-search.php:618
+#: includes/header-advanced-search.php:619
+#: includes/widgets/ct-widget-listingssearch.php:250
+#: includes/widgets/ct-widget-listingssearch.php:251
+msgid "Number of Guests"
+msgstr "عدد من الضيوف"
+
+#: template-advanced-search.php:181 includes/advanced-search.php:143
+#: includes/widgets/ct-widget-listingssearch.php:154
+msgid "Additional Features"
+msgstr "ميزات إضافية"
+
+#: template-advanced-search.php:187 includes/advanced-search.php:262
+#: includes/header-advanced-search.php:334
+#: includes/header-advanced-search.php:368
+#: includes/home-hero-advanced-search.php:38
+#: includes/widgets/ct-widget-listingssearch.php:271
+msgid "Search"
+msgstr "بحث"
+
+#: template-agents.php:122 template-agents.php:147
+msgid ""
+"Type an agents name, title, business, phone or lic # here to filter the list."
+msgstr ""
+
+#: template-agents.php:369
+msgid "View Profile"
+msgstr "عرض الملف الشخصي"
+
+#: template-agents.php:403
+msgid "No Agents Found."
+msgstr "لا وكلاء وجدت."
+
+#. Name of the template
+msgid "Big Map"
+msgstr "خريطة كبيرة"
+
+#. Name of the template
+#: admin/theme-functions.php:4479
+msgid "Compare"
+msgstr "قارن"
+
+#. Name of the template
+msgid "Contact No Form"
+msgstr "الاتصال أي شكل"
+
+#: includes/single-listing-sub-navigation.php:169
+#: admin/ReduxFramework/theme-options/re7-config.php:5019
+msgid "Contact"
+msgstr "الاتصال"
+
+#: template-contact.php:64
+msgid "Name*"
+msgstr "الاسم*"
+
+#: template-contact.php:68
+msgid "Email*"
+msgstr "البريد الإلكتروني*"
+
+#: template-contact.php:75
+msgid "Subject*"
+msgstr "الموضوع*"
+
+#: template-contact.php:77
+msgid "Message"
+msgstr "الرسالة"
+
+#. Name of the template
+msgid "Demo Home Listings Slider"
+msgstr "Demo القوائم الرئيسية المنزلق"
+
+#. Name of the template
+msgid "Demo Home Map"
+msgstr "Demo المنزل خريطة"
+
+#. Name of the template
+msgid "Demo Home Video"
+msgstr "Demo الفيديو المنزلية"
+
+#. Name of the template
+msgid "dsIDXpress"
+msgstr "dsIDXpress"
+
+#. Name of the template
+msgid "Edit Listing"
+msgstr "تحرير قائمة"
+
+#: template-edit-listing.php:407 template-submit-listing.php:405
+msgid "Street Address"
+msgstr "عنوان الشارع"
+
+#: template-edit-listing.php:412 template-submit-listing.php:410
+msgid "Alternate Title"
+msgstr "بديل العنوان"
+
+#: template-edit-listing.php:413 template-submit-listing.php:411
+msgid "(e.g. Downtown Penthouse)"
+msgstr "(على سبيل المثال وسط المدينة بنتهاوس)"
+
+#: template-edit-listing.php:425 template-edit-listing.php:440
+#: admin/theme-functions.php:6083 admin/theme-functions.php:6111
+msgid "Any"
+msgstr "أي"
+
+#: template-edit-listing.php:449 template-submit-listing.php:427
+#: template-view-listings.php:179 admin/theme-functions.php:5417
+#: includes/home-listings-count.php:188
+msgid "Featured"
+msgstr "المميز"
+
+#: template-edit-listing.php:463 template-submit-listing.php:437
+#: includes/single-listing-multi-floorplan.php:43
+msgid "Price"
+msgstr "السعر"
+
+#: template-edit-listing.php:468 template-submit-listing.php:442
+msgid "Price Prefix"
+msgstr "السعر البادئة"
+
+#: template-edit-listing.php:469 template-submit-listing.php:443
+msgid " (e.g. From, Call for price)"
+msgstr " (مثل من يدعو السعر)"
+
+#: template-edit-listing.php:473 template-submit-listing.php:447
+msgid "Price Postfix Text"
+msgstr "سعر Postfix النص"
+
+#: template-edit-listing.php:474 template-submit-listing.php:448
+msgid " (e.g. /month, /week)"
+msgstr " (على سبيل المثال /الشهر /الأسبوع)"
+
+#: template-edit-listing.php:479 template-submit-listing.php:453
+msgid "Listing Description"
+msgstr "ادراج"
+
+#: template-edit-listing.php:496 template-submit-listing.php:467
+msgid "Listing Featured Image"
+msgstr "إدراج صورة مميزة"
+
+#: template-edit-listing.php:505 template-submit-listing.php:479
+#: admin/ReduxFramework/theme-options/re7-config.php:3239
+msgid "Listing Images"
+msgstr "إدراج الصور"
+
+#: template-edit-listing.php:582 template-submit-listing.php:489
+msgid "Drag & Drop Images Here"
+msgstr "السحب "
+
+#: template-edit-listing.php:585 template-submit-listing.php:492
+msgid "or"
+msgstr "أو"
+
+#: template-edit-listing.php:588 template-submit-listing.php:495
+msgid "Select Images"
+msgstr "حدد الصور"
+
+#: template-edit-listing.php:592
+msgid ""
+"*At least one image is required for valid submission, minimum width of 817px."
+msgstr "*على الأقل صورة واحدة مطلوب صالحة تقديم الحد الأدنى من عرض 817px."
+
+#: template-edit-listing.php:593 template-submit-listing.php:500
+msgid ""
+"*You can mark an image as featured by clicking the star icon, Otherwise "
+"first image will be considered featured image."
+msgstr ""
+"*يمكنك وضع علامة على الصورة كما ظهرت من خلال النقر على رمز النجمة ، وإلا "
+"الصورة الأولى سيتم النظر في صورة مميزة."
+
+#: template-edit-listing.php:605 template-submit-listing.php:510
+msgid "Files & Documents"
+msgstr "الملفات "
+
+#: template-edit-listing.php:629 template-submit-listing.php:522
+msgid "*Supported file types are PDF, Word, Excel & PowerPoint."
+msgstr "*دعم أنواع الملفات PDF, Word, Excel "
+
+#: template-edit-listing.php:693 template-submit-listing.php:576
+#: admin/theme-functions.php:4872 includes/header-advanced-search.php:264
+#: includes/sub-listings.php:195
+#: includes/widgets/ct-widget-agentsotherlistings.php:232
+msgid "Lot Size"
+msgstr "حجم الكثير"
+
+#: template-edit-listing.php:698 template-submit-listing.php:581
+#: admin/theme-functions.php:4743
+msgid "Pets"
+msgstr "الحيوانات الأليفة"
+
+#: template-edit-listing.php:703 template-submit-listing.php:586
+#: admin/theme-functions.php:4758
+msgid "Parking"
+msgstr "وقوف السيارات"
+
+#: template-edit-listing.php:713 template-submit-listing.php:596
+msgid "Video URL"
+msgstr "رابط الفيديو"
+
+#: template-edit-listing.php:720
+msgid "Vitrual Tour URL"
+msgstr "Vitrual جولة URL"
+
+#: template-edit-listing.php:728 template-submit-listing.php:611
+#: admin/theme-functions.php:5190 includes/single-listing-open-house.php:26
+#: includes/single-listing-sub-navigation.php:51
+msgid "Open House"
+msgstr "البيت المفتوح"
+
+#: template-edit-listing.php:731 template-submit-listing.php:614
+#: includes/single-listing-open-house.php:32
+msgid "Date"
+msgstr "التاريخ"
+
+#: template-edit-listing.php:736 template-submit-listing.php:619
+msgid "Start Time"
+msgstr "وقت البدء"
+
+#: template-edit-listing.php:741 template-submit-listing.php:624
+msgid "End Time"
+msgstr "نهاية الوقت"
+
+#: template-edit-listing.php:751 template-submit-listing.php:642
+msgid "Additional Features (comma separated)"
+msgstr "ميزات إضافية (مفصولة بفواصل)"
+
+#: template-edit-listing.php:766 template-submit-listing.php:657
+msgid "Max-number of Guests"
+msgstr "ماكس-عدد من الضيوف"
+
+#: template-edit-listing.php:771 template-submit-listing.php:662
+msgid "Minimum Stay"
+msgstr "الحد الأدنى للإقامة"
+
+#: template-edit-listing.php:778 template-submit-listing.php:669
+msgid "Check In Time"
+msgstr "تحقق في الوقت المناسب"
+
+#: template-edit-listing.php:783 template-submit-listing.php:674
+msgid "Check Out Time"
+msgstr "تحقق من الوقت"
+
+#: template-edit-listing.php:790 template-submit-listing.php:681
+msgid "Extra Person Charge"
+msgstr "شخص إضافي"
+
+#: template-edit-listing.php:795 template-submit-listing.php:686
+#: admin/theme-functions.php:5019
+msgid "Cleaning Fee"
+msgstr "رسوم التنظيف"
+
+#: template-edit-listing.php:802 template-submit-listing.php:693
+#: admin/theme-functions.php:5030
+msgid "Cancellation Fee"
+msgstr "رسوم الإلغاء"
+
+#: template-edit-listing.php:807 template-submit-listing.php:698
+#: admin/theme-functions.php:5041
+msgid "Security Deposit"
+msgstr "الأمن إيداع"
+
+#: template-edit-listing.php:827 template-submit-listing.php:711
+msgid "Type in an address"
+msgstr "اكتب في العنوان"
+
+#: template-edit-listing.php:847 template-submit-listing.php:731
+#: includes/advanced-search.php:98 includes/header-advanced-search.php:109
+#: includes/widgets/ct-widget-listingssearch.php:109
+msgid "County"
+msgstr "مقاطعة"
+
+#: template-edit-listing.php:862 template-submit-listing.php:746
+msgid "Latitude & Longitude (optional)"
+msgstr "العرض "
+
+#: template-edit-listing.php:871 template-submit-listing.php:755
+msgid ""
+"You can also manually drag the marker to the exact location of your listing "
+"if the automatic geolocation is off."
+msgstr ""
+"يمكنك أيضا يدويا قم بسحب العلامة إلى المكان المحدد من القائمة الخاصة بك إذا "
+"كان تحديد الموقع الجغرافي التلقائي قبالة."
+
+#: template-edit-listing.php:877 template-submit-listing.php:767
+#: admin/theme-functions.php:4337
+#: admin/ReduxFramework/theme-options/re7-config.php:4534
+msgid "Private Notes"
+msgstr "ملاحظات خاصة"
+
+#: template-edit-listing.php:878 template-submit-listing.php:768
+msgid ""
+"Write a private note about this listing, this textarea will not be displayed "
+"anywhere on the front end of the site."
+msgstr ""
+"كتابة خاصة ملاحظة حول هذه القائمة, هذا النص لن يتم عرضها في أي مكان على "
+"الواجهة الأمامية من موقع."
+
+#: template-edit-listing.php:897 template-submit-listing.php:787
+msgid "Cancel"
+msgstr "إلغاء "
+
+#: template-edit-listing.php:901 template-submit-listing.php:796
+#: admin/theme-functions.php:3379
+msgid "Next"
+msgstr "التالي"
+
+#: template-edit-listing.php:902 template-submit-listing.php:805
+msgid "Previous"
+msgstr "السابق"
+
+#: template-edit-listing.php:919
+#: admin/plugins/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr "تحديث"
+
+#: template-edit-listing.php:929
+msgid "This isn't one of your assigned listings, editing is denied."
+msgstr "هذا يسن'ر واحد من تعيين قوائم التحرير رفض."
+
+#. Name of the template
+msgid "Edit Profile"
+msgstr "تعديل الملف الشخصي"
+
+#: template-edit-profile.php:78
+msgid "The passwords you entered do not match. Your password was not updated."
+msgstr ""
+"كلمات المرور التي أدخلتها لا تتطابق. كلمة المرور الخاصة بك لا يتم تحديث."
+
+#: template-edit-profile.php:86
+msgid "The Email you entered is not valid. Please try again."
+msgstr "البريد الإلكتروني الذي أدخلته غير صالح. يرجى المحاولة مرة أخرى."
+
+#: template-edit-profile.php:88
+msgid "This email is already used by another user. Try a different one."
+msgstr ""
+"هذا البريد الإلكتروني يستخدم بالفعل من قبل مستخدم آخر. في محاولة واحدة "
+"مختلفة."
+
+#: template-edit-profile.php:133 admin/theme-functions.php:3689
+#: admin/theme-functions.php:3768
+msgid "Username"
+msgstr "اسم المستخدم"
+
+#: template-edit-profile.php:134
+msgid "Usernames cannot be changed."
+msgstr "أسماء لا يمكن تغييرها."
+
+#: template-edit-profile.php:137 admin/theme-functions.php:3778
+msgid "First Name"
+msgstr "الاسم الأول"
+
+#: template-edit-profile.php:141 admin/theme-functions.php:3783
+msgid "Last Name"
+msgstr "الاسم الأخير"
+
+#: template-edit-profile.php:145
+msgid "Nickname"
+msgstr "لقب"
+
+#: template-edit-profile.php:145
+msgid "(required)"
+msgstr "(مطلوب)"
+
+#: template-edit-profile.php:149
+msgid "Display to Public as"
+msgstr "عرض على الجمهور"
+
+#: template-edit-profile.php:187
+msgid "Contact Info"
+msgstr "معلومات الاتصال"
+
+#: template-edit-profile.php:191
+msgid "E-mail *"
+msgstr "البريد الإلكتروني *"
+
+#: template-edit-profile.php:195 admin/theme-functions.php:3788
+msgid "Website"
+msgstr "الموقع الإلكتروني"
+
+#: template-edit-profile.php:218
+msgid "About Yourself"
+msgstr "عن نفسك"
+
+#: template-edit-profile.php:222
+msgid "Biographical Information"
+msgstr "السيرة الذاتية المعلومات"
+
+#: template-edit-profile.php:222
+msgid ""
+"Share a little biographical information to fill out your profile. This may "
+"be shown publicly."
+msgstr ""
+"مشاركة بعض معلومات عن السيرة الذاتية إلى ملء ملف التعريف الخاص بك. قد تظهر "
+"ذلك علنا."
+
+#: template-edit-profile.php:226
+msgid "New Password"
+msgstr "كلمة المرور الجديدة"
+
+#: template-edit-profile.php:226
+msgid ""
+"If you would like to change the password type a new one. Otherwise leave "
+"this blank."
+msgstr ""
+"إذا كنت ترغب في تغيير كلمة المرور اكتب واحدة جديدة. وإلا ترك هذا فارغا."
+
+#: template-edit-profile.php:230
+msgid "Type your new password again."
+msgstr "اكتب كلمة المرور الجديدة مرة أخرى."
+
+#: template-edit-profile.php:232
+msgid "Strength indicator"
+msgstr "مؤشر القوة"
+
+#: template-edit-profile.php:244
+msgid "Update Profile"
+msgstr "تحديث الملف الشخصي"
+
+#: template-favorite-listings.php:100
+msgid "Request More Information on All Favorites"
+msgstr "طلب مزيد من المعلومات على جميع المفضلة"
+
+#: template-favorite-listings.php:178 template-view-listings.php:142
+msgid "Bed:"
+msgstr "السرير:"
+
+#: template-favorite-listings.php:188 template-view-listings.php:152
+msgid "Baths:"
+msgstr "الحمامات:"
+
+#: template-favorite-listings.php:199 template-view-listings.php:163
+#: layouts/list.php:125 includes/widgets/ct-widget-flickr.php:63
+msgid "Type:"
+msgstr "نوع:"
+
+#: template-favorite-listings.php:224
+msgid "Previous Entries"
+msgstr "الإدخالات السابقة"
+
+#: template-favorite-listings.php:225
+msgid "Next Entries"
+msgstr "الإدخالات التالية"
+
+#. Name of the template
+msgid "Full Width 2"
+msgstr "عرض كامل 2"
+
+#. Name of the template
+msgid "Full Width"
+msgstr "العرض الكامل"
+
+#. Name of the template
+msgid "IDX Full Width"
+msgstr "IDX العرض الكامل"
+
+#. Name of the template
+msgid "IDX w/Sidebar"
+msgstr "IDX w/الشريط الجانبي"
+
+#. Name of the template
+msgid "Landing Page"
+msgstr "الصفحة المقصودة"
+
+#. Name of the template
+msgid "Left Sidebar"
+msgstr "الشريط الجانبي الأيسر"
+
+#. Name of the template
+#: includes/user-sidebar.php:44
+#: admin/ReduxFramework/theme-options/re7-config.php:4699
+msgid "Listing Email Alerts"
+msgstr "قائمة تنبيهات البريد الإلكتروني"
+
+#: template-listing-email-alerts.php:84
+msgid "Manage your alerts"
+msgstr "إدارة التنبيهات"
+
+#: template-listing-email-alerts.php:85
+msgid "Here you can turn saved alerts on/off or remove them completely."
+msgstr "هنا يمكنك تشغيل حفظ تنبيهات على/قبالة أو إزالتها تماما."
+
+#: template-listing-email-alerts.php:90
+msgid "Query"
+msgstr "الاستعلام"
+
+#: template-listing-email-alerts.php:93
+msgid "Date Created"
+msgstr "تاريخ الإنشاء"
+
+#: template-listing-email-alerts.php:96
+msgid "Email Setting"
+msgstr "إعداد البريد الإلكتروني"
+
+#: template-listing-email-alerts.php:99 admin/theme-functions.php:3547
+msgid "Delete"
+msgstr "حذف"
+
+#: template-listing-email-alerts.php:126
+msgid "You don't have any saved searches yet, create one above."
+msgstr "كنت don\\ \\ 'ر لها أي عمليات البحث المحفوظة بعد إنشاء واحد أعلاه."
+
+#: template-listing-email-alerts.php:138
+msgid ""
+"Activate \"Contempo Email Alerts\" plugin via Appearance > Install Plugins."
+msgstr ""
+"تفعيل \"Contempo تنبيهات البريد الإلكتروني\" البرنامج المساعد من خلال المظهر "
+"> تثبيت الإضافات."
+
+#. Name of the template
+#: includes/home-listings-count.php:58
+msgid "Open Houses"
+msgstr "البيوت المفتوحة"
+
+#. Name of the template
+msgid "Packages Thank You"
+msgstr "شكرا لك حزم"
+
+#: template-packages-thank-you.php:56
+msgid "Select a Package"
+msgstr "حدد حزمة"
+
+#: template-packages-thank-you.php:60
+msgid "Payment"
+msgstr "الدفع"
+
+#: template-packages-thank-you.php:64
+msgid "Complete"
+msgstr "كاملة"
+
+#. Name of the template
+msgid "Quick Search"
+msgstr "البحث السريع"
+
+#. Name of the template
+msgid "Sitemap"
+msgstr "خريطة الموقع"
+
+#: template-sitemap.php:51
+msgid "Last Twenty Posts"
+msgstr "العشرين الماضية المشاركات"
+
+#: template-sitemap.php:67
+msgid "Pages"
+msgstr "صفحات"
+
+#: template-sitemap.php:74
+msgid "Categories"
+msgstr "تصنيفات"
+
+#: template-sitemap.php:81
+msgid "Posts per category"
+msgstr "الوظائف حسب الفئة"
+
+#: template-submit-listing.php:379
+msgid "You haven't chosen a package yet…"
+msgstr "لم\\ \\ 'ر اختيار حزمة بعد..."
+
+#: template-submit-listing.php:380
+msgid "Get Started!"
+msgstr "تبدأ!"
+
+#: template-submit-listing.php:386
+msgid "Listings Limit Reached"
+msgstr "قوائم الحد وصلت"
+
+#: template-submit-listing.php:387
+msgid "You've reached the listings limit for your membership package."
+msgstr "كنت'هاء وصلت إلى القوائم الحد الخاص بك حزمة عضوية."
+
+#: template-submit-listing.php:388
+msgid "Upgrade Today!"
+msgstr "ترقية اليوم!"
+
+#: template-submit-listing.php:472
+msgid "Gallery Images (select as many as you like)"
+msgstr "معرض الصور (حدد ما تريد)"
+
+#: template-submit-listing.php:499
+msgid "*At least one image is for valid submission, minimum width of 817px."
+msgstr "*على الأقل صورة واحدة هي صالحة تقديم الحد الأدنى من عرض 817px."
+
+#: template-submit-listing.php:582
+msgid "(e.g. Cats, small dogs)"
+msgstr "(مثل القطط, الكلاب الصغيرة)"
+
+#: template-submit-listing.php:587
+msgid "(e.g. Carport, 2 Car Garage)"
+msgstr "(على سبيل المثال موقف سيارات و 2 مرآب للسيارات)"
+
+#: template-submit-listing.php:603
+msgid "Virtual Tour URL"
+msgstr "جولة افتراضية URL"
+
+#: template-submit-listing.php:658
+msgid " (e.g. 2)"
+msgstr " (مثلا 2)"
+
+#: template-submit-listing.php:663
+msgid " (e.g. 1 night)"
+msgstr " (على سبيل المثال 1 ليلة)"
+
+#: template-submit-listing.php:670
+msgid " (e.g. 3:00 PM)"
+msgstr " (على سبيل المثال 3:00 مساء)"
+
+#: template-submit-listing.php:675
+msgid " (e.g. 11:00 AM)"
+msgstr " (على سبيل المثال 11:00 صباحا)"
+
+#: template-submit-listing.php:682
+msgid " (e.g. 50)"
+msgstr " (مثلا 50)"
+
+#: template-submit-listing.php:687
+msgid " (e.g. 150)"
+msgstr " مثلا (150)"
+
+#: template-submit-listing.php:694
+msgid " (e.g. 275)"
+msgstr " مثل (275)"
+
+#: template-submit-listing.php:699
+msgid " (e.g. 895)"
+msgstr " مثل (895)"
+
+#: template-submit-listing.php:788
+msgid "Save As Draft"
+msgstr "حفظ كمسودة"
+
+#. Name of the template
+#: admin/ReduxFramework/theme-options/re7-config.php:1706
+msgid "Testimonials"
+msgstr "الشهادات"
+
+#. Name of the template
+msgid "User Dashboard"
+msgstr "لوحة أجهزة القياس المستخدم"
+
+#: template-user-dashboard.php:122
+#: admin/ReduxFramework/theme-options/re7-config.php:1656
+msgid "Featured Listings"
+msgstr "قوائم مميزة"
+
+#: template-user-dashboard.php:141
+msgid "Pending Listings"
+msgstr "في انتظار القوائم"
+
+#: template-view-invoices.php:82
+msgid "You haven't placed any orders yet…"
+msgstr "لم\\ \\ 'ر أي طلبيات بعد..."
+
+#: template-view-invoices.php:90
+msgid "Invoice"
+msgstr "الفاتورة"
+
+#: template-view-invoices.php:91
+msgid "Package"
+msgstr "حزمة"
+
+#: template-view-invoices.php:92
+msgid "Start"
+msgstr "تبدأ"
+
+#: template-view-invoices.php:93
+msgid "Expire"
+msgstr "تنتهي"
+
+#: template-view-invoices.php:94
+msgid "Recurring"
+msgstr "المتكررة"
+
+#: template-view-invoices.php:96
+msgid "Total"
+msgstr "مجموع"
+
+#: template-view-invoices.php:112
+#: includes/widgets/ct-widget-contactinfo.php:135
+msgid "Yes"
+msgstr "نعم"
+
+#: template-view-invoices.php:112
+#: includes/widgets/ct-widget-contactinfo.php:136
+msgid "No"
+msgstr "لا"
+
+#: template-view-invoices.php:113
+msgid "Expired"
+msgstr "انتهت"
+
+#: template-view-invoices.php:123
+msgid "-"
+msgstr "-"
+
+#: template-view-listings.php:85
+msgid "Type a listing name or address here to filter the list."
+msgstr "اكتب إدراج اسم أو عنوان هنا إلى تصفية القائمة."
+
+#: template-view-listings.php:172
+msgid "Published"
+msgstr "منشور"
+
+#: template-view-listings.php:174
+msgid "Pending"
+msgstr "بإنتظار المراجعة"
+
+#: template-view-listings.php:176
+msgid "Draft"
+msgstr "مسودة"
+
+#: template-view-listings.php:195
+msgid "Paid"
+msgstr "دفعت"
+
+#: template-view-listings.php:210
+msgid "Edit"
+msgstr "تحرير"
+
+#: template-view-listings.php:214 admin/theme-functions.php:4578
+msgid " Views"
+msgstr " الآراء"
+
+#: template-view-listings.php:233
+msgid "You don't have any listings yet..."
+msgstr "كنت don\\ \\ 'ر لها أي قوائم حتى الآن..."
+
+#: template-view-listings.php:234
+msgid "Create One"
+msgstr "إنشاء واحد"
+
+#: admin/merlin-config.php:104 admin/merlin-config.php:120
+#: admin/merlin-config.php:136 admin/merlin-config.php:152
+#: admin/merlin-config.php:168 admin/merlin-config.php:184
+#: admin/merlin-config.php:200 admin/merlin-config.php:216
+#: admin/merlin-config.php:232 admin/merlin-config.php:248
+#: admin/merlin-config.php:264 admin/merlin-config.php:280
+#: admin/merlin-config.php:296 admin/merlin-config.php:312
+#: admin/merlin-config.php:328
+msgid "A special note for this import."
+msgstr "ملاحظة خاصة لهذا الاستيراد."
+
+#: admin/profile-fields.php:39
+msgid "Social profile information"
+msgstr "الملف الاجتماعي معلومات"
+
+#: admin/profile-fields.php:43
+msgid "Twitter Username"
+msgstr "تويتر اسم المستخدم"
+
+#: admin/profile-fields.php:49
+msgid "Facebook URL"
+msgstr "Facebook URL"
+
+#: admin/profile-fields.php:55
+msgid "Instagram URL"
+msgstr "Instagram URL"
+
+#: admin/profile-fields.php:61
+msgid "LinkedIn URL"
+msgstr "ينكدين URL"
+
+#: admin/profile-fields.php:67
+msgid "YouTube URL"
+msgstr "يوتيوب URL"
+
+#: admin/profile-fields.php:76
+msgid "Extra profile information"
+msgstr "إضافية معلومات الملف الشخصي"
+
+#: admin/profile-fields.php:88
+msgid "Agent Order"
+msgstr "عميل النظام"
+
+#: admin/profile-fields.php:91
+msgid ""
+"If user is an agent select the order you would like them displayed on the "
+"agents page, e.g. 1, 2, 3, etc&hellip; NOTE: You must also set Real Estate 7 "
+"Options > Agents > Manually Order Agents? > to Yes, otherwise the ordering "
+"won't be applied."
+msgstr ""
+"إذا كان المستخدم هو وكيل حدد النظام التي ترغب بها عرضها على وكلاء الصفحة ، "
+"مثل 1, 2, 3, الخ"
+
+#: admin/profile-fields.php:95
+msgid "Profile Image"
+msgstr "الصورة الشخصية"
+
+#: admin/profile-fields.php:105
+msgid ""
+"Please upload a profile picture here, if none is chosen a default image will "
+"be used."
+msgstr ""
+"يرجى تحميل الصورة الشخصية هنا ، إذا لم يتم اختيار صورة افتراضية سيتم "
+"استخدامها."
+
+#: admin/profile-fields.php:109
+msgid "Mobile #"
+msgstr ""
+
+#: admin/profile-fields.php:115
+msgid "Fax #"
+msgstr ""
+
+#: admin/profile-fields.php:122
+msgid "Title"
+msgstr "العنوان"
+
+#: admin/profile-fields.php:128
+msgid "Tagline"
+msgstr "سطر الوصف"
+
+#: admin/profile-fields.php:134
+msgid "Agent License #"
+msgstr ""
+
+#: admin/profile-fields.php:137
+msgid "Add the agents license number here."
+msgstr "إضافة وكلاء رقم الترخيص هنا."
+
+#: admin/profile-fields.php:144
+msgid "Agent Testimonials"
+msgstr "وكيل الشهادات"
+
+#: admin/profile-fields.php:148
+msgid ""
+"If this user is marked as an agent (\"Show on agents page\" option above) "
+"use this area to add client testimonials."
+msgstr ""
+"إذا كان هذا المستخدم هو وضع علامة وكيلا (\"تظهر على وكلاء صفحة\" الخيار "
+"أعلاه) استخدام هذا المجال لإضافة شهادات العميل."
+
+#: admin/profile-fields.php:162
+msgid "Office Information"
+msgstr "مكتب المعلومات"
+
+#: admin/profile-fields.php:166
+msgid "Personal Logo"
+msgstr "الشخصية الشعار"
+
+#: admin/profile-fields.php:176
+msgid ""
+"Upload your personal logo here, or if you choose to associate a Brokerage "
+"below that logo will be used instead."
+msgstr ""
+"تحميل الشعار الخاص بك الشخصية هنا ، أو إذا اخترت ربط الوساطة تحت هذا الشعار "
+"سيتم استخدامها بدلا من ذلك."
+
+#: admin/profile-fields.php:186
+msgid "Select a Brokerage"
+msgstr "حدد الوساطة"
+
+#: admin/profile-fields.php:194
+msgid ""
+"Assign a brokerage here, these are pulled from the Brokerage custom post "
+"type."
+msgstr "تعيين الوساطة هنا, هذه هي انسحبت من الوساطة نوع آخر مخصص."
+
+#: admin/profile-fields.php:198
+msgid "Brokerage License #"
+msgstr ""
+
+#: admin/profile-fields.php:201
+msgid "Add the brokerage license number here."
+msgstr "إضافة ترخيص وساطة عدد من هنا."
+
+#: admin/profile-fields.php:205
+msgid "Office #"
+msgstr ""
+
+#: admin/profile-fields.php:223
+msgid "State or Province"
+msgstr "الولاية أو المقاطعة"
+
+#: admin/profile-fields.php:229 admin/theme-functions.php:5689
+msgid "Postal Code"
+msgstr "الرمز البريدي"
+
+#: admin/theme-functions.php:45
+msgid "Please Update Your PHP Version to the Recommended 5.6+"
+msgstr "يرجى تحديث الإصدار الخاص بي إلى الموصى بها 5.6 "
+
+#: admin/theme-functions.php:46
+msgid ""
+"Otherwise some of the Theme Functions and Custom Visual Composer modules "
+"won't be available for use, or cause issues with your site display."
+msgstr ""
+"وإلا بعض وظائف موضوع مخصص وحدات الملحن البصرية فاز'ر تكون متاحة للاستخدام, "
+"أو يسبب مشاكل مع موقع الويب الخاص بك وعرض."
+
+#: admin/theme-functions.php:47
+msgid ""
+"Its a quick and simple process (no more than a couple minutes), please refer "
+"to this knowledgebase article below."
+msgstr ""
+"لها سريعة و عملية بسيطة (لا أكثر من بضع دقائق) ، يرجى الرجوع إلى هذه المعرفة "
+"في المادة أدناه."
+
+#: admin/theme-functions.php:48
+msgid "Minimum PHP Version 5.6+ and How to Update to It"
+msgstr "الحد الأدنى PHP الإصدار 5.6 و كيفية التحديث إلى ذلك"
+
+#: admin/theme-functions.php:49 admin/theme-functions.php:91
+#: admin/theme-functions.php:133 admin/theme-functions.php:175
+#: admin/plugins/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr "رفض هذا الإشعار"
+
+#: admin/theme-functions.php:89
+msgid "WP Favorite Posts Needs to be Setup"
+msgstr "WP المفضلة الوظائف تحتاج إلى إعداد"
+
+#: admin/theme-functions.php:90 admin/theme-functions.php:132
+#: admin/theme-functions.php:174
+msgid "Just takes a few seconds to setup the plugin properly please see the "
+msgstr "يأخذ فقط بضع ثوان لإعداد البرنامج المساعد بشكل صحيح الرجاء مراجعة "
+
+#: admin/theme-functions.php:90 admin/theme-functions.php:132
+#: admin/theme-functions.php:174
+msgid "documentation"
+msgstr "الوثائق"
+
+#: admin/theme-functions.php:131
+msgid "Contempo Compare Listings Needs to be Setup"
+msgstr "Contempo مقارنة القوائم تحتاج إلى إعداد"
+
+#: admin/theme-functions.php:173
+msgid "WordPress Social Login Needs to be Setup"
+msgstr "وورد تسجيل الدخول الاجتماعي يحتاج إلى إعداد"
+
+#: admin/theme-functions.php:387
+msgid "Listing Large"
+msgstr "قائمة كبيرة"
+
+#: admin/theme-functions.php:398
+msgid "Primary Left Menu"
+msgstr "الرئيسية القائمة اليسرى"
+
+#: admin/theme-functions.php:399
+msgid "Primary Right Menu"
+msgstr "الرئيسية القائمة اليمنى"
+
+#: admin/theme-functions.php:400
+msgid "Primary Full Width"
+msgstr "الابتدائية العرض الكامل"
+
+#: admin/theme-functions.php:401
+msgid "Footer Menu"
+msgstr "القائمة تذييل الصفحة"
+
+#: admin/theme-functions.php:425
+msgid "Menu doesn't exist, please create one by clicking here."
+msgstr "القائمة لا توجد الآن'تي موجودة ، يرجى إنشاء واحد من خلال النقر هنا."
+
+#: admin/theme-functions.php:1170
+msgid "Open Map"
+msgstr "فتح خريطة"
+
+#: admin/theme-functions.php:1171
+msgid "Close Search"
+msgstr "إغلاق البحث"
+
+#: admin/theme-functions.php:1174
+msgid "Open"
+msgstr "فتح"
+
+#: admin/theme-functions.php:1175
+msgid "Search Saved"
+msgstr "البحث المحفوظة"
+
+#: admin/theme-functions.php:1187 admin/theme-functions.php:5897
+msgid "All Towns"
+msgstr "جميع المدن"
+
+#: admin/theme-functions.php:1189 admin/theme-functions.php:5899
+msgid "All Villages"
+msgstr "جميع القرى"
+
+#: admin/theme-functions.php:1191 admin/theme-functions.php:5901
+msgid "All Cities"
+msgstr "جميع المدن"
+
+#: admin/theme-functions.php:1195 admin/theme-functions.php:5903
+msgid "All Areas"
+msgstr "جميع المناطق"
+
+#: admin/theme-functions.php:1197 admin/theme-functions.php:5905
+#: admin/theme-functions.php:5939
+msgid "All Suburbs"
+msgstr "جميع الضواحي"
+
+#: admin/theme-functions.php:1199 admin/theme-functions.php:5907
+msgid "All Provinces"
+msgstr "جميع المحافظات"
+
+#: admin/theme-functions.php:1201 admin/theme-functions.php:5909
+msgid "All Regions"
+msgstr "جميع المناطق"
+
+#: admin/theme-functions.php:1203 admin/theme-functions.php:5911
+msgid "All Parishes"
+msgstr "جميع الرعايا"
+
+#: admin/theme-functions.php:1205 admin/theme-functions.php:5913
+msgid "All States"
+msgstr "جميع الدول"
+
+#: admin/theme-functions.php:1209 admin/theme-functions.php:5947
+msgid "All Postcodes"
+msgstr "جميع الرموز البريدية"
+
+#: admin/theme-functions.php:1211 admin/theme-functions.php:5949
+msgid "All Postal Codes"
+msgstr "جميع الرموز البريدية"
+
+#: admin/theme-functions.php:1213 admin/theme-functions.php:5951
+msgid "All Zipcodes"
+msgstr "كل Zipcodes"
+
+#: admin/theme-functions.php:1228
+msgid "* This field is required"
+msgstr "* هذا الحقل مطلوب"
+
+#: admin/theme-functions.php:1229
+msgid "* Please select an option"
+msgstr "* يرجى تحديد خيار"
+
+#: admin/theme-functions.php:1230
+msgid "* This checkbox is required"
+msgstr "* مربع الاختيار هذا هو المطلوب"
+
+#: admin/theme-functions.php:1231
+msgid "* Invalid phone number"
+msgstr "* رقم الهاتف غير صالح"
+
+#: admin/theme-functions.php:1232
+msgid "* Invalid email address"
+msgstr "* عنوان البريد الإلكتروني غير صالح"
+
+#: admin/theme-functions.php:1233
+msgid "* Invalid date, must be in YYYY-MM-DD format"
+msgstr "* تاريخ غير صالح ، يجب أن تكون في YYYY-MM-DD"
+
+#: admin/theme-functions.php:1234
+msgid "* Numbers only"
+msgstr "* أرقام فقط"
+
+#: admin/theme-functions.php:1235
+msgid "* No special caracters allowed"
+msgstr "* لا يسمح احرف"
+
+#: admin/theme-functions.php:1236
+msgid "* Letters only"
+msgstr "* رسائل فقط"
+
+#: admin/theme-functions.php:1921 admin/theme-functions.php:3797
+msgid "Buyer"
+msgstr "المشتري"
+
+#: admin/theme-functions.php:1933 admin/theme-functions.php:3798
+msgid "Seller"
+msgstr "البائع"
+
+#: admin/theme-functions.php:1971
+msgid "Broker"
+msgstr "وسيط"
+
+#: admin/theme-functions.php:2083 admin/theme-functions.php:2120
+#: admin/theme-functions.php:2156
+msgid "Beds: "
+msgstr "الغرف: "
+
+#: admin/theme-functions.php:2084 admin/theme-functions.php:2121
+#: admin/theme-functions.php:2157
+msgid "Baths: "
+msgstr "الحمامات: "
+
+#: admin/theme-functions.php:2085 admin/theme-functions.php:2122
+#: admin/theme-functions.php:2158
+msgid "Sq Ft: "
+msgstr "قدم مربعة: "
+
+#: admin/theme-functions.php:2094 admin/theme-functions.php:2131
+#: admin/theme-functions.php:2166
+msgid "1 Listing found"
+msgstr "1 إدراج وجدت"
+
+#: admin/theme-functions.php:2096 admin/theme-functions.php:2133
+#: admin/theme-functions.php:2168
+msgid " Listings found"
+msgstr " قوائم وجدت"
+
+#: admin/theme-functions.php:2173
+msgid "No Listings Found"
+msgstr "لا قوائم وجدت"
+
+#: admin/theme-functions.php:2393
+msgid "Sort By"
+msgstr "فرز حسب"
+
+#: admin/theme-functions.php:2394
+msgid "Default Order"
+msgstr "الترتيب الافتراضي"
+
+#: admin/theme-functions.php:2395
+msgid "Price - Low to High"
+msgstr "السعر على ارتفاع منخفض"
+
+#: admin/theme-functions.php:2396
+msgid "Price - High to Low"
+msgstr "السعر على ارتفاع منخفض"
+
+#: admin/theme-functions.php:2397
+msgid "Date - Old to New"
+msgstr "التاريخ - القديم إلى الجديد"
+
+#: admin/theme-functions.php:2398
+msgid "Date - New to Old"
+msgstr "التاريخ الجديد إلى القديم"
+
+#: admin/theme-functions.php:2625
+msgid "New submission in"
+msgstr "تقديم الجديد في"
+
+#: admin/theme-functions.php:2627
+msgid "Hi!"
+msgstr "مرحبا!"
+
+#: admin/theme-functions.php:2628
+msgid "We have a new submission in"
+msgstr "لدينا عروض جديدة في"
+
+#: admin/theme-functions.php:2629
+msgid "Check it out"
+msgstr "التحقق من ذلك"
+
+#: admin/theme-functions.php:2743 admin/theme-functions.php:2818
+#: admin/theme-functions.php:2921 admin/theme-functions.php:3036
+#: admin/theme-functions.php:3155 admin/theme-functions.php:3245
+#: admin/theme-functions.php:3356
+msgid "You need to setup the Google Maps API."
+msgstr "تحتاج إلى إعداد خرائط جوجل API."
+
+#: admin/theme-functions.php:2744 admin/theme-functions.php:2819
+#: admin/theme-functions.php:2922 admin/theme-functions.php:3037
+#: admin/theme-functions.php:3156 admin/theme-functions.php:3246
+#: admin/theme-functions.php:3357
+msgid "Go into Admin > Real Estate 7 Options > Google Maps"
+msgstr "انتقل إلى المسؤول > العقارات 7 خيارات > خرائط جوجل"
+
+#: admin/theme-functions.php:3378
+msgid "Prev"
+msgstr "السابق"
+
+#: admin/theme-functions.php:3645
+msgid "User registration is not enabled"
+msgstr "تسجيل المستخدم لم يتم تمكين"
+
+#: admin/theme-functions.php:3675
+msgid "Log in"
+msgstr "تسجيل الدخول"
+
+#: admin/theme-functions.php:3677
+msgid "Don't have an account?"
+msgstr "Don\\ \\ 'ر لها حساب ؟ "
+
+#: admin/theme-functions.php:3677
+msgid "Create your account,"
+msgstr "إنشاء الحساب الخاص بك ، "
+
+#: admin/theme-functions.php:3677
+msgid "it takes less than a minute."
+msgstr "فإنه يأخذ أقل من دقيقة."
+
+#: admin/theme-functions.php:3692 admin/theme-functions.php:3805
+msgid "Password"
+msgstr "كلمة المرور"
+
+#: admin/theme-functions.php:3707
+msgid "Lost your password?"
+msgstr "هل فقدت كلمة مرورك؟"
+
+#: admin/theme-functions.php:3717
+msgid "Lost Password?"
+msgstr "فقدت كلمة المرور ؟ "
+
+#: admin/theme-functions.php:3718
+msgid ""
+"Enter your email address and we'll send you a link you can use to pick a new "
+"password."
+msgstr ""
+"أدخل عنوان البريد الإلكتروني الخاص بك ونحن'ليرة لبنانية نرسل لك رابطا يمكنك "
+"استخدامها لاختيار كلمة مرور جديدة."
+
+#: admin/theme-functions.php:3720
+msgid "Username or Email"
+msgstr "اسم المستخدم أو البريد الإلكتروني"
+
+#: admin/theme-functions.php:3722
+msgid "Get New Password"
+msgstr "احصل على كلمة مرور جديدة"
+
+#: admin/theme-functions.php:3758
+msgid "Create an account"
+msgstr "إنشاء حساب"
+
+#: admin/theme-functions.php:3759
+msgid "It takes less than a minute. If you already have an account "
+msgstr "فإنه يأخذ أقل من دقيقة. إذا كان لديك حساب بالفعل "
+
+#: admin/theme-functions.php:3759
+msgid "login"
+msgstr "تسجيل الدخول"
+
+#: admin/theme-functions.php:3794
+msgid "Buyer, Seller or Agent?"
+msgstr "المشتري أو البائع أو الوكيل ؟ "
+
+#: admin/theme-functions.php:3796
+msgid "Please choose"
+msgstr "يرجى اختيار"
+
+#: admin/theme-functions.php:3810
+msgid "Password Again"
+msgstr "كلمة المرور مرة أخرى"
+
+#: admin/theme-functions.php:3816
+msgid "I accept the"
+msgstr "أنا أقبل"
+
+#: admin/theme-functions.php:3816
+msgid "Terms &amp; Conditions"
+msgstr "حيث "
+
+#: admin/theme-functions.php:3821
+msgid "Register"
+msgstr "تسجيل"
+
+#: admin/theme-functions.php:3856
+msgid "Username already taken"
+msgstr "اسم المستخدم اتخذت بالفعل"
+
+#: admin/theme-functions.php:3860 admin/theme-functions.php:4048
+#: admin/theme-functions.php:4095
+msgid "Invalid username"
+msgstr "اسم المستخدم غير صالح"
+
+#: admin/theme-functions.php:3864
+msgid "Please enter a username"
+msgstr "يرجى إدخال اسم المستخدم"
+
+#: admin/theme-functions.php:3868
+msgid "Invalid email"
+msgstr "بريد إلكتروني غير صالح"
+
+#: admin/theme-functions.php:3872
+msgid "Email already registered"
+msgstr "البريد الإلكتروني مسجل بالفعل"
+
+#: admin/theme-functions.php:3876 admin/theme-functions.php:4053
+#: admin/theme-functions.php:4100
+msgid "Please enter a password"
+msgstr "الرجاء إدخال كلمة المرور"
+
+#: admin/theme-functions.php:3880
+msgid "Passwords do not match"
+msgstr "لا تتطابق كلمات المرور"
+
+#: admin/theme-functions.php:3884
+msgid "Terms & Conditions must be checked"
+msgstr "حيث "
+
+#: admin/theme-functions.php:4059 admin/theme-functions.php:4106
+msgid "Incorrect password"
+msgstr "كلمة المرور غير صحيحة"
+
+#: admin/theme-functions.php:4140
+msgid "Error"
+msgstr "خطأ"
+
+#: admin/theme-functions.php:4263 admin/theme-functions.php:4267
+msgid "Featured Image"
+msgstr "صورة مميزة"
+
+#: admin/theme-functions.php:4265
+msgid "Brokerage Logo"
+msgstr "الوساطة شعار"
+
+#: admin/theme-functions.php:4295
+msgid "Enter the listing street address here"
+msgstr "أدخل قائمة عنوان الشارع هنا"
+
+#: admin/theme-functions.php:4311
+msgid ""
+"NOTE: The Listing Title needs to be <strong>only the Street Address</strong> "
+"(e.g. 123 Somewhere St.) otherwise the mapping won't work properly, use the "
+"Alternate Title field below for Listing Names, etc…the Alt Title field will "
+"override the street address on the front end of your site."
+msgstr ""
+
+#: admin/theme-functions.php:4330
+#: admin/ReduxFramework/theme-options/re7-config.php:4148
+msgid "Price & Description"
+msgstr "السعر "
+
+#: admin/theme-functions.php:4331
+msgid "Photos & Files"
+msgstr "الصور "
+
+#: admin/theme-functions.php:4332
+#: admin/ReduxFramework/theme-options/re7-config.php:4237
+msgid "Details"
+msgstr "التفاصيل"
+
+#: admin/theme-functions.php:4334 includes/single-listing-sub-navigation.php:78
+#: admin/ReduxFramework/theme-options/re7-config.php:4356
+msgid "Rental Info"
+msgstr "تأجير معلومات"
+
+#: admin/theme-functions.php:4336 includes/single-listing-map.php:18
+#: includes/single-listing-sub-navigation.php:135
+#: includes/single-listing-sub-navigation.php:164
+#: admin/ReduxFramework/theme-options/re7-config.php:4445
+msgid "Location"
+msgstr "الموقع"
+
+#: admin/theme-functions.php:4438
+msgid "Add to Favorites"
+msgstr "أضف إلى المفضلة"
+
+#: admin/theme-functions.php:4443
+msgid "Favorite"
+msgstr "المفضلة"
+
+#: admin/theme-functions.php:4556
+msgid " Photo"
+msgstr " الصورة"
+
+#: admin/theme-functions.php:4558
+msgid " Photos"
+msgstr " الصور"
+
+#: admin/theme-functions.php:4700 admin/theme-functions.php:5605
+#: admin/theme-functions.php:5915 layouts/list.php:84
+msgid "Rooms"
+msgstr "الغرف"
+
+#: admin/theme-functions.php:4702 admin/theme-functions.php:5607
+#: admin/theme-functions.php:5917 layouts/list.php:86
+msgid "Bedrooms"
+msgstr "غرف نوم"
+
+#: admin/theme-functions.php:4706 admin/theme-functions.php:5611
+#: admin/theme-functions.php:5919 includes/sub-listings.php:89
+#: layouts/list.php:90 includes/widgets/ct-widget-agentsotherlistings.php:126
+msgid "Bed"
+msgstr "السرير"
+
+#: admin/theme-functions.php:4722 admin/theme-functions.php:5626
+#: admin/theme-functions.php:5923 layouts/list.php:106
+msgid "Bathrooms"
+msgstr "الحمامات"
+
+#: admin/theme-functions.php:4726 admin/theme-functions.php:5630
+#: admin/theme-functions.php:5925 layouts/list.php:110
+msgid "Bath"
+msgstr "حوض استحمام"
+
+#: admin/theme-functions.php:4777 includes/sub-listings.php:122
+#: includes/widgets/ct-widget-agentsotherlistings.php:159
+msgid "Rating"
+msgstr "تصنيف"
+
+#: admin/theme-functions.php:4794 includes/sub-listings.php:139
+#: includes/widgets/ct-widget-agentsotherlistings.php:176
+msgid "Guests"
+msgstr "يمكن للضيوف"
+
+#: admin/theme-functions.php:4809 admin/theme-functions.php:4987
+#: includes/sub-listings.php:154
+#: includes/widgets/ct-widget-agentsotherlistings.php:191
+msgid "Min Stay"
+msgstr "مين البقاء"
+
+#: admin/theme-functions.php:4857
+msgid "Price Per"
+msgstr "السعر لكل"
+
+#: admin/theme-functions.php:4895
+msgid "Walk Score&reg;"
+msgstr "النتيجة المشي"
+
+#: admin/theme-functions.php:4954
+msgid "Check In"
+msgstr "تحقق في"
+
+#: admin/theme-functions.php:4965
+msgid "Check Out"
+msgstr "تحقق من"
+
+#: admin/theme-functions.php:4976
+msgid "Max Guests"
+msgstr "ماكس الضيوف"
+
+#: admin/theme-functions.php:5008
+msgid "Extra People"
+msgstr "إضافية الناس"
+
+#: admin/theme-functions.php:5118
+#, php-format
+msgid "%s ago"
+msgstr "%s مضت"
+
+#: admin/theme-functions.php:5138
+msgid "Updated on"
+msgstr "تحديث"
+
+#: admin/theme-functions.php:5140
+msgid "at"
+msgstr "في"
+
+#: admin/theme-functions.php:5219
+msgid "Hosted By"
+msgstr "استضافته"
+
+#: admin/theme-functions.php:5276 admin/theme-functions.php:5293
+msgid "Listing Courtesy of"
+msgstr "قائمة مجاملة"
+
+#: admin/theme-functions.php:5278 admin/theme-functions.php:5295
+msgid "Brokered by"
+msgstr "بوساطة"
+
+#: admin/theme-functions.php:5567
+msgid " Sq Ft"
+msgstr " قدم مربعة"
+
+#: admin/theme-functions.php:5569
+msgid " m²"
+msgstr " m2"
+
+#: admin/theme-functions.php:5584
+msgid "Acres"
+msgstr "فدان"
+
+#: admin/theme-functions.php:5586
+msgid "Sq Ft"
+msgstr "قدم مربعة"
+
+#: admin/theme-functions.php:5588
+msgid "m²"
+msgstr "m2"
+
+#: admin/theme-functions.php:5645
+msgid "Village"
+msgstr "قرية"
+
+#: admin/theme-functions.php:5647
+msgid "Town"
+msgstr "المدينة"
+
+#: admin/theme-functions.php:5664
+msgid "Parish"
+msgstr "الرعية"
+
+#: admin/theme-functions.php:5666
+msgid "Region"
+msgstr "المنطقة"
+
+#: admin/theme-functions.php:5668
+msgid "Province"
+msgstr "محافظة"
+
+#: admin/theme-functions.php:5714
+msgid "School District"
+msgstr "مدرسة حي"
+
+#: admin/theme-functions.php:5716
+msgid "Building"
+msgstr "بناء"
+
+#: admin/theme-functions.php:5718
+msgid "Borough"
+msgstr "بورو"
+
+#: admin/theme-functions.php:5720
+msgid "Sector"
+msgstr "القطاع"
+
+#: admin/theme-functions.php:5891
+msgid "All Property Types"
+msgstr "جميع أنواع العقارات"
+
+#: admin/theme-functions.php:5893
+msgid "All Countries"
+msgstr "جميع البلدان"
+
+#: admin/theme-functions.php:5895
+msgid "All Counties"
+msgstr "جميع المقاطعات"
+
+#: admin/theme-functions.php:5929
+msgid "All Statuses"
+msgstr "جميع الحالات"
+
+#: admin/theme-functions.php:5931
+msgid "All Additional Features"
+msgstr "جميع ميزات إضافية"
+
+#: admin/theme-functions.php:5933
+msgid "All Neighborhoods"
+msgstr "كل الأحياء"
+
+#: admin/theme-functions.php:5935
+msgid "All Districts"
+msgstr "جميع المناطق"
+
+#: admin/theme-functions.php:5937
+msgid "All School Districts"
+msgstr "جميع المناطق التعليمية"
+
+#: admin/theme-functions.php:5941
+msgid "All Buildings"
+msgstr "جميع المباني"
+
+#: admin/theme-functions.php:5943
+msgid "All Sectors"
+msgstr "جميع القطاعات"
+
+#: admin/theme-functions.php:5945
+msgid "All Communities"
+msgstr "كل المجتمعات"
+
+#: admin/theme-functions.php:5953
+msgid "Pet Friendly?"
+msgstr "الحيوانات الأليفة ودية ؟ "
+
+#: admin/theme-functions.php:5955
+msgid "Furnished/Unfurnished?"
+msgstr "مفروشة/فارغة?"
+
+#: admin/theme-functions.php:6172 includes/single-listing-yelp.php:165
+msgid "You need to setup the Yelp Fusion API."
+msgstr "تحتاج إلى إعداد الصرخة الانصهار API."
+
+#: admin/theme-functions.php:6173 includes/single-listing-yelp.php:166
+msgid "Go into Admin > Real Estate 7 Options > What's Nearby? > Create App"
+msgstr "انتقل إلى المسؤول > العقارات 7 خيارات > ما\\'s قريب ؟ > إنشاء التطبيق"
+
+#: admin/theme-functions.php:6175
+msgid "You've reached the daily Yelp Fusion API limit."
+msgstr "كنت've تم التوصل إليها اليومية الصرخة الانصهار حد API."
+
+#: admin/theme-functions.php:6176
+msgid "Please visit https://www.yelp.com/developers/v3/manage_app"
+msgstr ""
+
+#: admin/theme-functions.php:6178
+msgid "General 502 Error from Yelp Fusion API"
+msgstr "العامة 502 خطأ من الصرخة الانصهار API"
+
+#: admin/theme-functions.php:6179 admin/theme-functions.php:6182
+msgid "Please check your server error logs."
+msgstr "يرجى التحقق من الخادم الخاص بك سجلات الخطأ."
+
+#: admin/theme-functions.php:6181
+msgid "General 500 Error from Yelp Fusion API"
+msgstr "العامة 500 خطأ من الصرخة الانصهار API"
+
+#: admin/theme-functions.php:6184
+msgid "General Error from Yelp Fusion API"
+msgstr "خطأ عام من الصرخة الانصهار API"
+
+#: admin/theme-functions.php:6267
+msgid " km"
+msgstr " كم"
+
+#: admin/theme-functions.php:6269
+msgid " mi"
+msgstr " مي"
+
+#: admin/theme-functions.php:6284
+msgid "reviews"
+msgstr "استعراض"
+
+#: admin/theme-functions.php:6357
+msgid "Unfortunately, your API key is over its quota."
+msgstr "للأسف مفتاح API الخاص بك هو أكثر من حصتها."
+
+#: admin/theme-functions.php:6363
+msgid "Unfortunately, there's no results nearby for this listing."
+msgstr "للأسف, هناك'ق أي نتائج قريب لهذه القائمة."
+
+#: admin/theme-functions.php:6369
+msgid ""
+"Unfortunately, your request was denied, generally because of lack of an "
+"invalid key parameter."
+msgstr "للأسف طلبك ونفى عموما بسبب نقص غير صالح مفتاح المعلمة."
+
+#: admin/theme-functions.php:6375
+msgid ""
+"Unfortunately, your request was invalid, generally due to wrong address "
+"information or lat/long coordinates."
+msgstr ""
+"للأسف طلبك غير صحيح ، عموما بسبب خطأ معالجة المعلومات أو خطوط الطول/العرض "
+"الإحداثيات."
+
+#: admin/theme-functions.php:6381
+msgid ""
+"A server-side error happened trying again may be successful, please "
+"shift+refresh the page."
+msgstr ""
+"من جانب الملقم خطأ حدث في محاولة مرة أخرى قد تكون ناجحة ، يرجى التحول إلى "
+"تحديث الصفحة."
+
+#: admin/theme-functions.php:6598
+#, php-format
+msgid "Search Results for: %s"
+msgstr "نتائج البحث عن: %s"
+
+#. translators: Author archive title. 1: Author name
+#: admin/theme-functions.php:6604
+#, php-format
+msgid "Author: %s"
+msgstr "الكاتب: %s"
+
+#. translators: Daily archive title. 1: Date
+#: admin/theme-functions.php:6607
+#, php-format
+msgid "Day: %s"
+msgstr "اليوم: %s"
+
+#. translators: Monthly archive title. 1: Month name and year
+#: admin/theme-functions.php:6610
+#, php-format
+msgid "Month: %s"
+msgstr "الشهر: %s"
+
+#: admin/theme-functions.php:6610
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#. translators: Yearly archive title. 1: Year
+#: admin/theme-functions.php:6613
+#, php-format
+msgid "Year: %s"
+msgstr "السنة: %s"
+
+#: admin/theme-functions.php:6613
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: admin/theme-functions.php:6616
+msgid "Archives"
+msgstr "الأرشيف"
+
+#: admin/theme-functions.php:6691
+msgid "Share This"
+msgstr "حصة هذا"
+
+#: admin/theme-functions.php:6694 admin/theme-functions.php:6695
+#: admin/theme-functions.php:6696 includes/post-social.php:16
+#: includes/post-social.php:17 includes/post-social.php:18
+msgid "Check out this great article on"
+msgstr "تحقق من هذه المادة كبيرة على"
+
+#: admin/theme-functions.php:6735
+msgid "About The Author"
+msgstr "نبذة عن الكاتب"
+
+#: admin/theme-functions.php:6792
+msgid "Related Posts"
+msgstr "الوظائف ذات الصلة"
+
+#: admin/theme-functions.php:6842
+msgid "<span class=\"meta-nav\">&larr;</span> Older"
+msgstr ""
+
+#: admin/theme-functions.php:6843
+msgid "Newer <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: admin/theme-functions.php:7415
+msgid ""
+"<span class=\"meta-nav\"><i class=\"fa fa-chevron-left\"></i></span> Older "
+"listings"
+msgstr ""
+
+#: admin/theme-functions.php:7416
+msgid ""
+"Newer listings <span class=\"meta-nav\"><i class=\"fa fa-chevron-right\"></i>"
+"</span>"
+msgstr ""
+
+#: admin/theme-functions.php:7438 admin/theme-functions.php:7439
+msgid "%link"
+msgstr "%رابط"
+
+#. translators: localized time format, see https://secure.php.net/date
+#: admin/theme-functions.php:7759
+msgid "g:i a"
+msgstr "g:i a"
+
+#: admin/theme-functions.php:7762
+#, php-format
+msgid "Minute %1$s"
+msgstr "سيرا على %1$s"
+
+#: admin/theme-functions.php:7762
+msgid "i"
+msgstr "أنا"
+
+#: admin/theme-functions.php:7765
+msgid "g a"
+msgstr "ز"
+
+#: admin/theme-functions.php:7776 admin/theme-functions.php:7782
+#: admin/theme-functions.php:7782 admin/theme-functions.php:7787
+#: admin/theme-functions.php:7787 admin/theme-functions.php:7792
+msgid "Y"
+msgstr "Y"
+
+#: admin/theme-functions.php:7777 admin/theme-functions.php:7788
+msgid "F"
+msgstr "F"
+
+#: admin/theme-functions.php:7778
+msgid "j"
+msgstr "ي"
+
+#: admin/theme-functions.php:7783
+#, php-format
+msgid "Week %1$s"
+msgstr "الاسبوع %1$s"
+
+#: admin/theme-functions.php:7783
+msgid "W"
+msgstr "W"
+
+#: admin/theme-functions.php:7799
+#, php-format
+msgid "Search results for &quot;%1$s&quot;"
+msgstr "نتائج البحث عن "
+
+#: admin/theme-functions.php:7803
+msgid "404 Not Found"
+msgstr "404 لم يتم العثور على"
+
+#: includes/advanced-search.php:189 includes/header-advanced-search.php:209
+#: includes/header-advanced-search.php:532
+#: includes/widgets/ct-widget-listingssearch.php:200
+msgid "From"
+msgstr "من"
+
+#: includes/advanced-search.php:198 includes/header-advanced-search.php:218
+#: includes/header-advanced-search.php:541
+#: includes/widgets/ct-widget-listingssearch.php:209
+msgid "To"
+msgstr "إلى"
+
+#: includes/advanced-search.php:226 includes/advanced-search.php:227
+#: includes/header-advanced-search.php:283
+#: includes/header-advanced-search.php:284
+#: includes/header-advanced-search.php:605
+#: includes/header-advanced-search.php:606
+#: includes/widgets/ct-widget-listingssearch.php:237
+#: includes/widgets/ct-widget-listingssearch.php:238
+msgid "MLS ID"
+msgstr "MLS ID"
+
+#: includes/advanced-search.php:248 includes/header-advanced-search.php:309
+#: includes/header-advanced-search.php:627
+#: includes/header-advanced-search.php:628
+msgid "Keyword"
+msgstr "الكلمات الرئيسية"
+
+#: includes/advanced-search.php:249 includes/header-advanced-search.php:310
+msgid "Street, City, State, Zip or keyword"
+msgstr "الشارع, المدينة, الدولة, الرمز البريدي أو الكلمات الرئيسية"
+
+#: includes/advanced-search.php:265
+#: includes/widgets/ct-widget-listingssearch.php:275
+msgid "More Search Options"
+msgstr "المزيد من خيارات البحث"
+
+#: includes/agent-contact-modal.php:21 includes/single-listing-home.php:269
+#: includes/widgets/ct-widget-listingscontact.php:30
+msgid "Tell me more about this property"
+msgstr "قل لي المزيد عن هذا العقار"
+
+#: includes/featured-listings.php:31 includes/featured-listings.php:33
+msgid "View All"
+msgstr "عرض جميع"
+
+#: includes/header-advanced-search.php:192
+#: includes/header-advanced-search.php:515
+msgid "Price range:"
+msgstr "النطاق السعري:"
+
+#: includes/header-advanced-search.php:194
+#: includes/header-advanced-search.php:230
+#: includes/header-advanced-search.php:267
+#: includes/header-advanced-search.php:517
+#: includes/header-advanced-search.php:553
+#: includes/header-advanced-search.php:589
+#: includes/widgets/ct-widget-listingbooktour.php:198
+msgid "to"
+msgstr "إلى"
+
+#: includes/header-advanced-search.php:228
+#: includes/header-advanced-search.php:551
+msgid "Size range:"
+msgstr "حجم مجموعة:"
+
+#: includes/header-advanced-search.php:265
+#: includes/header-advanced-search.php:587
+msgid "Lot size range:"
+msgstr "حجم مجموعة:"
+
+#: includes/header-advanced-search.php:312
+#: includes/home-hero-advanced-search.php:22
+msgid "Searching..."
+msgstr "البحث عن..."
+
+#: includes/header-advanced-search.php:352
+msgid "Enter a street address or keyword"
+msgstr "أدخل عنوان الشارع أو الكلمات الرئيسية"
+
+#: includes/header-advanced-search.php:468
+msgid "Addtional Features"
+msgstr "ميزات إضافية"
+
+#: includes/home-hero-advanced-search.php:21
+msgid "Enter Street, City, State, Zip or keyword"
+msgstr "أدخل الشارع, المدينة, الدولة, الرمز البريدي أو الكلمات الرئيسية"
+
+#: includes/home-listings-count.php:32
+msgid "Homes For Sale"
+msgstr "منازل للبيع"
+
+#: includes/home-listings-count.php:84
+msgid "Recently Sold"
+msgstr "تباع في الآونة الأخيرة"
+
+#: includes/home-listings-count.php:110
+msgid "Reduced"
+msgstr "تخفيض"
+
+#: includes/home-listings-count.php:136
+msgid "For Rent"
+msgstr "للإيجار"
+
+#: includes/home-listings-count.php:162
+msgid "Leased"
+msgstr "المؤجرة"
+
+#: includes/home-listings-count.php:214
+msgid "New Additions"
+msgstr "الإضافات الجديدة"
+
+#: includes/home-listings-count.php:240
+msgid "Special Offers"
+msgstr "عروض خاصة"
+
+#: includes/single-listing-attachments.php:20
+#: includes/single-listing-sub-navigation.php:106
+msgid "Attachments"
+msgstr "المرفقات"
+
+#: includes/single-listing-booking-calendar.php:17
+#: includes/single-listing-home.php:155
+msgid "Book this listing"
+msgstr "كتاب هذه القائمة"
+
+#: includes/single-listing-contact.php:106
+msgid "Agent #"
+msgstr ""
+
+#: includes/single-listing-contact.php:203 includes/single-listing-home.php:265
+msgid "Request More Information"
+msgstr "لطلب المزيد من المعلومات"
+
+#: includes/single-listing-contact.php:216
+#: includes/single-listing-lead-media-with-contact.php:140
+msgid "Tell me more about this listing"
+msgstr "أخبرني المزيد عن هذه القائمة"
+
+#: includes/single-listing-contact.php:257 includes/single-listing-home.php:296
+msgid "Co-listing Agent"
+msgstr "شارك الوكيل"
+
+#: includes/single-listing-ct-idx-pro-info.php:60
+msgid "Overview"
+msgstr "نظرة عامة"
+
+#: includes/single-listing-ct-idx-pro-info.php:77
+msgid "Sold Date"
+msgstr "تباع الآن"
+
+#: includes/single-listing-ct-idx-pro-info.php:99
+msgid "Style"
+msgstr "نمط"
+
+#: includes/single-listing-ct-idx-pro-info.php:110
+msgid "Year Built"
+msgstr "سنة البناء"
+
+#: includes/single-listing-ct-idx-pro-info.php:121
+msgid "Fencing"
+msgstr "المبارزة"
+
+#: includes/single-listing-ct-idx-pro-info.php:132
+msgid "Topography"
+msgstr "تضاريس"
+
+#: includes/single-listing-ct-idx-pro-info.php:143
+msgid "Exterior"
+msgstr "الخارجي"
+
+#: includes/single-listing-ct-idx-pro-info.php:154
+msgid "Parking/Garage"
+msgstr "موقف سيارات/جراج"
+
+#: includes/single-listing-ct-idx-pro-info.php:165
+msgid "Parking/Garage Spaces"
+msgstr "موقف سيارات/جراج المساحات"
+
+#: includes/single-listing-ct-idx-pro-info.php:176
+msgid "Heating"
+msgstr "التدفئة"
+
+#: includes/single-listing-ct-idx-pro-info.php:187
+msgid "Heat Source"
+msgstr "مصدر الحرارة"
+
+#: includes/single-listing-ct-idx-pro-info.php:198
+msgid "Cooling"
+msgstr "التبريد"
+
+#: includes/single-listing-ct-idx-pro-info.php:209
+msgid "Water"
+msgstr "الماء"
+
+#: includes/single-listing-ct-idx-pro-info.php:220
+msgid "Sewer/Septic"
+msgstr "الصرف الصحي/الصرف الصحي"
+
+#: includes/single-listing-ct-idx-pro-info.php:235
+#: includes/single-listing-sub-navigation.php:87
+msgid "Features"
+msgstr "الميزات"
+
+#: includes/single-listing-ct-idx-pro-info.php:241
+msgid "Equipment"
+msgstr "معدات"
+
+#: includes/single-listing-ct-idx-pro-info.php:252
+msgid "Fireplace"
+msgstr "الموقد"
+
+#: includes/single-listing-ct-idx-pro-info.php:263
+msgid "Number of Fireplaces"
+msgstr "عدد من المواقد"
+
+#: includes/single-listing-ct-idx-pro-info.php:274
+msgid "Pool"
+msgstr "بركة"
+
+#: includes/single-listing-ct-idx-pro-info.php:296
+msgid "Security"
+msgstr "الأمن"
+
+#: includes/single-listing-ct-idx-pro-info.php:307
+msgid "Floor Coverings"
+msgstr "فرش"
+
+#: includes/single-listing-ct-idx-pro-info.php:321
+#: includes/single-listing-ct-idx-pro-info.php:327
+msgid "HOA"
+msgstr "هوا"
+
+#: includes/single-listing-ct-idx-pro-info.php:338
+msgid "HOA Fee Due"
+msgstr "هوا الرسوم المستحقة"
+
+#: includes/single-listing-ct-idx-pro-info.php:349
+msgid "HOA Includes"
+msgstr "هوا يشمل"
+
+#: includes/single-listing-energy-efficiency.php:21
+msgid "Energy Efficiency"
+msgstr "كفاءة الطاقة"
+
+#: includes/single-listing-energy-efficiency.php:26
+msgid "Energy Class"
+msgstr "فئة الطاقة"
+
+#: includes/single-listing-energy-efficiency.php:29
+msgid "Global Energy Performance"
+msgstr "الطاقة العالمية الأداء"
+
+#: includes/single-listing-energy-efficiency.php:32
+msgid "Renewable Energy Performance"
+msgstr "الطاقة المتجددة الأداء"
+
+#: includes/single-listing-energy-efficiency.php:35
+msgid "Building Energy Performance"
+msgstr "بناء أداء الطاقة"
+
+#: includes/single-listing-google-places.php:23
+#: includes/single-listing-yelp.php:23
+#: admin/ReduxFramework/theme-options/re7-config.php:3719
+msgid "What's Nearby?"
+msgstr "ما\\'s قريب ؟ "
+
+#: includes/single-listing-google-places.php:66
+#: includes/single-listing-yelp.php:41
+msgid "Restaurants"
+msgstr "المطاعم"
+
+#: includes/single-listing-google-places.php:75
+#: includes/single-listing-yelp.php:49
+msgid "Coffee Shops"
+msgstr "المقاهي"
+
+#: includes/single-listing-google-places.php:84
+#: includes/single-listing-yelp.php:121
+msgid "Stores"
+msgstr "متجر"
+
+#: includes/single-listing-google-places.php:93
+#: includes/single-listing-yelp.php:65
+msgid "Education"
+msgstr "التعليم"
+
+#: includes/single-listing-google-places.php:102
+msgid "Banks"
+msgstr "البنوك"
+
+#: includes/single-listing-google-places.php:111
+#: includes/single-listing-yelp.php:81
+msgid "Bars"
+msgstr "القضبان"
+
+#: includes/single-listing-google-places.php:120
+#: includes/single-listing-yelp.php:89
+msgid "Hospitals"
+msgstr "المستشفيات"
+
+#: includes/single-listing-google-places.php:129
+#: includes/single-listing-yelp.php:97
+msgid "Gas Stations"
+msgstr "محطات الغاز"
+
+#: includes/single-listing-google-places.php:138
+#: includes/single-listing-yelp.php:105
+msgid "Transit Stations"
+msgstr "محطات النقل"
+
+#: includes/single-listing-google-places.php:147
+#: includes/single-listing-yelp.php:113
+msgid "Convenience Stores"
+msgstr "المتاجر"
+
+#: includes/single-listing-google-places.php:156
+#: includes/single-listing-yelp.php:129
+msgid "Shopping Malls"
+msgstr "مراكز التسوق"
+
+#: includes/single-listing-google-places.php:165
+#: includes/single-listing-yelp.php:137
+msgid "Veterinary Care"
+msgstr "الرعاية البيطرية"
+
+#: includes/single-listing-google-places.php:174
+#: includes/single-listing-yelp.php:145
+msgid "Pet Store"
+msgstr "متجر الحيوانات الأليفة"
+
+#: includes/single-listing-google-places.php:183
+#: includes/single-listing-yelp.php:153
+msgid "Park"
+msgstr "بارك"
+
+#: includes/single-listing-google-places.php:196
+msgid "Google Places/What's Nearby? Error."
+msgstr "أماكن Google/ما\\'s قريب ؟ خطأ."
+
+#: includes/single-listing-google-places.php:197
+msgid ""
+"You need to create an API key go into Admin > Real Estate 7 Options > Google "
+"Maps > API Key, then setup the options via Real Estate 7 Options > \"What's "
+"Nearby?\" panel."
+msgstr ""
+"تحتاج إلى إنشاء مفتاح API انتقل إلى المسؤول > العقارات 7 خيارات > خرائط جوجل "
+"> API الرئيسية ، ثم إعداد الخيارات عن طريق العقارات 7 خيارات > \"ما\\'s قريب "
+"؟\" الفريق."
+
+#: includes/single-listing-header.php:33 includes/single-listing-header.php:76
+#: includes/single-listing-home.php:74
+msgid "Co-listing"
+msgstr "شارك في القائمة"
+
+#: includes/single-listing-home.php:135
+#: includes/single-listing-rental-info.php:47
+msgid "Prices"
+msgstr "الأسعار"
+
+#: includes/single-listing-home.php:365
+msgid "Share This Listing"
+msgstr "حصة هذه القائمة"
+
+#: includes/single-listing-lead-media-with-contact.php:166
+msgid "Request Information"
+msgstr "طلب معلومات"
+
+#: includes/single-listing-map.php:27
+msgid "Enter your starting address"
+msgstr "أدخل عنوان البداية"
+
+#: includes/single-listing-map.php:43
+msgid "get directions"
+msgstr "الحصول على الاتجاهات"
+
+#: includes/single-listing-multi-floorplan.php:21
+msgid "Floor Plans & Pricing"
+msgstr "خطط الكلمة "
+
+#: includes/single-listing-multi-floorplan.php:40
+msgid "Size"
+msgstr "حجم"
+
+#: includes/single-listing-multi-floorplan.php:46
+msgid "Availability"
+msgstr "توافر"
+
+#: includes/single-listing-open-house.php:35
+msgid "Time"
+msgstr "الوقت"
+
+#: includes/single-listing-open-house.php:38
+#: includes/single-listing-open-house.php:80
+msgid "RSVP"
+msgstr "RSVP"
+
+#: includes/single-listing-propinfo.php:18
+msgid "MLS #"
+msgstr ""
+
+#: includes/single-listing-propinfo.php:20
+msgid "Property ID #"
+msgstr ""
+
+#: includes/single-listing-rental-info.php:25
+msgid "Rental Information"
+msgstr "تأجير المعلومات"
+
+#: includes/single-listing-sub-listings.php:21
+msgid "Other Listings in Neighborhood"
+msgstr "القوائم الأخرى في الحي"
+
+#: includes/single-listing-sub-listings.php:23
+msgid "Other Listings in Suburb"
+msgstr "قوائم أخرى في ضاحية"
+
+#: includes/single-listing-sub-listings.php:25
+msgid "Other Listings in District"
+msgstr "القوائم الأخرى في المنطقة"
+
+#: includes/single-listing-sub-listings.php:27
+msgid "Other Listings in School District"
+msgstr "القوائم الأخرى في مدرسة حي"
+
+#: includes/single-listing-sub-listings.php:29
+msgid "Other Listings in Building"
+msgstr "القوائم الأخرى في بناء"
+
+#: includes/single-listing-sub-listings.php:31
+msgid "Other Listings in Borough"
+msgstr "القوائم الأخرى في البلدة"
+
+#: includes/single-listing-sub-listings.php:33
+msgid "Other Listings in Community"
+msgstr "القوائم الأخرى في المجتمع"
+
+#: includes/single-listing-sub-navigation.php:34
+msgid "Description"
+msgstr "الوصف"
+
+#: includes/single-listing-sub-navigation.php:61
+msgid "Floor Plans"
+msgstr "خطط الكلمة"
+
+#: includes/single-listing-sub-navigation.php:96
+msgid "Booking"
+msgstr "الحجز"
+
+#: includes/single-listing-sub-navigation.php:117
+#: includes/single-listing-video.php:16
+msgid "Video"
+msgstr "فيديو"
+
+#: includes/single-listing-sub-navigation.php:127
+msgid "Tour"
+msgstr "جولة"
+
+#: includes/single-listing-sub-navigation.php:142
+msgid "Nearby"
+msgstr "قريب"
+
+#: includes/single-listing-sub-navigation.php:163
+msgid "Listing Features"
+msgstr "قائمة الميزات"
+
+#: includes/single-listing-virtual-tour.php:19
+msgid "Virtual Tour"
+msgstr "جولة افتراضية"
+
+#: includes/single-listing-yelp.php:22
+msgid "powered by "
+msgstr "مدعوم من "
+
+#: includes/single-listing-yelp.php:57
+msgid "Grocery"
+msgstr "البقالة"
+
+#: includes/single-listing-yelp.php:73
+msgid "Bank"
+msgstr "البنك"
+
+#: layouts/blog-grid.php:96 layouts/blog-large.php:96
+msgid "Read More"
+msgstr "قراءة المزيد"
+
+#: layouts/grid.php:22 layouts/list.php:23
+msgid "This agent currently has no active listings."
+msgstr "هذا عميل لديها حاليا أي قوائم نشط."
+
+#: layouts/grid.php:24 layouts/list.php:25
+msgid "This brokerage currently has no active listings."
+msgstr "هذه الوساطة لديها حاليا أي قوائم نشط."
+
+#: layouts/grid.php:26 layouts/list.php:27
+msgid "No properties were found which match your search criteria"
+msgstr "لا خصائص تم العثور على أي تطابق معايير البحث"
+
+#: layouts/saved-search-list.php:57 includes/widgets/ct-widget-tabs.php:214
+msgid "on"
+msgstr "على"
+
+#: layouts/saved-search-list.php:57
+msgid "On"
+msgstr "على"
+
+#: layouts/saved-search-list.php:58
+msgid "off"
+msgstr "قبالة"
+
+#: layouts/saved-search-list.php:58
+msgid "Off"
+msgstr "قبالة"
+
+#: admin/ct-social/ct-social.php:28
+msgid "CT Social"
+msgstr "CT الاجتماعية"
+
+#: admin/ct-social/ct-social.php:125
+#: includes/widgets/ct-widget-agentinfo.php:106
+#: includes/widgets/ct-widget-agentsotherlistings.php:287
+#: includes/widgets/ct-widget-blogauthor.php:60
+#: includes/widgets/ct-widget-brokerinfo.php:78
+#: includes/widgets/ct-widget-contactinfo.php:140
+#: includes/widgets/ct-widget-latestposts.php:70
+#: includes/widgets/ct-widget-listings.php:130
+#: includes/widgets/ct-widget-listingscontact.php:68
+#: includes/widgets/ct-widget-listingssearch.php:299
+#: includes/widgets/ct-widget-search.php:40
+#: includes/widgets/ct-widget-testimonials.php:62
+msgid "Title:"
+msgstr "العنوان:"
+
+#: admin/ct-social/ct-social.php:129
+msgid "Dribbble:"
+msgstr "Dribbble:"
+
+#: admin/ct-social/ct-social.php:133
+#: includes/widgets/ct-widget-contactinfo.php:176
+msgid "Email:"
+msgstr "البريد الإلكتروني:"
+
+#: admin/ct-social/ct-social.php:137
+#: includes/widgets/ct-widget-contactinfo.php:180
+msgid "Facebook:"
+msgstr "Facebook:"
+
+#: admin/ct-social/ct-social.php:141
+msgid "Flickr:"
+msgstr "فليكر:"
+
+#: admin/ct-social/ct-social.php:145
+msgid "Foursquare:"
+msgstr "شخصيات قصص الابطال الخارقين:"
+
+#: admin/ct-social/ct-social.php:149
+msgid "GitHub:"
+msgstr "جيثب:"
+
+#: admin/ct-social/ct-social.php:153
+#: includes/widgets/ct-widget-contactinfo.php:196
+msgid "Instagram:"
+msgstr "Instagram:"
+
+#: admin/ct-social/ct-social.php:157
+#: includes/widgets/ct-widget-contactinfo.php:188
+msgid "LinkedIn:"
+msgstr "LinkedIn:"
+
+#: admin/ct-social/ct-social.php:161
+msgid "Medium:"
+msgstr "المتوسطة:"
+
+#: admin/ct-social/ct-social.php:165
+#: includes/widgets/ct-widget-contactinfo.php:192
+msgid "Pinterest:"
+msgstr "بينتيريست:"
+
+#: admin/ct-social/ct-social.php:169
+msgid "Skype:"
+msgstr "سكايب:"
+
+#: admin/ct-social/ct-social.php:173
+#: includes/widgets/ct-widget-contactinfo.php:184
+msgid "Twitter:"
+msgstr "تويتر:"
+
+#: admin/ct-social/ct-social.php:177
+msgid "YouTube:"
+msgstr "يوتيوب:"
+
+#: admin/ct-social/ct-social.php:181
+msgid "Links:"
+msgstr "الروابط:"
+
+#: admin/getting-started/getting-started.php:91
+#, php-format
+msgid "Getting started with %1$s v%2$s"
+msgstr "الشروع في العمل مع %1$s v%2$s"
+
+#: admin/getting-started/getting-started.php:93
+#, php-format
+msgid ""
+"Thanks for purchasing %1$s! I truly appreciate the support and the "
+"opportunity to share my work with you. Please visit the tabs below to get "
+"started setting up your theme!"
+msgstr ""
+"شكرا على شراء %1$s! أنا حقا نقدر الدعم الفرصة للمشاركة في العمل معك. يرجى "
+"زيارة علامات التبويب أدناه للبدء في إعداد الموضوع الخاص بك!"
+
+#: admin/getting-started/getting-started.php:99
+msgid "Start Here"
+msgstr "تبدأ هنا"
+
+#: admin/getting-started/getting-started.php:100
+msgid "Plugins"
+msgstr "إضافات"
+
+#: admin/getting-started/getting-started.php:101
+msgid "FAQ &amp; Support"
+msgstr "أسئلة وأجوبة "
+
+#: admin/getting-started/getting-started.php:102
+msgid "Latest Updates"
+msgstr "آخر التحديثات"
+
+#: admin/getting-started/getting-started.php:110
+#, php-format
+msgid "Installing %s"
+msgstr "تثبيت %s"
+
+#: admin/getting-started/getting-started.php:116
+#: admin/ReduxFramework/theme-options/re7-config.php:5260
+msgid "Documentation"
+msgstr "وثائق المساعدة"
+
+#: admin/getting-started/getting-started.php:170
+msgid "Required & Recommended Plugins"
+msgstr "مطلوب "
+
+#: admin/getting-started/getting-started.php:172
+msgid ""
+"Below is a list of required and recommended plugins to install that will "
+"help you get the most out of WP Pro Real Estate 7. To begin please use the "
+"button below or browse through the list to learn about each one in a little "
+"more detail."
+msgstr ""
+"وفيما يلي قائمة من المطلوب و الإضافات الموصى بها لتثبيت التي سوف تساعدك على "
+"الحصول على أقصى استفادة من WP برو عقارات 7. أن تبدأ الرجاء استخدام الزر "
+"أدناه أو من خلال تصفح قائمة لمعرفة المزيد عن كل واحد في أكثر من ذلك بقليل من "
+"التفصيل."
+
+#: admin/getting-started/getting-started.php:178
+#: admin/getting-started/getting-started.php:190
+#: admin/plugins/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr "مطلوب"
+
+#: admin/getting-started/getting-started.php:178 admin/plugins/register.php:66
+msgid "Redux Framework"
+msgstr "الإطار يبعث من جديد"
+
+#: admin/getting-started/getting-started.php:180
+msgid "Install Redux Framework"
+msgstr "تثبيت الإطار يبعث من جديد"
+
+#: admin/getting-started/getting-started.php:180
+#: admin/getting-started/getting-started.php:192
+#: admin/getting-started/getting-started.php:204
+#: admin/getting-started/getting-started.php:216
+#: admin/getting-started/getting-started.php:228
+#: admin/getting-started/getting-started.php:240
+#: admin/getting-started/getting-started.php:252
+#: admin/getting-started/getting-started.php:264
+#: admin/getting-started/getting-started.php:276
+#: admin/getting-started/getting-started.php:288
+#: admin/getting-started/getting-started.php:300
+#: admin/getting-started/getting-started.php:315
+#: admin/getting-started/getting-started.php:327
+#: admin/getting-started/getting-started.php:339
+#: admin/getting-started/getting-started.php:351
+#: admin/getting-started/getting-started.php:363
+#: admin/getting-started/getting-started.php:375
+#: admin/getting-started/getting-started.php:387
+msgid "Install Now"
+msgstr "التنصيب الآن"
+
+#: admin/getting-started/getting-started.php:182
+#: admin/getting-started/getting-started.php:194
+#: admin/getting-started/getting-started.php:206
+#: admin/getting-started/getting-started.php:218
+#: admin/getting-started/getting-started.php:230
+#: admin/getting-started/getting-started.php:242
+#: admin/getting-started/getting-started.php:254
+#: admin/getting-started/getting-started.php:266
+#: admin/getting-started/getting-started.php:278
+#: admin/getting-started/getting-started.php:290
+#: admin/getting-started/getting-started.php:302
+#: admin/getting-started/getting-started.php:317
+#: admin/getting-started/getting-started.php:329
+#: admin/getting-started/getting-started.php:341
+#: admin/getting-started/getting-started.php:353
+#: admin/getting-started/getting-started.php:365
+#: admin/getting-started/getting-started.php:377
+#: admin/getting-started/getting-started.php:389
+msgid "Installed"
+msgstr "تثبيت"
+
+#: admin/getting-started/getting-started.php:186
+msgid "This plugin is used for the admin options framework."
+msgstr "هذا هو البرنامج المساعد المشرف إطار الخيارات."
+
+#: admin/getting-started/getting-started.php:190 admin/plugins/register.php:72
+msgid "Contempo Real Estate Custom Posts"
+msgstr "Contempo العقارات المخصصة المشاركات"
+
+#: admin/getting-started/getting-started.php:192
+msgid "Install Contempo Real Estate Custom Posts"
+msgstr "تثبيت Contempo العقارات المخصصة المشاركات"
+
+#: admin/getting-started/getting-started.php:198
+msgid ""
+"This plugin registers the listings, brokerages & testimonials custom post "
+"types, along with related custom fields & taxonomies, as well as all the "
+"custom Visual Composer modules (if you have the Visual Composer plugin "
+"installed & activated)."
+msgstr "هذا البرنامج المساعد يسجل قوائم شركات السمسرة "
+
+#: admin/getting-started/getting-started.php:202
+#: admin/getting-started/getting-started.php:214
+#: admin/getting-started/getting-started.php:226
+#: admin/getting-started/getting-started.php:238
+#: admin/getting-started/getting-started.php:250
+#: admin/getting-started/getting-started.php:262
+#: admin/getting-started/getting-started.php:274
+#: admin/getting-started/getting-started.php:286
+#: admin/getting-started/getting-started.php:298
+#: admin/getting-started/getting-started.php:313
+#: admin/getting-started/getting-started.php:325
+#: admin/getting-started/getting-started.php:337
+#: admin/getting-started/getting-started.php:349
+#: admin/getting-started/getting-started.php:361
+#: admin/getting-started/getting-started.php:373
+#: admin/getting-started/getting-started.php:385
+#: admin/plugins/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr "أوصت"
+
+#: admin/getting-started/getting-started.php:202 admin/plugins/register.php:132
+msgid "Contempo Membership & Packages"
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Contempo العضوية "
+msgstr[1] "هذا الموضوع يتطلب الإضافات التالية: %1$s."
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: admin/getting-started/getting-started.php:204
+msgid "Install Contempo Membership & Packages"
+msgstr "تثبيت Contempo العضوية "
+
+#: admin/getting-started/getting-started.php:210
+msgid ""
+"This plugin adds the ability to create membership & packages for use with "
+"the front end submission system in WP Pro Real Estate 7, with Stripe, PayPal "
+"& Wire Transfer payment methods."
+msgstr "هذا البرنامج المساعد يضيف القدرة على إنشاء عضوية "
+
+#: admin/getting-started/getting-started.php:214 admin/plugins/register.php:176
+msgid "Contempo Saved Searches & Email Alerts"
+msgstr "Contempo عمليات البحث المحفوظة "
+
+#: admin/getting-started/getting-started.php:216
+msgid "Install Contempo Saved Searches & Email Alerts"
+msgstr "تثبيت Contempo عمليات البحث المحفوظة "
+
+#: admin/getting-started/getting-started.php:222
+msgid "This plugin allows users be alerted via email when a listing is added."
+msgstr ""
+"هذا البرنامج المساعد يسمح للمستخدمين يتم تنبيهك عن طريق البريد الإلكتروني "
+"عندما قائمة إضافة."
+
+#: admin/getting-started/getting-started.php:226 admin/plugins/register.php:165
+msgid "Contempo Compare Listings"
+msgstr "Contempo مقارنة القوائم"
+
+#: admin/getting-started/getting-started.php:228
+#: admin/getting-started/getting-started.php:252
+msgid "Install Contempo Compare Listings"
+msgstr "تثبيت Contempo مقارنة القوائم"
+
+#: admin/getting-started/getting-started.php:234
+msgid "This plugin adds compare functionality for listings."
+msgstr "هذا البرنامج المساعد يضيف مقارنة وظائف القوائم."
+
+#: admin/getting-started/getting-started.php:238 admin/plugins/register.php:154
+msgid "Contempo Mortgage Calculator Widget"
+msgstr "Contempo آلة حاسبة الرهن العقاري القطعة"
+
+#: admin/getting-started/getting-started.php:240
+msgid "Install Contempo Mortgage Calculator Widget"
+msgstr "تثبيت Contempo آلة حاسبة الرهن العقاري القطعة"
+
+#: admin/getting-started/getting-started.php:246
+msgid "This plugin enables a simple mortgage calculator widget."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "تمكن هذا البرنامج المساعد بسيطة آلة حاسبة الرهن العقاري القطعة."
+msgstr[1] "هذا الموضوع توصي الإضافات التالية: %1$s."
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: admin/getting-started/getting-started.php:250 admin/plugins/register.php:187
+msgid "Contempo Child Theme Generator"
+msgstr "Contempo موضوع الطفل مولد"
+
+#: admin/getting-started/getting-started.php:258
+msgid ""
+"This plugin allows admin users to easily generate a child theme from your "
+"Admin > Appearance panel."
+msgstr ""
+"هذا البرنامج المساعد يسمح المشرف للمستخدمين بسهولة إنشاء موضوع الطفل من "
+"الادارة > مظهر الفريق."
+
+#: admin/getting-started/getting-started.php:262
+msgid "Contempo Payment Gateways"
+msgstr "Contempo بوابات الدفع"
+
+#: admin/getting-started/getting-started.php:264
+msgid "Install Contempo Payment Gateways"
+msgstr "تثبيت Contempo بوابات الدفع"
+
+#: admin/getting-started/getting-started.php:270
+msgid ""
+"This plugin enables the PayPal API and only required if you're going to be "
+"charging single listing payments from the front end of the site, if you're "
+"using the Membership & Packages plugin leave this plugin deactivated."
+msgstr ""
+"هذا البرنامج المساعد يسمح باي بال API مطلوب فقط إذا كنت'إعادة ذاهب إلى شحن "
+"قائمة واحدة المدفوعات من الواجهة الأمامية للموقع ، إذا كنت'إعادة استخدام "
+"العضوية "
+
+#: admin/getting-started/getting-started.php:274 admin/plugins/register.php:198
+msgid "Slider Revolution"
+msgstr "المنزلق الثورة"
+
+#: admin/getting-started/getting-started.php:276
+msgid "Install Slider Revolution"
+msgstr "تثبيت المنزلق الثورة"
+
+#: admin/getting-started/getting-started.php:282
+msgid ""
+"Slider Revolution is an innovative, responsive WordPress Slider Plugin that "
+"displays your content the beautiful way."
+msgstr ""
+"الثورة المنزلق هو مبتكر ، المستجيبة وورد البرنامج المساعد المتزلج الذي يعرض "
+"المحتوى الخاص بك بطريقة جميلة."
+
+#: admin/getting-started/getting-started.php:286
+msgid "Visual Composer"
+msgstr "الملحن البصرية"
+
+#: admin/getting-started/getting-started.php:288
+msgid "Install Visual Composer"
+msgstr "تثبيت Visual الملحن"
+
+#: admin/getting-started/getting-started.php:294
+msgid ""
+"WordPress Page Builder plugin with intuitive drag and drop interface. Build "
+"any page fast and easy. Unlimited layouts for your website."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+"وورد البرنامج المساعد باني الصفحة مع بديهية واجهة السحب والإفلات. بناء أي "
+"صفحة سريع و سهل. تخطيطات غير محدود على موقع الويب الخاص بك."
+msgstr[1] ""
+"الإضافات التالية تحتاج إلى تحديث إلى أحدث إصدار لضمان أقصى قدر من التوافق مع "
+"هذا الموضوع: %1$s."
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: admin/getting-started/getting-started.php:298
+msgid "WPML"
+msgstr "WPML"
+
+#: admin/getting-started/getting-started.php:300
+msgid "Install WPML"
+msgstr "تثبيت WPML"
+
+#: admin/getting-started/getting-started.php:308
+#, php-format
+msgid ""
+"<a href=\"%s\" target=\"_blank\">WPML</a> allows running fully multilingual "
+"websites with WordPress, making it easy to translate WordPress pages, posts, "
+"tags, categories and themes."
+msgstr ""
+
+#: admin/getting-started/getting-started.php:313
+#: admin/getting-started/getting-started.php:337 admin/plugins/register.php:86
+msgid "WordPress Social Login"
+msgstr "وورد تسجيل الدخول الاجتماعي"
+
+#: admin/getting-started/getting-started.php:315
+#: admin/getting-started/getting-started.php:327
+msgid "Install WP Favorite Posts"
+msgstr "تثبيت الفسفور الابيض المفضلة المشاركات"
+
+#: admin/getting-started/getting-started.php:321
+msgid ""
+"This plugin allows users to login/register with their social profiles like "
+"Facebook, Google, Twitter, etc&hellip;"
+msgstr ""
+"هذا البرنامج المساعد يسمح للمستخدمين تسجيل الدخول/تسجيل مع التشكيلات "
+"الاجتماعية مثل Facebook, Google, تويتر, الخ"
+
+#: admin/getting-started/getting-started.php:325 admin/plugins/register.php:121
+#: admin/ReduxFramework/theme-options/re7-config.php:4827
+msgid "WP Favorite Posts"
+msgstr "WP المفضلة المشاركات"
+
+#: admin/getting-started/getting-started.php:333
+msgid ""
+"This plugin allows users to favorite & save listings from the front end of "
+"the site."
+msgstr "هذا البرنامج المساعد يسمح للمستخدمين المفضلة "
+
+#: admin/getting-started/getting-started.php:339
+msgid "Install WordPress Social Login"
+msgstr "تثبيت وورد تسجيل الدخول الاجتماعي"
+
+#: admin/getting-started/getting-started.php:345
+msgid ""
+"This plugin allows users to login/register for your site via social networks "
+"like Facebook, Google, Twitter, etc&hellip;"
+msgstr ""
+"هذا البرنامج المساعد يسمح للمستخدمين تسجيل الدخول/التسجيل في الموقع الخاص بك "
+"عبر الشبكات الاجتماعية مثل Facebook, Google, تويتر, الخ"
+
+#: admin/getting-started/getting-started.php:349 admin/plugins/register.php:92
+msgid "Booking Calendar"
+msgstr "حجز التقويم"
+
+#: admin/getting-started/getting-started.php:351
+msgid "Install Booking Calendar"
+msgstr "تثبيت الحجز التقويم"
+
+#: admin/getting-started/getting-started.php:357
+msgid ""
+"This plugin will enable online booking services, however you're free to use "
+"whatever booking plugin you'd like as long as it supports shortcodes."
+msgstr ""
+"هذا البرنامج المساعد تمكين خدمات الحجز عبر الإنترنت, ومع ذلك أنت حر في "
+"استخدام أي حجز المساعد كنت'د مثل طالما أنه يدعم الهاتفية القصيرة."
+
+#: admin/getting-started/getting-started.php:361 admin/plugins/register.php:98
+msgid "Co-Authors Plus"
+msgstr "شارك في الكتاب بالإضافة إلى"
+
+#: admin/getting-started/getting-started.php:363
+msgid "Install Co-Authors Plus"
+msgstr "تثبيت مؤلفين زائد"
+
+#: admin/getting-started/getting-started.php:369
+msgid ""
+"This plugin allows you to assign multiple users or agents to listings, "
+"perfect for co-listings."
+msgstr ""
+"هذا البرنامج المساعد يسمح لك لتعيين متعددة المستخدمين أو وكلاء العقارات, "
+"مثالية شارك في القوائم."
+
+#: admin/getting-started/getting-started.php:373 admin/plugins/register.php:104
+msgid "Comments Ratings"
+msgstr "تعليقات التقييم"
+
+#: admin/getting-started/getting-started.php:375
+msgid "Install Comments Ratings"
+msgstr "تثبيت تعليقات التقييم"
+
+#: admin/getting-started/getting-started.php:381
+msgid "This plugin allows you to enable ratings for your listings."
+msgstr "هذا البرنامج المساعد يسمح لك لتمكين تصنيفات القوائم الخاصة بك."
+
+#: admin/getting-started/getting-started.php:385 admin/plugins/register.php:220
+msgid "Envato Market"
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Envato السوق"
+msgstr[1] "التالية الإضافات المطلوبة حاليا غير نشط: %1$s."
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: admin/getting-started/getting-started.php:387
+msgid "Install Envato Market"
+msgstr "تثبيت Envato السوق"
+
+#: admin/getting-started/getting-started.php:393
+msgid ""
+"This plugin allows you to easily get theme updates through your WordPress "
+"admin."
+msgstr ""
+"هذا البرنامج المساعد يسمح لك بسهولة الحصول على تحديثات الموضوع عن طريق "
+"المشرف وورد الخاص بك."
+
+#: admin/getting-started/getting-started.php:402
+#, php-format
+msgid "Support for %s?"
+msgstr "ودعم %s ؟ "
+
+#: admin/getting-started/getting-started.php:408
+#, php-format
+msgid ""
+"If you've read through the <a href=\"%1$s\" target=\"_blank\">"
+"documentation</a> and still have questions or are experiencing issues, I'm "
+"happy to help! Simply <a href=\"%2$s\"  target=\"_blank\" title=\"Open a "
+"live chat\">open a live chat</a> or <a href=\"%3$s\" target=\"_blank\">leave "
+"a comment</a> on the item page and I'll personally get back to you, thanks "
+"in advance for your patience."
+msgstr ""
+
+#: admin/getting-started/getting-started.php:411
+#, php-format
+msgid "FAQ for %s?"
+msgstr "أسئلة وأجوبة عن %s ؟ "
+
+#: admin/getting-started/getting-started.php:414
+msgid ""
+"The following articles below cover many frequently asked questions that you "
+"may have."
+msgstr "المواد التالية تحت غطاء العديد من الأسئلة التي قد تكون لديكم."
+
+#: admin/getting-started/getting-started.php:460
+msgid "Need Modifications or Customizations?"
+msgstr "تحتاج تعديلات أو التخصيصات ؟ "
+
+#: admin/getting-started/getting-started.php:465
+#, php-format
+msgid ""
+"Send me an email <a href=\"mailto:%s\">chris@contempothemes.com</a>, with a "
+"detailed outline of what you’d like to accomplish and I’ll get you a quote "
+"and turnaround time."
+msgstr ""
+
+#: admin/getting-started/getting-started.php:474
+#, php-format
+msgid ""
+"Please note that support requests will not be answered via email, only "
+"through my <a href=\"%1$s\" target=\"_blank\">live chat</a> or within the <a "
+"href=\"%2$s\" target=\"_blank\">item comments</a>."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] "التالية الإضافات الموصى بها حاليا غير نشط: %1$s."
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: admin/getting-started/getting-started.php:484
+msgid "Hosting Recommendations"
+msgstr "استضافة التوصيات"
+
+#: admin/getting-started/getting-started.php:498
+#: admin/getting-started/getting-started.php:501
+msgid "Visit the Knowledge Base"
+msgstr "زيارة قاعدة المعارف"
+
+#: admin/getting-started/getting-started.php:499
+msgid ""
+"New to the WordPress world? The Knowledge Base has a boat load of articles "
+"to help you with any issues that might arise."
+msgstr ""
+"جديدة إلى وورد ؟ قاعدة المعرفة لديه حمولة قارب من المواد لمساعدتك مع أي "
+"مشاكل قد تنشأ."
+
+#: admin/getting-started/getting-started.php:501
+msgid "Visit the knowledge base"
+msgstr "زيارة قاعدة المعارف"
+
+#: admin/google-places/GooglePlaces.php:149
+#: admin/google-places/GooglePlaces.php:165
+#: admin/google-places/GooglePlaces.php:182
+msgid "Google Places API is currently unavailable."
+msgstr "أماكن Google API غير متوفر حاليا."
+
+#: admin/google-places/GooglePlaces.php:151
+msgid ""
+"You must specify a valid listing location, use street address in the listing "
+"title along with city, state & zip/postcode — if not use the optional "
+"latitude & longitude field."
+msgstr ""
+"يجب تحديد قائمة صالحة الموقع, استخدام عنوان الشارع في سرد العنوان جنبا إلى "
+"جنب مع المدينة الدولة ، "
+
+#: admin/google-places/GooglePlaces.php:167
+#: admin/google-places/GooglePlaces.php:207
+msgid ""
+"You much specify at least one of the following: \"keyword\", \"name\", "
+"\"types\"."
+msgstr ""
+"لك الكثير من تحديد واحد على الأقل مما يلي: \"الكلمة\", \"name\", \"أنواع\"."
+
+#: admin/google-places/GooglePlaces.php:184
+#: admin/google-places/GooglePlaces.php:201
+msgid "You must specify a radius."
+msgstr "يجب تحديد دائرة نصف قطرها."
+
+#: admin/google-places/GooglePlaces.php:197
+msgid "You must specify a location before calling radarsearch()."
+msgstr "يجب تحديد الموقع قبل الاتصال radarsearch()."
+
+#: admin/google-places/GooglePlaces.php:221
+msgid ""
+"You must specify either a \"placeid\" or a \"reference\" (but not both) "
+"before calling details()."
+msgstr ""
+"يجب تحديد إما \"placeid\" أو \"الإشارة\" (ولكن ليس كل) قبل استدعاء تفاصيل()."
+
+#: admin/plugins/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr "تثبيت الإضافات المطلوبة"
+
+#: admin/plugins/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr "تثبيت الإضافات"
+
+#. %s: plugin name.
+#: admin/plugins/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "تثبيت البرنامج المساعد: %s"
+
+#. %s: plugin name.
+#: admin/plugins/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr "تحديث البرنامج المساعد: %s"
+
+#: admin/plugins/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr "شيء ذهب على نحو خاطئ مع البرنامج المساعد API."
+
+#: admin/plugins/class-tgm-plugin-activation.php:341
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgstr "هذا الموضوع يتطلب الإضافات التالية: %1$s."
+
+#: admin/plugins/class-tgm-plugin-activation.php:347
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgstr "هذا الموضوع يوصي بما يلي المساعد: %1$s."
+
+#: admin/plugins/class-tgm-plugin-activation.php:353
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr ""
+"التالية المساعد يحتاج إلى تحديث إلى الإصدار الأحدث لضمان أقصى قدر من التوافق "
+"مع هذا الموضوع: %1$s."
+
+#: admin/plugins/class-tgm-plugin-activation.php:359
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "هناك تحديث متوفر ل: %1$s."
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:365
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgstr "المطلوبة التالية المساعد غير نشط حاليا: %1$s."
+
+#: admin/plugins/class-tgm-plugin-activation.php:371
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgstr "التالية الموصى بها البرنامج المساعد غير نشط حاليا: %1$s."
+
+#: admin/plugins/class-tgm-plugin-activation.php:377
+msgid "Begin installing plugin"
+msgstr "يمكنك البدء في تثبيت البرنامج المساعد"
+
+#: admin/plugins/class-tgm-plugin-activation.php:382
+msgid "Begin updating plugin"
+msgstr "بدء تحديث البرنامج المساعد"
+
+#: admin/plugins/class-tgm-plugin-activation.php:387
+msgid "Begin activating plugin"
+msgstr "يمكنك البدء في تفعيل البرنامج المساعد"
+
+#: admin/plugins/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr "العودة إلى الإضافات المطلوبة المثبت"
+
+#: admin/plugins/class-tgm-plugin-activation.php:393
+#: admin/plugins/class-tgm-plugin-activation.php:912
+#: admin/plugins/class-tgm-plugin-activation.php:2618
+#: admin/plugins/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr "العودة إلى لوحة التحكم"
+
+#: admin/plugins/class-tgm-plugin-activation.php:394
+#: admin/plugins/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr "المساعد تفعيلها بنجاح."
+
+#: admin/plugins/class-tgm-plugin-activation.php:395
+#: admin/plugins/class-tgm-plugin-activation.php:3037
+msgid "The following plugin was activated successfully:"
+msgstr "التالية المساعد تم تفعيلها بنجاح:"
+
+#. 1: plugin name.
+#: admin/plugins/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "أي إجراء. المساعد %1$s كانت نشطة بالفعل."
+
+#. 1: plugin name.
+#: admin/plugins/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+"لم يتم تنشيط البرنامج المساعد. إصدار أعلى من %s هو مطلوب لهذا الموضوع. يرجى "
+"تحديث البرنامج المساعد."
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#. 1: dashboard link.
+#: admin/plugins/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "جميع الإضافات المثبتة و تفعيلها بنجاح. %1$s"
+
+#: admin/plugins/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+"هناك واحد أو أكثر من المطلوب أو الإضافات الموصى بها إلى تثبيت أو تحديث أو "
+"تنشيط."
+
+#: admin/plugins/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr "يرجى الاتصال بمسؤول الموقع لمساعدتك."
+
+#: admin/plugins/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+"هذا البرنامج المساعد يحتاج إلى تحديث لتكون متوافقة مع الموضوع الخاص بك."
+
+#: admin/plugins/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr "التحديث المطلوب"
+
+#: admin/plugins/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+"جهاز التحكم عن بعد المساعد الحزمة لا تحتوي على المجلد المطلوب سبيكة تسمية لم "
+"تنجح."
+
+#: admin/plugins/class-tgm-plugin-activation.php:1019
+#: admin/plugins/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+"يرجى الاتصال المساعد مزود ونطلب منهم أن حزمة البرنامج المساعد وفقا وورد "
+"المبادئ التوجيهية."
+
+#: admin/plugins/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+"جهاز التحكم عن بعد المساعد حزمة تتكون من أكثر من ملف واحد ، ولكن الملفات لا "
+"يتم تعبئتها في مجلد."
+
+#: admin/plugins/class-tgm-plugin-activation.php:1206
+#: admin/plugins/class-tgm-plugin-activation.php:3033
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "و"
+
+#. %s: version number
+#: admin/plugins/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr "مستودع وورد"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr "مصدر خارجي"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr "قبل تعبئتها"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr "لا تثبيت"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr "تثبيت ولكن لم يتم تنشيط"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr "نشط"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr "التحديث المطلوب غير متوفر"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr "يتطلب التحديث"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr "التحديث الموصى بها"
+
+#. 1: install status, 2: update status
+#: admin/plugins/class-tgm-plugin-activation.php:2427
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#. 1: number of plugins.
+#: admin/plugins/class-tgm-plugin-activation.php:2473
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#. 1: number of plugins.
+#: admin/plugins/class-tgm-plugin-activation.php:2477
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#. 1: number of plugins.
+#: admin/plugins/class-tgm-plugin-activation.php:2481
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#. 1: number of plugins.
+#: admin/plugins/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2567
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "غير معروف"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr "تثبيت الإصدار:"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr "الحد الأدنى المطلوب الإصدار:"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr "يتوفر الإصدار:"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr "لا الإضافات إلى تثبيت أو تحديث أو تنشيط."
+
+#: admin/plugins/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr "البرنامج المساعد"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr "المصدر"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr "الإصدار"
+
+#. %2$s: plugin name in screen reader markup
+#: admin/plugins/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr "تثبيت %2$s"
+
+#. %2$s: plugin name in screen reader markup
+#: admin/plugins/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr "التحديث %2$s"
+
+#. %2$s: plugin name in screen reader markup
+#: admin/plugins/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr "تفعيل %2$s"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr "ترقية رسالة من المساعد المؤلف:"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr "تثبيت"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr "تفعيل"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "لا الإضافات تم اختيارها ليتم تثبيتها. أي إجراء."
+
+#: admin/plugins/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "لا الإضافات تم تحديثها. أي إجراء."
+
+#: admin/plugins/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr "لا الإضافات متوفرة ليتم تثبيتها في هذا الوقت."
+
+#: admin/plugins/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr "لا الإضافات المتوفرة إلى تحديث في هذا الوقت."
+
+#: admin/plugins/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "لا الإضافات تم تفعيلها. أي إجراء."
+
+#: admin/plugins/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr "لا الإضافات متوفرة ليتم تفعيلها في هذا الوقت."
+
+#: admin/plugins/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr "تفعيل البرنامج المساعد فشلت."
+
+#. 1: plugin name, 2: action number 3: total number of actions.
+#: admin/plugins/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "تحديث البرنامج المساعد %1$s (%2$d/%3$d)"
+
+#. 1: plugin name, 2: error message.
+#: admin/plugins/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. 1: plugin name.
+#: admin/plugins/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "التثبيت من %1$s فشلت."
+
+#: admin/plugins/class-tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"تركيب وتفعيل عملية الانطلاق. قد تستغرق هذه العملية بعض الوقت على بعض "
+"المضيفين ، لذا يرجى التحلي بالصبر."
+
+#. 1: plugin name.
+#: admin/plugins/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s تثبيت و تفعيل بنجاح."
+
+#: admin/plugins/class-tgm-plugin-activation.php:3594
+#: admin/plugins/class-tgm-plugin-activation.php:3602
+msgid "Show Details"
+msgstr "عرض التفاصيل"
+
+#: admin/plugins/class-tgm-plugin-activation.php:3594
+#: admin/plugins/class-tgm-plugin-activation.php:3602
+msgid "Hide Details"
+msgstr "إخفاء التفاصيل"
+
+#: admin/plugins/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr "جميع المنشآت والتنشيط قد اكتملت."
+
+#. 1: plugin name, 2: action number 3: total number of actions.
+#: admin/plugins/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "تثبيت وتفعيل البرنامج المساعد %1$s (%2$d/%3$d)"
+
+#: admin/plugins/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"عملية التثبيت هو بداية. قد تستغرق هذه العملية بعض الوقت على بعض المضيفين ، "
+"لذا يرجى التحلي بالصبر."
+
+#. 1: plugin name.
+#: admin/plugins/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s تثبيت بنجاح."
+
+#: admin/plugins/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr "جميع المنشآت قد اكتملت."
+
+#. 1: plugin name, 2: action number 3: total number of actions.
+#: admin/plugins/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "تثبيت البرنامج المساعد %1$s (%2$d/%3$d)"
+
+#: admin/plugins/register.php:80
+msgid "Elementor Page Builder"
+msgstr "Elementor باني الصفحة"
+
+#: admin/plugins/register.php:110
+msgid "Contempo Listing Analytics"
+msgstr "Contempo قائمة Analytics"
+
+#: admin/plugins/register.php:143
+msgid "Contempo Real Estate 7 Payment Gateways"
+msgstr "Contempo العقارات 7 بوابات الدفع"
+
+#: admin/plugins/register.php:209
+msgid "WPBakery Page Builder"
+msgstr "WPBakery باني الصفحة"
+
+#: includes/widgets/ct-widget-adspace.php:13
+msgid "CT Adspace Widget"
+msgstr "CT Adspace القطعة"
+
+#: includes/widgets/ct-widget-adspace.php:61
+#: includes/widgets/ct-widget-listingscrolltocontact.php:62
+#: includes/widgets/ct-widget-listingssocial.php:48
+msgid "Title (optional):"
+msgstr "العنوان (اختياري):"
+
+#: includes/widgets/ct-widget-adspace.php:65
+msgid "Ad Code:"
+msgstr "رمز الإعلان:"
+
+#: includes/widgets/ct-widget-adspace.php:70
+msgid "Image Url:"
+msgstr "رابط الصورة:"
+
+#: includes/widgets/ct-widget-adspace.php:74
+msgid "Link URL:"
+msgstr "URL رابط:"
+
+#: includes/widgets/ct-widget-adspace.php:78
+msgid "Alt text:"
+msgstr "النص البديل:"
+
+#: includes/widgets/ct-widget-agentinfo.php:13
+msgid "CT Agent Info"
+msgstr "CT معلومات الوكيل"
+
+#: includes/widgets/ct-widget-agentinfo.php:69
+msgid "Mobile"
+msgstr "المحمول"
+
+#: includes/widgets/ct-widget-agentinfo.php:72
+msgid "Office"
+msgstr "مكتب"
+
+#: includes/widgets/ct-widget-agentinfo.php:75
+msgid "Fax"
+msgstr "الفاكس"
+
+#: includes/widgets/ct-widget-agentsotherlistings.php:13
+msgid "CT Agents Other Listings"
+msgstr "CT وكلاء القوائم الأخرى"
+
+#: includes/widgets/ct-widget-agentsotherlistings.php:291
+#: includes/widgets/ct-widget-flickr.php:55
+#: includes/widgets/ct-widget-latestposts.php:74
+#: includes/widgets/ct-widget-listings.php:134
+#: includes/widgets/ct-widget-testimonials.php:66
+msgid "Number:"
+msgstr "عدد:"
+
+#: includes/widgets/ct-widget-agentsotherlistings.php:299
+#: includes/widgets/ct-widget-listings.php:142
+msgid "Taxonomy:"
+msgstr "الفئة:"
+
+#: includes/widgets/ct-widget-agentsotherlistings.php:308
+#: includes/widgets/ct-widget-listings.php:151
+msgid "Tag:"
+msgstr "العلامة:"
+
+#: includes/widgets/ct-widget-blogauthor.php:13
+msgid "CT Blog Author Info"
+msgstr "CT بلوق معلومات الكاتب"
+
+#: includes/widgets/ct-widget-blogauthor.php:64
+msgid "Bio:"
+msgstr "Bio:"
+
+#: includes/widgets/ct-widget-blogauthor.php:68
+msgid "<a href=\"http://www.gravatar.com/\">Gravatar</a> E-mail:"
+msgstr ""
+
+#: includes/widgets/ct-widget-blogauthor.php:72
+msgid "Gravatar Size:"
+msgstr "غرفتر الحجم:"
+
+#: includes/widgets/ct-widget-blogauthor.php:76
+msgid "Gravatar Alignment:"
+msgstr "غرفتر المحاذاة:"
+
+#: includes/widgets/ct-widget-blogauthor.php:78
+msgid "Left"
+msgstr "يسار"
+
+#: includes/widgets/ct-widget-blogauthor.php:79
+msgid "Right"
+msgstr "يمين"
+
+#: includes/widgets/ct-widget-blogauthor.php:83
+msgid "Read More Text (optional):"
+msgstr "قراءة أكثر من نص (اختياري):"
+
+#: includes/widgets/ct-widget-blogauthor.php:87
+msgid "Read More URL (optional):"
+msgstr "قراءة المزيد URL (اختياري):"
+
+#: includes/widgets/ct-widget-blogauthor.php:91
+msgid "Visible Pages:"
+msgstr "مرئية الصفحات:"
+
+#: includes/widgets/ct-widget-blogauthor.php:93
+msgid "All"
+msgstr "كل"
+
+#: includes/widgets/ct-widget-blogauthor.php:94
+msgid "Home only"
+msgstr "المنزل فقط"
+
+#: includes/widgets/ct-widget-blogauthor.php:95
+msgid "Single only"
+msgstr "واحد فقط"
+
+#: includes/widgets/ct-widget-brokerinfo.php:13
+msgid "CT Brokers Info"
+msgstr "CT وسطاء المعلومات"
+
+#: includes/widgets/ct-widget-brokerinfo.php:54
+msgid "Email Office"
+msgstr "البريد"
+
+#: includes/widgets/ct-widget-brokerinfo.php:55
+msgid "Visit Brokers Website"
+msgstr "زيارة موقع السماسرة"
+
+#: includes/widgets/ct-widget-brokerinfo.php:82
+msgid "Logo URL:"
+msgstr "شعار URL:"
+
+#: includes/widgets/ct-widget-brokerinfo.php:86
+msgid "Company:"
+msgstr "الشركة:"
+
+#: includes/widgets/ct-widget-brokerinfo.php:90
+msgid "Office Phone:"
+msgstr "هاتف المكتب:"
+
+#: includes/widgets/ct-widget-brokerinfo.php:94
+msgid "Office Email:"
+msgstr "مكتب البريد الالكتروني:"
+
+#: includes/widgets/ct-widget-brokerinfo.php:98
+msgid "Website:"
+msgstr "الموقع:"
+
+#: includes/widgets/ct-widget-contactinfo.php:13
+msgid "CT Contact Info"
+msgstr "CT معلومات الاتصال"
+
+#: includes/widgets/ct-widget-contactinfo.php:133
+msgid "Show Logo:"
+msgstr "عرض شعار:"
+
+#: includes/widgets/ct-widget-contactinfo.php:144
+msgid "Blurb:"
+msgstr "دعاية مغالى فيها:"
+
+#: includes/widgets/ct-widget-contactinfo.php:148
+msgid "Company Name:"
+msgstr "اسم الشركة:"
+
+#: includes/widgets/ct-widget-contactinfo.php:152
+msgid "Street Address:"
+msgstr "عنوان الشارع:"
+
+#: includes/widgets/ct-widget-contactinfo.php:156
+msgid "City:"
+msgstr "المدينة:"
+
+#: includes/widgets/ct-widget-contactinfo.php:160
+msgid "State:"
+msgstr "الدولة:"
+
+#: includes/widgets/ct-widget-contactinfo.php:164
+msgid "Postal:"
+msgstr "البريدية:"
+
+#: includes/widgets/ct-widget-contactinfo.php:168
+msgid "Country:"
+msgstr "البلد:"
+
+#: includes/widgets/ct-widget-contactinfo.php:172
+msgid "Phone:"
+msgstr "الهاتف:"
+
+#: includes/widgets/ct-widget-flickr.php:13
+msgid "CT Flickr"
+msgstr "CT فليكر"
+
+#: includes/widgets/ct-widget-flickr.php:26
+msgid "Photos on flickr"
+msgstr "الصور على فليكر"
+
+#: includes/widgets/ct-widget-flickr.php:51
+msgid "Flickr ID (<a href=\"http://www.idgettr.com\">idGettr</a>):"
+msgstr ""
+
+#: includes/widgets/ct-widget-flickr.php:65
+msgid "User"
+msgstr "مستخدم"
+
+#: includes/widgets/ct-widget-flickr.php:66
+msgid "Group"
+msgstr "المجموعة"
+
+#: includes/widgets/ct-widget-flickr.php:70
+msgid "Sorting:"
+msgstr "الفرز:"
+
+#: includes/widgets/ct-widget-flickr.php:72
+#: includes/widgets/ct-widget-tabs.php:110
+#: includes/widgets/ct-widget-tabs.php:117
+msgid "Latest"
+msgstr "أحدث"
+
+#: includes/widgets/ct-widget-flickr.php:73
+msgid "Random"
+msgstr "عشوائية"
+
+#: includes/widgets/ct-widget-flickr.php:77
+msgid "Size:"
+msgstr "الحجم:"
+
+#: includes/widgets/ct-widget-flickr.php:79
+msgid "Square"
+msgstr "مربع"
+
+#: includes/widgets/ct-widget-flickr.php:80
+msgid "Medium"
+msgstr "متوسط"
+
+#: includes/widgets/ct-widget-flickr.php:81
+msgid "Thumbnail"
+msgstr "صورة مصغرة"
+
+#: includes/widgets/ct-widget-latestposts.php:13
+msgid "CT Latest Posts"
+msgstr "CT المشاركات"
+
+#: includes/widgets/ct-widget-listingbooktour.php:13
+msgid "CT Listing Book Showing"
+msgstr "CT قائمة عرض الكتاب"
+
+#: includes/widgets/ct-widget-listingbooktour.php:154
+msgid ""
+"Thanks for booking a showing, we'll get back to confirm with you shortly."
+msgstr ""
+"شكرا على الحجز عرض, ونحن'ليرة لبنانية الحصول على العودة إلى تأكيد معكم قريبا."
+
+#: includes/widgets/ct-widget-listingbooktour.php:161
+msgid "Request a Showing"
+msgstr "طلب عرض"
+
+#: includes/widgets/ct-widget-listingbooktour.php:171
+msgid "Select Your Time and Day"
+msgstr "حدد الوقت واليوم"
+
+#: includes/widgets/ct-widget-listingbooktour.php:234
+msgid "Showing Request for "
+msgstr "عرض طلب "
+
+#: includes/widgets/ct-widget-listingbooktour.php:240
+#: includes/widgets/ct-widget-listingbooktour.php:242
+msgid "Schedule Tour"
+msgstr "جدول سياحي"
+
+#: includes/widgets/ct-widget-listingbooktour.php:259
+msgid "No options required for this widget."
+msgstr "لا الخيارات المطلوبة لهذه القطعة."
+
+#: includes/widgets/ct-widget-listings.php:13
+msgid "CT Listings"
+msgstr "CT القوائم"
+
+#: includes/widgets/ct-widget-listings.php:155
+msgid "View All Link Text"
+msgstr "عرض كل وصلة النص"
+
+#: includes/widgets/ct-widget-listings.php:159
+msgid "View All Link URL"
+msgstr "عرض كل رابط URL"
+
+#: includes/widgets/ct-widget-listingscontact.php:13
+msgid "CT Listing Agent Contact"
+msgstr "CT الوكيل الاتصال"
+
+#: includes/widgets/ct-widget-listingscontact.php:72
+msgid "Subject:"
+msgstr "الموضوع:"
+
+#: includes/widgets/ct-widget-listingscrolltocontact.php:13
+msgid "CT Listing Contact ScrollTo"
+msgstr "CT قائمة الاتصال ScrollTo"
+
+#: includes/widgets/ct-widget-listingscrolltocontact.php:66
+msgid "Button One Text:"
+msgstr "زر نص واحد:"
+
+#: includes/widgets/ct-widget-listingscrolltocontact.php:70
+msgid "Button Two Text:"
+msgstr "زر اثنين من النص:"
+
+#: includes/widgets/ct-widget-listingssearch.php:13
+msgid "CT Listings Search"
+msgstr "CT قوائم البحث"
+
+#: includes/widgets/ct-widget-listingssocial.php:13
+msgid "CT Listings Social"
+msgstr "CT القوائم الاجتماعية"
+
+#: includes/widgets/ct-widget-search.php:13
+msgid "CT Search"
+msgstr "CT البحث"
+
+#: includes/widgets/ct-widget-tabs.php:13
+msgid "CT Tabs"
+msgstr "CT علامات التبويب"
+
+#: includes/widgets/ct-widget-tabs.php:103
+msgid "Number of posts:"
+msgstr "عدد المشاركات:"
+
+#: includes/widgets/ct-widget-tabs.php:108
+msgid "First Visible Tab:"
+msgstr "الظاهرة الأولى التبويب:"
+
+#: includes/widgets/ct-widget-tabs.php:111
+#: includes/widgets/ct-widget-tabs.php:120
+msgid "Comments"
+msgstr "تعليقات"
+
+#: includes/widgets/ct-widget-tabs.php:112
+#: includes/widgets/ct-widget-tabs.php:123
+msgid "Tags"
+msgstr "وسوم"
+
+#: includes/widgets/ct-widget-testimonials.php:13
+msgid "CT Testimonials"
+msgstr "CT الشهادات"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:245
+#: admin/ReduxFramework/theme-options/re7-config.php:246
+msgid "Real Estate 7 Options"
+msgstr "العقارات 7 خيارات"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:923
+msgid "Theme Information 1"
+msgstr "موضوع المعلومات 1"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:924
+#: admin/ReduxFramework/theme-options/re7-config.php:929
+msgid "<p>This is the tab content, HTML is allowed.</p>"
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:928
+msgid "Theme Information 2"
+msgstr "موضوع المعلومات 2"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:935
+msgid "<p>This is the sidebar content, HTML is allowed.</p>"
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:941
+msgid "General Settings"
+msgstr "الإعدادات العامة"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1010
+#: admin/ReduxFramework/theme-options/re7-config.php:2168
+msgid "Header"
+msgstr "ترويسة"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1078
+msgid "Custom Logo"
+msgstr "شعار مخصص"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1129
+msgid "Top Bar"
+msgstr "الشريط العلوي"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1150
+msgid "Contact Phone"
+msgstr "الاتصال الهاتف"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1170
+#: admin/ReduxFramework/theme-options/re7-config.php:1318
+#: admin/ReduxFramework/theme-options/re7-config.php:1349
+#: admin/ReduxFramework/theme-options/re7-config.php:1380
+msgid "Icon"
+msgstr "رمز"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1171
+#: admin/ReduxFramework/theme-options/re7-config.php:1319
+#: admin/ReduxFramework/theme-options/re7-config.php:1350
+#: admin/ReduxFramework/theme-options/re7-config.php:1381
+msgid "Select an icon."
+msgstr "حدد أيقونة."
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1188
+msgid "Currency Switcher"
+msgstr "العملة الجلاد"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1196
+msgid "Social Links"
+msgstr "الروابط الاجتماعية"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1287
+msgid "Header Info Columns"
+msgstr "رأس معلومات الأعمدة"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1295
+msgid "Column One"
+msgstr "عمود واحد"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1326
+msgid "Column Two"
+msgstr "العمود الثاني"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1357
+msgid "Column Three"
+msgstr "العمود الثالث"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1389
+msgid "Homepage"
+msgstr "الصفحة الرئيسية"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1399
+msgid "Layout Manager"
+msgstr "مدير تخطيط"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1440
+msgid "Revolution Slider"
+msgstr "الثورة المتزلج"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1457
+#: admin/ReduxFramework/theme-options/re7-config.php:1864
+msgid "FlexSlider"
+msgstr "FlexSlider"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1483
+msgid "Listing Carousel"
+msgstr "سرد دائري"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1522
+msgid "Hero w/Search"
+msgstr "بطل w/البحث"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1569
+msgid "Top Padding"
+msgstr "أعلى الحشو"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1570
+msgid "Set the top padding in percentage."
+msgstr "تعيين أعلى الحشو في النسبة المئوية."
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1580
+msgid "Bottom Padding"
+msgstr "أسفل الحشو"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1581
+msgid "Set the bottom padding in percentage."
+msgstr "تعيين أسفل الحشو في النسبة المئوية."
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1592
+msgid "Call To Action"
+msgstr "دعوة إلى العمل"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1623
+msgid "Listings Count"
+msgstr "قوائم العد"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1727
+msgid "Add/Edit Testimonials"
+msgstr "إضافة/تحرير الشهادات"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1728
+msgid "Add your testimonials to be displayed on the homepage."
+msgstr "إضافة الشهادات الخاصة بك ليتم عرضها على الصفحة الرئيسية."
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1730
+msgid "Company or Person"
+msgstr "شركة أو شخص"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1731
+msgid "Testimonial Here"
+msgstr "التزكية هنا"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1732
+#: admin/ReduxFramework/theme-options/re7-config.php:1762
+msgid "Link"
+msgstr "رابط"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1740
+msgid "Partners"
+msgstr "الشركاء"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1757
+msgid "Add/Edit Partner Logos"
+msgstr "إضافة/تحرير شريك الشعارات"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1758
+msgid "Add your partner logos to be displayed on the homepage."
+msgstr "إضافة شريك حياتك الشعارات التي سيتم عرضها على الصفحة الرئيسية."
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1760
+msgid "Partner Title"
+msgstr "شريك العنوان"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1761
+msgid "Description Here (not used)"
+msgstr "الوصف هنا (لم يستخدم)"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1783
+msgid "Elementor"
+msgstr "Elementor"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1804
+msgid "Page Builder"
+msgstr "باني الصفحة"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1848
+msgid "Four Column Widget Area"
+msgstr "أربعة عمود منطقة القطعة"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1942
+msgid "Create a Skin"
+msgstr "إنشاء الجلد"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1965
+#: admin/ReduxFramework/theme-options/re7-config.php:2179
+#: admin/ReduxFramework/theme-options/re7-config.php:2272
+#: admin/ReduxFramework/theme-options/re7-config.php:2355
+#: admin/ReduxFramework/theme-options/re7-config.php:2444
+#: admin/ReduxFramework/theme-options/re7-config.php:2484
+msgid "NOTE!"
+msgstr "ملاحظة!"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1966
+msgid "If this isn't set to Yes NONE of the Styles will be Applied."
+msgstr ""
+"إذا كان هذا يسن'ر تعيين إلى\" نعم \" أيا من الأساليب التي سيتم تطبيقها."
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1973
+msgid "Typography"
+msgstr "الطباعة"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1993
+msgid "Body"
+msgstr "الجسم"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2012
+msgid "Headings"
+msgstr "العناوين"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2031
+msgid "H1"
+msgstr "H1"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2051
+msgid "H2"
+msgstr "H2"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2071
+msgid "H3"
+msgstr "H3"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2091
+msgid "H4"
+msgstr "H4"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2111
+msgid "H5"
+msgstr "H5"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2131
+msgid "H6"
+msgstr "H6"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2152
+msgid "Body Background"
+msgstr "الخلفية الجسم"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2433
+msgid "Links"
+msgstr "روابط"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:3681
+msgid ""
+"Walk Score is the only international measure of walkability and the leading "
+"provider of neighborhood maps to the real estate industry. More than 30,000 "
+"websites use the Walk Score Neighborhood Map and we serve over 20 million "
+"scores each day. <a href=\"https://www.walkscore.com/professional/api-sign-"
+"up.php\" target=\"_blank\">Get your API Key</a>!."
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:5144
+msgid "Custom CSS"
+msgstr "تنسيقات (CSS) مُخصصة"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:5394
+msgid ""
+"<p class=\"description\">This is a section created by adding a filter to the "
+"sections array. Can be used by child themes to add/remove sections from the "
+"options.</p>"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"A responsive real estate theme, designed by <a href=\"http://www."
+"contempographicdesign.com\">Contempo</a>."
+msgstr ""
+
+#. URI of the theme
+msgid "http://themeforest.net/user/contempoinc?ref=contempoinc"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://www.contempographicdesign.com"
+msgstr ""

@@ -1,0 +1,4767 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Pro Real Estate 7\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-20 13:28+0000\n"
+"POT-Revision-Date: Wed Jul 27 2016 08:19:42 GMT-0700 (PDT)\n"
+"PO-Revision-Date: 2020-05-29 16:00+0000\n"
+"Last-Translator: Chris Robinson\n"
+"Language-Team: Croatian\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10 >= 2 && "
+"n%10<=4 &&(n%100<10||n%100 >= 20)? 1 : 2;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: includes\n"
+"X-Poedit-SearchPath-2: layouts\n"
+"X-Poedit-SearchPath-3: 404.php\n"
+"X-Poedit-SearchPath-4: archive.php\n"
+"X-Poedit-SearchPath-5: author.php\n"
+"X-Poedit-SearchPath-6: comments.php\n"
+"X-Poedit-SearchPath-7: content.php\n"
+"X-Poedit-SearchPath-8: footer.php\n"
+"X-Poedit-SearchPath-9: functions.php\n"
+"X-Poedit-SearchPath-10: header.php\n"
+"X-Poedit-SearchPath-11: index.php\n"
+"X-Poedit-SearchPath-12: page.php\n"
+"X-Poedit-SearchPath-13: rtl.css\n"
+"X-Poedit-SearchPath-14: search-listings.php\n"
+"X-Poedit-SearchPath-15: searchform.php\n"
+"X-Poedit-SearchPath-16: sidebar.php\n"
+"X-Poedit-SearchPath-17: single-listings.php\n"
+"X-Poedit-SearchPath-18: single.php\n"
+"X-Poedit-SearchPath-19: template-agents.php\n"
+"X-Poedit-SearchPath-20: template-big-map.php\n"
+"X-Poedit-SearchPath-21: template-contact.php\n"
+"X-Poedit-SearchPath-22: template-demo-home-map.php\n"
+"X-Poedit-SearchPath-23: template-dsidxpress.php\n"
+"X-Poedit-SearchPath-24: template-edit-listing.php\n"
+"X-Poedit-SearchPath-25: template-edit-profile.php\n"
+"X-Poedit-SearchPath-26: template-favorite-listings.php\n"
+"X-Poedit-SearchPath-27: template-full-width.php\n"
+"X-Poedit-SearchPath-28: template-home.php\n"
+"X-Poedit-SearchPath-29: template-left-sidebar.php\n"
+"X-Poedit-SearchPath-30: template-sitemap.php\n"
+"X-Poedit-SearchPath-31: template-submit-listing.php\n"
+"X-Poedit-SearchPath-32: template-testimonials.php\n"
+"X-Poedit-SearchPath-33: template-view-listings.php\n"
+"X-Poedit-SearchPath-34: admin/ct-child-theme\n"
+"X-Poedit-SearchPath-35: admin/profile-fields.php\n"
+"X-Poedit-SearchPath-36: admin/theme-functions.php\n"
+"X-Poedit-SearchPathExcluded-0: admin/ReduxFramework\n"
+"X-Poedit-SearchPathExcluded-1: admin/aq-resizer\n"
+"X-Poedit-SearchPathExcluded-2: admin/plugins\n"
+"X-Poedit-SearchPathExcluded-3: js\n"
+"X-Poedit-SearchPathExcluded-4: css\n"
+"X-Poedit-SearchPathExcluded-5: fonts\n"
+"X-Poedit-SearchPathExcluded-6: images\n"
+"X-Poedit-SearchPathExcluded-7: admin/images\n"
+"Language: hr\n"
+"X-Loco-Version: 2.3.4; wp-5.4.1"
+
+#: functions.php:55
+msgid "Getting Started"
+msgstr "Početak Rada"
+
+#. Name of the template
+msgid "Demo Home Map"
+msgstr "Demo-Kuća Na Karti"
+
+#: single-listings.php:40 single-brokerage.php:162
+#: admin/ReduxFramework/theme-options/re7-config.php:3240
+msgid "Listings"
+msgstr "Oglasi"
+
+#: single-listings.php:46 admin/theme-functions.php:8468
+#: admin/theme-functions.php:9494
+msgid "Home"
+msgstr "Kuće"
+
+#: single-listings.php:63
+msgid "Call"
+msgstr "Nazovite"
+
+#: single-listings.php:64 template-favorite-listings.php:117
+#: archive-brokerage.php:115 archive-brokerage.php:177 single-brokerage.php:85
+#: single-brokerage.php:135 single-brokerage.php:287 single-brokerage.php:350
+#: template-brokerages.php:129 template-brokerages.php:189 author.php:80
+#: author.php:126 author.php:378 template-agents.php:258
+#: includes/single-listing-lead-media-with-contact.php:151
+#: includes/single-listing-contact.php:103
+#: includes/single-listing-contact.php:185
+#: includes/single-listing-contact.php:241
+#: includes/single-listing-contact.php:311 includes/single-listing-home.php:253
+#: includes/single-listing-home.php:275 includes/single-listing-home.php:336
+#: includes/agent-contact-modal.php:27 includes/agent-contact-modal.php:27
+#: includes/agent-contact-modal.php:27 admin/theme-functions.php:4895
+#: includes/widgets/ct-widget-listingscontact.php:37
+#: includes/widgets/ct-widget-listingscontact.php:37
+#: includes/widgets/ct-widget-listingscontact.php:37
+#: includes/widgets/ct-widget-agentinfo.php:79
+msgid "Email"
+msgstr "E-mail"
+
+#: single-listings.php:77 single-listings.php:83 single-listings.php:89
+#: single-listings.php:95 single-listings.php:116 single-listings.php:117
+#: single-listings.php:118 includes/single-listing-home.php:367
+#: includes/single-listing-home.php:368 includes/single-listing-home.php:369
+#: includes/widgets/ct-widget-listingssocial.php:30
+#: includes/widgets/ct-widget-listingssocial.php:31
+#: includes/widgets/ct-widget-listingssocial.php:32
+msgid "Check out this great listing on"
+msgstr "Provjerite je veliki broj na"
+
+#: single-listings.php:120 includes/agent-contact-modal.php:16
+#: admin/theme-functions.php:1234
+msgid "Close"
+msgstr "U blizini"
+
+#: single-listings.php:224 template-listing-analytics.php:62
+#: template-edit-profile.php:59 template-submit-listing.php:359
+#: template-user-dashboard.php:59 template-listing-email-alerts.php:69
+#: template-view-listings.php:62 template-view-invoices.php:60
+#: template-edit-listing.php:405 template-membership.php:60
+msgid "You must be logged in to view this page."
+msgstr "Morate se prijaviti da biste vidjeli ovu stranicu."
+
+#. Name of the template
+#: admin/ReduxFramework/theme-options/re7-config.php:1698
+msgid "Testimonials"
+msgstr "Naši"
+
+#: 404.php:15
+msgid "Page Not Found"
+msgstr "Stranica Nije Pronađena"
+
+#: 404.php:16
+msgid "Woah there! Looks like you've gotten lost."
+msgstr "Hej tamo! Izgleda, ti si izgubio."
+
+#: 404.php:17
+msgid "Go back to the homepage"
+msgstr "Povratak na početnu stranicu"
+
+#. Name of the template
+msgid "Demo Home Video"
+msgstr "Demo-Kućni Video"
+
+#. Name of the template
+msgid "Left Sidebar"
+msgstr "Na lijevoj strani"
+
+#: archive.php:77
+msgid "No posts were found which match your search criteria"
+msgstr "Pozicije nisu bile naći koji odgovaraju vašim kriterijima pretrage "
+
+#: archive.php:77 layouts/grid.php:26 layouts/list.php:27
+msgid "Try broadening your search to find more results."
+msgstr ""
+"Pokušajte da proširite vaše pretraživanje da biste pronašli više rezultata."
+
+#. Name of the template
+#: header.php:230 header.php:536 includes/user-sidebar.php:61
+#: admin/ReduxFramework/theme-options/re7-config.php:4046
+msgid "Listing Analytics"
+msgstr "Popis Analiza"
+
+#. Name of the template
+msgid "Packages Thank You"
+msgstr "Paketi Hvala"
+
+#: template-packages-thank-you.php:56
+msgid "Select a Package"
+msgstr "Odaberite paket"
+
+#: template-packages-thank-you.php:60
+msgid "Payment"
+msgstr "Plaćanje"
+
+#: template-packages-thank-you.php:64
+msgid "Complete"
+msgstr "Potpuni"
+
+#. Name of the template
+msgid "Edit Profile"
+msgstr "Uredi Profil"
+
+#: template-edit-profile.php:80
+msgid "The passwords you entered do not match. Your password was not updated."
+msgstr "Upisane lozinke se ne podudaraju. Vaša lozinka nije ažuriran."
+
+#: template-edit-profile.php:88
+msgid "The Email you entered is not valid. Please try again."
+msgstr "E-mail uveo nije valjana. Molimo vas, pokušajte ponovno."
+
+#: template-edit-profile.php:90
+msgid "This email is already used by another user. Try a different one."
+msgstr "Ovaj email je već koristi drugi korisnik. Pokušajte s drugim."
+
+#: template-edit-profile.php:131 template-favorite-listings.php:115
+#: archive-brokerage.php:113 single-brokerage.php:83 single-brokerage.php:285
+#: template-brokerages.php:127 author.php:78 template-agents.php:256
+#: includes/single-listing-lead-media-with-contact.php:147
+#: includes/single-listing-multi-floorplan.php:34
+#: includes/single-listing-contact.php:237 includes/single-listing-home.php:273
+#: includes/agent-contact-modal.php:25 includes/agent-contact-modal.php:25
+#: includes/agent-contact-modal.php:25
+#: includes/widgets/ct-widget-listingscontact.php:35
+#: includes/widgets/ct-widget-listingscontact.php:35
+#: includes/widgets/ct-widget-listingscontact.php:35
+msgid "Name"
+msgstr "Naziv"
+
+#: template-edit-profile.php:135 admin/theme-functions.php:4811
+#: admin/theme-functions.php:4890
+msgid "Username"
+msgstr "Korisničko ime"
+
+#: template-edit-profile.php:136
+msgid "Usernames cannot be changed."
+msgstr "Imena korisnika ne mogu se mijenjati."
+
+#: template-edit-profile.php:139 admin/theme-functions.php:4900
+msgid "First Name"
+msgstr "Naziv"
+
+#: template-edit-profile.php:143 admin/theme-functions.php:4905
+msgid "Last Name"
+msgstr "Prezime"
+
+#: template-edit-profile.php:147
+msgid "Nickname"
+msgstr "Nadimak"
+
+#: template-edit-profile.php:147
+msgid "(required)"
+msgstr "(obavezno)"
+
+#: template-edit-profile.php:151
+msgid "Display to Public as"
+msgstr "Prikaz za javnost, kao"
+
+#: template-edit-profile.php:189
+msgid "Contact Info"
+msgstr "Kontakt Podaci"
+
+#: template-edit-profile.php:193
+msgid "E-mail *"
+msgstr ""
+
+#: template-edit-profile.php:197 admin/theme-functions.php:4910
+msgid "Website"
+msgstr "Web stranice"
+
+#: template-edit-profile.php:220
+msgid "About Yourself"
+msgstr "O Sebi"
+
+#: template-edit-profile.php:224
+msgid "Biographical Information"
+msgstr "Biografski Podaci"
+
+#: template-edit-profile.php:224
+msgid ""
+"Share a little biographical information to fill out your profile. This may "
+"be shown publicly."
+msgstr ""
+"Podijelite malo биографической informacija, da ispunite svoj profil. To može "
+"biti javno prikazan."
+
+#: template-edit-profile.php:228
+msgid "New Password"
+msgstr "Novu Lozinku"
+
+#: template-edit-profile.php:228
+msgid ""
+"If you would like to change the password type a new one. Otherwise leave "
+"this blank."
+msgstr ""
+"Ako želite promijeniti lozinku, unesite novi. U suprotnom, ostavite to polje "
+"praznim."
+
+#: template-edit-profile.php:232
+msgid "Type your new password again."
+msgstr "Ponovo unesite Vašu novu lozinku."
+
+#: template-edit-profile.php:234
+msgid "Strength indicator"
+msgstr "Indikator snage "
+
+#: template-edit-profile.php:246
+msgid "Update Profile"
+msgstr "Ažuriranje Profila"
+
+#: template-edit-profile.php:252
+msgid "Delete Account"
+msgstr "Brisanje Računa"
+
+#: includes/single-listing-sub-navigation.php:182
+#: admin/ReduxFramework/theme-options/re7-config.php:5527
+msgid "Contact"
+msgstr "Kontakti"
+
+#: template-contact.php:64
+msgid "Name*"
+msgstr ""
+
+#: template-contact.php:68
+msgid "Email*"
+msgstr ""
+
+#: template-contact.php:72 template-favorite-listings.php:119
+#: archive-brokerage.php:117 single-brokerage.php:87 single-brokerage.php:289
+#: template-brokerages.php:131 author.php:82 template-agents.php:260
+#: includes/single-listing-lead-media-with-contact.php:155
+#: includes/single-listing-contact.php:245 includes/single-listing-home.php:277
+#: includes/agent-contact-modal.php:29 includes/agent-contact-modal.php:29
+#: includes/agent-contact-modal.php:29
+#: includes/widgets/ct-widget-listingscontact.php:39
+#: includes/widgets/ct-widget-listingscontact.php:39
+#: includes/widgets/ct-widget-listingscontact.php:39
+msgid "Phone"
+msgstr "Telefon"
+
+#: template-contact.php:75
+msgid "Subject*"
+msgstr ""
+
+#: template-contact.php:77
+msgid "Message"
+msgstr "Poruka"
+
+#: template-contact.php:83 template-submit-listing.php:859
+#: template-favorite-listings.php:126 archive-brokerage.php:125
+#: single-brokerage.php:95 single-brokerage.php:297 template-brokerages.php:137
+#: author.php:90 template-agents.php:268
+#: includes/single-listing-contact.php:256 includes/single-listing-home.php:285
+#: includes/agent-contact-modal.php:38
+#: includes/widgets/ct-widget-listingscontact.php:48
+msgid "Submit"
+msgstr "Zamisliti"
+
+#: comments.php:13
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Ovaj post je zaštićen lozinkom. Unesite zaporku za pregled komentara."
+
+#: comments.php:31
+msgid "No Responses"
+msgstr "Nema Odgovora"
+
+#: comments.php:31
+msgid "1 Comment"
+msgstr "1 komentar"
+
+#: comments.php:31
+msgid "% Comments"
+msgstr ""
+
+#: comments.php:44
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:45
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:53
+msgid "Comments are closed, but"
+msgstr "Komentari su zatvorene, ali"
+
+#: comments.php:53
+msgid "Trackback URL for this post"
+msgstr "Kugla za pokazivanje URL za ovaj post"
+
+#: comments.php:53
+msgid "trackbacks"
+msgstr "трекбэки"
+
+#: comments.php:53
+msgid "and pingbacks are open."
+msgstr "i пингбэков otvorena."
+
+#: comments.php:59
+msgid "Reviews are closed."
+msgstr "Komentari su zatvorene."
+
+#: comments.php:61
+msgid "Comments are closed."
+msgstr "Komentari su zatvorene."
+
+#: header.php:218 header.php:524 header.php:554 includes/user-sidebar.php:49
+msgid "Submit Listing"
+msgstr "Dostaviti Popis"
+
+#: template-submit-listing.php:386
+msgid "You haven't chosen a package yet…"
+msgstr "Još niste odabrali paket..."
+
+#: template-submit-listing.php:387
+msgid "Get Started!"
+msgstr "Počnimo!"
+
+#: template-submit-listing.php:393
+msgid "Listings Limit Reached"
+msgstr "Oglasi Granica"
+
+#: template-submit-listing.php:394
+msgid "You've reached the listings limit for your membership package."
+msgstr "Vi ste дозвонились do krajnjih granica oglas za vašu членского paketa."
+
+#: template-submit-listing.php:395
+msgid "Upgrade Today!"
+msgstr "Ažuriranje Danas!"
+
+#: template-submit-listing.php:412 template-edit-listing.php:418
+msgid "Street Address"
+msgstr "Adresa"
+
+#: template-submit-listing.php:417 template-edit-listing.php:423
+msgid "Alternate Title"
+msgstr "Alternativni Naziv"
+
+#: template-submit-listing.php:418 template-edit-listing.php:424
+msgid "(e.g. Downtown Penthouse)"
+msgstr "(na primjer, u centru grada penthouse)"
+
+#: template-submit-listing.php:424 template-advanced-search.php:62
+#: template-edit-listing.php:430 includes/advanced-search.php:35
+#: includes/header-advanced-search.php:81
+#: includes/header-advanced-search.php:514
+#: includes/header-advanced-search.php:524 admin/theme-functions.php:6383
+#: includes/widgets/ct-widget-listingssearch.php:93
+#: includes/widgets/ct-widget-listingssearch.php:103
+msgid "Type"
+msgstr "Vrsta"
+
+#: template-submit-listing.php:432 template-submit-listing.php:457
+#: template-edit-listing.php:436 template-edit-listing.php:465
+#: admin/theme-functions.php:7888 admin/theme-functions.php:7922
+#: admin/theme-functions.php:7956
+msgid "Any"
+msgstr "Bilo"
+
+#: template-submit-listing.php:449 template-advanced-search.php:115
+#: template-view-invoices.php:95 template-edit-listing.php:459
+#: includes/single-listing-ct-idx-pro-info.php:110
+#: includes/single-listing-ct-idx-pro-info.php:727
+#: includes/advanced-search.php:125 includes/header-advanced-search.php:216
+#: includes/header-advanced-search.php:652
+#: includes/header-advanced-search.php:662
+#: includes/widgets/ct-widget-listingssearch.php:252
+#: includes/widgets/ct-widget-listingssearch.php:262
+msgid "Status"
+msgstr "Status"
+
+#: template-submit-listing.php:469 template-view-listings.php:186
+#: template-edit-listing.php:478 includes/home-listings-count.php:188
+#: admin/theme-functions.php:6947
+#: includes/widgets/ct-widget-agentsotherlistings.php:60
+#: includes/widgets/ct-widget-listings.php:63
+msgid "Featured"
+msgstr "Podnosi"
+
+#: template-submit-listing.php:473 template-submit-listing.php:483
+#: template-view-invoices.php:112
+#: includes/widgets/ct-widget-contactinfo.php:143
+msgid "No"
+msgstr "Nema"
+
+#: template-submit-listing.php:474 template-submit-listing.php:484
+#: template-view-invoices.php:112
+#: includes/widgets/ct-widget-contactinfo.php:142
+msgid "Yes"
+msgstr "Da"
+
+#: template-submit-listing.php:478
+msgid "Not Included"
+msgstr "Ne Svjetlima"
+
+#: template-submit-listing.php:478
+msgid "Package Limit Reached"
+msgstr "Granica Paket Dosegao"
+
+#: template-submit-listing.php:492 template-edit-listing.php:492
+#: includes/single-listing-multi-floorplan.php:50
+msgid "Price"
+msgstr "Cijena"
+
+#: template-submit-listing.php:497 template-edit-listing.php:497
+msgid "Price Prefix"
+msgstr "Prefiks Cijena "
+
+#: template-submit-listing.php:498 template-edit-listing.php:498
+msgid " (e.g. From, Call for price)"
+msgstr " (na primjer, poziv na poziciji)"
+
+#: template-submit-listing.php:502 template-edit-listing.php:502
+msgid "Price Postfix Text"
+msgstr "Cijena Teksta Postfix "
+
+#: template-submit-listing.php:503 template-edit-listing.php:503
+msgid " (e.g. /month, /week)"
+msgstr " (na primjer, /mjesec /mjesec)"
+
+#: template-submit-listing.php:508 template-edit-listing.php:508
+msgid "Listing Description"
+msgstr "Broj Opis"
+
+#: template-submit-listing.php:522 template-edit-listing.php:525
+msgid "Listing Featured Image"
+msgstr "Broj Preporučeni Sliku"
+
+#: template-submit-listing.php:527
+msgid "Gallery Images (select as many as you like)"
+msgstr "Galerija slika (odaberite onoliko koliko vam se sviđa)"
+
+#: template-submit-listing.php:534 template-edit-listing.php:534
+#: admin/ReduxFramework/theme-options/re7-config.php:3502
+msgid "Listing Images"
+msgstr "Popis Slika"
+
+#: template-submit-listing.php:544 template-edit-listing.php:615
+msgid "Drag & Drop Images Here"
+msgstr ""
+
+#: template-submit-listing.php:547 template-edit-listing.php:618
+msgid "or"
+msgstr "ili"
+
+#: template-submit-listing.php:550 template-edit-listing.php:621
+msgid "Select Images"
+msgstr "Odaberite Slike"
+
+#: template-submit-listing.php:554
+msgid "*At least one image is for valid submission, minimum width of 817px."
+msgstr ""
+
+#: template-submit-listing.php:555 template-edit-listing.php:626
+msgid ""
+"*You can mark an image as featured by clicking the star icon, Otherwise "
+"first image will be considered featured image."
+msgstr ""
+
+#: template-submit-listing.php:565 template-edit-listing.php:638
+msgid "Files & Documents"
+msgstr ""
+
+#: template-submit-listing.php:577 template-edit-listing.php:662
+msgid "*Supported file types are PDF, Word, Excel & PowerPoint."
+msgstr ""
+
+#: template-submit-listing.php:631 template-edit-listing.php:726
+#: includes/header-advanced-search.php:354 admin/theme-functions.php:6328
+msgid "Lot Size"
+msgstr "Veličina Parcele"
+
+#: template-submit-listing.php:636 template-edit-listing.php:731
+#: admin/theme-functions.php:6193
+msgid "Pets"
+msgstr "Kućni ljubimci"
+
+#: template-submit-listing.php:637
+msgid "(e.g. Cats, small dogs)"
+msgstr "(npr. mačka, mali psi)"
+
+#: template-submit-listing.php:641 template-edit-listing.php:736
+#: admin/theme-functions.php:6208
+msgid "Parking"
+msgstr "Parkiralište"
+
+#: template-submit-listing.php:642
+msgid "(e.g. Carport, 2 Car Garage)"
+msgstr "(na primjer, nadstrešnica, garaža za 2 automobila)"
+
+#: template-submit-listing.php:646 template-advanced-search.php:165
+#: template-advanced-search.php:166 template-edit-listing.php:741
+#: includes/advanced-search.php:220 includes/advanced-search.php:221
+#: includes/header-advanced-search.php:414
+#: includes/header-advanced-search.php:415
+#: includes/header-advanced-search.php:883
+#: includes/header-advanced-search.php:884
+#: includes/widgets/ct-widget-listingssearch.php:414
+#: includes/widgets/ct-widget-listingssearch.php:415
+msgid "Property ID"
+msgstr "Id nekretnine "
+
+#: template-submit-listing.php:651 template-edit-listing.php:746
+msgid "Video URL"
+msgstr "Link na video"
+
+#: template-submit-listing.php:658
+msgid "Virtual Tour URL"
+msgstr "Virtualni obilazak URL"
+
+#: template-submit-listing.php:666 template-edit-listing.php:761
+#: includes/single-listing-open-house.php:38
+#: includes/single-listing-open-house.php:40
+#: includes/single-listing-sub-navigation.php:62 admin/theme-functions.php:6719
+msgid "Open House"
+msgstr "Dan Otvorenih Vrata"
+
+#: template-submit-listing.php:669 template-edit-listing.php:764
+#: includes/single-listing-open-house.php:48
+msgid "Date"
+msgstr "Datum"
+
+#: template-submit-listing.php:674 template-edit-listing.php:769
+msgid "Start Time"
+msgstr "Vrijeme Početka"
+
+#: template-submit-listing.php:679 template-edit-listing.php:774
+msgid "End Time"
+msgstr "Vrijeme Završetka"
+
+#: template-submit-listing.php:697 template-edit-listing.php:784
+msgid "Additional Features (comma separated)"
+msgstr "Dodatne opcije (odvojene zarezom)"
+
+#: template-submit-listing.php:712 template-edit-listing.php:799
+msgid "Max-number of Guests"
+msgstr "Maksimalni broj gostiju"
+
+#: template-submit-listing.php:713
+msgid " (e.g. 2)"
+msgstr " (primjer 2)"
+
+#: template-submit-listing.php:717 template-edit-listing.php:804
+msgid "Minimum Stay"
+msgstr "Minimalni Boravak"
+
+#: template-submit-listing.php:718
+msgid " (e.g. 1 night)"
+msgstr " (na primjer, 1 noć)"
+
+#: template-submit-listing.php:724 template-edit-listing.php:811
+msgid "Check In Time"
+msgstr "Vrijeme Dolaska"
+
+#: template-submit-listing.php:725
+msgid " (e.g. 3:00 PM)"
+msgstr " (na primjer, 3:00)"
+
+#: template-submit-listing.php:729 template-edit-listing.php:816
+msgid "Check Out Time"
+msgstr "Vrijeme Polaska"
+
+#: template-submit-listing.php:730
+msgid " (e.g. 11:00 AM)"
+msgstr " (na primjer, 11:00)"
+
+#: template-submit-listing.php:736 template-edit-listing.php:823
+msgid "Extra Person Charge"
+msgstr "Naknada Za Dodatnu Gosta"
+
+#: template-submit-listing.php:737
+msgid " (e.g. 50)"
+msgstr " (na primjer, 50)"
+
+#: template-submit-listing.php:741 template-edit-listing.php:828
+#: admin/theme-functions.php:6477
+msgid "Cleaning Fee"
+msgstr "Čišćenje"
+
+#: template-submit-listing.php:742
+msgid " (e.g. 150)"
+msgstr " (na primjer, 150)"
+
+#: template-submit-listing.php:748 template-edit-listing.php:835
+#: admin/theme-functions.php:6488
+msgid "Cancellation Fee"
+msgstr "Naknada Za Otkaz Rezervacije "
+
+#: template-submit-listing.php:749
+msgid " (e.g. 275)"
+msgstr " (na primjer, 275)"
+
+#: template-submit-listing.php:753 template-edit-listing.php:840
+#: admin/theme-functions.php:6499
+msgid "Security Deposit"
+msgstr "Zalog "
+
+#: template-submit-listing.php:754
+msgid " (e.g. 895)"
+msgstr " (na primjer 895)"
+
+#: template-submit-listing.php:765 author.php:149 template-edit-listing.php:859
+#: admin/profile-fields.php:215
+msgid "Address"
+msgstr "Adresa"
+
+#: template-submit-listing.php:766 template-edit-listing.php:860
+msgid "Type in an address"
+msgstr "Unesite adresu"
+
+#: template-submit-listing.php:786 template-edit-listing.php:880
+#: includes/advanced-search.php:98 includes/header-advanced-search.php:130
+#: includes/header-advanced-search.php:562
+#: includes/widgets/ct-widget-listingssearch.php:166
+msgid "County"
+msgstr "Okrug"
+
+#: template-submit-listing.php:791 template-advanced-search.php:100
+#: template-edit-listing.php:885 includes/advanced-search.php:89
+#: includes/header-advanced-search.php:120
+#: includes/header-advanced-search.php:572
+#: includes/widgets/ct-widget-listingssearch.php:157
+msgid "Country"
+msgstr "Zemlja"
+
+#: template-submit-listing.php:801 template-edit-listing.php:895
+msgid "Latitude & Longitude (optional)"
+msgstr ""
+
+#: template-submit-listing.php:810 template-edit-listing.php:904
+msgid ""
+"You can also manually drag the marker to the exact location of your listing "
+"if the automatic geolocation is off."
+msgstr ""
+"Također možete ručno povući oznaku na točnu lokaciju vašeg popisa, ako se "
+"automatski geolokacija isključen."
+
+#: template-submit-listing.php:822 template-edit-listing.php:910
+#: admin/theme-functions.php:5735
+#: admin/ReduxFramework/theme-options/re7-config.php:4981
+msgid "Private Notes"
+msgstr "Privatne Bilješke"
+
+#: template-submit-listing.php:823 template-edit-listing.php:911
+msgid ""
+"Write a private note about this listing, this textarea will not be displayed "
+"anywhere on the front end of the site."
+msgstr ""
+"Pisati bilješku o ovom pisati, to textarea se neće pojaviti na bilo kojem "
+"mjestu na prednjem dijelu stranice."
+
+#: template-submit-listing.php:842 template-edit-listing.php:930
+msgid "Cancel"
+msgstr "Poništi"
+
+#: template-submit-listing.php:843
+msgid "Save As Draft"
+msgstr "Spremi Kao Skicu"
+
+#: template-submit-listing.php:851 template-edit-listing.php:934
+msgid "Next"
+msgstr "Dalje"
+
+#: template-submit-listing.php:860 template-edit-listing.php:935
+msgid "Previous"
+msgstr "Prethodni"
+
+#: template-submit-listing.php:870 single.php:127 page.php:59
+#: template-dsidxpress.php:41 template-edit-listing.php:968
+msgid "Pages:"
+msgstr "Stranice:"
+
+#: header.php:210 header.php:516 includes/user-sidebar.php:41
+msgid "Favorite Listings"
+msgstr "Omiljene Liste"
+
+#: template-favorite-listings.php:110 archive-brokerage.php:108
+#: single-brokerage.php:78 single-brokerage.php:280 template-brokerages.php:122
+#: author.php:73 template-agents.php:251
+msgid "Tell me more about a property"
+msgstr "Recite mi nešto više o nekretnini"
+
+#: template-favorite-listings.php:111 archive-brokerage.php:109
+#: single-brokerage.php:79 single-brokerage.php:281 template-brokerages.php:123
+#: author.php:74 template-agents.php:252
+#: includes/single-listing-lead-media-with-contact.php:141
+#: includes/single-listing-contact.php:231 includes/single-listing-home.php:270
+#: includes/agent-contact-modal.php:22
+#: includes/widgets/ct-widget-listingscontact.php:32
+msgid "Request a showing"
+msgstr "Офомить zahtjev"
+
+#: template-favorite-listings.php:112 archive-brokerage.php:110
+#: single-brokerage.php:80 single-brokerage.php:282 template-brokerages.php:124
+#: author.php:75 template-agents.php:253
+msgid "General Questions"
+msgstr "Česta Pitanja"
+
+#: template-favorite-listings.php:143
+msgid "Request More Information on All Favorites"
+msgstr "Zatražiti dodatne informacije za sve favorite"
+
+#: template-favorite-listings.php:219 archive-brokerage.php:208
+#: template-view-listings.php:218 template-brokerages.php:220
+#: includes/single-listing-multi-floorplan.php:129
+#: includes/single-listing-ct-idx-pro-info.php:468
+#: includes/single-listing-ct-idx-pro-info.php:1067
+#: includes/featured-listings.php:118 layouts/grid.php:76
+msgid "View"
+msgstr "Pogled"
+
+#: template-favorite-listings.php:245
+msgid "Previous Entries"
+msgstr "Prethodni Rekord"
+
+#: template-favorite-listings.php:246
+msgid "Next Entries"
+msgstr "Sljedeće Evidencije"
+
+#: archive-brokerage.php:38
+#: admin/ReduxFramework/theme-options/re7-config.php:2811
+msgid "Brokerages"
+msgstr "Brokerske"
+
+#: archive-brokerage.php:52 template-brokerages.php:52
+msgid "Type a brokerage name or address here to filter the list."
+msgstr "Unesite naziv brokerske ili adresu za filtriranje popisa."
+
+#: archive-brokerage.php:218 template-brokerages.php:230
+msgid "No Brokerages Found."
+msgstr "Nema Brokerske Našli."
+
+#. Name of the template
+msgid "IDX w/Sidebar"
+msgstr "Indeks w/sidebar"
+
+#. Name of the template
+msgid "Full Width"
+msgstr "Puna Širina"
+
+#. Name of the template
+msgid "User Dashboard"
+msgstr "Ploča Korisnika "
+
+#. Name of the template
+#: template-user-dashboard.php:83 header.php:224 header.php:530
+#: includes/user-sidebar.php:55
+msgid "Membership"
+msgstr "Članstvo"
+
+#: template-user-dashboard.php:103 header.php:221 header.php:527
+#: includes/user-sidebar.php:52
+msgid "My Listings"
+msgstr "Moji Oglasi"
+
+#: template-user-dashboard.php:122
+#: admin/ReduxFramework/theme-options/re7-config.php:1648
+msgid "Featured Listings"
+msgstr "Objavljene Oglase"
+
+#: template-user-dashboard.php:141
+msgid "Pending Listings"
+msgstr "U Očekivanju Oglasi"
+
+#. Name of the template
+msgid "Contact No Form"
+msgstr "Kontakt Nema Oblik"
+
+#. Name of the template
+msgid "Quick Search"
+msgstr "Brzo Pretraživanje"
+
+#. Name of the template
+msgid "Demo Home Listings Slider"
+msgstr "Demo-Kućni Oglasa Klizač"
+
+#. Name of the template
+#: includes/user-sidebar.php:44
+#: admin/ReduxFramework/theme-options/re7-config.php:5207
+msgid "Listing Email Alerts"
+msgstr "Popis Obavijesti Na E-Mail "
+
+#: template-listing-email-alerts.php:84
+msgid "Manage your alerts"
+msgstr "Upravljati svojim upozorenjima"
+
+#: template-listing-email-alerts.php:85
+msgid "Here you can turn saved alerts on/off or remove them completely."
+msgstr ""
+"Ovdje možete uključiti spremljene upozorenja za uključivanje/isključivanje "
+"ili ih potpuno ukloniti."
+
+#: template-listing-email-alerts.php:90
+msgid "Query"
+msgstr "Upit"
+
+#: template-listing-email-alerts.php:93
+msgid "Date Created"
+msgstr "Datum Osnivanja"
+
+#: template-listing-email-alerts.php:96
+msgid "Email Setting"
+msgstr "Postavljanje E-Pošte"
+
+#: template-listing-email-alerts.php:99 admin/theme-functions.php:4669
+msgid "Delete"
+msgstr "Izbrisati"
+
+#: template-listing-email-alerts.php:126
+msgid "You don't have any saved searches yet, create one above."
+msgstr "Nemate spremljenih pretraživanja za sve isti, stvoriti veći."
+
+#: template-listing-email-alerts.php:138
+msgid ""
+"Activate \"Contempo Email Alerts\" plugin via Appearance > Install Plugins."
+msgstr ""
+
+#: header.php:187 header.php:493
+msgid "Hi, "
+msgstr "Pozdrav, "
+
+#: header.php:206 header.php:512 includes/user-sidebar.php:37
+msgid "Dashboard"
+msgstr "Ploče s instrumentima"
+
+#: header.php:213 header.php:519
+msgid "Saved Searches"
+msgstr "Spremljene Potraga"
+
+#. Name of the template
+#: header.php:227 header.php:533 includes/user-sidebar.php:58
+msgid "Invoices"
+msgstr "Fakture"
+
+#: header.php:235 header.php:541 includes/user-sidebar.php:65
+msgid "Account Settings"
+msgstr "Postavke Korisničkog Računa "
+
+#: header.php:238 header.php:544 includes/user-sidebar.php:68
+msgid "Logout"
+msgstr "Izlaz"
+
+#: header.php:242 header.php:552
+msgid "Login / Register"
+msgstr "Prijavite Se / Registriraj Se"
+
+#: header.php:242 header.php:552 admin/theme-functions.php:4820
+msgid "Login"
+msgstr "Prijava"
+
+#: header.php:788
+msgid "Add \"CT Compare\" Widget via Appearance > Widgets > Compare."
+msgstr ""
+
+#. Name of the template
+#: admin/ReduxFramework/theme-options/re7-config.php:2889
+msgid "Advanced Search"
+msgstr "Napredno Pretraživanje"
+
+#: template-advanced-search.php:67 includes/advanced-search.php:44
+#: includes/header-advanced-search.php:90
+#: includes/header-advanced-search.php:534 admin/profile-fields.php:221
+#: admin/theme-functions.php:7216
+#: includes/widgets/ct-widget-listingssearch.php:112
+msgid "City"
+msgstr "Grad"
+
+#: template-advanced-search.php:77 includes/advanced-search.php:58
+#: admin/theme-functions.php:7138 admin/theme-functions.php:7157
+#: admin/theme-functions.php:7239
+#: includes/widgets/ct-widget-listingssearch.php:126
+msgid "Area"
+msgstr "Površina"
+
+#: template-advanced-search.php:79 includes/advanced-search.php:60
+#: admin/theme-functions.php:7237 admin/theme-functions.php:7277
+#: includes/widgets/ct-widget-listingssearch.php:128
+msgid "Suburb"
+msgstr "U predgrađu"
+
+#: template-advanced-search.php:81 includes/advanced-search.php:62
+#: admin/theme-functions.php:7241
+#: includes/widgets/ct-widget-listingssearch.php:130
+msgid "State"
+msgstr "Država"
+
+#: template-advanced-search.php:92 includes/advanced-search.php:77
+#: admin/theme-functions.php:7258
+#: includes/widgets/ct-widget-listingssearch.php:145
+msgid "Postcode"
+msgstr "Poštanski broj"
+
+#: template-advanced-search.php:94 includes/advanced-search.php:79
+#: admin/theme-functions.php:7260
+#: includes/widgets/ct-widget-listingssearch.php:147
+msgid "Zipcode"
+msgstr "Poštanski broj"
+
+#: template-advanced-search.php:105 search-listings.php:32
+#: includes/single-listing-multi-floorplan.php:40
+#: includes/advanced-search.php:107 includes/header-advanced-search.php:148
+#: includes/header-advanced-search.php:582 admin/theme-functions.php:6154
+#: admin/theme-functions.php:7176 admin/theme-functions.php:7488
+#: layouts/list.php:88 includes/widgets/ct-widget-listingssearch.php:184
+msgid "Beds"
+msgstr "Kreveti"
+
+#: template-advanced-search.php:110 search-listings.php:40
+#: includes/single-listing-multi-floorplan.php:43
+#: includes/advanced-search.php:116 includes/header-advanced-search.php:157
+#: includes/header-advanced-search.php:592 admin/theme-functions.php:6174
+#: admin/theme-functions.php:7195 admin/theme-functions.php:7494
+#: layouts/list.php:108 includes/widgets/ct-widget-listingssearch.php:193
+msgid "Baths"
+msgstr "Kupke"
+
+#: template-advanced-search.php:125
+#: includes/single-listing-ct-idx-pro-info.php:132
+#: includes/single-listing-ct-idx-pro-info.php:749
+#: includes/advanced-search.php:148 includes/header-advanced-search.php:249
+#: includes/header-advanced-search.php:705 admin/theme-functions.php:7275
+#: includes/widgets/ct-widget-listingssearch.php:285
+msgid "Neighborhood"
+msgstr "Područje"
+
+#: template-advanced-search.php:127
+#: includes/single-listing-ct-idx-pro-info.php:601
+#: includes/single-listing-ct-idx-pro-info.php:1173
+#: includes/advanced-search.php:150 includes/header-advanced-search.php:251
+#: includes/header-advanced-search.php:707 admin/theme-functions.php:7279
+#: includes/widgets/ct-widget-listingssearch.php:287
+msgid "District"
+msgstr "Područje"
+
+#: template-advanced-search.php:129 includes/advanced-search.php:152
+#: includes/header-advanced-search.php:139
+#: includes/header-advanced-search.php:253
+#: includes/header-advanced-search.php:709 admin/theme-functions.php:7289
+#: includes/widgets/ct-widget-listingssearch.php:175
+#: includes/widgets/ct-widget-listingssearch.php:289
+msgid "Community"
+msgstr "Zajednica"
+
+#: template-advanced-search.php:135 template-advanced-search.php:136
+#: includes/advanced-search.php:162 includes/advanced-search.php:163
+#: includes/header-advanced-search.php:263
+#: includes/header-advanced-search.php:264
+#: includes/header-advanced-search.php:719
+#: includes/header-advanced-search.php:720
+#: includes/widgets/ct-widget-listingssearch.php:299
+#: includes/widgets/ct-widget-listingssearch.php:300
+msgid "Price From"
+msgstr "Cijena Od"
+
+#: template-advanced-search.php:140 template-advanced-search.php:141
+#: includes/advanced-search.php:171 includes/advanced-search.php:172
+#: includes/header-advanced-search.php:272
+#: includes/header-advanced-search.php:273
+#: includes/header-advanced-search.php:731
+#: includes/header-advanced-search.php:732
+#: includes/widgets/ct-widget-listingssearch.php:308
+#: includes/widgets/ct-widget-listingssearch.php:309
+msgid "Price To"
+msgstr "Cijena"
+
+#: template-advanced-search.php:145 template-advanced-search.php:146
+#: includes/advanced-search.php:181 includes/header-advanced-search.php:300
+#: includes/header-advanced-search.php:759
+#: includes/widgets/ct-widget-listingssearch.php:337
+msgid "Size From"
+msgstr "Veličina Od"
+
+#: template-advanced-search.php:150 template-advanced-search.php:151
+#: includes/advanced-search.php:190 includes/header-advanced-search.php:309
+#: includes/header-advanced-search.php:771
+#: includes/widgets/ct-widget-listingssearch.php:346
+msgid "Size To"
+msgstr "Veličina"
+
+#: template-advanced-search.php:155 template-advanced-search.php:156
+#: includes/advanced-search.php:198 includes/advanced-search.php:199
+#: includes/header-advanced-search.php:335
+#: includes/header-advanced-search.php:336
+#: includes/header-advanced-search.php:797
+#: includes/header-advanced-search.php:798
+#: includes/widgets/ct-widget-listingssearch.php:373
+#: includes/widgets/ct-widget-listingssearch.php:374
+msgid "Lot Size From"
+msgstr "Veličina Parcele Od"
+
+#: template-advanced-search.php:160 template-advanced-search.php:161
+#: includes/advanced-search.php:207 includes/advanced-search.php:208
+#: includes/header-advanced-search.php:344
+#: includes/header-advanced-search.php:345
+#: includes/header-advanced-search.php:809
+#: includes/header-advanced-search.php:810
+#: includes/widgets/ct-widget-listingssearch.php:382
+#: includes/widgets/ct-widget-listingssearch.php:383
+msgid "Lot Size To"
+msgstr "Veličina Parcele"
+
+#: template-advanced-search.php:175 template-advanced-search.php:176
+#: includes/advanced-search.php:230 includes/advanced-search.php:231
+#: includes/header-advanced-search.php:424
+#: includes/header-advanced-search.php:425
+#: includes/header-advanced-search.php:893
+#: includes/header-advanced-search.php:894
+#: includes/widgets/ct-widget-listingssearch.php:424
+#: includes/widgets/ct-widget-listingssearch.php:425
+msgid "Number of Guests"
+msgstr "Broj gostiju"
+
+#: template-advanced-search.php:181 includes/advanced-search.php:134
+#: includes/widgets/ct-widget-listingssearch.php:271
+msgid "Additional Features"
+msgstr "Dodatne Mogućnosti"
+
+#: template-advanced-search.php:187 includes/advanced-search.php:253
+#: includes/header-advanced-search.php:460
+#: includes/header-advanced-search.php:492
+#: includes/home-hero-advanced-search.php:39
+#: includes/widgets/ct-widget-listingssearch.php:438
+msgid "Search"
+msgstr "Traži"
+
+#: footer.php:89
+msgid "Back to top"
+msgstr "Povratak na vrh"
+
+#: footer.php:91
+msgid "All Rights Reserved."
+msgstr "Sva Prava Pridržana."
+
+#: footer.php:91
+msgid "Back to top "
+msgstr "Povratak na vrh "
+
+#. Name of the template
+#: admin/theme-functions.php:5889
+msgid "Compare"
+msgstr "Usporediti"
+
+#: single-brokerage.php:368
+msgid "View Listings"
+msgstr "Pregled Liste"
+
+#: template-view-listings.php:92
+msgid "Type a listing name or address here to filter the list."
+msgstr "Unesite broj, ime ili adresu, da biste filtrirali popis."
+
+#: template-view-listings.php:149
+msgid "Bed:"
+msgstr "Noćenje:"
+
+#: template-view-listings.php:159
+msgid "Baths:"
+msgstr "Kupke:"
+
+#: template-view-listings.php:170 layouts/list.php:125
+msgid "Type:"
+msgstr "Vrsta:"
+
+#: template-view-listings.php:179
+msgid "Published"
+msgstr "Objavljeno"
+
+#: template-view-listings.php:181
+msgid "Pending"
+msgstr "U očekivanju"
+
+#: template-view-listings.php:183
+msgid "Draft"
+msgstr "Projekt"
+
+#: template-view-listings.php:202
+msgid "Paid"
+msgstr "Plaćeni"
+
+#: template-view-listings.php:217
+msgid "Edit"
+msgstr "Uređivanje"
+
+#: template-view-listings.php:221 admin/theme-functions.php:5990
+msgid " Views"
+msgstr " Pogled"
+
+#: template-view-listings.php:240
+msgid "You don't have any listings yet..."
+msgstr "Imate još nema popisa..."
+
+#: template-view-listings.php:241
+msgid "Create One"
+msgstr "Stvoriti"
+
+#: single.php:79 includes/post-author-info.php:15 layouts/blog-grid.php:54
+#: layouts/blog-large.php:54
+msgid "By"
+msgstr "Na"
+
+#: single.php:79 layouts/blog-grid.php:54 layouts/blog-large.php:54
+msgid "in"
+msgstr "u"
+
+#: single.php:79 layouts/blog-grid.php:54 layouts/blog-large.php:54
+msgid "with"
+msgstr "s"
+
+#. Name of the template
+msgid "IDX Full Width"
+msgstr "IDx po cijeloj širini"
+
+#. Name of the template
+msgid "dsIDXpress"
+msgstr "geolocation"
+
+#: search-listings.php:28 includes/single-listing-ct-idx-pro-info.php:512
+#: includes/single-listing-ct-idx-pro-info.php:514
+#: includes/single-listing-ct-idx-pro-info.php:1103
+#: admin/theme-functions.php:6150 admin/theme-functions.php:7172
+#: admin/theme-functions.php:7482 layouts/list.php:84
+msgid "Rooms"
+msgstr "Sobe"
+
+#: search-listings.php:30 includes/single-listing-ct-idx-pro-info.php:522
+#: includes/single-listing-ct-idx-pro-info.php:1109
+#: admin/theme-functions.php:6152 admin/theme-functions.php:7174
+#: admin/theme-functions.php:7484 layouts/list.php:86
+msgid "Bedrooms"
+msgstr "Spavaće sobe"
+
+#: search-listings.php:34 admin/theme-functions.php:6156
+#: admin/theme-functions.php:7178 admin/theme-functions.php:7486
+#: layouts/list.php:90
+msgid "Bed"
+msgstr "Noćenje"
+
+#: search-listings.php:38 admin/theme-functions.php:6172
+#: admin/theme-functions.php:7193 admin/theme-functions.php:7490
+#: layouts/list.php:106
+msgid "Bathrooms"
+msgstr "Kupaonice"
+
+#: search-listings.php:42 admin/theme-functions.php:6176
+#: admin/theme-functions.php:7197 admin/theme-functions.php:7492
+#: layouts/list.php:110
+msgid "Bath"
+msgstr "Kada"
+
+#: search-listings.php:231 search-listings.php:332 search-listings.php:382
+msgid "listings found"
+msgstr "oglasi našli"
+
+#: search-listings.php:231 search-listings.php:332 search-listings.php:382
+msgid "listing found"
+msgstr "oglas pronašli"
+
+#: search-listings.php:235 search-listings.php:336 search-listings.php:389
+msgid "Loading Results…"
+msgstr "Rezultati Učitavanje..."
+
+#: search-listings.php:240 search-listings.php:342
+msgid "Find A Home"
+msgstr "Naći Dom"
+
+#: search-listings.php:353 search-listings.php:374 search-listings.php:397
+msgid "Searching:"
+msgstr "Traži:"
+
+#: search-listings.php:357 search-listings.php:378 search-listings.php:401
+msgid "All listings"
+msgstr "Svi oglasi"
+
+#: search-listings.php:360 search-listings.php:403
+#: admin/theme-functions.php:1230
+msgid "Close Map"
+msgstr "Zatvori Kartu"
+
+#: search-listings.php:445 search-listings.php:449
+msgid "Save This Search?"
+msgstr "Spremi To Traži?"
+
+#: search-listings.php:447
+msgid "View Saved"
+msgstr "Za Pregled Spremljenih"
+
+#. Name of the template
+msgid "Full Width 2"
+msgstr "Puna Širina 2"
+
+#: single-brokerage.php:39 includes/header-advanced-search.php:235
+#: includes/header-advanced-search.php:672 admin/profile-fields.php:184
+msgid "Brokerage"
+msgstr "Brokerske"
+
+#: single-brokerage.php:163
+#: admin/ReduxFramework/theme-options/re7-config.php:2683
+msgid "Agents"
+msgstr "Agenti"
+
+#: single-brokerage.php:164 includes/single-listing-header.php:73
+msgid "Map"
+msgstr "Karti"
+
+#: single-brokerage.php:166 includes/single-listing-sub-navigation.php:162
+msgid "Reviews"
+msgstr "Komentari"
+
+#: single-brokerage.php:224
+msgid "Type an agents name or title here to filter the list."
+msgstr "Unesite ime posrednika ili ime ovdje da biste filtrirali popis."
+
+#: single-brokerage.php:379
+msgid "This brokerage currently has no active agents."
+msgstr "Trenutno, ova brokerska nema aktivnih agenata."
+
+#: single-brokerage.php:379 layouts/grid.php:22 layouts/grid.php:24
+#: layouts/list.php:23 layouts/list.php:25
+msgid "Check back soon."
+msgstr "Provjerite ponovo kasnije."
+
+#: single-brokerage.php:401 includes/single-listing-reviews.php:21
+#: includes/single-listing-reviews.php:25
+msgid "No Reviews"
+msgstr "Nema Komentara"
+
+#: single-brokerage.php:401 includes/single-listing-reviews.php:21
+#: includes/single-listing-reviews.php:25
+msgid "1 Review"
+msgstr "1 komentar"
+
+#: single-brokerage.php:401 includes/single-listing-reviews.php:21
+#: includes/single-listing-reviews.php:25
+msgid "% Reviews"
+msgstr ""
+
+#: template-view-invoices.php:82
+msgid "You haven't placed any orders yet…"
+msgstr "Niste napravili nikakve narudžbe još..."
+
+#: template-view-invoices.php:90
+msgid "Invoice"
+msgstr "Faktura"
+
+#: template-view-invoices.php:91
+msgid "Package"
+msgstr "Paket"
+
+#: template-view-invoices.php:92
+msgid "Start"
+msgstr "Početak"
+
+#: template-view-invoices.php:93
+msgid "Expire"
+msgstr "Ističe"
+
+#: template-view-invoices.php:94
+msgid "Recurring"
+msgstr "Ponavljaju"
+
+#: template-view-invoices.php:96
+msgid "Total"
+msgstr "Ukupna"
+
+#: template-view-invoices.php:113 admin/theme-functions.php:5643
+msgid "Expired"
+msgstr "Istekao"
+
+#: template-view-invoices.php:123
+msgid "-"
+msgstr "-"
+
+#. Name of the template
+msgid "Landing Page"
+msgstr "Točno Postavili Stranica "
+
+#. Name of the template
+#: includes/home-listings-count.php:58
+msgid "Open Houses"
+msgstr "Dani Otvorenih Vrata"
+
+#. Name of the template
+msgid "Big Map"
+msgstr "Velika Karta"
+
+#: author.php:35 includes/single-listing-lead-media-with-contact.php:110
+#: includes/single-listing-contact.php:68 admin/profile-fields.php:82
+#: admin/theme-functions.php:2526 admin/theme-functions.php:4921
+#: layouts/list.php:149
+msgid "Agent"
+msgstr "Agent"
+
+#: author.php:157
+msgid "Social"
+msgstr "Socijalne"
+
+#: author.php:288 author.php:522
+msgid "Type a listing address or keyword to filter the list."
+msgstr "Unesite broj adresa ili ključna riječ za filtriranje popisa."
+
+#: template-agents.php:79
+msgid "Select a State"
+msgstr "Odaberite stanje"
+
+#: template-agents.php:91
+msgid "City (optional)"
+msgstr "Grad (nije obavezno)"
+
+#: template-agents.php:99
+msgid "Keyword (optional)"
+msgstr "Ključne riječi (opcionalno)"
+
+#: template-agents.php:112
+msgid "Search Agents"
+msgstr "Traži Posrednika"
+
+#: template-agents.php:122 template-agents.php:147
+msgid ""
+"Type an agents name, title, business, phone or lic # here to filter the list."
+msgstr ""
+
+#: template-agents.php:300
+msgid "Broker#"
+msgstr ""
+
+#: template-agents.php:301
+msgid "License#"
+msgstr ""
+
+#: template-agents.php:369
+msgid "View Profile"
+msgstr "Pogledati Profil"
+
+#: template-agents.php:391
+msgid "Previous Page"
+msgstr "Prethodna Stranica"
+
+#: template-agents.php:395
+msgid "Next Page"
+msgstr "Sljedeća Stranica"
+
+#: template-agents.php:403
+msgid "No Agents Found."
+msgstr "Agenti Nisu Našli."
+
+#. Name of the template
+msgid "Edit Listing"
+msgstr "Urediti Oglas"
+
+#: template-edit-listing.php:625
+msgid ""
+"*At least one image is required for valid submission, minimum width of 817px."
+msgstr ""
+
+#: template-edit-listing.php:753
+msgid "Vitrual Tour URL"
+msgstr "Vitrual tour URL"
+
+#: template-edit-listing.php:952
+msgid "Update"
+msgstr "Ažuriranje"
+
+#: template-edit-listing.php:962
+msgid "This isn't one of your assigned listings, editing is denied."
+msgstr "To nije jedna od vaših odredila liste, uređivanje odbijen."
+
+#. Name of the template
+msgid "Sitemap"
+msgstr "Sitemap"
+
+#: template-sitemap.php:51
+msgid "Last Twenty Posts"
+msgstr "Posljednjih Dvadeset Postova"
+
+#: template-sitemap.php:67
+msgid "Pages"
+msgstr "Stranice"
+
+#: template-sitemap.php:74
+msgid "Categories"
+msgstr "Kategorije"
+
+#: template-sitemap.php:81
+msgid "Posts per category"
+msgstr "Postove u kategoriji"
+
+#: includes/single-listing-features.php:23
+#: includes/single-listing-features.php:25
+msgid "Property Features"
+msgstr "Karakteristike Nekretnine "
+
+#: includes/single-listing-open-house.php:51
+msgid "Time"
+msgstr "Vrijeme"
+
+#: includes/single-listing-open-house.php:54
+#: includes/single-listing-open-house.php:96
+msgid "RSVP"
+msgstr "Odgovor"
+
+#: includes/single-listing-attachments.php:20
+#: includes/single-listing-sub-navigation.php:120
+msgid "Attachments"
+msgstr "Prilozi"
+
+#: includes/single-listing-map.php:22 includes/single-listing-map.php:24
+#: includes/single-listing-sub-navigation.php:148
+#: includes/single-listing-sub-navigation.php:177
+#: admin/theme-functions.php:5734
+#: admin/ReduxFramework/theme-options/re7-config.php:4892
+msgid "Location"
+msgstr "Lokacija"
+
+#: includes/single-listing-map.php:36
+msgid "Enter your starting address"
+msgstr "Unesite adresu"
+
+#: includes/single-listing-map.php:52
+msgid "get directions"
+msgstr "dobiti preporuke"
+
+#: includes/single-listing-energy-efficiency.php:24
+#: includes/single-listing-energy-efficiency.php:26
+msgid "Energy Efficiency"
+msgstr "Energetska efikasnost "
+
+#: includes/single-listing-energy-efficiency.php:33
+msgid "Energy Class"
+msgstr "Klasa Potrošnje Energije"
+
+#: includes/single-listing-energy-efficiency.php:36
+msgid "Global Energy Performance"
+msgstr "Globalni Energetski "
+
+#: includes/single-listing-energy-efficiency.php:39
+msgid "Renewable Energy Performance"
+msgstr "Performanse Obnovljivih Izvora Energije "
+
+#: includes/single-listing-energy-efficiency.php:42
+msgid "Building Energy Performance"
+msgstr "Energetske Učinkovitosti Zgrade "
+
+#: includes/single-listing-lead-media-with-contact.php:140
+#: includes/single-listing-contact.php:230
+msgid "Tell me more about this listing"
+msgstr "Reci mi više o tom oglas"
+
+#: includes/single-listing-lead-media-with-contact.php:166
+msgid "Request Information"
+msgstr "Zahtjev Za Informacijama"
+
+#: includes/single-listing-multi-floorplan.php:24
+#: includes/single-listing-multi-floorplan.php:26
+msgid "Floor Plans & Pricing"
+msgstr ""
+
+#: includes/single-listing-multi-floorplan.php:47
+msgid "Size"
+msgstr "Veličina"
+
+#: includes/single-listing-multi-floorplan.php:53
+msgid "Availability"
+msgstr "Na lageru"
+
+#: includes/single-listing-sub-navigation.php:34
+msgid "Description"
+msgstr "Opis"
+
+#: includes/single-listing-sub-navigation.php:43 admin/theme-functions.php:5730
+#: admin/ReduxFramework/theme-options/re7-config.php:4684
+msgid "Details"
+msgstr "Detalji"
+
+#: includes/single-listing-sub-navigation.php:72
+msgid "Floor Plans"
+msgstr "Tlocrti "
+
+#: includes/single-listing-sub-navigation.php:89 admin/theme-functions.php:5732
+#: admin/ReduxFramework/theme-options/re7-config.php:4803
+msgid "Rental Info"
+msgstr "Iznajmljivanje Informacije"
+
+#: includes/single-listing-sub-navigation.php:100
+#: includes/single-listing-ct-idx-pro-info.php:367
+#: includes/single-listing-ct-idx-pro-info.php:369
+#: includes/single-listing-ct-idx-pro-info.php:973
+msgid "Features"
+msgstr "Značajke"
+
+#: includes/single-listing-sub-navigation.php:110
+msgid "Booking"
+msgstr "Rezervacija"
+
+#: includes/single-listing-sub-navigation.php:130
+#: includes/single-listing-video.php:25 includes/single-listing-video.php:27
+msgid "Video"
+msgstr "Video"
+
+#: includes/single-listing-sub-navigation.php:140
+msgid "Tour"
+msgstr "Tour"
+
+#: includes/single-listing-sub-navigation.php:155
+msgid "Nearby"
+msgstr "U blizini"
+
+#: includes/single-listing-sub-navigation.php:176
+msgid "Listing Features"
+msgstr "Značajke Popisa "
+
+#: includes/single-listing-ct-idx-pro-info.php:100
+#: includes/single-listing-ct-idx-pro-info.php:102
+#: includes/single-listing-ct-idx-pro-info.php:721
+msgid "Overview"
+msgstr "Pregled"
+
+#: includes/single-listing-ct-idx-pro-info.php:121
+#: includes/single-listing-ct-idx-pro-info.php:738
+msgid "Sold Date"
+msgstr "Prodaja Datum"
+
+#: includes/single-listing-ct-idx-pro-info.php:143
+#: includes/single-listing-ct-idx-pro-info.php:760
+msgid "Subdivision"
+msgstr "Jedinica"
+
+#: includes/single-listing-ct-idx-pro-info.php:154
+#: includes/single-listing-ct-idx-pro-info.php:771
+msgid "Style"
+msgstr "Stil"
+
+#: includes/single-listing-ct-idx-pro-info.php:165
+#: includes/single-listing-ct-idx-pro-info.php:782
+msgid "Year Built"
+msgstr "Godina Gradnje"
+
+#: includes/single-listing-ct-idx-pro-info.php:176
+#: includes/single-listing-ct-idx-pro-info.php:793
+msgid "Fencing"
+msgstr "Ograde"
+
+#: includes/single-listing-ct-idx-pro-info.php:187
+#: includes/single-listing-ct-idx-pro-info.php:804
+msgid "Topography"
+msgstr "Topografija"
+
+#: includes/single-listing-ct-idx-pro-info.php:198
+#: includes/single-listing-ct-idx-pro-info.php:815
+msgid "Lot Sq Ft"
+msgstr "Puno Kvadratnih. M"
+
+#: includes/single-listing-ct-idx-pro-info.php:209
+#: includes/single-listing-ct-idx-pro-info.php:377
+#: includes/single-listing-ct-idx-pro-info.php:826
+#: includes/single-listing-ct-idx-pro-info.php:979
+msgid "Exterior"
+msgstr "Eksterijer"
+
+#: includes/single-listing-ct-idx-pro-info.php:220
+#: includes/single-listing-ct-idx-pro-info.php:837
+msgid "Roofing"
+msgstr "Uređaj"
+
+#: includes/single-listing-ct-idx-pro-info.php:234
+#: includes/single-listing-ct-idx-pro-info.php:848
+msgid "Structures"
+msgstr "Struktura"
+
+#: includes/single-listing-ct-idx-pro-info.php:245
+#: includes/single-listing-ct-idx-pro-info.php:859
+msgid "Parking/Garage"
+msgstr "Parking/Garaža"
+
+#: includes/single-listing-ct-idx-pro-info.php:256
+#: includes/single-listing-ct-idx-pro-info.php:870
+msgid "Parking/Garage Spaces"
+msgstr "Parking/Garaža"
+
+#: includes/single-listing-ct-idx-pro-info.php:267
+#: includes/single-listing-ct-idx-pro-info.php:881
+msgid "Garage Stalls"
+msgstr "Garaža U Šatorima"
+
+#: includes/single-listing-ct-idx-pro-info.php:278
+#: includes/single-listing-ct-idx-pro-info.php:892
+msgid "Utilities"
+msgstr "Komunalne usluge"
+
+#: includes/single-listing-ct-idx-pro-info.php:289
+#: includes/single-listing-ct-idx-pro-info.php:903
+msgid "Heating"
+msgstr "Grijanje"
+
+#: includes/single-listing-ct-idx-pro-info.php:300
+#: includes/single-listing-ct-idx-pro-info.php:914
+msgid "Primary Heating"
+msgstr "Glavni Grijanje"
+
+#: includes/single-listing-ct-idx-pro-info.php:311
+#: includes/single-listing-ct-idx-pro-info.php:925
+msgid "Heat Source"
+msgstr "Izvor Topline "
+
+#: includes/single-listing-ct-idx-pro-info.php:322
+#: includes/single-listing-ct-idx-pro-info.php:936
+msgid "Cooling"
+msgstr "Hlađenje"
+
+#: includes/single-listing-ct-idx-pro-info.php:333
+#: includes/single-listing-ct-idx-pro-info.php:947
+msgid "Water"
+msgstr "Vode"
+
+#: includes/single-listing-ct-idx-pro-info.php:344
+#: includes/single-listing-ct-idx-pro-info.php:958
+msgid "Sewer/Septic"
+msgstr "Kanalizacija/Septička Jama"
+
+#: includes/single-listing-ct-idx-pro-info.php:388
+#: includes/single-listing-ct-idx-pro-info.php:990
+msgid "Interior"
+msgstr "Unutrašnjost"
+
+#: includes/single-listing-ct-idx-pro-info.php:399
+#: includes/single-listing-ct-idx-pro-info.php:1001
+msgid "Equipment"
+msgstr "Oprema"
+
+#: includes/single-listing-ct-idx-pro-info.php:410
+#: includes/single-listing-ct-idx-pro-info.php:1012
+msgid "Misc"
+msgstr "Mješoviti"
+
+#: includes/single-listing-ct-idx-pro-info.php:421
+#: includes/single-listing-ct-idx-pro-info.php:1023
+msgid "Fireplace"
+msgstr "Komin"
+
+#: includes/single-listing-ct-idx-pro-info.php:432
+#: includes/single-listing-ct-idx-pro-info.php:1034
+msgid "Fireplace Type"
+msgstr "Tip Komin "
+
+#: includes/single-listing-ct-idx-pro-info.php:446
+#: includes/single-listing-ct-idx-pro-info.php:1045
+msgid "Number of Fireplaces"
+msgstr "Broj kamina"
+
+#: includes/single-listing-ct-idx-pro-info.php:457
+#: includes/single-listing-ct-idx-pro-info.php:1056
+msgid "Pool"
+msgstr "Bazen"
+
+#: includes/single-listing-ct-idx-pro-info.php:479
+#: includes/single-listing-ct-idx-pro-info.php:1078
+msgid "Security"
+msgstr "Sigurnost"
+
+#: includes/single-listing-ct-idx-pro-info.php:490
+#: includes/single-listing-ct-idx-pro-info.php:1089
+msgid "Floor Coverings"
+msgstr "Напольными Premaza"
+
+#: includes/single-listing-ct-idx-pro-info.php:533
+#: includes/single-listing-ct-idx-pro-info.php:1120
+msgid "Full Baths"
+msgstr "Puni Kupelji"
+
+#: includes/single-listing-ct-idx-pro-info.php:544
+#: includes/single-listing-ct-idx-pro-info.php:1131
+msgid "3/4 Baths"
+msgstr "Kade 3/4 "
+
+#: includes/single-listing-ct-idx-pro-info.php:558
+#: includes/single-listing-ct-idx-pro-info.php:1142
+msgid "1/2 Baths"
+msgstr "1/2 kupka"
+
+#: includes/single-listing-ct-idx-pro-info.php:569
+#: includes/single-listing-ct-idx-pro-info.php:1153
+msgid "Basement"
+msgstr "Podrum"
+
+#: includes/single-listing-ct-idx-pro-info.php:591
+#: includes/single-listing-ct-idx-pro-info.php:593
+#: includes/single-listing-ct-idx-pro-info.php:1167
+msgid "Schools"
+msgstr "Škole"
+
+#: includes/single-listing-ct-idx-pro-info.php:612
+#: includes/single-listing-ct-idx-pro-info.php:1184
+msgid "Elementary"
+msgstr "Početna"
+
+#: includes/single-listing-ct-idx-pro-info.php:626
+#: includes/single-listing-ct-idx-pro-info.php:1195
+msgid "Middle"
+msgstr "Srednji"
+
+#: includes/single-listing-ct-idx-pro-info.php:637
+#: includes/single-listing-ct-idx-pro-info.php:1206
+msgid "High"
+msgstr "Visoka"
+
+#: includes/single-listing-ct-idx-pro-info.php:659
+#: includes/single-listing-ct-idx-pro-info.php:661
+#: includes/single-listing-ct-idx-pro-info.php:669
+#: includes/single-listing-ct-idx-pro-info.php:1220
+#: includes/single-listing-ct-idx-pro-info.php:1226
+msgid "HOA"
+msgstr "HOA"
+
+#: includes/single-listing-ct-idx-pro-info.php:680
+#: includes/single-listing-ct-idx-pro-info.php:1237
+msgid "HOA Fee Due"
+msgstr "HOA naknada za"
+
+#: includes/single-listing-ct-idx-pro-info.php:691
+#: includes/single-listing-ct-idx-pro-info.php:1248
+msgid "HOA Includes"
+msgstr "HOA uključuje"
+
+#: includes/single-listing-contact.php:52
+msgid "You Must be Registered to View Agent Details"
+msgstr "Morate biti prijavljeni da biste pregledali pojedinosti o agentu "
+
+#: includes/single-listing-contact.php:120
+msgid "Agent #"
+msgstr ""
+
+#: includes/single-listing-contact.php:217 includes/single-listing-home.php:265
+msgid "Request More Information"
+msgstr "Zatražiti Dodatne Informacije"
+
+#: includes/single-listing-contact.php:271 includes/single-listing-home.php:296
+msgid "Co-listing Agent"
+msgstr "Zajedno s agentom za nekretnine"
+
+#: includes/single-listing-yelp.php:25 includes/single-listing-yelp.php:28
+msgid "powered by "
+msgstr "prehrana od "
+
+#: includes/single-listing-yelp.php:26 includes/single-listing-yelp.php:29
+#: includes/single-listing-google-places.php:23
+#: admin/ReduxFramework/theme-options/re7-config.php:4155
+msgid "What's Nearby?"
+msgstr "Da je u blizini?"
+
+#: includes/single-listing-yelp.php:50
+#: includes/single-listing-google-places.php:66
+msgid "Restaurants"
+msgstr "Restorana"
+
+#: includes/single-listing-yelp.php:58
+#: includes/single-listing-google-places.php:75
+msgid "Coffee Shops"
+msgstr "Kafići"
+
+#: includes/single-listing-yelp.php:66
+msgid "Grocery"
+msgstr "Trgovine"
+
+#: includes/single-listing-yelp.php:74
+#: includes/single-listing-google-places.php:93
+msgid "Education"
+msgstr "Obrazovanje"
+
+#: includes/single-listing-yelp.php:82
+msgid "Bank"
+msgstr "Banka"
+
+#: includes/single-listing-yelp.php:90
+#: includes/single-listing-google-places.php:111
+msgid "Bars"
+msgstr "Barovi"
+
+#: includes/single-listing-yelp.php:98
+#: includes/single-listing-google-places.php:120
+msgid "Hospitals"
+msgstr "Bolnice"
+
+#: includes/single-listing-yelp.php:106
+#: includes/single-listing-google-places.php:129
+msgid "Gas Stations"
+msgstr "BENZINSKE postaje"
+
+#: includes/single-listing-yelp.php:114
+#: includes/single-listing-google-places.php:138
+msgid "Transit Stations"
+msgstr "Tranzita"
+
+#: includes/single-listing-yelp.php:122
+#: includes/single-listing-google-places.php:147
+msgid "Convenience Stores"
+msgstr "Trgovine"
+
+#: includes/single-listing-yelp.php:130
+#: includes/single-listing-google-places.php:84
+msgid "Stores"
+msgstr "Trgovine"
+
+#: includes/single-listing-yelp.php:138
+#: includes/single-listing-google-places.php:156
+msgid "Shopping Malls"
+msgstr "Trgovački Centri"
+
+#: includes/single-listing-yelp.php:146
+#: includes/single-listing-google-places.php:165
+msgid "Veterinary Care"
+msgstr "Veterinarska Pomoć"
+
+#: includes/single-listing-yelp.php:154
+#: includes/single-listing-google-places.php:174
+msgid "Pet Store"
+msgstr "Pet shop"
+
+#: includes/single-listing-yelp.php:162
+#: includes/single-listing-google-places.php:183
+msgid "Park"
+msgstr "Park"
+
+#: includes/single-listing-yelp.php:176 admin/theme-functions.php:8025
+msgid "You need to setup the Yelp Fusion API."
+msgstr "Potrebno prilagoditi zavijanje API za sintezu."
+
+#: includes/single-listing-yelp.php:177 admin/theme-functions.php:8026
+msgid "Go into Admin > Real Estate 7 Options > What's Nearby? > Create App"
+msgstr ""
+
+#: includes/single-listing-home.php:28 includes/featured-listings.php:67
+#: includes/featured-listings.php:76 includes/home-listings-carousel.php:44
+#: includes/home-listings-carousel.php:53
+msgid "featured"
+msgstr "podnosi"
+
+#: includes/single-listing-home.php:74 includes/single-listing-header.php:33
+#: includes/single-listing-header.php:87
+msgid "Co-listing"
+msgstr "K-broj"
+
+#: includes/single-listing-home.php:135
+#: includes/single-listing-rental-info.php:54
+msgid "Prices"
+msgstr "Cijene"
+
+#: includes/single-listing-home.php:155
+#: includes/single-listing-booking-calendar.php:19
+#: includes/single-listing-booking-calendar.php:21
+msgid "Book this listing"
+msgstr "Rezervirajte ovaj popis"
+
+#: includes/single-listing-home.php:269 includes/agent-contact-modal.php:21
+#: includes/widgets/ct-widget-listingscontact.php:31
+msgid "Tell me more about this property"
+msgstr "Reci mi više o ovoj nekretnina"
+
+#: includes/single-listing-home.php:365
+msgid "Share This Listing"
+msgstr "Podijelite Ovaj Popis"
+
+#: includes/advanced-search.php:180 includes/header-advanced-search.php:299
+#: includes/header-advanced-search.php:758
+#: includes/widgets/ct-widget-listingssearch.php:336
+msgid "From"
+msgstr "Od"
+
+#: includes/advanced-search.php:189 includes/header-advanced-search.php:308
+#: includes/header-advanced-search.php:770
+#: includes/widgets/ct-widget-listingssearch.php:345
+msgid "To"
+msgstr "Za"
+
+#: includes/advanced-search.php:217 includes/advanced-search.php:218
+#: includes/header-advanced-search.php:411
+#: includes/header-advanced-search.php:412
+#: includes/header-advanced-search.php:880
+#: includes/header-advanced-search.php:881
+#: includes/widgets/ct-widget-listingssearch.php:411
+#: includes/widgets/ct-widget-listingssearch.php:412
+msgid "MLS ID"
+msgstr "МЛС EID"
+
+#: includes/advanced-search.php:239 includes/header-advanced-search.php:435
+#: includes/header-advanced-search.php:902
+#: includes/header-advanced-search.php:903
+#: includes/home-hero-advanced-search.php:21
+msgid "Keyword"
+msgstr "Web stranice"
+
+#: includes/advanced-search.php:240 includes/header-advanced-search.php:436
+#: includes/home-hero-advanced-search.php:22
+msgid "Street, City, State, Zip or keyword"
+msgstr "Ulica, grad, država, poštanski broj ili ključne riječi"
+
+#: includes/advanced-search.php:256
+#: includes/widgets/ct-widget-listingssearch.php:442
+msgid "More Search Options"
+msgstr "Dodatne Postavke Pretraživanje "
+
+#: includes/single-listing-propinfo.php:18
+msgid "MLS #"
+msgstr ""
+
+#: includes/single-listing-propinfo.php:20
+msgid "Property ID #"
+msgstr ""
+
+#: includes/single-listing-rental-info.php:27
+#: includes/single-listing-rental-info.php:29
+msgid "Rental Information"
+msgstr "Informacije Za Iznajmljivanje"
+
+#: includes/post-social.php:16 includes/post-social.php:17
+#: includes/post-social.php:18 admin/theme-functions.php:8566
+#: admin/theme-functions.php:8567 admin/theme-functions.php:8568
+msgid "Check out this great article on"
+msgstr "Provjeriti ovaj veliki članak na"
+
+#: includes/single-listing-google-places.php:102
+msgid "Banks"
+msgstr "Banke"
+
+#: includes/single-listing-google-places.php:196
+msgid "Google Places/What's Nearby? Error."
+msgstr "Google mjesta/ono što je u blizini? Greška."
+
+#: includes/single-listing-google-places.php:197
+msgid ""
+"You need to create an API key go into Admin > Real Estate 7 Options > Google "
+"Maps > API Key, then setup the options via Real Estate 7 Options > \"What's "
+"Nearby?\" panel."
+msgstr ""
+
+#: includes/featured-listings.php:31 includes/featured-listings.php:33
+msgid "View All"
+msgstr "Gledati Sve"
+
+#: includes/single-listing-virtual-tour.php:24
+#: includes/single-listing-virtual-tour.php:26
+msgid "Virtual Tour"
+msgstr "Virtualni Obilazak"
+
+#: includes/header-advanced-search.php:166
+#: includes/header-advanced-search.php:601
+#: includes/widgets/ct-widget-listingssearch.php:202
+msgid "Beds +"
+msgstr "Kreveta +"
+
+#: includes/header-advanced-search.php:170
+#: includes/header-advanced-search.php:605
+#: includes/widgets/ct-widget-listingssearch.php:206
+msgid "All Rooms"
+msgstr "Sve Sobe"
+
+#: includes/header-advanced-search.php:172
+#: includes/header-advanced-search.php:607
+#: includes/widgets/ct-widget-listingssearch.php:208
+msgid "All Bedrooms"
+msgstr "Sve Spavaće Sobe"
+
+#: includes/header-advanced-search.php:174
+#: includes/header-advanced-search.php:609
+#: includes/widgets/ct-widget-listingssearch.php:210
+msgid "All Beds"
+msgstr "Svi Kreveti"
+
+#: includes/header-advanced-search.php:176
+#: includes/header-advanced-search.php:611
+#: includes/widgets/ct-widget-listingssearch.php:212
+msgid "All Bed"
+msgstr "Svi Kreveti"
+
+#: includes/header-advanced-search.php:192
+#: includes/header-advanced-search.php:627
+#: includes/widgets/ct-widget-listingssearch.php:228
+msgid "Baths +"
+msgstr "Kupka +"
+
+#: includes/header-advanced-search.php:196
+#: includes/header-advanced-search.php:631
+#: includes/widgets/ct-widget-listingssearch.php:232
+msgid "All Bathrooms"
+msgstr "U Svim Kupaonicama"
+
+#: includes/header-advanced-search.php:198
+#: includes/header-advanced-search.php:633
+#: includes/widgets/ct-widget-listingssearch.php:234
+msgid "All Baths"
+msgstr "Sva Kupatila"
+
+#: includes/header-advanced-search.php:200
+#: includes/header-advanced-search.php:635
+#: includes/widgets/ct-widget-listingssearch.php:236
+msgid "All Bath"
+msgstr "Sva Kupatila"
+
+#: includes/header-advanced-search.php:226 admin/theme-functions.php:7496
+msgid "All Statuses"
+msgstr "Svi Statusi"
+
+#: includes/header-advanced-search.php:282
+#: includes/header-advanced-search.php:741
+msgid "Price range:"
+msgstr "Raspon cijena:"
+
+#: includes/header-advanced-search.php:284
+#: includes/header-advanced-search.php:320
+#: includes/header-advanced-search.php:357
+#: includes/header-advanced-search.php:743
+#: includes/header-advanced-search.php:782
+#: includes/header-advanced-search.php:821
+#: includes/widgets/ct-widget-listingbooktour.php:199
+msgid "to"
+msgstr "za"
+
+#: includes/header-advanced-search.php:318
+#: includes/header-advanced-search.php:780
+msgid "Size range:"
+msgstr "Raspon veličina:"
+
+#: includes/header-advanced-search.php:355
+#: includes/header-advanced-search.php:819
+msgid "Lot size range:"
+msgstr "Puno raspon veličina:"
+
+#: includes/header-advanced-search.php:372
+msgid "Year From"
+msgstr "Godine"
+
+#: includes/header-advanced-search.php:374
+#: includes/header-advanced-search.php:837
+#: includes/header-advanced-search.php:839
+msgid "Year Min"
+msgstr "Min Godina"
+
+#: includes/header-advanced-search.php:391
+#: includes/header-advanced-search.php:860
+msgid "Year To"
+msgstr "Godine "
+
+#: includes/header-advanced-search.php:393
+#: includes/header-advanced-search.php:862
+msgid "Year Max"
+msgstr "Godine Maksimalno"
+
+#: includes/header-advanced-search.php:438
+#: includes/home-hero-advanced-search.php:24
+msgid "Searching..."
+msgstr "Traži..."
+
+#: includes/header-advanced-search.php:461
+#: includes/header-advanced-search.php:493
+msgid "More"
+msgstr "Više"
+
+#: includes/header-advanced-search.php:477
+msgid "Enter a street address or keyword"
+msgstr "Unesite adresu ili ključne riječi"
+
+#: includes/header-advanced-search.php:681
+msgid "Popular Features"
+msgstr "Popularni Značajke"
+
+#: includes/header-advanced-search.php:691
+msgid "Addtional Features"
+msgstr "Značajke "
+
+#: includes/home-listings-count.php:32
+msgid "Homes For Sale"
+msgstr "Kuće Na Prodaju"
+
+#: includes/home-listings-count.php:84
+msgid "Recently Sold"
+msgstr "Nedavno Prodao"
+
+#: includes/home-listings-count.php:110
+msgid "Reduced"
+msgstr "Smanjuje"
+
+#: includes/home-listings-count.php:136
+msgid "For Rent"
+msgstr "Najam"
+
+#: includes/home-listings-count.php:162
+msgid "Leased"
+msgstr "Iznajmljuje"
+
+#: includes/home-listings-count.php:214
+msgid "New Additions"
+msgstr "Novi Dodatak"
+
+#: includes/home-listings-count.php:240
+msgid "Special Offers"
+msgstr "Posebne Ponude"
+
+#: includes/single-listing-sub-listings.php:23
+msgid "Other Listings in Neighborhood"
+msgstr "Ostale ponude u području"
+
+#: includes/single-listing-sub-listings.php:25
+msgid "Other Listings in Suburb"
+msgstr "Ostale ponude u predgrađu"
+
+#: includes/single-listing-sub-listings.php:27
+msgid "Other Listings in District"
+msgstr "Ostale ponude u području"
+
+#: includes/single-listing-sub-listings.php:29
+msgid "Other Listings in School District"
+msgstr "Ostali oglasi u okrug"
+
+#: includes/single-listing-sub-listings.php:31
+msgid "Other Listings in Building"
+msgstr "Ostali oglasi u izgradnju"
+
+#: includes/single-listing-sub-listings.php:33
+msgid "Other Listings in Borough"
+msgstr "Ostali oglasi u Borough"
+
+#: includes/single-listing-sub-listings.php:35
+msgid "Other Listings in Community"
+msgstr "Ostale ponude u zajednici"
+
+#: admin/merlin-config.php:104 admin/merlin-config.php:120
+#: admin/merlin-config.php:136 admin/merlin-config.php:152
+#: admin/merlin-config.php:168 admin/merlin-config.php:184
+#: admin/merlin-config.php:200 admin/merlin-config.php:216
+#: admin/merlin-config.php:232 admin/merlin-config.php:248
+#: admin/merlin-config.php:264 admin/merlin-config.php:280
+#: admin/merlin-config.php:296 admin/merlin-config.php:312
+#: admin/merlin-config.php:328 admin/merlin-config.php:344
+#: admin/merlin-config.php:360
+msgid "A special note for this import."
+msgstr "Posebnu pozornost na ovu uvoz."
+
+#: admin/profile-fields.php:39
+msgid "Social profile information"
+msgstr "Socijalni profil informacije"
+
+#: admin/profile-fields.php:43
+msgid "Twitter Username"
+msgstr "Twitter Korisničko Ime "
+
+#: admin/profile-fields.php:49
+msgid "Facebook URL"
+msgstr "URL Facebook "
+
+#: admin/profile-fields.php:55
+msgid "Instagram URL"
+msgstr "Instagram URL"
+
+#: admin/profile-fields.php:61
+msgid "LinkedIn URL"
+msgstr "URL-u i LinkedIn "
+
+#: admin/profile-fields.php:67
+msgid "YouTube URL"
+msgstr "Link na YouTube "
+
+#: admin/profile-fields.php:76
+msgid "Extra profile information"
+msgstr "Više informacija profil "
+
+#: admin/profile-fields.php:88
+msgid "Agent Order"
+msgstr "Naručivanje Agent "
+
+#: admin/profile-fields.php:91
+msgid ""
+"If user is an agent select the order you would like them displayed on the "
+"agents page, e.g. 1, 2, 3, etc&hellip; NOTE: You must also set Real Estate 7 "
+"Options > Agents > Manually Order Agents? > to Yes, otherwise the ordering "
+"won't be applied."
+msgstr ""
+
+#: admin/profile-fields.php:96
+msgid "Profile Image"
+msgstr "Sliku Profila "
+
+#: admin/profile-fields.php:106
+msgid ""
+"Please upload a profile picture here, if none is chosen a default image will "
+"be used."
+msgstr ""
+"Molimo preuzmite ovdje fotografiju, ako ne odaberete slike po defaultu će se "
+"koristiti."
+
+#: admin/profile-fields.php:111
+msgid "Mobile #"
+msgstr ""
+
+#: admin/profile-fields.php:118
+msgid "Fax #"
+msgstr ""
+
+#: admin/profile-fields.php:125
+msgid "Title"
+msgstr "Naziv"
+
+#: admin/profile-fields.php:131
+msgid "Tagline"
+msgstr "Slogan"
+
+#: admin/profile-fields.php:137
+msgid "Agent License #"
+msgstr ""
+
+#: admin/profile-fields.php:140
+msgid "Add the agents license number here."
+msgstr "Dodaj agenata registarskih ovdje."
+
+#: admin/profile-fields.php:148
+msgid "Agent Testimonials"
+msgstr "Agent Naši"
+
+#: admin/profile-fields.php:152
+msgid ""
+"If this user is marked as an agent (\"Show on agents page\" option above) "
+"use this area to add client testimonials."
+msgstr ""
+"Ako ovaj korisnik je označen kao agent (\"pokazati veći izbor stranicu "
+"agenti\") koristite ovaj prostor za dodavanje naši kupci."
+
+#: admin/profile-fields.php:166
+msgid "Office Information"
+msgstr "Servisne Informacije"
+
+#: admin/profile-fields.php:170
+msgid "Personal Logo"
+msgstr "Osobni Logotip"
+
+#: admin/profile-fields.php:180
+msgid ""
+"Upload your personal logo here, or if you choose to associate a Brokerage "
+"below that logo will be used instead."
+msgstr ""
+"Preuzmite vaš logo ovdje, ili ako se odlučite povezati posredovanju u "
+"nastavku, da je logotip će se koristiti umjesto."
+
+#: admin/profile-fields.php:190
+msgid "Select a Brokerage"
+msgstr "Odaberite brokerske"
+
+#: admin/profile-fields.php:198
+msgid ""
+"Assign a brokerage here, these are pulled from the Brokerage custom post "
+"type."
+msgstr ""
+"Dodijeliti brokerske evo, oni su se povlačili iz brokerske korisničko vrstu "
+"zapisa."
+
+#: admin/profile-fields.php:202
+msgid "Brokerage License #"
+msgstr ""
+
+#: admin/profile-fields.php:205
+msgid "Add the brokerage license number here."
+msgstr "Dodaj brokerska broj licence ovdje."
+
+#: admin/profile-fields.php:209
+msgid "Office #"
+msgstr ""
+
+#: admin/profile-fields.php:227
+msgid "State or Province"
+msgstr "Država ili provincija"
+
+#: admin/profile-fields.php:233 admin/theme-functions.php:7256
+msgid "Postal Code"
+msgstr "Poštanski Broj"
+
+#: admin/theme-functions.php:45
+msgid "Please Update Your PHP Version to the Recommended 5.6+"
+msgstr "Molimo nadogradite PHP do preporučenoj 5.6+"
+
+#: admin/theme-functions.php:46
+msgid ""
+"Otherwise some of the Theme Functions and Custom Visual Composer modules "
+"won't be available for use, or cause issues with your site display."
+msgstr ""
+"Inače, neke od teme funkcije i posebni moduli vizualni skladatelj neće biti "
+"dostupan za korištenje, ili uzrokovati probleme s prikazom stranice."
+
+#: admin/theme-functions.php:47
+msgid ""
+"Its a quick and simple process (no more than a couple minutes), please refer "
+"to this knowledgebase article below."
+msgstr ""
+"Njegov brz i jednostavan proces (ne više od par minuta), molimo vas, "
+"pogledajte ovaj članak baze znanja."
+
+#: admin/theme-functions.php:48
+msgid "Minimum PHP Version 5.6+ and How to Update to It"
+msgstr "Minimalna verzija PHP-5.6+ i kako ga nadograditi"
+
+#: admin/theme-functions.php:49 admin/theme-functions.php:91
+#: admin/theme-functions.php:133 admin/theme-functions.php:175
+msgid "Dismiss this notice"
+msgstr "Zatvori ovo je obavijest"
+
+#: admin/theme-functions.php:89
+msgid "WP Favorite Posts Needs to be Setup"
+msgstr "WР omiljene poruke mora biti konfiguriran"
+
+#: admin/theme-functions.php:90 admin/theme-functions.php:132
+#: admin/theme-functions.php:174
+msgid "Just takes a few seconds to setup the plugin properly please see the "
+msgstr "Traje samo nekoliko sekundi da se prilagodi čep pravilno gledate "
+
+#: admin/theme-functions.php:90 admin/theme-functions.php:132
+#: admin/theme-functions.php:174
+msgid "documentation"
+msgstr "dokumentacija"
+
+#: admin/theme-functions.php:131
+msgid "Contempo Compare Listings Needs to be Setup"
+msgstr "Контемпо usporediti potrebe oglasi trebaju biti Postavke"
+
+#: admin/theme-functions.php:173
+msgid "WordPress Social Login Needs to be Setup"
+msgstr "WordPress socijalne za prijavu mora biti konfiguriran"
+
+#: admin/theme-functions.php:398
+msgid "Listing Large"
+msgstr "Popis Velike"
+
+#: admin/theme-functions.php:409
+msgid "Primary Left Menu"
+msgstr "Glavni Izbornik S Lijeve Strane"
+
+#: admin/theme-functions.php:410
+msgid "Primary Right Menu"
+msgstr "Primarni Desnom Izborniku"
+
+#: admin/theme-functions.php:411
+msgid "Primary Full Width"
+msgstr "Primarni Puna Širina"
+
+#: admin/theme-functions.php:412
+msgid "Footer Menu"
+msgstr "Meni U Podnožje "
+
+#: admin/theme-functions.php:436
+msgid "Menu doesn't exist, please create one by clicking here."
+msgstr "Meni ne postoji, napravite ga tako da kliknete ovdje ne."
+
+#: admin/theme-functions.php:1231
+msgid "Open Map"
+msgstr "Otvori Kartu"
+
+#: admin/theme-functions.php:1232
+msgid "Close Search"
+msgstr "Zatvori Traži"
+
+#: admin/theme-functions.php:1233
+msgid "Open Search"
+msgstr "Otvorite Traži"
+
+#: admin/theme-functions.php:1235
+msgid "Open"
+msgstr "Otvori"
+
+#: admin/theme-functions.php:1236
+msgid "Search Saved"
+msgstr "Traži Spasila"
+
+#: admin/theme-functions.php:1248 admin/theme-functions.php:7464
+msgid "All Towns"
+msgstr "Svi Gradovi"
+
+#: admin/theme-functions.php:1250 admin/theme-functions.php:7466
+msgid "All Villages"
+msgstr "Sve Selo"
+
+#: admin/theme-functions.php:1252 admin/theme-functions.php:7468
+msgid "All Cities"
+msgstr "Svi Gradovi"
+
+#: admin/theme-functions.php:1256 admin/theme-functions.php:7470
+msgid "All Areas"
+msgstr "Cijelom"
+
+#: admin/theme-functions.php:1258 admin/theme-functions.php:7472
+#: admin/theme-functions.php:7506
+msgid "All Suburbs"
+msgstr "Sve Predgrađa"
+
+#: admin/theme-functions.php:1260 admin/theme-functions.php:7474
+msgid "All Provinces"
+msgstr "Sve Pokrajine"
+
+#: admin/theme-functions.php:1262 admin/theme-functions.php:7476
+msgid "All Regions"
+msgstr "Sve Regije"
+
+#: admin/theme-functions.php:1264 admin/theme-functions.php:7478
+msgid "All Parishes"
+msgstr "Sve Župe"
+
+#: admin/theme-functions.php:1266 admin/theme-functions.php:7480
+msgid "All States"
+msgstr "Sve Države"
+
+#: admin/theme-functions.php:1270 admin/theme-functions.php:7514
+msgid "All Postcodes"
+msgstr "Svi Poštanski Brojevi"
+
+#: admin/theme-functions.php:1272 admin/theme-functions.php:7516
+msgid "All Postal Codes"
+msgstr "Sve Poštanske Kodove"
+
+#: admin/theme-functions.php:1274 admin/theme-functions.php:7518
+msgid "All Zipcodes"
+msgstr "Svi Poštanski Brojevi"
+
+#: admin/theme-functions.php:1289
+msgid "* This field is required"
+msgstr ""
+
+#: admin/theme-functions.php:1290
+msgid "* Please select an option"
+msgstr ""
+
+#: admin/theme-functions.php:1291
+msgid "* This checkbox is required"
+msgstr ""
+
+#: admin/theme-functions.php:1292
+msgid "* Invalid phone number"
+msgstr ""
+
+#: admin/theme-functions.php:1293
+msgid "* Invalid email address"
+msgstr ""
+
+#: admin/theme-functions.php:1294
+msgid "* Invalid date, must be in YYYY-MM-DD format"
+msgstr ""
+
+#: admin/theme-functions.php:1295
+msgid "* Numbers only"
+msgstr ""
+
+#: admin/theme-functions.php:1296
+msgid "* No special caracters allowed"
+msgstr ""
+
+#: admin/theme-functions.php:1297
+msgid "* Letters only"
+msgstr ""
+
+#: admin/theme-functions.php:1353 admin/theme-functions.php:1369
+msgid "Read more"
+msgstr "Pročitajte više"
+
+#: admin/theme-functions.php:1360
+msgid "Collapse"
+msgstr "Kolaps"
+
+#: admin/theme-functions.php:2495 admin/theme-functions.php:4919
+msgid "Buyer"
+msgstr "Kupac"
+
+#: admin/theme-functions.php:2507 admin/theme-functions.php:4920
+msgid "Seller"
+msgstr "Prodavatelj"
+
+#: admin/theme-functions.php:2545
+msgid "Broker"
+msgstr "Broker"
+
+#: admin/theme-functions.php:2731 admin/theme-functions.php:2795
+#: admin/theme-functions.php:2858
+msgid "Beds: "
+msgstr "Kreveta: "
+
+#: admin/theme-functions.php:2732 admin/theme-functions.php:2796
+#: admin/theme-functions.php:2859
+msgid "Baths: "
+msgstr "Kupke: "
+
+#: admin/theme-functions.php:2733 admin/theme-functions.php:2797
+#: admin/theme-functions.php:2860
+msgid "Sq Ft: "
+msgstr "Kv. M: "
+
+#: admin/theme-functions.php:2742 admin/theme-functions.php:2806
+#: admin/theme-functions.php:2868
+msgid "1 Listing found"
+msgstr "1 oglas pronašli"
+
+#: admin/theme-functions.php:2744 admin/theme-functions.php:2808
+#: admin/theme-functions.php:2870
+msgid " Listings found"
+msgstr " Oglasi našli"
+
+#: admin/theme-functions.php:2875
+msgid "No Listings Found"
+msgstr "Nema Pronađenih Oglasa"
+
+#: admin/theme-functions.php:3112
+msgid "Sort By"
+msgstr "Sortiraj Po"
+
+#: admin/theme-functions.php:3113
+msgid "Default Order"
+msgstr "Redoslijed Zadane "
+
+#: admin/theme-functions.php:3114
+msgid "Price - Low to High"
+msgstr "Cijena - od niske do visoke"
+
+#: admin/theme-functions.php:3115
+msgid "Price - High to Low"
+msgstr "Cijena - od visoke do niske"
+
+#: admin/theme-functions.php:3116
+msgid "Date - Old to New"
+msgstr "Datum - od najstarijeg do najnovijeg"
+
+#: admin/theme-functions.php:3117
+msgid "Date - New to Old"
+msgstr "Datum - iz novih u stare"
+
+#: admin/theme-functions.php:3398
+msgid "New submission in"
+msgstr "Nove spoznaje u"
+
+#: admin/theme-functions.php:3400
+msgid "Hi!"
+msgstr "Bok!"
+
+#: admin/theme-functions.php:3401
+msgid "We have a new submission in"
+msgstr "Imamo novu ideju u"
+
+#: admin/theme-functions.php:3402
+msgid "Check it out"
+msgstr "Зацените"
+
+#: admin/theme-functions.php:3515 admin/theme-functions.php:3590
+#: admin/theme-functions.php:3691 admin/theme-functions.php:3806
+#: admin/theme-functions.php:3927 admin/theme-functions.php:4018
+#: admin/theme-functions.php:4130
+msgid "You need to setup the Google Maps API."
+msgstr "Trebate postavljanje Google maps API."
+
+#: admin/theme-functions.php:3516 admin/theme-functions.php:3591
+#: admin/theme-functions.php:3692 admin/theme-functions.php:3807
+#: admin/theme-functions.php:3928 admin/theme-functions.php:4019
+#: admin/theme-functions.php:4131
+msgid "Go into Admin > Real Estate 7 Options > Google Maps"
+msgstr ""
+
+#: admin/theme-functions.php:4767
+msgid "User registration is not enabled"
+msgstr "Registracija korisnika nije uključena"
+
+#: admin/theme-functions.php:4797
+msgid "Log in"
+msgstr "Prijavite se u"
+
+#: admin/theme-functions.php:4799
+msgid "Don't have an account?"
+msgstr "Nemate korisnički račun?"
+
+#: admin/theme-functions.php:4799
+msgid "Create your account,"
+msgstr "Stvoriti račun,"
+
+#: admin/theme-functions.php:4799
+msgid "it takes less than a minute."
+msgstr "to traje manje od minute."
+
+#: admin/theme-functions.php:4814 admin/theme-functions.php:4927
+msgid "Password"
+msgstr "Lozinka"
+
+#: admin/theme-functions.php:4829
+msgid "Lost your password?"
+msgstr "Izgubili vašu lozinku?"
+
+#: admin/theme-functions.php:4839
+msgid "Lost Password?"
+msgstr "Zaboravili Ste Lozinku?"
+
+#: admin/theme-functions.php:4840
+msgid ""
+"Enter your email address and we'll send you a link you can use to pick a new "
+"password."
+msgstr ""
+"Unesite svoju adresu e-pošte, a mi ćemo vam poslati link koji možete "
+"koristiti da izaberete novu lozinku."
+
+#: admin/theme-functions.php:4842
+msgid "Username or Email"
+msgstr "Korisničko ime ili e-mail adresu"
+
+#: admin/theme-functions.php:4844
+msgid "Get New Password"
+msgstr "Da Biste Dobili Novu Lozinku"
+
+#: admin/theme-functions.php:4880
+msgid "Create an account"
+msgstr "Stvaranje računa"
+
+#: admin/theme-functions.php:4881
+msgid "It takes less than a minute. If you already have an account "
+msgstr "To traje manje od minute. Ako već imate račun "
+
+#: admin/theme-functions.php:4881
+msgid "login"
+msgstr "prijava"
+
+#: admin/theme-functions.php:4916
+msgid "Buyer, Seller or Agent?"
+msgstr "Kupac, prodavač ili zastupnik?"
+
+#: admin/theme-functions.php:4918
+msgid "Please choose"
+msgstr "Molimo odaberite"
+
+#: admin/theme-functions.php:4932
+msgid "Password Again"
+msgstr "Lozinku Još Jednom"
+
+#: admin/theme-functions.php:4938
+msgid "I accept the"
+msgstr "Prihvaćam"
+
+#: admin/theme-functions.php:4938
+msgid "Terms &amp; Conditions"
+msgstr ""
+
+#: admin/theme-functions.php:4943
+msgid "Register"
+msgstr "Prijavite se"
+
+#: admin/theme-functions.php:4978
+msgid "Username already taken"
+msgstr "Korisničko ime već zauzeto"
+
+#: admin/theme-functions.php:4982 admin/theme-functions.php:5170
+#: admin/theme-functions.php:5217
+msgid "Invalid username"
+msgstr "Neispravno korisničko ime"
+
+#: admin/theme-functions.php:4986
+msgid "Please enter a username"
+msgstr "Molimo unesite korisničko ime"
+
+#: admin/theme-functions.php:4990
+msgid "Invalid email"
+msgstr "Pogrešnu adresu e-pošte"
+
+#: admin/theme-functions.php:4994
+msgid "Email already registered"
+msgstr "E-mail adresa je već registrirana"
+
+#: admin/theme-functions.php:4998 admin/theme-functions.php:5175
+#: admin/theme-functions.php:5222
+msgid "Please enter a password"
+msgstr "Molimo vas, unesite lozinku"
+
+#: admin/theme-functions.php:5002
+msgid "Passwords do not match"
+msgstr "Lozinke se ne podudaraju"
+
+#: admin/theme-functions.php:5006
+msgid "Terms & Conditions must be checked"
+msgstr ""
+
+#: admin/theme-functions.php:5181 admin/theme-functions.php:5228
+msgid "Incorrect password"
+msgstr "Pogrešna lozinka"
+
+#: admin/theme-functions.php:5262
+msgid "Error"
+msgstr "Greška"
+
+#: admin/theme-functions.php:5528 admin/theme-functions.php:5532
+msgid "Featured Image"
+msgstr "Popularne Slike"
+
+#: admin/theme-functions.php:5530
+msgid "Brokerage Logo"
+msgstr "Brokerske Logo"
+
+#: admin/theme-functions.php:5620 admin/theme-functions.php:5647
+msgid "User hasn't chosen a package yet…"
+msgstr "Korisnik još nije izabrao paket..."
+
+#: admin/theme-functions.php:5639
+msgid "Limit Reached"
+msgstr "Dostignuto Je Ograničenje"
+
+#: admin/theme-functions.php:5652
+msgid "Current Package Details"
+msgstr "Trenutni Paket Detalje "
+
+#: admin/theme-functions.php:5653
+msgid "Overview of users existing membership & package information."
+msgstr ""
+
+#: admin/theme-functions.php:5655
+msgid "Active"
+msgstr "Aktivan"
+
+#: admin/theme-functions.php:5658
+msgid "Package Name:"
+msgstr "Naziv Paketa:"
+
+#: admin/theme-functions.php:5659
+msgid "Listings Remaining:"
+msgstr "Preostale Oglase:"
+
+#: admin/theme-functions.php:5660
+msgid "Featured Listings Remaining:"
+msgstr "Favorite Liste Preostalih:"
+
+#: admin/theme-functions.php:5693
+msgid "Enter the listing street address here"
+msgstr "Unesite popis adresa ovdje"
+
+#: admin/theme-functions.php:5709
+msgid ""
+"NOTE: The Listing Title needs to be <strong>only the Street Address</strong> "
+"(e.g. 123 Somewhere St.) otherwise the mapping won't work properly, use the "
+"Alternate Title field below for Listing Names, etc…the Alt Title field will "
+"override the street address on the front end of your site."
+msgstr ""
+
+#: admin/theme-functions.php:5728
+#: admin/ReduxFramework/theme-options/re7-config.php:4595
+msgid "Price & Description"
+msgstr ""
+
+#: admin/theme-functions.php:5729
+msgid "Photos & Files"
+msgstr ""
+
+#: admin/theme-functions.php:5847
+msgid "Add to Favorites"
+msgstr "Dodaj u favorite"
+
+#: admin/theme-functions.php:5852
+msgid "Favorite"
+msgstr "Omiljene"
+
+#: admin/theme-functions.php:5967
+msgid " Photo"
+msgstr " Foto"
+
+#: admin/theme-functions.php:5969
+msgid " Photos"
+msgstr " Foto"
+
+#: admin/theme-functions.php:6028
+msgid "Remove"
+msgstr "Izbrisati"
+
+#: admin/theme-functions.php:6227
+msgid "Rating"
+msgstr "Rejting"
+
+#: admin/theme-functions.php:6244
+msgid "Guests"
+msgstr "Gosti"
+
+#: admin/theme-functions.php:6259 admin/theme-functions.php:6445
+msgid "Min Stay"
+msgstr "Minimalni Boravak"
+
+#: admin/theme-functions.php:6310
+msgid "Price Per"
+msgstr "Cijena Po"
+
+#: admin/theme-functions.php:6351
+msgid "Walk Score&reg;"
+msgstr ""
+
+#: admin/theme-functions.php:6412
+msgid "Check In"
+msgstr "Registracija"
+
+#: admin/theme-functions.php:6423
+msgid "Check Out"
+msgstr "Provjerite"
+
+#: admin/theme-functions.php:6434
+msgid "Max Guests"
+msgstr "Maksimalni Broj Gostiju"
+
+#: admin/theme-functions.php:6466
+msgid "Extra People"
+msgstr "Višak Ljudi"
+
+#: admin/theme-functions.php:6647
+#, php-format
+msgid "%s ago"
+msgstr "%s pre"
+
+#: admin/theme-functions.php:6667
+msgid "Updated on"
+msgstr "Ažurirano"
+
+#: admin/theme-functions.php:6669
+msgid "at"
+msgstr "u"
+
+#: admin/theme-functions.php:6748
+msgid "Hosted By"
+msgstr "Domaćin"
+
+#: admin/theme-functions.php:6805 admin/theme-functions.php:6822
+msgid "Listing Courtesy of"
+msgstr "Oglas unesen"
+
+#: admin/theme-functions.php:6807 admin/theme-functions.php:6824
+msgid "Brokered by"
+msgstr "Posredovanje"
+
+#: admin/theme-functions.php:7134
+msgid " Sq Ft"
+msgstr " Kv. M"
+
+#: admin/theme-functions.php:7136
+msgid " m²"
+msgstr " m2"
+
+#: admin/theme-functions.php:7151
+msgid "Acres"
+msgstr "Hektara"
+
+#: admin/theme-functions.php:7153
+msgid "Sq Ft"
+msgstr "Kv. M"
+
+#: admin/theme-functions.php:7155
+msgid "m²"
+msgstr "m2"
+
+#: admin/theme-functions.php:7212
+msgid "Village"
+msgstr "Selo"
+
+#: admin/theme-functions.php:7214
+msgid "Town"
+msgstr "Grad"
+
+#: admin/theme-functions.php:7231
+msgid "Parish"
+msgstr "Dolazak"
+
+#: admin/theme-functions.php:7233
+msgid "Region"
+msgstr "Područje"
+
+#: admin/theme-functions.php:7235
+msgid "Province"
+msgstr "Provincija"
+
+#: admin/theme-functions.php:7281
+msgid "School District"
+msgstr "Školski Okrug"
+
+#: admin/theme-functions.php:7283
+msgid "Building"
+msgstr "Kuća"
+
+#: admin/theme-functions.php:7285
+msgid "Borough"
+msgstr "Borough"
+
+#: admin/theme-functions.php:7287
+msgid "Sector"
+msgstr "Sektor"
+
+#: admin/theme-functions.php:7458
+msgid "All Property Types"
+msgstr "Sve Vrsta Nekretnina "
+
+#: admin/theme-functions.php:7460
+msgid "All Countries"
+msgstr "Sve Zemlje"
+
+#: admin/theme-functions.php:7462
+msgid "All Counties"
+msgstr "Sve Zemlje"
+
+#: admin/theme-functions.php:7498
+msgid "All Additional Features"
+msgstr "Sve Dodatne Usluge"
+
+#: admin/theme-functions.php:7500
+msgid "All Neighborhoods"
+msgstr "Sva Područja"
+
+#: admin/theme-functions.php:7502
+msgid "All Districts"
+msgstr "Sva Područja"
+
+#: admin/theme-functions.php:7504
+msgid "All School Districts"
+msgstr "Sve Škole Županije"
+
+#: admin/theme-functions.php:7508
+msgid "All Buildings"
+msgstr "Sve Zgrade"
+
+#: admin/theme-functions.php:7510
+msgid "All Sectors"
+msgstr "Svim Sektorima"
+
+#: admin/theme-functions.php:7512
+msgid "All Communities"
+msgstr "Sve Zajednice"
+
+#: admin/theme-functions.php:7520
+msgid "Pet Friendly?"
+msgstr "Kućni ljubimac?"
+
+#: admin/theme-functions.php:7522
+msgid "Furnished/Unfurnished?"
+msgstr "Namješten/Немеблированная?"
+
+#: admin/theme-functions.php:7607
+msgid "All Brokerages"
+msgstr "Sve Brokerske"
+
+#: admin/theme-functions.php:8028
+msgid "You've reached the daily Yelp Fusion API limit."
+msgstr "Vi ste дозвонились dnevni cika API ograničenje sinteze."
+
+#: admin/theme-functions.php:8029
+msgid "Please visit https://www.yelp.com/developers/v3/manage_app"
+msgstr ""
+
+#: admin/theme-functions.php:8031
+msgid "General 502 Error from Yelp Fusion API"
+msgstr "Ukupna greška 502 od Yelp API za sintezu"
+
+#: admin/theme-functions.php:8032 admin/theme-functions.php:8035
+msgid "Please check your server error logs."
+msgstr "Molimo provjerite časopisi pogreške poslužitelja."
+
+#: admin/theme-functions.php:8034
+msgid "General 500 Error from Yelp Fusion API"
+msgstr "Ukupna greška 500 od Yelp Fusion API-sučelje"
+
+#: admin/theme-functions.php:8037
+msgid "General Error from Yelp Fusion API"
+msgstr "Ukupna greška od Yelp Fusion API"
+
+#: admin/theme-functions.php:8120
+msgid " km"
+msgstr " km"
+
+#: admin/theme-functions.php:8122
+msgid " mi"
+msgstr " Mi"
+
+#: admin/theme-functions.php:8137
+msgid "reviews"
+msgstr "komentari"
+
+#: admin/theme-functions.php:8210
+msgid "Unfortunately, your API key is over its quota."
+msgstr "Nažalost, Vaš API ključ premašila kvotu."
+
+#: admin/theme-functions.php:8216
+msgid "Unfortunately, there's no results nearby for this listing."
+msgstr "Nažalost, nije pored ovog popisa."
+
+#: admin/theme-functions.php:8222
+msgid ""
+"Unfortunately, your request was denied, generally because of lack of an "
+"invalid key parameter."
+msgstr ""
+"Nažalost, Vaš zahtjev je odbijen, obično zbog nedostatka uvredljivih ključni "
+"parametar."
+
+#: admin/theme-functions.php:8228
+msgid ""
+"Unfortunately, your request was invalid, generally due to wrong address "
+"information or lat/long coordinates."
+msgstr ""
+"Nažalost, Vaš zahtjev je bio pogrešan, kao i obično, zbog krivu adresu ili "
+"latitude/longitude koordinate."
+
+#: admin/theme-functions.php:8234
+msgid ""
+"A server-side error happened trying again may be successful, please "
+"shift+refresh the page."
+msgstr ""
+"Na strani poslužitelja dogodila se pogreška ponovno pokušaj da se može biti "
+"uspješan, molimo vas, pritisnite Shift+osvježiti stranicu."
+
+#: admin/theme-functions.php:8470
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Rezultati pretrage za: %s"
+
+#: admin/theme-functions.php:8476
+#, php-format
+msgid "Author: %s"
+msgstr "Autor: %s"
+
+#: admin/theme-functions.php:8479
+#, php-format
+msgid "Day: %s"
+msgstr "Dan: %s"
+
+#: admin/theme-functions.php:8482
+#, php-format
+msgid "Month: %s"
+msgstr "Mjesec: %s"
+
+#: admin/theme-functions.php:8482
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F G"
+
+#: admin/theme-functions.php:8485
+#, php-format
+msgid "Year: %s"
+msgstr "Godine: %s"
+
+#: admin/theme-functions.php:8485
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "D"
+
+#: admin/theme-functions.php:8488
+msgid "Archives"
+msgstr "Arhiva"
+
+#: admin/theme-functions.php:8563
+msgid "Share This"
+msgstr "Podijelite Ovaj"
+
+#: admin/theme-functions.php:8607
+msgid "About The Author"
+msgstr "O Autoru"
+
+#: admin/theme-functions.php:8664
+msgid "Related Posts"
+msgstr "Slične Poruke"
+
+#: admin/theme-functions.php:8714
+msgid "<span class=\"meta-nav\">&larr;</span> Older"
+msgstr ""
+
+#: admin/theme-functions.php:8715
+msgid "Newer <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: admin/theme-functions.php:9308
+msgid ""
+"<span class=\"meta-nav\"><i class=\"fas fa-chevron-left\"></i></span> Older "
+"listings"
+msgstr ""
+
+#: admin/theme-functions.php:9309
+msgid ""
+"Newer listings <span class=\"meta-nav\"><i class=\"fas fa-chevron-right\">"
+"</i></span>"
+msgstr ""
+
+#: admin/theme-functions.php:9331 admin/theme-functions.php:9332
+msgid "%link"
+msgstr ""
+
+#: admin/theme-functions.php:9652
+msgid "g:i a"
+msgstr "g:ja"
+
+#: admin/theme-functions.php:9655
+#, php-format
+msgid "Minute %1$s"
+msgstr ""
+
+#: admin/theme-functions.php:9655
+msgid "i"
+msgstr "ja"
+
+#: admin/theme-functions.php:9658
+msgid "g a"
+msgstr "d"
+
+#: admin/theme-functions.php:9669 admin/theme-functions.php:9675
+#: admin/theme-functions.php:9675 admin/theme-functions.php:9680
+#: admin/theme-functions.php:9680 admin/theme-functions.php:9685
+msgid "Y"
+msgstr "D"
+
+#: admin/theme-functions.php:9670 admin/theme-functions.php:9681
+msgid "F"
+msgstr "F"
+
+#: admin/theme-functions.php:9671
+msgid "j"
+msgstr "J."
+
+#: admin/theme-functions.php:9676
+#, php-format
+msgid "Week %1$s"
+msgstr ""
+
+#: admin/theme-functions.php:9676
+msgid "W"
+msgstr "W"
+
+#: admin/theme-functions.php:9692
+#, php-format
+msgid "Search results for &quot;%1$s&quot;"
+msgstr ""
+
+#: admin/theme-functions.php:9696
+msgid "404 Not Found"
+msgstr "404 Not Found"
+
+#: layouts/blog-grid.php:96 layouts/blog-large.php:96
+msgid "Read More"
+msgstr "Pročitajte više"
+
+#: layouts/saved-search-list.php:113 includes/widgets/ct-widget-tabs.php:218
+msgid "on"
+msgstr "na"
+
+#: layouts/saved-search-list.php:113
+msgid "On"
+msgstr "Na"
+
+#: layouts/saved-search-list.php:114
+msgid "off"
+msgstr "od"
+
+#: layouts/saved-search-list.php:114
+msgid "Off"
+msgstr "Od"
+
+#: layouts/grid.php:22 layouts/list.php:23
+msgid "This agent currently has no active listings."
+msgstr "Ovaj agent trenutno nema aktivnih oglasa."
+
+#: layouts/grid.php:24 layouts/list.php:25
+msgid "This brokerage currently has no active listings."
+msgstr "Trenutno, ova brokerska nema aktivnih oglasa."
+
+#: layouts/grid.php:26 layouts/list.php:27
+msgid "No properties were found which match your search criteria"
+msgstr "Nema svojstva su naći koji odgovaraju vašim kriterijima pretrage "
+
+#: includes/widgets/ct-widget-contactinfo.php:14
+msgid "CT Contact Info"
+msgstr "CT kontakt informacije"
+
+#: includes/widgets/ct-widget-contactinfo.php:86
+msgid "Agent #:"
+msgstr ""
+
+#: includes/widgets/ct-widget-contactinfo.php:87
+#: includes/widgets/ct-widget-brokerinfo.php:58
+msgid "Broker #:"
+msgstr ""
+
+#: includes/widgets/ct-widget-contactinfo.php:140
+msgid "Show Logo:"
+msgstr "Prikaži Logo:"
+
+#: includes/widgets/ct-widget-contactinfo.php:147
+#: includes/widgets/ct-widget-listingscontact.php:69
+#: includes/widgets/ct-widget-testimonials.php:63
+#: includes/widgets/ct-widget-agentsotherlistings.php:151
+#: includes/widgets/ct-widget-brokerinfo.php:82
+#: includes/widgets/ct-widget-blogauthor.php:61
+#: includes/widgets/ct-widget-listingssearch.php:466
+#: includes/widgets/ct-widget-latestposts.php:71
+#: includes/widgets/ct-widget-search.php:41
+#: includes/widgets/ct-widget-agentinfo.php:107
+#: includes/widgets/ct-widget-listings.php:133
+#: admin/ct-social/ct-social.php:131
+msgid "Title:"
+msgstr "Naziv:"
+
+#: includes/widgets/ct-widget-contactinfo.php:151
+msgid "Blurb:"
+msgstr "Bilješka:"
+
+#: includes/widgets/ct-widget-contactinfo.php:155
+msgid "Company Name:"
+msgstr "Naziv Tvrtke:"
+
+#: includes/widgets/ct-widget-contactinfo.php:159
+msgid "Agent License #:"
+msgstr ""
+
+#: includes/widgets/ct-widget-contactinfo.php:163
+#: includes/widgets/ct-widget-brokerinfo.php:106
+msgid "Broker License #:"
+msgstr ""
+
+#: includes/widgets/ct-widget-contactinfo.php:167
+msgid "Street Address:"
+msgstr "Adresa:"
+
+#: includes/widgets/ct-widget-contactinfo.php:171
+msgid "City:"
+msgstr "Grad:"
+
+#: includes/widgets/ct-widget-contactinfo.php:175
+msgid "State:"
+msgstr "Stanje:"
+
+#: includes/widgets/ct-widget-contactinfo.php:179
+msgid "Postal:"
+msgstr "Mail:"
+
+#: includes/widgets/ct-widget-contactinfo.php:183
+msgid "Country:"
+msgstr "Država:"
+
+#: includes/widgets/ct-widget-contactinfo.php:187
+msgid "Phone:"
+msgstr "Telefon:"
+
+#: includes/widgets/ct-widget-contactinfo.php:191
+#: admin/ct-social/ct-social.php:139
+msgid "Email:"
+msgstr "E-mail:"
+
+#: includes/widgets/ct-widget-contactinfo.php:195
+#: admin/ct-social/ct-social.php:143
+msgid "Facebook:"
+msgstr "Facebook:"
+
+#: includes/widgets/ct-widget-contactinfo.php:199
+#: admin/ct-social/ct-social.php:179
+msgid "Twitter:"
+msgstr "Twitter:"
+
+#: includes/widgets/ct-widget-contactinfo.php:203
+#: admin/ct-social/ct-social.php:163
+msgid "LinkedIn:"
+msgstr "LinkedIn:"
+
+#: includes/widgets/ct-widget-contactinfo.php:207
+#: admin/ct-social/ct-social.php:171
+msgid "Pinterest:"
+msgstr "Пинтерест:"
+
+#: includes/widgets/ct-widget-contactinfo.php:211
+#: admin/ct-social/ct-social.php:159
+msgid "Instagram:"
+msgstr "Instagram:"
+
+#: includes/widgets/ct-widget-listingssocial.php:14
+msgid "CT Listings Social"
+msgstr "Oglasi CT Socijalna"
+
+#: includes/widgets/ct-widget-listingssocial.php:49
+#: includes/widgets/ct-widget-listingscrolltocontact.php:63
+#: includes/widgets/ct-widget-adspace.php:56
+msgid "Title (optional):"
+msgstr "Ime (nije obavezno):"
+
+#: includes/widgets/ct-widget-listingscontact.php:14
+msgid "CT Listing Agent Contact"
+msgstr "CT agenta kontakt"
+
+#: includes/widgets/ct-widget-listingscontact.php:73
+msgid "Subject:"
+msgstr "Tema:"
+
+#: includes/widgets/ct-widget-testimonials.php:14
+msgid "CT Testimonials"
+msgstr "Naši CT "
+
+#: includes/widgets/ct-widget-testimonials.php:67
+#: includes/widgets/ct-widget-agentsotherlistings.php:155
+#: includes/widgets/ct-widget-latestposts.php:75
+#: includes/widgets/ct-widget-listings.php:137
+msgid "Number:"
+msgstr "Količina:"
+
+#: includes/widgets/ct-widget-agentsotherlistings.php:14
+msgid "CT Agents Other Listings"
+msgstr "Agenti CT druge liste"
+
+#: includes/widgets/ct-widget-agentsotherlistings.php:163
+#: includes/widgets/ct-widget-listings.php:145
+msgid "Taxonomy:"
+msgstr "Taksonomija:"
+
+#: includes/widgets/ct-widget-agentsotherlistings.php:172
+#: includes/widgets/ct-widget-listings.php:154
+msgid "Tag:"
+msgstr "Tag:"
+
+#: includes/widgets/ct-widget-brokerinfo.php:14
+msgid "CT Brokers Info"
+msgstr "CT brokeri informacija"
+
+#: includes/widgets/ct-widget-brokerinfo.php:56
+msgid "Email Office"
+msgstr "Ured Za E-Mail "
+
+#: includes/widgets/ct-widget-brokerinfo.php:57
+msgid "Visit Brokers Website"
+msgstr "Posjetite Stranicu Brokera"
+
+#: includes/widgets/ct-widget-brokerinfo.php:86
+msgid "Logo URL:"
+msgstr "Url logo:"
+
+#: includes/widgets/ct-widget-brokerinfo.php:90
+msgid "Company:"
+msgstr "Tvrtka:"
+
+#: includes/widgets/ct-widget-brokerinfo.php:94
+msgid "Office Phone:"
+msgstr "Ured Telefon:"
+
+#: includes/widgets/ct-widget-brokerinfo.php:98
+msgid "Office Email:"
+msgstr "Ured E-Mail:"
+
+#: includes/widgets/ct-widget-brokerinfo.php:102
+msgid "Website:"
+msgstr "Web stranica:"
+
+#: includes/widgets/ct-widget-blogauthor.php:14
+msgid "CT Blog Author Info"
+msgstr "Blog CT autora informacije"
+
+#: includes/widgets/ct-widget-blogauthor.php:65
+msgid "Bio:"
+msgstr "Bio:"
+
+#: includes/widgets/ct-widget-blogauthor.php:69
+msgid "<a href=\"http://www.gravatar.com/\">Gravatar</a> E-mail:"
+msgstr ""
+
+#: includes/widgets/ct-widget-blogauthor.php:73
+msgid "Gravatar Size:"
+msgstr "Veličina Граватара:"
+
+#: includes/widgets/ct-widget-blogauthor.php:77
+msgid "Gravatar Alignment:"
+msgstr "Gravatar Poravnanje:"
+
+#: includes/widgets/ct-widget-blogauthor.php:79
+msgid "Left"
+msgstr "Na lijevoj strani"
+
+#: includes/widgets/ct-widget-blogauthor.php:80
+msgid "Right"
+msgstr "Pravo"
+
+#: includes/widgets/ct-widget-blogauthor.php:84
+msgid "Read More Text (optional):"
+msgstr "Pročitajte više tekst (nije obavezno):"
+
+#: includes/widgets/ct-widget-blogauthor.php:88
+msgid "Read More URL (optional):"
+msgstr "Pročitajte više URL adresa (nije obavezno):"
+
+#: includes/widgets/ct-widget-blogauthor.php:92
+msgid "Visible Pages:"
+msgstr "Vidljive Stranice:"
+
+#: includes/widgets/ct-widget-blogauthor.php:94
+msgid "All"
+msgstr "Sve"
+
+#: includes/widgets/ct-widget-blogauthor.php:95
+msgid "Home only"
+msgstr "Kuće samo"
+
+#: includes/widgets/ct-widget-blogauthor.php:96
+msgid "Single only"
+msgstr "Jedan jedini"
+
+#: includes/widgets/ct-widget-listingssearch.php:14
+msgid "CT Listings Search"
+msgstr "Pretraživanje oglasa CT"
+
+#: includes/widgets/ct-widget-latestposts.php:14
+msgid "CT Latest Posts"
+msgstr "Najnovije postove TT "
+
+#: includes/widgets/ct-widget-search.php:14
+msgid "CT Search"
+msgstr "Traži CT "
+
+#: includes/widgets/ct-widget-listingscrolltocontact.php:14
+msgid "CT Listing Contact ScrollTo"
+msgstr "CT popis kontakata ScrollTo"
+
+#: includes/widgets/ct-widget-listingscrolltocontact.php:67
+msgid "Button One Text:"
+msgstr "Kliknite Jedan Tekst:"
+
+#: includes/widgets/ct-widget-listingscrolltocontact.php:71
+msgid "Button Two Text:"
+msgstr "Gumb Dva Teksta:"
+
+#: includes/widgets/ct-widget-adspace.php:14
+msgid "CT Adspace Widget"
+msgstr "Widget CT Adspace "
+
+#: includes/widgets/ct-widget-adspace.php:60
+msgid "Ad Code:"
+msgstr "Promotivni Kod:"
+
+#: includes/widgets/ct-widget-adspace.php:65
+msgid "Image Url:"
+msgstr "URL Adresa Slike:"
+
+#: includes/widgets/ct-widget-adspace.php:69
+msgid "Link URL:"
+msgstr "URL linkovi:"
+
+#: includes/widgets/ct-widget-adspace.php:73
+msgid "Alt text:"
+msgstr "Alt-tekst:"
+
+#: includes/widgets/ct-widget-agentinfo.php:14
+msgid "CT Agent Info"
+msgstr "Agent CT informacije"
+
+#: includes/widgets/ct-widget-agentinfo.php:70
+msgid "Mobile"
+msgstr "Mobilni"
+
+#: includes/widgets/ct-widget-agentinfo.php:73
+msgid "Office"
+msgstr "Ured"
+
+#: includes/widgets/ct-widget-agentinfo.php:76
+msgid "Fax"
+msgstr "Faks"
+
+#: includes/widgets/ct-widget-tabs.php:14
+msgid "CT Tabs"
+msgstr "Kartice TT "
+
+#: includes/widgets/ct-widget-tabs.php:105
+msgid "Number of posts:"
+msgstr "Broj postova:"
+
+#: includes/widgets/ct-widget-tabs.php:110
+msgid "First Visible Tab:"
+msgstr "Prve Vidljive Kartice:"
+
+#: includes/widgets/ct-widget-tabs.php:112
+#: includes/widgets/ct-widget-tabs.php:119
+msgid "Latest"
+msgstr "Zadnji"
+
+#: includes/widgets/ct-widget-tabs.php:113
+#: includes/widgets/ct-widget-tabs.php:122
+msgid "Comments"
+msgstr "Komentari"
+
+#: includes/widgets/ct-widget-tabs.php:114
+#: includes/widgets/ct-widget-tabs.php:125
+msgid "Tags"
+msgstr "Oznake"
+
+#: includes/widgets/ct-widget-listings.php:14
+msgid "CT Listings"
+msgstr "Oglasi karat "
+
+#: includes/widgets/ct-widget-listings.php:158
+msgid "View All Link Text"
+msgstr "Pogledajte Sve Povezati Tekst "
+
+#: includes/widgets/ct-widget-listings.php:162
+msgid "View All Link URL"
+msgstr "Pogledajte sve url-link"
+
+#: includes/widgets/ct-widget-listingbooktour.php:14
+msgid "CT Listing Book Showing"
+msgstr "CT broj knjiga pokazuje"
+
+#: includes/widgets/ct-widget-listingbooktour.php:124
+msgid "Sunday"
+msgstr "U nedjelju"
+
+#: includes/widgets/ct-widget-listingbooktour.php:124
+msgid "Monday"
+msgstr "U ponedjeljak,"
+
+#: includes/widgets/ct-widget-listingbooktour.php:124
+msgid "Tuesday"
+msgstr "Utorak"
+
+#: includes/widgets/ct-widget-listingbooktour.php:124
+msgid "Wednesday"
+msgstr "U srijedu,"
+
+#: includes/widgets/ct-widget-listingbooktour.php:124
+msgid "Thursday"
+msgstr "U četvrtak"
+
+#: includes/widgets/ct-widget-listingbooktour.php:124
+msgid "Friday"
+msgstr "U petak"
+
+#: includes/widgets/ct-widget-listingbooktour.php:124
+msgid "Saturday"
+msgstr "U subotu"
+
+#: includes/widgets/ct-widget-listingbooktour.php:124
+msgid "SUN"
+msgstr "Sunce"
+
+#: includes/widgets/ct-widget-listingbooktour.php:124
+msgid "MON"
+msgstr "MO"
+
+#: includes/widgets/ct-widget-listingbooktour.php:124
+msgid "TUES"
+msgstr "W"
+
+#: includes/widgets/ct-widget-listingbooktour.php:124
+msgid "WED"
+msgstr "SRIJEDA"
+
+#: includes/widgets/ct-widget-listingbooktour.php:124
+msgid "THUR"
+msgstr "Čet"
+
+#: includes/widgets/ct-widget-listingbooktour.php:124
+msgid "FRI"
+msgstr "PET"
+
+#: includes/widgets/ct-widget-listingbooktour.php:124
+msgid "SAT"
+msgstr "Sjedio"
+
+#: includes/widgets/ct-widget-listingbooktour.php:124
+msgid "JAN"
+msgstr "Siječanj"
+
+#: includes/widgets/ct-widget-listingbooktour.php:124
+msgid "FEB"
+msgstr "Veljača"
+
+#: includes/widgets/ct-widget-listingbooktour.php:124
+msgid "MAR"
+msgstr "Ožujak"
+
+#: includes/widgets/ct-widget-listingbooktour.php:124
+msgid "APR"
+msgstr "Travanj"
+
+#: includes/widgets/ct-widget-listingbooktour.php:124
+msgid "MAY"
+msgstr "Može"
+
+#: includes/widgets/ct-widget-listingbooktour.php:124
+msgid "JUNE"
+msgstr "Lipnja"
+
+#: includes/widgets/ct-widget-listingbooktour.php:124
+msgid "JULY"
+msgstr "Srpanj"
+
+#: includes/widgets/ct-widget-listingbooktour.php:124
+msgid "AUG"
+msgstr "Kolovoz"
+
+#: includes/widgets/ct-widget-listingbooktour.php:124
+msgid "SEPT"
+msgstr "Rujna"
+
+#: includes/widgets/ct-widget-listingbooktour.php:124
+msgid "OCT"
+msgstr "Listopada"
+
+#: includes/widgets/ct-widget-listingbooktour.php:124
+msgid "NOV"
+msgstr "Studeni"
+
+#: includes/widgets/ct-widget-listingbooktour.php:124
+msgid "DEC"
+msgstr "Prosinac"
+
+#: includes/widgets/ct-widget-listingbooktour.php:155
+msgid ""
+"Thanks for booking a showing, we'll get back to confirm with you shortly."
+msgstr ""
+"Hvala za rezervacije prikazivanje, mi ćemo se vratiti uskoro će vas "
+"kontaktirati."
+
+#: includes/widgets/ct-widget-listingbooktour.php:162
+msgid "Request a Showing"
+msgstr "Офомить zahtjev"
+
+#: includes/widgets/ct-widget-listingbooktour.php:172
+msgid "Select Your Time and Day"
+msgstr "Odaberite vrijeme i Dan"
+
+#: includes/widgets/ct-widget-listingbooktour.php:176
+#: includes/widgets/ct-widget-listingbooktour.php:177
+#: includes/widgets/ct-widget-listingbooktour.php:177
+#: includes/widgets/ct-widget-listingbooktour.php:178
+#: includes/widgets/ct-widget-listingbooktour.php:178
+#: includes/widgets/ct-widget-listingbooktour.php:179
+#: includes/widgets/ct-widget-listingbooktour.php:179
+#: includes/widgets/ct-widget-listingbooktour.php:180
+#: includes/widgets/ct-widget-listingbooktour.php:180
+#: includes/widgets/ct-widget-listingbooktour.php:181
+#: includes/widgets/ct-widget-listingbooktour.php:181
+#: includes/widgets/ct-widget-listingbooktour.php:204
+#: includes/widgets/ct-widget-listingbooktour.php:204
+#: includes/widgets/ct-widget-listingbooktour.php:205
+#: includes/widgets/ct-widget-listingbooktour.php:205
+#: includes/widgets/ct-widget-listingbooktour.php:206
+#: includes/widgets/ct-widget-listingbooktour.php:206
+#: includes/widgets/ct-widget-listingbooktour.php:207
+#: includes/widgets/ct-widget-listingbooktour.php:207
+msgid "am"
+msgstr "ja"
+
+#: includes/widgets/ct-widget-listingbooktour.php:182
+#: includes/widgets/ct-widget-listingbooktour.php:183
+#: includes/widgets/ct-widget-listingbooktour.php:183
+#: includes/widgets/ct-widget-listingbooktour.php:184
+#: includes/widgets/ct-widget-listingbooktour.php:184
+#: includes/widgets/ct-widget-listingbooktour.php:185
+#: includes/widgets/ct-widget-listingbooktour.php:185
+#: includes/widgets/ct-widget-listingbooktour.php:186
+#: includes/widgets/ct-widget-listingbooktour.php:186
+#: includes/widgets/ct-widget-listingbooktour.php:187
+#: includes/widgets/ct-widget-listingbooktour.php:187
+#: includes/widgets/ct-widget-listingbooktour.php:188
+#: includes/widgets/ct-widget-listingbooktour.php:188
+#: includes/widgets/ct-widget-listingbooktour.php:189
+#: includes/widgets/ct-widget-listingbooktour.php:189
+#: includes/widgets/ct-widget-listingbooktour.php:190
+#: includes/widgets/ct-widget-listingbooktour.php:190
+#: includes/widgets/ct-widget-listingbooktour.php:191
+#: includes/widgets/ct-widget-listingbooktour.php:191
+#: includes/widgets/ct-widget-listingbooktour.php:192
+#: includes/widgets/ct-widget-listingbooktour.php:192
+#: includes/widgets/ct-widget-listingbooktour.php:193
+#: includes/widgets/ct-widget-listingbooktour.php:193
+#: includes/widgets/ct-widget-listingbooktour.php:194
+#: includes/widgets/ct-widget-listingbooktour.php:194
+#: includes/widgets/ct-widget-listingbooktour.php:208
+#: includes/widgets/ct-widget-listingbooktour.php:208
+#: includes/widgets/ct-widget-listingbooktour.php:209
+#: includes/widgets/ct-widget-listingbooktour.php:209
+#: includes/widgets/ct-widget-listingbooktour.php:210
+#: includes/widgets/ct-widget-listingbooktour.php:210
+#: includes/widgets/ct-widget-listingbooktour.php:211
+#: includes/widgets/ct-widget-listingbooktour.php:211
+#: includes/widgets/ct-widget-listingbooktour.php:212
+#: includes/widgets/ct-widget-listingbooktour.php:212
+#: includes/widgets/ct-widget-listingbooktour.php:213
+#: includes/widgets/ct-widget-listingbooktour.php:213
+#: includes/widgets/ct-widget-listingbooktour.php:214
+#: includes/widgets/ct-widget-listingbooktour.php:214
+#: includes/widgets/ct-widget-listingbooktour.php:215
+#: includes/widgets/ct-widget-listingbooktour.php:215
+#: includes/widgets/ct-widget-listingbooktour.php:216
+#: includes/widgets/ct-widget-listingbooktour.php:216
+#: includes/widgets/ct-widget-listingbooktour.php:217
+#: includes/widgets/ct-widget-listingbooktour.php:217
+#: includes/widgets/ct-widget-listingbooktour.php:218
+#: includes/widgets/ct-widget-listingbooktour.php:218
+#: includes/widgets/ct-widget-listingbooktour.php:219
+#: includes/widgets/ct-widget-listingbooktour.php:219
+#: includes/widgets/ct-widget-listingbooktour.php:220
+#: includes/widgets/ct-widget-listingbooktour.php:220
+#: includes/widgets/ct-widget-listingbooktour.php:221
+#: includes/widgets/ct-widget-listingbooktour.php:221
+#: includes/widgets/ct-widget-listingbooktour.php:222
+#: includes/widgets/ct-widget-listingbooktour.php:222
+msgid "pm"
+msgstr "PM"
+
+#: includes/widgets/ct-widget-listingbooktour.php:235
+msgid "Showing Request for "
+msgstr "Pokazuje na zahtjev "
+
+#: includes/widgets/ct-widget-listingbooktour.php:241
+#: includes/widgets/ct-widget-listingbooktour.php:243
+msgid "Schedule Tour"
+msgstr "Raspored Turneje"
+
+#: includes/widgets/ct-widget-listingbooktour.php:260
+msgid "No options required for this widget."
+msgstr "Bez mogućnosti, potrebne za ovaj widget."
+
+#: admin/ct-social/ct-social.php:28
+msgid "CT Social"
+msgstr "CT Socijalna"
+
+#: admin/ct-social/ct-social.php:135
+msgid "Dribbble:"
+msgstr "Radni proces:"
+
+#: admin/ct-social/ct-social.php:147
+msgid "Flickr:"
+msgstr "Фликр:"
+
+#: admin/ct-social/ct-social.php:151
+msgid "Foursquare:"
+msgstr "Četvorinu:"
+
+#: admin/ct-social/ct-social.php:155
+msgid "GitHub:"
+msgstr "Гитхаб:"
+
+#: admin/ct-social/ct-social.php:167
+msgid "Medium:"
+msgstr "Alat:"
+
+#: admin/ct-social/ct-social.php:175
+msgid "Skype:"
+msgstr "Skype:"
+
+#: admin/ct-social/ct-social.php:183
+msgid "YouTube:"
+msgstr "Na YouTube-U:"
+
+#: admin/ct-social/ct-social.php:187
+msgid "Links:"
+msgstr "Linkovi:"
+
+#: admin/plugins/register.php:66 admin/getting-started/getting-started.php:178
+msgid "Redux Framework"
+msgstr "Redux Okvir "
+
+#: admin/plugins/register.php:72 admin/getting-started/getting-started.php:190
+msgid "Contempo Real Estate Custom Posts"
+msgstr "Контемпо Pravi Carinski Postove Imovine "
+
+#: admin/plugins/register.php:80
+msgid "Elementor Page Builder"
+msgstr "Факир Kreator Stranice "
+
+#: admin/plugins/register.php:86 admin/getting-started/getting-started.php:313
+#: admin/getting-started/getting-started.php:337
+msgid "WordPress Social Login"
+msgstr "WordPress Socijalne Prijavu"
+
+#: admin/plugins/register.php:92 admin/getting-started/getting-started.php:349
+msgid "Booking Calendar"
+msgstr "Kalendar Raspoloživosti "
+
+#: admin/plugins/register.php:98 admin/getting-started/getting-started.php:361
+msgid "Co-Authors Plus"
+msgstr "Koautori Plus"
+
+#: admin/plugins/register.php:104 admin/getting-started/getting-started.php:373
+msgid "Comments Ratings"
+msgstr "Ocjene I Komentari "
+
+#: admin/plugins/register.php:110
+msgid "Contempo Listing Analytics"
+msgstr "Контемпо Broj Analitika"
+
+#: admin/plugins/register.php:121 admin/getting-started/getting-started.php:325
+#: admin/ReduxFramework/theme-options/re7-config.php:5335
+msgid "WP Favorite Posts"
+msgstr "WР omiljene postove"
+
+#: admin/plugins/register.php:132 admin/getting-started/getting-started.php:202
+msgid "Contempo Membership & Packages"
+msgstr ""
+
+#: admin/plugins/register.php:143
+msgid "Contempo Real Estate 7 Payment Gateways"
+msgstr "Контемпо Nekretnina 7 Plaćanje Gateways"
+
+#: admin/plugins/register.php:154 admin/getting-started/getting-started.php:238
+msgid "Contempo Mortgage Calculator Widget"
+msgstr "Widget Hipoteka Kalkulator Контемпо "
+
+#: admin/plugins/register.php:165 admin/getting-started/getting-started.php:226
+msgid "Contempo Compare Listings"
+msgstr "Usporedite Контемпо "
+
+#: admin/plugins/register.php:176 admin/getting-started/getting-started.php:214
+msgid "Contempo Saved Searches & Email Alerts"
+msgstr ""
+
+#: admin/plugins/register.php:187 admin/getting-started/getting-started.php:250
+msgid "Contempo Child Theme Generator"
+msgstr "Generator Tema Контемпо Dijete "
+
+#: admin/plugins/register.php:198 admin/getting-started/getting-started.php:274
+msgid "Slider Revolution"
+msgstr "Klizač Revolucija "
+
+#: admin/plugins/register.php:209
+msgid "WPBakery Page Builder"
+msgstr "WPBakery Stranici Graditelj"
+
+#: admin/plugins/register.php:220 admin/getting-started/getting-started.php:385
+msgid "Envato Market"
+msgstr "Tržište Prenosi Težinu "
+
+#: admin/getting-started/getting-started.php:91
+#, php-format
+msgid "Getting started with %1$s v%2$s"
+msgstr ""
+
+#: admin/getting-started/getting-started.php:93
+#, php-format
+msgid ""
+"Thanks for purchasing %1$s! I truly appreciate the support and the "
+"opportunity to share my work with you. Please visit the tabs below to get "
+"started setting up your theme!"
+msgstr ""
+
+#: admin/getting-started/getting-started.php:99
+msgid "Start Here"
+msgstr "Počnite Ovdje"
+
+#: admin/getting-started/getting-started.php:100
+msgid "Plugins"
+msgstr "Dodaci"
+
+#: admin/getting-started/getting-started.php:101
+msgid "FAQ &amp; Support"
+msgstr ""
+
+#: admin/getting-started/getting-started.php:102
+msgid "Latest Updates"
+msgstr "Najnovija Ažuriranja"
+
+#: admin/getting-started/getting-started.php:110
+#, php-format
+msgid "Installing %s"
+msgstr "Instalacija %s"
+
+#: admin/getting-started/getting-started.php:116
+#: admin/ReduxFramework/theme-options/re7-config.php:5768
+msgid "Documentation"
+msgstr "Dokumentacija"
+
+#: admin/getting-started/getting-started.php:170
+msgid "Required & Recommended Plugins"
+msgstr ""
+
+#: admin/getting-started/getting-started.php:172
+msgid ""
+"Below is a list of required and recommended plugins to install that will "
+"help you get the most out of WP Pro Real Estate 7. To begin please use the "
+"button below or browse through the list to learn about each one in a little "
+"more detail."
+msgstr ""
+"U nastavku je popis obavezne i preporučene dodatke za instalaciju, koji će "
+"vam pomoći da dobijete najviše iz WP PRO nekretnine 7. Za početak, molimo "
+"koristite gumb ispod ili pogledajte popis, kako bi saznali o svakom malo "
+"više detalja."
+
+#: admin/getting-started/getting-started.php:178
+#: admin/getting-started/getting-started.php:190
+msgid "Required"
+msgstr "Potrebno"
+
+#: admin/getting-started/getting-started.php:180
+msgid "Install Redux Framework"
+msgstr "Uspostaviti Strukturu Redux "
+
+#: admin/getting-started/getting-started.php:180
+#: admin/getting-started/getting-started.php:192
+#: admin/getting-started/getting-started.php:204
+#: admin/getting-started/getting-started.php:216
+#: admin/getting-started/getting-started.php:228
+#: admin/getting-started/getting-started.php:240
+#: admin/getting-started/getting-started.php:252
+#: admin/getting-started/getting-started.php:264
+#: admin/getting-started/getting-started.php:276
+#: admin/getting-started/getting-started.php:288
+#: admin/getting-started/getting-started.php:300
+#: admin/getting-started/getting-started.php:315
+#: admin/getting-started/getting-started.php:327
+#: admin/getting-started/getting-started.php:339
+#: admin/getting-started/getting-started.php:351
+#: admin/getting-started/getting-started.php:363
+#: admin/getting-started/getting-started.php:375
+#: admin/getting-started/getting-started.php:387
+msgid "Install Now"
+msgstr "Instaliraj Sada"
+
+#: admin/getting-started/getting-started.php:182
+#: admin/getting-started/getting-started.php:194
+#: admin/getting-started/getting-started.php:206
+#: admin/getting-started/getting-started.php:218
+#: admin/getting-started/getting-started.php:230
+#: admin/getting-started/getting-started.php:242
+#: admin/getting-started/getting-started.php:254
+#: admin/getting-started/getting-started.php:266
+#: admin/getting-started/getting-started.php:278
+#: admin/getting-started/getting-started.php:290
+#: admin/getting-started/getting-started.php:302
+#: admin/getting-started/getting-started.php:317
+#: admin/getting-started/getting-started.php:329
+#: admin/getting-started/getting-started.php:341
+#: admin/getting-started/getting-started.php:353
+#: admin/getting-started/getting-started.php:365
+#: admin/getting-started/getting-started.php:377
+#: admin/getting-started/getting-started.php:389
+msgid "Installed"
+msgstr "Postavljena"
+
+#: admin/getting-started/getting-started.php:186
+msgid "This plugin is used for the admin options framework."
+msgstr "Ovaj dodatak se koristi za okvire administratora."
+
+#: admin/getting-started/getting-started.php:192
+msgid "Install Contempo Real Estate Custom Posts"
+msgstr "Postavite Контемпо Pravi Carinski Postove Imovine "
+
+#: admin/getting-started/getting-started.php:198
+msgid ""
+"This plugin registers the listings, brokerages & testimonials custom post "
+"types, along with related custom fields & taxonomies, as well as all the "
+"custom Visual Composer modules (if you have the Visual Composer plugin "
+"installed & activated)."
+msgstr ""
+
+#: admin/getting-started/getting-started.php:202
+#: admin/getting-started/getting-started.php:214
+#: admin/getting-started/getting-started.php:226
+#: admin/getting-started/getting-started.php:238
+#: admin/getting-started/getting-started.php:250
+#: admin/getting-started/getting-started.php:262
+#: admin/getting-started/getting-started.php:274
+#: admin/getting-started/getting-started.php:286
+#: admin/getting-started/getting-started.php:298
+#: admin/getting-started/getting-started.php:313
+#: admin/getting-started/getting-started.php:325
+#: admin/getting-started/getting-started.php:337
+#: admin/getting-started/getting-started.php:349
+#: admin/getting-started/getting-started.php:361
+#: admin/getting-started/getting-started.php:373
+#: admin/getting-started/getting-started.php:385
+msgid "Recommended"
+msgstr "Preporučuje se"
+
+#: admin/getting-started/getting-started.php:204
+msgid "Install Contempo Membership & Packages"
+msgstr ""
+
+#: admin/getting-started/getting-started.php:210
+msgid ""
+"This plugin adds the ability to create membership & packages for use with "
+"the front end submission system in WP Pro Real Estate 7, with Stripe, PayPal "
+"& Wire Transfer payment methods."
+msgstr ""
+
+#: admin/getting-started/getting-started.php:216
+msgid "Install Contempo Saved Searches & Email Alerts"
+msgstr ""
+
+#: admin/getting-started/getting-started.php:222
+msgid "This plugin allows users be alerted via email when a listing is added."
+msgstr ""
+"Ovaj dodatak omogućava korisnicima da primaju obavijesti putem e-mail kada "
+"se dodaju na popis."
+
+#: admin/getting-started/getting-started.php:228
+#: admin/getting-started/getting-started.php:252
+msgid "Install Contempo Compare Listings"
+msgstr "Postavite Контемпо Usporediti Rezultate"
+
+#: admin/getting-started/getting-started.php:234
+msgid "This plugin adds compare functionality for listings."
+msgstr "Ovaj dodatak dodaje usporediti opcije popisa."
+
+#: admin/getting-started/getting-started.php:240
+msgid "Install Contempo Mortgage Calculator Widget"
+msgstr "Postavite Контемпо Widget Hipoteka Kalkulator "
+
+#: admin/getting-started/getting-started.php:246
+msgid "This plugin enables a simple mortgage calculator widget."
+msgstr "Ovaj dodatak pruža jednostavan widget hipoteka kalkulator."
+
+#: admin/getting-started/getting-started.php:258
+msgid ""
+"This plugin allows admin users to easily generate a child theme from your "
+"Admin > Appearance panel."
+msgstr ""
+
+#: admin/getting-started/getting-started.php:262
+msgid "Contempo Payment Gateways"
+msgstr "Platnim Контемпо "
+
+#: admin/getting-started/getting-started.php:264
+msgid "Install Contempo Payment Gateways"
+msgstr "Postavite Plaćanje Gateways Контемпо "
+
+#: admin/getting-started/getting-started.php:270
+msgid ""
+"This plugin enables the PayPal API and only required if you're going to be "
+"charging single listing payments from the front end of the site, if you're "
+"using the Membership & Packages plugin leave this plugin deactivated."
+msgstr ""
+
+#: admin/getting-started/getting-started.php:276
+msgid "Install Slider Revolution"
+msgstr "Postavite Klizač Revolucija "
+
+#: admin/getting-started/getting-started.php:282
+msgid ""
+"Slider Revolution is an innovative, responsive WordPress Slider Plugin that "
+"displays your content the beautiful way."
+msgstr ""
+"Klizač revolucija-to je inovativna, ovaj klizač WordPress plugin koji "
+"prikazuje sadržaj lijep način."
+
+#: admin/getting-started/getting-started.php:286
+msgid "Visual Composer"
+msgstr "Vizualni Skladatelj"
+
+#: admin/getting-started/getting-started.php:288
+msgid "Install Visual Composer"
+msgstr "Postavite Vizualni Skladatelj"
+
+#: admin/getting-started/getting-started.php:294
+msgid ""
+"WordPress Page Builder plugin with intuitive drag and drop interface. Build "
+"any page fast and easy. Unlimited layouts for your website."
+msgstr ""
+"WordPress plugin graditelj stranice s intuitivnim sučeljem drag. Za "
+"izgradnju bilo koju stranicu brzo i lako. Neograničen izgleda za vaše web "
+"stranice."
+
+#: admin/getting-started/getting-started.php:298
+msgid "WPML"
+msgstr "N"
+
+#: admin/getting-started/getting-started.php:300
+msgid "Install WPML"
+msgstr "Postavite N"
+
+#: admin/getting-started/getting-started.php:308
+#, php-format
+msgid ""
+"<a href=\"%s\" target=\"_blank\">WPML</a> allows running fully multilingual "
+"websites with WordPress, making it easy to translate WordPress pages, posts, "
+"tags, categories and themes."
+msgstr ""
+
+#: admin/getting-started/getting-started.php:315
+#: admin/getting-started/getting-started.php:327
+msgid "Install WP Favorite Posts"
+msgstr "Instalirati WP omiljene postove"
+
+#: admin/getting-started/getting-started.php:321
+msgid ""
+"This plugin allows users to login/register with their social profiles like "
+"Facebook, Google, Twitter, etc&hellip;"
+msgstr ""
+
+#: admin/getting-started/getting-started.php:333
+msgid ""
+"This plugin allows users to favorite & save listings from the front end of "
+"the site."
+msgstr ""
+
+#: admin/getting-started/getting-started.php:339
+msgid "Install WordPress Social Login"
+msgstr "Instalirati Wordpress Ulaz Kroz Društvene Mreže"
+
+#: admin/getting-started/getting-started.php:345
+msgid ""
+"This plugin allows users to login/register for your site via social networks "
+"like Facebook, Google, Twitter, etc&hellip;"
+msgstr ""
+
+#: admin/getting-started/getting-started.php:351
+msgid "Install Booking Calendar"
+msgstr "Postavite Kalendar Rezervacije "
+
+#: admin/getting-started/getting-started.php:357
+msgid ""
+"This plugin will enable online booking services, however you're free to use "
+"whatever booking plugin you'd like as long as it supports shortcodes."
+msgstr ""
+"Ovaj dodatak će vam omogućiti online servis za rezervacije, ali vi ste "
+"slobodni koristiti sve što je rezervacija plug-in želite, tako dugo dok on "
+"podržava shortcodes."
+
+#: admin/getting-started/getting-started.php:363
+msgid "Install Co-Authors Plus"
+msgstr "Postavite Koautori Plus"
+
+#: admin/getting-started/getting-started.php:369
+msgid ""
+"This plugin allows you to assign multiple users or agents to listings, "
+"perfect for co-listings."
+msgstr ""
+"Ovaj dodatak vam omogućuje dodijeliti većem broju korisnika ili agenti, "
+"oglasi, pogodno za dijeljenje oglasa."
+
+#: admin/getting-started/getting-started.php:375
+msgid "Install Comments Ratings"
+msgstr "Postavite Ocjene Komentari "
+
+#: admin/getting-started/getting-started.php:381
+msgid "This plugin allows you to enable ratings for your listings."
+msgstr "Ovaj dodatak vam omogućuje da uključite procjene za Vaš oglas."
+
+#: admin/getting-started/getting-started.php:387
+msgid "Install Envato Market"
+msgstr "Postavite Tržištu Prenosi Težinu "
+
+#: admin/getting-started/getting-started.php:393
+msgid ""
+"This plugin allows you to easily get theme updates through your WordPress "
+"admin."
+msgstr ""
+"Ovaj dodatak vam omogućuje da lako napraviti temu obnove kroz WordPress "
+"admin panela."
+
+#: admin/getting-started/getting-started.php:402
+#, php-format
+msgid "Support for %s?"
+msgstr "Podrška za %S?"
+
+#: admin/getting-started/getting-started.php:408
+#, php-format
+msgid ""
+"If you've read through the <a href=\"%1$s\" target=\"_blank\">"
+"documentation</a> and still have questions or are experiencing issues, I'm "
+"happy to help! Simply <a href=\"%2$s\"  target=\"_blank\" title=\"Open a "
+"live chat\">open a live chat</a> or <a href=\"%3$s\" target=\"_blank\">leave "
+"a comment</a> on the item page and I'll personally get back to you, thanks "
+"in advance for your patience."
+msgstr ""
+
+#: admin/getting-started/getting-started.php:411
+#, php-format
+msgid "FAQ for %s?"
+msgstr "Pitanja i odgovori za %S?"
+
+#: admin/getting-started/getting-started.php:414
+msgid ""
+"The following articles below cover many frequently asked questions that you "
+"may have."
+msgstr ""
+"U sljedećim člancima ispod pokrivaju mnoge često postavljana pitanja koja se "
+"mogu kod vas pojaviti."
+
+#: admin/getting-started/getting-started.php:460
+msgid "Need Modifications or Customizations?"
+msgstr "Potrebe za promjenama ili postavki?"
+
+#: admin/getting-started/getting-started.php:465
+#, php-format
+msgid ""
+"Send me an email <a href=\"mailto:%s\">chris@contempothemes.com</a>, with a "
+"detailed outline of what you’d like to accomplish and I’ll get you a quote "
+"and turnaround time."
+msgstr ""
+
+#: admin/getting-started/getting-started.php:474
+#, php-format
+msgid ""
+"Please note that support requests will not be answered via email, only "
+"through my <a href=\"%1$s\" target=\"_blank\">live chat</a> or within the <a "
+"href=\"%2$s\" target=\"_blank\">item comments</a>."
+msgstr ""
+
+#: admin/getting-started/getting-started.php:484
+msgid "Hosting Recommendations"
+msgstr "Takve Preporuke"
+
+#: admin/getting-started/getting-started.php:498
+#: admin/getting-started/getting-started.php:501
+msgid "Visit the Knowledge Base"
+msgstr "Posjetite bazu znanja "
+
+#: admin/getting-started/getting-started.php:499
+msgid ""
+"New to the WordPress world? The Knowledge Base has a boat load of articles "
+"to help you with any issues that might arise."
+msgstr ""
+"Novi u svijetu Wordpress? Baza znanja preuzimanje plovila članaka, da vam "
+"pomoći sa svim pitanjima koje se mogu pojaviti."
+
+#: admin/getting-started/getting-started.php:501
+msgid "Visit the knowledge base"
+msgstr "Posjetite bazu znanja "
+
+#: admin/google-places/GooglePlaces.php:149
+#: admin/google-places/GooglePlaces.php:165
+#: admin/google-places/GooglePlaces.php:182
+msgid "Google Places API is currently unavailable."
+msgstr "Google mjesta API trenutno nisu dostupne."
+
+#: admin/google-places/GooglePlaces.php:151
+msgid ""
+"You must specify a valid listing location, use street address in the listing "
+"title along with city, state & zip/postcode — if not use the optional "
+"latitude & longitude field."
+msgstr ""
+
+#: admin/google-places/GooglePlaces.php:167
+#: admin/google-places/GooglePlaces.php:207
+msgid ""
+"You much specify at least one of the following: \"keyword\", \"name\", "
+"\"types\"."
+msgstr ""
+"Vam puno navesti barem jedan od sljedećih: \"ključne riječi\", \"ime\", "
+"\"vrste\"."
+
+#: admin/google-places/GooglePlaces.php:184
+#: admin/google-places/GooglePlaces.php:201
+msgid "You must specify a radius."
+msgstr "Potrebno je odrediti radijus."
+
+#: admin/google-places/GooglePlaces.php:197
+msgid "You must specify a location before calling radarsearch()."
+msgstr "Morate navesti mjesto prije nego nazovete radarsearch()."
+
+#: admin/google-places/GooglePlaces.php:221
+msgid ""
+"You must specify either a \"placeid\" or a \"reference\" (but not both) "
+"before calling details()."
+msgstr ""
+"Morate navesti ili \"placeid\" ili \"link\" (ali ne oba) prije nego što se "
+"zvati dogovor()."
+
+#: admin/ReduxFramework/theme-options/re7-config.php:245
+#: admin/ReduxFramework/theme-options/re7-config.php:246
+msgid "Real Estate 7 Options"
+msgstr "Nekretnine 7 Smještajnih"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:923
+msgid "Theme Information 1"
+msgstr "Tema 1 Informacije"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:924
+#: admin/ReduxFramework/theme-options/re7-config.php:929
+msgid "<p>This is the tab content, HTML is allowed.</p>"
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:928
+msgid "Theme Information 2"
+msgstr "Tema Podaci 2"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:935
+msgid "<p>This is the sidebar content, HTML is allowed.</p>"
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:941
+msgid "General Settings"
+msgstr "Opće Postavke"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1011
+#: admin/ReduxFramework/theme-options/re7-config.php:2160
+msgid "Header"
+msgstr "Naslov"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1079
+msgid "Custom Logo"
+msgstr "Običaj Logos"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1130
+msgid "Top Bar"
+msgstr "Gornja Ploča"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1151
+msgid "Contact Phone"
+msgstr "Kontakt Telefon"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1171
+#: admin/ReduxFramework/theme-options/re7-config.php:1310
+#: admin/ReduxFramework/theme-options/re7-config.php:1341
+#: admin/ReduxFramework/theme-options/re7-config.php:1372
+msgid "Icon"
+msgstr "Ikona"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1172
+#: admin/ReduxFramework/theme-options/re7-config.php:1311
+#: admin/ReduxFramework/theme-options/re7-config.php:1342
+#: admin/ReduxFramework/theme-options/re7-config.php:1373
+msgid "Select an icon."
+msgstr "Odaberite ikonu."
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1188
+msgid "Social Links"
+msgstr "Društvene Veze"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1279
+msgid "Header Info Columns"
+msgstr "Naslov Informacije O Stupaca"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1287
+msgid "Column One"
+msgstr "Zvučnici"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1318
+msgid "Column Two"
+msgstr "Dvije Kolone"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1349
+msgid "Column Three"
+msgstr "Tri Kolone"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1381
+msgid "Homepage"
+msgstr "Početna stranica"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1391
+msgid "Layout Manager"
+msgstr "Direktor Za Mjesto "
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1432
+msgid "Revolution Slider"
+msgstr "Klizač Revolucija "
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1449
+#: admin/ReduxFramework/theme-options/re7-config.php:1856
+msgid "FlexSlider"
+msgstr "FlexSlider"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1475
+msgid "Listing Carousel"
+msgstr "Broj Karusel"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1514
+msgid "Hero w/Search"
+msgstr "Junak w/pretraživanje"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1561
+msgid "Top Padding"
+msgstr "Uvlačenje Vrha"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1562
+msgid "Set the top padding in percentage."
+msgstr "Postavite gornji padding u postocima."
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1572
+msgid "Bottom Padding"
+msgstr "Donja Presvlake"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1573
+msgid "Set the bottom padding in percentage."
+msgstr "Postavite Donji padding u postocima."
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1584
+msgid "Call To Action"
+msgstr "Poziv Na Akciju"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1615
+msgid "Listings Count"
+msgstr "Oglasi Se Grof"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1719
+msgid "Add/Edit Testimonials"
+msgstr "Dodaj/Uredi Naši"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1720
+msgid "Add your testimonials to be displayed on the homepage."
+msgstr "Dodajte svoje naši, koji će se prikazati na glavnoj stranici."
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1722
+msgid "Company or Person"
+msgstr "Tvrtka ili pojedinac"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1723
+msgid "Testimonial Here"
+msgstr "Savjet Ovdje"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1724
+#: admin/ReduxFramework/theme-options/re7-config.php:1754
+msgid "Link"
+msgstr "Link"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1732
+msgid "Partners"
+msgstr "Partneri"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1749
+msgid "Add/Edit Partner Logos"
+msgstr "Dodaj/Uredi Logotipi Partnera "
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1750
+msgid "Add your partner logos to be displayed on the homepage."
+msgstr "Dodati vaš partner logotipa koji će se prikazati na glavnoj stranici."
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1752
+msgid "Partner Title"
+msgstr "Naziv Partnera "
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1753
+msgid "Description Here (not used)"
+msgstr "Opis ovdje (ne koristi se)"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1775
+msgid "Elementor"
+msgstr "Факир"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1796
+msgid "Page Builder"
+msgstr "Tvorac Stranice "
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1840
+msgid "Four Column Widget Area"
+msgstr "Četiri Dodatak-Zonu Stupac "
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1934
+msgid "Create a Skin"
+msgstr "Stvoriti kože"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1957
+#: admin/ReduxFramework/theme-options/re7-config.php:2171
+#: admin/ReduxFramework/theme-options/re7-config.php:2318
+#: admin/ReduxFramework/theme-options/re7-config.php:2401
+#: admin/ReduxFramework/theme-options/re7-config.php:2526
+#: admin/ReduxFramework/theme-options/re7-config.php:2566
+msgid "NOTE!"
+msgstr "Pažnja!"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1958
+msgid "If this isn't set to Yes NONE of the Styles will be Applied."
+msgstr ""
+"Ako to nije utvrđeno da niti jedan od stilova koji će se primjenjivati."
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1965
+msgid "Typography"
+msgstr "Deklaracija o hrvatskom jeziku"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1985
+msgid "Body"
+msgstr "Tijelo"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2004
+msgid "Headings"
+msgstr "Naslovi"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2023
+msgid "H1"
+msgstr "N1"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2043
+msgid "H2"
+msgstr "H2"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2063
+msgid "H3"
+msgstr "Н3"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2083
+msgid "H4"
+msgstr "N4"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2103
+msgid "H5"
+msgstr "Н5"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2123
+msgid "H6"
+msgstr "Н6"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2144
+msgid "Body Background"
+msgstr "Pozadina Tijela "
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2172
+#: admin/ReduxFramework/theme-options/re7-config.php:2319
+#: admin/ReduxFramework/theme-options/re7-config.php:2402
+#: admin/ReduxFramework/theme-options/re7-config.php:2527
+#: admin/ReduxFramework/theme-options/re7-config.php:2567
+msgid ""
+"You must set Create a Skin > Use Custom Styles > Yes, if this isn't set NONE "
+"of the Styles will be Applied."
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2307
+msgid "Mobile Navigation"
+msgstr "Mobilna Navigacija"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2390
+msgid "Secondary Colors"
+msgstr "Sekundarne Boje"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2515
+msgid "Links"
+msgstr "Linkovi"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2555
+#: admin/ReduxFramework/theme-options/re7-config.php:5682
+msgid "Footer"
+msgstr "Podnožja"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2625
+msgid "User Profile Fields"
+msgstr "Polja Profil Korisnika "
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2761
+msgid "Agent Single"
+msgstr "Jedan Agent"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2842
+msgid "Google Maps"
+msgstr "Google Maps "
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2899
+msgid "Global Options"
+msgstr "Globalne Mogućnosti"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2900
+msgid ""
+"These options apply globally to the homepage, expanded area of header search "
+"and search widget."
+msgstr ""
+"Te postavke primjenjuju se na početnu stranicu, proširene područje zaglavlja "
+"traži i widget za pretraživanje."
+
+#: admin/ReduxFramework/theme-options/re7-config.php:3063
+msgid "Header Search"
+msgstr "Naslov Pretraživanje"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:3154
+msgid "Homepage Search"
+msgstr "Traži Početna Stranica "
+
+#: admin/ReduxFramework/theme-options/re7-config.php:3187
+msgid "Elementor Search Module"
+msgstr "Modul Za Pretraživanje Факир "
+
+#: admin/ReduxFramework/theme-options/re7-config.php:3522
+msgid "Listings Search"
+msgstr "Traži Ponude"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:3711
+msgid "Listing Single"
+msgstr "Broj Jedan"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:4024
+msgid "Listing Stats"
+msgstr "Broj Statistika"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:4065
+msgid "WalkScore"
+msgstr "WalkScore"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:4068
+msgid ""
+"Walk Score is the only international measure of walkability and the leading "
+"provider of neighborhood maps to the real estate industry. More than 30,000 "
+"websites use the Walk Score Neighborhood Map and we serve over 20 million "
+"scores each day. <a href=\"https://www.walkscore.com/professional/api-sign-"
+"up.php\" target=\"_blank\">Get your API Key</a>!."
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:4106
+msgid "MailChimp"
+msgstr "U MailChimp"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:4109
+msgid ""
+"Send newly registered users directly to your MailChimp list, <a href=\"https:"
+"//us5.admin.mailchimp.com/account/api/\" target=\"_blank\">Get your API "
+"Key</a>."
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:4158
+msgid ""
+"Set this up if you'd like to display \"What's Nearby?\" information on your "
+"listings such as restaurants, grocery stores, schools, coffee shops, "
+"etc&hellip;."
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:4265
+msgid "Front End Login & Registration"
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:4372
+msgid "Front End Submission"
+msgstr "Prednji Kraj Predstave"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:4585
+msgid "Submit Listing Form"
+msgstr "Dostaviti Obrazac "
+
+#: admin/ReduxFramework/theme-options/re7-config.php:4596
+#: admin/ReduxFramework/theme-options/re7-config.php:4685
+#: admin/ReduxFramework/theme-options/re7-config.php:4893
+#: admin/ReduxFramework/theme-options/re7-config.php:4982
+msgid "Select which fields you'd like to be required."
+msgstr "Odaberite koja polja želite biti potrebne."
+
+#: admin/ReduxFramework/theme-options/re7-config.php:4804
+msgid ""
+"Select which fields you'd like to be required, these are only shown if "
+"enabled via Listings > Listing Single > Enable Vacation Rentals/Booking "
+"Fields."
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:5000
+msgid "PayPal Settings"
+msgstr "Postavke Sustava PayPal "
+
+#: admin/ReduxFramework/theme-options/re7-config.php:5073
+msgid "Stripe Settings"
+msgstr "Postavke Нашивки "
+
+#: admin/ReduxFramework/theme-options/re7-config.php:5111
+msgid "Wire Transfer"
+msgstr "Prijevod "
+
+#: admin/ReduxFramework/theme-options/re7-config.php:5148
+msgid "WeCashUp Settings"
+msgstr "Postavke WeCashUp "
+
+#: admin/ReduxFramework/theme-options/re7-config.php:5241
+msgid "Email Content"
+msgstr "Sadržaj E-Mail"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:5377
+msgid "Blog Archive"
+msgstr "Blog Arhiva "
+
+#: admin/ReduxFramework/theme-options/re7-config.php:5419
+msgid "Single Post"
+msgstr "Jedan Post"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:5587
+msgid "Map Addresses"
+msgstr "Karta Adresa"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:5588
+msgid ""
+"Enter the address of your locations to be used in the Google Map, needs to "
+"be entered in this format for each entry: 849 West Harbor Dr. San Diego, CA "
+"92101"
+msgstr ""
+"Unesite adresu vaše lokacije za korištenje Google maps, mora biti uvedena "
+"upravo u tom formatu za svaki zapis: 849 Zapadna harbor dr, San Diego, Ca "
+"92101"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:5652
+msgid "Custom CSS"
+msgstr "Custom CSS"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:5667
+msgid "Custom JS"
+msgstr "Custom-JS"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:5748
+msgid "Import/Export"
+msgstr "Uvoz/Izvoz"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:5785
+msgid "Changelog"
+msgstr "Чейнджлог"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:5901
+msgid "Section via hook"
+msgstr "Odjeljak preko kuka"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:5902
+msgid ""
+"<p class=\"description\">This is a section created by adding a filter to the "
+"sections array. Can be used by child themes to add/remove sections from the "
+"options.</p>"
+msgstr ""
+
+#. Name of the theme
+msgid "WP-Themes/WP-Themes/realestate-7"
+msgstr "WР-teme mapu/wp-teme/nekretnine-7"

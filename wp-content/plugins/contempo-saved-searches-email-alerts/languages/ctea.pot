@@ -1,0 +1,143 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-03-21 23:53+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: contempo-saved-searches-email-alerts.php:40
+msgid "Create a new email alert"
+msgstr ""
+
+#: contempo-saved-searches-email-alerts.php:41
+msgid ""
+"What are you looking for? Fill out the fields below it can be as precise or "
+"as broad as you like."
+msgstr ""
+
+#: contempo-saved-searches-email-alerts.php:44
+msgid "Type of Property"
+msgstr ""
+
+#: contempo-saved-searches-email-alerts.php:49
+msgid "Status"
+msgstr ""
+
+#: contempo-saved-searches-email-alerts.php:54
+msgid "Beds"
+msgstr ""
+
+#: contempo-saved-searches-email-alerts.php:59
+msgid "Baths"
+msgstr ""
+
+#: contempo-saved-searches-email-alerts.php:64
+msgid "Price From"
+msgstr ""
+
+#: contempo-saved-searches-email-alerts.php:69
+msgid "Price To"
+msgstr ""
+
+#: contempo-saved-searches-email-alerts.php:74
+msgid "City"
+msgstr ""
+
+#: contempo-saved-searches-email-alerts.php:79
+msgid "State"
+msgstr ""
+
+#: contempo-saved-searches-email-alerts.php:91
+msgid "Submit"
+msgstr ""
+
+#: contempo-saved-searches-email-alerts.php:92
+msgid "Submit Alert"
+msgstr ""
+
+#: contempo-saved-searches-email-alerts.php:114
+msgid "Are you sure you want to delete?"
+msgstr ""
+
+#: contempo-saved-searches-email-alerts.php:142
+msgid ""
+" - Esetting is saved. You will receive an email notification when new "
+"properties matching your search will be published"
+msgstr ""
+
+#: contempo-saved-searches-email-alerts.php:158
+#: contempo-saved-searches-email-alerts.php:207
+msgid "Unverified Nonce!"
+msgstr ""
+
+#: contempo-saved-searches-email-alerts.php:192
+msgid ""
+"Search is saved. You will receive an email notification when new properties "
+"matching your search will be published"
+msgstr ""
+
+#: contempo-saved-searches-email-alerts.php:254
+msgid ""
+"Alert has been saved. You will receive an email notification when new "
+"properties matching your search will be published"
+msgstr ""
+
+#: contempo-saved-searches-email-alerts.php:274
+#: contempo-saved-searches-email-alerts.php:287
+msgid "you don't have the right to delete this"
+msgstr ""
+
+#: contempo-saved-searches-email-alerts.php:298
+msgid "Deleted Successfully"
+msgstr ""
+
+#: contempo-saved-searches-email-alerts.php:544
+msgid "Manage your email alerts"
+msgstr ""
+
+#: contempo-saved-searches-email-alerts.php:544
+msgid "here"
+msgstr ""
+
+#: contempo-saved-searches-email-alerts.php:603
+msgid "Hello,"
+msgstr ""
+
+#: contempo-saved-searches-email-alerts.php:603
+msgid "A new submission matching your chosen criteria has been published at "
+msgstr ""
+
+#: contempo-saved-searches-email-alerts.php:604
+msgid "These are the new submissions:"
+msgstr ""
+
+#: contempo-saved-searches-email-alerts.php:619
+msgid ""
+"If you do not wish to be notified anymore please enter your account and "
+"delete the Email Alert. Thank you."
+msgstr ""
+
+#. Name of the plugin
+msgid "Contempo Saved Searches & Email Alerts"
+msgstr ""
+
+#. Description of the plugin
+msgid "This plugin allows users be alerted via email when a listing is added."
+msgstr ""
+
+#. Author of the plugin
+msgid "Contempo"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://contempographicdesign.com"
+msgstr ""

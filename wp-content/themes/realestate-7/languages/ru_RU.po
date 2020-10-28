@@ -1,0 +1,4072 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-01-04 21:39+0000\n"
+"PO-Revision-Date: 2020-01-04 21:39+0000\n"
+"Last-Translator: \n"
+"Language-Team: Russian\n"
+"Language: ru_RU\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: includes/featured-listings.php:60 includes/featured-listings.php:69
+#: includes/home-listings-carousel.php:44
+#: includes/home-listings-carousel.php:53 includes/single-listing-home.php:29
+msgid "featured"
+msgstr ""
+
+#: 404.php:15
+msgid "Page Not Found"
+msgstr "Страница не найдена"
+
+#: 404.php:16
+msgid "Woah there! Looks like you've gotten lost."
+msgstr "Упс. Похоже вы заблудились."
+
+#: 404.php:17
+msgid "Go back to the homepage"
+msgstr "Вернуться на главную"
+
+#: archive-brokerage.php:37
+#: admin/ReduxFramework/theme-options/re7-config.php:2416
+msgid "Brokerages"
+msgstr "Агентства"
+
+#: archive-brokerage.php:51 template-brokerages.php:52
+msgid "Type a brokerage name or address here to filter the list."
+msgstr "Введите название Агентства или адрес, для фильтрации списка."
+
+#: archive-brokerage.php:107 author.php:70 single-brokerage.php:77
+#: single-brokerage.php:269 template-agents.php:129 template-brokerages.php:122
+#: template-favorite-listings.php:111
+msgid "Tell me more about a property"
+msgstr "Расскажите мне больше об объекте"
+
+#: archive-brokerage.php:108 author.php:71 single-brokerage.php:78
+#: single-brokerage.php:270 template-agents.php:130 template-brokerages.php:123
+#: template-favorite-listings.php:112 includes/agent-contact-modal.php:22
+#: includes/single-listing-contact.php:213 includes/single-listing-home.php:273
+#: includes/widgets/ct-widget-listingscontact.php:31
+msgid "Request a showing"
+msgstr "Запрос показа"
+
+#: archive-brokerage.php:109 author.php:72 single-brokerage.php:79
+#: single-brokerage.php:271 template-agents.php:131 template-brokerages.php:124
+#: template-favorite-listings.php:113
+msgid "General Questions"
+msgstr "Общие вопросы"
+
+#: archive-brokerage.php:112 author.php:75 single-brokerage.php:82
+#: single-brokerage.php:274 template-agents.php:134 template-brokerages.php:127
+#: template-edit-profile.php:129 template-favorite-listings.php:116
+#: includes/agent-contact-modal.php:25 includes/single-listing-contact.php:216
+#: includes/single-listing-home.php:276
+#: includes/single-listing-multi-floorplan.php:27
+#: includes/widgets/ct-widget-listingscontact.php:34
+msgid "Name"
+msgstr "Имя"
+
+#: archive-brokerage.php:114 archive-brokerage.php:176 author.php:77
+#: author.php:144 single-brokerage.php:84 single-brokerage.php:134
+#: single-brokerage.php:276 single-brokerage.php:340 template-agents.php:136
+#: template-agents.php:204 template-brokerages.php:129
+#: template-brokerages.php:189 template-favorite-listings.php:118
+#: admin/theme-functions.php:2558 includes/agent-contact-modal.php:27
+#: includes/single-listing-contact.php:88
+#: includes/single-listing-contact.php:168
+#: includes/single-listing-contact.php:218
+#: includes/single-listing-contact.php:283 includes/single-listing-home.php:255
+#: includes/single-listing-home.php:278 includes/single-listing-home.php:339
+#: includes/widgets/ct-widget-agentinfo.php:79
+#: includes/widgets/ct-widget-listingscontact.php:36
+msgid "Email"
+msgstr "Email"
+
+#: archive-brokerage.php:116 author.php:79 single-brokerage.php:86
+#: single-brokerage.php:278 template-agents.php:138 template-brokerages.php:131
+#: template-contact.php:71 template-favorite-listings.php:120
+#: includes/agent-contact-modal.php:29 includes/single-listing-contact.php:220
+#: includes/single-listing-home.php:280
+#: includes/widgets/ct-widget-listingscontact.php:38
+msgid "Phone"
+msgstr "Телефон"
+
+#: archive-brokerage.php:124 author.php:87 single-brokerage.php:94
+#: single-brokerage.php:286 template-agents.php:146 template-brokerages.php:137
+#: template-contact.php:82 template-favorite-listings.php:127
+#: template-submit-listing.php:558 includes/agent-contact-modal.php:38
+#: includes/single-listing-contact.php:228 includes/single-listing-home.php:288
+#: includes/widgets/ct-widget-listingscontact.php:47
+msgid "Submit"
+msgstr "Отправить"
+
+#: archive-brokerage.php:193 template-brokerages.php:206
+#: template-view-listings.php:205
+#: includes/single-listing-multi-floorplan.php:122
+msgid "View"
+msgstr "Показать"
+
+#: archive-brokerage.php:203 template-brokerages.php:216
+msgid "No Brokerages Found."
+msgstr "Агентств не найдено."
+
+#: archive.php:77
+msgid "No posts were found which match your search criteria"
+msgstr "Соответствующие вашему запросы объекты не найдены"
+
+#: archive.php:77 layouts/grid.php:23 layouts/list.php:20
+msgid "Try broadening your search to find more results."
+msgstr "Расширите поиск, чтобы найте обльше результатов."
+
+#: author.php:32 admin/profile-fields.php:60 layouts/list.php:119
+msgid "Agent"
+msgstr "Агент"
+
+#: author.php:202
+msgid "Type a listing address or keyword to filter the list."
+msgstr "Введите адрес или ключевое слово для фильтрации списка."
+
+#: comments.php:13
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Этот пост защищен паролем. Введите пароль для просмотра комментариев."
+
+#: comments.php:31
+msgid "No Responses"
+msgstr "Нет ответов"
+
+#: comments.php:31
+msgid "1 Comment"
+msgstr "1 комментарий"
+
+#: comments.php:31
+msgid "% Comments"
+msgstr "% комментариев"
+
+#: comments.php:44
+msgid "&larr; Older Comments"
+msgstr "&larr; Предыдущие комментарии"
+
+#: comments.php:45
+msgid "Newer Comments &rarr;"
+msgstr "Новые комментарии & rarr;"
+
+#: comments.php:53
+msgid "Comments are closed, but"
+msgstr "Комментарии закрыты, но"
+
+#: comments.php:53
+msgid "Trackback URL for this post"
+msgstr "URL Обратных ссылок для этого поста"
+
+#: comments.php:53
+msgid "trackbacks"
+msgstr "Обратные ссылки"
+
+#: comments.php:53
+msgid "and pingbacks are open."
+msgstr "и уведомления открыты."
+
+#: comments.php:59
+msgid "Reviews are closed."
+msgstr "Отзывы закрыты."
+
+#: comments.php:61
+msgid "Comments are closed."
+msgstr "Комментарии закрыты."
+
+#: footer.php:67
+msgid "All Rights Reserved."
+msgstr "Все права защищены."
+
+#: functions.php:59
+msgid "Getting Started"
+msgstr "С чего начать"
+
+#: header.php:182 header.php:426
+msgid "Hi, "
+msgstr "Здравствуйте, "
+
+#: header.php:199 header.php:443 includes/user-sidebar.php:33
+msgid "Favorite Listings"
+msgstr "Избранные Обявлениия"
+
+#: header.php:202 header.php:446 includes/user-sidebar.php:36
+msgid "Listing Alerts"
+msgstr "Список оповещений"
+
+#: header.php:205 header.php:449 header.php:467 includes/user-sidebar.php:39
+msgid "Submit Listing"
+msgstr "Добавить объявление"
+
+#: header.php:208 header.php:452 includes/user-sidebar.php:42
+msgid "My Listings"
+msgstr "Мои объявления"
+
+#. Name of the template
+#: header.php:211 includes/user-sidebar.php:45
+msgid "Membership"
+msgstr "Членство"
+
+#. Name of the template
+#: header.php:214 includes/user-sidebar.php:48
+msgid "Invoices"
+msgstr "Счета-фактуры"
+
+#: header.php:217 header.php:455 includes/user-sidebar.php:51
+msgid "Account Settings"
+msgstr "Настройки аккаунта"
+
+#: header.php:219 header.php:457 includes/user-sidebar.php:53
+msgid "Logout"
+msgstr "Выход"
+
+#: header.php:223 header.php:465
+msgid "Login / Register"
+msgstr "Вход / Регистрация"
+
+#: header.php:223 header.php:465 admin/theme-functions.php:2486
+msgid "Login"
+msgstr "Логин"
+
+#: header.php:654
+msgid "Add \"CT Compare\" Widget via Appearance > Widgets > Compare."
+msgstr "Добовить \"CT Compare\" Виджет через Внешний вид > Виджеты > Compare."
+
+#: search-listings.php:385 search-listings.php:460
+msgid "listings found"
+msgstr "объявлений найдены"
+
+#: search-listings.php:385 search-listings.php:460
+msgid "listing found"
+msgstr "объявление найдено"
+
+#: search-listings.php:388 search-listings.php:463
+msgid "Find A Home"
+msgstr "Найти объект"
+
+#: search-listings.php:400 search-listings.php:474 search-listings.php:497
+msgid "Searching:"
+msgstr "Поиск:"
+
+#: search-listings.php:404 search-listings.php:478 search-listings.php:501
+msgid "All listings"
+msgstr "Все объявления"
+
+#: search-listings.php:406 admin/theme-functions.php:851
+msgid "Open Search"
+msgstr "Открыть поиск"
+
+#: search-listings.php:480 search-listings.php:503
+#: admin/theme-functions.php:848
+msgid "Close Map"
+msgstr "Karte schließen"
+
+#: search-listings.php:537 search-listings.php:541
+msgid "Save This Search?"
+msgstr "Diese Suche speichern?"
+
+#: search-listings.php:539
+msgid "View Saved"
+msgstr "Ansicht gespeichert"
+
+#: single-brokerage.php:38 admin/profile-fields.php:159
+msgid "Brokerage"
+msgstr "Агентства"
+
+#: single-brokerage.php:147 single-listings.php:38
+#: admin/ReduxFramework/theme-options/re7-config.php:2663
+msgid "Listings"
+msgstr "Объявления"
+
+#: single-brokerage.php:148
+#: admin/ReduxFramework/theme-options/re7-config.php:2353
+msgid "Agents"
+msgstr "Агенты"
+
+#: single-brokerage.php:149
+msgid "Map"
+msgstr "Карта"
+
+#: single-brokerage.php:151 includes/single-listing-sub-navigation.php:149
+msgid "Reviews"
+msgstr "Отзывы"
+
+#: single-brokerage.php:213 template-agents.php:50
+msgid "Type an agents name or title here to filter the list."
+msgstr "Введите имя агентов или название для фильтрации списка."
+
+#: single-brokerage.php:359 template-agents.php:242
+msgid "View Listings"
+msgstr "Показать Объявления"
+
+#: single-brokerage.php:370
+msgid "This brokerage currently has no active agents."
+msgstr "Это агентство в настоящее время не имеет активных агентов."
+
+#: single-brokerage.php:370 layouts/grid.php:19 layouts/grid.php:21
+#: layouts/list.php:16 layouts/list.php:18
+msgid "Check back soon."
+msgstr "Вернитесь позже"
+
+#: single-brokerage.php:392 includes/single-listing-reviews.php:19
+msgid "No Reviews"
+msgstr "Нет отзывов"
+
+#: single-brokerage.php:392 includes/single-listing-reviews.php:19
+msgid "1 Review"
+msgstr "1 Отзыв"
+
+#: single-brokerage.php:392 includes/single-listing-reviews.php:19
+msgid "% Reviews"
+msgstr "% Отзывов"
+
+#: single-listings.php:62 single-listings.php:68 single-listings.php:74
+#: single-listings.php:101 single-listings.php:102 single-listings.php:103
+#: includes/single-listing-home.php:371 includes/single-listing-home.php:372
+#: includes/single-listing-home.php:373
+#: includes/widgets/ct-widget-listingssocial.php:29
+#: includes/widgets/ct-widget-listingssocial.php:30
+#: includes/widgets/ct-widget-listingssocial.php:31
+msgid "Check out this great listing on"
+msgstr "Проверить это объявление"
+
+#: single-listings.php:106 admin/theme-functions.php:852
+#: includes/agent-contact-modal.php:16
+msgid "Close"
+msgstr "Закрыть"
+
+#: single-listings.php:167 template-edit-listing.php:229
+#: template-edit-profile.php:57 template-listing-email-alerts.php:68
+#: template-membership.php:60 template-submit-listing.php:221
+#: template-user-stats.php:51 template-view-invoices.php:58
+#: template-view-listings.php:62
+msgid "You must be logged in to view this page."
+msgstr "Вы должны быть авторизованы для просмотра этой страницы."
+
+#: single.php:79 includes/post-author-info.php:15 layouts/blog-grid.php:54
+#: layouts/blog-large.php:54
+msgid "By"
+msgstr "От"
+
+#: single.php:79 layouts/blog-grid.php:54 layouts/blog-large.php:54
+msgid "in"
+msgstr "в"
+
+#: single.php:79 layouts/blog-grid.php:54 layouts/blog-large.php:54
+msgid "with"
+msgstr "с"
+
+#: single.php:127 template-dsidxpress.php:41 template-edit-listing.php:625
+#: template-submit-listing.php:569
+msgid "Pages:"
+msgstr "Страниц:"
+
+#. Name of the template
+#: admin/ReduxFramework/theme-options/re7-config.php:2494
+msgid "Advanced Search"
+msgstr "Расширенный поиск"
+
+#: template-advanced-search.php:62 template-edit-listing.php:251
+#: template-submit-listing.php:257 admin/theme-functions.php:3464
+#: includes/advanced-search.php:37 includes/header-advanced-search.php:31
+#: includes/header-advanced-search.php:289
+#: admin/plugins/class-tgm-plugin-activation.php:2634
+#: includes/widgets/ct-widget-listingssearch.php:46
+msgid "Type"
+msgstr "Тип"
+
+#: template-advanced-search.php:67 template-edit-listing.php:536
+#: template-submit-listing.php:477 admin/profile-fields.php:185
+#: admin/theme-functions.php:4189 includes/advanced-search.php:46
+#: includes/header-advanced-search.php:40
+#: includes/header-advanced-search.php:299
+#: includes/widgets/ct-widget-listingssearch.php:55
+msgid "City"
+msgstr "Город"
+
+#: template-advanced-search.php:77 template-edit-listing.php:546
+#: template-submit-listing.php:487 admin/theme-functions.php:4016
+#: admin/theme-functions.php:4035 admin/theme-functions.php:4191
+#: includes/advanced-search.php:60
+#: includes/widgets/ct-widget-listingssearch.php:69
+msgid "Area"
+msgstr "Площадь"
+
+#: template-advanced-search.php:79 template-edit-listing.php:548
+#: template-submit-listing.php:489 admin/theme-functions.php:4071
+#: admin/theme-functions.php:4193 admin/theme-functions.php:4217
+#: includes/advanced-search.php:62
+#: includes/widgets/ct-widget-listingssearch.php:71
+msgid "Suburb"
+msgstr "Пригород"
+
+#: template-advanced-search.php:81 template-edit-listing.php:556
+#: template-submit-listing.php:497 admin/theme-functions.php:4201
+#: includes/advanced-search.php:64
+#: includes/widgets/ct-widget-listingssearch.php:73
+msgid "State"
+msgstr "Область"
+
+#: template-advanced-search.php:92 admin/theme-functions.php:4052
+#: admin/theme-functions.php:4223 includes/advanced-search.php:79
+#: includes/widgets/ct-widget-listingssearch.php:88
+msgid "Postcode"
+msgstr "Индекс"
+
+#: template-advanced-search.php:94 admin/theme-functions.php:4054
+#: admin/theme-functions.php:4227 includes/advanced-search.php:81
+#: includes/widgets/ct-widget-listingssearch.php:90
+msgid "Zipcode"
+msgstr "Индекс"
+
+#: template-advanced-search.php:100 template-edit-listing.php:567
+#: template-submit-listing.php:508 admin/theme-functions.php:4181
+#: includes/advanced-search.php:91 includes/header-advanced-search.php:65
+#: includes/header-advanced-search.php:327
+#: includes/widgets/ct-widget-listingssearch.php:100
+msgid "Country"
+msgstr "Страна"
+
+#: template-advanced-search.php:105 template-edit-listing.php:428
+#: template-submit-listing.php:345 admin/theme-functions.php:4203
+#: includes/advanced-search.php:118 includes/header-advanced-search.php:92
+#: includes/header-advanced-search.php:337
+#: includes/single-listing-multi-floorplan.php:33
+#: includes/widgets/ct-widget-listingssearch.php:127
+msgid "Beds"
+msgstr "Спален"
+
+#: template-advanced-search.php:110 template-edit-listing.php:433
+#: template-submit-listing.php:350 admin/theme-functions.php:3335
+#: admin/theme-functions.php:4205 includes/advanced-search.php:127
+#: includes/header-advanced-search.php:101
+#: includes/header-advanced-search.php:347
+#: includes/single-listing-multi-floorplan.php:36 includes/sub-listings.php:95
+#: includes/widgets/ct-widget-agentsotherlistings.php:133
+#: includes/widgets/ct-widget-listingssearch.php:136
+msgid "Baths"
+msgstr "Ванных комнат"
+
+#: template-advanced-search.php:115 template-edit-listing.php:266
+#: template-submit-listing.php:262 template-view-invoices.php:90
+#: admin/theme-functions.php:4207 includes/advanced-search.php:136
+#: includes/header-advanced-search.php:110
+#: includes/header-advanced-search.php:357
+#: admin/plugins/class-tgm-plugin-activation.php:2639
+#: includes/widgets/ct-widget-listingssearch.php:145
+msgid "Status"
+msgstr "Статус"
+
+#: template-advanced-search.php:125 admin/theme-functions.php:4069
+#: admin/theme-functions.php:4211 includes/advanced-search.php:159
+#: includes/header-advanced-search.php:124
+#: includes/header-advanced-search.php:381
+#: includes/widgets/ct-widget-listingssearch.php:168
+msgid "Neighborhood"
+msgstr "Соседство"
+
+#: template-advanced-search.php:127 admin/theme-functions.php:4073
+#: admin/theme-functions.php:4213 includes/advanced-search.php:161
+#: includes/header-advanced-search.php:126
+#: includes/header-advanced-search.php:383
+#: includes/widgets/ct-widget-listingssearch.php:170
+msgid "District"
+msgstr "Район"
+
+#: template-advanced-search.php:129 admin/theme-functions.php:4079
+#: admin/theme-functions.php:4221 includes/advanced-search.php:109
+#: includes/advanced-search.php:163 includes/header-advanced-search.php:83
+#: includes/header-advanced-search.php:128
+#: includes/header-advanced-search.php:385
+#: includes/widgets/ct-widget-listingssearch.php:118
+#: includes/widgets/ct-widget-listingssearch.php:172
+msgid "Community"
+msgstr "Сообщество"
+
+#: template-advanced-search.php:135 template-advanced-search.php:136
+#: includes/advanced-search.php:173 includes/advanced-search.php:174
+#: includes/header-advanced-search.php:138
+#: includes/header-advanced-search.php:139
+#: includes/header-advanced-search.php:395
+#: includes/header-advanced-search.php:396
+#: includes/widgets/ct-widget-listingssearch.php:182
+#: includes/widgets/ct-widget-listingssearch.php:183
+msgid "Price From"
+msgstr "Цена от"
+
+#: template-advanced-search.php:140 template-advanced-search.php:141
+#: includes/advanced-search.php:182 includes/advanced-search.php:183
+#: includes/header-advanced-search.php:147
+#: includes/header-advanced-search.php:148
+#: includes/header-advanced-search.php:404
+#: includes/header-advanced-search.php:405
+#: includes/widgets/ct-widget-listingssearch.php:191
+#: includes/widgets/ct-widget-listingssearch.php:192
+msgid "Price To"
+msgstr "Цена до"
+
+#: template-advanced-search.php:145 template-advanced-search.php:146
+#: includes/advanced-search.php:192 includes/header-advanced-search.php:157
+#: includes/header-advanced-search.php:414
+#: includes/widgets/ct-widget-listingssearch.php:201
+msgid "Size From"
+msgstr "Площадь от"
+
+#: template-advanced-search.php:150 template-advanced-search.php:151
+#: includes/advanced-search.php:201 includes/header-advanced-search.php:166
+#: includes/header-advanced-search.php:423
+#: includes/widgets/ct-widget-listingssearch.php:210
+msgid "Size To"
+msgstr "Площадь до"
+
+#: template-advanced-search.php:155 template-advanced-search.php:156
+#: includes/advanced-search.php:209 includes/advanced-search.php:210
+#: includes/header-advanced-search.php:174
+#: includes/header-advanced-search.php:175
+#: includes/header-advanced-search.php:431
+#: includes/header-advanced-search.php:432
+#: includes/widgets/ct-widget-listingssearch.php:218
+#: includes/widgets/ct-widget-listingssearch.php:219
+msgid "Lot Size From"
+msgstr "Размер лота от"
+
+#: template-advanced-search.php:160 template-advanced-search.php:161
+#: includes/advanced-search.php:218 includes/advanced-search.php:219
+#: includes/header-advanced-search.php:183
+#: includes/header-advanced-search.php:184
+#: includes/header-advanced-search.php:440
+#: includes/header-advanced-search.php:441
+#: includes/widgets/ct-widget-listingssearch.php:227
+#: includes/widgets/ct-widget-listingssearch.php:228
+msgid "Lot Size To"
+msgstr "Размер лота До"
+
+#: template-advanced-search.php:165 template-advanced-search.php:166
+#: template-edit-listing.php:443 template-submit-listing.php:360
+#: includes/advanced-search.php:227 includes/advanced-search.php:228
+#: includes/header-advanced-search.php:192
+#: includes/header-advanced-search.php:193
+#: includes/header-advanced-search.php:449
+#: includes/header-advanced-search.php:450
+#: includes/single-listing-propinfo.php:17
+#: includes/widgets/ct-widget-listingssearch.php:236
+#: includes/widgets/ct-widget-listingssearch.php:237
+msgid "Property ID"
+msgstr "Номер объекта"
+
+#: template-advanced-search.php:176 template-advanced-search.php:177
+#: includes/advanced-search.php:236 includes/advanced-search.php:237
+#: includes/header-advanced-search.php:201
+#: includes/header-advanced-search.php:202
+#: includes/header-advanced-search.php:458
+#: includes/header-advanced-search.php:459
+#: includes/widgets/ct-widget-listingssearch.php:245
+#: includes/widgets/ct-widget-listingssearch.php:246
+msgid "Number of Guests"
+msgstr "Количество гостей"
+
+#: template-advanced-search.php:182 admin/theme-functions.php:4209
+#: includes/advanced-search.php:145
+#: includes/widgets/ct-widget-listingssearch.php:154
+msgid "Additional Features"
+msgstr "Дополнительные особенности"
+
+#: template-advanced-search.php:188 includes/advanced-search.php:256
+#: includes/header-advanced-search.php:236
+#: includes/header-advanced-search.php:268
+#: includes/home-hero-advanced-search.php:36
+#: includes/widgets/ct-widget-listingssearch.php:267
+msgid "Search"
+msgstr "Поиск"
+
+#: template-agents.php:256
+msgid "No Agents Found."
+msgstr "Агентов не найдено."
+
+#. Name of the template
+msgid "Big Map"
+msgstr "На карте"
+
+#. Name of the template
+#: admin/theme-functions.php:3129
+msgid "Compare"
+msgstr "Сравнить"
+
+#. Name of the template
+msgid "Contact No Form"
+msgstr "Контакт не имеет формы обратной связи"
+
+#: includes/single-listing-sub-navigation.php:169
+#: admin/ReduxFramework/theme-options/re7-config.php:4509
+msgid "Contact"
+msgstr "Контакт"
+
+#: template-contact.php:63
+msgid "Name*"
+msgstr "Имя*"
+
+#: template-contact.php:67
+msgid "Email*"
+msgstr "E-mail*"
+
+#: template-contact.php:74
+msgid "Subject*"
+msgstr "Тема*"
+
+#: template-contact.php:76
+msgid "Message"
+msgstr "Текст сообщения"
+
+#. Name of the template
+msgid "dsIDXpress"
+msgstr "dsidxpress"
+
+#. Name of the template
+msgid "Edit Listing"
+msgstr "Редактировать запись"
+
+#: template-edit-listing.php:241 template-submit-listing.php:247
+msgid "Street Address"
+msgstr "Улица и номер дома"
+
+#: template-edit-listing.php:246 template-submit-listing.php:252
+msgid "Alternate Title"
+msgstr "Альтернативное название"
+
+#: template-edit-listing.php:247 template-submit-listing.php:253
+msgid "(e.g. Downtown Penthouse)"
+msgstr "(т.е. Пентхаус Дом)"
+
+#: template-edit-listing.php:257 template-edit-listing.php:272
+#: admin/theme-functions.php:4320 admin/theme-functions.php:4348
+msgid "Any"
+msgstr "Любой"
+
+#: template-edit-listing.php:281 template-submit-listing.php:267
+#: includes/single-listing-multi-floorplan.php:43
+msgid "Price"
+msgstr "Цена"
+
+#: template-edit-listing.php:288 template-submit-listing.php:274
+msgid "Price Prefix"
+msgstr "Цена префикс"
+
+#: template-edit-listing.php:288 template-submit-listing.php:275
+msgid " (e.g. From, Call for price)"
+msgstr " (Например, позвоните, чтобы узнать цену)"
+
+#: template-edit-listing.php:293 template-submit-listing.php:279
+msgid "Price Postfix Text"
+msgstr "Цена Postfix Текст"
+
+#: template-edit-listing.php:293 template-submit-listing.php:280
+msgid " (e.g. /month, /week)"
+msgstr " (например, месяц / неделя)"
+
+#: template-edit-listing.php:301 template-submit-listing.php:285
+msgid "Listing Description"
+msgstr "Описание"
+
+#: template-edit-listing.php:318 template-submit-listing.php:299
+msgid "Listing Featured Image"
+msgstr "Изображения объекта"
+
+#: template-edit-listing.php:327 template-submit-listing.php:311
+#: admin/ReduxFramework/theme-options/re7-config.php:2864
+msgid "Listing Images"
+msgstr "Изображение объекта"
+
+#: template-edit-listing.php:404 template-submit-listing.php:321
+msgid "Drag & Drop Images Here"
+msgstr "Drag & Drop Images Here"
+
+#: template-edit-listing.php:407 template-submit-listing.php:324
+msgid "or"
+msgstr "или"
+
+#: template-edit-listing.php:410 template-submit-listing.php:327
+msgid "Select Images"
+msgstr "Выберите изображения"
+
+#: template-edit-listing.php:414
+msgid ""
+"*At least one image is required for valid submission, minimum width of 817px."
+msgstr ""
+"Необходимо как минимум 1 изображение с минимальной шириной 817 пискелей."
+
+#: template-edit-listing.php:415 template-submit-listing.php:332
+msgid ""
+"*You can mark an image as featured by clicking the star icon, Otherwise "
+"first image will be considered featured image."
+msgstr ""
+"Вы можете выбрать 1 изображение главным нажав на \"Звездочку\", в противном "
+"случае первым будет изображение большее по популярности."
+
+#: template-edit-listing.php:448 template-submit-listing.php:365
+msgid "Video URL"
+msgstr "Видео URL"
+
+#: template-edit-listing.php:454 template-submit-listing.php:394
+msgid "Additional Features (comma separated)"
+msgstr "Дополнительные характеристики (через запятую)"
+
+#: template-edit-listing.php:471 template-submit-listing.php:419
+msgid "Max-number of Guests"
+msgstr "Максимальное количество гостей"
+
+#: template-edit-listing.php:476 template-submit-listing.php:424
+msgid "Minimum Stay"
+msgstr "Мин. Пребывание"
+
+#: template-edit-listing.php:483 template-submit-listing.php:431
+msgid "Check In Time"
+msgstr "Время заезда"
+
+#: template-edit-listing.php:488 template-submit-listing.php:436
+msgid "Check Out Time"
+msgstr "Время отъезда"
+
+#: template-edit-listing.php:495 template-submit-listing.php:443
+msgid "Extra Person Charge"
+msgstr "Дополнительная плата за человека"
+
+#: template-edit-listing.php:500 template-submit-listing.php:448
+#: admin/theme-functions.php:3558
+msgid "Cleaning Fee"
+msgstr "Финальная уборка "
+
+#: template-edit-listing.php:507 template-submit-listing.php:455
+#: admin/theme-functions.php:3569
+msgid "Cancellation Fee"
+msgstr "Комиссия при отмене"
+
+#: template-edit-listing.php:512 template-submit-listing.php:460
+#: admin/theme-functions.php:3580
+msgid "Security Deposit"
+msgstr "Залог"
+
+#: template-edit-listing.php:531 template-submit-listing.php:472
+#: template-user-stats.php:80 template-user-stats.php:149
+#: admin/profile-fields.php:179
+msgid "Address"
+msgstr "Адрес"
+
+#: template-edit-listing.php:532 template-submit-listing.php:473
+msgid "Type in an address"
+msgstr "Введите адрес"
+
+#: template-edit-listing.php:550 template-submit-listing.php:491
+#: admin/theme-functions.php:4195
+msgid "Province"
+msgstr "Область"
+
+#: template-edit-listing.php:552 template-submit-listing.php:493
+#: admin/theme-functions.php:4197
+msgid "Region"
+msgstr "Регион"
+
+#: template-edit-listing.php:554 template-submit-listing.php:495
+#: admin/theme-functions.php:4199
+msgid "Parish"
+msgstr "Приход"
+
+#: template-edit-listing.php:577 template-submit-listing.php:518
+msgid "Latitude & Longitude (optional)"
+msgstr "Широта и долгота (необязательно)"
+
+#: template-edit-listing.php:586 template-submit-listing.php:527
+msgid ""
+"You can also manually drag the marker to the exact location of your listing "
+"if the automatic geolocation is off."
+msgstr ""
+"Вы также можете вручную перетащить маркер в точное местоположение вашего "
+"списка, если автоматическая геолокация отключена."
+
+#: template-edit-listing.php:592 template-submit-listing.php:533
+#: admin/theme-functions.php:2993
+#: admin/ReduxFramework/theme-options/re7-config.php:4024
+msgid "Private Notes"
+msgstr "Частные заметки"
+
+#: template-edit-listing.php:593 template-submit-listing.php:534
+msgid ""
+"Write a private note about this listing, this textarea will not be displayed "
+"anywhere on the front end of the site."
+msgstr ""
+"Напишите частную заметку об этом объявлении, это текстовое поле не будет "
+"отображаться нигде на сайте."
+
+#: template-edit-listing.php:605 template-submit-listing.php:546
+msgid "Cancel"
+msgstr "Отменить"
+
+#: template-edit-listing.php:608 template-submit-listing.php:550
+#: admin/theme-functions.php:2192
+msgid "Next"
+msgstr "Следующий"
+
+#: template-edit-listing.php:616
+#: admin/plugins/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr "Обновить"
+
+#: template-edit-listing.php:617 template-submit-listing.php:559
+msgid "Previous"
+msgstr "Предыдущий"
+
+#. Name of the template
+msgid "Edit Profile"
+msgstr "Редактировать профиль"
+
+#: template-edit-profile.php:78
+msgid "The passwords you entered do not match. Your password was not updated."
+msgstr "Пароль, который Вы вводите не совпадает. Ваш пароль не был обновлен."
+
+#: template-edit-profile.php:86
+msgid "The Email you entered is not valid. Please try again."
+msgstr ""
+"Введённый адрес электронной почты не допустим. Пожалуйста, попробуйте снова."
+
+#: template-edit-profile.php:88
+msgid "This email is already used by another user. Try a different one."
+msgstr ""
+"Эта электронная почта уже используется другим пользователем. Попробуйте "
+"другой адрес."
+
+#: template-edit-profile.php:133 admin/theme-functions.php:2477
+#: admin/theme-functions.php:2553
+msgid "Username"
+msgstr "Логин"
+
+#: template-edit-profile.php:134
+msgid "Usernames cannot be changed."
+msgstr "Nome de Usuário não pode ser alterado"
+
+#: template-edit-profile.php:137 admin/theme-functions.php:2563
+msgid "First Name"
+msgstr "Имя"
+
+#: template-edit-profile.php:141 admin/theme-functions.php:2568
+msgid "Last Name"
+msgstr "Фамилия"
+
+#: template-edit-profile.php:145
+msgid "Nickname"
+msgstr "Ник"
+
+#: template-edit-profile.php:145
+msgid "(required)"
+msgstr "(обязательно)"
+
+#: template-edit-profile.php:149
+msgid "Display to Public as"
+msgstr "Показ для публикации как"
+
+#: template-edit-profile.php:187
+msgid "Contact Info"
+msgstr "Контактная информация"
+
+#: template-edit-profile.php:191
+msgid "E-mail *"
+msgstr "E-mail *"
+
+#: template-edit-profile.php:195 admin/theme-functions.php:2573
+msgid "Website"
+msgstr "Сайт"
+
+#: template-edit-profile.php:218
+msgid "About Yourself"
+msgstr "О себе"
+
+#: template-edit-profile.php:222
+msgid "Biographical Information"
+msgstr "Биографическая информация"
+
+#: template-edit-profile.php:222
+msgid ""
+"Share a little biographical information to fill out your profile. This may "
+"be shown publicly."
+msgstr ""
+"Compartilhe algumas informações biográficas para preencher seu perfil. Estas "
+"informações podem ser mostradas publicamente"
+
+#: template-edit-profile.php:226
+msgid "New Password"
+msgstr "Новый пароль"
+
+#: template-edit-profile.php:226
+msgid ""
+"If you would like to change the password type a new one. Otherwise leave "
+"this blank."
+msgstr ""
+"Se você quiser alterar a senha digite uma nova. Caso contrário deixe este "
+"campo em branco"
+
+#: template-edit-profile.php:230
+msgid "Type your new password again."
+msgstr "Введите новый пароль еще раз."
+
+#: template-edit-profile.php:232
+msgid "Strength indicator"
+msgstr "Надежность пароля"
+
+#: template-edit-profile.php:244
+msgid "Update Profile"
+msgstr "Обновить профиль"
+
+#: template-favorite-listings.php:101
+msgid "Request More Information on All Favorites"
+msgstr "Запросить дополнительную информацию обо всех избранных"
+
+#: template-favorite-listings.php:178 template-view-listings.php:142
+#: layouts/list.php:74
+msgid "Bed:"
+msgstr "Спален:"
+
+#: template-favorite-listings.php:188 template-view-listings.php:152
+#: layouts/list.php:84
+msgid "Baths:"
+msgstr "Ванных комнат:"
+
+#: template-favorite-listings.php:199 template-view-listings.php:163
+#: layouts/list.php:95 includes/widgets/ct-widget-flickr.php:63
+msgid "Type:"
+msgstr "Тип:"
+
+#: template-favorite-listings.php:224
+msgid "Previous Entries"
+msgstr "Предыдущие записи"
+
+#: template-favorite-listings.php:225
+msgid "Next Entries"
+msgstr "Следующие записи"
+
+#. Name of the template
+msgid "Full Width 2"
+msgstr "Полная ширина 2"
+
+#. Name of the template
+msgid "Full Width"
+msgstr "Полная ширина"
+
+#: admin/theme-functions.php:4654 admin/theme-functions.php:5560
+msgid "Home"
+msgstr "Главная"
+
+#. Name of the template
+msgid "IDX Full Width"
+msgstr "IDX Full Width"
+
+#. Name of the template
+msgid "IDX w/Sidebar"
+msgstr "IDX w/Sidebar"
+
+#. Name of the template
+msgid "Landing Page"
+msgstr "Главная"
+
+#. Name of the template
+msgid "Left Sidebar"
+msgstr "Левая боковая панель"
+
+#. Name of the template
+#: admin/ReduxFramework/theme-options/re7-config.php:4189
+msgid "Listing Email Alerts"
+msgstr "Листинговые оповещения по E-Mail"
+
+#: template-listing-email-alerts.php:81
+msgid "Manage your alerts"
+msgstr "Управление оповещениями"
+
+#: template-listing-email-alerts.php:82
+msgid "Here you can turn saved alerts on/off or remove them completely."
+msgstr ""
+"Здесь вы можете включить / отключить оповещения или полностью удалить их."
+
+#: template-listing-email-alerts.php:87
+msgid "Query"
+msgstr "Фильтр"
+
+#: template-listing-email-alerts.php:90
+msgid "Date Created"
+msgstr "Дата создания"
+
+#: template-listing-email-alerts.php:93
+msgid "Email Setting"
+msgstr "Настройка E-Mail"
+
+#: template-listing-email-alerts.php:96 admin/theme-functions.php:2323
+msgid "Delete"
+msgstr "Удалить"
+
+#: template-listing-email-alerts.php:123
+msgid "You don't have any saved searches yet, create one above."
+msgstr "У вас еще нет сохраненных поисков, создайте один из них."
+
+#: template-listing-email-alerts.php:135
+msgid ""
+"Activate \"Contempo Email Alerts\" plugin via Appearance > Install Plugins."
+msgstr ""
+"Ativar o plugin \"Alertas de Email Contempo\" através de Aparência > "
+"Instalar Plugins"
+
+#. Name of the template
+msgid "Open Houses"
+msgstr "Открытые дома"
+
+#: template-open-houses.php:152
+msgid ""
+"If you plan on coming to a showing, you must call the listed number 30-60 "
+"minutes before the showing to confirm."
+msgstr ""
+"Если вы планируете посетить открытый дом, вы должны позвонить на указанный "
+"номер 30-60 минут перед вашим прибытием."
+
+#. Name of the template
+msgid "Packages Thank You"
+msgstr "Пакеты Спасибо"
+
+#: template-packages-thank-you.php:56
+msgid "Select a Package"
+msgstr "Выберите пакет"
+
+#: template-packages-thank-you.php:60
+msgid "Payment"
+msgstr "Оплата"
+
+#: template-packages-thank-you.php:64
+msgid "Complete"
+msgstr "Выполнено"
+
+#. Name of the template
+msgid "Sitemap"
+msgstr "Карта сайта"
+
+#: template-sitemap.php:51
+msgid "Last Twenty Posts"
+msgstr "Последние двадцать сообщений"
+
+#: template-sitemap.php:67
+msgid "Pages"
+msgstr "Страницы"
+
+#: template-sitemap.php:74
+msgid "Categories"
+msgstr "Категории"
+
+#: template-sitemap.php:81
+msgid "Posts per category"
+msgstr "Записи по категориям"
+
+#: template-submit-listing.php:230
+msgid "Listings Limit Reached"
+msgstr "Достигнут Лимит Объявлений"
+
+#: template-submit-listing.php:231
+msgid "You've reached the listings limit for your membership package."
+msgstr "Вы достигли предела обявлений для вашего пакета членства."
+
+#: template-submit-listing.php:231
+msgid "Upgrade Today!"
+msgstr "Обновить Сегодня!"
+
+#: template-submit-listing.php:304
+msgid "Gallery Images (select as many as you like)"
+msgstr "Галерея изображений (максимально 12)"
+
+#: template-submit-listing.php:331
+msgid "*At least one image is for valid submission, minimum width of 817px."
+msgstr ""
+"* По крайней мере одно изображение требуется для публикации, минимальная "
+"ширина 817px."
+
+#: template-submit-listing.php:373 admin/theme-functions.php:3727
+#: includes/single-listing-open-house.php:26
+#: includes/single-listing-sub-navigation.php:51
+msgid "Open House"
+msgstr "Открытый дом"
+
+#: template-submit-listing.php:376 includes/single-listing-open-house.php:32
+msgid "Date"
+msgstr "Дата"
+
+#: template-submit-listing.php:381
+msgid "Start Time"
+msgstr "Начало"
+
+#: template-submit-listing.php:386
+msgid "End Time"
+msgstr "Конец"
+
+#: template-submit-listing.php:420
+msgid " (e.g. 2)"
+msgstr " (прим. 2)"
+
+#: template-submit-listing.php:425
+msgid " (e.g. 1 night)"
+msgstr " (прим. 1 ночь)"
+
+#: template-submit-listing.php:432
+msgid " (e.g. 3:00 PM)"
+msgstr "(прим 15:00)"
+
+#: template-submit-listing.php:437
+msgid " (e.g. 11:00 AM)"
+msgstr " (прим 11:00)"
+
+#: template-submit-listing.php:444
+msgid " (e.g. 50)"
+msgstr " (прим. 50)"
+
+#: template-submit-listing.php:449
+msgid " (e.g. 150)"
+msgstr " (прим. 150)"
+
+#: template-submit-listing.php:456
+msgid " (e.g. 275)"
+msgstr " (прим. 275)"
+
+#: template-submit-listing.php:461
+msgid " (e.g. 895)"
+msgstr " (прим. 895)"
+
+#: template-submit-listing.php:547
+msgid "Save As Draft"
+msgstr "Сохранить как Проект"
+
+#. Name of the template
+#: admin/ReduxFramework/theme-options/re7-config.php:1503
+msgid "Testimonials"
+msgstr "Отзывы"
+
+#. Name of the template
+msgid "User/Agent Stats"
+msgstr "Пользователь / Агент Статистика"
+
+#: template-user-stats.php:56
+msgid "Traffic Overview"
+msgstr "Обзор трафика"
+
+#: template-user-stats.php:64
+msgid "Top Listings"
+msgstr "Топ объявлений"
+
+#: template-user-stats.php:67 template-user-stats.php:233
+msgid "Today"
+msgstr "Сегодня"
+
+#: template-user-stats.php:68 template-user-stats.php:234
+msgid "Yesterday"
+msgstr "Вчера"
+
+#: template-user-stats.php:81 template-user-stats.php:150
+msgid "Views"
+msgstr "Просмотры"
+
+#: template-user-stats.php:136 template-user-stats.php:205
+msgid "Total Views"
+msgstr "Всего просмотров"
+
+#: template-user-stats.php:137
+msgid "315"
+msgstr "315"
+
+#: template-user-stats.php:206
+msgid "314"
+msgstr "314"
+
+#: template-user-stats.php:222
+msgid "Traffic Sources"
+msgstr "Источники трафика"
+
+#: template-user-stats.php:230
+msgid "Top Referrers"
+msgstr "TOP Источники"
+
+#: template-user-stats.php:246 template-user-stats.php:279
+msgid "Referral Page Title"
+msgstr "Заголовок Источника"
+
+#: template-user-stats.php:247 template-user-stats.php:280
+msgid "Visits"
+msgstr "Besuche"
+
+#: template-user-stats.php:266 template-user-stats.php:299
+msgid "Total Visits"
+msgstr "Всего просмотров"
+
+#: template-user-stats.php:267 template-user-stats.php:300
+msgid "79"
+msgstr "79"
+
+#: template-view-invoices.php:78
+msgid "No Orders"
+msgstr "Нет заказов"
+
+#: template-view-invoices.php:85
+msgid "Invoice"
+msgstr "Счет"
+
+#: template-view-invoices.php:86
+msgid "Package"
+msgstr "Пакет"
+
+#: template-view-invoices.php:87
+msgid "Start"
+msgstr "Старт"
+
+#: template-view-invoices.php:88
+msgid "Expire"
+msgstr "Истекает"
+
+#: template-view-invoices.php:89
+msgid "Recurring"
+msgstr "Повторяющийся"
+
+#: template-view-invoices.php:91
+msgid "Total"
+msgstr "Сумма"
+
+#: template-view-invoices.php:107
+#: includes/widgets/ct-widget-contactinfo.php:128
+msgid "Yes"
+msgstr "Да"
+
+#: template-view-invoices.php:107
+#: includes/widgets/ct-widget-contactinfo.php:129
+msgid "No"
+msgstr "Нет"
+
+#: template-view-invoices.php:108
+msgid "Expired"
+msgstr "Истекло"
+
+#: template-view-invoices.php:109
+msgid "-"
+msgstr "-"
+
+#: template-view-listings.php:85
+msgid "Type a listing name or address here to filter the list."
+msgstr "Введите объявление или адрес здесь для фильтрации списка."
+
+#: template-view-listings.php:173 admin/theme-functions.php:3912
+msgid "Featured"
+msgstr "Избранное"
+
+#: template-view-listings.php:189
+msgid "Paid"
+msgstr "Оплачено"
+
+#: template-view-listings.php:204
+msgid "Edit"
+msgstr "Редактировать"
+
+#: template-view-listings.php:208 admin/theme-functions.php:3206
+msgid " Views"
+msgstr "Visualizações"
+
+#: template-view-listings.php:227
+msgid "You don't have any listings yet..."
+msgstr "У вас нет еще каких-либо объявлений..."
+
+#: template-view-listings.php:228
+msgid "Create One"
+msgstr "Создать одно"
+
+#: admin/profile-fields.php:29
+msgid "Select a Brokerage"
+msgstr "Выберите Агентство"
+
+#: admin/profile-fields.php:55
+msgid "Extra profile information"
+msgstr "Дополнительная информация профиля"
+
+#: admin/profile-fields.php:67
+msgid "Agent Order"
+msgstr "Makler-Auftrag "
+
+#: admin/profile-fields.php:70
+msgid ""
+"If user is an agent select the order you would like them displayed on the "
+"agents page, e.g. 1, 2, 3, etc&hellip; NOTE: You must also set Real Estate 7 "
+"Options > Agents > Manually Order Agents? > to Yes, otherwise the ordering "
+"won't be applied."
+msgstr ""
+"Se o usuário for um corretor selecione a ordem que você gostaria que ele "
+"aparecesse na página de corretores, ex: 1, 2, 3, etc&hellip; NOTA: Você "
+"precisa ajustar em Real Estate 7 Options > Agents > Manually Order Agents? > "
+"to Yes, caso contrário a ordem não vai ser aplicada"
+
+#: admin/profile-fields.php:74
+msgid "Profile Image"
+msgstr "Фото профиля"
+
+#: admin/profile-fields.php:84
+msgid ""
+"Please upload a profile picture here, if none is chosen a default image will "
+"be used."
+msgstr ""
+"Загрузите изображение профиля здесь, если ни один не выбран, будет "
+"использоваться изображение по умолчанию."
+
+#: admin/profile-fields.php:88
+msgid "Mobile #"
+msgstr "Número do Celular"
+
+#: admin/profile-fields.php:94
+msgid "Fax #"
+msgstr "Fax"
+
+#: admin/profile-fields.php:101
+msgid "Title"
+msgstr "Заголовок"
+
+#: admin/profile-fields.php:107
+msgid "Tagline"
+msgstr "Слоган"
+
+#: admin/profile-fields.php:113
+msgid "Agent License #"
+msgstr "CRECI do corretor"
+
+#: admin/profile-fields.php:116
+msgid "Add the agents license number here."
+msgstr "Adicione o número do CRECI do corretor aqui"
+
+#: admin/profile-fields.php:123
+msgid "Agent Testimonials"
+msgstr "Отзывы агентов"
+
+#: admin/profile-fields.php:127
+msgid ""
+"If this user is marked as an agent (\"Show on agents page\" option above) "
+"use this area to add client testimonials."
+msgstr ""
+"Se esse usuário for marcado como corretor (opção \"Mostrar na página de "
+"corretores\" acima) use esta área para adicionar depoimentos de clientes"
+
+#: admin/profile-fields.php:141
+msgid "Office Information"
+msgstr "Информация о агентстве"
+
+#: admin/profile-fields.php:145
+msgid "Personal Logo"
+msgstr "Персональный логотип"
+
+#: admin/profile-fields.php:155
+msgid ""
+"Upload your personal logo here, or if you choose to associate a Brokerage "
+"below that logo will be used instead."
+msgstr ""
+"Faça o upload de seu logo pessoal aqui, ou se se você escolher se associar à "
+"Imobiliária abaixo, aquele logo será usado no lugar"
+
+#: admin/profile-fields.php:162
+msgid ""
+"Assign a brokerage here, these are pulled from the Brokerage custom post "
+"type."
+msgstr ""
+"Escolha a imobiliária aqui, as imobiliárias são selecionadas da aba "
+"Imobiliárias"
+
+#: admin/profile-fields.php:166
+msgid "Brokerage License #"
+msgstr "CRECI da imobiliária"
+
+#: admin/profile-fields.php:169
+msgid "Add the brokerage license number here."
+msgstr "adicione o CRECI da imobiliária aqui"
+
+#: admin/profile-fields.php:173
+msgid "Office #"
+msgstr "Telefone Fixo"
+
+#: admin/profile-fields.php:191
+msgid "State or Province"
+msgstr "Область или регион"
+
+#: admin/profile-fields.php:197 admin/theme-functions.php:4050
+#: admin/theme-functions.php:4225
+msgid "Postal Code"
+msgstr "Cep:"
+
+#: admin/theme-functions.php:39
+msgid "Please Update Your PHP Version to the Recommended 5.6+"
+msgstr "Обновите версию PHP до версии 5.6 или выше"
+
+#: admin/theme-functions.php:40
+msgid ""
+"Otherwise some of the Theme Functions and Custom Visual Composer modules "
+"won't be available for use, or cause issues with your site display."
+msgstr ""
+"Caso contrário algumas Funções do Tema e módulos Customizados do Visual "
+"Composer não estarão disponíveis para uso, ou podem causar problemas com a "
+"visualização do site"
+
+#: admin/theme-functions.php:41
+msgid ""
+"Its a quick and simple process (no more than a couple minutes), please refer "
+"to this knowledgebase article below."
+msgstr ""
+"É um processo simples e rápido (não mais do que alguns minutos), por favor "
+"veja o artigo abaixo na knowledgebase"
+
+#: admin/theme-functions.php:42
+msgid "Minimum PHP Version 5.6+ and How to Update to It"
+msgstr "Минимальная PHP версия 5.6 + и как обновить ее"
+
+#: admin/theme-functions.php:43 admin/theme-functions.php:85
+#: admin/theme-functions.php:127 admin/theme-functions.php:169
+#: admin/plugins/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr "Закрыть это уведомление"
+
+#: admin/theme-functions.php:83
+msgid "WP Favorite Posts Needs to be Setup"
+msgstr "WP Избранные сообщения нуждаются установки"
+
+#: admin/theme-functions.php:84 admin/theme-functions.php:126
+#: admin/theme-functions.php:168
+msgid "Just takes a few seconds to setup the plugin properly please see the "
+msgstr "Установить плагина займет несколько секунд, посмотрите пожалуйста на "
+
+#: admin/theme-functions.php:84 admin/theme-functions.php:126
+#: admin/theme-functions.php:168
+msgid "documentation"
+msgstr "Dokumentation"
+
+#: admin/theme-functions.php:125
+msgid "Contempo Compare Listings Needs to be Setup"
+msgstr "Необходимо настроить сравнение списков."
+
+#: admin/theme-functions.php:167
+msgid "WordPress Social Login Needs to be Setup"
+msgstr "WordPress социальной логин днуждается установки"
+
+#: admin/theme-functions.php:324
+msgid "Listing Large"
+msgstr "Большой список"
+
+#: admin/theme-functions.php:335
+msgid "Primary Left Menu"
+msgstr "Главное левое меню"
+
+#: admin/theme-functions.php:336
+msgid "Primary Right Menu"
+msgstr "Главное правое меню"
+
+#: admin/theme-functions.php:337
+msgid "Primary Full Width"
+msgstr "Основная полная ширина"
+
+#: admin/theme-functions.php:338
+msgid "Footer Menu"
+msgstr "Footer Menü"
+
+#: admin/theme-functions.php:362
+msgid "Menu doesn't exist, please create one by clicking here."
+msgstr "Меню не существует, пожалуйста создайте его, нажав здесь."
+
+#: admin/theme-functions.php:849
+msgid "Open Map"
+msgstr "Открыть карту"
+
+#: admin/theme-functions.php:850
+msgid "Close Search"
+msgstr "Закрыть поиск"
+
+#: admin/theme-functions.php:853
+msgid "Open"
+msgstr "Открыть"
+
+#: admin/theme-functions.php:854
+msgid "Search Saved"
+msgstr "Поиск сохранен"
+
+#: admin/theme-functions.php:864
+msgid "* This field is required"
+msgstr "* Обязательное поле"
+
+#: admin/theme-functions.php:865
+msgid "* Please select an option"
+msgstr "* Пожалуйста, выберите вариант"
+
+#: admin/theme-functions.php:866
+msgid "* This checkbox is required"
+msgstr "* Вы должны принять это условие"
+
+#: admin/theme-functions.php:867
+msgid "* Invalid phone number"
+msgstr "* Недопустимый номер телефона"
+
+#: admin/theme-functions.php:868
+msgid "* Invalid email address"
+msgstr "* Введен недопустимый Email адрес"
+
+#: admin/theme-functions.php:869
+msgid "* Invalid date, must be in YYYY-MM-DD format"
+msgstr "* Неверная дата, должна быть в формате гггг-мм-DD"
+
+#: admin/theme-functions.php:870
+msgid "* Numbers only"
+msgstr "* Только номера"
+
+#: admin/theme-functions.php:871
+msgid "* No special caracters allowed"
+msgstr "* Специальные символы не разрешены"
+
+#: admin/theme-functions.php:872
+msgid "* Letters only"
+msgstr "* Только буквы"
+
+#: admin/theme-functions.php:1568
+msgid "Sort By"
+msgstr "Сортировать по"
+
+#: admin/theme-functions.php:1569
+msgid "Price - Low to High"
+msgstr "Цена - от низкой до высокой"
+
+#: admin/theme-functions.php:1570
+msgid "Price - High to Low"
+msgstr "Цена - от высокой к низкой"
+
+#: admin/theme-functions.php:1571
+msgid "Date - Old to New"
+msgstr "Дата - от старых к новым"
+
+#: admin/theme-functions.php:1572
+msgid "Date - New to Old"
+msgstr "Дата - от новых к старым"
+
+#: admin/theme-functions.php:2191
+msgid "Prev"
+msgstr "Предыдущий"
+
+#: admin/theme-functions.php:2433
+msgid "User registration is not enabled"
+msgstr "Регистрация пользователя отключена"
+
+#: admin/theme-functions.php:2463
+msgid "Log in"
+msgstr "Логин"
+
+#: admin/theme-functions.php:2465
+msgid "Don't have an account?"
+msgstr "Не зарегистрированы?"
+
+#: admin/theme-functions.php:2465
+msgid "Create your account,"
+msgstr "Создайте свой аккаунт,"
+
+#: admin/theme-functions.php:2465
+msgid "it takes less than a minute."
+msgstr "leva menos de um minuto"
+
+#: admin/theme-functions.php:2480 admin/theme-functions.php:2578
+msgid "Password"
+msgstr "Пароль"
+
+#: admin/theme-functions.php:2495
+msgid "Lost your password?"
+msgstr "Забыли пароль?"
+
+#: admin/theme-functions.php:2505
+msgid "Lost Password?"
+msgstr "Забыли пароль?"
+
+#: admin/theme-functions.php:2506
+msgid ""
+"Enter your email address and we'll send you a link you can use to pick a new "
+"password."
+msgstr ""
+"Entre com seu email e nós lhe enviaremos um link para você poder criar uma "
+"nova senha"
+
+#: admin/theme-functions.php:2508
+msgid "Username or Email"
+msgstr "Логин или Email"
+
+#: admin/theme-functions.php:2510
+msgid "Get New Password"
+msgstr "Получить новый пароль"
+
+#: admin/theme-functions.php:2541
+msgid "Create an account"
+msgstr "Зарегистрироваться"
+
+#: admin/theme-functions.php:2542
+msgid "It takes less than a minute. If you already have an account "
+msgstr "Это займет меньше чем минуту. Если у вас уже есть аккаунт "
+
+#: admin/theme-functions.php:2542
+msgid "login"
+msgstr "логин"
+
+#: admin/theme-functions.php:2583
+msgid "Password Again"
+msgstr "Повторите пароль"
+
+#: admin/theme-functions.php:2588
+msgid "Register"
+msgstr "Регистрация"
+
+#: admin/theme-functions.php:2620
+msgid "Username already taken"
+msgstr "Данный логин уже занят"
+
+#: admin/theme-functions.php:2624 admin/theme-functions.php:2702
+#: admin/theme-functions.php:2747
+msgid "Invalid username"
+msgstr "Неверный логин"
+
+#: admin/theme-functions.php:2628
+msgid "Please enter a username"
+msgstr "Пожалуйста, введите логин"
+
+#: admin/theme-functions.php:2632
+msgid "Invalid email"
+msgstr "Неверный E-mail"
+
+#: admin/theme-functions.php:2636
+msgid "Email already registered"
+msgstr "Данный E-mail уже используется"
+
+#: admin/theme-functions.php:2640 admin/theme-functions.php:2707
+#: admin/theme-functions.php:2752
+msgid "Please enter a password"
+msgstr "Пожалуйста, введите пароль"
+
+#: admin/theme-functions.php:2644
+msgid "Passwords do not match"
+msgstr "Пароли не совпадают"
+
+#: admin/theme-functions.php:2713 admin/theme-functions.php:2758
+msgid "Incorrect password"
+msgstr "Неверный пароль"
+
+#: admin/theme-functions.php:2792
+msgid "Error"
+msgstr "Ошибка"
+
+#: admin/theme-functions.php:2914
+msgid "Twitter Username"
+msgstr "Имя пользователя Twitter"
+
+#: admin/theme-functions.php:2915
+msgid "Facebook URL"
+msgstr "Facebook URL"
+
+#: admin/theme-functions.php:2916
+msgid "Instagram URL"
+msgstr "Instagram URL"
+
+#: admin/theme-functions.php:2917
+msgid "LinkedIn URL"
+msgstr "LinkedIn URL"
+
+#: admin/theme-functions.php:2918
+msgid "Google+ URL"
+msgstr "Google Plus Url"
+
+#: admin/theme-functions.php:2919
+msgid "YouTube URL"
+msgstr "Youtube Url"
+
+#: admin/theme-functions.php:2933 admin/theme-functions.php:2937
+msgid "Featured Image"
+msgstr "Основное изображение"
+
+#: admin/theme-functions.php:2935
+msgid "Brokerage Logo"
+msgstr "Брокерский логотип"
+
+#: admin/theme-functions.php:2986
+#: admin/ReduxFramework/theme-options/re7-config.php:3668
+msgid "Price & Description"
+msgstr "Цена & описание"
+
+#: admin/theme-functions.php:2987
+msgid "Photos & Video"
+msgstr "Фото и видео"
+
+#: admin/theme-functions.php:2988
+#: admin/ReduxFramework/theme-options/re7-config.php:3757
+msgid "Details"
+msgstr "Детали"
+
+#: admin/theme-functions.php:2990 includes/single-listing-sub-navigation.php:78
+#: admin/ReduxFramework/theme-options/re7-config.php:3856
+msgid "Rental Info"
+msgstr "Информация о аренде"
+
+#: admin/theme-functions.php:2992 includes/single-listing-map.php:18
+#: includes/single-listing-sub-navigation.php:135
+#: includes/single-listing-sub-navigation.php:164
+#: admin/ReduxFramework/theme-options/re7-config.php:3945
+msgid "Location"
+msgstr "Расположение"
+
+#: admin/theme-functions.php:3086
+msgid "Add to Favorites"
+msgstr "Добавить в избранное"
+
+#: admin/theme-functions.php:3091
+msgid "Favorite"
+msgstr "Избранное"
+
+#: admin/theme-functions.php:3321 includes/sub-listings.php:81
+#: includes/widgets/ct-widget-agentsotherlistings.php:119
+msgid "Bed"
+msgstr "Спальня"
+
+#: admin/theme-functions.php:3351
+msgid "Walk Score&reg;"
+msgstr "Walk Score&reg;"
+
+#: admin/theme-functions.php:3371 includes/sub-listings.php:115
+#: includes/widgets/ct-widget-agentsotherlistings.php:153
+msgid "Rating"
+msgstr "Рейтинг"
+
+#: admin/theme-functions.php:3389 includes/sub-listings.php:133
+#: includes/widgets/ct-widget-agentsotherlistings.php:171
+msgid "Guests"
+msgstr "Гостей"
+
+#: admin/theme-functions.php:3404 admin/theme-functions.php:3526
+#: includes/sub-listings.php:148
+#: includes/widgets/ct-widget-agentsotherlistings.php:186
+msgid "Min Stay"
+msgstr "Мин. пребывание"
+
+#: admin/theme-functions.php:3445 includes/sub-listings.php:189
+#: includes/widgets/ct-widget-agentsotherlistings.php:227
+msgid "Lot Size"
+msgstr "Площадь участка"
+
+#: admin/theme-functions.php:3493
+msgid "Check In"
+msgstr "Заезд"
+
+#: admin/theme-functions.php:3504
+msgid "Check Out"
+msgstr "Выезд"
+
+#: admin/theme-functions.php:3515
+msgid "Max Guests"
+msgstr "Макс. гостей"
+
+#: admin/theme-functions.php:3547
+msgid "Extra People"
+msgstr "Дополнительные гости"
+
+#: admin/theme-functions.php:3657
+#, php-format
+msgid "%s ago"
+msgstr "vor %s "
+
+#: admin/theme-functions.php:3677
+msgid "Updated on"
+msgstr "Обновлено"
+
+#: admin/theme-functions.php:3679
+msgid "at"
+msgstr "в"
+
+#: admin/theme-functions.php:3755
+msgid "Hosted By"
+msgstr "Хостинг"
+
+#: admin/theme-functions.php:3808 admin/theme-functions.php:3813
+msgid "Brokered by"
+msgstr "Посредничество"
+
+#: admin/theme-functions.php:4012
+msgid " Sq Ft"
+msgstr "Ft²"
+
+#: admin/theme-functions.php:4014
+msgid " m²"
+msgstr "m²"
+
+#: admin/theme-functions.php:4029
+msgid "Acres"
+msgstr "Акры"
+
+#: admin/theme-functions.php:4031
+msgid "Sq Ft"
+msgstr "кв. фут."
+
+#: admin/theme-functions.php:4033
+msgid "m²"
+msgstr "m²"
+
+#: admin/theme-functions.php:4075 admin/theme-functions.php:4215
+msgid "School District"
+msgstr "Школьный округ"
+
+#: admin/theme-functions.php:4077 admin/theme-functions.php:4219
+msgid "Building"
+msgstr "Здание"
+
+#: admin/theme-functions.php:4179
+msgid "Property Type"
+msgstr "Вид недвижимости"
+
+#: admin/theme-functions.php:4183 includes/advanced-search.php:100
+#: includes/header-advanced-search.php:74
+#: includes/widgets/ct-widget-listingssearch.php:109
+msgid "County"
+msgstr "Область"
+
+#: admin/theme-functions.php:4185
+msgid "Town"
+msgstr "Город"
+
+#: admin/theme-functions.php:4187
+msgid "Village"
+msgstr "Деревня"
+
+#: admin/theme-functions.php:4229
+msgid "Pet Friendly?"
+msgstr "Можно домашних животных?"
+
+#: admin/theme-functions.php:4231
+msgid "Furnished/Unfurnished?"
+msgstr "Обставленная/Необставленная?"
+
+#: admin/theme-functions.php:4419
+msgid "Unfortunately, your API key is over its quota."
+msgstr "К сожалению, ваш API-ключ находится за предельной квотой."
+
+#: admin/theme-functions.php:4425
+msgid "Unfortunately, there's no results nearby for this listing."
+msgstr "К сожалению, нет никаких результатов поблизости для этого листинга."
+
+#: admin/theme-functions.php:4431
+msgid ""
+"Unfortunately, your request was denied, generally because of lack of an "
+"invalid key parameter."
+msgstr ""
+"К сожалению, ваш запрос был отклонен, как правило, из-за отсутствия "
+"недопустимого ключевого параметра."
+
+#: admin/theme-functions.php:4437
+msgid ""
+"Unfortunately, your request was invalid, generally due to wrong address "
+"information or lat/long coordinates."
+msgstr ""
+"Infelizmente, sua solicitação está inválida, normalmente devido a erro de "
+"endereço informado ou coordenadas lat/long"
+
+#: admin/theme-functions.php:4443
+msgid ""
+"A server-side error happened trying again may be successful, please "
+"shift+refresh the page."
+msgstr ""
+"Um erro no lado do servidor ocorreu tentar novamente mais tarde pode "
+"funcionar, por favor shift+refresh a página"
+
+#: admin/theme-functions.php:4656
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Результаты поиска для: %s"
+
+#: admin/theme-functions.php:4662
+#, php-format
+msgid "Author: %s"
+msgstr "Автор: %s"
+
+#: admin/theme-functions.php:4665
+#, php-format
+msgid "Day: %s"
+msgstr "День: %s"
+
+#: admin/theme-functions.php:4668
+#, php-format
+msgid "Month: %s"
+msgstr "Месяц: %s"
+
+#: admin/theme-functions.php:4668
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: admin/theme-functions.php:4671
+#, php-format
+msgid "Year: %s"
+msgstr "Год: %s"
+
+#: admin/theme-functions.php:4671
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: admin/theme-functions.php:4674
+msgid "Archives"
+msgstr "Архивы"
+
+#: admin/theme-functions.php:4749
+msgid "Share This"
+msgstr "Поделиться"
+
+#: admin/theme-functions.php:4752 admin/theme-functions.php:4753
+#: admin/theme-functions.php:4754 includes/post-social.php:16
+#: includes/post-social.php:17 includes/post-social.php:18
+msgid "Check out this great article on"
+msgstr "Проверьте эту статью на"
+
+#: admin/theme-functions.php:4794
+msgid "About The Author"
+msgstr "Об авторе"
+
+#: admin/theme-functions.php:4851
+msgid "Related Posts"
+msgstr "Похожие сообщения"
+
+#: admin/theme-functions.php:4901
+msgid "<span class=\"meta-nav\">&larr;</span> Older"
+msgstr "<span class=\"meta-nav\">&larr;</span> Старее"
+
+#: admin/theme-functions.php:4902
+msgid "Newer <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Новее <span class=\"meta-nav\">&rarr;</span>"
+
+#: admin/theme-functions.php:5374
+msgid ""
+"<span class=\"meta-nav\"><i class=\"fa fa-chevron-left\"></i></span> Older "
+"listings"
+msgstr ""
+"<span class=\"meta-nav\"><i class=\"fa fa-chevron-left\"></i></span> "
+"Листинги старее"
+
+#: admin/theme-functions.php:5375
+msgid ""
+"Newer listings <span class=\"meta-nav\"><i class=\"fa fa-chevron-right\"></i>"
+"</span>"
+msgstr ""
+"Листинги новее <span class=\"meta-nav\"><i class=\"fa fa-chevron-right\"></i>"
+"</span>"
+
+#: admin/theme-functions.php:5397 admin/theme-functions.php:5398
+msgid "%link"
+msgstr "%link"
+
+#: admin/theme-functions.php:5718
+msgid "g:i a"
+msgstr "g:i a"
+
+#: admin/theme-functions.php:5721
+#, php-format
+msgid "Minute %1$s"
+msgstr "Минута %1$s"
+
+#: admin/theme-functions.php:5721
+msgid "i"
+msgstr "i"
+
+#: admin/theme-functions.php:5724
+msgid "g a"
+msgstr "g a"
+
+#: admin/theme-functions.php:5735 admin/theme-functions.php:5741
+#: admin/theme-functions.php:5746 admin/theme-functions.php:5751
+msgid "Y"
+msgstr "Y"
+
+#: admin/theme-functions.php:5736 admin/theme-functions.php:5747
+msgid "F"
+msgstr "F"
+
+#: admin/theme-functions.php:5737
+msgid "j"
+msgstr "j"
+
+#: admin/theme-functions.php:5742
+#, php-format
+msgid "Week %1$s"
+msgstr "Неделя %1$s"
+
+#: admin/theme-functions.php:5742
+msgid "W"
+msgstr "W"
+
+#: admin/theme-functions.php:5758
+#, php-format
+msgid "Search results for &quot;%1$s&quot;"
+msgstr "Результаты поиска для &quot;%1$s&quot;"
+
+#: admin/theme-functions.php:5762
+msgid "404 Not Found"
+msgstr "404 Страница не найдена"
+
+#: includes/advanced-search.php:191 includes/header-advanced-search.php:156
+#: includes/header-advanced-search.php:413
+#: includes/widgets/ct-widget-listingssearch.php:200
+msgid "From"
+msgstr "От"
+
+#: includes/advanced-search.php:200 includes/header-advanced-search.php:165
+#: includes/header-advanced-search.php:422
+#: includes/widgets/ct-widget-listingssearch.php:209
+msgid "To"
+msgstr "До"
+
+#: includes/advanced-search.php:245 includes/advanced-search.php:246
+#: includes/header-advanced-search.php:212
+#: includes/header-advanced-search.php:467
+#: includes/header-advanced-search.php:468
+msgid "Keyword"
+msgstr "Ключевое слово"
+
+#: includes/advanced-search.php:260
+#: includes/widgets/ct-widget-listingssearch.php:271
+msgid "More Search Options"
+msgstr "Дополнительные параметры"
+
+#: includes/agent-contact-modal.php:21 includes/single-listing-contact.php:212
+#: includes/single-listing-home.php:272
+#: includes/widgets/ct-widget-listingscontact.php:30
+msgid "Tell me more about this property"
+msgstr "Расскажите мне больше об объекте"
+
+#: includes/featured-listings.php:30 includes/featured-listings.php:32
+msgid "View All"
+msgstr "Показать все"
+
+#: includes/header-advanced-search.php:213
+msgid "Street address or keyword"
+msgstr "Адрес или ключевое слово"
+
+#: includes/header-advanced-search.php:253
+#: includes/home-hero-advanced-search.php:21
+msgid "Enter a street address or keyword"
+msgstr "Введите адрес или ключевое слово"
+
+#: includes/header-advanced-search.php:367
+msgid "Addtional Features"
+msgstr "Дополнительные функции"
+
+#: includes/single-listing-attachments.php:16
+#: includes/single-listing-sub-navigation.php:106
+msgid "Attachments"
+msgstr "Вложения"
+
+#: includes/single-listing-booking-calendar.php:17
+#: includes/single-listing-home.php:157
+msgid "Book this listing"
+msgstr "Забронировать этоt листинг"
+
+#: includes/single-listing-contact.php:201 includes/single-listing-home.php:268
+msgid "Request More Information"
+msgstr "Запросить дополнительную информацию"
+
+#: includes/single-listing-contact.php:243 includes/single-listing-home.php:299
+msgid "Co-listing Agent"
+msgstr "Co-Агент"
+
+#: includes/single-listing-google-places.php:23
+#: admin/ReduxFramework/theme-options/re7-config.php:3283
+msgid "What's Nearby?"
+msgstr "Что рядом?"
+
+#: includes/single-listing-google-places.php:66
+msgid "Restaurants"
+msgstr "Рестораны"
+
+#: includes/single-listing-google-places.php:75
+msgid "Coffee Shops"
+msgstr "Кофейни"
+
+#: includes/single-listing-google-places.php:84
+msgid "Stores"
+msgstr "Shops"
+
+#: includes/single-listing-google-places.php:93
+msgid "Education"
+msgstr "Школы / Образование"
+
+#: includes/single-listing-google-places.php:102
+msgid "Bank"
+msgstr "Банки"
+
+#: includes/single-listing-google-places.php:111
+msgid "Bars"
+msgstr "Бары"
+
+#: includes/single-listing-google-places.php:120
+msgid "Hospitals"
+msgstr "Клиники"
+
+#: includes/single-listing-google-places.php:129
+msgid "Gas Stations"
+msgstr "Заправочные станции"
+
+#: includes/single-listing-google-places.php:138
+msgid "Transit Stations"
+msgstr "Транзитные станции"
+
+#: includes/single-listing-google-places.php:147
+msgid "Convenience Stores"
+msgstr "Магазины"
+
+#: includes/single-listing-google-places.php:156
+msgid "Shopping Malls"
+msgstr "Торговые центры"
+
+#: includes/single-listing-google-places.php:169
+msgid "Google Places/What's Nearby? Error."
+msgstr "Google места/что находится поблизости? Ошибка."
+
+#: includes/single-listing-google-places.php:170
+msgid ""
+"You need to create an API key go into Admin > Real Estate 7 Options > Google "
+"Maps > API Key, then setup the options via Real Estate 7 Options > \"What's "
+"Nearby?\" panel."
+msgstr ""
+"Вам нужно создать ключ API идти в админ > недвижимость 7 вариантов > Google "
+"Maps > ключ API, а затем настроить параметры с помощью недвижимости 7 "
+"вариантов > \"что рядом?\" панели."
+
+#: includes/single-listing-header.php:35 includes/single-listing-header.php:78
+#: includes/single-listing-home.php:75
+msgid "Co-listing"
+msgstr "Со-список"
+
+#: includes/single-listing-home.php:137
+#: includes/single-listing-rental-info.php:47
+msgid "Prices"
+msgstr "Цены"
+
+#: includes/single-listing-home.php:369
+msgid "Share This Listing"
+msgstr "Поделиться этим предложением"
+
+#: includes/single-listing-map.php:27
+msgid "Enter your starting address"
+msgstr "Startadresse eingeben"
+
+#: includes/single-listing-multi-floorplan.php:21
+msgid "Floor Plans & Pricing"
+msgstr "Планы этажей & Стоимость"
+
+#: includes/single-listing-multi-floorplan.php:40
+msgid "Size"
+msgstr "Площадь"
+
+#: includes/single-listing-multi-floorplan.php:46
+msgid "Availability"
+msgstr "Наличие"
+
+#: includes/single-listing-open-house.php:35
+msgid "Time"
+msgstr "Время"
+
+#: includes/single-listing-open-house.php:38
+#: includes/single-listing-open-house.php:80
+msgid "RSVP"
+msgstr "RSVP"
+
+#: includes/single-listing-rental-info.php:25
+msgid "Rental Information"
+msgstr "Информация о аренде"
+
+#: includes/single-listing-sub-listings.php:15
+msgid "Other Listings in Community"
+msgstr "Другие листинги по близости"
+
+#: includes/single-listing-sub-navigation.php:34
+msgid "Description"
+msgstr "Описание"
+
+#: includes/single-listing-sub-navigation.php:61
+msgid "Floor Plans"
+msgstr "Планировка"
+
+#: includes/single-listing-sub-navigation.php:87
+msgid "Features"
+msgstr "Характеристики"
+
+#: includes/single-listing-sub-navigation.php:96
+msgid "Booking"
+msgstr "Бронирование"
+
+#: includes/single-listing-sub-navigation.php:117
+#: includes/single-listing-video.php:16
+msgid "Video"
+msgstr "Видео"
+
+#: includes/single-listing-sub-navigation.php:127
+msgid "Tour"
+msgstr "Tour"
+
+#: includes/single-listing-sub-navigation.php:142
+msgid "Nearby"
+msgstr "Was ist in der Nähe?"
+
+#: includes/single-listing-sub-navigation.php:163
+msgid "Listing Features"
+msgstr "Характеристики"
+
+#: includes/single-listing-virtual-tour.php:18
+msgid "Virtual Tour"
+msgstr "Виртуальный тур"
+
+#: layouts/blog-grid.php:96 layouts/blog-large.php:96
+msgid "Read More"
+msgstr "Читать далее"
+
+#: layouts/grid.php:19 layouts/list.php:16
+msgid "This agent currently has no active listings."
+msgstr "Este corretor não possui imóveis ativos no momento"
+
+#: layouts/grid.php:21 layouts/list.php:18
+msgid "This brokerage currently has no active listings."
+msgstr "Esta imobiliária atualmente não possui nenhum imóvel ativo"
+
+#: layouts/grid.php:23 layouts/list.php:20
+msgid "No properties were found which match your search criteria"
+msgstr "Объекты не найдены соответствующие критериям Вашего поиска"
+
+#: layouts/saved-search-list.php:53 includes/widgets/ct-widget-tabs.php:214
+msgid "on"
+msgstr "on"
+
+#: layouts/saved-search-list.php:53
+msgid "On"
+msgstr "On"
+
+#: layouts/saved-search-list.php:54
+msgid "off"
+msgstr "off"
+
+#: layouts/saved-search-list.php:54
+msgid "Off"
+msgstr "Off"
+
+#: admin/ct-social/ct-social.php:28
+msgid "CT Social"
+msgstr "CT Social"
+
+#: admin/ct-social/ct-social.php:130
+#: includes/widgets/ct-widget-agentinfo.php:108
+#: includes/widgets/ct-widget-agentsotherlistings.php:281
+#: includes/widgets/ct-widget-blogauthor.php:60
+#: includes/widgets/ct-widget-brokerinfo.php:78
+#: includes/widgets/ct-widget-contactinfo.php:133
+#: includes/widgets/ct-widget-latestposts.php:70
+#: includes/widgets/ct-widget-listings.php:131
+#: includes/widgets/ct-widget-listingscontact.php:68
+#: includes/widgets/ct-widget-listingssearch.php:295
+#: includes/widgets/ct-widget-search.php:40
+#: includes/widgets/ct-widget-testimonials.php:62
+msgid "Title:"
+msgstr "Заголовок:"
+
+#: admin/ct-social/ct-social.php:134
+msgid "Dribbble:"
+msgstr "Dribbble:"
+
+#: admin/ct-social/ct-social.php:138
+#: includes/widgets/ct-widget-contactinfo.php:169
+msgid "Email:"
+msgstr "E-mail:"
+
+#: admin/ct-social/ct-social.php:142
+#: includes/widgets/ct-widget-contactinfo.php:173
+msgid "Facebook:"
+msgstr "Facebook:"
+
+#: admin/ct-social/ct-social.php:146
+msgid "Flickr:"
+msgstr "Flickr:"
+
+#: admin/ct-social/ct-social.php:150
+msgid "Foursquare:"
+msgstr "Foursquare:"
+
+#: admin/ct-social/ct-social.php:154
+msgid "GitHub:"
+msgstr "GitHub:"
+
+#: admin/ct-social/ct-social.php:158
+#: includes/widgets/ct-widget-contactinfo.php:181
+msgid "Google+:"
+msgstr "Google+:"
+
+#: admin/ct-social/ct-social.php:162
+#: includes/widgets/ct-widget-contactinfo.php:193
+msgid "Instagram:"
+msgstr "Instagram:"
+
+#: admin/ct-social/ct-social.php:166
+#: includes/widgets/ct-widget-contactinfo.php:185
+msgid "LinkedIn:"
+msgstr "LinkedIn:"
+
+#: admin/ct-social/ct-social.php:170
+msgid "Medium:"
+msgstr "Medium:"
+
+#: admin/ct-social/ct-social.php:174
+#: includes/widgets/ct-widget-contactinfo.php:189
+msgid "Pinterest:"
+msgstr "Pinterest:"
+
+#: admin/ct-social/ct-social.php:178
+msgid "Skype:"
+msgstr "Skype:"
+
+#: admin/ct-social/ct-social.php:182
+#: includes/widgets/ct-widget-contactinfo.php:177
+msgid "Twitter:"
+msgstr "Twitter:"
+
+#: admin/ct-social/ct-social.php:186
+msgid "YouTube:"
+msgstr "YouTube:"
+
+#: admin/ct-social/ct-social.php:190
+msgid "Links:"
+msgstr "Tweak - Nofollow gelten Verbindungen."
+
+#: admin/getting-started/getting-started.php:91
+#, php-format
+msgid "Getting started with %1$s v%2$s"
+msgstr "Начало работы с %1$s v%2$s"
+
+#: admin/getting-started/getting-started.php:93
+#, php-format
+msgid ""
+"Thanks for purchasing %1$s! I truly appreciate the support and the "
+"opportunity to share my work with you. Please visit the tabs below to get "
+"started setting up your theme!"
+msgstr ""
+"Спасибо за покупку%1$s! Мы действительно ценим поддержку и возможность "
+"поделиться нашей работой с вами. Пожалуйста, посетите вкладки ниже, чтобы "
+"начать настраивать тему!"
+
+#: admin/getting-started/getting-started.php:99
+msgid "Start Here"
+msgstr "Начните здесь"
+
+#: admin/getting-started/getting-started.php:100
+msgid "Plugins"
+msgstr "Плагины"
+
+#: admin/getting-started/getting-started.php:101
+msgid "FAQ &amp; Support"
+msgstr "Справка &amp; поддержка"
+
+#: admin/getting-started/getting-started.php:102
+msgid "Latest Updates"
+msgstr "Последние обновления"
+
+#: admin/getting-started/getting-started.php:110
+#, php-format
+msgid "Installing %s"
+msgstr "Устанавливаются %s"
+
+#: admin/getting-started/getting-started.php:116
+#: admin/ReduxFramework/theme-options/re7-config.php:4750
+msgid "Documentation"
+msgstr "Документация"
+
+#: admin/getting-started/getting-started.php:164
+msgid "Required & Recommended Plugins"
+msgstr "Необходимые и рекомендуемые плагины для темы"
+
+#: admin/getting-started/getting-started.php:166
+msgid ""
+"Below is a list of required and recommended plugins to install that will "
+"help you get the most out of WP Pro Real Estate 7. To begin please use the "
+"button below or browse through the list to learn about each one in a little "
+"more detail."
+msgstr ""
+"Unten ist eine Liste der erforderlichen und empfohlenen Plugins, die Ihnen "
+"helfen, das Beste aus WP Pro Real Estate 7 herauszuholen. Um zu beginnen, "
+"verwenden Sie bitte die Schaltfläche unten oder blättern Sie durch die Liste,"
+" um über jedes einzelnen mehr Details zu erfahren."
+
+#: admin/getting-started/getting-started.php:172
+#: admin/getting-started/getting-started.php:184
+#: admin/getting-started/getting-started.php:196
+#: admin/plugins/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr "Необходимые"
+
+#: admin/getting-started/getting-started.php:172 admin/plugins/register.php:64
+msgid "Redux Framework"
+msgstr "Redux Framework"
+
+#: admin/getting-started/getting-started.php:174
+msgid "Install Redux Framework"
+msgstr "Установка Redux Framework"
+
+#: admin/getting-started/getting-started.php:174
+#: admin/getting-started/getting-started.php:186
+#: admin/getting-started/getting-started.php:198
+#: admin/getting-started/getting-started.php:210
+#: admin/getting-started/getting-started.php:222
+#: admin/getting-started/getting-started.php:234
+#: admin/getting-started/getting-started.php:246
+#: admin/getting-started/getting-started.php:258
+#: admin/getting-started/getting-started.php:270
+#: admin/getting-started/getting-started.php:282
+#: admin/getting-started/getting-started.php:294
+#: admin/getting-started/getting-started.php:309
+#: admin/getting-started/getting-started.php:321
+#: admin/getting-started/getting-started.php:333
+#: admin/getting-started/getting-started.php:345
+#: admin/getting-started/getting-started.php:357
+#: admin/getting-started/getting-started.php:369
+#: admin/getting-started/getting-started.php:381
+msgid "Install Now"
+msgstr "Установить"
+
+#: admin/getting-started/getting-started.php:176
+#: admin/getting-started/getting-started.php:188
+#: admin/getting-started/getting-started.php:200
+#: admin/getting-started/getting-started.php:212
+#: admin/getting-started/getting-started.php:224
+#: admin/getting-started/getting-started.php:236
+#: admin/getting-started/getting-started.php:248
+#: admin/getting-started/getting-started.php:260
+#: admin/getting-started/getting-started.php:272
+#: admin/getting-started/getting-started.php:284
+#: admin/getting-started/getting-started.php:296
+#: admin/getting-started/getting-started.php:311
+#: admin/getting-started/getting-started.php:323
+#: admin/getting-started/getting-started.php:335
+#: admin/getting-started/getting-started.php:347
+#: admin/getting-started/getting-started.php:359
+#: admin/getting-started/getting-started.php:371
+#: admin/getting-started/getting-started.php:383
+msgid "Installed"
+msgstr "Установлен"
+
+#: admin/getting-started/getting-started.php:180
+msgid "This plugin is used for the admin options framework."
+msgstr "Этот плагин используется для framework настроек администратора."
+
+#: admin/getting-started/getting-started.php:184 admin/plugins/register.php:70
+msgid "Contempo Real Estate Custom Posts"
+msgstr "Contempo Real Estate Custom Posts"
+
+#: admin/getting-started/getting-started.php:186
+msgid "Install Contempo Real Estate Custom Posts"
+msgstr "Installiere Contempo Real Estate Custom Posts"
+
+#: admin/getting-started/getting-started.php:192
+msgid ""
+"This plugin registers the listings, brokerages & testimonials custom post "
+"types, along with related custom fields & taxonomies, as well as all the "
+"custom Visual Composer modules (if you have the Visual Composer plugin "
+"installed & activated)."
+msgstr ""
+"Этот плагин регистрирует индивидуальные типы сообщений, брокерских услуг и "
+"отзывов, а также связанные с ними настраиваемые поля и таксономии, а также "
+"все пользовательские модули Visual Composer (если у вас установлен и "
+"активирован плагин Visual Composer)."
+
+#: admin/getting-started/getting-started.php:196 admin/plugins/register.php:119
+msgid "Contempo Real Estate 7 Extensions Loader"
+msgstr "Contempo Real Estate 7 Extensions Loader"
+
+#: admin/getting-started/getting-started.php:198
+msgid "Install Contempo Real Estate 7 Extensions Loader"
+msgstr "Установите Contempo Real Estate 7 Extension Loader"
+
+#: admin/getting-started/getting-started.php:204
+msgid "This includes required extensions for the theme."
+msgstr "Isto inclui as extensões necessárias para o tema"
+
+#: admin/getting-started/getting-started.php:208
+#: admin/getting-started/getting-started.php:220
+#: admin/getting-started/getting-started.php:232
+#: admin/getting-started/getting-started.php:244
+#: admin/getting-started/getting-started.php:256
+#: admin/getting-started/getting-started.php:268
+#: admin/getting-started/getting-started.php:280
+#: admin/getting-started/getting-started.php:292
+#: admin/getting-started/getting-started.php:307
+#: admin/getting-started/getting-started.php:319
+#: admin/getting-started/getting-started.php:331
+#: admin/getting-started/getting-started.php:343
+#: admin/getting-started/getting-started.php:355
+#: admin/getting-started/getting-started.php:367
+#: admin/getting-started/getting-started.php:379
+#: admin/plugins/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr "Рекомендуемые"
+
+#: admin/getting-started/getting-started.php:208 admin/plugins/register.php:163
+msgid "Contempo Saved Searches & Email Alerts"
+msgstr "Contempo Saved Searches & Email Alerts"
+
+#: admin/getting-started/getting-started.php:210
+msgid "Install Contempo Saved Searches & Email Alerts"
+msgstr "Установка Contempo Saved Searches & Email Alerts"
+
+#: admin/getting-started/getting-started.php:216
+msgid "This plugin allows users be alerted via email when a listing is added."
+msgstr ""
+"Este plugin permite que usuários sejam alertados via email quando um imóvel "
+"é adicionado"
+
+#: admin/getting-started/getting-started.php:220 admin/plugins/register.php:152
+msgid "Contempo Compare Listings"
+msgstr "Contempo Сравнить листы"
+
+#: admin/getting-started/getting-started.php:222
+#: admin/getting-started/getting-started.php:246
+msgid "Install Contempo Compare Listings"
+msgstr "Установить Contempo Сравнить объекты"
+
+#: admin/getting-started/getting-started.php:228
+msgid "This plugin adds compare functionality for listings."
+msgstr "Este plugin adiciona a funcionalidade de comparar imóveis"
+
+#: admin/getting-started/getting-started.php:232 admin/plugins/register.php:141
+msgid "Contempo Mortgage Calculator Widget"
+msgstr "Contempo Mortgage Calculator Widget"
+
+#: admin/getting-started/getting-started.php:234
+msgid "Install Contempo Mortgage Calculator Widget"
+msgstr "Установить Contempo Mortgage Calculator Widget"
+
+#: admin/getting-started/getting-started.php:240
+msgid "This plugin enables a simple mortgage calculator widget."
+msgstr "Этот плагин включает простой виджет калькулятора."
+
+#: admin/getting-started/getting-started.php:244 admin/plugins/register.php:174
+msgid "Contempo Child Theme Generator"
+msgstr "Contempo Gerador de Tema Filho (Child Themes) "
+
+#: admin/getting-started/getting-started.php:252
+msgid ""
+"This plugin allows admin users to easily generate a child theme from your "
+"Admin > Appearance panel."
+msgstr ""
+"Este plugin permite que administradores possam facilmente gerar um tema "
+"filho, acessando o painel: Admin > Aparência"
+
+#: admin/getting-started/getting-started.php:256
+msgid "Contempo Payment Gateways"
+msgstr "Contempo Payment Gateways"
+
+#: admin/getting-started/getting-started.php:258
+msgid "Install Contempo Payment Gateways"
+msgstr "Установить Contempo Payment Gateways"
+
+#: admin/getting-started/getting-started.php:264
+msgid ""
+"This plugin enables various payment gateways only required if you're going "
+"to be charging listing submissions from the front end of the site."
+msgstr ""
+"Este plugin habilita várias formas de pagamento, somente é necessário se "
+"você for cobrar por envio de imóveis através do front-end do site"
+
+#: admin/getting-started/getting-started.php:268 admin/plugins/register.php:185
+msgid "Slider Revolution"
+msgstr "Revolution Slider"
+
+#: admin/getting-started/getting-started.php:270
+msgid "Install Slider Revolution"
+msgstr "Установить Slider Revolution"
+
+#: admin/getting-started/getting-started.php:276
+msgid ""
+"Slider Revolution is an innovative, responsive WordPress Slider Plugin that "
+"displays your content the beautiful way."
+msgstr ""
+"Slider Revolution - это инновационный, отзывчивый плагин WordPress Slider, "
+"который красиво отображает ваш контент."
+
+#: admin/getting-started/getting-started.php:280 admin/plugins/register.php:196
+msgid "Visual Composer"
+msgstr "Visual Composer"
+
+#: admin/getting-started/getting-started.php:282
+msgid "Install Visual Composer"
+msgstr "Установить Visual Composer"
+
+#: admin/getting-started/getting-started.php:288
+msgid ""
+"WordPress Page Builder plugin with intuitive drag and drop interface. Build "
+"any page fast and easy. Unlimited layouts for your website."
+msgstr ""
+"Плагин WordPress Page Builder с интуитивно понятным интерфейсом "
+"перетаскивания. Создавайте любую страницу быстро и легко. Неограниченные "
+"макеты для вашего сайта."
+
+#: admin/getting-started/getting-started.php:292
+msgid "WPML"
+msgstr "WPML"
+
+#: admin/getting-started/getting-started.php:294
+msgid "Install WPML"
+msgstr "Установить WPML"
+
+#: admin/getting-started/getting-started.php:302
+#, php-format
+msgid ""
+"<a href=\"%s\" target=\"_blank\">WPML</a> allows running fully multilingual "
+"websites with WordPress, making it easy to translate WordPress pages, posts, "
+"tags, categories and themes."
+msgstr ""
+"<a href=\"%s\" target=\"_blank\">WPML</a> позволяет запускать полностью "
+"многоязычные сайты с помощью WordPress, >упрощая перевод страниц WordPress, "
+"сообщений, тегов, категорий и тем."
+
+#: admin/getting-started/getting-started.php:307
+#: admin/getting-started/getting-started.php:331 admin/plugins/register.php:84
+msgid "WordPress Social Login"
+msgstr "Wordpress Social Login"
+
+#: admin/getting-started/getting-started.php:309
+#: admin/getting-started/getting-started.php:321
+msgid "Install WP Favorite Posts"
+msgstr "Установить WP Favorite Posts"
+
+#: admin/getting-started/getting-started.php:315
+msgid ""
+"This plugin allows users to login/register with their social profiles like "
+"Facebook, Google, Twitter, etc&hellip;"
+msgstr ""
+"Этот плагин позволяет пользователям войти в систему / зарегистрироваться с "
+"их социальными профилями, такими как Facebook, Google, Twitter и т.д;"
+
+#: admin/getting-started/getting-started.php:319 admin/plugins/register.php:78
+#: admin/ReduxFramework/theme-options/re7-config.php:4317
+msgid "WP Favorite Posts"
+msgstr "WP Favorite Posts"
+
+#: admin/getting-started/getting-started.php:327
+msgid ""
+"This plugin allows users to favorite & save listings from the front end of "
+"the site."
+msgstr ""
+"Este plugin permite que usuários favoritem e salvem imóveis a partir do "
+"front-end do site"
+
+#: admin/getting-started/getting-started.php:333
+msgid "Install WordPress Social Login"
+msgstr "Установить WordPress Social Login"
+
+#: admin/getting-started/getting-started.php:339
+msgid ""
+"This plugin allows users to login/register for your site via social networks "
+"like Facebook, Google, Twitter, etc&hellip;"
+msgstr ""
+"Этот плагин позволяет пользователям зарегистрироваться / зарегистрироваться "
+"для вашего сайта через социальные сети, такие как Facebook, Google, Twitter "
+"и т.д;"
+
+#: admin/getting-started/getting-started.php:343 admin/plugins/register.php:90
+msgid "Booking Calendar"
+msgstr "Календарь бронирования"
+
+#: admin/getting-started/getting-started.php:345
+msgid "Install Booking Calendar"
+msgstr "Установить календарь бронирования"
+
+#: admin/getting-started/getting-started.php:351
+msgid ""
+"This plugin will enable online booking services, however you're free to use "
+"whatever booking plugin you'd like as long as it supports shortcodes."
+msgstr ""
+"Este plugin habilita serviços de agendamento online, entretanto você é livre "
+"para usar qualquer plugin de agendamento que quiser, desde que ele suporte "
+"shortcodes"
+
+#: admin/getting-started/getting-started.php:355 admin/plugins/register.php:96
+msgid "Co-Authors Plus"
+msgstr "Co-Authors Plus"
+
+#: admin/getting-started/getting-started.php:357
+msgid "Install Co-Authors Plus"
+msgstr "Установите Co-Authors Plus"
+
+#: admin/getting-started/getting-started.php:363
+msgid ""
+"This plugin allows you to assign multiple users or agents to listings, "
+"perfect for co-listings."
+msgstr ""
+"Este plugin permite que você indique múltiplos usuários ou corretores para "
+"os imóveis, perfeito para listas compartilhadas"
+
+#: admin/getting-started/getting-started.php:367 admin/plugins/register.php:102
+msgid "Comments Ratings"
+msgstr "Рейтинг комментариев"
+
+#: admin/getting-started/getting-started.php:369
+msgid "Install Comments Ratings"
+msgstr "Установить Рейтинг комментариев"
+
+#: admin/getting-started/getting-started.php:375
+msgid "This plugin allows you to enable ratings for your listings."
+msgstr "Este plugin permite que você habilite notas para seus imóveis"
+
+#: admin/getting-started/getting-started.php:379 admin/plugins/register.php:207
+msgid "Envato Market"
+msgstr "Envato Market"
+
+#: admin/getting-started/getting-started.php:381
+msgid "Install Envato Market"
+msgstr "Установить Envato Market"
+
+#: admin/getting-started/getting-started.php:387
+msgid ""
+"This plugin allows you to easily get theme updates through your WordPress "
+"admin."
+msgstr ""
+"Este plugin permite que você atualize facilmente seus temas através do "
+"painel admin do WordPress"
+
+#: admin/getting-started/getting-started.php:396
+#, php-format
+msgid "Support for %s?"
+msgstr "Поддержка для %s?"
+
+#: admin/getting-started/getting-started.php:402
+#, php-format
+msgid ""
+"If you've read through the <a href=\"%1$s\" target=\"_blank\">"
+"documentation</a> and still have questions or are experiencing issues, I'm "
+"happy to help! Simply <a href=\"%2$s\"  target=\"_blank\" title=\"Open a "
+"live chat\">open a live chat</a> or <a href=\"%3$s\" target=\"_blank\">leave "
+"a comment</a> on the item page and I'll personally get back to you, thanks "
+"in advance for your patience."
+msgstr ""
+"Если вы прочитали <a href=\"%1$s\" target=\"_blank\">документацию</a> и все "
+"еще имеете вопросы или испытываете проблемы, я рад помочь! Просто <a "
+"href=\"%2$s\"  target=\"_blank\" title=\"Открыть чат\">откройте чат</a> или "
+"<a href=\"%3$s\" target=\"_blank\">оставьте комментарий</a> на странице "
+"товара, и я лично вернусь к вам, заранее за ваше терпение."
+
+#: admin/getting-started/getting-started.php:405
+#, php-format
+msgid "FAQ for %s?"
+msgstr "FAQ для %s?"
+
+#: admin/getting-started/getting-started.php:408
+msgid ""
+"The following articles below cover many frequently asked questions that you "
+"may have."
+msgstr ""
+"Следующие ниже статьи охватывают многие часто задаваемые вопросы, которые "
+"могут возникнуть у вас."
+
+#: admin/getting-started/getting-started.php:454
+msgid "Need Modifications or Customizations?"
+msgstr "Нужны изменения или настройки?"
+
+#: admin/getting-started/getting-started.php:459
+#, php-format
+msgid ""
+"Send me an email <a href=\"mailto:%s\">chris@contempothemes.com</a>, with a "
+"detailed outline of what you’d like to accomplish and I’ll get you a quote "
+"and turnaround time."
+msgstr ""
+"Пришлите мне письмо <a href=\"mailto:%s\">chris@contempothemes.com</a> с "
+"подробным описанием того, что вы хотели бы выполнить, и я приведу вам цитату "
+"и время обработки."
+
+#: admin/getting-started/getting-started.php:468
+#, php-format
+msgid ""
+"Please note that support requests will not be answered via email, only "
+"through my <a href=\"%1$s\" target=\"_blank\">live chat</a> or within the <a "
+"href=\"%2$s\" target=\"_blank\">item comments</a>."
+msgstr ""
+"Обратите внимание, что запросы на поддержку не будут отправляться по "
+"электронной почте, только через мой <a href=\"%1$s\" target=\"_blank\">живой "
+"чат</a> или в <a href=\"%2$s\" target=\"_blank\">комментариях</a> к <a "
+"href=\"%2$s\" target=\"_blank\">элементу</a> ."
+
+#: admin/getting-started/getting-started.php:478
+msgid "Hosting Recommendations"
+msgstr "Рекомендации по хостингу"
+
+#: admin/getting-started/getting-started.php:492
+#: admin/getting-started/getting-started.php:495
+msgid "Visit the Knowledge Base"
+msgstr "Посетите базу знаний"
+
+#: admin/getting-started/getting-started.php:493
+msgid ""
+"New to the WordPress world? The Knowledge Base has a boat load of articles "
+"to help you with any issues that might arise."
+msgstr ""
+"Novo no mundo do WordPress? A Base de Conhecimento tem muitos artigos para "
+"te ajudar com problemas que você pode enfrentar"
+
+#: admin/getting-started/getting-started.php:495
+msgid "Visit the knowledge base"
+msgstr "Посетите базу знаний (English)"
+
+#: admin/google-places/GooglePlaces.php:149
+#: admin/google-places/GooglePlaces.php:165
+#: admin/google-places/GooglePlaces.php:182
+msgid "Google Places API is currently unavailable."
+msgstr "API Google настоящее время недоступен."
+
+#: admin/google-places/GooglePlaces.php:151
+msgid ""
+"You must specify a valid listing location, use street address in the listing "
+"title along with city, state & zip/postcode — if not use the optional "
+"latitude & longitude field."
+msgstr ""
+"Você precisa especificar um local válido para o imóvel, use o endereço no "
+"título do imóvel junto com a cidade, estado e CEP - ou use o campo opcional "
+"de latitude e longitude"
+
+#: admin/google-places/GooglePlaces.php:167
+#: admin/google-places/GooglePlaces.php:207
+msgid ""
+"You much specify at least one of the following: \"keyword\", \"name\", "
+"\"types\"."
+msgstr ""
+"Вы много указываете хотя бы одно из следующего: «ключевое слово», «имя», "
+"«типы»."
+
+#: admin/google-places/GooglePlaces.php:184
+#: admin/google-places/GooglePlaces.php:201
+msgid "You must specify a radius."
+msgstr "Вы должны указать радиус."
+
+#: admin/google-places/GooglePlaces.php:197
+msgid "You must specify a location before calling radarsearch()."
+msgstr "Вы должны указать местоположение перед вызовом radarsearch ()."
+
+#: admin/google-places/GooglePlaces.php:221
+msgid ""
+"You must specify either a \"placeid\" or a \"reference\" (but not both) "
+"before calling details()."
+msgstr ""
+"Перед вызовом деталей () вы должны указать либо «placeid», либо «reference» "
+"(но не оба)."
+
+#: admin/plugins/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr "Установка необходимых плагинов"
+
+#: admin/plugins/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr "Установить плагины"
+
+#. %s: plugin name.
+#: admin/plugins/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Установка плагина: %s"
+
+#. %s: plugin name.
+#: admin/plugins/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr "Обновление плагина: %s"
+
+#: admin/plugins/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr "Что-то пошло не так с API плагина."
+
+#: admin/plugins/class-tgm-plugin-activation.php:341
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Для этой темы требуется следующий плагин: %1$s."
+msgstr[1] "Для этой темы требуется следующие плагины : %1$s."
+
+#: admin/plugins/class-tgm-plugin-activation.php:347
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Для этой темы рекомендуется следующий плагин: %1$s."
+msgstr[1] "Для этой темы рекомендуется следующие плагины : %1$s."
+
+#: admin/plugins/class-tgm-plugin-activation.php:353
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+"Следующий плагин необходимо обновить до последней версии, чтобы обеспечить "
+"максимальную совместимость с этой темой: %1$s."
+msgstr[1] ""
+"Следующие плагины необходимо обновить до последней версии, чтобы обеспечить "
+"максимальную совместимость с этой темой: %1$s."
+
+#: admin/plugins/class-tgm-plugin-activation.php:359
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Обновление  доступно для: %1$s."
+msgstr[1] "Existem atualizações disponíveis para: %1$s."
+
+#: admin/plugins/class-tgm-plugin-activation.php:365
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Следующий обязательный плагин в настоящее время неактивен: %1$s."
+msgstr[1] "Следующие обязательные плагины в настоящее время неактивны: %1$s ."
+
+#: admin/plugins/class-tgm-plugin-activation.php:371
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Следующий рекомендуемый плагин в настоящее время неактивен: %1$s."
+msgstr[1] "Следующие рекомендуемые плагины в настоящее время неактивны: %1$s ."
+
+#: admin/plugins/class-tgm-plugin-activation.php:377
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Начать установку плагина"
+msgstr[1] "Начать установку плагина"
+
+#: admin/plugins/class-tgm-plugin-activation.php:382
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Начать обновление плагина"
+msgstr[1] "Начать обновление плагина"
+
+#: admin/plugins/class-tgm-plugin-activation.php:387
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Начать активацию плагина"
+msgstr[1] "Начать активацию плагина"
+
+#: admin/plugins/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr "Вернуться к установке необходимых плагинов"
+
+#: admin/plugins/class-tgm-plugin-activation.php:393
+#: admin/plugins/class-tgm-plugin-activation.php:912
+#: admin/plugins/class-tgm-plugin-activation.php:2618
+#: admin/plugins/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr "Вернуться в панель управления"
+
+#: admin/plugins/class-tgm-plugin-activation.php:394
+#: admin/plugins/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr "Плагин успешно активирован."
+
+#: admin/plugins/class-tgm-plugin-activation.php:395
+#: admin/plugins/class-tgm-plugin-activation.php:3037
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "Следующий плагин был успешно активирован:"
+msgstr[1] "Os seguintes plug-ins foram ativados com sucesso:"
+
+#. 1: plugin name.
+#: admin/plugins/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Никаких действий не требуется. Плагин %1$s уже активирован."
+
+#. 1: plugin name.
+#: admin/plugins/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+"Плагин не активирован. Для этой темы требуется более высокая версия %s. "
+"Обновите плагин."
+
+#. 1: dashboard link.
+#: admin/plugins/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Все плагины установлены и успешно активированы. %1$s"
+
+#: admin/plugins/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+"Для установки, обновления или активации есть один или несколько обязательных "
+"или рекомендуемых модулей."
+
+#: admin/plugins/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr "Обратитесь за помощью к администратору этого сайта."
+
+#: admin/plugins/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+"Этот плагин должен быть обновлен, чтобы быть совместимым с вашей темой."
+
+#: admin/plugins/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr "Требуется обновление"
+
+#: admin/plugins/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+"Пакет удаленных плагинов не содержит папку с желаемым слизнем, и "
+"переименование не работает."
+
+#: admin/plugins/class-tgm-plugin-activation.php:1019
+#: admin/plugins/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+"Обратитесь к поставщику плагинов и попросите их упаковать их плагин в "
+"соответствии с рекомендациями WordPress."
+
+#: admin/plugins/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+"Пакет удаленных плагинов состоит из нескольких файлов, но файлы не упакованы "
+"в папку."
+
+#: admin/plugins/class-tgm-plugin-activation.php:1206
+#: admin/plugins/class-tgm-plugin-activation.php:3033
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "и"
+
+#. %s: version number
+#: admin/plugins/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr "WordPress Repository"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr "Внешний источник"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr "Pre-Packaged"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr "Не установлен"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr "Установлен, но не активирован"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr "Активный"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr "Требуемое обновление недоступно"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr "Требуется обновление"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr "Рекомендуется обновление"
+
+#. 1: install status, 2: update status
+#: admin/plugins/class-tgm-plugin-activation.php:2427
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#. 1: number of plugins.
+#: admin/plugins/class-tgm-plugin-activation.php:2473
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Все <span class=\"count\">(%s)</span>"
+msgstr[1] "Todos <span class=“count”>(%s)</span>"
+
+#. 1: number of plugins.
+#: admin/plugins/class-tgm-plugin-activation.php:2477
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Для установки <span class=\"count\">(%s)</span>"
+msgstr[1] "Para Instalar <span class=“count”>(%s)</span>"
+
+#. 1: number of plugins.
+#: admin/plugins/class-tgm-plugin-activation.php:2481
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Доступно обновление <span class=\"count\">(%s)</span>"
+msgstr[1] "Update Disponível <span class=“count”>(%s)</span>"
+
+#. 1: number of plugins.
+#: admin/plugins/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Для активации <span class=\"count\">(%s)</span>"
+msgstr[1] "Para Ativar <span class=“count”>(%s)</span>"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2567
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "неизвестна"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr "Установленная версия:"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr "Минимальная требуемая версия:"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr "Доступная версия:"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr "Нет плагинов для установки, обновления или активации."
+
+#: admin/plugins/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr "Плагин"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr "Источник"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr "Версия"
+
+#. %2$s: plugin name in screen reader markup
+#: admin/plugins/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr "Установить %2$s"
+
+#. %2$s: plugin name in screen reader markup
+#: admin/plugins/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr "Обновить %2$s"
+
+#. %2$s: plugin name in screen reader markup
+#: admin/plugins/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr "Активировать %2$s"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr "Сообщение об обновлении от автора плагина:"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr "Установить"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr "Активировать"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Ни один из плагинов не выбран для установки. Действие не выполнено."
+
+#: admin/plugins/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Плагины не были выбраны, чтобы быть обновлены. Никаких мер не принято."
+
+#: admin/plugins/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr "В данный момент нет плагинов для установки."
+
+#: admin/plugins/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr "В данный момент нет плагинов для обновления."
+
+#: admin/plugins/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Плагины не были выбраны для  активации.  Действие не выполнено."
+
+#: admin/plugins/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr "В настоящее время плагины недоступны для активации."
+
+#: admin/plugins/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr "Не удалось активировать плагин."
+
+#. 1: plugin name, 2: action number 3: total number of actions.
+#: admin/plugins/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Обновление плагина %1$s (%2$d/%3$d)"
+
+#. 1: plugin name, 2: error message.
+#: admin/plugins/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Произошла ошибка при установке %1$s: <strong>%2$s</strong>."
+
+#. 1: plugin name.
+#: admin/plugins/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "Установка %1$s не удалась."
+
+#: admin/plugins/class-tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"Запускается процесс установки и активации. Этот процесс может занять "
+"некоторое время на некоторых хостах, поэтому, пожалуйста, будьте терпеливы."
+
+#. 1: plugin name.
+#: admin/plugins/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s успешно установлен и активирован."
+
+#: admin/plugins/class-tgm-plugin-activation.php:3594
+#: admin/plugins/class-tgm-plugin-activation.php:3602
+msgid "Show Details"
+msgstr "Показать детали"
+
+#: admin/plugins/class-tgm-plugin-activation.php:3594
+#: admin/plugins/class-tgm-plugin-activation.php:3602
+msgid "Hide Details"
+msgstr "Скрыть детали"
+
+#: admin/plugins/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr "Все установки и активации завершены."
+
+#. 1: plugin name, 2: action number 3: total number of actions.
+#: admin/plugins/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Установка и активация плагина %1$s (%2$d/%3$d)"
+
+#: admin/plugins/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"Процесс установки начинается. Этот процесс может занять некоторое время на "
+"некоторых хостах, поэтому, пожалуйста, будьте терпеливы."
+
+#. 1: plugin name.
+#: admin/plugins/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s успешно установлен."
+
+#: admin/plugins/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr "Все установки были успешно завершены"
+
+#. 1: plugin name, 2: action number 3: total number of actions.
+#: admin/plugins/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Установка плагина %1$s (%2$d/%3$d)"
+
+#: admin/plugins/register.php:108
+msgid "Contempo Membership & Packages"
+msgstr "Contempo Membership & Packages"
+
+#: admin/plugins/register.php:130
+msgid "Contempo Real Estate 7 Payment Gateways"
+msgstr "Contempo Real Estate 7 Payment Gateways"
+
+#: includes/widgets/ct-widget-adspace.php:13
+msgid "CT Adspace Widget"
+msgstr "CT Adspace Widget"
+
+#: includes/widgets/ct-widget-adspace.php:61
+#: includes/widgets/ct-widget-listingssocial.php:49
+msgid "Title (optional):"
+msgstr "Заголовок (необязательно):"
+
+#: includes/widgets/ct-widget-adspace.php:65
+msgid "Ad Code:"
+msgstr "Рекламный Код:"
+
+#: includes/widgets/ct-widget-adspace.php:70
+msgid "Image Url:"
+msgstr "URL изображения:"
+
+#: includes/widgets/ct-widget-adspace.php:74
+msgid "Link URL:"
+msgstr "URL ссылки:"
+
+#: includes/widgets/ct-widget-adspace.php:78
+msgid "Alt text:"
+msgstr "Alt текст:"
+
+#: includes/widgets/ct-widget-agentinfo.php:13
+msgid "CT Agent Info"
+msgstr "CT Agent Info"
+
+#: includes/widgets/ct-widget-agentinfo.php:70
+msgid "Mobile"
+msgstr "Мобильный"
+
+#: includes/widgets/ct-widget-agentinfo.php:73
+msgid "Office"
+msgstr "Офис"
+
+#: includes/widgets/ct-widget-agentinfo.php:76
+msgid "Fax"
+msgstr "Факс"
+
+#: includes/widgets/ct-widget-agentsotherlistings.php:13
+msgid "CT Agents Other Listings"
+msgstr "CT Agents Другие объявления"
+
+#: includes/widgets/ct-widget-agentsotherlistings.php:285
+#: includes/widgets/ct-widget-flickr.php:55
+#: includes/widgets/ct-widget-latestposts.php:74
+#: includes/widgets/ct-widget-listings.php:135
+#: includes/widgets/ct-widget-testimonials.php:66
+msgid "Number:"
+msgstr "Номер:"
+
+#: includes/widgets/ct-widget-agentsotherlistings.php:293
+#: includes/widgets/ct-widget-listings.php:143
+msgid "Taxonomy:"
+msgstr "Таксономия:"
+
+#: includes/widgets/ct-widget-agentsotherlistings.php:302
+#: includes/widgets/ct-widget-listings.php:152
+msgid "Tag:"
+msgstr "Тэг:"
+
+#: includes/widgets/ct-widget-blogauthor.php:13
+msgid "CT Blog Author Info"
+msgstr "CT Blog Autor Info"
+
+#: includes/widgets/ct-widget-blogauthor.php:64
+msgid "Bio:"
+msgstr "Коротко о себе:"
+
+#: includes/widgets/ct-widget-blogauthor.php:68
+msgid "<a href=\"http://www.gravatar.com/\">Gravatar</a> E-mail:"
+msgstr "<a href=\"http://www.gravatar.com/\">Gravatar</a> E-Mail:"
+
+#: includes/widgets/ct-widget-blogauthor.php:72
+msgid "Gravatar Size:"
+msgstr "Размер Gravatar:"
+
+#: includes/widgets/ct-widget-blogauthor.php:76
+msgid "Gravatar Alignment:"
+msgstr "Gravatar отступ:"
+
+#: includes/widgets/ct-widget-blogauthor.php:78
+msgid "Left"
+msgstr "Слева"
+
+#: includes/widgets/ct-widget-blogauthor.php:79
+msgid "Right"
+msgstr "Справа"
+
+#: includes/widgets/ct-widget-blogauthor.php:83
+msgid "Read More Text (optional):"
+msgstr "Читать остальной текст (по желанию)"
+
+#: includes/widgets/ct-widget-blogauthor.php:87
+msgid "Read More URL (optional):"
+msgstr "Читать далее URL (опционально):"
+
+#: includes/widgets/ct-widget-blogauthor.php:91
+msgid "Visible Pages:"
+msgstr "Видимые страницы:"
+
+#: includes/widgets/ct-widget-blogauthor.php:93
+msgid "All"
+msgstr "Все"
+
+#: includes/widgets/ct-widget-blogauthor.php:94
+msgid "Home only"
+msgstr "Только главная"
+
+#: includes/widgets/ct-widget-blogauthor.php:95
+msgid "Single only"
+msgstr "Посты только"
+
+#: includes/widgets/ct-widget-brokerinfo.php:13
+msgid "CT Brokers Info"
+msgstr "CT Brokers Info"
+
+#: includes/widgets/ct-widget-brokerinfo.php:54
+msgid "Email Office"
+msgstr "E-Mail geschäftl."
+
+#: includes/widgets/ct-widget-brokerinfo.php:55
+msgid "Visit Brokers Website"
+msgstr "Посетить сайт брокеров"
+
+#: includes/widgets/ct-widget-brokerinfo.php:82
+msgid "Logo URL:"
+msgstr "URL логоа:"
+
+#: includes/widgets/ct-widget-brokerinfo.php:86
+msgid "Company:"
+msgstr "Компания:"
+
+#: includes/widgets/ct-widget-brokerinfo.php:90
+msgid "Office Phone:"
+msgstr "Telefon geschäftl."
+
+#: includes/widgets/ct-widget-brokerinfo.php:94
+msgid "Office Email:"
+msgstr "E-mail офиса:"
+
+#: includes/widgets/ct-widget-brokerinfo.php:98
+msgid "Website:"
+msgstr "Сайт:"
+
+#: includes/widgets/ct-widget-contactinfo.php:13
+msgid "CT Contact Info"
+msgstr "CT Contact Info"
+
+#: includes/widgets/ct-widget-contactinfo.php:126
+msgid "Show Logo:"
+msgstr "Показать лого:"
+
+#: includes/widgets/ct-widget-contactinfo.php:137
+msgid "Blurb:"
+msgstr "Реклама:"
+
+#: includes/widgets/ct-widget-contactinfo.php:141
+msgid "Company Name:"
+msgstr "Имя компании:"
+
+#: includes/widgets/ct-widget-contactinfo.php:145
+msgid "Street Address:"
+msgstr "Адрес:"
+
+#: includes/widgets/ct-widget-contactinfo.php:149
+msgid "City:"
+msgstr "Город:"
+
+#: includes/widgets/ct-widget-contactinfo.php:153
+msgid "State:"
+msgstr "Область:"
+
+#: includes/widgets/ct-widget-contactinfo.php:157
+msgid "Postal:"
+msgstr "Почтовый индекс:"
+
+#: includes/widgets/ct-widget-contactinfo.php:161
+msgid "Country:"
+msgstr "Страна:"
+
+#: includes/widgets/ct-widget-contactinfo.php:165
+msgid "Phone:"
+msgstr "Телефон:"
+
+#: includes/widgets/ct-widget-flickr.php:13
+msgid "CT Flickr"
+msgstr "CT Flickr"
+
+#: includes/widgets/ct-widget-flickr.php:26
+msgid "Photos on flickr"
+msgstr "Фотографии на flickr"
+
+#: includes/widgets/ct-widget-flickr.php:51
+msgid "Flickr ID (<a href=\"http://www.idgettr.com\">idGettr</a>):"
+msgstr "Flickr ID (<a href=\"http://www.idgettr.com\">idGettr</a>):"
+
+#: includes/widgets/ct-widget-flickr.php:65
+msgid "User"
+msgstr "Пользователь"
+
+#: includes/widgets/ct-widget-flickr.php:66
+msgid "Group"
+msgstr "Группа"
+
+#: includes/widgets/ct-widget-flickr.php:70
+msgid "Sorting:"
+msgstr "Сортировка:"
+
+#: includes/widgets/ct-widget-flickr.php:72
+#: includes/widgets/ct-widget-tabs.php:110
+#: includes/widgets/ct-widget-tabs.php:117
+msgid "Latest"
+msgstr "Последние"
+
+#: includes/widgets/ct-widget-flickr.php:73
+msgid "Random"
+msgstr "В случайном порядке"
+
+#: includes/widgets/ct-widget-flickr.php:77
+msgid "Size:"
+msgstr "Размер:"
+
+#: includes/widgets/ct-widget-flickr.php:79
+msgid "Square"
+msgstr "Квадрат"
+
+#: includes/widgets/ct-widget-flickr.php:80
+msgid "Medium"
+msgstr "Средний"
+
+#: includes/widgets/ct-widget-flickr.php:81
+msgid "Thumbnail"
+msgstr "Миниатюра"
+
+#: includes/widgets/ct-widget-latestposts.php:13
+msgid "CT Latest Posts"
+msgstr "СТ Последние записи"
+
+#: includes/widgets/ct-widget-listings.php:13
+msgid "CT Listings"
+msgstr "СТ Объявления"
+
+#: includes/widgets/ct-widget-listings.php:156
+msgid "View All Link Text"
+msgstr "Посмотреть все ссылки текста"
+
+#: includes/widgets/ct-widget-listings.php:160
+msgid "View All Link URL"
+msgstr "Показать все ссылки"
+
+#: includes/widgets/ct-widget-listingscontact.php:13
+msgid "CT Listing Agent Contact"
+msgstr "СТ Контактная Форма для связи с Агентом"
+
+#: includes/widgets/ct-widget-listingscontact.php:72
+msgid "Subject:"
+msgstr "Тема:"
+
+#: includes/widgets/ct-widget-listingssearch.php:13
+msgid "CT Listings Search"
+msgstr "СТ Поиск объявлений"
+
+#: includes/widgets/ct-widget-listingssocial.php:13
+msgid "CT Listings Social"
+msgstr "СТ Объявления в соцсетьях"
+
+#: includes/widgets/ct-widget-search.php:13
+msgid "CT Search"
+msgstr "СТ Поиск"
+
+#: includes/widgets/ct-widget-tabs.php:13
+msgid "CT Tabs"
+msgstr "CT Tabs"
+
+#: includes/widgets/ct-widget-tabs.php:103
+msgid "Number of posts:"
+msgstr "Количество сообщений:"
+
+#: includes/widgets/ct-widget-tabs.php:108
+msgid "First Visible Tab:"
+msgstr "Первый видимый таб:"
+
+#: includes/widgets/ct-widget-tabs.php:111
+#: includes/widgets/ct-widget-tabs.php:120
+msgid "Comments"
+msgstr "Комментарии"
+
+#: includes/widgets/ct-widget-tabs.php:112
+#: includes/widgets/ct-widget-tabs.php:123
+msgid "Tags"
+msgstr "Тэги"
+
+#: includes/widgets/ct-widget-testimonials.php:13
+msgid "CT Testimonials"
+msgstr "СТ Отзывы"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:79
+#: admin/ReduxFramework/theme-options/re7-config.php:80
+msgid "Real Estate 7 Options"
+msgstr "Real Estate 7 Optionen"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:756
+msgid "Theme Information 1"
+msgstr "Theme Information 1"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:757
+#: admin/ReduxFramework/theme-options/re7-config.php:762
+msgid "<p>This is the tab content, HTML is allowed.</p>"
+msgstr "<p>Это содержимое таба, HTML разрешен.</p>"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:761
+msgid "Theme Information 2"
+msgstr "Theme Information 2"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:768
+msgid "<p>This is the sidebar content, HTML is allowed.</p>"
+msgstr "<p>Это содержимое сайдбара, HTML разрешен.</p>"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:774
+msgid "General Settings"
+msgstr "Главные настройки"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:832
+#: admin/ReduxFramework/theme-options/re7-config.php:1932
+msgid "Header"
+msgstr "Header"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:900
+msgid "Custom Logo"
+msgstr "Пользовательский логотип"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:935
+msgid "Top Bar"
+msgstr "Top Bar"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:956
+msgid "Contact Phone"
+msgstr "Контактный телефон"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:976
+#: admin/ReduxFramework/theme-options/re7-config.php:1150
+#: admin/ReduxFramework/theme-options/re7-config.php:1181
+#: admin/ReduxFramework/theme-options/re7-config.php:1212
+msgid "Icon"
+msgstr "Значок"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:977
+#: admin/ReduxFramework/theme-options/re7-config.php:1151
+#: admin/ReduxFramework/theme-options/re7-config.php:1182
+#: admin/ReduxFramework/theme-options/re7-config.php:1213
+msgid "Select an icon."
+msgstr "Выберите значок."
+
+#: admin/ReduxFramework/theme-options/re7-config.php:992
+msgid "Currency Switcher"
+msgstr "Переключатель валюты"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1022
+msgid "Social Links"
+msgstr "Ссылки на соцсети"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1119
+msgid "Header Info Columns"
+msgstr "Колонки сведений заголовка"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1127
+msgid "Column One"
+msgstr "1-я колонка"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1158
+msgid "Column Two"
+msgstr "2-я колонка"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1189
+msgid "Column Three"
+msgstr "3-я колонка"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1221
+msgid "Homepage"
+msgstr "Главная страница"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1231
+msgid "Layout Manager"
+msgstr "Layout Manager"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1270
+msgid "Revolution Slider"
+msgstr "Revolution Slider"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1287
+#: admin/ReduxFramework/theme-options/re7-config.php:1639
+msgid "FlexSlider"
+msgstr "FlexSlider"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1313
+msgid "Listing Carousel"
+msgstr "Listing Carousel"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1352
+msgid "Hero w/Search"
+msgstr "Hero w/Search"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1399
+msgid "Top Padding"
+msgstr "Верхний отступ"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1400
+msgid "Set the top padding in percentage."
+msgstr "Установите Верхний отступ в процентах."
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1410
+msgid "Bottom Padding"
+msgstr "Нижний отступ"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1411
+msgid "Set the bottom padding in percentage."
+msgstr "Установите нижнее заполнение в процентах."
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1422
+msgid "Call To Action"
+msgstr "Call to Action"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1453
+msgid "Featured Listings"
+msgstr " Рекомендованные объявления"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1524
+msgid "Add/Edit Testimonials"
+msgstr "Добавить/Изменить отзывы"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1525
+msgid "Add your testimonials to be displayed on the homepage."
+msgstr "Отзывы на главной странице."
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1527
+msgid "Company or Person"
+msgstr "Компания или лицо"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1528
+msgid "Testimonial Here"
+msgstr "Отзывы здесь"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1529
+#: admin/ReduxFramework/theme-options/re7-config.php:1559
+msgid "Link"
+msgstr "Ссылка"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1537
+msgid "Partners"
+msgstr "Партнеры"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1554
+msgid "Add/Edit Partner Logos"
+msgstr "Добавление/изменение логотипов партнеров"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1555
+msgid "Add your partner logos to be displayed on the homepage."
+msgstr "Добавьте логотипы партнеров для отображения на главной странице."
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1557
+msgid "Partner Title"
+msgstr "Название партнера"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1558
+msgid "Description Here (not used)"
+msgstr "Описание здесь (не используется)"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1579
+msgid "Page Builder"
+msgstr "Page Builder"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1623
+msgid "Four Column Widget Area"
+msgstr "Четыре колонки виджет"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1706
+msgid "Create a Skin"
+msgstr "Создать Скин"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1729
+#: admin/ReduxFramework/theme-options/re7-config.php:1943
+#: admin/ReduxFramework/theme-options/re7-config.php:2036
+#: admin/ReduxFramework/theme-options/re7-config.php:2119
+#: admin/ReduxFramework/theme-options/re7-config.php:2208
+#: admin/ReduxFramework/theme-options/re7-config.php:2248
+msgid "NOTE!"
+msgstr "Примечание!"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1730
+msgid "If this isn't set to Yes NONE of the Styles will be Applied."
+msgstr ""
+"Если для этого не задано значение Yes, ни один из стилей не будет применен."
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1737
+msgid "Typography"
+msgstr "Шрифты"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1757
+msgid "Body"
+msgstr "Body"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1776
+msgid "Headings"
+msgstr "Headings"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1795
+msgid "H1"
+msgstr "H1"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1815
+msgid "H2"
+msgstr "H2"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1835
+msgid "H3"
+msgstr "H3"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1855
+msgid "H4"
+msgstr "H4"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1875
+msgid "H5"
+msgstr "H5"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1895
+msgid "H6"
+msgstr "H6"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1916
+msgid "Body Background"
+msgstr "Body Background"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1944
+#: admin/ReduxFramework/theme-options/re7-config.php:2037
+#: admin/ReduxFramework/theme-options/re7-config.php:2120
+#: admin/ReduxFramework/theme-options/re7-config.php:2209
+#: admin/ReduxFramework/theme-options/re7-config.php:2249
+msgid ""
+"You must set Create a Skin > Use Custom Styles > Yes, if this isn't set NONE "
+"of the Styles will be Applied."
+msgstr ""
+"You must set Create a Skin > Use Custom Styles > Yes, if this isn't set NONE "
+"of the Styles will be Applied."
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2025
+msgid "Mobile Navigation"
+msgstr "Мобильная навигация"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2108
+msgid "Secondary Colors"
+msgstr "Secondary Colors"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2197
+msgid "Links"
+msgstr "Ссылки"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2237
+#: admin/ReduxFramework/theme-options/re7-config.php:4664
+msgid "Footer"
+msgstr "Footer"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2307
+msgid "User Profile Fields"
+msgstr "Поля профиля пользователя"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2395
+msgid "Agent Single"
+msgstr "Отдельный Риэлтор"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2447
+msgid "Google Maps"
+msgstr "Google Maps"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2504
+msgid "Global Options"
+msgstr "Глобальные настройки"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2505
+msgid ""
+"These options apply globally to the homepage, expanded area of header search "
+"and search widget."
+msgstr ""
+"Эти варианты относится к Главной странице, зоны рассширения Header и виджет "
+"поиска."
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2574
+msgid "Header Search"
+msgstr "Поиск в шапке сайта"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2632
+msgid "Homepage Search"
+msgstr "Поиск по главной странице"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2884
+msgid "Listings Search"
+msgstr "Поиск объявлений"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2982
+msgid "Listing Single"
+msgstr "Одно объявление"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:3222
+msgid "Listing Stats"
+msgstr "Статистика объявление"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:3242
+msgid "Walk Score"
+msgstr "Walk Score"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:3245
+msgid ""
+"Walk Score is the only international measure of walkability and the leading "
+"provider of neighborhood maps to the real estate industry. More than 30,000 "
+"websites use the Walk Score Neighborhood Map and we serve over 20 million "
+"scores each day. <a href=\"https://www.walkscore.com/professional/api-sign-"
+"up.php\" target=\"_blank\">Get your API Key</a>!."
+msgstr ""
+"Walk Оценка является единственной международной мерой пешеходности и ведущий "
+"поставщик окрестности карты для индустрии недвижимости. Более 30 000 веб-"
+"сайтов использовать Walk Оценка окрестности карта, и мы служим более 20 000 "
+"000 баллов каждый день. < href = \"https://ввв.валкскоре."
+"ком/профессионал/апи-сигн-уп.фп\" target = \"_бланк\" > получите ваш API "
+"ключ </а>!."
+
+#: admin/ReduxFramework/theme-options/re7-config.php:3286
+msgid ""
+"Set this up if you'd like to display \"What's Nearby?\" information on your "
+"listings such as restaurants, stores, schools, coffee shops, etc&hellip;."
+msgstr ""
+"Установите это, если вы хотите показать \"что находится поблизости?\" "
+"информация о ваших объявлений, таких как рестораны, Магазины, школы, кафе, и "
+"т.д. &хеллип;."
+
+#: admin/ReduxFramework/theme-options/re7-config.php:3393
+msgid "Front End Login & Registration"
+msgstr "Front End Login & Registration"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:3465
+msgid "Front End Submission"
+msgstr "Front End Submission"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:3658
+msgid "Submit Listing Form"
+msgstr "Отправить форму объявления"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:3669
+#: admin/ReduxFramework/theme-options/re7-config.php:3758
+#: admin/ReduxFramework/theme-options/re7-config.php:3946
+#: admin/ReduxFramework/theme-options/re7-config.php:4025
+msgid "Select which fields you'd like to be required."
+msgstr "Selecione quais campos você gostaria que fossem obrigatórios"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:3857
+msgid ""
+"Select which fields you'd like to be required, these are only shown if "
+"enabled via Listings > Listing Single > Enable Vacation Rentals/Booking "
+"Fields."
+msgstr ""
+"Selecione quais campos você gostaria que fossem obrigatórios, esses somente "
+"serão mostrados se habilitados via Listings > Imóvel Único > Habilitar "
+"Campos Aluguéis/Agendamento Temporada"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:4043
+msgid "PayPal Settings"
+msgstr "Настройки PayPal"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:4116
+msgid "Stripe Settings"
+msgstr "Настройки Stripe"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:4154
+msgid "Wire Transfer"
+msgstr "Wire Transfer"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:4223
+msgid "Email Content"
+msgstr "Email Содержание"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:4359
+msgid "Blog Archive"
+msgstr "Архив блога"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:4401
+msgid "Single Post"
+msgstr "Одиночный пост"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:4569
+msgid "Map Addresses"
+msgstr "Map Addresses"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:4570
+msgid ""
+"Enter the address of your locations to be used in the Google Map, needs to "
+"be entered in this format for each entry: 849 West Harbor Dr. San Diego, CA "
+"92101"
+msgstr ""
+"Введите адреса Вашего местоположения, которой будет использоватся в Google "
+"Map. Адрес должен быть в формате: 849 Вест Харбер, Сан Диего, СА 92101"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:4634
+msgid "Custom CSS"
+msgstr "Custom CSS"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:4649
+msgid "Custom JS"
+msgstr "Custom JS"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:4730
+msgid "Import/Export"
+msgstr "Импорт/Экспорт"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:4767
+msgid "Changelog"
+msgstr "Журнал изменений"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:4783
+msgid "Demo Importer"
+msgstr "Демо импортер"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:4784
+msgid ""
+"Works best to import on a new install of WordPress. Recommend using the <a "
+"href=\"https://wordpress.org/plugins/wordpress-reset/\" target=\"_blank\">"
+"WordPress Reset plugin</a> before switching between demos. "
+msgstr ""
+"Работает лучше всего для импорта на новой установке WordPress. Рекомендуйте "
+"использовать <a href=\"https://wordpress.org/plugins/wordpress-reset/\" "
+"target=\"_blank\">плагин WordPress Reset</a> перед переключением между "
+"демонстрационными версиями. "
+
+#: admin/ReduxFramework/theme-options/re7-config.php:4913
+msgid "Section via hook"
+msgstr "Section via hook"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:4914
+msgid ""
+"<p class=\"description\">This is a section created by adding a filter to the "
+"sections array. Can be used by child themes to add/remove sections from the "
+"options.</p>"
+msgstr ""
+"<p class=\"description\">This is a section created by adding a filter to the "
+"sections array. Can be used by child themes to add/remove sections from the "
+"options.</p>"
+
+#. Name of the theme
+msgid "WP Pro Real Estate 7"
+msgstr "WP Pro Real Estate 7"
+
+#. Description of the theme
+msgid ""
+"A responsive real estate theme, designed by <a href=\"http://www."
+"contempographicdesign.com\">Contempo</a>."
+msgstr ""
+"A responsive real estate theme, designed by <a href=\"http://www."
+"contempographicdesign.com\">Contempo</a>."
+
+#. URI of the theme
+msgid "http://themeforest.net/user/contempoinc?ref=contempoinc"
+msgstr "http://themeforest.net/user/contempoinc?ref=contempoinc"
+
+#. Author of the theme
+msgid "Chris Robinson"
+msgstr "Chris Robinson"
+
+#. Author URI of the theme
+msgid "http://www.contempographicdesign.com"
+msgstr "http://www.contempographicdesign.com"

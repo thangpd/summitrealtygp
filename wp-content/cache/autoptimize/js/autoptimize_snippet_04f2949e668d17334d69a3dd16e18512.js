@@ -1,0 +1,1 @@
+try{jQuery.noConflict();(function($){$(document).ready(function(){jQuery('select').niceSelect();jQuery('select').niceSelect('update');});})(jQuery);}catch(e){}

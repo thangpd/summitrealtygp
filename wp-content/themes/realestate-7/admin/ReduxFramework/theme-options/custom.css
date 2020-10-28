@@ -1,0 +1,10 @@
+.redux-group-tab > h2 { font-size: 1.6em; margin: 1.5em 0 1.8em 0; font-weight: 800;}
+	.redux-main .form-table-section-indented { margin-bottom: 4%;}
+
+ul#ct_home_layout_disabled h3,
+ul#ct_home_adv_search_fields_disabled h3 { color: #aaa;}
+ul#ct_home_layout_enabled h3,
+ul#ct_home_adv_search_fields_enabled h3 { color: #79b402;}
+
+.redux-notice-field { margin-bottom: 15px; padding: 12px; background: #f1fbbb;}
+	#info-demo-importer-hosting { background: none; border: none;}

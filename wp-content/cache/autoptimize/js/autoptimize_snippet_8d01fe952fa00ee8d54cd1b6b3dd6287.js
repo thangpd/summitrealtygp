@@ -1,0 +1,5 @@
+try{jQuery.fn.extend({live:function(event,callback){if(this.selector){jQuery(document).on(event,this.selector,callback);}
+return this;}});jQuery(document).ready(function($){$(".clear-saved a").addClass("fav-clear");$('.wpfp-link').live('click',function(){dhis=$(this);wpfp_do_js(dhis,1);if(dhis.hasClass('remove-parent')){dhis.closest("li.fav-listing").fadeOut();}
+return false;});$('.wpfp-link').live('click',function(){dhis=$(this);wpfp_do_js(dhis,1);if(dhis.hasClass('fav-clear')){dhis.closest("ul").fadeOut();}
+return false;});});function wpfp_do_js(dhis,doAjax){loadingImg=dhis.prev();loadingImg.show();beforeImg=dhis.prev().prev();beforeImg.hide();url=document.location.href.split('#')[0];params=dhis.attr('href').replace('?','')+'&ajax=1';if(doAjax){jQuery.get(url,params,function(data){dhis.parent().html(data);if(typeof wpfp_after_ajax=='function'){wpfp_after_ajax(dhis);}
+loadingImg.hide();});}};}catch(e){}

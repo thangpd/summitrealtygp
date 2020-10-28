@@ -1,0 +1,4680 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-01-04 21:41+0000\n"
+"PO-Revision-Date: 2020-01-04 21:41+0000\n"
+"Last-Translator: \n"
+"Language-Team: Thai\n"
+"Language: th\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: comments.php:44
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: includes/featured-listings.php:67 includes/featured-listings.php:76
+#: includes/home-listings-carousel.php:44
+#: includes/home-listings-carousel.php:53 includes/single-listing-home.php:28
+msgid "featured"
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2031
+msgid "H1"
+msgstr "H1"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2051
+msgid "H2"
+msgstr "ถนนเอช 2"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2071
+msgid "H3"
+msgstr "H3"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2091
+msgid "H4"
+msgstr "H4"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2111
+msgid "H5"
+msgstr "H5"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2131
+msgid "H6"
+msgstr "H6"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2152
+msgid "Body Background"
+msgstr "ศพพื้นหลัง"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2180
+#: admin/ReduxFramework/theme-options/re7-config.php:2273
+#: admin/ReduxFramework/theme-options/re7-config.php:2356
+#: admin/ReduxFramework/theme-options/re7-config.php:2445
+#: admin/ReduxFramework/theme-options/re7-config.php:2485
+msgid ""
+"You must set Create a Skin > Use Custom Styles > Yes, if this isn't set NONE "
+"of the Styles will be Applied."
+msgstr ""
+"คุณต้องตั้งสร้างเป็นผิวหนัง>ใช้รูปแบบกำหนดเอง>ใช่ถ้าเรื่องนี้มัน\\'t "
+"ตั้งค่าเรื่องของรูปแบบจะถูกใช้"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2261
+msgid "Mobile Navigation"
+msgstr "เคลื่อนที่นำร่อง"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2344
+msgid "Secondary Colors"
+msgstr "ช่องทางที่สอสี"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2433
+msgid "Links"
+msgstr "ที่อยู่เชื่อมโยง"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2473
+#: admin/ReduxFramework/theme-options/re7-config.php:5174
+msgid "Footer"
+msgstr "ท้ายกระดาษ"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2543
+msgid "User Profile Fields"
+msgstr "ใช้ช่องข้อมูลโพรไฟล์"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2679
+msgid "Agent Single"
+msgstr "เจ้าหน้าที่เดียว"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2742
+msgid "Google Maps"
+msgstr "ของกูเกิ้ลแผนที่"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2799
+msgid "Global Options"
+msgstr "ตัวเลือกส่วนรวม"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2800
+msgid ""
+"These options apply globally to the homepage, expanded area of header search "
+"and search widget."
+msgstr ""
+"พวกตัวเลือกปรับใช้กับทั้งระบบที่หน้าเว็บหลัก,"
+"ขยายพื้นที่ของส่วนหัวค้นหาและการค้นหาวิดเจ็ต."
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2872
+msgid "Header Search"
+msgstr "ส่วนหัวค้นหา"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2957
+msgid "Homepage Search"
+msgstr "หน้าเว็บหลักการค้นหา"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:3259
+msgid "Listings Search"
+msgstr "Listings การค้นหา"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:3369
+msgid "Listing Single"
+msgstr "เรียกรายการเดียว"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:3637
+msgid "Listing Stats"
+msgstr "เรียกรายการสถิติ"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:3678
+msgid "Walk Score"
+msgstr "เดินแต้ม"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:3722
+msgid ""
+"Set this up if you'd like to display \"What's Nearby?\" information on your "
+"listings such as restaurants, grocery stores, schools, coffee shops, "
+"etc&hellip;."
+msgstr ""
+"ตั้งค่านี้หากคุณ\\'d ชอบที่จะแสดง\"What\\'s อยู่ใกล้ๆบ้างมั้ย?\"ข้อมูลของคุณ "
+"listings อย่างเช่นร้านอาหารร้านโรงเรียนร้านกาแฟ,etc"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:3829
+msgid "Front End Login & Registration"
+msgstr "ด้านหน้าล็อกอิน "
+
+#: admin/ReduxFramework/theme-options/re7-config.php:3925
+msgid "Front End Submission"
+msgstr "ด้านหน้า Submission"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:4138
+msgid "Submit Listing Form"
+msgstr "ส่งการเรียกรายการรูปแบบ"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:4149
+#: admin/ReduxFramework/theme-options/re7-config.php:4238
+#: admin/ReduxFramework/theme-options/re7-config.php:4446
+#: admin/ReduxFramework/theme-options/re7-config.php:4535
+msgid "Select which fields you'd like to be required."
+msgstr "เลือกซึ่งช่องข้อมูลคุณ\\'d ชอบที่จะต้องการ."
+
+#: admin/ReduxFramework/theme-options/re7-config.php:4357
+msgid ""
+"Select which fields you'd like to be required, these are only shown if "
+"enabled via Listings > Listing Single > Enable Vacation Rentals/Booking "
+"Fields."
+msgstr ""
+"เลือกซึ่งช่องข้อมูลคุณ\\'d "
+"ชอบที่จะต้องการพวกนี้เป็นแค่การแสดหากเปิดใช้งานผ่านทาง Listings>"
+"การเรียกรายการเดียว>เปิดพักร้อนเพื่อเช่า/จอฟิลด์"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:4553
+msgid "PayPal Settings"
+msgstr "PayPal การตั้งค่า"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:4626
+msgid "Stripe Settings"
+msgstr "Stripe การตั้งค่า"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:4664
+msgid "Wire Transfer"
+msgstr "สายการถ่ายโอน"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:4733
+msgid "Email Content"
+msgstr "อีเมลล์เนื้อหา"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:4869
+msgid "Blog Archive"
+msgstr "บล็อกของแฟ้มจัดเก็บ"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:4911
+msgid "Single Post"
+msgstr "เดี่ยวโพสต์"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:5079
+msgid "Map Addresses"
+msgstr "แผนที่ที่อยู่"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:5080
+msgid ""
+"Enter the address of your locations to be used in the Google Map, needs to "
+"be entered in this format for each entry: 849 West Harbor Dr. San Diego, CA "
+"92101"
+msgstr ""
+"ป้อนที่อยู่ของตำแหน่งของคุณที่จะใช้ในกูเกิ้ลแผนที่ต้องการที่ป้อนมาอยู่ในรูปแบบสำหรับแต่ละรายการ"
+":849 ทางตะวันออกท่าเรือคอร์ดร.ซานดิเอโก้,องค์ก 92101"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:5144
+msgid "Custom CSS"
+msgstr "กำหนดเองของ CSS"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:5159
+msgid "Custom JS"
+msgstr "กำหนดเอง JS"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:5240
+msgid "Import/Export"
+msgstr "นำเข้า/ส่งออก"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:5277
+msgid "Changelog"
+msgstr "บันทึกความเปลี่ยนแปลง"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:5393
+msgid "Section via hook"
+msgstr "ส่วนผ่านทางตะขอ"
+
+#. Name of the theme
+msgid "WP Pro Real Estate 7"
+msgstr "WP มืออาชีพขายอสังหาริมทรัพย์ที่ 7"
+
+#. Author of the theme
+msgid "Chris Robinson"
+msgstr "คริสโรบินสัน"
+
+#: 404.php:15
+msgid "Page Not Found"
+msgstr "น้าไม่พบ"
+
+#: 404.php:16
+msgid "Woah there! Looks like you've gotten lost."
+msgstr "โว้นั่น! ดูเหมือนคุณจะ\\ชวนฝันได้สูญหายได้"
+
+#: 404.php:17
+msgid "Go back to the homepage"
+msgstr "กลับไปที่หน้าเว็บหลัก"
+
+#: archive-brokerage.php:38
+#: admin/ReduxFramework/theme-options/re7-config.php:2711
+msgid "Brokerages"
+msgstr "Brokerages"
+
+#: archive-brokerage.php:52 template-brokerages.php:52
+msgid "Type a brokerage name or address here to filter the list."
+msgstr "พิมพ์ brokerage อนชื่อหรือที่อยู่ที่นี่เพื่อตัวกรองรายการ"
+
+#: archive-brokerage.php:108 author.php:71 single-brokerage.php:78
+#: single-brokerage.php:280 template-agents.php:251 template-brokerages.php:122
+#: template-favorite-listings.php:111
+msgid "Tell me more about a property"
+msgstr "บอกฉันอีกเกี่ยวกับทรัพย์สิน"
+
+#: archive-brokerage.php:109 author.php:72 single-brokerage.php:79
+#: single-brokerage.php:281 template-agents.php:252 template-brokerages.php:123
+#: template-favorite-listings.php:112 includes/agent-contact-modal.php:22
+#: includes/single-listing-contact.php:217 includes/single-listing-home.php:270
+#: includes/single-listing-lead-media-with-contact.php:141
+#: includes/widgets/ct-widget-listingscontact.php:31
+msgid "Request a showing"
+msgstr "การร้องขออนการแสดง"
+
+#: archive-brokerage.php:110 author.php:73 single-brokerage.php:80
+#: single-brokerage.php:282 template-agents.php:253 template-brokerages.php:124
+#: template-favorite-listings.php:113
+msgid "General Questions"
+msgstr "ท่านนายพลมคำถาม"
+
+#: archive-brokerage.php:113 author.php:76 single-brokerage.php:83
+#: single-brokerage.php:285 template-agents.php:256 template-brokerages.php:127
+#: template-edit-profile.php:129 template-favorite-listings.php:116
+#: includes/agent-contact-modal.php:25 includes/agent-contact-modal.php:25
+#: includes/agent-contact-modal.php:25 includes/single-listing-contact.php:223
+#: includes/single-listing-home.php:273
+#: includes/single-listing-lead-media-with-contact.php:147
+#: includes/single-listing-multi-floorplan.php:27
+#: includes/widgets/ct-widget-listingscontact.php:34
+#: includes/widgets/ct-widget-listingscontact.php:34
+#: includes/widgets/ct-widget-listingscontact.php:34
+msgid "Name"
+msgstr "ชื่อ"
+
+#: archive-brokerage.php:115 archive-brokerage.php:177 author.php:78
+#: author.php:124 author.php:283 single-brokerage.php:85
+#: single-brokerage.php:135 single-brokerage.php:287 single-brokerage.php:350
+#: template-agents.php:258 template-brokerages.php:129
+#: template-brokerages.php:189 template-favorite-listings.php:118
+#: admin/theme-functions.php:3773 includes/agent-contact-modal.php:27
+#: includes/agent-contact-modal.php:27 includes/agent-contact-modal.php:27
+#: includes/single-listing-contact.php:89
+#: includes/single-listing-contact.php:171
+#: includes/single-listing-contact.php:227
+#: includes/single-listing-contact.php:297 includes/single-listing-home.php:253
+#: includes/single-listing-home.php:275 includes/single-listing-home.php:336
+#: includes/single-listing-lead-media-with-contact.php:151
+#: includes/widgets/ct-widget-agentinfo.php:78
+#: includes/widgets/ct-widget-listingscontact.php:36
+#: includes/widgets/ct-widget-listingscontact.php:36
+#: includes/widgets/ct-widget-listingscontact.php:36
+msgid "Email"
+msgstr "อีเมล"
+
+#: archive-brokerage.php:117 author.php:80 single-brokerage.php:87
+#: single-brokerage.php:289 template-agents.php:260 template-brokerages.php:131
+#: template-contact.php:72 template-favorite-listings.php:120
+#: includes/agent-contact-modal.php:29 includes/agent-contact-modal.php:29
+#: includes/agent-contact-modal.php:29 includes/single-listing-contact.php:231
+#: includes/single-listing-home.php:277
+#: includes/single-listing-lead-media-with-contact.php:155
+#: includes/widgets/ct-widget-listingscontact.php:38
+#: includes/widgets/ct-widget-listingscontact.php:38
+#: includes/widgets/ct-widget-listingscontact.php:38
+msgid "Phone"
+msgstr "โทรศัพท์"
+
+#: archive-brokerage.php:125 author.php:88 single-brokerage.php:95
+#: single-brokerage.php:297 template-agents.php:268 template-brokerages.php:137
+#: template-contact.php:83 template-contact.php:83
+#: template-favorite-listings.php:127 template-submit-listing.php:804
+#: includes/agent-contact-modal.php:38 includes/single-listing-contact.php:242
+#: includes/single-listing-home.php:285
+#: includes/widgets/ct-widget-listingscontact.php:47
+msgid "Submit"
+msgstr "ส่ง"
+
+#: archive-brokerage.php:208 template-brokerages.php:220
+#: template-view-listings.php:211 includes/featured-listings.php:118
+#: includes/single-listing-ct-idx-pro-info.php:285
+#: includes/single-listing-multi-floorplan.php:122 layouts/grid.php:76
+msgid "View"
+msgstr "มุมมอง"
+
+#: archive-brokerage.php:218 template-brokerages.php:230
+msgid "No Brokerages Found."
+msgstr "ไม่ Brokerages พบ"
+
+#: archive.php:77
+msgid "No posts were found which match your search criteria"
+msgstr "ไม่มีกัปตัน..เสาทางนี้ถูกพบที่เข้าคู่กับเงื่อนไขค้นหาของคุณ"
+
+#: archive.php:77 layouts/grid.php:26 layouts/list.php:27
+msgid "Try broadening your search to find more results."
+msgstr "พยายาม broadening ของคุณค้นหามากกว่าผลลัพธ์เดียวกันนั่นแหละ"
+
+#: author.php:33 admin/profile-fields.php:81 admin/theme-functions.php:1952
+#: admin/theme-functions.php:3799 includes/single-listing-contact.php:52
+#: includes/single-listing-lead-media-with-contact.php:110 layouts/list.php:149
+msgid "Agent"
+msgstr "เจ้าหน้าที่"
+
+#: author.php:145 template-edit-listing.php:826 template-submit-listing.php:710
+#: admin/profile-fields.php:211
+msgid "Address"
+msgstr "ที่อยู่"
+
+#: author.php:153
+msgid "Social"
+msgstr "สังคม"
+
+#: author.php:194 author.php:341
+msgid "Type a listing address or keyword to filter the list."
+msgstr "พิมพ์เป็นการเรียกรายการที่อยู่หรือคำค้นเพื่อตัวกรองรายการ"
+
+#: comments.php:13
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+"นี่โพสต์คือรหัสผ่านได้รับการคุ้มครอง "
+"ป้อนรหัสผ่านเพื่อใช้ในการแสดงความคิดเห็น."
+
+#: comments.php:31
+msgid "No Responses"
+msgstr "ไม่ฟื้นคืนชีพ"
+
+#: comments.php:31
+msgid "1 Comment"
+msgstr "1 ความคิดเห็น"
+
+#: comments.php:31
+msgid "% Comments"
+msgstr "%ความคิดเห็น"
+
+#: comments.php:45
+msgid "Newer Comments &rarr;"
+msgstr "ใหม่กว่าที่ความคิดเห็น "
+
+#: comments.php:53
+msgid "Comments are closed, but"
+msgstr "ความคิดเห็นปิด,แต่"
+
+#: comments.php:53
+msgid "Trackback URL for this post"
+msgstr "Trackback ที่อยู่ URL สำหรับโพสนี้"
+
+#: comments.php:53
+msgid "trackbacks"
+msgstr "trackbacks"
+
+#: comments.php:53
+msgid "and pingbacks are open."
+msgstr "และ pingbacks เป็นเปิดอยู่"
+
+#: comments.php:59
+msgid "Reviews are closed."
+msgstr "การตรวจทานปิดหมดแล้ว"
+
+#: comments.php:61
+msgid "Comments are closed."
+msgstr "ความคิดเห็นปิดหมดแล้ว"
+
+#: footer.php:91
+msgid "All Rights Reserved."
+msgstr "ทั้งลิขสิทธิ์ซักคนในนี้มั้ย"
+
+#: functions.php:55
+msgid "Getting Started"
+msgstr "เริ่ม"
+
+#: header.php:185 header.php:491
+msgid "Hi, "
+msgstr "สวัสดี "
+
+#: header.php:204 header.php:510 includes/user-sidebar.php:37
+msgid "Dashboard"
+msgstr "แดชบอร์ด"
+
+#: header.php:208 header.php:514 includes/user-sidebar.php:41
+msgid "Favorite Listings"
+msgstr "โปรดของ Listings"
+
+#: header.php:211 header.php:517
+msgid "Saved Searches"
+msgstr "ช่วยค้นหา"
+
+#: header.php:216 header.php:522 header.php:552 includes/user-sidebar.php:49
+msgid "Submit Listing"
+msgstr "ส่งออกไปละ"
+
+#: header.php:219 header.php:525 template-user-dashboard.php:103
+#: includes/user-sidebar.php:52
+msgid "My Listings"
+msgstr "ฉัน Listings"
+
+#. Name of the template
+#: header.php:222 header.php:528 template-user-dashboard.php:83
+#: includes/user-sidebar.php:55
+msgid "Membership"
+msgstr "สมาชิก"
+
+#. Name of the template
+#: header.php:225 header.php:531 includes/user-sidebar.php:58
+msgid "Invoices"
+msgstr "Invoices"
+
+#. Name of the template
+#: header.php:228 header.php:534 includes/user-sidebar.php:61
+#: admin/ReduxFramework/theme-options/re7-config.php:3659
+msgid "Listing Analytics"
+msgstr "เรียกรายการ Analytics"
+
+#: header.php:233 header.php:539 includes/user-sidebar.php:65
+msgid "Account Settings"
+msgstr "การตั้งค่าบัญชีผู้ใช้"
+
+#: header.php:236 header.php:542 includes/user-sidebar.php:68
+msgid "Logout"
+msgstr "ออกจากระบบ comment"
+
+#: header.php:240 header.php:550
+msgid "Login / Register"
+msgstr "ล็อกอิน/ลงทะเบียน"
+
+#: header.php:240 header.php:550 admin/theme-functions.php:3698
+msgid "Login"
+msgstr "ล็อกอิน"
+
+#: header.php:781
+msgid "Add \"CT Compare\" Widget via Appearance > Widgets > Compare."
+msgstr "เพิ่ม\"CT เปรียบเทียบ\"วิดเจ็ตผ่านทางรูปลักษณ์>วิดเจ็ต>เปรียบเทียบ."
+
+#: page.php:59 single.php:127 template-dsidxpress.php:41
+#: template-edit-listing.php:935 template-submit-listing.php:815
+msgid "Pages:"
+msgstr "หน้า:"
+
+#: search-listings.php:153 search-listings.php:250
+msgid "listings found"
+msgstr "listings เจอ"
+
+#: search-listings.php:153 search-listings.php:250
+msgid "listing found"
+msgstr "เรียกรายการเจอ"
+
+#: search-listings.php:157 search-listings.php:254
+msgid "Find A Home"
+msgstr "หากลับบ้าน"
+
+#: search-listings.php:169 search-listings.php:265 search-listings.php:292
+msgid "Searching:"
+msgstr "ค้นหา:"
+
+#: search-listings.php:173 search-listings.php:269 search-listings.php:296
+msgid "All listings"
+msgstr "ทุ listings"
+
+#: search-listings.php:175 admin/theme-functions.php:1172
+msgid "Open Search"
+msgstr "เปิดการค้นหา"
+
+#: search-listings.php:272 search-listings.php:298
+#: admin/theme-functions.php:1169
+msgid "Close Map"
+msgstr "ปิดแผนที่"
+
+#: search-listings.php:332 search-listings.php:336
+msgid "Save This Search?"
+msgstr "บันทึกนี้การค้นหา?"
+
+#: search-listings.php:334
+msgid "View Saved"
+msgstr "มุมมองช่วย"
+
+#: single-brokerage.php:39 admin/profile-fields.php:180
+msgid "Brokerage"
+msgstr "Brokerage"
+
+#: single-brokerage.php:162 single-listings.php:38
+#: admin/ReduxFramework/theme-options/re7-config.php:2988
+msgid "Listings"
+msgstr "Listings"
+
+#: single-brokerage.php:163
+#: admin/ReduxFramework/theme-options/re7-config.php:2601
+msgid "Agents"
+msgstr "เจ้าหน้าที่"
+
+#: single-brokerage.php:164
+msgid "Map"
+msgstr "แผนที่"
+
+#: single-brokerage.php:166 includes/single-listing-sub-navigation.php:149
+msgid "Reviews"
+msgstr "การตรวจทาน"
+
+#: single-brokerage.php:224
+msgid "Type an agents name or title here to filter the list."
+msgstr "ประเภทเป็นเจ้าหน้าที่ชื่อหรือหัวเรื่องมาที่นี่เพื่อตัวกรองรายการ"
+
+#: single-brokerage.php:368
+msgid "View Listings"
+msgstr "มุมมอง Listings"
+
+#: single-brokerage.php:379
+msgid "This brokerage currently has no active agents."
+msgstr "นี่ brokerage ปัจจุบันไม่มีงานหรอกนะ"
+
+#: single-brokerage.php:379 layouts/grid.php:22 layouts/grid.php:24
+#: layouts/list.php:23 layouts/list.php:25
+msgid "Check back soon."
+msgstr "ตรวจสอบเร็วๆนี้"
+
+#: single-brokerage.php:401 includes/single-listing-reviews.php:19
+msgid "No Reviews"
+msgstr "ไม่มีการตรวจทาน"
+
+#: single-brokerage.php:401 includes/single-listing-reviews.php:19
+msgid "1 Review"
+msgstr "1 ทวิจารณ์"
+
+#: single-brokerage.php:401 includes/single-listing-reviews.php:19
+msgid "% Reviews"
+msgstr "%การตรวจทาน"
+
+#: single-listings.php:44 admin/theme-functions.php:6596
+#: admin/theme-functions.php:7601
+msgid "Home"
+msgstr "กลับบ้าน"
+
+#: single-listings.php:71 single-listings.php:77 single-listings.php:83
+#: single-listings.php:104 single-listings.php:105 single-listings.php:106
+#: includes/single-listing-home.php:367 includes/single-listing-home.php:368
+#: includes/single-listing-home.php:369
+#: includes/widgets/ct-widget-listingssocial.php:29
+#: includes/widgets/ct-widget-listingssocial.php:30
+#: includes/widgets/ct-widget-listingssocial.php:31
+msgid "Check out this great listing on"
+msgstr "ตรวจสอนี่เยี่ยมฟังอยู่"
+
+#: single-listings.php:108 admin/theme-functions.php:1173
+#: includes/agent-contact-modal.php:16
+msgid "Close"
+msgstr "ปิด"
+
+#: single-listings.php:212 template-edit-listing.php:394
+#: template-edit-profile.php:57 template-listing-analytics.php:62
+#: template-listing-email-alerts.php:69 template-membership.php:60
+#: template-submit-listing.php:354 template-user-dashboard.php:59
+#: template-view-invoices.php:60 template-view-listings.php:62
+msgid "You must be logged in to view this page."
+msgstr "คุณต้องเข้าไปในมุมมองหน้าเว็บนี้"
+
+#: single.php:79 includes/post-author-info.php:15 layouts/blog-grid.php:54
+#: layouts/blog-large.php:54
+msgid "By"
+msgstr "โดย"
+
+#: single.php:79 layouts/blog-grid.php:54 layouts/blog-large.php:54
+msgid "in"
+msgstr "ใน"
+
+#: single.php:79 layouts/blog-grid.php:54 layouts/blog-large.php:54
+msgid "with"
+msgstr "กับ"
+
+#. Name of the template
+#: admin/ReduxFramework/theme-options/re7-config.php:2789
+msgid "Advanced Search"
+msgstr "การค้นหาอย่างละเอียด"
+
+#: template-advanced-search.php:62 template-edit-listing.php:419
+#: template-submit-listing.php:417 admin/theme-functions.php:4925
+#: includes/advanced-search.php:35 includes/header-advanced-search.php:60
+#: includes/header-advanced-search.php:390
+#: admin/plugins/class-tgm-plugin-activation.php:2634
+#: includes/widgets/ct-widget-listingssearch.php:46
+msgid "Type"
+msgstr "ประเภท"
+
+#: template-advanced-search.php:67 admin/profile-fields.php:217
+#: admin/theme-functions.php:5649 includes/advanced-search.php:44
+#: includes/header-advanced-search.php:69
+#: includes/header-advanced-search.php:400
+#: includes/widgets/ct-widget-listingssearch.php:55
+msgid "City"
+msgstr "เมืองนี้"
+
+#: template-advanced-search.php:77 admin/theme-functions.php:5571
+#: admin/theme-functions.php:5590 admin/theme-functions.php:5672
+#: includes/advanced-search.php:58
+#: includes/widgets/ct-widget-listingssearch.php:69
+msgid "Area"
+msgstr "พื้นที่"
+
+#: template-advanced-search.php:79 admin/theme-functions.php:5670
+#: admin/theme-functions.php:5710 includes/advanced-search.php:60
+#: includes/widgets/ct-widget-listingssearch.php:71
+msgid "Suburb"
+msgstr "Suburb"
+
+#: template-advanced-search.php:81 admin/theme-functions.php:5674
+#: includes/advanced-search.php:62
+#: includes/widgets/ct-widget-listingssearch.php:73
+msgid "State"
+msgstr "รัฐ"
+
+#: template-advanced-search.php:92 admin/theme-functions.php:5691
+#: includes/advanced-search.php:77
+#: includes/widgets/ct-widget-listingssearch.php:88
+msgid "Postcode"
+msgstr "Postcode"
+
+#: template-advanced-search.php:94 admin/theme-functions.php:5693
+#: includes/advanced-search.php:79
+#: includes/widgets/ct-widget-listingssearch.php:90
+msgid "Zipcode"
+msgstr "Zipcode"
+
+#: template-advanced-search.php:100 template-edit-listing.php:852
+#: template-submit-listing.php:736 includes/advanced-search.php:89
+#: includes/header-advanced-search.php:99
+#: includes/header-advanced-search.php:428
+#: includes/widgets/ct-widget-listingssearch.php:100
+msgid "Country"
+msgstr "ประเทศ"
+
+#: template-advanced-search.php:105 admin/theme-functions.php:4704
+#: admin/theme-functions.php:5609 admin/theme-functions.php:5921
+#: includes/advanced-search.php:116 includes/header-advanced-search.php:127
+#: includes/header-advanced-search.php:438
+#: includes/single-listing-multi-floorplan.php:33 layouts/list.php:88
+#: includes/widgets/ct-widget-listingssearch.php:127
+msgid "Beds"
+msgstr "เตียง"
+
+#: template-advanced-search.php:110 admin/theme-functions.php:4724
+#: admin/theme-functions.php:5628 admin/theme-functions.php:5927
+#: includes/advanced-search.php:125 includes/header-advanced-search.php:136
+#: includes/header-advanced-search.php:448
+#: includes/single-listing-multi-floorplan.php:36 includes/sub-listings.php:103
+#: layouts/list.php:108 includes/widgets/ct-widget-agentsotherlistings.php:140
+#: includes/widgets/ct-widget-listingssearch.php:136
+msgid "Baths"
+msgstr "Baths"
+
+#: template-advanced-search.php:115 template-edit-listing.php:434
+#: template-submit-listing.php:422 template-view-invoices.php:95
+#: includes/advanced-search.php:134 includes/header-advanced-search.php:145
+#: includes/header-advanced-search.php:458
+#: includes/single-listing-ct-idx-pro-info.php:66
+#: admin/plugins/class-tgm-plugin-activation.php:2639
+#: includes/widgets/ct-widget-listingssearch.php:145
+msgid "Status"
+msgstr "สถานะ"
+
+#: template-advanced-search.php:125 admin/theme-functions.php:5708
+#: includes/advanced-search.php:157 includes/header-advanced-search.php:159
+#: includes/header-advanced-search.php:482
+#: includes/single-listing-ct-idx-pro-info.php:88
+#: includes/widgets/ct-widget-listingssearch.php:168
+msgid "Neighborhood"
+msgstr "เพื่อนบ้าน"
+
+#: template-advanced-search.php:127 admin/theme-functions.php:5712
+#: includes/advanced-search.php:159 includes/header-advanced-search.php:161
+#: includes/header-advanced-search.php:484
+#: includes/widgets/ct-widget-listingssearch.php:170
+msgid "District"
+msgstr "เขต"
+
+#: template-advanced-search.php:129 admin/theme-functions.php:5722
+#: includes/advanced-search.php:107 includes/advanced-search.php:161
+#: includes/header-advanced-search.php:118
+#: includes/header-advanced-search.php:163
+#: includes/header-advanced-search.php:486
+#: includes/widgets/ct-widget-listingssearch.php:118
+#: includes/widgets/ct-widget-listingssearch.php:172
+msgid "Community"
+msgstr "ชุมชน"
+
+#: template-advanced-search.php:135 template-advanced-search.php:136
+#: includes/advanced-search.php:171 includes/advanced-search.php:172
+#: includes/header-advanced-search.php:173
+#: includes/header-advanced-search.php:174
+#: includes/header-advanced-search.php:496
+#: includes/header-advanced-search.php:497
+#: includes/widgets/ct-widget-listingssearch.php:182
+#: includes/widgets/ct-widget-listingssearch.php:183
+msgid "Price From"
+msgstr "ราคาจาก"
+
+#: template-advanced-search.php:140 template-advanced-search.php:141
+#: includes/advanced-search.php:180 includes/advanced-search.php:181
+#: includes/header-advanced-search.php:182
+#: includes/header-advanced-search.php:183
+#: includes/header-advanced-search.php:505
+#: includes/header-advanced-search.php:506
+#: includes/widgets/ct-widget-listingssearch.php:191
+#: includes/widgets/ct-widget-listingssearch.php:192
+msgid "Price To"
+msgstr "ตอบแทนที่ต้อง"
+
+#: template-advanced-search.php:145 template-advanced-search.php:146
+#: includes/advanced-search.php:190 includes/header-advanced-search.php:210
+#: includes/header-advanced-search.php:533
+#: includes/widgets/ct-widget-listingssearch.php:201
+msgid "Size From"
+msgstr "ขนาดจาก"
+
+#: template-advanced-search.php:150 template-advanced-search.php:151
+#: includes/advanced-search.php:199 includes/header-advanced-search.php:219
+#: includes/header-advanced-search.php:542
+#: includes/widgets/ct-widget-listingssearch.php:210
+msgid "Size To"
+msgstr "ขนาดต้อง"
+
+#: template-advanced-search.php:155 template-advanced-search.php:156
+#: includes/advanced-search.php:207 includes/advanced-search.php:208
+#: includes/header-advanced-search.php:245
+#: includes/header-advanced-search.php:246
+#: includes/header-advanced-search.php:568
+#: includes/header-advanced-search.php:569
+#: includes/widgets/ct-widget-listingssearch.php:218
+#: includes/widgets/ct-widget-listingssearch.php:219
+msgid "Lot Size From"
+msgstr "มากมายขนาดจาก"
+
+#: template-advanced-search.php:160 template-advanced-search.php:161
+#: includes/advanced-search.php:216 includes/advanced-search.php:217
+#: includes/header-advanced-search.php:254
+#: includes/header-advanced-search.php:255
+#: includes/header-advanced-search.php:577
+#: includes/header-advanced-search.php:578
+#: includes/widgets/ct-widget-listingssearch.php:227
+#: includes/widgets/ct-widget-listingssearch.php:228
+msgid "Lot Size To"
+msgstr "มากมายขนาดต้อง"
+
+#: template-advanced-search.php:165 template-advanced-search.php:166
+#: template-edit-listing.php:708 template-submit-listing.php:591
+#: includes/advanced-search.php:229 includes/advanced-search.php:230
+#: includes/header-advanced-search.php:286
+#: includes/header-advanced-search.php:287
+#: includes/header-advanced-search.php:608
+#: includes/header-advanced-search.php:609
+#: includes/widgets/ct-widget-listingssearch.php:240
+#: includes/widgets/ct-widget-listingssearch.php:241
+msgid "Property ID"
+msgstr "ทรัพย์สินหมายเลข"
+
+#: template-advanced-search.php:175 template-advanced-search.php:176
+#: includes/advanced-search.php:239 includes/advanced-search.php:240
+#: includes/header-advanced-search.php:296
+#: includes/header-advanced-search.php:297
+#: includes/header-advanced-search.php:618
+#: includes/header-advanced-search.php:619
+#: includes/widgets/ct-widget-listingssearch.php:250
+#: includes/widgets/ct-widget-listingssearch.php:251
+msgid "Number of Guests"
+msgstr "จำนวนของแขก"
+
+#: template-advanced-search.php:181 includes/advanced-search.php:143
+#: includes/widgets/ct-widget-listingssearch.php:154
+msgid "Additional Features"
+msgstr "คุณสมบัติต่างๆเพิ่มเติม"
+
+#: template-advanced-search.php:187 includes/advanced-search.php:262
+#: includes/header-advanced-search.php:334
+#: includes/header-advanced-search.php:368
+#: includes/home-hero-advanced-search.php:38
+#: includes/widgets/ct-widget-listingssearch.php:271
+msgid "Search"
+msgstr "การค้นหา"
+
+#: template-agents.php:122 template-agents.php:147
+msgid ""
+"Type an agents name, title, business, phone or lic # here to filter the list."
+msgstr ""
+
+#: template-agents.php:369
+msgid "View Profile"
+msgstr "โพรไฟล์มุมมอง"
+
+#: template-agents.php:403
+msgid "No Agents Found."
+msgstr "ไม่มีเจ้าหน้าที่พบ"
+
+#. Name of the template
+msgid "Big Map"
+msgstr "แผนที่ใหญ่"
+
+#. Name of the template
+#: admin/theme-functions.php:4479
+msgid "Compare"
+msgstr "เปรียบเทียบ"
+
+#. Name of the template
+msgid "Contact No Form"
+msgstr "ติดต่อไม่มีรูปแบบ"
+
+#: includes/single-listing-sub-navigation.php:169
+#: admin/ReduxFramework/theme-options/re7-config.php:5019
+msgid "Contact"
+msgstr "ติดต่อ"
+
+#: template-contact.php:64
+msgid "Name*"
+msgstr "ชื่อของ*"
+
+#: template-contact.php:68
+msgid "Email*"
+msgstr "อีเมล*"
+
+#: template-contact.php:75
+msgid "Subject*"
+msgstr "เรื่อง*"
+
+#: template-contact.php:77
+msgid "Message"
+msgstr "ข้อความ"
+
+#. Name of the template
+msgid "Demo Home Listings Slider"
+msgstr "สาธิตการกลับบ้าน Listings ดบอกระดับบนแถบเลื่อน"
+
+#. Name of the template
+msgid "Demo Home Map"
+msgstr "สาธิตการกลับบ้านแผนที่"
+
+#. Name of the template
+msgid "Demo Home Video"
+msgstr "สาธิตวิดีโอกลับบ้าน"
+
+#. Name of the template
+msgid "dsIDXpress"
+msgstr "dsIDXpress"
+
+#. Name of the template
+msgid "Edit Listing"
+msgstr "แก้ไขการเรียกรายการ"
+
+#: template-edit-listing.php:407 template-submit-listing.php:405
+msgid "Street Address"
+msgstr "ถนนที่อยู่"
+
+#: template-edit-listing.php:412 template-submit-listing.php:410
+msgid "Alternate Title"
+msgstr "ตัวเลือกหัวเรื่อง"
+
+#: template-edit-listing.php:413 template-submit-listing.php:411
+msgid "(e.g. Downtown Penthouse)"
+msgstr "(e.g. เมืองเพนท์เฮาส์)"
+
+#: template-edit-listing.php:425 template-edit-listing.php:440
+#: admin/theme-functions.php:6083 admin/theme-functions.php:6111
+msgid "Any"
+msgstr "อะไร"
+
+#: template-edit-listing.php:449 template-submit-listing.php:427
+#: template-view-listings.php:179 admin/theme-functions.php:5417
+#: includes/home-listings-count.php:188
+msgid "Featured"
+msgstr "ตั"
+
+#: template-edit-listing.php:463 template-submit-listing.php:437
+#: includes/single-listing-multi-floorplan.php:43
+msgid "Price"
+msgstr "ราคา"
+
+#: template-edit-listing.php:468 template-submit-listing.php:442
+msgid "Price Prefix"
+msgstr "ราคาส่วนนำหน้า"
+
+#: template-edit-listing.php:469 template-submit-listing.php:443
+msgid " (e.g. From, Call for price)"
+msgstr " (e.g. จากโทรเรียกค่า)"
+
+#: template-edit-listing.php:473 template-submit-listing.php:447
+msgid "Price Postfix Text"
+msgstr "ราคาต่อท้ายด้วยข้อความ"
+
+#: template-edit-listing.php:474 template-submit-listing.php:448
+msgid " (e.g. /month, /week)"
+msgstr " (e.g./อเดือนก่อน/อาทิตย์)"
+
+#: template-edit-listing.php:479 template-submit-listing.php:453
+msgid "Listing Description"
+msgstr "เรียกรายการรายละเอียด"
+
+#: template-edit-listing.php:496 template-submit-listing.php:467
+msgid "Listing Featured Image"
+msgstr "เรียกรายการได้โดดเด่นในภาพ"
+
+#: template-edit-listing.php:505 template-submit-listing.php:479
+#: admin/ReduxFramework/theme-options/re7-config.php:3239
+msgid "Listing Images"
+msgstr "เรียกรายการรูปภาพ"
+
+#: template-edit-listing.php:582 template-submit-listing.php:489
+msgid "Drag & Drop Images Here"
+msgstr "ลาก "
+
+#: template-edit-listing.php:585 template-submit-listing.php:492
+msgid "or"
+msgstr "หรือ"
+
+#: template-edit-listing.php:588 template-submit-listing.php:495
+msgid "Select Images"
+msgstr "เลือกภาพต่างๆ"
+
+#: template-edit-listing.php:592
+msgid ""
+"*At least one image is required for valid submission, minimum width of 817px."
+msgstr ""
+"*อย่างน้อยหนึ่งภาพเป็นต้องการสำหรับที่ใช้งานได้ submission,"
+"น้อยที่สุดความกว้างของ 817px."
+
+#: template-edit-listing.php:593 template-submit-listing.php:500
+msgid ""
+"*You can mark an image as featured by clicking the star icon, Otherwise "
+"first image will be considered featured image."
+msgstr ""
+"*คุณสามารถมาร์คเป็นภาพเป็นภาพได้โดดเด่นในได้โดยการคลิกที่ภาพไอคอนดาวดวงนั้นไม่อย่างนั้นคนแรกของภาพจะถูกพิจารณาได้โดดเด่นในภาพได้ที่นี่"
+
+#: template-edit-listing.php:605 template-submit-listing.php:510
+msgid "Files & Documents"
+msgstr "แฟ้ม "
+
+#: template-edit-listing.php:629 template-submit-listing.php:522
+msgid "*Supported file types are PDF, Word, Excel & PowerPoint."
+msgstr "*ระเภทของแฟ้มที่รองรับเป็นเอกสาร PDF,คำ Excel "
+
+#: template-edit-listing.php:693 template-submit-listing.php:576
+#: admin/theme-functions.php:4872 includes/header-advanced-search.php:264
+#: includes/sub-listings.php:195
+#: includes/widgets/ct-widget-agentsotherlistings.php:232
+msgid "Lot Size"
+msgstr "มากขนาด"
+
+#: template-edit-listing.php:698 template-submit-listing.php:581
+#: admin/theme-functions.php:4743
+msgid "Pets"
+msgstr "สัตว์เลี้ยง"
+
+#: template-edit-listing.php:703 template-submit-listing.php:586
+#: admin/theme-functions.php:4758
+msgid "Parking"
+msgstr "ลานจอดรถ"
+
+#: template-edit-listing.php:713 template-submit-listing.php:596
+msgid "Video URL"
+msgstr "วิดีโอที่อยู่ URL"
+
+#: template-edit-listing.php:720
+msgid "Vitrual Tour URL"
+msgstr "Vitrual ทัวร์ที่อยู่ URL"
+
+#: template-edit-listing.php:728 template-submit-listing.php:611
+#: admin/theme-functions.php:5190 includes/single-listing-open-house.php:26
+#: includes/single-listing-sub-navigation.php:51
+msgid "Open House"
+msgstr "เปิดบ้าน"
+
+#: template-edit-listing.php:731 template-submit-listing.php:614
+#: includes/single-listing-open-house.php:32
+msgid "Date"
+msgstr "เดท"
+
+#: template-edit-listing.php:736 template-submit-listing.php:619
+msgid "Start Time"
+msgstr "เวลาเริ่ม"
+
+#: template-edit-listing.php:741 template-submit-listing.php:624
+msgid "End Time"
+msgstr "เวลาสิ้นสุด"
+
+#: template-edit-listing.php:751 template-submit-listing.php:642
+msgid "Additional Features (comma separated)"
+msgstr "เพิ่มเติมคุณสมบัติต่างๆ(จุลภาคแยกกันอยู่)"
+
+#: template-edit-listing.php:766 template-submit-listing.php:657
+msgid "Max-number of Guests"
+msgstr "แม็กซ์-จำนวนของแขก"
+
+#: template-edit-listing.php:771 template-submit-listing.php:662
+msgid "Minimum Stay"
+msgstr "น้อยที่สุดอยู่"
+
+#: template-edit-listing.php:778 template-submit-listing.php:669
+msgid "Check In Time"
+msgstr "เช็คในเวลา"
+
+#: template-edit-listing.php:783 template-submit-listing.php:674
+msgid "Check Out Time"
+msgstr "ตรวจดูเวลา"
+
+#: template-edit-listing.php:790 template-submit-listing.php:681
+msgid "Extra Person Charge"
+msgstr "เพิ่มคนตั้งข้อหา"
+
+#: template-edit-listing.php:795 template-submit-listing.php:686
+#: admin/theme-functions.php:5019
+msgid "Cleaning Fee"
+msgstr "ค่าจ้างทำความสะอาด"
+
+#: template-edit-listing.php:802 template-submit-listing.php:693
+#: admin/theme-functions.php:5030
+msgid "Cancellation Fee"
+msgstr "คำขอยกเลิกจ่ายเงินค่าจ้าง"
+
+#: template-edit-listing.php:807 template-submit-listing.php:698
+#: admin/theme-functions.php:5041
+msgid "Security Deposit"
+msgstr "ล้องวงนิรภัย"
+
+#: template-edit-listing.php:827 template-submit-listing.php:711
+msgid "Type in an address"
+msgstr "พิมพ์ที่อยู่"
+
+#: template-edit-listing.php:847 template-submit-listing.php:731
+#: includes/advanced-search.php:98 includes/header-advanced-search.php:109
+#: includes/widgets/ct-widget-listingssearch.php:109
+msgid "County"
+msgstr "เขต"
+
+#: template-edit-listing.php:862 template-submit-listing.php:746
+msgid "Latitude & Longitude (optional)"
+msgstr "เส้นรุ้ง "
+
+#: template-edit-listing.php:871 template-submit-listing.php:755
+msgid ""
+"You can also manually drag the marker to the exact location of your listing "
+"if the automatic geolocation is off."
+msgstr ""
+"คุณยังสามารถด้วยตนเองลากตัวทำเครื่อหมายไปที่สถานที่ที่แน่นอนของคุณฟังถ้าอัตโนมัติตำแหน่งทางภูมิศาสตร์นหลุดออกมาแล้ว"
+".."
+
+#: template-edit-listing.php:877 template-submit-listing.php:767
+#: admin/theme-functions.php:4337
+#: admin/ReduxFramework/theme-options/re7-config.php:4534
+msgid "Private Notes"
+msgstr "ส่วนตัวบันทึกย่อ"
+
+#: template-edit-listing.php:878 template-submit-listing.php:768
+msgid ""
+"Write a private note about this listing, this textarea will not be displayed "
+"anywhere on the front end of the site."
+msgstr ""
+"เขียนโน๊ตส่วนตัวกับเรื่องนี้การเรียกรายการนี้ textarea "
+"จะไม่ถูกแสดงที่อยู่ที่ด้านหน้าของเว็บไซต์"
+
+#: template-edit-listing.php:897 template-submit-listing.php:787
+msgid "Cancel"
+msgstr "ยกเลิก"
+
+#: template-edit-listing.php:901 template-submit-listing.php:796
+#: admin/theme-functions.php:3379
+msgid "Next"
+msgstr "ต่อไป"
+
+#: template-edit-listing.php:902 template-submit-listing.php:805
+msgid "Previous"
+msgstr "ก่อนหน้านี้"
+
+#: template-edit-listing.php:919
+#: admin/plugins/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr "ปรับปรุง"
+
+#: template-edit-listing.php:929
+msgid "This isn't one of your assigned listings, editing is denied."
+msgstr "นี่มัน\\'t หนึ่งของคุณกำหนด listings,การแก้ไขปฏิเสธ"
+
+#. Name of the template
+msgid "Edit Profile"
+msgstr "แก้ไขโพรไฟล์"
+
+#: template-edit-profile.php:78
+msgid "The passwords you entered do not match. Your password was not updated."
+msgstr ""
+"การหัสผ่านของคุณป้อนมาไม่ตรงกัน รหัสผ่านของคุณไม่ได้ปรับปรุงเรียบร้อยแล้ว"
+
+#: template-edit-profile.php:86
+msgid "The Email you entered is not valid. Please try again."
+msgstr "คนส่งอีเมลคุณป้อนมาใช้ไม่ได้หรือไม่ถูกต้อง โปรดลองใหม่อีกครั้ง"
+
+#: template-edit-profile.php:88
+msgid "This email is already used by another user. Try a different one."
+msgstr "นี่อีเมลอยู่แล้วที่ถูกใช้โดยผู้ใช้อีกคนหนึ่ง. พยายามที่แตกต่างกัน"
+
+#: template-edit-profile.php:133 admin/theme-functions.php:3689
+#: admin/theme-functions.php:3768
+msgid "Username"
+msgstr "ชื่อผู้ใช้"
+
+#: template-edit-profile.php:134
+msgid "Usernames cannot be changed."
+msgstr "Usernames ไม่สามารถถูกเปลี่ยนแปลง"
+
+#: template-edit-profile.php:137 admin/theme-functions.php:3778
+msgid "First Name"
+msgstr "ชื่อแรก"
+
+#: template-edit-profile.php:141 admin/theme-functions.php:3783
+msgid "Last Name"
+msgstr "ชื่อสุดท้าย"
+
+#: template-edit-profile.php:145
+msgid "Nickname"
+msgstr "ชื่อเล่น"
+
+#: template-edit-profile.php:145
+msgid "(required)"
+msgstr "(ต้องป้อนค่า)"
+
+#: template-edit-profile.php:149
+msgid "Display to Public as"
+msgstr "แสดงเพื่อที่สาธารณะ"
+
+#: template-edit-profile.php:187
+msgid "Contact Info"
+msgstr "ติดต่อข้อมูล"
+
+#: template-edit-profile.php:191
+msgid "E-mail *"
+msgstr "อีเมลล์*"
+
+#: template-edit-profile.php:195 admin/theme-functions.php:3788
+msgid "Website"
+msgstr "เว็บไซต์"
+
+#: template-edit-profile.php:218
+msgid "About Yourself"
+msgstr "เรื่องตัวเอง"
+
+#: template-edit-profile.php:222
+msgid "Biographical Information"
+msgstr "Biographical ข้อมูล"
+
+#: template-edit-profile.php:222
+msgid ""
+"Share a little biographical information to fill out your profile. This may "
+"be shown publicly."
+msgstr ""
+"แบ่งกันเล็กน้อย biographical ข้อมูลจะต้องป้อนข้อมูลของคุณขึ้นบนโปรไฟล์ "
+"นี่อาจจะเป็นการแสดต่อสาธารณะ."
+
+#: template-edit-profile.php:226
+msgid "New Password"
+msgstr "รหัสผ่านใหม่"
+
+#: template-edit-profile.php:226
+msgid ""
+"If you would like to change the password type a new one. Otherwise leave "
+"this blank."
+msgstr "ถ้าคุณอยากจะเปลี่ยนรหัสผ่านประเภทใหม่ ไม่อย่างนั้นช่องว่าง"
+
+#: template-edit-profile.php:230
+msgid "Type your new password again."
+msgstr "ประเภทของคุณรหัสผ่านใหม่อีกครั้ง"
+
+#: template-edit-profile.php:232
+msgid "Strength indicator"
+msgstr "วามแข็งแกร่งแสดงตำแหน่งค่าแสงมืดจัด"
+
+#: template-edit-profile.php:244
+msgid "Update Profile"
+msgstr "ปรับปรุงโพรไฟล์"
+
+#: template-favorite-listings.php:100
+msgid "Request More Information on All Favorites"
+msgstr "การร้องขอข้อมูลมากกว่านี้ทั้งหมดของรายการโปรดของ"
+
+#: template-favorite-listings.php:178 template-view-listings.php:142
+msgid "Bed:"
+msgstr "บนเตียง:"
+
+#: template-favorite-listings.php:188 template-view-listings.php:152
+msgid "Baths:"
+msgstr "Baths:"
+
+#: template-favorite-listings.php:199 template-view-listings.php:163
+#: layouts/list.php:125 includes/widgets/ct-widget-flickr.php:63
+msgid "Type:"
+msgstr "ประเภท:"
+
+#: template-favorite-listings.php:224
+msgid "Previous Entries"
+msgstr "ก่อนหน้ารายการ"
+
+#: template-favorite-listings.php:225
+msgid "Next Entries"
+msgstr "รายการถัดไป"
+
+#. Name of the template
+msgid "Full Width 2"
+msgstr "เต็มความกว้าง 2"
+
+#. Name of the template
+msgid "Full Width"
+msgstr "เต็มความกว้าง"
+
+#. Name of the template
+msgid "IDX Full Width"
+msgstr "IDX เต็มความกว้าง"
+
+#. Name of the template
+msgid "IDX w/Sidebar"
+msgstr "IDX w/แถบด้านข้าง"
+
+#. Name of the template
+msgid "Landing Page"
+msgstr "ลงจองหน้า"
+
+#. Name of the template
+msgid "Left Sidebar"
+msgstr "แถบข้างด้านซ้าย"
+
+#. Name of the template
+#: includes/user-sidebar.php:44
+#: admin/ReduxFramework/theme-options/re7-config.php:4699
+msgid "Listing Email Alerts"
+msgstr "เรียกรายการอีเมลล์แจ้งเตือน"
+
+#: template-listing-email-alerts.php:84
+msgid "Manage your alerts"
+msgstr "จัดการของคุณคำเตือน"
+
+#: template-listing-email-alerts.php:85
+msgid "Here you can turn saved alerts on/off or remove them completely."
+msgstr "ที่นี่คุณสามารถเปลี่ยนช่วยแจ้งเตือน/ตัดหรือลบมันอย่างแน่นอน"
+
+#: template-listing-email-alerts.php:90
+msgid "Query"
+msgstr "Query"
+
+#: template-listing-email-alerts.php:93
+msgid "Date Created"
+msgstr "วันที่สร้างขึ้น"
+
+#: template-listing-email-alerts.php:96
+msgid "Email Setting"
+msgstr "การตั้งค่าอีเมล"
+
+#: template-listing-email-alerts.php:99 admin/theme-functions.php:3547
+msgid "Delete"
+msgstr "ลบ"
+
+#: template-listing-email-alerts.php:126
+msgid "You don't have any saved searches yet, create one above."
+msgstr "คุณ\\'t พอจะช่วยค้นหาหรือยังสร้างหนึ่งทางด้านบน"
+
+#: template-listing-email-alerts.php:138
+msgid ""
+"Activate \"Contempo Email Alerts\" plugin via Appearance > Install Plugins."
+msgstr ""
+"เปิดใช้งาน\"Contempo อีเมลล์แจ้งเตือน\"ส่วนเสริมผ่านทางรูปลักษณ์>"
+"ติดตั้งโปรแกรมเสริม"
+
+#. Name of the template
+#: includes/home-listings-count.php:58
+msgid "Open Houses"
+msgstr "เปิดบ้าน"
+
+#. Name of the template
+msgid "Packages Thank You"
+msgstr "ตอบแทนขอบคุณ"
+
+#: template-packages-thank-you.php:56
+msgid "Select a Package"
+msgstr "เลือกแพกเกจ"
+
+#: template-packages-thank-you.php:60
+msgid "Payment"
+msgstr "จ่ายเงิน"
+
+#: template-packages-thank-you.php:64
+msgid "Complete"
+msgstr "สมบูรณ์"
+
+#. Name of the template
+msgid "Quick Search"
+msgstr "ค้นหาในรายการย่อยด้วย"
+
+#. Name of the template
+msgid "Sitemap"
+msgstr "Sitemap"
+
+#: template-sitemap.php:51
+msgid "Last Twenty Posts"
+msgstr "เมื่อยี่สิบกัปตัน..เสาทางนี้"
+
+#: template-sitemap.php:67
+msgid "Pages"
+msgstr "หน้า"
+
+#: template-sitemap.php:74
+msgid "Categories"
+msgstr "หมวดหมู่"
+
+#: template-sitemap.php:81
+msgid "Posts per category"
+msgstr "กัปตัน..เสาทางนี้ต่อหมวดหมู่"
+
+#: template-submit-listing.php:379
+msgid "You haven't chosen a package yet…"
+msgstr "คุณยัง\\'t นผู้ถูกเลือกเป็นห่อของรึยัง..."
+
+#: template-submit-listing.php:380
+msgid "Get Started!"
+msgstr "มาเริ่มกันเล!"
+
+#: template-submit-listing.php:386
+msgid "Listings Limit Reached"
+msgstr "Listings จำกัดการติดต่อ"
+
+#: template-submit-listing.php:387
+msgid "You've reached the listings limit for your membership package."
+msgstr "คุณ\\ชวนฝันถึง listings อจำกัดสำหรับสมาชิกของคุณแพ็คเก็จฉันทำอยู่บ่อยๆ"
+
+#: template-submit-listing.php:388
+msgid "Upgrade Today!"
+msgstr "อัพเกรดให้วันนี้!"
+
+#: template-submit-listing.php:472
+msgid "Gallery Images (select as many as you like)"
+msgstr "แกลเลอรีภาพ(เลือกมากเท่าที่คุณชอบ)"
+
+#: template-submit-listing.php:499
+msgid "*At least one image is for valid submission, minimum width of 817px."
+msgstr ""
+"*อย่างน้อยหนึ่งภาพสำหรับที่ใช้งานได้ submission,น้อยที่สุดความกว้างของ 817px."
+
+#: template-submit-listing.php:582
+msgid "(e.g. Cats, small dogs)"
+msgstr "(e.g. แมวเล็กหมา)"
+
+#: template-submit-listing.php:587
+msgid "(e.g. Carport, 2 Car Garage)"
+msgstr "(e.g. Carport,2 รถโรงรถ)"
+
+#: template-submit-listing.php:603
+msgid "Virtual Tour URL"
+msgstr "เสมือนทัวร์ที่อยู่ URL"
+
+#: template-submit-listing.php:658
+msgid " (e.g. 2)"
+msgstr " (e.g. 2)"
+
+#: template-submit-listing.php:663
+msgid " (e.g. 1 night)"
+msgstr " (e.g. 1 คืน)"
+
+#: template-submit-listing.php:670
+msgid " (e.g. 3:00 PM)"
+msgstr " (e.g. 3:00 PM)"
+
+#: template-submit-listing.php:675
+msgid " (e.g. 11:00 AM)"
+msgstr " (e.g. 11:00 น)"
+
+#: template-submit-listing.php:682
+msgid " (e.g. 50)"
+msgstr " (e.g. 50)"
+
+#: template-submit-listing.php:687
+msgid " (e.g. 150)"
+msgstr " (e.g. 150)"
+
+#: template-submit-listing.php:694
+msgid " (e.g. 275)"
+msgstr " (e.g. 275)"
+
+#: template-submit-listing.php:699
+msgid " (e.g. 895)"
+msgstr " (e.g. 895)"
+
+#: template-submit-listing.php:788
+msgid "Save As Draft"
+msgstr "บันทึกเป็นจดหมายฉบับร่าง"
+
+#. Name of the template
+#: admin/ReduxFramework/theme-options/re7-config.php:1706
+msgid "Testimonials"
+msgstr "Testimonials"
+
+#. Name of the template
+msgid "User Dashboard"
+msgstr "แดชบอร์ดของผู้ใช้"
+
+#: template-user-dashboard.php:122
+#: admin/ReduxFramework/theme-options/re7-config.php:1656
+msgid "Featured Listings"
+msgstr "ตั Listings"
+
+#: template-user-dashboard.php:141
+msgid "Pending Listings"
+msgstr "พักการพิมพ์ Job State Listings"
+
+#: template-view-invoices.php:82
+msgid "You haven't placed any orders yet…"
+msgstr "คุณยัง\\'t ไว้มีคำสั่งรึยัง..."
+
+#: template-view-invoices.php:90
+msgid "Invoice"
+msgstr "Invoice"
+
+#: template-view-invoices.php:91
+msgid "Package"
+msgstr "แพ็กเกจ"
+
+#: template-view-invoices.php:92
+msgid "Start"
+msgstr "เริ่มต้น"
+
+#: template-view-invoices.php:93
+msgid "Expire"
+msgstr "หมดอายุ"
+
+#: template-view-invoices.php:94
+msgid "Recurring"
+msgstr "การเกิดขึ้นอีก@label"
+
+#: template-view-invoices.php:96
+msgid "Total"
+msgstr "ทั้งหมด"
+
+#: template-view-invoices.php:112
+#: includes/widgets/ct-widget-contactinfo.php:135
+msgid "Yes"
+msgstr "ใช่แล้ว"
+
+#: template-view-invoices.php:112
+#: includes/widgets/ct-widget-contactinfo.php:136
+msgid "No"
+msgstr "ไม่"
+
+#: template-view-invoices.php:113
+msgid "Expired"
+msgstr "หมดอายุแล้ว"
+
+#: template-view-invoices.php:123
+msgid "-"
+msgstr "-"
+
+#: template-view-listings.php:85
+msgid "Type a listing name or address here to filter the list."
+msgstr "พิมพ์เป็นการเรียกรายการชื่อหรือที่อยู่ที่นี่เพื่อตัวกรองรายการ"
+
+#: template-view-listings.php:172
+msgid "Published"
+msgstr "ตีพิมพ์ออก"
+
+#: template-view-listings.php:174
+msgid "Pending"
+msgstr "พักการพิมพ์ job state"
+
+#: template-view-listings.php:176
+msgid "Draft"
+msgstr "แบบร่าง"
+
+#: template-view-listings.php:195
+msgid "Paid"
+msgstr "จ่ายเงิน"
+
+#: template-view-listings.php:210
+msgid "Edit"
+msgstr "แก้ไข"
+
+#: template-view-listings.php:214 admin/theme-functions.php:4578
+msgid " Views"
+msgstr " มุมมอง"
+
+#: template-view-listings.php:233
+msgid "You don't have any listings yet..."
+msgstr "คุณ\\'t มี listings ยัง..."
+
+#: template-view-listings.php:234
+msgid "Create One"
+msgstr "สร้างหนึ่ง"
+
+#: admin/merlin-config.php:104 admin/merlin-config.php:120
+#: admin/merlin-config.php:136 admin/merlin-config.php:152
+#: admin/merlin-config.php:168 admin/merlin-config.php:184
+#: admin/merlin-config.php:200 admin/merlin-config.php:216
+#: admin/merlin-config.php:232 admin/merlin-config.php:248
+#: admin/merlin-config.php:264 admin/merlin-config.php:280
+#: admin/merlin-config.php:296 admin/merlin-config.php:312
+#: admin/merlin-config.php:328
+msgid "A special note for this import."
+msgstr "เป็นพิเศษโน๊ตสำหรับเรื่การนำเข้า"
+
+#: admin/profile-fields.php:39
+msgid "Social profile information"
+msgstr "สังคมข้อมูลโพรไฟล์"
+
+#: admin/profile-fields.php:43
+msgid "Twitter Username"
+msgstr "ทวิตเตอร์ชื่อผู้ใช้"
+
+#: admin/profile-fields.php:49
+msgid "Facebook URL"
+msgstr "Facebook ที่อยู่ URL"
+
+#: admin/profile-fields.php:55
+msgid "Instagram URL"
+msgstr "Instagram ที่อยู่ URL"
+
+#: admin/profile-fields.php:61
+msgid "LinkedIn URL"
+msgstr "LinkedIn ที่อยู่ URL"
+
+#: admin/profile-fields.php:67
+msgid "YouTube URL"
+msgstr "ยอดวิวในยูทูปที่อยู่ URL"
+
+#: admin/profile-fields.php:76
+msgid "Extra profile information"
+msgstr "เพิ่มข้อมูลโพรไฟล์"
+
+#: admin/profile-fields.php:88
+msgid "Agent Order"
+msgstr "เจ้าหน้าที่สั่ง"
+
+#: admin/profile-fields.php:91
+msgid ""
+"If user is an agent select the order you would like them displayed on the "
+"agents page, e.g. 1, 2, 3, etc&hellip; NOTE: You must also set Real Estate 7 "
+"Options > Agents > Manually Order Agents? > to Yes, otherwise the ordering "
+"won't be applied."
+msgstr ""
+"ถ้าผู้ใช้ที่เป็นเจ้าหน้าที่เลือกลำดับของคุณจะเหมือนพวกเขาจะถูกแสดงบนเจ้าหน้าที่หน้า"
+" e.g. 1,2,3,etc"
+
+#: admin/profile-fields.php:95
+msgid "Profile Image"
+msgstr "โพรไฟล์ของภาพ"
+
+#: admin/profile-fields.php:105
+msgid ""
+"Please upload a profile picture here, if none is chosen a default image will "
+"be used."
+msgstr ""
+"ได้โปรดอัพโหลดโพรไฟล์รูปภาพอยู่ที่นี่ถ้าไม่มีใครคือผู้ถูกเลือกเป็นค่าปริยายของภาพจะใช้ได้"
+
+#: admin/profile-fields.php:109
+msgid "Mobile #"
+msgstr ""
+
+#: admin/profile-fields.php:115
+msgid "Fax #"
+msgstr ""
+
+#: admin/profile-fields.php:122
+msgid "Title"
+msgstr "หัวเรื่อง"
+
+#: admin/profile-fields.php:128
+msgid "Tagline"
+msgstr "Tagline"
+
+#: admin/profile-fields.php:134
+msgid "Agent License #"
+msgstr ""
+
+#: admin/profile-fields.php:137
+msgid "Add the agents license number here."
+msgstr "เพิ่มเจ้าหน้าที่ใบอนุญาตเลขที่นี่"
+
+#: admin/profile-fields.php:144
+msgid "Agent Testimonials"
+msgstr "เจ้าหน้าที่ Testimonials"
+
+#: admin/profile-fields.php:148
+msgid ""
+"If this user is marked as an agent (\"Show on agents page\" option above) "
+"use this area to add client testimonials."
+msgstr ""
+"ถ้าใช้จำนวนเป็นเจ้าหน้าที่(\"แสดงบนเจ้าหน้าที่หน้า\"ตัวเลือกเหนือ)"
+"ใช้บริเวณนี้เพื่อเพิ่มลูกค้าของ testimonials."
+
+#: admin/profile-fields.php:162
+msgid "Office Information"
+msgstr "ข้อมูลออฟฟิศ"
+
+#: admin/profile-fields.php:166
+msgid "Personal Logo"
+msgstr "ส่วนตัวโลโก้"
+
+#: admin/profile-fields.php:176
+msgid ""
+"Upload your personal logo here, or if you choose to associate a Brokerage "
+"below that logo will be used instead."
+msgstr ""
+"อัปโหลดส่วนตัวของโลโก้อยู่ที่นี่หรือถ้าคุณเลือกที่จะเชื่อมโยงเป็น Brokerage "
+"ด้านล่างนั่นสัญญลักษณ์จะถูกใช้แทน"
+
+#: admin/profile-fields.php:186
+msgid "Select a Brokerage"
+msgstr "เลือก Brokerage"
+
+#: admin/profile-fields.php:194
+msgid ""
+"Assign a brokerage here, these are pulled from the Brokerage custom post "
+"type."
+msgstr ""
+"กำหนดเป็น brokerage อยู่ที่นี่พวกนี้เป็นดึงออกจากที่ Brokerage "
+"กำหนดเองโพสประเภทนี้ได้นะ"
+
+#: admin/profile-fields.php:198
+msgid "Brokerage License #"
+msgstr ""
+
+#: admin/profile-fields.php:201
+msgid "Add the brokerage license number here."
+msgstr "เพิ่ม brokerage ใบอนุญาตเลขที่นี่"
+
+#: admin/profile-fields.php:205
+msgid "Office #"
+msgstr ""
+
+#: admin/profile-fields.php:223
+msgid "State or Province"
+msgstr "รัฐหรือจังหวัด"
+
+#: admin/profile-fields.php:229 admin/theme-functions.php:5689
+msgid "Postal Code"
+msgstr "รหัสไปรษณีย์"
+
+#: admin/theme-functions.php:45
+msgid "Please Update Your PHP Version to the Recommended 5.6+"
+msgstr "ได้โปรดปรับปรุงของ PHP เวอร์ชั่นต้องแนะนำ 5.6 "
+
+#: admin/theme-functions.php:46
+msgid ""
+"Otherwise some of the Theme Functions and Custom Visual Composer modules "
+"won't be available for use, or cause issues with your site display."
+msgstr ""
+"ไม่อย่างนั้นบางอย่างของชุดตกแต่งฟังก์ชันที่และกำหนดเองภาพเขียนจดหมายมาตรฐานมอดูล"
+" won\\'t เป็นพร้อมใช้งานสำหรับใช้หรือเพราะปัญหาเรื่องกับเว็บไซต์ของคุณแสดงผล"
+
+#: admin/theme-functions.php:47
+msgid ""
+"Its a quick and simple process (no more than a couple minutes), please refer "
+"to this knowledgebase article below."
+msgstr ""
+"มันเป็นอย่างเร็วและเรียบง่ายโพรเซส(ไม่มีมากกว่าสองสามนาที)โปรดเรียกแบบนี้ "
+"comment บทความด้านล่างนี้"
+
+#: admin/theme-functions.php:48
+msgid "Minimum PHP Version 5.6+ and How to Update to It"
+msgstr "อย่างน้อยรุ่นของ PHP 5.6 และวิธีที่จะปรับปรุงให้มัน"
+
+#: admin/theme-functions.php:49 admin/theme-functions.php:91
+#: admin/theme-functions.php:133 admin/theme-functions.php:175
+#: admin/plugins/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr "ไม่สนใจเรื่องสังเกต"
+
+#: admin/theme-functions.php:89
+msgid "WP Favorite Posts Needs to be Setup"
+msgstr "WP นโปรดของกัปตัน..เสาทางนี้ต้องการตั้งค่า"
+
+#: admin/theme-functions.php:90 admin/theme-functions.php:132
+#: admin/theme-functions.php:174
+msgid "Just takes a few seconds to setup the plugin properly please see the "
+msgstr "แค่ต้องใช้เวลาอีกสองสามวินาทีที่จะติดตั้งโปรแกรมเสริมได้โปรดเห็น "
+
+#: admin/theme-functions.php:90 admin/theme-functions.php:132
+#: admin/theme-functions.php:174
+msgid "documentation"
+msgstr "เอกสารคู่มือ@info:shell"
+
+#: admin/theme-functions.php:131
+msgid "Contempo Compare Listings Needs to be Setup"
+msgstr "Contempo เปรียบเทียบ Listings ต้องการตั้งค่า"
+
+#: admin/theme-functions.php:173
+msgid "WordPress Social Login Needs to be Setup"
+msgstr "WordPress ระกันสังคมการล็อกอินต้องการตั้งค่า"
+
+#: admin/theme-functions.php:387
+msgid "Listing Large"
+msgstr "เรียกรายการใหญ่"
+
+#: admin/theme-functions.php:398
+msgid "Primary Left Menu"
+msgstr "กลุ่มหลักเหลือของเมนู"
+
+#: admin/theme-functions.php:399
+msgid "Primary Right Menu"
+msgstr "เป็นผู้ต้องถูกต้องของเมนู"
+
+#: admin/theme-functions.php:400
+msgid "Primary Full Width"
+msgstr "กลุ่มหลักเต็มความกว้าง"
+
+#: admin/theme-functions.php:401
+msgid "Footer Menu"
+msgstr "ท้ายกระดาษของเมนู"
+
+#: admin/theme-functions.php:425
+msgid "Menu doesn't exist, please create one by clicking here."
+msgstr "เมนูมัน\\'t มีอยู่โปรดสร้างหนึ่งโดยการคลิกที่นี่"
+
+#: admin/theme-functions.php:1170
+msgid "Open Map"
+msgstr "เปิดแผนที่"
+
+#: admin/theme-functions.php:1171
+msgid "Close Search"
+msgstr "ใกล้การค้นหา"
+
+#: admin/theme-functions.php:1174
+msgid "Open"
+msgstr "เปิด"
+
+#: admin/theme-functions.php:1175
+msgid "Search Saved"
+msgstr "การค้นหายช่วย"
+
+#: admin/theme-functions.php:1187 admin/theme-functions.php:5897
+msgid "All Towns"
+msgstr "ทั้งเมือง"
+
+#: admin/theme-functions.php:1189 admin/theme-functions.php:5899
+msgid "All Villages"
+msgstr "ทั้งหมู่บ้าน"
+
+#: admin/theme-functions.php:1191 admin/theme-functions.php:5901
+msgid "All Cities"
+msgstr "ทั้งเมือง"
+
+#: admin/theme-functions.php:1195 admin/theme-functions.php:5903
+msgid "All Areas"
+msgstr "ทุกพื้"
+
+#: admin/theme-functions.php:1197 admin/theme-functions.php:5905
+#: admin/theme-functions.php:5939
+msgid "All Suburbs"
+msgstr "ทั้งหมู่บ้านย่านชานเมืองต่าง"
+
+#: admin/theme-functions.php:1199 admin/theme-functions.php:5907
+msgid "All Provinces"
+msgstr "ทุ Zimbabwe. Kgm"
+
+#: admin/theme-functions.php:1201 admin/theme-functions.php:5909
+msgid "All Regions"
+msgstr "ทั้งดินแดน"
+
+#: admin/theme-functions.php:1203 admin/theme-functions.php:5911
+msgid "All Parishes"
+msgstr "ทุ Jamaica. Kgm"
+
+#: admin/theme-functions.php:1205 admin/theme-functions.php:5913
+msgid "All States"
+msgstr "ทุกอเมริกา"
+
+#: admin/theme-functions.php:1209 admin/theme-functions.php:5947
+msgid "All Postcodes"
+msgstr "ทุ Postcodes"
+
+#: admin/theme-functions.php:1211 admin/theme-functions.php:5949
+msgid "All Postal Codes"
+msgstr "ทั้งส่งขอรหัส"
+
+#: admin/theme-functions.php:1213 admin/theme-functions.php:5951
+msgid "All Zipcodes"
+msgstr "ทุ Zipcodes"
+
+#: admin/theme-functions.php:1228
+msgid "* This field is required"
+msgstr "*ช่องข้อมูลนี้เป็นต้องการ"
+
+#: admin/theme-functions.php:1229
+msgid "* Please select an option"
+msgstr "*โปรดเลือกตัวเลือก"
+
+#: admin/theme-functions.php:1230
+msgid "* This checkbox is required"
+msgstr "*ตัวเลือกนี้ต้องการ"
+
+#: admin/theme-functions.php:1231
+msgid "* Invalid phone number"
+msgstr "*ไม่ถูกต้องหมายเลขโทรศัพท์"
+
+#: admin/theme-functions.php:1232
+msgid "* Invalid email address"
+msgstr "*ที่อยู่อีเมลไม่ถูกต้อง"
+
+#: admin/theme-functions.php:1233
+msgid "* Invalid date, must be in YYYY-MM-DD format"
+msgstr "*ไม่ถูกต้องเดทต้องอยู่ใน YYYY-อืม-DD รูปแบบ"
+
+#: admin/theme-functions.php:1234
+msgid "* Numbers only"
+msgstr "*ตัวเลขเดียว"
+
+#: admin/theme-functions.php:1235
+msgid "* No special caracters allowed"
+msgstr "#ไม่มีพิเศษ caracters ได้รับอนุญาต"
+
+#: admin/theme-functions.php:1236
+msgid "* Letters only"
+msgstr "*จดหมายเดียว"
+
+#: admin/theme-functions.php:1921 admin/theme-functions.php:3797
+msgid "Buyer"
+msgstr "คนซื้อ"
+
+#: admin/theme-functions.php:1933 admin/theme-functions.php:3798
+msgid "Seller"
+msgstr "หนังสือขาย"
+
+#: admin/theme-functions.php:1971
+msgid "Broker"
+msgstr "โบรกเกอร์"
+
+#: admin/theme-functions.php:2083 admin/theme-functions.php:2120
+#: admin/theme-functions.php:2156
+msgid "Beds: "
+msgstr "เตียง: "
+
+#: admin/theme-functions.php:2084 admin/theme-functions.php:2121
+#: admin/theme-functions.php:2157
+msgid "Baths: "
+msgstr "Baths: "
+
+#: admin/theme-functions.php:2085 admin/theme-functions.php:2122
+#: admin/theme-functions.php:2158
+msgid "Sq Ft: "
+msgstr "Sq Ft: "
+
+#: admin/theme-functions.php:2094 admin/theme-functions.php:2131
+#: admin/theme-functions.php:2166
+msgid "1 Listing found"
+msgstr "1 เรียกรายการเจอ"
+
+#: admin/theme-functions.php:2096 admin/theme-functions.php:2133
+#: admin/theme-functions.php:2168
+msgid " Listings found"
+msgstr " Listings เจอ"
+
+#: admin/theme-functions.php:2173
+msgid "No Listings Found"
+msgstr "ไม่ Listings เจอ"
+
+#: admin/theme-functions.php:2393
+msgid "Sort By"
+msgstr "เรียงลำดับตาม@Title:Menu"
+
+#: admin/theme-functions.php:2394
+msgid "Default Order"
+msgstr "คำสั่งค่าปริยาย"
+
+#: admin/theme-functions.php:2395
+msgid "Price - Low to High"
+msgstr "ราคา-ต่ำที่สูง"
+
+#: admin/theme-functions.php:2396
+msgid "Price - High to Low"
+msgstr "ราคาสูงไปหาต่ำ"
+
+#: admin/theme-functions.php:2397
+msgid "Date - Old to New"
+msgstr "วันเก่าเพื่อนใหม่"
+
+#: admin/theme-functions.php:2398
+msgid "Date - New to Old"
+msgstr "วันใหม่เพื่อนเก่า"
+
+#: admin/theme-functions.php:2625
+msgid "New submission in"
+msgstr "ใหม่ submission ใน"
+
+#: admin/theme-functions.php:2627
+msgid "Hi!"
+msgstr "สวัสดี!"
+
+#: admin/theme-functions.php:2628
+msgid "We have a new submission in"
+msgstr "เรามีคนใหม่ submission ใน"
+
+#: admin/theme-functions.php:2629
+msgid "Check it out"
+msgstr "ตรวจสอบมันออก"
+
+#: admin/theme-functions.php:2743 admin/theme-functions.php:2818
+#: admin/theme-functions.php:2921 admin/theme-functions.php:3036
+#: admin/theme-functions.php:3155 admin/theme-functions.php:3245
+#: admin/theme-functions.php:3356
+msgid "You need to setup the Google Maps API."
+msgstr "คุณต้องการจะติดตั้งของกูเกิ้ลแผนที่รูปแบบ api."
+
+#: admin/theme-functions.php:2744 admin/theme-functions.php:2819
+#: admin/theme-functions.php:2922 admin/theme-functions.php:3037
+#: admin/theme-functions.php:3156 admin/theme-functions.php:3246
+#: admin/theme-functions.php:3357
+msgid "Go into Admin > Real Estate 7 Options > Google Maps"
+msgstr "เข้าไปในแอดมิ>ขายอสังหาริมทรัพย์ที่ 7 ตัวเลือก>ของกูเกิ้ลแผนที่"
+
+#: admin/theme-functions.php:3378
+msgid "Prev"
+msgstr "ก่อนหน้า@action"
+
+#: admin/theme-functions.php:3645
+msgid "User registration is not enabled"
+msgstr "ลงทะเบียนผู้ใช้ไม่ถูกเปิดใช้"
+
+#: admin/theme-functions.php:3675
+msgid "Log in"
+msgstr "ปูมบันทึกอยู่ใน"
+
+#: admin/theme-functions.php:3677
+msgid "Don't have an account?"
+msgstr "อย่าง\\'t มีบัญชี?"
+
+#: admin/theme-functions.php:3677
+msgid "Create your account,"
+msgstr "สร้างบัญชีของคุณ,"
+
+#: admin/theme-functions.php:3677
+msgid "it takes less than a minute."
+msgstr "มันต้องใช้เวลาน้อยกว่านาทีนะ"
+
+#: admin/theme-functions.php:3692 admin/theme-functions.php:3805
+msgid "Password"
+msgstr "รหัสผ่าน"
+
+#: admin/theme-functions.php:3707
+msgid "Lost your password?"
+msgstr "สูญเสียรหัสผ่านของคุณ?"
+
+#: admin/theme-functions.php:3717
+msgid "Lost Password?"
+msgstr "สูญเสียรหัสผ่าน?"
+
+#: admin/theme-functions.php:3718
+msgid ""
+"Enter your email address and we'll send you a link you can use to pick a new "
+"password."
+msgstr ""
+"ป้อนที่อยู่อีเมลของคุณและพวกเรา\\'ll "
+"ส่งคุณที่อยู่เชื่อมโยงคุณสามารถใช้เพื่อเลือกรหัสผ่านใหม่."
+
+#: admin/theme-functions.php:3720
+msgid "Username or Email"
+msgstr "ชื่อผู้ใช้หรืออีเมล"
+
+#: admin/theme-functions.php:3722
+msgid "Get New Password"
+msgstr "เอารหัสผ่านใหม่"
+
+#: admin/theme-functions.php:3758
+msgid "Create an account"
+msgstr "สร้างบัญชีไว้บัญชีนึง"
+
+#: admin/theme-functions.php:3759
+msgid "It takes less than a minute. If you already have an account "
+msgstr "มันต้องใช้เวลาน้อยกว่านาทีนะ ถ้าคุณจะทำไปเรียบร้อยแล้วการบัญชีผู้ใช้ "
+
+#: admin/theme-functions.php:3759
+msgid "login"
+msgstr "ล็อกอิน"
+
+#: admin/theme-functions.php:3794
+msgid "Buyer, Seller or Agent?"
+msgstr "คนซื้อหนังสือขายหรือเจ้าหน้าที่?"
+
+#: admin/theme-functions.php:3796
+msgid "Please choose"
+msgstr "โปรดเลือก"
+
+#: admin/theme-functions.php:3810
+msgid "Password Again"
+msgstr "รหัสผ่านอีกครั้ง"
+
+#: admin/theme-functions.php:3816
+msgid "I accept the"
+msgstr "ฉันยอมรับค"
+
+#: admin/theme-functions.php:3816
+msgid "Terms &amp; Conditions"
+msgstr "เงื่อนไข "
+
+#: admin/theme-functions.php:3821
+msgid "Register"
+msgstr "ลงทะเบียน"
+
+#: admin/theme-functions.php:3856
+msgid "Username already taken"
+msgstr "ชื่อผู้ใช้อยู่แล้วไป"
+
+#: admin/theme-functions.php:3860 admin/theme-functions.php:4048
+#: admin/theme-functions.php:4095
+msgid "Invalid username"
+msgstr "ชื่อผู้ใช้งานไม่ถูกต้อง"
+
+#: admin/theme-functions.php:3864
+msgid "Please enter a username"
+msgstr "โปรดป้อนชื่อผู้ใช้"
+
+#: admin/theme-functions.php:3868
+msgid "Invalid email"
+msgstr "อีเมลใช้ไม่ได้"
+
+#: admin/theme-functions.php:3872
+msgid "Email already registered"
+msgstr "อีเมลไปแล้วจดทะเบียน"
+
+#: admin/theme-functions.php:3876 admin/theme-functions.php:4053
+#: admin/theme-functions.php:4100
+msgid "Please enter a password"
+msgstr "โปรดป้อนรหัสผ่าน"
+
+#: admin/theme-functions.php:3880
+msgid "Passwords do not match"
+msgstr "รหัสผ่านไม่ตรงกัน"
+
+#: admin/theme-functions.php:3884
+msgid "Terms & Conditions must be checked"
+msgstr "เงื่อนไข "
+
+#: admin/theme-functions.php:4059 admin/theme-functions.php:4106
+msgid "Incorrect password"
+msgstr "รหัสผ่านไม่ถูกต้อง"
+
+#: admin/theme-functions.php:4140
+msgid "Error"
+msgstr "เกิดข้อผิดพลาด"
+
+#: admin/theme-functions.php:4263 admin/theme-functions.php:4267
+msgid "Featured Image"
+msgstr "ได้โดดเด่นในภาพ"
+
+#: admin/theme-functions.php:4265
+msgid "Brokerage Logo"
+msgstr "Brokerage โลโก้"
+
+#: admin/theme-functions.php:4295
+msgid "Enter the listing street address here"
+msgstr "ป้อนการเรียกรายการข้างถนนที่อยู่ที่นี่"
+
+#: admin/theme-functions.php:4311
+msgid ""
+"NOTE: The Listing Title needs to be <strong>only the Street Address</strong> "
+"(e.g. 123 Somewhere St.) otherwise the mapping won't work properly, use the "
+"Alternate Title field below for Listing Names, etc…the Alt Title field will "
+"override the street address on the front end of your site."
+msgstr ""
+
+#: admin/theme-functions.php:4330
+#: admin/ReduxFramework/theme-options/re7-config.php:4148
+msgid "Price & Description"
+msgstr "ราคา "
+
+#: admin/theme-functions.php:4331
+msgid "Photos & Files"
+msgstr "รูปถ่าย "
+
+#: admin/theme-functions.php:4332
+#: admin/ReduxFramework/theme-options/re7-config.php:4237
+msgid "Details"
+msgstr "รายละเอียด"
+
+#: admin/theme-functions.php:4334 includes/single-listing-sub-navigation.php:78
+#: admin/ReduxFramework/theme-options/re7-config.php:4356
+msgid "Rental Info"
+msgstr "เช่าอมูล"
+
+#: admin/theme-functions.php:4336 includes/single-listing-map.php:18
+#: includes/single-listing-sub-navigation.php:135
+#: includes/single-listing-sub-navigation.php:164
+#: admin/ReduxFramework/theme-options/re7-config.php:4445
+msgid "Location"
+msgstr "ตำแหน่ง"
+
+#: admin/theme-functions.php:4438
+msgid "Add to Favorites"
+msgstr "เพิ่มไปยังรายการโปรด"
+
+#: admin/theme-functions.php:4443
+msgid "Favorite"
+msgstr "โปรดของ"
+
+#: admin/theme-functions.php:4556
+msgid " Photo"
+msgstr " ภาพถ่าย"
+
+#: admin/theme-functions.php:4558
+msgid " Photos"
+msgstr " รูปถ่าย"
+
+#: admin/theme-functions.php:4700 admin/theme-functions.php:5605
+#: admin/theme-functions.php:5915 layouts/list.php:84
+msgid "Rooms"
+msgstr "ห้อง"
+
+#: admin/theme-functions.php:4702 admin/theme-functions.php:5607
+#: admin/theme-functions.php:5917 layouts/list.php:86
+msgid "Bedrooms"
+msgstr "Bedrooms"
+
+#: admin/theme-functions.php:4706 admin/theme-functions.php:5611
+#: admin/theme-functions.php:5919 includes/sub-listings.php:89
+#: layouts/list.php:90 includes/widgets/ct-widget-agentsotherlistings.php:126
+msgid "Bed"
+msgstr "บนเตียง"
+
+#: admin/theme-functions.php:4722 admin/theme-functions.php:5626
+#: admin/theme-functions.php:5923 layouts/list.php:106
+msgid "Bathrooms"
+msgstr "ห้องน้ำ"
+
+#: admin/theme-functions.php:4726 admin/theme-functions.php:5630
+#: admin/theme-functions.php:5925 layouts/list.php:110
+msgid "Bath"
+msgstr "อ่างอาบน้ำ"
+
+#: admin/theme-functions.php:4777 includes/sub-listings.php:122
+#: includes/widgets/ct-widget-agentsotherlistings.php:159
+msgid "Rating"
+msgstr "ระดับความชื่นชอบ"
+
+#: admin/theme-functions.php:4794 includes/sub-listings.php:139
+#: includes/widgets/ct-widget-agentsotherlistings.php:176
+msgid "Guests"
+msgstr "แขก"
+
+#: admin/theme-functions.php:4809 admin/theme-functions.php:4987
+#: includes/sub-listings.php:154
+#: includes/widgets/ct-widget-agentsotherlistings.php:191
+msgid "Min Stay"
+msgstr "มินอยู่"
+
+#: admin/theme-functions.php:4857
+msgid "Price Per"
+msgstr "ราคาต่อ"
+
+#: admin/theme-functions.php:4895
+msgid "Walk Score&reg;"
+msgstr "เดินแต้ม"
+
+#: admin/theme-functions.php:4954
+msgid "Check In"
+msgstr "เช็คอยู่"
+
+#: admin/theme-functions.php:4965
+msgid "Check Out"
+msgstr "ตรวจดู"
+
+#: admin/theme-functions.php:4976
+msgid "Max Guests"
+msgstr "แขกของแม็กซ์"
+
+#: admin/theme-functions.php:5008
+msgid "Extra People"
+msgstr "พิเศษคนอื่น"
+
+#: admin/theme-functions.php:5118
+#, php-format
+msgid "%s ago"
+msgstr "%s ก่อน"
+
+#: admin/theme-functions.php:5138
+msgid "Updated on"
+msgstr "ถูกปรับปรุงให้"
+
+#: admin/theme-functions.php:5140
+msgid "at"
+msgstr "ตอน"
+
+#: admin/theme-functions.php:5219
+msgid "Hosted By"
+msgstr "เป็นเจ้าภาพโดย"
+
+#: admin/theme-functions.php:5276 admin/theme-functions.php:5293
+msgid "Listing Courtesy of"
+msgstr "เรียกรายการอภินันทนาการจา"
+
+#: admin/theme-functions.php:5278 admin/theme-functions.php:5295
+msgid "Brokered by"
+msgstr "Brokered ย"
+
+#: admin/theme-functions.php:5567
+msgid " Sq Ft"
+msgstr " Sq Ft"
+
+#: admin/theme-functions.php:5569
+msgid " m²"
+msgstr " เอ็ม 2"
+
+#: admin/theme-functions.php:5584
+msgid "Acres"
+msgstr "เอเคอร์"
+
+#: admin/theme-functions.php:5586
+msgid "Sq Ft"
+msgstr "Sq Ft"
+
+#: admin/theme-functions.php:5588
+msgid "m²"
+msgstr "เอ็ม 2"
+
+#: admin/theme-functions.php:5645
+msgid "Village"
+msgstr "หมู่บ้าน"
+
+#: admin/theme-functions.php:5647
+msgid "Town"
+msgstr "เมืองนี้"
+
+#: admin/theme-functions.php:5664
+msgid "Parish"
+msgstr "เขตหนึ่"
+
+#: admin/theme-functions.php:5666
+msgid "Region"
+msgstr "ขอบเขต"
+
+#: admin/theme-functions.php:5668
+msgid "Province"
+msgstr "แสดงตัวอย่า"
+
+#: admin/theme-functions.php:5714
+msgid "School District"
+msgstr "โรงเรียน"
+
+#: admin/theme-functions.php:5716
+msgid "Building"
+msgstr "ตึก"
+
+#: admin/theme-functions.php:5718
+msgid "Borough"
+msgstr "Borough"
+
+#: admin/theme-functions.php:5720
+msgid "Sector"
+msgstr "เซกเตอร์"
+
+#: admin/theme-functions.php:5891
+msgid "All Property Types"
+msgstr "ทุกทรัพย์สินประเภท"
+
+#: admin/theme-functions.php:5893
+msgid "All Countries"
+msgstr "ทั้งประเทศ"
+
+#: admin/theme-functions.php:5895
+msgid "All Counties"
+msgstr "ทุกจังหวัด"
+
+#: admin/theme-functions.php:5929
+msgid "All Statuses"
+msgstr "ทุ Statuses"
+
+#: admin/theme-functions.php:5931
+msgid "All Additional Features"
+msgstr "ทั้งที่มีคุณสมบัติเพิ่มเติม"
+
+#: admin/theme-functions.php:5933
+msgid "All Neighborhoods"
+msgstr "ทุ Neighborhoods"
+
+#: admin/theme-functions.php:5935
+msgid "All Districts"
+msgstr "ทุ Districts. Kgm"
+
+#: admin/theme-functions.php:5937
+msgid "All School Districts"
+msgstr "ทั้งโรงเรียน Districts. Kgm"
+
+#: admin/theme-functions.php:5941
+msgid "All Buildings"
+msgstr "ทั้งตึก"
+
+#: admin/theme-functions.php:5943
+msgid "All Sectors"
+msgstr "ทุ Sectors"
+
+#: admin/theme-functions.php:5945
+msgid "All Communities"
+msgstr "ทุ Communities"
+
+#: admin/theme-functions.php:5953
+msgid "Pet Friendly?"
+msgstr "สัตว์เลี้ยงเป็นมิตร?"
+
+#: admin/theme-functions.php:5955
+msgid "Furnished/Unfurnished?"
+msgstr "ตกแต่งแล้ว/Unfurnished?"
+
+#: admin/theme-functions.php:6172 includes/single-listing-yelp.php:165
+msgid "You need to setup the Yelp Fusion API."
+msgstr "คุณต้องตั้งค่าที่ร้องด้วยความกังวฟิวชันรูปแบบ api."
+
+#: admin/theme-functions.php:6173 includes/single-listing-yelp.php:166
+msgid "Go into Admin > Real Estate 7 Options > What's Nearby? > Create App"
+msgstr ""
+"เข้าไปในแอดมิ>ขายอสังหาริมทรัพย์ที่ 7 ตัวเลือก>อะไร\\'s อยู่ใกล้ๆบ้างมั้ย? >"
+"สร้างแอ๊ป"
+
+#: admin/theme-functions.php:6175
+msgid "You've reached the daily Yelp Fusion API limit."
+msgstr "คุณ\\ชวนฝันถึงวันร้องด้วยความกังวฟิวชันรูปแบบ api รีสวัสดิ์สเปนเซอร์"
+
+#: admin/theme-functions.php:6176
+msgid "Please visit https://www.yelp.com/developers/v3/manage_app"
+msgstr ""
+
+#: admin/theme-functions.php:6178
+msgid "General 502 Error from Yelp Fusion API"
+msgstr "ท่านนายพล 502 เกิดข้อผิดพลาดจากร้องด้วยความกังวฟิวชันรูปแบบ api"
+
+#: admin/theme-functions.php:6179 admin/theme-functions.php:6182
+msgid "Please check your server error logs."
+msgstr "โปรดตรวจสอบของเซิร์ฟเวอร์เกิดข้อผิดพลาดปูมบันทึก."
+
+#: admin/theme-functions.php:6181
+msgid "General 500 Error from Yelp Fusion API"
+msgstr "ท่านนายพล 500 ดข้อผิดพลาดจากร้องด้วยความกังวฟิวชันรูปแบบ api"
+
+#: admin/theme-functions.php:6184
+msgid "General Error from Yelp Fusion API"
+msgstr "ท่านนายพลเกิดข้อผิดพลาดจากร้องด้วยความกังวฟิวชันรูปแบบ api"
+
+#: admin/theme-functions.php:6267
+msgid " km"
+msgstr " description"
+
+#: admin/theme-functions.php:6269
+msgid " mi"
+msgstr " มิ"
+
+#: admin/theme-functions.php:6284
+msgid "reviews"
+msgstr "การตรวจทาน"
+
+#: admin/theme-functions.php:6357
+msgid "Unfortunately, your API key is over its quota."
+msgstr ""
+"โชคร้ายของคุณรูปแบบ api ญแจสำคัญคือทางของมันเต็มพื้นที่ที่ได้รับจัดสรร."
+
+#: admin/theme-functions.php:6363
+msgid "Unfortunately, there's no results nearby for this listing."
+msgstr "โชคร้ายที่นั่น\\'s ไม่มีผลอยู่ใกล้ๆเรื่องนี้ฟังฉันเลย"
+
+#: admin/theme-functions.php:6369
+msgid ""
+"Unfortunately, your request was denied, generally because of lack of an "
+"invalid key parameter."
+msgstr ""
+"โชคร้ายของคุณการร้องขอถูกปฏิเสธโดยทั่วไปเพราะขาดของการไม่ถูกต้องกุญแจพารามิเตอร์"
+"."
+
+#: admin/theme-functions.php:6375
+msgid ""
+"Unfortunately, your request was invalid, generally due to wrong address "
+"information or lat/long coordinates."
+msgstr ""
+"โชคร้ายของคุณร้องขอถูกไม่ถูกต้อง,"
+"โดยทั่วไปแล้วเนื่องจากผิดที่อยู่ของข้อมูลหรือ lat/นานพิกัด"
+
+#: admin/theme-functions.php:6381
+msgid ""
+"A server-side error happened trying again may be successful, please "
+"shift+refresh the page."
+msgstr ""
+"เซิร์ฟเวอร์-"
+"ด้านเกิดข้อผิดพลาดเกิดขึ้นพยายามอีกครั้งอาจจะประสบความสำเร็จได้โปรดเลื่อนการเรียกปรับปรุงหน้า"
+"."
+
+#: admin/theme-functions.php:6598
+#, php-format
+msgid "Search Results for: %s"
+msgstr "ผลการค้นหาสำหรับ:%s"
+
+#: admin/theme-functions.php:6604
+#, php-format
+msgid "Author: %s"
+msgstr "ผู้เขียน:%s"
+
+#: admin/theme-functions.php:6607
+#, php-format
+msgid "Day: %s"
+msgstr "วัน:%s"
+
+#: admin/theme-functions.php:6610
+#, php-format
+msgid "Month: %s"
+msgstr "เดือน:%s"
+
+#: admin/theme-functions.php:6610
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: admin/theme-functions.php:6613
+#, php-format
+msgid "Year: %s"
+msgstr "ปี:%s"
+
+#: admin/theme-functions.php:6613
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: admin/theme-functions.php:6616
+msgid "Archives"
+msgstr "ข้อมูลในแฟ้มบีบอัด"
+
+#: admin/theme-functions.php:6691
+msgid "Share This"
+msgstr "แบ่งปันนี้"
+
+#: admin/theme-functions.php:6694 admin/theme-functions.php:6695
+#: admin/theme-functions.php:6696 includes/post-social.php:16
+#: includes/post-social.php:17 includes/post-social.php:18
+msgid "Check out this great article on"
+msgstr "ตรวจสอนี่เยี่ยมบทความเกี่ยวกับ"
+
+#: admin/theme-functions.php:6735
+msgid "About The Author"
+msgstr "เรื่องผู้เขียน"
+
+#: admin/theme-functions.php:6792
+msgid "Related Posts"
+msgstr "ที่เกี่ยวข้องกัปตัน..เสาทางนี้"
+
+#: admin/theme-functions.php:6842
+msgid "<span class=\"meta-nav\">&larr;</span> Older"
+msgstr ""
+
+#: admin/theme-functions.php:6843
+msgid "Newer <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: admin/theme-functions.php:7415
+msgid ""
+"<span class=\"meta-nav\"><i class=\"fa fa-chevron-left\"></i></span> Older "
+"listings"
+msgstr ""
+
+#: admin/theme-functions.php:7416
+msgid ""
+"Newer listings <span class=\"meta-nav\"><i class=\"fa fa-chevron-right\"></i>"
+"</span>"
+msgstr ""
+
+#: admin/theme-functions.php:7438 admin/theme-functions.php:7439
+msgid "%link"
+msgstr "%เชื่อมโยง"
+
+#: admin/theme-functions.php:7759
+msgid "g:i a"
+msgstr "จีฉันเป็น"
+
+#: admin/theme-functions.php:7762
+#, php-format
+msgid "Minute %1$s"
+msgstr "เวลา%1$s"
+
+#: admin/theme-functions.php:7762
+msgid "i"
+msgstr "ฉัน"
+
+#: admin/theme-functions.php:7765
+msgid "g a"
+msgstr "จีน"
+
+#: admin/theme-functions.php:7776 admin/theme-functions.php:7782
+#: admin/theme-functions.php:7782 admin/theme-functions.php:7787
+#: admin/theme-functions.php:7787 admin/theme-functions.php:7792
+msgid "Y"
+msgstr "Y"
+
+#: admin/theme-functions.php:7777 admin/theme-functions.php:7788
+msgid "F"
+msgstr "F"
+
+#: admin/theme-functions.php:7778
+msgid "j"
+msgstr "เจ"
+
+#: admin/theme-functions.php:7783
+#, php-format
+msgid "Week %1$s"
+msgstr "สับดาห์%1$s"
+
+#: admin/theme-functions.php:7783
+msgid "W"
+msgstr "W"
+
+#: admin/theme-functions.php:7799
+#, php-format
+msgid "Search results for &quot;%1$s&quot;"
+msgstr "ผลการค้นหาสำหรับ "
+
+#: admin/theme-functions.php:7803
+msgid "404 Not Found"
+msgstr "404 ไม่พบ"
+
+#: includes/advanced-search.php:189 includes/header-advanced-search.php:209
+#: includes/header-advanced-search.php:532
+#: includes/widgets/ct-widget-listingssearch.php:200
+msgid "From"
+msgstr "จาก"
+
+#: includes/advanced-search.php:198 includes/header-advanced-search.php:218
+#: includes/header-advanced-search.php:541
+#: includes/widgets/ct-widget-listingssearch.php:209
+msgid "To"
+msgstr "ต้อง"
+
+#: includes/advanced-search.php:226 includes/advanced-search.php:227
+#: includes/header-advanced-search.php:283
+#: includes/header-advanced-search.php:284
+#: includes/header-advanced-search.php:605
+#: includes/header-advanced-search.php:606
+#: includes/widgets/ct-widget-listingssearch.php:237
+#: includes/widgets/ct-widget-listingssearch.php:238
+msgid "MLS ID"
+msgstr "MLS หมายเลข"
+
+#: includes/advanced-search.php:248 includes/header-advanced-search.php:309
+#: includes/header-advanced-search.php:627
+#: includes/header-advanced-search.php:628
+msgid "Keyword"
+msgstr "คำค้น"
+
+#: includes/advanced-search.php:249 includes/header-advanced-search.php:310
+msgid "Street, City, State, Zip or keyword"
+msgstr "ถนนในเมืองของรัฐ,Zip หรือคำค้น"
+
+#: includes/advanced-search.php:265
+#: includes/widgets/ct-widget-listingssearch.php:275
+msgid "More Search Options"
+msgstr "ตัวเลือกการค้นหาเพิ่มเติม"
+
+#: includes/agent-contact-modal.php:21 includes/single-listing-home.php:269
+#: includes/widgets/ct-widget-listingscontact.php:30
+msgid "Tell me more about this property"
+msgstr "บอกฉันอีกเกี่ยวกับบ้านหลังนี้"
+
+#: includes/featured-listings.php:31 includes/featured-listings.php:33
+msgid "View All"
+msgstr "มุมมองทั้"
+
+#: includes/header-advanced-search.php:192
+#: includes/header-advanced-search.php:515
+msgid "Price range:"
+msgstr "ช่วงราคากำหนด:"
+
+#: includes/header-advanced-search.php:194
+#: includes/header-advanced-search.php:230
+#: includes/header-advanced-search.php:267
+#: includes/header-advanced-search.php:517
+#: includes/header-advanced-search.php:553
+#: includes/header-advanced-search.php:589
+#: includes/widgets/ct-widget-listingbooktour.php:198
+msgid "to"
+msgstr "ต้อง"
+
+#: includes/header-advanced-search.php:228
+#: includes/header-advanced-search.php:551
+msgid "Size range:"
+msgstr "ขนาดของระยะ:"
+
+#: includes/header-advanced-search.php:265
+#: includes/header-advanced-search.php:587
+msgid "Lot size range:"
+msgstr "มากขนาดของระยะ:"
+
+#: includes/header-advanced-search.php:312
+#: includes/home-hero-advanced-search.php:22
+msgid "Searching..."
+msgstr "กำลังค้นหา..."
+
+#: includes/header-advanced-search.php:352
+msgid "Enter a street address or keyword"
+msgstr "ป้อนชื่อถนนที่อยู่ของคำค้นหรือ"
+
+#: includes/header-advanced-search.php:468
+msgid "Addtional Features"
+msgstr "Addtional คุณสมบัติต่างๆ"
+
+#: includes/home-hero-advanced-search.php:21
+msgid "Enter Street, City, State, Zip or keyword"
+msgstr "ป้อนชื่อถนนในเมืองของรัฐ,Zip หรือคำค้น"
+
+#: includes/home-listings-count.php:32
+msgid "Homes For Sale"
+msgstr "บ้านสำหรับขาย"
+
+#: includes/home-listings-count.php:84
+msgid "Recently Sold"
+msgstr "เมื่อเร็วๆนี้ขาย"
+
+#: includes/home-listings-count.php:110
+msgid "Reduced"
+msgstr "ลด"
+
+#: includes/home-listings-count.php:136
+msgid "For Rent"
+msgstr "สำหรับค่าเช่า"
+
+#: includes/home-listings-count.php:162
+msgid "Leased"
+msgstr "Leased"
+
+#: includes/home-listings-count.php:214
+msgid "New Additions"
+msgstr "ใหม่ Additions"
+
+#: includes/home-listings-count.php:240
+msgid "Special Offers"
+msgstr "ข้อเสนอพิเศษ"
+
+#: includes/single-listing-attachments.php:20
+#: includes/single-listing-sub-navigation.php:106
+msgid "Attachments"
+msgstr "สิ่งที่แนบมาด้วย"
+
+#: includes/single-listing-booking-calendar.php:17
+#: includes/single-listing-home.php:155
+msgid "Book this listing"
+msgstr "หนังสืบฟัง"
+
+#: includes/single-listing-contact.php:106
+msgid "Agent #"
+msgstr ""
+
+#: includes/single-listing-contact.php:203 includes/single-listing-home.php:265
+msgid "Request More Information"
+msgstr "การร้องขอข้อมูลมากกว่านี้"
+
+#: includes/single-listing-contact.php:216
+#: includes/single-listing-lead-media-with-contact.php:140
+msgid "Tell me more about this listing"
+msgstr "บอกฉันมากกว่าเรื่องนี้การเรียกรายการ"
+
+#: includes/single-listing-contact.php:257 includes/single-listing-home.php:296
+msgid "Co-listing Agent"
+msgstr "เพื่อนร่วมการเรียกรายการเจ้าหน้าที่"
+
+#: includes/single-listing-ct-idx-pro-info.php:60
+msgid "Overview"
+msgstr "มุมมองภาพรวม"
+
+#: includes/single-listing-ct-idx-pro-info.php:77
+msgid "Sold Date"
+msgstr "ขายเดท"
+
+#: includes/single-listing-ct-idx-pro-info.php:99
+msgid "Style"
+msgstr "รูปแบบ"
+
+#: includes/single-listing-ct-idx-pro-info.php:110
+msgid "Year Built"
+msgstr "ปีที่สร้างขึ้น"
+
+#: includes/single-listing-ct-idx-pro-info.php:121
+msgid "Fencing"
+msgstr "ฟันดา"
+
+#: includes/single-listing-ct-idx-pro-info.php:132
+msgid "Topography"
+msgstr "Topography"
+
+#: includes/single-listing-ct-idx-pro-info.php:143
+msgid "Exterior"
+msgstr "ดีดี"
+
+#: includes/single-listing-ct-idx-pro-info.php:154
+msgid "Parking/Garage"
+msgstr "ลานจอดรถ/โรงรถ"
+
+#: includes/single-listing-ct-idx-pro-info.php:165
+msgid "Parking/Garage Spaces"
+msgstr "ลานจอดรถ/โรงรถช่องว่าง"
+
+#: includes/single-listing-ct-idx-pro-info.php:176
+msgid "Heating"
+msgstr "ร้อน"
+
+#: includes/single-listing-ct-idx-pro-info.php:187
+msgid "Heat Source"
+msgstr "แหล่งความร้อน"
+
+#: includes/single-listing-ct-idx-pro-info.php:198
+msgid "Cooling"
+msgstr "ทางใจเย็น"
+
+#: includes/single-listing-ct-idx-pro-info.php:209
+msgid "Water"
+msgstr "น้ำ"
+
+#: includes/single-listing-ct-idx-pro-info.php:220
+msgid "Sewer/Septic"
+msgstr "ท่อน้ำเสียบ้าง/ปุ๋ย"
+
+#: includes/single-listing-ct-idx-pro-info.php:235
+#: includes/single-listing-sub-navigation.php:87
+msgid "Features"
+msgstr "คุณสมบัติต่างๆ"
+
+#: includes/single-listing-ct-idx-pro-info.php:241
+msgid "Equipment"
+msgstr "อุปกรณ์"
+
+#: includes/single-listing-ct-idx-pro-info.php:252
+msgid "Fireplace"
+msgstr "เตาผิง"
+
+#: includes/single-listing-ct-idx-pro-info.php:263
+msgid "Number of Fireplaces"
+msgstr "จำนวนของ Fireplaces"
+
+#: includes/single-listing-ct-idx-pro-info.php:274
+msgid "Pool"
+msgstr "สระว่ายน้ำ"
+
+#: includes/single-listing-ct-idx-pro-info.php:296
+msgid "Security"
+msgstr "รปภ."
+
+#: includes/single-listing-ct-idx-pro-info.php:307
+msgid "Floor Coverings"
+msgstr "ชั้น Coverings"
+
+#: includes/single-listing-ct-idx-pro-info.php:321
+#: includes/single-listing-ct-idx-pro-info.php:327
+msgid "HOA"
+msgstr "HOA"
+
+#: includes/single-listing-ct-idx-pro-info.php:338
+msgid "HOA Fee Due"
+msgstr "HOA ค่าจ้างวัน"
+
+#: includes/single-listing-ct-idx-pro-info.php:349
+msgid "HOA Includes"
+msgstr "HOA รวมถึงการ"
+
+#: includes/single-listing-energy-efficiency.php:21
+msgid "Energy Efficiency"
+msgstr "พลังงานให้เกิดประสิทธิภาพ"
+
+#: includes/single-listing-energy-efficiency.php:26
+msgid "Energy Class"
+msgstr "พลังงานชั้นเรียน"
+
+#: includes/single-listing-energy-efficiency.php:29
+msgid "Global Energy Performance"
+msgstr "โกลบอลพลังงานการแสดง"
+
+#: includes/single-listing-energy-efficiency.php:32
+msgid "Renewable Energy Performance"
+msgstr "Renewable พลังงานการแสดง"
+
+#: includes/single-listing-energy-efficiency.php:35
+msgid "Building Energy Performance"
+msgstr "ตึกพลังงานการแสดง"
+
+#: includes/single-listing-google-places.php:23
+#: includes/single-listing-yelp.php:23
+#: admin/ReduxFramework/theme-options/re7-config.php:3719
+msgid "What's Nearby?"
+msgstr "What\\'s อยู่ใกล้ๆบ้างมั้ย?"
+
+#: includes/single-listing-google-places.php:66
+#: includes/single-listing-yelp.php:41
+msgid "Restaurants"
+msgstr "ร้านอาหาร"
+
+#: includes/single-listing-google-places.php:75
+#: includes/single-listing-yelp.php:49
+msgid "Coffee Shops"
+msgstr "ร้านกาแฟ"
+
+#: includes/single-listing-google-places.php:84
+#: includes/single-listing-yelp.php:121
+msgid "Stores"
+msgstr "ร้าน"
+
+#: includes/single-listing-google-places.php:93
+#: includes/single-listing-yelp.php:65
+msgid "Education"
+msgstr "การศึกษา"
+
+#: includes/single-listing-google-places.php:102
+msgid "Banks"
+msgstr "ธนาคาร"
+
+#: includes/single-listing-google-places.php:111
+#: includes/single-listing-yelp.php:81
+msgid "Bars"
+msgstr "ลูกกรง"
+
+#: includes/single-listing-google-places.php:120
+#: includes/single-listing-yelp.php:89
+msgid "Hospitals"
+msgstr "โรงพยาบาล"
+
+#: includes/single-listing-google-places.php:129
+#: includes/single-listing-yelp.php:97
+msgid "Gas Stations"
+msgstr "ปั๊มน้ำมัน"
+
+#: includes/single-listing-google-places.php:138
+#: includes/single-listing-yelp.php:105
+msgid "Transit Stations"
+msgstr "ระหว่างเดินทาสถานี"
+
+#: includes/single-listing-google-places.php:147
+#: includes/single-listing-yelp.php:113
+msgid "Convenience Stores"
+msgstr "ละวาดร้านสะดวกซื้อ"
+
+#: includes/single-listing-google-places.php:156
+#: includes/single-listing-yelp.php:129
+msgid "Shopping Malls"
+msgstr "ซื้อของห้าง"
+
+#: includes/single-listing-google-places.php:165
+#: includes/single-listing-yelp.php:137
+msgid "Veterinary Care"
+msgstr "Veterinary สนใจ"
+
+#: includes/single-listing-google-places.php:174
+#: includes/single-listing-yelp.php:145
+msgid "Pet Store"
+msgstr "ร้านขายสัตว์เลี้ยง"
+
+#: includes/single-listing-google-places.php:183
+#: includes/single-listing-yelp.php:153
+msgid "Park"
+msgstr "วนสาธารณะ"
+
+#: includes/single-listing-google-places.php:196
+msgid "Google Places/What's Nearby? Error."
+msgstr "ของกูเกิ้ลสถานที่/อะไร\\'s อยู่ใกล้ๆบ้างมั้ย? ข้อผิดพลาด"
+
+#: includes/single-listing-google-places.php:197
+msgid ""
+"You need to create an API key go into Admin > Real Estate 7 Options > Google "
+"Maps > API Key, then setup the options via Real Estate 7 Options > \"What's "
+"Nearby?\" panel."
+msgstr ""
+"คุณต้องการจะสร้างรูปแบบ api กุญแจเข้าไปในแอดมิ>ขายอสังหาริมทรัพย์ที่ 7 "
+"ตัวเลือก>ของกูเกิ้ลแผนที่>รูปแบบ api "
+"กุญแจแล้วตั้งค่าตัวเลือกผ่านทางอสังหาริมทรัพย์ 7 ตัวเลือก>\"What\\'s "
+"อยู่ใกล้ๆบ้างมั้ย?\"พาแนล"
+
+#: includes/single-listing-header.php:33 includes/single-listing-header.php:76
+#: includes/single-listing-home.php:74
+msgid "Co-listing"
+msgstr "เพื่อนร่วมการเรียกรายการ"
+
+#: includes/single-listing-home.php:135
+#: includes/single-listing-rental-info.php:47
+msgid "Prices"
+msgstr "ราคา"
+
+#: includes/single-listing-home.php:365
+msgid "Share This Listing"
+msgstr "ร่วมเรียกรายการ"
+
+#: includes/single-listing-lead-media-with-contact.php:166
+msgid "Request Information"
+msgstr "การร้องขอข้อมูล"
+
+#: includes/single-listing-map.php:27
+msgid "Enter your starting address"
+msgstr "ป้อนชื่อของคุณเริ่มที่อยู่"
+
+#: includes/single-listing-map.php:43
+msgid "get directions"
+msgstr "ขอไปถามเส้นทางหน่อ"
+
+#: includes/single-listing-multi-floorplan.php:21
+msgid "Floor Plans & Pricing"
+msgstr "ชั้นมีแผน "
+
+#: includes/single-listing-multi-floorplan.php:40
+msgid "Size"
+msgstr "ขนาด"
+
+#: includes/single-listing-multi-floorplan.php:46
+msgid "Availability"
+msgstr "ตั้งค่าโครงการ"
+
+#: includes/single-listing-open-house.php:35
+msgid "Time"
+msgstr "เวลา"
+
+#: includes/single-listing-open-house.php:38
+#: includes/single-listing-open-house.php:80
+msgid "RSVP"
+msgstr "Rsvp@title:column attendee delegated to"
+
+#: includes/single-listing-propinfo.php:18
+msgid "MLS #"
+msgstr ""
+
+#: includes/single-listing-propinfo.php:20
+msgid "Property ID #"
+msgstr ""
+
+#: includes/single-listing-rental-info.php:25
+msgid "Rental Information"
+msgstr "เช่าองข้อมูล"
+
+#: includes/single-listing-sub-listings.php:21
+msgid "Other Listings in Neighborhood"
+msgstr "อีก Listings อยู่ในละแวกบ้าน"
+
+#: includes/single-listing-sub-listings.php:23
+msgid "Other Listings in Suburb"
+msgstr "อีก Listings ใน Suburb"
+
+#: includes/single-listing-sub-listings.php:25
+msgid "Other Listings in District"
+msgstr "อีก Listings อยู่ในเขต"
+
+#: includes/single-listing-sub-listings.php:27
+msgid "Other Listings in School District"
+msgstr "อีก Listings ในโรงเรียน"
+
+#: includes/single-listing-sub-listings.php:29
+msgid "Other Listings in Building"
+msgstr "อีก Listings อยู่ในตึก"
+
+#: includes/single-listing-sub-listings.php:31
+msgid "Other Listings in Borough"
+msgstr "อีก Listings ใน Borough"
+
+#: includes/single-listing-sub-listings.php:33
+msgid "Other Listings in Community"
+msgstr "อีก Listings ในชุมชน"
+
+#: includes/single-listing-sub-navigation.php:34
+msgid "Description"
+msgstr "รายละเอียด"
+
+#: includes/single-listing-sub-navigation.php:61
+msgid "Floor Plans"
+msgstr "ชั้นมีแผน"
+
+#: includes/single-listing-sub-navigation.php:96
+msgid "Booking"
+msgstr "จอง"
+
+#: includes/single-listing-sub-navigation.php:117
+#: includes/single-listing-video.php:16
+msgid "Video"
+msgstr "วิดีโอ"
+
+#: includes/single-listing-sub-navigation.php:127
+msgid "Tour"
+msgstr "ทัวร์"
+
+#: includes/single-listing-sub-navigation.php:142
+msgid "Nearby"
+msgstr "อยู่ใกล้ๆ"
+
+#: includes/single-listing-sub-navigation.php:163
+msgid "Listing Features"
+msgstr "เรียกรายการที่มีคุณสมบัติ"
+
+#: includes/single-listing-virtual-tour.php:19
+msgid "Virtual Tour"
+msgstr "เสมือนทัวร์"
+
+#: includes/single-listing-yelp.php:22
+msgid "powered by "
+msgstr "พลังงานโดย "
+
+#: includes/single-listing-yelp.php:57
+msgid "Grocery"
+msgstr "ซื้อของของ"
+
+#: includes/single-listing-yelp.php:73
+msgid "Bank"
+msgstr "ธนาคาร"
+
+#: layouts/blog-grid.php:96 layouts/blog-large.php:96
+msgid "Read More"
+msgstr "อ่านมากกว่า"
+
+#: layouts/grid.php:22 layouts/list.php:23
+msgid "This agent currently has no active listings."
+msgstr "นี่เจ้าหน้าที่อยู่ในปัจจุบันไม่มีงาน listings."
+
+#: layouts/grid.php:24 layouts/list.php:25
+msgid "This brokerage currently has no active listings."
+msgstr "นี่ brokerage ปัจจุบันไม่มีงาน listings."
+
+#: layouts/grid.php:26 layouts/list.php:27
+msgid "No properties were found which match your search criteria"
+msgstr "ไม่มีคุณสมบัติถูกพบที่เข้าคู่กับเงื่อนไขค้นหาของคุณ"
+
+#: layouts/saved-search-list.php:57 includes/widgets/ct-widget-tabs.php:214
+msgid "on"
+msgstr "บ"
+
+#: layouts/saved-search-list.php:57
+msgid "On"
+msgstr "บ"
+
+#: layouts/saved-search-list.php:58
+msgid "off"
+msgstr "อ"
+
+#: layouts/saved-search-list.php:58
+msgid "Off"
+msgstr "อ"
+
+#: admin/ct-social/ct-social.php:28
+msgid "CT Social"
+msgstr "CT ระกันสังคม"
+
+#: admin/ct-social/ct-social.php:125
+#: includes/widgets/ct-widget-agentinfo.php:106
+#: includes/widgets/ct-widget-agentsotherlistings.php:287
+#: includes/widgets/ct-widget-blogauthor.php:60
+#: includes/widgets/ct-widget-brokerinfo.php:78
+#: includes/widgets/ct-widget-contactinfo.php:140
+#: includes/widgets/ct-widget-latestposts.php:70
+#: includes/widgets/ct-widget-listings.php:130
+#: includes/widgets/ct-widget-listingscontact.php:68
+#: includes/widgets/ct-widget-listingssearch.php:299
+#: includes/widgets/ct-widget-search.php:40
+#: includes/widgets/ct-widget-testimonials.php:62
+msgid "Title:"
+msgstr "หัวเรื่อง:"
+
+#: admin/ct-social/ct-social.php:129
+msgid "Dribbble:"
+msgstr "Dribbble:"
+
+#: admin/ct-social/ct-social.php:133
+#: includes/widgets/ct-widget-contactinfo.php:176
+msgid "Email:"
+msgstr "อีเมล:"
+
+#: admin/ct-social/ct-social.php:137
+#: includes/widgets/ct-widget-contactinfo.php:180
+msgid "Facebook:"
+msgstr "Facebook:"
+
+#: admin/ct-social/ct-social.php:141
+msgid "Flickr:"
+msgstr "Flickr:"
+
+#: admin/ct-social/ct-social.php:145
+msgid "Foursquare:"
+msgstr "Foursquare:"
+
+#: admin/ct-social/ct-social.php:149
+msgid "GitHub:"
+msgstr "GitHub:"
+
+#: admin/ct-social/ct-social.php:153
+#: includes/widgets/ct-widget-contactinfo.php:196
+msgid "Instagram:"
+msgstr "Instagram:"
+
+#: admin/ct-social/ct-social.php:157
+#: includes/widgets/ct-widget-contactinfo.php:188
+msgid "LinkedIn:"
+msgstr "LinkedIn:"
+
+#: admin/ct-social/ct-social.php:161
+msgid "Medium:"
+msgstr "ปานกลาง:"
+
+#: admin/ct-social/ct-social.php:165
+#: includes/widgets/ct-widget-contactinfo.php:192
+msgid "Pinterest:"
+msgstr "Pinterest:"
+
+#: admin/ct-social/ct-social.php:169
+msgid "Skype:"
+msgstr "สไกป์กัน:"
+
+#: admin/ct-social/ct-social.php:173
+#: includes/widgets/ct-widget-contactinfo.php:184
+msgid "Twitter:"
+msgstr "ทวิตเตอร์:"
+
+#: admin/ct-social/ct-social.php:177
+msgid "YouTube:"
+msgstr "ยอดวิวในยูทูป:"
+
+#: admin/ct-social/ct-social.php:181
+msgid "Links:"
+msgstr "ที่อยู่เชื่อมโยง:"
+
+#: admin/getting-started/getting-started.php:91
+#, php-format
+msgid "Getting started with %1$s v%2$s"
+msgstr "เริ่มกับ%1$s วี%2$s"
+
+#: admin/getting-started/getting-started.php:93
+#, php-format
+msgid ""
+"Thanks for purchasing %1$s! I truly appreciate the support and the "
+"opportunity to share my work with you. Please visit the tabs below to get "
+"started setting up your theme!"
+msgstr ""
+"ขอบคุณสำหรับคุณซื้%1$s! "
+"ฉันจริงๆขอบคุณที่สนับสนุนและโอกาสที่จะแบ่งปันของฉันทำงานกับคุณ "
+"ได้โปรดเยี่ยมที่แท็บด้านล่างนี้เพื่อเริ่มการตั้งค่าขึ้ดแปลงชุดตกแต่งของคุณ!"
+
+#: admin/getting-started/getting-started.php:99
+msgid "Start Here"
+msgstr "เริ่มต้นที่นี่"
+
+#: admin/getting-started/getting-started.php:100
+msgid "Plugins"
+msgstr "โปรแกรมเสริม"
+
+#: admin/getting-started/getting-started.php:101
+msgid "FAQ &amp; Support"
+msgstr "FAQ "
+
+#: admin/getting-started/getting-started.php:102
+msgid "Latest Updates"
+msgstr "ปรับปรุงล่าสุด"
+
+#: admin/getting-started/getting-started.php:110
+#, php-format
+msgid "Installing %s"
+msgstr "กำลังติดตั้ง%s"
+
+#: admin/getting-started/getting-started.php:116
+#: admin/ReduxFramework/theme-options/re7-config.php:5260
+msgid "Documentation"
+msgstr "เอกสารคู่มือ@info:shell"
+
+#: admin/getting-started/getting-started.php:170
+msgid "Required & Recommended Plugins"
+msgstr "ต้องการ "
+
+#: admin/getting-started/getting-started.php:172
+msgid ""
+"Below is a list of required and recommended plugins to install that will "
+"help you get the most out of WP Pro Real Estate 7. To begin please use the "
+"button below or browse through the list to learn about each one in a little "
+"more detail."
+msgstr ""
+"ด้านล่างคือรายชื่อของต้องการและแนะนำโปรแกรมเสริมที่ติดตั้งมันจะช่วยคุณให้ได้มากที่สุดออกจาก"
+" WP มืออาชีพขายอสังหาริมทรัพย์ที่ 7. "
+"จะเริ่มกันโปรดใช้ปุ่มทางด้านล่างนี้หรือเลือกผ่านรายชื่อที่จะเรียนรู้เกี่ยวกับแต่ละคนในหน่อยอีกรายละเอียด"
+
+#: admin/getting-started/getting-started.php:178
+#: admin/getting-started/getting-started.php:190
+#: admin/plugins/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr "ต้องการ"
+
+#: admin/getting-started/getting-started.php:178 admin/plugins/register.php:66
+msgid "Redux Framework"
+msgstr "Redux เฟรมเวิร์ก"
+
+#: admin/getting-started/getting-started.php:180
+msgid "Install Redux Framework"
+msgstr "ติดตั้ง Redux เฟรมเวิร์ก"
+
+#: admin/getting-started/getting-started.php:180
+#: admin/getting-started/getting-started.php:192
+#: admin/getting-started/getting-started.php:204
+#: admin/getting-started/getting-started.php:216
+#: admin/getting-started/getting-started.php:228
+#: admin/getting-started/getting-started.php:240
+#: admin/getting-started/getting-started.php:252
+#: admin/getting-started/getting-started.php:264
+#: admin/getting-started/getting-started.php:276
+#: admin/getting-started/getting-started.php:288
+#: admin/getting-started/getting-started.php:300
+#: admin/getting-started/getting-started.php:315
+#: admin/getting-started/getting-started.php:327
+#: admin/getting-started/getting-started.php:339
+#: admin/getting-started/getting-started.php:351
+#: admin/getting-started/getting-started.php:363
+#: admin/getting-started/getting-started.php:375
+#: admin/getting-started/getting-started.php:387
+msgid "Install Now"
+msgstr "ติดตั้งตอนนี้"
+
+#: admin/getting-started/getting-started.php:182
+#: admin/getting-started/getting-started.php:194
+#: admin/getting-started/getting-started.php:206
+#: admin/getting-started/getting-started.php:218
+#: admin/getting-started/getting-started.php:230
+#: admin/getting-started/getting-started.php:242
+#: admin/getting-started/getting-started.php:254
+#: admin/getting-started/getting-started.php:266
+#: admin/getting-started/getting-started.php:278
+#: admin/getting-started/getting-started.php:290
+#: admin/getting-started/getting-started.php:302
+#: admin/getting-started/getting-started.php:317
+#: admin/getting-started/getting-started.php:329
+#: admin/getting-started/getting-started.php:341
+#: admin/getting-started/getting-started.php:353
+#: admin/getting-started/getting-started.php:365
+#: admin/getting-started/getting-started.php:377
+#: admin/getting-started/getting-started.php:389
+msgid "Installed"
+msgstr "ติดตั้ง"
+
+#: admin/getting-started/getting-started.php:186
+msgid "This plugin is used for the admin options framework."
+msgstr "ส่วนเสริมนี้ใช้สำหรับผู้ดูแดตัวเลือกส่วนเฟรมเวิร์ก."
+
+#: admin/getting-started/getting-started.php:190 admin/plugins/register.php:72
+msgid "Contempo Real Estate Custom Posts"
+msgstr "Contempo อสังหาริมทรัพย์กำหนดเองกัปตัน..เสาทางนี้"
+
+#: admin/getting-started/getting-started.php:192
+msgid "Install Contempo Real Estate Custom Posts"
+msgstr "ติดตั้ง Contempo อสังหาริมทรัพย์กำหนดเองกัปตัน..เสาทางนี้"
+
+#: admin/getting-started/getting-started.php:198
+msgid ""
+"This plugin registers the listings, brokerages & testimonials custom post "
+"types, along with related custom fields & taxonomies, as well as all the "
+"custom Visual Composer modules (if you have the Visual Composer plugin "
+"installed & activated)."
+msgstr "ส่วนเสริมนี้ใช้สำหรับลงทะเบียน listings,brokerages "
+
+#: admin/getting-started/getting-started.php:202
+#: admin/getting-started/getting-started.php:214
+#: admin/getting-started/getting-started.php:226
+#: admin/getting-started/getting-started.php:238
+#: admin/getting-started/getting-started.php:250
+#: admin/getting-started/getting-started.php:262
+#: admin/getting-started/getting-started.php:274
+#: admin/getting-started/getting-started.php:286
+#: admin/getting-started/getting-started.php:298
+#: admin/getting-started/getting-started.php:313
+#: admin/getting-started/getting-started.php:325
+#: admin/getting-started/getting-started.php:337
+#: admin/getting-started/getting-started.php:349
+#: admin/getting-started/getting-started.php:361
+#: admin/getting-started/getting-started.php:373
+#: admin/getting-started/getting-started.php:385
+#: admin/plugins/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr "แนะนำ"
+
+#: admin/getting-started/getting-started.php:202 admin/plugins/register.php:132
+msgid "Contempo Membership & Packages"
+msgstr "Contempo สมาชิก "
+
+#: admin/getting-started/getting-started.php:204
+msgid "Install Contempo Membership & Packages"
+msgstr "ติดตั้ง Contempo สมาชิก "
+
+#: admin/getting-started/getting-started.php:210
+msgid ""
+"This plugin adds the ability to create membership & packages for use with "
+"the front end submission system in WP Pro Real Estate 7, with Stripe, PayPal "
+"& Wire Transfer payment methods."
+msgstr "ส่วนเสริมนี้ใช้สำหรับเพิ่มความสามารถที่จะสร้างสมาชิก "
+
+#: admin/getting-started/getting-started.php:214 admin/plugins/register.php:176
+msgid "Contempo Saved Searches & Email Alerts"
+msgstr "Contempo ช่วยค้นหา "
+
+#: admin/getting-started/getting-started.php:216
+msgid "Install Contempo Saved Searches & Email Alerts"
+msgstr "ติดตั้ง Contempo ช่วยค้นหา "
+
+#: admin/getting-started/getting-started.php:222
+msgid "This plugin allows users be alerted via email when a listing is added."
+msgstr ""
+"ส่วนเสริมนี้ใช้สำหรับอนุญาตให้ผู้ใช้จะเตือนผ่านทางอีเมลเมื่อมีการเรียกรายการก็คือเพิ่มเติม"
+
+#: admin/getting-started/getting-started.php:226 admin/plugins/register.php:165
+msgid "Contempo Compare Listings"
+msgstr "Contempo เปรียบเทียบ Listings"
+
+#: admin/getting-started/getting-started.php:228
+#: admin/getting-started/getting-started.php:252
+msgid "Install Contempo Compare Listings"
+msgstr "ติดตั้ง Contempo เปรียบเทียบ Listings"
+
+#: admin/getting-started/getting-started.php:234
+msgid "This plugin adds compare functionality for listings."
+msgstr "ส่วนเสริมนี้ใช้สำหรับเพิ่มเปรียบเทียบ functionality สำหรับ listings."
+
+#: admin/getting-started/getting-started.php:238 admin/plugins/register.php:154
+msgid "Contempo Mortgage Calculator Widget"
+msgstr "Contempo ค่าจำนองบ้านเครื่องคิดเลขวิดเจ็ต"
+
+#: admin/getting-started/getting-started.php:240
+msgid "Install Contempo Mortgage Calculator Widget"
+msgstr "ติดตั้ง Contempo ค่าจำนองบ้านเครื่องคิดเลขวิดเจ็ต"
+
+#: admin/getting-started/getting-started.php:246
+msgid "This plugin enables a simple mortgage calculator widget."
+msgstr ""
+"ส่วนเสริมนี้ใช้สำหรับเปิดใช้เป็นค่าจำนองบ้านเรียบง่ายเครื่องคิดเลขวิดเจ็ต."
+
+#: admin/getting-started/getting-started.php:250 admin/plugins/register.php:187
+msgid "Contempo Child Theme Generator"
+msgstr "Contempo เด็กชุดตกแต่งเครื่องมือสร้าง"
+
+#: admin/getting-started/getting-started.php:258
+msgid ""
+"This plugin allows admin users to easily generate a child theme from your "
+"Admin > Appearance panel."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+"ส่วนเสริมนี้ใช้สำหรับอนุญาตให้แอดมิผู้ใช้ที่จะได้สร้างเด็กน้องชุดตกแต่งออกจากแอดมิ"
+">รูปลักษณ์ร้อน"
+msgstr[1] ""
+
+#: admin/getting-started/getting-started.php:262
+msgid "Contempo Payment Gateways"
+msgstr "Contempo เงิ Gateways"
+
+#: admin/getting-started/getting-started.php:264
+msgid "Install Contempo Payment Gateways"
+msgstr "ติดตั้ง Contempo เงิ Gateways"
+
+#: admin/getting-started/getting-started.php:270
+msgid ""
+"This plugin enables the PayPal API and only required if you're going to be "
+"charging single listing payments from the front end of the site, if you're "
+"using the Membership & Packages plugin leave this plugin deactivated."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+"ส่วนเสริมนี้ใช้สำหรับเปิดใช้การ PayPal รูปแบบ api "
+"และเพียงต้องการถ้าคุณ\\'ลังจะตั้งข้อหาเดียวเรียกรายการจ่ายเงินจากที่ด้านหน้าของเว็บถ้าเธอ\\'ลังใช้สมาชิก"
+" "
+msgstr[1] ""
+
+#: admin/getting-started/getting-started.php:274 admin/plugins/register.php:198
+msgid "Slider Revolution"
+msgstr "แถบเลื่อนการปฏิวัติ"
+
+#: admin/getting-started/getting-started.php:276
+msgid "Install Slider Revolution"
+msgstr "ติดตั้งแถบเลื่อนการปฏิวัติ"
+
+#: admin/getting-started/getting-started.php:282
+msgid ""
+"Slider Revolution is an innovative, responsive WordPress Slider Plugin that "
+"displays your content the beautiful way."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+"แถบเลื่อนการปฏิวัติคือเป็น innovative,ตอบสนองได้แล้ WordPress "
+"ดบอกระดับบนแถบเลื่อนส่วนเสริมนั่นแสดงเนื้อหาของคุณที่สวยงามนะ"
+msgstr[1] ""
+
+#: admin/getting-started/getting-started.php:286
+msgid "Visual Composer"
+msgstr "ภาพเขียนจดหมายมาตรฐาน"
+
+#: admin/getting-started/getting-started.php:288
+msgid "Install Visual Composer"
+msgstr "ติดตั้งชุดภาพเขียนจดหมายมาตรฐาน"
+
+#: admin/getting-started/getting-started.php:294
+msgid ""
+"WordPress Page Builder plugin with intuitive drag and drop interface. Build "
+"any page fast and easy. Unlimited layouts for your website."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+"WordPress หน้าสร้างโปรแกรมเสริมกับ intuitive ลากและวางเพื่อเชื่อมต่อ. "
+"สร้างมีหน้าอย่างรวดเร็วและง่ายเลย "
+"ไม่จำกัดเลือกรูปแบบชื่อแฟ้มสำหรับเว็บไซต์ของคุณ"
+msgstr[1] ""
+
+#: admin/getting-started/getting-started.php:298
+msgid "WPML"
+msgstr "WPML"
+
+#: admin/getting-started/getting-started.php:300
+msgid "Install WPML"
+msgstr "ติดตั้ง WPML"
+
+#: admin/getting-started/getting-started.php:308
+#, php-format
+msgid ""
+"<a href=\"%s\" target=\"_blank\">WPML</a> allows running fully multilingual "
+"websites with WordPress, making it easy to translate WordPress pages, posts, "
+"tags, categories and themes."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/getting-started/getting-started.php:313
+#: admin/getting-started/getting-started.php:337 admin/plugins/register.php:86
+msgid "WordPress Social Login"
+msgstr "WordPress ระกันสังคมการล็อกอิน"
+
+#: admin/getting-started/getting-started.php:315
+#: admin/getting-started/getting-started.php:327
+msgid "Install WP Favorite Posts"
+msgstr "ติดตั้ง WP นโปรดของกัปตัน..เสาทางนี้"
+
+#: admin/getting-started/getting-started.php:321
+msgid ""
+"This plugin allows users to login/register with their social profiles like "
+"Facebook, Google, Twitter, etc&hellip;"
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+"ส่วนเสริมนี้ใช้สำหรับอนุญาตให้ผู้ใช้ต้องการล็อกอิน/ลงทะเบียนกับพวกสังคมโพรไฟล์เหมือน"
+" Facebook,ของกูเกิ้ล,ทวิตเตอร์,etc"
+msgstr[1] ""
+
+#: admin/getting-started/getting-started.php:325 admin/plugins/register.php:121
+#: admin/ReduxFramework/theme-options/re7-config.php:4827
+msgid "WP Favorite Posts"
+msgstr "WP นโปรดของกัปตัน..เสาทางนี้"
+
+#: admin/getting-started/getting-started.php:333
+msgid ""
+"This plugin allows users to favorite & save listings from the front end of "
+"the site."
+msgstr "ส่วนเสริมนี้ใช้สำหรับอนุญาตให้ผู้ใช้ที่โปรดของ "
+
+#: admin/getting-started/getting-started.php:339
+msgid "Install WordPress Social Login"
+msgid_plural "Begin installing plugins"
+msgstr[0] "ติดตั้ง WordPress ระกันสังคมการล็อกอิน"
+msgstr[1] ""
+
+#: admin/getting-started/getting-started.php:345
+msgid ""
+"This plugin allows users to login/register for your site via social networks "
+"like Facebook, Google, Twitter, etc&hellip;"
+msgstr ""
+"ส่วนเสริมนี้ใช้สำหรับอนุญาตให้ผู้ใช้ต้องการล็อกอิน/ลงทะเบียนสำหรับเว็บไซต์ของคุณผ่านทางเครือข่ายทางสังคมเหมือน"
+" Facebook,ของกูเกิ้ล,ทวิตเตอร์,etc"
+
+#: admin/getting-started/getting-started.php:349 admin/plugins/register.php:92
+msgid "Booking Calendar"
+msgstr "จองปฏิทิน"
+
+#: admin/getting-started/getting-started.php:351
+msgid "Install Booking Calendar"
+msgid_plural "Begin updating plugins"
+msgstr[0] "ติดตั้งจองปฏิทิน"
+msgstr[1] ""
+
+#: admin/getting-started/getting-started.php:357
+msgid ""
+"This plugin will enable online booking services, however you're free to use "
+"whatever booking plugin you'd like as long as it supports shortcodes."
+msgstr ""
+"ส่วนเสริมนี้จะเปิดใช้งานออนไลน์จองบริการอย่างไรก็ตามคุณ\\'ลัอิสระที่จะใช้อะไรก็ตามจองโปรแกรมเสริมคุณ\\'d"
+" เหมือนตราบใดที่มันสนับสนุน shortcodes."
+
+#: admin/getting-started/getting-started.php:361 admin/plugins/register.php:98
+msgid "Co-Authors Plus"
+msgstr "เพื่อนร่วมนักเขียนอีกอย่าง"
+
+#: admin/getting-started/getting-started.php:363
+msgid "Install Co-Authors Plus"
+msgid_plural "Begin activating plugins"
+msgstr[0] "ติดตั้งเพื่อนร่วมนักเขียนอีกอย่าง"
+msgstr[1] ""
+
+#: admin/getting-started/getting-started.php:369
+msgid ""
+"This plugin allows you to assign multiple users or agents to listings, "
+"perfect for co-listings."
+msgstr ""
+"ส่วนเสริมนี้ใช้สำหรับอนุญาตให้คุณกำหนดหลายผู้ใช้หรือเจ้าหน้าที่ต้อง listings "
+"เฟคสำหรับเพื่อนร่วม listings."
+
+#: admin/getting-started/getting-started.php:373 admin/plugins/register.php:104
+msgid "Comments Ratings"
+msgstr "หมายเหตุระดับความชื่นชอบ"
+
+#: admin/getting-started/getting-started.php:375
+msgid "Install Comments Ratings"
+msgstr "ติดตั้งระดับความชื่นชอบหมายเหตุ"
+
+#: admin/getting-started/getting-started.php:381
+msgid "This plugin allows you to enable ratings for your listings."
+msgstr ""
+"ส่วนเสริมนี้ใช้สำหรับอนุญาตให้คุณได้เปิดใช้งานระดับความชื่นชอบสำหรับของคุณ "
+"listings."
+
+#: admin/getting-started/getting-started.php:385 admin/plugins/register.php:220
+msgid "Envato Market"
+msgstr "Envato ตลาด"
+
+#: admin/getting-started/getting-started.php:387
+msgid "Install Envato Market"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "ติดตั้ง Envato ตลาด"
+msgstr[1] ""
+
+#: admin/getting-started/getting-started.php:393
+msgid ""
+"This plugin allows you to easily get theme updates through your WordPress "
+"admin."
+msgstr ""
+"ส่วนเสริมนี้ใช้สำหรับอนุญาตให้คุณได้อย่างง่ายดายจัดชุดตกแต่งปรับปรุงผ่านของคุณ"
+" WordPress แอดมิ."
+
+#: admin/getting-started/getting-started.php:402
+#, php-format
+msgid "Support for %s?"
+msgstr "สนับสนุนสำหรับ%s?"
+
+#: admin/getting-started/getting-started.php:408
+#, php-format
+msgid ""
+"If you've read through the <a href=\"%1$s\" target=\"_blank\">"
+"documentation</a> and still have questions or are experiencing issues, I'm "
+"happy to help! Simply <a href=\"%2$s\"  target=\"_blank\" title=\"Open a "
+"live chat\">open a live chat</a> or <a href=\"%3$s\" target=\"_blank\">leave "
+"a comment</a> on the item page and I'll personally get back to you, thanks "
+"in advance for your patience."
+msgstr ""
+
+#: admin/getting-started/getting-started.php:411
+#, php-format
+msgid "FAQ for %s?"
+msgstr "FAQ สำหรับ%s?"
+
+#: admin/getting-started/getting-started.php:414
+msgid ""
+"The following articles below cover many frequently asked questions that you "
+"may have."
+msgstr "ที่ติดตามข่าวด้านล่างหน้าปกหลายคำถามที่ถูกถามบ่อยว่าคุณอาจจะใช่"
+
+#: admin/getting-started/getting-started.php:460
+msgid "Need Modifications or Customizations?"
+msgstr "ต้องการการแก้ไขหรือ Customizations?"
+
+#: admin/getting-started/getting-started.php:465
+#, php-format
+msgid ""
+"Send me an email <a href=\"mailto:%s\">chris@contempothemes.com</a>, with a "
+"detailed outline of what you’d like to accomplish and I’ll get you a quote "
+"and turnaround time."
+msgstr ""
+
+#: admin/getting-started/getting-started.php:474
+#, php-format
+msgid ""
+"Please note that support requests will not be answered via email, only "
+"through my <a href=\"%1$s\" target=\"_blank\">live chat</a> or within the <a "
+"href=\"%2$s\" target=\"_blank\">item comments</a>."
+msgstr ""
+
+#: admin/getting-started/getting-started.php:484
+msgid "Hosting Recommendations"
+msgstr "งานเพิ่มเติม"
+
+#: admin/getting-started/getting-started.php:498
+#: admin/getting-started/getting-started.php:501
+msgid "Visit the Knowledge Base"
+msgstr "ไปเยี่ยมชมความรู้พื้นฐาน"
+
+#: admin/getting-started/getting-started.php:499
+msgid ""
+"New to the WordPress world? The Knowledge Base has a boat load of articles "
+"to help you with any issues that might arise."
+msgstr ""
+"ยังใหม่กั WordPress โลก? "
+"ความรู้พื้นฐานมีเรือรถโหลดของข่าวที่จะช่วยคุณกับปัญหาที่อาจจะลุกขึ้น."
+
+#: admin/getting-started/getting-started.php:501
+msgid "Visit the knowledge base"
+msgstr "ไปเยี่ยมชมความรู้พื้นฐาน"
+
+#: admin/google-places/GooglePlaces.php:149
+#: admin/google-places/GooglePlaces.php:165
+#: admin/google-places/GooglePlaces.php:182
+msgid "Google Places API is currently unavailable."
+msgstr "ของกูเกิ้ลสถานที่รูปแบบ api คือปัจจุบันมีแฟนแล้ว"
+
+#: admin/google-places/GooglePlaces.php:151
+msgid ""
+"You must specify a valid listing location, use street address in the listing "
+"title along with city, state & zip/postcode — if not use the optional "
+"latitude & longitude field."
+msgstr ""
+"คุณต้องกำหนดใช้งานการเรียกรายการตำแหน่งใช้ถนนที่อยู่ในการเรียกรายการหัวเรื่องพร้อมกับเมืองของรัฐ"
+" "
+
+#: admin/google-places/GooglePlaces.php:167
+#: admin/google-places/GooglePlaces.php:207
+msgid ""
+"You much specify at least one of the following: \"keyword\", \"name\", "
+"\"types\"."
+msgstr ""
+"คุณมากสำหรับกำหนดอย่างน้อยหนึ่งจากเกิดข้อผิดพลาดต่อไปนี้:\"คำค้น\",\"ชื่อ\","
+"\"ประเภท\"."
+
+#: admin/google-places/GooglePlaces.php:184
+#: admin/google-places/GooglePlaces.php:201
+msgid "You must specify a radius."
+msgstr "คุณต้องกำหนดหนีไม่พ้นรัศมีหรอก"
+
+#: admin/google-places/GooglePlaces.php:197
+msgid "You must specify a location before calling radarsearch()."
+msgstr "คุณต้องกำหนดตำแหน่งก่อนที่โทรหา radarsearch()."
+
+#: admin/google-places/GooglePlaces.php:221
+msgid ""
+"You must specify either a \"placeid\" or a \"reference\" (but not both) "
+"before calling details()."
+msgstr ""
+"คุณต้องระบุเหมือนกัน\"placeid\"หรือ\"อ้างอิง\"(แต่ไม่ใช่ทั้งสอง)"
+"มาก่อนเรียกรายละเอียด()."
+
+#: admin/plugins/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr "ติดตั้งต้องการโปรแกรมเสริม"
+
+#: admin/plugins/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr "ติดตั้งโปรแกรมเสริม"
+
+#. %s: plugin name.
+#: admin/plugins/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "กำลังติดตั้งโปรแกรมเสริม:%s"
+
+#. %s: plugin name.
+#: admin/plugins/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr "กำลังปรับปรุงส่วนเสริม:%s"
+
+#: admin/plugins/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr "มีบางอย่างผิดพลาดเกิดขึ้นกับส่วนเสริมรูปแบบ api."
+
+#: admin/plugins/class-tgm-plugin-activation.php:341
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgstr "ชุดตกแต่งตัวนี้ต้องการติดตามโปรแกรมเสริม:%1$นคง"
+
+#: admin/plugins/class-tgm-plugin-activation.php:347
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgstr "นี่ชุดตกแต่ง recommends ต่อไปนี้ส่วนเสริม:%1$นคง"
+
+#: admin/plugins/class-tgm-plugin-activation.php:353
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr ""
+"ต่อไปนี้ส่วนเสริมต้องการจะปรับปรุงล่าสุดของรุ่นเพื่อให้แน่ใจว่าสูงสุดที่เข้ากันได้กับกับเรื่องนี้ชุดตกแต่ง"
+":%1$นคง"
+
+#: admin/plugins/class-tgm-plugin-activation.php:359
+#, php-format
+msgid "There is an update available for: %1$s."
+msgstr "นั่นคือการปรับปรุงพร้อมใช้งานสำหรับ:%1$นคง"
+
+#: admin/plugins/class-tgm-plugin-activation.php:365
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgstr "ต่อไปนี้ต้องการส่วนเสริมปัจจุบันเป็นผู้ที่ไม่ได้ทำงานอยู่:%1$นคง"
+
+#: admin/plugins/class-tgm-plugin-activation.php:371
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgstr ""
+"ต่อไปนี้แนะนำให้ใช้โปรแกรมเสริมปัจจุบันเป็นผู้ที่ไม่ได้ทำงานอยู่:%1$นคง"
+
+#: admin/plugins/class-tgm-plugin-activation.php:377
+msgid "Begin installing plugin"
+msgstr "เริ่มติดตั้งโปรแกรมเสริม"
+
+#: admin/plugins/class-tgm-plugin-activation.php:382
+msgid "Begin updating plugin"
+msgstr "เริ่มต้นกำลังปรับปรุงส่วนเสริม"
+
+#: admin/plugins/class-tgm-plugin-activation.php:387
+msgid "Begin activating plugin"
+msgstr "เริ่มระหว่างทำการเรียกใช้โปรแกรมเสริม"
+
+#: admin/plugins/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr "กลับไปที่ต้องการติดตั้งโปรแกรมเสริม"
+
+#: admin/plugins/class-tgm-plugin-activation.php:393
+#: admin/plugins/class-tgm-plugin-activation.php:912
+#: admin/plugins/class-tgm-plugin-activation.php:2618
+#: admin/plugins/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr "กลับไปที่แดชบอร์ด"
+
+#: admin/plugins/class-tgm-plugin-activation.php:394
+#: admin/plugins/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr "เปิดใช้งานโปรแกรมเสริมเรียบร้อยแล้ว"
+
+#: admin/plugins/class-tgm-plugin-activation.php:395
+#: admin/plugins/class-tgm-plugin-activation.php:3037
+msgid "The following plugin was activated successfully:"
+msgstr "ต่อไปนี้ถูกเปิดโปรแกรมเสริมสำเร็จ:"
+
+#. 1: plugin name.
+#: admin/plugins/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "ไม่มีการกระทำแล้ว โปรแกรมเสริม%1$s แล้วการสืบสวนตรงไหน"
+
+#. 1: plugin name.
+#: admin/plugins/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+"ส่วนเสริมไม่ได้ทำงาน เป็นที่สูงขึ้นเวอร์ชั่น%s คือต้องการสำหรับชุดตกแต่งนี้ "
+"ได้โปรดปรับปรุงส่วนเสริม"
+
+#. 1: dashboard link.
+#: admin/plugins/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "ทุกโปรแกรมเสริมที่ติดตั้งและเปิดใช้งานเรียบร้อยแล้ว %1$s"
+
+#: admin/plugins/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+"มีหนึ่งหรือมากกว่าต้องการหรือแนะนำให้ใช้โปรแกรมเสริมที่ติดตั้ง,"
+"ปรับปรุงหรือเปิดใช้งาน."
+
+#: admin/plugins/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr "โปรดติดต่อผู้ดูแลระบบของเว็บไซต์นี้เพื่อช่วย"
+
+#: admin/plugins/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+"ส่วนเสริมนี้ต้องการจะปรับปรุงที่จะได้พูดถึงประเด็นสำคัญกับดแปลงชุดตกแต่งของคุณ"
+"."
+
+#: admin/plugins/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr "ปรับปรุงต้องการ"
+
+#: admin/plugins/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+"รีโมทของแพกเกจโปรแกรมเสริมไม่ได้บรรจุโฟลเดอร์ที่ต้องการปลอกกระสุนและเปลี่ยนชื่อไม่ได้ทำงาน"
+
+#: admin/plugins/class-tgm-plugin-activation.php:1019
+#: admin/plugins/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+"โปรดติดต่อกับโปรแกรมเสริมผู้ให้บริกาและถามพวกเขาต้องห่อของพวกเขาส่วนเสริมตามที่"
+" WordPress กฏ."
+
+#: admin/plugins/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+"รีโมทของแพกเกจโปรแกรมเสริมต้องใช้มากกว่าหนึ่งแฟ้มแต่งแฟ้มไม่ใช่ packaged "
+"อยู่ในโฟลเดอร์"
+
+#: admin/plugins/class-tgm-plugin-activation.php:1206
+#: admin/plugins/class-tgm-plugin-activation.php:3033
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "แล้ว"
+
+#. %s: version number
+#: admin/plugins/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr "TGMPA วี%s"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr "WordPress เก็บ"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr "เว็บเบราว์เซอร์ภายนอกแหล่งข่าว"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr "ก่อน Packaged"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr "ไม่มีการติดตั้ง"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr "ติดตั้งแต่ไม่ได้ทำงาน"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr "ที่ทำงานอยู่"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr "ต้องการปรับปรุงไม่มี"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr "ต้องการปรับปรุง"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr "ปรับปรุงแนะนำ"
+
+#. 1: install status, 2: update status
+#: admin/plugins/class-tgm-plugin-activation.php:2427
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s,%2$s"
+
+#. 1: number of plugins.
+#: admin/plugins/class-tgm-plugin-activation.php:2473
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#. 1: number of plugins.
+#: admin/plugins/class-tgm-plugin-activation.php:2477
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#. 1: number of plugins.
+#: admin/plugins/class-tgm-plugin-activation.php:2481
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#. 1: number of plugins.
+#: admin/plugins/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2567
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "ไม่ทราบ"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr "ติดตั้งรุ่น:"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr "อย่างน้อยต้องการรุ่น:"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr "มีรุ่น:"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr "ไม่มีโปรแกรมเสริมที่ติดตั้ง,ปรับปรุงหรือเปิดใช้งาน."
+
+#: admin/plugins/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr "โปรแกรมเสริม"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr "แหล่งข่าว"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr "เวอร์ชั่น"
+
+#. %2$s: plugin name in screen reader markup
+#: admin/plugins/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr "ติดตั้ง%2$s"
+
+#. %2$s: plugin name in screen reader markup
+#: admin/plugins/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr "ปรับปรุง%2$s"
+
+#. %2$s: plugin name in screen reader markup
+#: admin/plugins/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr "เรียกใช้%2$s"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr "ปรับรุ่นข้อความจากโปรแกรมเสริมผู้เขียน:"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr "ติดตั้ง"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr "เปิดใช้งาน"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "ไม่มีโปรแกรมเสริมอยู่ที่เลือกไว้จะถูกติดตั้ง ไม่มีการกระทำแล้ว"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+"ไม่มีโปรแกรมเสริมอยู่ที่เลือกไว้จะถูกปรับปรุงเรียบร้อยแล้ว ไม่มีการกระทำแล้ว"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr "ไม่เป็นโปรแกรมเสริมที่มีอยู่จะถูกติดตั้งตอนนี้"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr "ไม่เป็นโปรแกรมเสริมที่มีอยู่จะถูกอัปเดตครั้งนี้"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "ไม่มีโปรแกรมเสริมอยู่ที่เลือกไว้จะถูกเปิดให้ทำงาน ไม่มีการกระทำแล้ว"
+
+#: admin/plugins/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr "ไม่เป็นโปรแกรมเสริมที่มีอยู่จะถูกเปิดใช้งานตอนนี้"
+
+#: admin/plugins/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr "ส่วนเสริมการกระตุ้นการทำงานล้มเหลว"
+
+#. 1: plugin name, 2: action number 3: total number of actions.
+#: admin/plugins/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "กำลังปรับปรุงส่วนเสริม%1$s(%2$d/%3$d)"
+
+#. 1: plugin name, 2: error message.
+#: admin/plugins/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. 1: plugin name.
+#: admin/plugins/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "ในการติดตั้งของ%1$s ล้มเหลว"
+
+#: admin/plugins/class-tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"ในการติดตั้งและการกระตุ้นการทำงานระบวนการเริ่มต้นขึ้นแล้ว "
+"โพรเซสนี้จะใช้เวลาสักระยะหนึ่งในบางโฮสต์ดังนั้นได้โปรดเป็นคนไข้"
+
+#. 1: plugin name.
+#: admin/plugins/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s ติดตั้งและเปิดใช้งานเรียบร้อยแล้ว"
+
+#: admin/plugins/class-tgm-plugin-activation.php:3594
+#: admin/plugins/class-tgm-plugin-activation.php:3602
+msgid "Show Details"
+msgstr "แสดงรายละเอียด"
+
+#: admin/plugins/class-tgm-plugin-activation.php:3594
+#: admin/plugins/class-tgm-plugin-activation.php:3602
+msgid "Hide Details"
+msgstr "ซ่อนรายละเอียด"
+
+#: admin/plugins/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr "ทุ installations และ activations ต้องถูกเสร็จสมบูรณ์@info:status"
+
+#. 1: plugin name, 2: action number 3: total number of actions.
+#: admin/plugins/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "กำลังติดตั้งและระหว่างทำการเรียกใช้โปรแกรมเสริม%1$s(%2$d/%3$d)"
+
+#: admin/plugins/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"ในการติดตั้งระบวนการเริ่มต้นขึ้นแล้ว "
+"โพรเซสนี้จะใช้เวลาสักระยะหนึ่งในบางโฮสต์ดังนั้นได้โปรดเป็นคนไข้"
+
+#. 1: plugin name.
+#: admin/plugins/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s ติดตั้งเรียบร้อยแล้ว"
+
+#: admin/plugins/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr "ทุ installations ต้องถูกเสร็จสมบูรณ์@info:status"
+
+#. 1: plugin name, 2: action number 3: total number of actions.
+#: admin/plugins/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "กำลังติดตั้งโปรแกรมเสริม%1$s(%2$d/%3$d)"
+
+#: admin/plugins/register.php:80
+msgid "Elementor Page Builder"
+msgstr "Elementor หน้าร้าง"
+
+#: admin/plugins/register.php:110
+msgid "Contempo Listing Analytics"
+msgstr "Contempo การเรียกรายการ Analytics"
+
+#: admin/plugins/register.php:143
+msgid "Contempo Real Estate 7 Payment Gateways"
+msgstr "Contempo อสังหาริมทรัพย์ 7 เงิ Gateways"
+
+#: admin/plugins/register.php:209
+msgid "WPBakery Page Builder"
+msgstr "WPBakery หน้าร้าง"
+
+#: includes/widgets/ct-widget-adspace.php:13
+msgid "CT Adspace Widget"
+msgstr "CT Adspace วิดเจ็ต"
+
+#: includes/widgets/ct-widget-adspace.php:61
+#: includes/widgets/ct-widget-listingscrolltocontact.php:62
+#: includes/widgets/ct-widget-listingssocial.php:48
+msgid "Title (optional):"
+msgstr "ชื่อ(เป็นตัวเลือกเสริม):"
+
+#: includes/widgets/ct-widget-adspace.php:65
+msgid "Ad Code:"
+msgstr "โฆษณารหัส:"
+
+#: includes/widgets/ct-widget-adspace.php:70
+msgid "Image Url:"
+msgstr "ภาพที่อยู่ Url:"
+
+#: includes/widgets/ct-widget-adspace.php:74
+msgid "Link URL:"
+msgstr "เชื่อมโยงที่อยู่ URL:"
+
+#: includes/widgets/ct-widget-adspace.php:78
+msgid "Alt text:"
+msgstr "กดปุ่มพิมพ์ Alt ข้อความ:"
+
+#: includes/widgets/ct-widget-agentinfo.php:13
+msgid "CT Agent Info"
+msgstr "CT เจ้าหน้าที่ข้อมูล"
+
+#: includes/widgets/ct-widget-agentinfo.php:69
+msgid "Mobile"
+msgstr "เคลื่อนที่"
+
+#: includes/widgets/ct-widget-agentinfo.php:72
+msgid "Office"
+msgstr "ออฟฟิศ"
+
+#: includes/widgets/ct-widget-agentinfo.php:75
+msgid "Fax"
+msgstr "โทรสาร"
+
+#: includes/widgets/ct-widget-agentsotherlistings.php:13
+msgid "CT Agents Other Listings"
+msgstr "CT เจ้าหน้าที่อีก Listings"
+
+#: includes/widgets/ct-widget-agentsotherlistings.php:291
+#: includes/widgets/ct-widget-flickr.php:55
+#: includes/widgets/ct-widget-latestposts.php:74
+#: includes/widgets/ct-widget-listings.php:134
+#: includes/widgets/ct-widget-testimonials.php:66
+msgid "Number:"
+msgstr "จำนวน:"
+
+#: includes/widgets/ct-widget-agentsotherlistings.php:299
+#: includes/widgets/ct-widget-listings.php:142
+msgid "Taxonomy:"
+msgstr "Taxonomy:"
+
+#: includes/widgets/ct-widget-agentsotherlistings.php:308
+#: includes/widgets/ct-widget-listings.php:151
+msgid "Tag:"
+msgstr "ป้ายกำกับ:"
+
+#: includes/widgets/ct-widget-blogauthor.php:13
+msgid "CT Blog Author Info"
+msgstr "CT บล็อกของผู้เขียนข้อมูล"
+
+#: includes/widgets/ct-widget-blogauthor.php:64
+msgid "Bio:"
+msgstr "ประวัติ:"
+
+#: includes/widgets/ct-widget-blogauthor.php:68
+msgid "<a href=\"http://www.gravatar.com/\">Gravatar</a> E-mail:"
+msgstr ""
+
+#: includes/widgets/ct-widget-blogauthor.php:72
+msgid "Gravatar Size:"
+msgstr "Gravatar ขนาด:"
+
+#: includes/widgets/ct-widget-blogauthor.php:76
+msgid "Gravatar Alignment:"
+msgstr "Gravatar การจัดวาง:"
+
+#: includes/widgets/ct-widget-blogauthor.php:78
+msgid "Left"
+msgstr "เหลือ"
+
+#: includes/widgets/ct-widget-blogauthor.php:79
+msgid "Right"
+msgstr "ถูกต้อ"
+
+#: includes/widgets/ct-widget-blogauthor.php:83
+msgid "Read More Text (optional):"
+msgstr "อ่านมากกข้อความ(เป็นตัวเลือกเสริม):"
+
+#: includes/widgets/ct-widget-blogauthor.php:87
+msgid "Read More URL (optional):"
+msgstr "อ่านมากกว่าที่อยู่ URL(ตัวเลือกเพิ่มเติม):"
+
+#: includes/widgets/ct-widget-blogauthor.php:91
+msgid "Visible Pages:"
+msgstr "แสดงหน้า:"
+
+#: includes/widgets/ct-widget-blogauthor.php:93
+msgid "All"
+msgstr "ทั้"
+
+#: includes/widgets/ct-widget-blogauthor.php:94
+msgid "Home only"
+msgstr "กลับบ้านเดียว"
+
+#: includes/widgets/ct-widget-blogauthor.php:95
+msgid "Single only"
+msgstr "เดียวเดียว"
+
+#: includes/widgets/ct-widget-brokerinfo.php:13
+msgid "CT Brokers Info"
+msgstr "CT Brokers ข้อมูล"
+
+#: includes/widgets/ct-widget-brokerinfo.php:54
+msgid "Email Office"
+msgstr "อีเมลล์ออฟฟิศ"
+
+#: includes/widgets/ct-widget-brokerinfo.php:55
+msgid "Visit Brokers Website"
+msgstr "เยี่ยมชมเว็บไซต์ของ Brokers"
+
+#: includes/widgets/ct-widget-brokerinfo.php:82
+msgid "Logo URL:"
+msgstr "โลโก้ที่อยู่ URL:"
+
+#: includes/widgets/ct-widget-brokerinfo.php:86
+msgid "Company:"
+msgstr "บริษัท:"
+
+#: includes/widgets/ct-widget-brokerinfo.php:90
+msgid "Office Phone:"
+msgstr "โทรศัพท์ที่ที่ทำงาน:"
+
+#: includes/widgets/ct-widget-brokerinfo.php:94
+msgid "Office Email:"
+msgstr "ออฟฟิศส่งอีเมล:"
+
+#: includes/widgets/ct-widget-brokerinfo.php:98
+msgid "Website:"
+msgstr "เว็บไซต์:"
+
+#: includes/widgets/ct-widget-contactinfo.php:13
+msgid "CT Contact Info"
+msgstr "CT ติดต่อข้อมูล"
+
+#: includes/widgets/ct-widget-contactinfo.php:133
+msgid "Show Logo:"
+msgstr "แสดงโลโก้ Rssnow"
+
+#: includes/widgets/ct-widget-contactinfo.php:144
+msgid "Blurb:"
+msgstr "Blurb:"
+
+#: includes/widgets/ct-widget-contactinfo.php:148
+msgid "Company Name:"
+msgstr "บริษัทชื่อ:"
+
+#: includes/widgets/ct-widget-contactinfo.php:152
+msgid "Street Address:"
+msgstr "ถนนที่อยู่:"
+
+#: includes/widgets/ct-widget-contactinfo.php:156
+msgid "City:"
+msgstr "เมือง:"
+
+#: includes/widgets/ct-widget-contactinfo.php:160
+msgid "State:"
+msgstr "รัฐ:"
+
+#: includes/widgets/ct-widget-contactinfo.php:164
+msgid "Postal:"
+msgstr "ส่ง:"
+
+#: includes/widgets/ct-widget-contactinfo.php:168
+msgid "Country:"
+msgstr "ประเทศ:"
+
+#: includes/widgets/ct-widget-contactinfo.php:172
+msgid "Phone:"
+msgstr "โทรศัพท์:"
+
+#: includes/widgets/ct-widget-flickr.php:13
+msgid "CT Flickr"
+msgstr "CT Flickr"
+
+#: includes/widgets/ct-widget-flickr.php:26
+msgid "Photos on flickr"
+msgstr "รูป flickr"
+
+#: includes/widgets/ct-widget-flickr.php:51
+msgid "Flickr ID (<a href=\"http://www.idgettr.com\">idGettr</a>):"
+msgstr ""
+
+#: includes/widgets/ct-widget-flickr.php:65
+msgid "User"
+msgstr "ของผู้ใช้"
+
+#: includes/widgets/ct-widget-flickr.php:66
+msgid "Group"
+msgstr "กลุ่ม"
+
+#: includes/widgets/ct-widget-flickr.php:70
+msgid "Sorting:"
+msgstr "เรียงลำดับไอคอน:"
+
+#: includes/widgets/ct-widget-flickr.php:72
+#: includes/widgets/ct-widget-tabs.php:110
+#: includes/widgets/ct-widget-tabs.php:117
+msgid "Latest"
+msgstr "ล่าสุด"
+
+#: includes/widgets/ct-widget-flickr.php:73
+msgid "Random"
+msgstr "แบบสุ่ม"
+
+#: includes/widgets/ct-widget-flickr.php:77
+msgid "Size:"
+msgstr "ขนาด:"
+
+#: includes/widgets/ct-widget-flickr.php:79
+msgid "Square"
+msgstr "สแควร์"
+
+#: includes/widgets/ct-widget-flickr.php:80
+msgid "Medium"
+msgstr "ปานกลาง"
+
+#: includes/widgets/ct-widget-flickr.php:81
+msgid "Thumbnail"
+msgstr "แสดงภาพตัวอย่างขนาดเล็ก"
+
+#: includes/widgets/ct-widget-latestposts.php:13
+msgid "CT Latest Posts"
+msgstr "CT ล่าสุดกัปตัน..เสาทางนี้"
+
+#: includes/widgets/ct-widget-listingbooktour.php:13
+msgid "CT Listing Book Showing"
+msgstr "CT การเรียกรายการแสดงหนังสือ"
+
+#: includes/widgets/ct-widget-listingbooktour.php:154
+msgid ""
+"Thanks for booking a showing, we'll get back to confirm with you shortly."
+msgstr "ขอบคุณสำหรับจอนการแสดงเรา\\'ll องกลับเพื่อยืนยันกับคุณในไม่ช้า"
+
+#: includes/widgets/ct-widget-listingbooktour.php:161
+msgid "Request a Showing"
+msgstr "การร้องขออนการแสดง"
+
+#: includes/widgets/ct-widget-listingbooktour.php:171
+msgid "Select Your Time and Day"
+msgstr "เลือกเวลาของคุณแล้ววัน"
+
+#: includes/widgets/ct-widget-listingbooktour.php:234
+msgid "Showing Request for "
+msgstr "แสดงการร้องขอสำหรับสิ่ง "
+
+#: includes/widgets/ct-widget-listingbooktour.php:240
+#: includes/widgets/ct-widget-listingbooktour.php:242
+msgid "Schedule Tour"
+msgstr "ตารางงานทัวร์"
+
+#: includes/widgets/ct-widget-listingbooktour.php:259
+msgid "No options required for this widget."
+msgstr "ไม่ต้องการตัวเลือกสำหรับวิดเจ็ตนี้."
+
+#: includes/widgets/ct-widget-listings.php:13
+msgid "CT Listings"
+msgstr "CT Listings"
+
+#: includes/widgets/ct-widget-listings.php:155
+msgid "View All Link Text"
+msgstr "มุมมองทุกข้อความที่อยู่เชื่อมโยง"
+
+#: includes/widgets/ct-widget-listings.php:159
+msgid "View All Link URL"
+msgstr "มุมมองทั้งหมเชื่อมโยงที่อยู่ URL"
+
+#: includes/widgets/ct-widget-listingscontact.php:13
+msgid "CT Listing Agent Contact"
+msgstr "CT การเรียกรายการติดต่อเจ้าหน้าที่"
+
+#: includes/widgets/ct-widget-listingscontact.php:72
+msgid "Subject:"
+msgstr "เรื่อง:"
+
+#: includes/widgets/ct-widget-listingscrolltocontact.php:13
+msgid "CT Listing Contact ScrollTo"
+msgstr "CT การเรียกรายการติดต่อ ScrollTo"
+
+#: includes/widgets/ct-widget-listingscrolltocontact.php:66
+msgid "Button One Text:"
+msgstr "ปุ่มหนึ่งข้อความ:"
+
+#: includes/widgets/ct-widget-listingscrolltocontact.php:70
+msgid "Button Two Text:"
+msgstr "ปุ่มสองข้อความ:"
+
+#: includes/widgets/ct-widget-listingssearch.php:13
+msgid "CT Listings Search"
+msgstr "CT Listings การค้นหา"
+
+#: includes/widgets/ct-widget-listingssocial.php:13
+msgid "CT Listings Social"
+msgstr "CT Listings ระกันสังคม"
+
+#: includes/widgets/ct-widget-search.php:13
+msgid "CT Search"
+msgstr "CT การค้นหา"
+
+#: includes/widgets/ct-widget-tabs.php:13
+msgid "CT Tabs"
+msgstr "CT แท็บ"
+
+#: includes/widgets/ct-widget-tabs.php:103
+msgid "Number of posts:"
+msgstr "จำนวนของกัปตัน..เสาทางนี้:"
+
+#: includes/widgets/ct-widget-tabs.php:108
+msgid "First Visible Tab:"
+msgstr "คนแรกแสดงบนแท็บ:"
+
+#: includes/widgets/ct-widget-tabs.php:111
+#: includes/widgets/ct-widget-tabs.php:120
+msgid "Comments"
+msgstr "หมายเหตุ"
+
+#: includes/widgets/ct-widget-tabs.php:112
+#: includes/widgets/ct-widget-tabs.php:123
+msgid "Tags"
+msgstr "ป้ายกำกับต่างๆ"
+
+#: includes/widgets/ct-widget-testimonials.php:13
+msgid "CT Testimonials"
+msgstr "CT Testimonials"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:245
+#: admin/ReduxFramework/theme-options/re7-config.php:246
+msgid "Real Estate 7 Options"
+msgstr "อสังหาริมทรัพย์ 7 ตัวเลือก"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:923
+msgid "Theme Information 1"
+msgstr "ชุดตกแต่งข้อมูล 1"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:924
+#: admin/ReduxFramework/theme-options/re7-config.php:929
+msgid "<p>This is the tab content, HTML is allowed.</p>"
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:928
+msgid "Theme Information 2"
+msgstr "ชุดตกแต่งข้อมูล 2"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:935
+msgid "<p>This is the sidebar content, HTML is allowed.</p>"
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:941
+msgid "General Settings"
+msgstr "ตั้งค่าทั่วไปต่างๆ"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1010
+#: admin/ReduxFramework/theme-options/re7-config.php:2168
+msgid "Header"
+msgstr "ส่วนหัว"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1078
+msgid "Custom Logo"
+msgstr "โลโก้ที่กำหนด"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1129
+msgid "Top Bar"
+msgstr "บนบาร์"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1150
+msgid "Contact Phone"
+msgstr "ติดต่อโทรศัพท์"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1170
+#: admin/ReduxFramework/theme-options/re7-config.php:1318
+#: admin/ReduxFramework/theme-options/re7-config.php:1349
+#: admin/ReduxFramework/theme-options/re7-config.php:1380
+msgid "Icon"
+msgstr "ภาพไอคอน"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1171
+#: admin/ReduxFramework/theme-options/re7-config.php:1319
+#: admin/ReduxFramework/theme-options/re7-config.php:1350
+#: admin/ReduxFramework/theme-options/re7-config.php:1381
+msgid "Select an icon."
+msgstr "เลือกไอคอน"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1188
+msgid "Currency Switcher"
+msgstr "สัญลักษณ์ของเงินตรา Switcher"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1196
+msgid "Social Links"
+msgstr "สังคมที่อยู่เชื่อมโยง"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1287
+msgid "Header Info Columns"
+msgstr "ส่วนหัวข้อมูลคอลัมน์"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1295
+msgid "Column One"
+msgstr "คอลัมน์หนึ่ง"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1326
+msgid "Column Two"
+msgstr "คอลัมน์สองคน"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1357
+msgid "Column Three"
+msgstr "คอลัมน์สาม"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1389
+msgid "Homepage"
+msgstr "หน้าเว็บหลัก"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1399
+msgid "Layout Manager"
+msgstr "ผังแป้นพิมพ์ตัวจัดการ"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1440
+msgid "Revolution Slider"
+msgstr "การปฏิวัติของแถบเลื่อน"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1457
+#: admin/ReduxFramework/theme-options/re7-config.php:1864
+msgid "FlexSlider"
+msgstr "FlexSlider"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1483
+msgid "Listing Carousel"
+msgstr "ฟังม้าหมุน"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1522
+msgid "Hero w/Search"
+msgstr "ฮีโร่ยัง/ค้นหา"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1569
+msgid "Top Padding"
+msgstr "ด้านบนนุ่นช่วย"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1570
+msgid "Set the top padding in percentage."
+msgstr "ตั้งค่าบนนุ่นช่วยในโดยมีหน่วยเป็นเปอร์เซ็นต์."
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1580
+msgid "Bottom Padding"
+msgstr "ก้นนุ่นช่วย"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1581
+msgid "Set the bottom padding in percentage."
+msgstr "ตั้งก้นนุ่นช่วยในโดยมีหน่วยเป็นเปอร์เซ็นต์."
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1592
+msgid "Call To Action"
+msgstr "โทรต้องการกระทำ"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1623
+msgid "Listings Count"
+msgstr "Listings นับ"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1727
+msgid "Add/Edit Testimonials"
+msgstr "เพิ่ม/แก้ไข Testimonials"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1728
+msgid "Add your testimonials to be displayed on the homepage."
+msgstr "เพิ่มของคุณ testimonials ที่จะถูกแสดงบนหน้าเว็บหลัก."
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1730
+msgid "Company or Person"
+msgstr "บริษัทหรือคน"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1731
+msgid "Testimonial Here"
+msgstr "Testimonial อยู่ที่นี่"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1732
+#: admin/ReduxFramework/theme-options/re7-config.php:1762
+msgid "Link"
+msgstr "เชื่อมโยง"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1740
+msgid "Partners"
+msgstr "เป็นคู่หูกัน"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1757
+msgid "Add/Edit Partner Logos"
+msgstr "เพิ่ม/แก้ไขหูโลโก้"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1758
+msgid "Add your partner logos to be displayed on the homepage."
+msgstr "เพิ่มคู่ควงของโลโก้ที่จะถูกแสดงบนหน้าเว็บหลัก."
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1760
+msgid "Partner Title"
+msgstr "หัวเรื่องคู่หู"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1761
+msgid "Description Here (not used)"
+msgstr "รายละเอียดที่นี่(ไม่ได้ใช้)"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1783
+msgid "Elementor"
+msgstr "Elementor"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1804
+msgid "Page Builder"
+msgstr "หน้าสร้าง"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1848
+msgid "Four Column Widget Area"
+msgstr "สี่คอลัมน์ของวิดเจ็ตพื้นที่"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1942
+msgid "Create a Skin"
+msgstr "สร้างเป็นผิวหนัง"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1965
+#: admin/ReduxFramework/theme-options/re7-config.php:2179
+#: admin/ReduxFramework/theme-options/re7-config.php:2272
+#: admin/ReduxFramework/theme-options/re7-config.php:2355
+#: admin/ReduxFramework/theme-options/re7-config.php:2444
+#: admin/ReduxFramework/theme-options/re7-config.php:2484
+msgid "NOTE!"
+msgstr "ข้อค!"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1966
+msgid "If this isn't set to Yes NONE of the Styles will be Applied."
+msgstr "ถ้าเรื่องนี้มัน\\'t ตั้งใช่เรื่องของรูปแบบจะถูกใช้"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1973
+msgid "Typography"
+msgstr "Typography"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1993
+msgid "Body"
+msgstr "ร่างกาย"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2012
+msgid "Headings"
+msgstr "Headings"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:3681
+msgid ""
+"Walk Score is the only international measure of walkability and the leading "
+"provider of neighborhood maps to the real estate industry. More than 30,000 "
+"websites use the Walk Score Neighborhood Map and we serve over 20 million "
+"scores each day. <a href=\"https://www.walkscore.com/professional/api-sign-"
+"up.php\" target=\"_blank\">Get your API Key</a>!."
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:5394
+msgid ""
+"<p class=\"description\">This is a section created by adding a filter to the "
+"sections array. Can be used by child themes to add/remove sections from the "
+"options.</p>"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"A responsive real estate theme, designed by <a href=\"http://www."
+"contempographicdesign.com\">Contempo</a>."
+msgstr ""
+
+#. URI of the theme
+msgid "http://themeforest.net/user/contempoinc?ref=contempoinc"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://www.contempographicdesign.com"
+msgstr ""
