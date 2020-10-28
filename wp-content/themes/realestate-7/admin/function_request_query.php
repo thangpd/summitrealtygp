@@ -899,7 +899,7 @@ if ( ! function_exists( 'ct_street_keyword_search_callback' ) ) {
 						)
 					),
 
-				) ));
+				) ))->posts;
 			} else {
 				$post_terms = (new WP_Query( array(
 					'posts_per_page'   => - 1,
@@ -933,7 +933,7 @@ if ( ! function_exists( 'ct_street_keyword_search_callback' ) ) {
 							'terms'    => array( $post_keyword )
 						),
 					)
-				) ));
+				) ))->posts;
 			}
 			$html = '';
 			if ( ! empty( $posts_data ) ) {
