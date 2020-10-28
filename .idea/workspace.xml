@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7b7dad12-5b59-493b-911b-50e01d5ea5f9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/wp-content/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/debug.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/realestate-7/admin/theme-functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/realestate-7/admin/theme-functions.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-includes/wp-db.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-includes/wp-db.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/realestate-7/search-listings.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/realestate-7/search-listings.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,11 +13,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/realestate-7/admin/theme-functions.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="10933" lean-forward="true" selection-start-line="10933" selection-end-line="10933" />
+            <state relative-caret-position="67">
+              <caret line="10778" column="29" lean-forward="true" selection-start-line="10778" selection-start-column="4" selection-end-line="10778" selection-end-column="29" />
               <folding>
                 <element signature="e#161951#165880#0#PHP" />
                 <element signature="e#166084#170142#0#PHP" />
@@ -35,65 +34,20 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/realestate-7/search-listings.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="212">
+              <caret line="73" lean-forward="true" selection-start-line="73" selection-end-line="73" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-includes/wp-db.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="70">
-              <caret line="1920" column="33" selection-start-line="1920" selection-start-column="33" selection-end-line="1920" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/realestate-7/template-edit-listing.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/realestate-7/single-listings.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="9" column="18" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/plugins/contempo-real-estate-custom-posts/ct-elementor-widgets/widgets/ct-listings-grid.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="164">
-              <caret line="350" column="23" selection-start-line="350" selection-start-column="23" selection-end-line="350" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/realestate-7/includes/widgets/ct-widget-listings.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="173">
-              <caret line="359" column="52" selection-start-line="359" selection-start-column="52" selection-end-line="359" selection-end-column="52" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-includes/query.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="96" column="36" selection-start-line="96" selection-start-column="36" selection-end-line="96" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/plugins/ultimate-member/templates/members.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="209" selection-start-line="209" selection-end-line="209" />
+            <state relative-caret-position="280">
+              <caret line="1934" column="80" lean-forward="true" selection-start-line="1934" selection-start-column="80" selection-end-line="1934" selection-end-column="80" />
             </state>
           </provider>
         </entry>
@@ -101,8 +55,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-config.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="296">
-              <caret line="83" column="28" selection-start-line="83" selection-start-column="28" selection-end-line="83" selection-end-column="28" />
+            <state relative-caret-position="300">
+              <caret line="90" lean-forward="true" selection-start-line="90" selection-end-line="90" />
             </state>
           </provider>
         </entry>
@@ -120,7 +74,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>pagination</find>
       <find>getSearchArgs</find>
       <find>$args</find>
       <find>elasticpress_enabled</find>
@@ -128,7 +81,6 @@
       <find>ep_integrate</find>
       <find>105010471388849</find>
       <find>&lt;div id='fb-root'&gt;</find>
-      <find>$search_values</find>
       <find>$post_terms</find>
       <find>$post_keyword</find>
       <find>numberposts</find>
@@ -149,6 +101,8 @@
       <find>$ct_options</find>
       <find>AIzaSyBBWCD7dPoidqselX9KTEbSMSPxC-Gx_Uw</find>
       <find>$post_meta_data</find>
+      <find>$search_values</find>
+      <find>todo::</find>
       <find>$id_array_post</find>
     </findStrings>
     <replaceStrings>
@@ -157,8 +111,8 @@
     <dirStrings>
       <dir>$PROJECT_DIR$/wp-content</dir>
       <dir>$PROJECT_DIR$/wp-content/themes/realestate-7</dir>
-      <dir>$PROJECT_DIR$/wp-content/themes</dir>
       <dir>$PROJECT_DIR$</dir>
+      <dir>$PROJECT_DIR$/wp-content/themes</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
@@ -176,20 +130,21 @@
         <option value="$PROJECT_DIR$/wp-content/plugins/elasticpress/includes/classes/Indexable.php" />
         <option value="$USER_HOME$/Downloads/sinhtrcvntaybeyourself.wordpress.2020-08-29-All-content-Post-Pages-Media.xml" />
         <option value="$PROJECT_DIR$/index.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/realestate-7/search-listings.php" />
         <option value="$PROJECT_DIR$/wp-config.php" />
         <option value="$PROJECT_DIR$/wp-content/debug.log" />
         <option value="$PROJECT_DIR$/wp-content/plugins/debug-bar-elasticpress-master/assets/css/main.css" />
         <option value="$PROJECT_DIR$/wp-content/themes/realestate-7/includes/widgets/ct-widget-listings.php" />
         <option value="$PROJECT_DIR$/wp-includes/wp-db.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/realestate-7/admin/theme-functions.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/realestate-7/search-listings.php" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1600" />
-    <option name="width" value="1316" />
-    <option name="height" value="604" />
+    <option name="x" value="191" />
+    <option name="y" value="27" />
+    <option name="width" value="1306" />
+    <option name="height" value="611" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -221,6 +176,14 @@
               <item name="wp-content" type="462c0819:PsiDirectoryNode" />
               <item name="themes" type="462c0819:PsiDirectoryNode" />
               <item name="realestate-7" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="summitrealtygp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="summitrealtygp" type="462c0819:PsiDirectoryNode" />
+              <item name="wp-content" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="realestate-7" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -264,18 +227,18 @@
       <workItem from="1603781755115" duration="637000" />
       <workItem from="1603798018986" duration="12239000" />
       <workItem from="1603869013024" duration="3193000" />
-      <workItem from="1603873790371" duration="8357000" />
+      <workItem from="1603873790371" duration="11558000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29936000" />
+    <option name="totallyTimeSpent" value="33137000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1600" y="0" width="1366" height="768" extended-state="6" />
+    <frame x="0" y="27" width="1600" height="873" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23333333" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1981982" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -288,7 +251,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.36767036" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3152174" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -378,20 +341,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="13" column="32" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/realestate-7/search-listings.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-198">
-          <caret line="313" lean-forward="true" selection-start-line="313" selection-end-line="313" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-includes/query.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -410,13 +359,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="260">
           <caret line="209" selection-start-line="209" selection-end-line="209" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="83" column="28" selection-start-line="83" selection-start-column="28" selection-end-line="83" selection-end-column="28" />
         </state>
       </provider>
     </entry>
@@ -441,38 +383,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/realestate-7/template-edit-listing.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/plugins/contempo-real-estate-custom-posts/ct-elementor-widgets/widgets/ct-listings-grid.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="350" column="23" selection-start-line="350" selection-start-column="23" selection-end-line="350" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/realestate-7/single-listings.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="9" column="18" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-includes/wp-db.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="70">
-          <caret line="1920" column="33" selection-start-line="1920" selection-start-column="33" selection-end-line="1920" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/realestate-7/admin/theme-functions.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="10933" lean-forward="true" selection-start-line="10933" selection-end-line="10933" />
+        <state relative-caret-position="67">
+          <caret line="10778" column="29" lean-forward="true" selection-start-line="10778" selection-start-column="4" selection-end-line="10778" selection-end-column="29" />
           <folding>
             <element signature="e#161951#165880#0#PHP" />
             <element signature="e#166084#170142#0#PHP" />
@@ -485,6 +399,55 @@
             <element signature="e#23#29#1" expanded="true" />
             <element signature="e#29#35#1" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="90" lean-forward="true" selection-start-line="90" selection-end-line="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/contempo-real-estate-custom-posts/ct-elementor-widgets/widgets/ct-listings-grid.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="350" column="23" selection-start-line="350" selection-start-column="23" selection-end-line="350" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/realestate-7/single-listings.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-405">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/realestate-7/template-edit-listing.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-includes/wp-db.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="1934" column="80" lean-forward="true" selection-start-line="1934" selection-start-column="80" selection-end-line="1934" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="13" column="32" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/realestate-7/search-listings.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="73" lean-forward="true" selection-start-line="73" selection-end-line="73" />
         </state>
       </provider>
     </entry>

@@ -10928,17 +10928,7 @@ $id_array_post_meta = new WP_Query( array(
 					),
 				))
 			);
-//			echo '<pre>';
-//			print_r($id_array);
-//			echo '</pre>';
 
-
-
-
-			/*$id_array = array();
-			foreach($post_terms as $post_terms_id) {
-				array_push($id_array,$post_terms_id->ID);
-			};*/
 
 			$ids = array_unique(array_merge($id_array_post->posts,$id_array_post_meta->posts,$id_array->posts));
 			if ( empty( $ids ) ) {

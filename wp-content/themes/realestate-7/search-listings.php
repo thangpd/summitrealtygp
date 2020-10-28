@@ -61,7 +61,7 @@ if ( class_exists( "IDX_Query" ) ) {
 }
 //file_put_contents(dirname(__FILE__)."/admin/log.theme-functions", "search-listing two\r\n", FILE_APPEND);
 
-$wp_query = new WP_Query( $search_values );
+$wp_query = new WP_Query( array_merge( $search_values, [ 'ep_integrate' => true, ] ) );
 
 //file_put_contents(dirname(__FILE__)."/admin/log.theme-functions", "search-listing three\r\n", FILE_APPEND);
 
