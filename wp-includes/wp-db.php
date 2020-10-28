@@ -2673,6 +2673,9 @@ class wpdb {
 		}
 
 		if ( $query ) {
+//			echo '<pre>';
+//			print_r($query);
+//			echo '</pre>';
 			$this->query( $query );
 		} else {
 			return null;

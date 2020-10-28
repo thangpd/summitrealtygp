@@ -1243,16 +1243,18 @@ $ct_rental_guests = isset( $_GET['ct_rental_guests'] ) ? $_GET['ct_rental_guests
         };
 
         jQuery(".listing-search").show();
+        let suggestionbox = jQuery("#suggestion-box");
 
+        suggestionbox.toggle(false);
         jQuery.ajax({
             type: "POST",
             url: "<?php echo admin_url( 'admin-ajax.php' ); ?>",
             data: data,
             success: function (data) {
                 jQuery(".listing-search").hide();
-                let suggestionbox = jQuery("#suggestion-box");
+                console.log(data)
                 suggestionbox.html(data);
-                suggestionbox.toggle();
+                suggestionbox.toggle(true);
             }
         });
     });

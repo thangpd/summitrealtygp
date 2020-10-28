@@ -575,7 +575,6 @@ jQuery.each( [ "load", "unload", "error" ], function( _, name ) {
 });
 
 jQuery.fn.toggle = function( fn, fn2 ) {
-	console.log('ok')
 	// Don't mess with animation or css toggles
 	if ( !jQuery.isFunction( fn ) || !jQuery.isFunction( fn2 ) ) {
 		return oldToggle.apply( this, arguments );

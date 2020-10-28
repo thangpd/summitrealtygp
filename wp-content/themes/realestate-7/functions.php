@@ -81,6 +81,9 @@ require_once (ADMIN_PATH . 'merlin-config.php' );
 // Theme Functions
 require_once (ADMIN_PATH . 'theme-functions.php');
 
+//query
+require_once (ADMIN_PATH.'function_request_query.php');
+
 // Theme Hooks
 require_once (ADMIN_PATH . 'theme-hooks.php');
 
@@ -103,3 +106,5 @@ add_filter("wpcf7_posted_data", function ($wpcf7_posted_data) {
     return $wpcf7_posted_data;
 
 });
+
+
