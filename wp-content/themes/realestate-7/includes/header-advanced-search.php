@@ -1234,7 +1234,17 @@ $ct_rental_guests = isset( $_GET['ct_rental_guests'] ) ? $_GET['ct_rental_guests
 <!-- //Header Search -->
 
 <script>
-    jQuery(".header_keyword_search").keyup(function ($) {
+    function delay(callback, ms) {
+        var timer = 0;
+        return function() {
+            var context = this, args = arguments;
+            clearTimeout(timer);
+            timer = setTimeout(function () {
+                callback.apply(context, args);
+            }, ms || 0);
+        };
+    }
+    jQuery(".header_keyword_search").keyup(delay(function ($) {
         var keyword_value = jQuery(this).val();
 
         var data = {
@@ -1257,7 +1267,7 @@ $ct_rental_guests = isset( $_GET['ct_rental_guests'] ) ? $_GET['ct_rental_guests
                 suggestionbox.toggle(true);
             }
         });
-    });
+    },500));
 
     jQuery(document).on("click", '.listing_media', function () {
         var list_title = jQuery(this).attr('att_id');
