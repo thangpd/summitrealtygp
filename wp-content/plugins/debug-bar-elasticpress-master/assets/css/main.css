@@ -19,7 +19,7 @@
 .ep-queries-debug .query-headers,
 .ep-queries-debug .query-errors,
 .ep-queries-debug .query-results {
-	background-color: white;
+	background-color: black;
 }
 
 .ep-queries-debug .hide-query-results .query-result-toggle:before,

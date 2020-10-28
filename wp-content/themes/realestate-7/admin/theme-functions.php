@@ -850,9 +850,6 @@ if(!function_exists('map_listing_update')) {
 		//file_put_contents(dirname(__FILE__)."/log.theme-functions", "calling getSearchArgs\r\n", FILE_APPEND);
 
 		$args = getSearchArgs(true);
-        echo '<pre>';
-        print_r('ok');
-        echo '</pre>';die;
 		//file_put_contents(dirname(__FILE__)."/log.theme-functions", "done calling getSearchArgs\r\n", FILE_APPEND);
 		//file_put_contents(dirname(__FILE__)."/log.theme-functions", "Search args\r\n" .print_r( $args, true )."\r\n", FILE_APPEND);
 
@@ -6370,7 +6367,7 @@ if(!function_exists('ct_propinfo')) {
 	        }
 	    }
 
-	    if($ct_walkscore == 'yes' && $ct_ws['status'] == 1) {
+	    if(isset($ct_ws) && $ct_walkscore == 'yes' && $ct_ws['status'] == 1) {
 			echo '<li class="row walkscore">';
 	            echo '<span class="muted left">';
 	                if($ct_use_propinfo_icons != 'icons') {
@@ -10778,6 +10775,12 @@ if(!function_exists('getSearchArgs')) {
 			}
 		});
 
+      /* $post= new WP_Query( array(
+    'ep_integrate'   => true,
+    'post_type'      => 'listings',
+    'posts_per_page' => -1,
+    'q'=>'t',
+) );*/
 
 		if ( $skipLocationData == false && !empty($_GET['ct_keyword']) || $skipLocationData == false && !empty($_GET['ct_mobile_keyword'])) {
 
@@ -10807,9 +10810,76 @@ if(!function_exists('getSearchArgs')) {
 
 			global $wpdb;
 
-			$posts_data = $wpdb->get_results ("SELECT ID FROM ".$wpdb->prefix ."posts WHERE post_type= 'listings' AND post_status= 'publish' AND (post_content like '%" .$post_keyword. "%' OR post_title like '%".$post_keyword. "%') ORDER BY post_title" );
-			$post_meta_data = $wpdb->get_results ("SELECT ID FROM ".$wpdb->prefix ."posts WHERE ".$wpdb->prefix ."posts.post_status ='publish' AND ".$wpdb->prefix ."posts.post_type= 'listings' AND ".$wpdb->prefix ."posts.ID = (SELECT ".$wpdb->prefix ."postmeta.post_id  FROM ".$wpdb->prefix ."postmeta  WHERE ".$wpdb->prefix ."postmeta.meta_key = '_ct_listing_alt_title'  AND ".$wpdb->prefix ."postmeta.meta_value LIKE '%".$post_keyword. "%' OR ".$wpdb->prefix ."postmeta.meta_key = '_ct_rental_title'  AND ".$wpdb->prefix ."postmeta.meta_value LIKE '%".$post_keyword. "%' limit 1 )");
+			$posts_data = $wpdb->get_results ("SELECT ID FROM ".$wpdb->prefix ."posts WHERE
+			post_type= 'listings' AND 
+			post_status= 'publish' AND 
+			(post_content like '%" .$post_keyword. "%' OR post_title like '%".$post_keyword. "%') 
+			ORDER BY post_title" );
+			$id_array_post = $posts_data;
+			foreach($posts_data as $post_terms_id) {
+				array_push($id_array_post,$post_terms_id->ID);
+			};
+            echo '<pre>';
+            print_r($id_array_post);
+            echo '</pre>';
+			$id_array_post = new WP_Query( array(
+    'ep_integrate'   => true,
+    'post_type'      => 'listings',
+    'post_status'=>'publish',
+    's' => $post_keyword,
+    'post_title'=>$post_keyword,
+    'orderby'=>'title',
+    'posts_per_page' => -1,
+    'fields'=>'ids'
+) );echo '<pre>';
+print_r($id_array_post);
+echo '</pre>';
+			$post_meta_data = $wpdb->get_results ("SELECT ID FROM ".$wpdb->prefix ."posts
+			WHERE ".$wpdb->prefix ."posts.post_status ='publish' 
+			AND ".$wpdb->prefix ."posts.post_type= 'listings' AND ".$wpdb->prefix ."posts.ID = (
+			SELECT ".$wpdb->prefix ."postmeta.post_id  FROM ".$wpdb->prefix ."postmeta  
+			WHERE ".$wpdb->prefix ."postmeta.meta_key = '_ct_listing_alt_title'  
+			AND ".$wpdb->prefix ."postmeta.meta_value 
+			LIKE '%".$post_keyword. "%' 
+			OR ".$wpdb->prefix ."postmeta.meta_key = '_ct_rental_title' 
+			AND ".$wpdb->prefix ."postmeta.meta_value 
+			LIKE '%".$post_keyword. "%' limit 1 )");
+			echo '<pre>';
+			print_r($post_meta_data);
+			echo '</pre>';
+			$id_array_post_meta = array();
+			foreach($post_meta_data as $post_terms_id) {
+				array_push($id_array_post_meta,$post_terms_id->ID);
+			};
+			echo '<pre>';
+			print_r($id_array_post_meta);
+			echo '</pre>';
 
+$post_meta_data = new WP_Query( array(
+    'ep_integrate'   => true,
+    'post_type'      => 'listings',
+    'post_status'=>'publish',
+    's' => $post_keyword,
+    'orderby'=>'title',
+    'posts_per_page' => -1,
+    'fields'=>'ids',
+    'meta_query'=>[
+           'relation' => 'OR',
+            [
+                    'key'=>'_ct_listing_alt_title',
+                    'value'=>$post_keyword,
+                    'compare'=>'like'
+            ],
+            [
+            'key'=> '_ct_rental_title',
+            'value'=>$post_keyword,
+            'compare'=>'like',
+],
+            ],
+) );
+echo '<pre>';
+print_r($post_meta_data);
+echo '</pre>';die;
 
 			$post_terms = get_posts(array(
 				'showposts' => -1,
@@ -10850,15 +10920,8 @@ if(!function_exists('getSearchArgs')) {
 				))
 			);
 
-			$id_array_post = array();
-			foreach($posts_data as $post_terms_id) {
-				array_push($id_array_post,$post_terms_id->ID);
-			};
 
-			$id_array_post_meta = array();
-			foreach($post_meta_data as $post_terms_id) {
-				array_push($id_array_post_meta,$post_terms_id->ID);
-			};
+
 
 			$id_array = array();
 			foreach($post_terms as $post_terms_id) {
