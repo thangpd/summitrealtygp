@@ -1,6 +1,0 @@
-0000.012 (R) [notice] Looking for db archive: file name: backup_2020-10-26-0716_Summit_Realty_Group_Inc_d3752e87f202-db.gz
-0000.012 (R) [notice] Archive is expected to be size: 19575.6 KB: OK
-0000.013 (R) [notice] Looking for plugins archive: file name: backup_2020-10-26-0716_Summit_Realty_Group_Inc_d3752e87f202-plugins.zip
-0000.014 (R) [notice] Archive is expected to be size: 61395.7 KB: OK
-0000.015 (R) [warning] Error: Existing unremoved folders from a previous restore exist (please use the "Delete Old Directories" button to delete them before trying again): /home/tom/xampp/summitrealtygp/wp-content/plugins-old
-0000.016 (R) [notice] Restore failed...

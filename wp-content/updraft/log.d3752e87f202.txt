@@ -1,4 +1,0 @@
-0000.000 (1) Opened log file at time: Mon, 26 Oct 2020 16:20:20 +0000 on http://localhost/summitrealtygp
-0000.026 (1) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 2.14.8.24 WP: 5.5.1 PHP: 7.3.19-1~deb10u1 (apache2handler, Linux debian 4.19.0-10-amd64 #1 SMP Debian 4.19.132-1 (2020-07-24) x86_64) MySQL: 8.0.21 WPLANG: en_US Server: Apache/2.4.38 (Debian) safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 3.4M | 4M) multisite: N openssl: OpenSSL 1.1.1d  10 Sep 2019 mcrypt: N LANG: C ZipArchive::addFile: Y
-0000.096 (1) Free space on disk containing Updraft's temporary directory: 11305 MB
-0000.124 (1) This backup task (d3752e87f202) is either complete or began over 2 days ago: ending (1603729220.8279, ) (existing jobdata keys: )

@@ -14,7 +14,7 @@
         <entry file="file://$PROJECT_DIR$/wp-content/themes/realestate-7/admin/theme-functions.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="810">
-              <caret line="4003" lean-forward="true" selection-start-line="4003" selection-end-line="4003" />
+              <caret line="4003" selection-start-line="4003" selection-end-line="4003" />
               <folding>
                 <element signature="n#style#0;n#svg#0;n#!!top" expanded="true" />
                 <element signature="n#style#1;n#svg#0;n#!!top" expanded="true" />
@@ -32,8 +32,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/realestate-7/search-listings.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="387">
-              <caret line="309" lean-forward="true" selection-start-line="309" selection-end-line="309" />
+            <state relative-caret-position="2">
+              <caret line="309" selection-start-line="309" selection-end-line="309" />
             </state>
           </provider>
         </entry>
@@ -144,6 +144,9 @@
       <dir>$PROJECT_DIR$/wp-content</dir>
     </dirStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -168,6 +171,7 @@
     <option name="width" value="1316" />
     <option name="height" value="604" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -253,18 +257,17 @@
       <workItem from="1603781755115" duration="637000" />
       <workItem from="1603798018986" duration="12239000" />
       <workItem from="1603869013024" duration="3193000" />
-      <workItem from="1603873790371" duration="877000" />
+      <workItem from="1603873790371" duration="1194000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22456000" />
+    <option name="totallyTimeSpent" value="22773000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1600" y="0" width="1366" height="768" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23333333" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23333333" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -277,7 +280,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.33123028" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.4548336" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -405,7 +408,7 @@
     <entry file="file://$PROJECT_DIR$/wp-content/themes/realestate-7/admin/theme-functions.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="810">
-          <caret line="4003" lean-forward="true" selection-start-line="4003" selection-end-line="4003" />
+          <caret line="4003" selection-start-line="4003" selection-end-line="4003" />
           <folding>
             <element signature="n#style#0;n#svg#0;n#!!top" expanded="true" />
             <element signature="n#style#1;n#svg#0;n#!!top" expanded="true" />
@@ -421,8 +424,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/realestate-7/search-listings.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="387">
-          <caret line="309" lean-forward="true" selection-start-line="309" selection-end-line="309" />
+        <state relative-caret-position="2">
+          <caret line="309" selection-start-line="309" selection-end-line="309" />
         </state>
       </provider>
     </entry>
