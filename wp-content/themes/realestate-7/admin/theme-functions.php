@@ -2709,6 +2709,7 @@ if(!function_exists('ct_street_keyword_search_callback')) {
 			}
 
 			if(!empty($posts_data)) {
+			    $html='';
 				$html .= '<ul class="listing-records">';
 				 foreach($posts_data as $records){
 					$img_src = wp_get_attachment_image_src( get_post_thumbnail_id($records->ID), 'thumbnail_size' );
@@ -2902,6 +2903,7 @@ if(!function_exists('ct_street_keyword_search_callback')) {
 				$html .= '</div>';
 
 			} else {
+			    $html='';
 				$html .= '<ul><li id="no-listings-found">' . __('No Listings Found', 'contempo') . '</li></ul>';
 			}
 		}
