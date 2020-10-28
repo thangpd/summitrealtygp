@@ -4024,10 +4024,7 @@ if(!function_exists('ct_search_results_map')) {
 		<?php
 
 		    endwhile;
- echo '<pre>';
-		print_r('ok $search_values');
-		echo '</pre>';die;
-		endif;
+
 
 		if ( $pageLoaded == false ) {
 			wp_reset_query();
