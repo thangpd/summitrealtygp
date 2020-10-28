@@ -1918,7 +1918,10 @@ class wpdb {
 
 		// Keep track of the last query for debug.
 		$this->last_query = $query;
-
+		//TODO:: see all query wp
+		/*echo '<pre>';
+		print_r($query);
+		echo '</pre>';*/
 		$this->_do_query( $query );
 
 		// MySQL server has gone away, try to reconnect.

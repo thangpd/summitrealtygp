@@ -244,3 +244,51 @@ Stack trace:
 [28-Oct-2020 10:25:29 UTC] PHP   7. load_template() /home/tom/xampp/summitrealtygp/wp-includes/template.php:676
 [28-Oct-2020 10:25:29 UTC] PHP   8. require() /home/tom/xampp/summitrealtygp/wp-includes/template.php:732
 [28-Oct-2020 10:25:29 UTC] PHP   9. getSearchArgs() /home/tom/xampp/summitrealtygp/wp-content/themes/realestate-7/search-listings.php:53
+[28-Oct-2020 11:03:18 UTC] PHP Warning:  array_merge(): Expected parameter 1 to be an array, object given in /home/tom/xampp/summitrealtygp/wp-content/themes/realestate-7/admin/theme-functions.php on line 10940
+[28-Oct-2020 11:03:18 UTC] PHP Stack trace:
+[28-Oct-2020 11:03:18 UTC] PHP   1. {main}() /home/tom/xampp/summitrealtygp/index.php:0
+[28-Oct-2020 11:03:18 UTC] PHP   2. require() /home/tom/xampp/summitrealtygp/index.php:17
+[28-Oct-2020 11:03:18 UTC] PHP   3. require_once() /home/tom/xampp/summitrealtygp/wp-blog-header.php:19
+[28-Oct-2020 11:03:18 UTC] PHP   4. include() /home/tom/xampp/summitrealtygp/wp-includes/template-loader.php:106
+[28-Oct-2020 11:03:18 UTC] PHP   5. get_template_part() /home/tom/xampp/summitrealtygp/wp-content/themes/realestate-7/template-home.php:10
+[28-Oct-2020 11:03:18 UTC] PHP   6. locate_template() /home/tom/xampp/summitrealtygp/wp-includes/general-template.php:204
+[28-Oct-2020 11:03:18 UTC] PHP   7. load_template() /home/tom/xampp/summitrealtygp/wp-includes/template.php:676
+[28-Oct-2020 11:03:18 UTC] PHP   8. require() /home/tom/xampp/summitrealtygp/wp-includes/template.php:732
+[28-Oct-2020 11:03:18 UTC] PHP   9. getSearchArgs() /home/tom/xampp/summitrealtygp/wp-content/themes/realestate-7/search-listings.php:53
+[28-Oct-2020 11:03:18 UTC] PHP  10. array_merge() /home/tom/xampp/summitrealtygp/wp-content/themes/realestate-7/admin/theme-functions.php:10940
+[28-Oct-2020 11:03:18 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home/tom/xampp/summitrealtygp/wp-content/themes/realestate-7/admin/theme-functions.php on line 10940
+[28-Oct-2020 11:03:18 UTC] PHP Stack trace:
+[28-Oct-2020 11:03:18 UTC] PHP   1. {main}() /home/tom/xampp/summitrealtygp/index.php:0
+[28-Oct-2020 11:03:18 UTC] PHP   2. require() /home/tom/xampp/summitrealtygp/index.php:17
+[28-Oct-2020 11:03:18 UTC] PHP   3. require_once() /home/tom/xampp/summitrealtygp/wp-blog-header.php:19
+[28-Oct-2020 11:03:18 UTC] PHP   4. include() /home/tom/xampp/summitrealtygp/wp-includes/template-loader.php:106
+[28-Oct-2020 11:03:18 UTC] PHP   5. get_template_part() /home/tom/xampp/summitrealtygp/wp-content/themes/realestate-7/template-home.php:10
+[28-Oct-2020 11:03:18 UTC] PHP   6. locate_template() /home/tom/xampp/summitrealtygp/wp-includes/general-template.php:204
+[28-Oct-2020 11:03:18 UTC] PHP   7. load_template() /home/tom/xampp/summitrealtygp/wp-includes/template.php:676
+[28-Oct-2020 11:03:18 UTC] PHP   8. require() /home/tom/xampp/summitrealtygp/wp-includes/template.php:732
+[28-Oct-2020 11:03:18 UTC] PHP   9. getSearchArgs() /home/tom/xampp/summitrealtygp/wp-content/themes/realestate-7/search-listings.php:53
+[28-Oct-2020 11:03:18 UTC] PHP  10. array_unique() /home/tom/xampp/summitrealtygp/wp-content/themes/realestate-7/admin/theme-functions.php:10940
+[28-Oct-2020 11:03:38 UTC] PHP Warning:  array_merge(): Expected parameter 1 to be an array, object given in /home/tom/xampp/summitrealtygp/wp-content/themes/realestate-7/admin/theme-functions.php on line 10943
+[28-Oct-2020 11:03:38 UTC] PHP Stack trace:
+[28-Oct-2020 11:03:38 UTC] PHP   1. {main}() /home/tom/xampp/summitrealtygp/index.php:0
+[28-Oct-2020 11:03:38 UTC] PHP   2. require() /home/tom/xampp/summitrealtygp/index.php:17
+[28-Oct-2020 11:03:38 UTC] PHP   3. require_once() /home/tom/xampp/summitrealtygp/wp-blog-header.php:19
+[28-Oct-2020 11:03:38 UTC] PHP   4. include() /home/tom/xampp/summitrealtygp/wp-includes/template-loader.php:106
+[28-Oct-2020 11:03:38 UTC] PHP   5. get_template_part() /home/tom/xampp/summitrealtygp/wp-content/themes/realestate-7/template-home.php:10
+[28-Oct-2020 11:03:38 UTC] PHP   6. locate_template() /home/tom/xampp/summitrealtygp/wp-includes/general-template.php:204
+[28-Oct-2020 11:03:38 UTC] PHP   7. load_template() /home/tom/xampp/summitrealtygp/wp-includes/template.php:676
+[28-Oct-2020 11:03:38 UTC] PHP   8. require() /home/tom/xampp/summitrealtygp/wp-includes/template.php:732
+[28-Oct-2020 11:03:38 UTC] PHP   9. getSearchArgs() /home/tom/xampp/summitrealtygp/wp-content/themes/realestate-7/search-listings.php:53
+[28-Oct-2020 11:03:38 UTC] PHP  10. array_merge() /home/tom/xampp/summitrealtygp/wp-content/themes/realestate-7/admin/theme-functions.php:10943
+[28-Oct-2020 11:03:38 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home/tom/xampp/summitrealtygp/wp-content/themes/realestate-7/admin/theme-functions.php on line 10943
+[28-Oct-2020 11:03:38 UTC] PHP Stack trace:
+[28-Oct-2020 11:03:38 UTC] PHP   1. {main}() /home/tom/xampp/summitrealtygp/index.php:0
+[28-Oct-2020 11:03:38 UTC] PHP   2. require() /home/tom/xampp/summitrealtygp/index.php:17
+[28-Oct-2020 11:03:38 UTC] PHP   3. require_once() /home/tom/xampp/summitrealtygp/wp-blog-header.php:19
+[28-Oct-2020 11:03:38 UTC] PHP   4. include() /home/tom/xampp/summitrealtygp/wp-includes/template-loader.php:106
+[28-Oct-2020 11:03:38 UTC] PHP   5. get_template_part() /home/tom/xampp/summitrealtygp/wp-content/themes/realestate-7/template-home.php:10
+[28-Oct-2020 11:03:38 UTC] PHP   6. locate_template() /home/tom/xampp/summitrealtygp/wp-includes/general-template.php:204
+[28-Oct-2020 11:03:38 UTC] PHP   7. load_template() /home/tom/xampp/summitrealtygp/wp-includes/template.php:676
+[28-Oct-2020 11:03:38 UTC] PHP   8. require() /home/tom/xampp/summitrealtygp/wp-includes/template.php:732
+[28-Oct-2020 11:03:38 UTC] PHP   9. getSearchArgs() /home/tom/xampp/summitrealtygp/wp-content/themes/realestate-7/search-listings.php:53
+[28-Oct-2020 11:03:38 UTC] PHP  10. array_unique() /home/tom/xampp/summitrealtygp/wp-content/themes/realestate-7/admin/theme-functions.php:10943

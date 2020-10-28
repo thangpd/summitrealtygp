@@ -10810,7 +10810,7 @@ if(!function_exists('getSearchArgs')) {
 
 			global $wpdb;
 
-			$posts_data = $wpdb->get_results ("SELECT ID FROM ".$wpdb->prefix ."posts WHERE
+			/*$posts_data = $wpdb->get_results ("SELECT ID FROM ".$wpdb->prefix ."posts WHERE
 			post_type= 'listings' AND 
 			post_status= 'publish' AND 
 			(post_content like '%" .$post_keyword. "%' OR post_title like '%".$post_keyword. "%') 
@@ -10821,7 +10821,7 @@ if(!function_exists('getSearchArgs')) {
 			};
             echo '<pre>';
             print_r($id_array_post);
-            echo '</pre>';
+            echo '</pre>';*/
 			$id_array_post = new WP_Query( array(
     'ep_integrate'   => true,
     'post_type'      => 'listings',
@@ -10831,60 +10831,69 @@ if(!function_exists('getSearchArgs')) {
     'orderby'=>'title',
     'posts_per_page' => -1,
     'fields'=>'ids'
-) );echo '<pre>';
-print_r($id_array_post);
-echo '</pre>';
-			$post_meta_data = $wpdb->get_results ("SELECT ID FROM ".$wpdb->prefix ."posts
+) );
+
+			/*$post_meta_data = $wpdb->get_results ("
+            SELECT ID FROM ".$wpdb->prefix ."posts
 			WHERE ".$wpdb->prefix ."posts.post_status ='publish' 
 			AND ".$wpdb->prefix ."posts.post_type= 'listings' AND ".$wpdb->prefix ."posts.ID = (
 			SELECT ".$wpdb->prefix ."postmeta.post_id  FROM ".$wpdb->prefix ."postmeta  
-			WHERE ".$wpdb->prefix ."postmeta.meta_key = '_ct_listing_alt_title'  
-			AND ".$wpdb->prefix ."postmeta.meta_value 
-			LIKE '%".$post_keyword. "%' 
-			OR ".$wpdb->prefix ."postmeta.meta_key = '_ct_rental_title' 
-			AND ".$wpdb->prefix ."postmeta.meta_value 
-			LIKE '%".$post_keyword. "%' limit 1 )");
-			echo '<pre>';
-			print_r($post_meta_data);
-			echo '</pre>';
-			$id_array_post_meta = array();
+			WHERE ".$wpdb->prefix ."postmeta.meta_key = '_ct_listing_alt_title' AND ".$wpdb->prefix ."postmeta.meta_value LIKE '%".$post_keyword. "%' 
+			OR ".$wpdb->prefix ."postmeta.meta_key = '_ct_rental_title' AND ".$wpdb->prefix ."postmeta.meta_value LIKE '%".$post_keyword. "%' limit 1 )");*/
+			/* SELECT ID FROM wp_posts
+			WHERE wp_posts.post_status ='publish'
+			AND wp_posts.post_type= 'listings' AND wp_posts.ID = (
+			SELECT wp_postmeta.post_id  FROM wp_postmeta
+			WHERE wp_postmeta.meta_key = '_ct_listing_alt_title' AND wp_postmeta.meta_value LIKE '%t%'
+			OR wp_postmeta.meta_key = '_ct_rental_title' AND wp_postmeta.meta_value LIKE '%t%' limit 1 )*/
+			/*$id_array_post_meta = array();
 			foreach($post_meta_data as $post_terms_id) {
 				array_push($id_array_post_meta,$post_terms_id->ID);
-			};
-			echo '<pre>';
+			};*/
+			/*echo '<pre>';
 			print_r($id_array_post_meta);
 			echo '</pre>';
-
-$post_meta_data = new WP_Query( array(
-    'ep_integrate'   => true,
-    'post_type'      => 'listings',
-    'post_status'=>'publish',
-    's' => $post_keyword,
-    'orderby'=>'title',
-    'posts_per_page' => -1,
-    'fields'=>'ids',
-    'meta_query'=>[
-           'relation' => 'OR',
+            echo '<pre>';
+            print_r($post_keyword);
+            echo '</pre>';*/
+            $post_metadata_subquery=new WP_Query([
+                    'ep_integrate'   => true,
+                    'post_type'      => 'listings',
+                    'fields'=>'ids',
+                    'meta_query' => array(
+            'relation' => 'OR',
             [
                     'key'=>'_ct_listing_alt_title',
                     'value'=>$post_keyword,
-                    'compare'=>'like'
+                    'compare'=>'LIKE'
             ],
             [
             'key'=> '_ct_rental_title',
             'value'=>$post_keyword,
-            'compare'=>'like',
-],
+            'compare'=>'LIKE',
             ],
+    ),
+]);
+//            echo '<pre>';
+//            print_r($post_metadata_subquery);
+//            echo '</pre>';
+$id_array_post_meta = new WP_Query( array(
+    'ep_integrate'   => true,
+    'post_type'      => 'listings',
+    'post_status'=>'publish',
+//    's' => $post_keyword,
+    'posts_per_page' => -1,
+    'fields'=>'ids',
+    'post__in'=>$post_metadata_subquery->posts,
 ) );
-echo '<pre>';
-print_r($post_meta_data);
-echo '</pre>';die;
 
-			$post_terms = get_posts(array(
+
+			$id_array = new WP_Query(array(
+			        'ep_integrate'   => true,
 				'showposts' => -1,
 				'post_type' => 'listings',
 				'post_status' => 'publish',
+				'fields'=>'ids',
 				'tax_query' => array(
 					'relation' => 'OR',
 					array(
@@ -10919,16 +10928,19 @@ echo '</pre>';die;
 					),
 				))
 			);
+//			echo '<pre>';
+//			print_r($id_array);
+//			echo '</pre>';
 
 
 
 
-			$id_array = array();
+			/*$id_array = array();
 			foreach($post_terms as $post_terms_id) {
 				array_push($id_array,$post_terms_id->ID);
-			};
+			};*/
 
-			$ids = array_unique(array_merge($id_array_post,$id_array_post_meta,$id_array));
+			$ids = array_unique(array_merge($id_array_post->posts,$id_array_post_meta->posts,$id_array->posts));
 			if ( empty( $ids ) ) {
 				$ids = array(1); // set it to 1 to get no posts in results rather than all posts
 			}
