@@ -310,7 +310,7 @@ if ( $ct_options['ct_disable_google_maps_search'] == 'no' ) {
 	ct_search_results_map_navigation();
 	// Map
 	//TODO:: open this function. Fix while loop this post
-	ct_search_results_map();
+//	ct_search_results_map();
 
 	// restore the query:
 	$wp_query = $queryBuffer;
