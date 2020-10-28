@@ -4025,6 +4025,7 @@ if(!function_exists('ct_search_results_map')) {
 
 		    endwhile;
 
+		endif;
 
 		if ( $pageLoaded == false ) {
 			wp_reset_query();
