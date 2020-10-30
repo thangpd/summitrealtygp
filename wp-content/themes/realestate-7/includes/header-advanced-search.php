@@ -613,7 +613,7 @@ $ct_rental_guests = isset( $_GET['ct_rental_guests'] ) ? $_GET['ct_rental_guests
                                         <i class="fas fa-search"></i>
                                         <label for="ct_keyword"><?php _e( 'Keyword', 'contempo' ); ?></label>
                                         <input type="text" id="ct_keyword" class="number header_keyword_search"
-                                               name="ct_keyword" size="8"
+                                               name="ct_keyword" size="8" required
                                                placeholder="<?php esc_html_e( 'Street, City, State, Zip or keyword', 'contempo' ); ?>" <?php if ( $ct_keyword != '' ) {
 											echo 'value="' . ucfirst( $ct_keyword ) . '"';
 										} ?> autocomplete="off"/>
