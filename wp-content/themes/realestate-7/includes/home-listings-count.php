@@ -39,6 +39,7 @@ $layout = isset( $ct_options['ct_listings_count_layout']['enabled'] ) ? $ct_opti
 						    )
 						);
 						$query = new WP_Query( $args );
+
 						echo esc_html($query->found_posts);
 						wp_reset_postdata();
 			    	echo '</h3>';
