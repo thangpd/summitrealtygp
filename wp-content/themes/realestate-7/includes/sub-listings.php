@@ -23,7 +23,7 @@ wp_reset_postdata();
 	$args = array(
 		'post_type' => 'listings',
 		'post__not_in' => array($post->ID),
-		'showposts'=> 3,
+		'posts_per_page'=> 3,
 		'tax_query' => array(
 			array(
 				'taxonomy' => 'community',

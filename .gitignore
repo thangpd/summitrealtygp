@@ -4,3 +4,4 @@ wp-content/updraft
 .idea/*
 wp-content/cache
 wp-content/debug.log
+wp-content/plugins/ct-listing-analytics/tmp

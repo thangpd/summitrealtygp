@@ -872,7 +872,7 @@ if(!function_exists('map_listing_update')) {
 			$count = 0;
 		}
 		$args["post_type"] = "listings";
-		$args["showposts"] = -1; //$search_num;
+		$args["posts_per_page"] = -1; //$search_num;
 
 		global $wp_query;
 
@@ -957,10 +957,10 @@ if(!function_exists('map_listing_update')) {
 
 		$page = $args["paged"] + 1;
 
-		$args["showposts"] = $search_num;
+		$args["posts_per_page"] = $search_num;
 
 		//$return["paged"] = $args['paged'];
-		//$return["showposts"] = $search_num;
+		//$return["posts_per_page"] = $search_num;
 		if ( class_exists( "IDX_Query" ) ) {
 			$idx_query = new IDX_Query( $args );
 		}
@@ -8471,7 +8471,7 @@ if(!function_exists('ct_related_posts')) {
 		  $args=array(
 			'tag__in' => array($first_tag),
 			'post__not_in' => array($post->ID),
-			'showposts'=>3,
+			'posts_per_page'=>3,
 			'ignore_sticky_posts'=>1
 		   );
 		  $my_query = new WP_Query($args);
@@ -10307,4 +10307,33 @@ function re7_define_filters_multiple_types() {
 
     return apply_filters('re7_multiple_filters_types', $default);
 
+}
+
+add_action('wp_footer','facebookomessenger');
+function summit_facebookmessenger(){
+    echo "<!-- Load Facebook SDK for JavaScript -->
+      <div id=\"fb-root\"></div>
+      <script>
+        window.fbAsyncInit = function() {
+          FB.init({
+            xfbml            : true,
+            version          : 'v8.0'
+          });
+        };
+
+        (function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = 'https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js';
+        fjs.parentNode.insertBefore(js, fjs);
+      }(document, 'script', 'facebook-jssdk'));</script>
+
+      <!-- Your Chat Plugin code -->
+      <div class=\"fb-customerchat\"
+        attribution=setup_tool
+        page_id=\"110778377494737\"
+  logged_in_greeting=\"Hi! How can we help you?\"
+  logged_out_greeting=\"Hi! How can we help you?\">
+      </div>";
 }

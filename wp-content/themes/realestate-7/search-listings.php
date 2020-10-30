@@ -79,7 +79,6 @@ $total_results = $wp_query->found_posts;
 
 $search_params = array();
 
-
 if ( ! empty( $_GET['ct_property_type'] ) && ! is_numeric( $_GET['ct_property_type'] ) ) {
 
 	if ( is_array( $_GET['ct_property_type'] ) ) {
@@ -208,7 +207,9 @@ if ( ! empty( $_GET['ct_mls'] ) && $_GET['ct_mls'] > 0 ) {
 
 $search_params = str_replace( '-', ' ', $search_params );
 $search_params = array_map( 'ucwords', $search_params );
+
 $search_params = implode( ', ', $search_params );
+
 
 do_action( 'before_listings_search_header' );
 
@@ -283,28 +284,6 @@ if ( $ct_options['ct_disable_google_maps_search'] == 'no' ) {
 	}
 
 
-	//$search_values = getSearchArgs();
-
-	//$search_values['post_type'] = 'listings';
-	//$search_values['paged'] = ct_currentPage();
-	//$search_values['showposts'] = $search_num;
-
-	//$wp_query = new wp_query( $search_values );
-
-
-	// We skip this check because we still want the map if no results
-	// because we've added map drag / map zoom search
-	//if( $wp_query->have_posts() ) {
-
-	/* Loader
-	echo '<div id="search-results-loading">';
-		echo '<div id="search-results-loading-overlay">';
-			echo '<div id="search-results-loading-icon">';
-				echo '<img src="' . get_stylesheet_directory_uri() . '/images/loader.gif" />';
-			echo '</div>';
-		echo '</div>';
-	echo '</div>';
-	*/
 
 	// Marker Navigation
 	ct_search_results_map_navigation();
@@ -382,6 +361,7 @@ if ( $ct_search_results_layout == 'sidebyside' ) {
 	} else {
 		echo '<span id="search-params">' . __( 'All listings', 'contempo' ) . '</span>';
 	}
+
 	echo '</h5>';
 	echo '<h5 class="marT20 marB0 right muted"><span id="number-listings-found">' . esc_html( $total_results ) . '</span> ';
 	if ( $total_results != '1' ) {
@@ -405,6 +385,7 @@ if ( $ct_disable_listing_search_results_adv_search == 'no' && $ct_search_results
 	echo '<div class="container">';
 	echo '<span class="searching">' . __( 'Searching:', 'contempo' ) . '</span>';
 	if ( ! empty( $search_params ) ) {
+
 		echo '<span class="search-params">' . $search_params . '</span>';
 	} else {
 		echo '<span class="search-params">' . __( 'All listings', 'contempo' ) . '</span>';
@@ -482,7 +463,7 @@ if ( $ct_disable_listing_search_results_adv_search == 'no' && $ct_search_results
 		//$search_values['post_type'] = 'listings';
 		$search_values['paged']     = ct_currentPage();
 		$search_num                 = $ct_options['ct_listing_search_num'];
-		$search_values['showposts'] = $search_num;
+		$search_values['posts_per_page'] = $search_num;
 
 		$wp_query = new wp_query( $search_values );
 

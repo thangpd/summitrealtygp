@@ -43,7 +43,6 @@ if ( ! function_exists( 'getSearchArgs' ) ) {
 		$search_values = array();
 		$tax_query     = array();
 		$meta_query    = array();
-
 		foreach ( $taxonomies_to_search as $t => $l ) {
 			$var_name = 'ct_' . $t;
 
@@ -57,7 +56,7 @@ if ( ! function_exists( 'getSearchArgs' ) ) {
 		$search_values['orderby']   = 'date';
 		$search_values['paged']     = ct_currentPage();
 		$search_num                 = $ct_options['ct_listing_search_num'];
-		$search_values['showposts'] = $search_num;
+		$search_values['posts_per_page'] = $search_num;
 
 		$search_values['tax_query'] = array();
 
