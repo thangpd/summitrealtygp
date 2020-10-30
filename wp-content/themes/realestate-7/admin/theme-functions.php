@@ -10309,7 +10309,7 @@ function re7_define_filters_multiple_types() {
 
 }
 
-add_action('wp_footer','facebookomessenger');
+add_action('wp_footer','summit_facebookmessenger');
 function summit_facebookmessenger(){
     echo "<!-- Load Facebook SDK for JavaScript -->
       <div id=\"fb-root\"></div>
@@ -10332,8 +10332,6 @@ function summit_facebookmessenger(){
       <!-- Your Chat Plugin code -->
       <div class=\"fb-customerchat\"
         attribution=setup_tool
-        page_id=\"110778377494737\"
-  logged_in_greeting=\"Hi! How can we help you?\"
-  logged_out_greeting=\"Hi! How can we help you?\">
+        page_id=\"105010471388849\">
       </div>";
 }
