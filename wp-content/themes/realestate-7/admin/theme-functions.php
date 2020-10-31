@@ -4258,8 +4258,31 @@ if(!function_exists('ct_slider')) {
 		global $ct_options;
 		global $post;
 		$slides = $ct_options['ct_flex_slider'];
+		$btn_one=$ct_options['ct_flex_title_one'];
+		$btn_one_link=$ct_options['ct_flex_title_one_link'];
+		$btn_second=$ct_options['ct_flex_title_second'];
+		$btn_second_link=$ct_options['ct_flex_title_second_link'];
+
 		if($slides > 1) { ?>
 	        <div id="slider" class="flexslider">
+	  <div class="btn-center-slide">
+                <?php if(isset($btn_one) && !empty($btn_one)){
+                    ?>
+                    <a href="<?php echo !empty($btn_one_link)?$btn_one_link:'#' ?>" class="btn-second-slide btn-slide">
+<?php echo $btn_one ?>
+</a>
+</div>
+<?php
+                } ?>
+                          <?php if(isset($btn_second) && !empty($btn_second)){
+                    ?>
+                    <a href="<?php echo !empty($btn_second_link)?$btn_second_link:'#' ?>" class="btn-second-slide btn-slide">
+<?php echo $btn_second ?>
+
+</a>
+</div>
+<?php
+                } ?>
 	            <ul class="slides">
 
 	                <?php
@@ -4283,6 +4306,7 @@ if(!function_exists('ct_slider')) {
 			                        </div>
 			                    <?php } ?>
 		                    </div>
+
 		                    <?php if(!empty ($value['url'])) { ?>
 		                    	<a href="<?php echo esc_url($value['url']); ?>">
 									<img src="<?php echo esc_url($value['image']); ?>" />
@@ -10333,5 +10357,22 @@ function summit_facebookmessenger(){
       <div class=\"fb-customerchat\"
         attribution=setup_tool
         page_id=\"105010471388849\">
-      </div>";
+      </div>
+      <div class=\"popup-form-click\"></div>
+      ";
+}
+// Copy everything below this line //
+add_filter( 'kses_allowed_protocols', 'my_allowed_protocols' );
+/**
+ *  Description
+ *
+ *  @since 1.0.0
+ *
+ *  @param $protocols
+ *
+ *  @return array
+ */
+function my_allowed_protocols ( $protocols ) {
+        $protocols[] = "javascript";
+        return $protocols;
 }

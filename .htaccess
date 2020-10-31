@@ -1,21 +1,3 @@
-# BEGIN Adaptive Images
-#=======================
-
-<IfModule mod_rewrite.c>
-
-    RewriteEngine On
-
-    # Watched directories
-    RewriteCond %{REQUEST_URI} /summitrealtygp/wp-content/uploads [OR]
-    RewriteCond %{REQUEST_URI} /summitrealtygp/wp-content/themes
-
-    # Redirect images through the adaptive images script
-    RewriteRule \.(?:jpe?g|gif|png)$ /summitrealtygp/wp-content/plugins/adaptive-images/adaptive-images-script.php [L]
-
-</IfModule>
-
-# END Adaptive Images
-
 # BEGIN WordPress
 # The directives (lines) between "BEGIN WordPress" and "END WordPress" are
 # dynamically generated, and should only be modified via WordPress filters.
