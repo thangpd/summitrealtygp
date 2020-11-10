@@ -5267,6 +5267,33 @@ Redux::setSection( $opt_name, array(
 			'title'   => 'Enable "Delete Account" button in Edit Profile Page?',
 			'default' => 'no',
 		),
+		array(
+			'desc'     => 'Select your Mortgage Caculator page here.',
+			'id'       => 'ct_mortgage_caculator',
+			'type'     => 'select',
+			'data'     => 'pages',
+			'title'    => 'Edit User Mortgage Caculator Page',
+			'default'  => '',
+			'required' => array( 'ct_enable_front_end_login', 'equals', 'yes' ),
+		),
+		array(
+			'desc'     => 'Select your Resource page here.',
+			'id'       => 'ct_summit_resource',
+			'type'     => 'select',
+			'data'     => 'pages',
+			'title'    => 'Edit User Resource Page',
+			'default'  => '',
+			'required' => array( 'ct_enable_front_end_login', 'equals', 'yes' ),
+		),
+		array(
+			'desc'     => 'Select your User Upload page here.',
+			'id'       => 'ct_summit_user_upload',
+			'type'     => 'select',
+			'data'     => 'pages',
+			'title'    => 'Edit User User Upload Page',
+			'default'  => '',
+			'required' => array( 'ct_enable_front_end_login', 'equals', 'yes' ),
+		),
 	)
 ) );
 

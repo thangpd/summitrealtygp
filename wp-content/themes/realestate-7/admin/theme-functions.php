@@ -5241,6 +5241,7 @@ add_action( 'wp_enqueue_scripts', 'ct_remove_vc_styles', 99 );
 if(!function_exists('ct_deregister_styles')) {
 	function ct_deregister_styles() {
 		wp_deregister_style( 'ct_mortgage_calc' );
+    wp_deregister_script( 'wp-embed' );
 	}
 }
 add_action( 'wp_print_styles', 'ct_deregister_styles', 100 );
