@@ -606,7 +606,6 @@ function wpfm_get_wp_files( $parent_id = 0, $user_id = null ) {
 			'nopaging'    => true,
 			'post_parent' => $parent_id,
 			'author'      => $user_id,
-			'posts_per_page' => 8,
 		);
 	}
 
