@@ -9,8 +9,11 @@
 global $ct_options;
 
 function custom_author_archive( &$query ) {
-    if ($query->is_author)
-        {$query->set( 'post_type', array( 'listings' ) );}
+
+    if ($query->is_author && !is_page('user-upload'))
+        {
+            $query->set( 'post_type', array( 'listings' ) );
+        }
 }
 add_action( 'pre_get_posts', 'custom_author_archive' );
 
