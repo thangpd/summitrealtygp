@@ -50,11 +50,11 @@ function checkPasswordStrength( $pass1,
  
 jQuery( document ).ready( function( $ ) {
     // Binding to trigger checkPasswordStrength
-    $( 'body' ).on( 'keyup', 'input[name=pass1], input[name=pass2]',
+    $( 'body' ).on( 'keyup', 'input[name=password1], input[name=password2]',
         function( event ) {
             checkPasswordStrength(
-                $('input[name=pass1]'),         // First password field
-                $('input[name=pass2]'), // Second password field
+                $('input[name=password1]'),         // First password field
+                $('input[name=password2]'), // Second password field
                 $('#pass-strength'),           // Strength meter
                 $('input[type=submit]'),           // Submit button
                 ['black', 'listed', 'word']        // Blacklisted words

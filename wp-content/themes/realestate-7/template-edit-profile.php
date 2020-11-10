@@ -77,9 +77,10 @@ while ( have_posts() ) : the_post();
 		if ( 'POST' == $_SERVER['REQUEST_METHOD'] && ! empty( $_POST['action'] ) && $_POST['action'] == 'update-user' ) {
 
 			/* Update user password */
-			if ( ! empty( $_POST['pass1'] ) && ! empty( $_POST['pass2'] ) ) {
-				if ( $_POST['pass1'] == $_POST['pass2'] ) {
-					wp_update_user( array( 'ID' => $current_user->ID, 'user_pass' => esc_attr( $_POST['pass1'] ) ) );
+			if ( ! empty( $_POST['password1'] ) && ! empty( $_POST['password2'] ) ) {
+				if ( $_POST['password1'] == $_POST['password2'] ) {
+					wp_update_user( array( 'ID' => $current_user->ID, 'user_pass' => esc_attr( $_POST['password1'] ) ) );
+					$error[] = __( 'Your password was updated.', 'contempo' );
 				} else {
 					$error[] = __( 'The passwords you entered do not match. Your password was not updated.', 'contempo' );
 				}
@@ -254,12 +255,12 @@ while ( have_posts() ) : the_post();
                     </tr>
 
                     <tr>
-                        <th><label for="pass1"><?php _e( 'New Password', 'contempo' ); ?></label><span
+                        <th><label for="password1"><?php _e( 'New Password', 'contempo' ); ?></label><span
                                     class="description"><?php _e( 'If you would like to change the password type a new one. Otherwise leave this blank.', 'contempo' ); ?></span>
                         </th>
                         <td>
-                            <input type="password" name="pass1" id="pass1" size="16" value="" autocomplete="off"/>
-                            <input type="password" name="pass2" id="pass2" size="16" value="" autocomplete="off"/>
+                            <input type="password" name="password1" id="password1" size="16" value="" autocomplete="off"/>
+                            <input type="password" name="password2" id="password2" size="16" value="" autocomplete="off"/>
                             <em><span class="description"><?php _e( 'Type your new password again.', 'contempo' ); ?></span></em>
 
                             <div id="pass-strength"><?php _e( 'Strength indicator', 'contempo' ); ?></div>
