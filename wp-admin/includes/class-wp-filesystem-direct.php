@@ -170,9 +170,6 @@ class WP_Filesystem_Direct extends WP_Filesystem_Base {
 		}
 
 		if ( ! $recursive || ! $this->is_dir( $file ) ) {
-			echo '<pre>';
-			print_r();
-			echo '</pre>';
 			return chmod( $file, $mode );
 		}
 
