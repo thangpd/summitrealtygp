@@ -605,14 +605,15 @@ function wpfm_get_wp_files( $parent_id = 0, $user_id = null ) {
 			'post_status' => 'publish',
 			'nopaging'    => true,
 			'post_parent' => $parent_id,
-			'author'      => $user_id
+			'author'      => $user_id,
+			'posts_per_page' => 8,
 		);
 	}
 
 
 	$wpfm_args = apply_filters( 'wpfm_wp_files_query', $wpfm_args, $parent_id );
 
-	$post_files = new WP_Query( $wpfm_args );
+	$post_files = get_posts( $wpfm_args );
 
 	return apply_filters( 'wpfm_wp_files', $post_files );
 }
