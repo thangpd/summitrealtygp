@@ -10,19 +10,19 @@ global $ct_options;
 
 function custom_author_archive( &$query ) {
 
-    if ($query->is_author && !is_page('user-upload'))
-        {
-            $query->set( 'post_type', array( 'listings' ) );
-        }
+	if ( $query->is_author && ! is_page( 'user-upload' ) ) {
+		$query->set( 'post_type', array( 'listings' ) );
+	}
 }
+
 add_action( 'pre_get_posts', 'custom_author_archive' );
 
 /*-----------------------------------------------------------------------------------*/
 /* Redirect to Getting Started page on theme activation */
 /*-----------------------------------------------------------------------------------*/
 
-if(is_admin() && 'themes.php' == $pagenow && isset( $_GET['activated'])) {
-	wp_redirect(admin_url('themes.php?page=merlin'));
+if ( is_admin() && 'themes.php' == $pagenow && isset( $_GET['activated'] ) ) {
+	wp_redirect( admin_url( 'themes.php?page=merlin' ) );
 }
 
 /*-----------------------------------------------------------------------------------*/
@@ -34,43 +34,43 @@ if(is_admin() && 'themes.php' == $pagenow && isset( $_GET['activated'])) {
 /* it so if they don't upgrade there's no issues, they just won't be available for use
 /*-----------------------------------------------------------------------------------*/
 
-if (version_compare(phpversion(), '5.6.0', '<=')) { 
+if ( version_compare( phpversion(), '5.6.0', '<=' ) ) {
 	// Display Notice
 	function ct_vc_admin_notices() {
 		global $current_user;
 		$user_id = $current_user->ID;
 
-		if(!get_user_meta($user_id, 'ct_re7_php_nag_ignore')) {
-			
+		if ( ! get_user_meta( $user_id, 'ct_re7_php_nag_ignore' ) ) {
+
 			$ct_re7_php_kb_article_link = 'https://contempo.ticksy.com/article/8877/';
 
 			echo '<div class="updated notice is-dismissible">';
-		        echo '<h3><strong>' . __('Please Update Your PHP Version to the Recommended 5.6+', 'contempo') . '</strong></h3>';
-		        echo '<p>' . __('Otherwise some of the Theme Functions and Custom Visual Composer modules won\'t be available for use, or cause issues with your site display.', 'contempo') . '</p>';
-		        echo '<p>' . __('Its a quick and simple process (no more than a couple minutes), please refer to this knowledgebase article below.', 'contempo') . '</p>';
-		        echo '<p><a href="' . esc_url($ct_re7_php_kb_article_link) . '" target="_blank">' . __('Minimum PHP Version 5.6+ and How to Update to It', 'contempo') . '</a></p>';
-		        echo '<p><strong><a class="dismiss-notice" href="' . site_url() . '/wp-admin/admin.php?ct_re7_php_nag_ignore=0" target="_parent">' . __('Dismiss this notice', 'contempo') . '</a></strong></p>';
-		    echo '</div>';
+			echo '<h3><strong>' . __( 'Please Update Your PHP Version to the Recommended 5.6+', 'contempo' ) . '</strong></h3>';
+			echo '<p>' . __( 'Otherwise some of the Theme Functions and Custom Visual Composer modules won\'t be available for use, or cause issues with your site display.', 'contempo' ) . '</p>';
+			echo '<p>' . __( 'Its a quick and simple process (no more than a couple minutes), please refer to this knowledgebase article below.', 'contempo' ) . '</p>';
+			echo '<p><a href="' . esc_url( $ct_re7_php_kb_article_link ) . '" target="_blank">' . __( 'Minimum PHP Version 5.6+ and How to Update to It', 'contempo' ) . '</a></p>';
+			echo '<p><strong><a class="dismiss-notice" href="' . site_url() . '/wp-admin/admin.php?ct_re7_php_nag_ignore=0" target="_parent">' . __( 'Dismiss this notice', 'contempo' ) . '</a></strong></p>';
+			echo '</div>';
 
 		}
 	}
 
 	// Set Dismiss Referer
 	function ct_vc_admin_notices_init() {
-	    if ( isset($_GET['ct_re7_php_nag_ignore']) && '0' == $_GET['ct_re7_php_nag_ignore'] ) {
-	        $user_id = get_current_user_id();
-	        add_user_meta($user_id, 'ct_re7_php_nag_ignore', 'true', true);
-	        if (wp_get_referer()) {
-	            /* Redirects user to where they were before */
-	            wp_safe_redirect(wp_get_referer());
-	        } else {
-	            /* if there is no referrer you redirect to home */
-	            wp_safe_redirect(home_url());
-	        }
-	    }
+		if ( isset( $_GET['ct_re7_php_nag_ignore'] ) && '0' == $_GET['ct_re7_php_nag_ignore'] ) {
+			$user_id = get_current_user_id();
+			add_user_meta( $user_id, 'ct_re7_php_nag_ignore', 'true', true );
+			if ( wp_get_referer() ) {
+				/* Redirects user to where they were before */
+				wp_safe_redirect( wp_get_referer() );
+			} else {
+				/* if there is no referrer you redirect to home */
+				wp_safe_redirect( home_url() );
+			}
+		}
 	}
-	
-	add_action('admin_init', 'ct_vc_admin_notices_init');
+
+	add_action( 'admin_init', 'ct_vc_admin_notices_init' );
 	add_action( 'admin_notices', 'ct_vc_admin_notices' );
 }
 
@@ -78,41 +78,41 @@ if (version_compare(phpversion(), '5.6.0', '<=')) {
 /* Display admin notice when WP Favortie Posts plugin is activated
 /*-----------------------------------------------------------------------------------*/
 
-if (function_exists('wp_favorite_posts')) { 
+if ( function_exists( 'wp_favorite_posts' ) ) {
 	// Display Notice
 	function ct_wpfav_admin_notices() {
 		global $current_user;
 		$user_id = $current_user->ID;
 
-		if(!get_user_meta($user_id, 'ct_re7_wpfav_nag_ignore')) {
-			
+		if ( ! get_user_meta( $user_id, 'ct_re7_wpfav_nag_ignore' ) ) {
+
 			$ct_re7_wpfav_doc_link = 'http://contempothemes.com/wp-real-estate-7/documentation/#wpfavorites';
 
 			echo '<div class="updated notice is-dismissible">';
-		        echo '<h3><strong>' . __('WP Favorite Posts Needs to be Setup', 'contempo') . '</strong></h3>';
-		        echo '<p>' . __('Just takes a few seconds to setup the plugin properly please see the ', 'contempo') . '<a href="' . esc_url($ct_re7_wpfav_doc_link) . '" target="_blank">' . __('documentation', 'contempo') . '</a>, if you\'ve already done this just dismiss the notice below.</p>';
-		        echo '<p><strong><a class="dismiss-notice" href="' . site_url() . '/wp-admin/admin.php?ct_re7_wpfav_nag_ignore=0" target="_parent">' . __('Dismiss this notice', 'contempo') . '</a></strong></p>';
-		    echo '</div>';
+			echo '<h3><strong>' . __( 'WP Favorite Posts Needs to be Setup', 'contempo' ) . '</strong></h3>';
+			echo '<p>' . __( 'Just takes a few seconds to setup the plugin properly please see the ', 'contempo' ) . '<a href="' . esc_url( $ct_re7_wpfav_doc_link ) . '" target="_blank">' . __( 'documentation', 'contempo' ) . '</a>, if you\'ve already done this just dismiss the notice below.</p>';
+			echo '<p><strong><a class="dismiss-notice" href="' . site_url() . '/wp-admin/admin.php?ct_re7_wpfav_nag_ignore=0" target="_parent">' . __( 'Dismiss this notice', 'contempo' ) . '</a></strong></p>';
+			echo '</div>';
 
 		}
 	}
 
 	// Set Dismiss Referer
 	function ct_wpfav_admin_notices_init() {
-	    if ( isset($_GET['ct_re7_wpfav_nag_ignore']) && '0' == $_GET['ct_re7_wpfav_nag_ignore'] ) {
-	        $user_id = get_current_user_id();
-	        add_user_meta($user_id, 'ct_re7_wpfav_nag_ignore', 'true', true);
-	        if (wp_get_referer()) {
-	            /* Redirects user to where they were before */
-	            wp_safe_redirect(wp_get_referer());
-	        } else {
-	            /* if there is no referrer you redirect to home */
-	            wp_safe_redirect(home_url());
-	        }
-	    }
+		if ( isset( $_GET['ct_re7_wpfav_nag_ignore'] ) && '0' == $_GET['ct_re7_wpfav_nag_ignore'] ) {
+			$user_id = get_current_user_id();
+			add_user_meta( $user_id, 'ct_re7_wpfav_nag_ignore', 'true', true );
+			if ( wp_get_referer() ) {
+				/* Redirects user to where they were before */
+				wp_safe_redirect( wp_get_referer() );
+			} else {
+				/* if there is no referrer you redirect to home */
+				wp_safe_redirect( home_url() );
+			}
+		}
 	}
-	
-	add_action('admin_init', 'ct_wpfav_admin_notices_init');
+
+	add_action( 'admin_init', 'ct_wpfav_admin_notices_init' );
 	add_action( 'admin_notices', 'ct_wpfav_admin_notices' );
 }
 
@@ -120,41 +120,41 @@ if (function_exists('wp_favorite_posts')) {
 /* Display admin notice when Contempo Compare Listings plugin is activated
 /*-----------------------------------------------------------------------------------*/
 
-if (class_exists('Redq_Alike')) { 
+if ( class_exists( 'Redq_Alike' ) ) {
 	// Display Notice
 	function ct_compare_admin_notices() {
 		global $current_user;
 		$user_id = $current_user->ID;
 
-		if(!get_user_meta($user_id, 'ct_re7_compare_nag_ignore')) {
-			
+		if ( ! get_user_meta( $user_id, 'ct_re7_compare_nag_ignore' ) ) {
+
 			$ct_re7_compare_doc_link = 'http://contempothemes.com/wp-real-estate-7/documentation/#compare';
 
 			echo '<div class="updated notice is-dismissible">';
-		        echo '<h3><strong>' . __('Contempo Compare Listings Needs to be Setup', 'contempo') . '</strong></h3>';
-		        echo '<p>' . __('Just takes a few seconds to setup the plugin properly please see the ', 'contempo') . '<a href="' . esc_url($ct_re7_compare_doc_link) . '" target="_blank">' . __('documentation', 'contempo') . '</a>, if you\'ve already done this just dismiss the notice below.</p>';
-		        echo '<p><strong><a class="dismiss-notice" href="' . site_url() . '/wp-admin/admin.php?ct_re7_compare_nag_ignore=0" target="_parent">' . __('Dismiss this notice', 'contempo') . '</a></strong></p>';
-		    echo '</div>';
+			echo '<h3><strong>' . __( 'Contempo Compare Listings Needs to be Setup', 'contempo' ) . '</strong></h3>';
+			echo '<p>' . __( 'Just takes a few seconds to setup the plugin properly please see the ', 'contempo' ) . '<a href="' . esc_url( $ct_re7_compare_doc_link ) . '" target="_blank">' . __( 'documentation', 'contempo' ) . '</a>, if you\'ve already done this just dismiss the notice below.</p>';
+			echo '<p><strong><a class="dismiss-notice" href="' . site_url() . '/wp-admin/admin.php?ct_re7_compare_nag_ignore=0" target="_parent">' . __( 'Dismiss this notice', 'contempo' ) . '</a></strong></p>';
+			echo '</div>';
 
 		}
 	}
 
 	// Set Dismiss Referer
 	function ct_compare_admin_notices_init() {
-	    if ( isset($_GET['ct_re7_compare_nag_ignore']) && '0' == $_GET['ct_re7_compare_nag_ignore'] ) {
-	        $user_id = get_current_user_id();
-	        add_user_meta($user_id, 'ct_re7_compare_nag_ignore', 'true', true);
-	        if (wp_get_referer()) {
-	            /* Redirects user to where they were before */
-	            wp_safe_redirect(wp_get_referer());
-	        } else {
-	            /* if there is no referrer you redirect to home */
-	            wp_safe_redirect(home_url());
-	        }
-	    }
+		if ( isset( $_GET['ct_re7_compare_nag_ignore'] ) && '0' == $_GET['ct_re7_compare_nag_ignore'] ) {
+			$user_id = get_current_user_id();
+			add_user_meta( $user_id, 'ct_re7_compare_nag_ignore', 'true', true );
+			if ( wp_get_referer() ) {
+				/* Redirects user to where they were before */
+				wp_safe_redirect( wp_get_referer() );
+			} else {
+				/* if there is no referrer you redirect to home */
+				wp_safe_redirect( home_url() );
+			}
+		}
 	}
-	
-	add_action('admin_init', 'ct_compare_admin_notices_init');
+
+	add_action( 'admin_init', 'ct_compare_admin_notices_init' );
 	add_action( 'admin_notices', 'ct_compare_admin_notices' );
 }
 
@@ -162,41 +162,41 @@ if (class_exists('Redq_Alike')) {
 /* Display admin notice when WP Social Login plugin is activated
 /*-----------------------------------------------------------------------------------*/
 
-if (function_exists('wsl_activate')) { 
+if ( function_exists( 'wsl_activate' ) ) {
 	// Display Notice
 	function ct_social_login_admin_notices() {
 		global $current_user;
 		$user_id = $current_user->ID;
 
-		if(!get_user_meta($user_id, 'ct_re7_social_login_nag_ignore')) {
-			
+		if ( ! get_user_meta( $user_id, 'ct_re7_social_login_nag_ignore' ) ) {
+
 			$ct_re7_compare_doc_link = 'http://contempothemes.com/wp-real-estate-7/documentation/#sociallogin';
 
 			echo '<div class="updated notice is-dismissible">';
-		        echo '<h3><strong>' . __('WordPress Social Login Needs to be Setup', 'contempo') . '</strong></h3>';
-		        echo '<p>' . __('Just takes a few seconds to setup the plugin properly please see the ', 'contempo') . '<a href="' . esc_url($ct_re7_compare_doc_link) . '" target="_blank">' . __('documentation', 'contempo') . '</a>, if you\'ve already done this just dismiss the notice below.</p>';
-		        echo '<p><strong><a class="dismiss-notice" href="' . site_url() . '/wp-admin/admin.php?ct_re7_social_login_nag_ignore=0" target="_parent">' . __('Dismiss this notice', 'contempo') . '</a></strong></p>';
-		    echo '</div>';
+			echo '<h3><strong>' . __( 'WordPress Social Login Needs to be Setup', 'contempo' ) . '</strong></h3>';
+			echo '<p>' . __( 'Just takes a few seconds to setup the plugin properly please see the ', 'contempo' ) . '<a href="' . esc_url( $ct_re7_compare_doc_link ) . '" target="_blank">' . __( 'documentation', 'contempo' ) . '</a>, if you\'ve already done this just dismiss the notice below.</p>';
+			echo '<p><strong><a class="dismiss-notice" href="' . site_url() . '/wp-admin/admin.php?ct_re7_social_login_nag_ignore=0" target="_parent">' . __( 'Dismiss this notice', 'contempo' ) . '</a></strong></p>';
+			echo '</div>';
 
 		}
 	}
 
 	// Set Dismiss Referer
 	function ct_social_login_admin_notices_init() {
-	    if ( isset($_GET['ct_re7_social_login_nag_ignore']) && '0' == $_GET['ct_re7_social_login_nag_ignore'] ) {
-	        $user_id = get_current_user_id();
-	        add_user_meta($user_id, 'ct_re7_social_login_nag_ignore', 'true', true);
-	        if (wp_get_referer()) {
-	            /* Redirects user to where they were before */
-	            wp_safe_redirect(wp_get_referer());
-	        } else {
-	            /* if there is no referrer you redirect to home */
-	            wp_safe_redirect(home_url());
-	        }
-	    }
+		if ( isset( $_GET['ct_re7_social_login_nag_ignore'] ) && '0' == $_GET['ct_re7_social_login_nag_ignore'] ) {
+			$user_id = get_current_user_id();
+			add_user_meta( $user_id, 'ct_re7_social_login_nag_ignore', 'true', true );
+			if ( wp_get_referer() ) {
+				/* Redirects user to where they were before */
+				wp_safe_redirect( wp_get_referer() );
+			} else {
+				/* if there is no referrer you redirect to home */
+				wp_safe_redirect( home_url() );
+			}
+		}
 	}
-	
-	add_action('admin_init', 'ct_social_login_admin_notices_init');
+
+	add_action( 'admin_init', 'ct_social_login_admin_notices_init' );
 	add_action( 'admin_notices', 'ct_social_login_admin_notices' );
 }
 
@@ -248,32 +248,33 @@ if(!empty($check_listings)) {
 /*-----------------------------------------------------------------------------------*/
 
 function ct_remove_redux_demo_link() {
-    if(class_exists('ReduxFrameworkPlugin')) {
-    	remove_filter( 'plugin_row_meta', array( ReduxFrameworkPlugin::get_instance(), 'plugin_metalinks'), null, 2);
-    }
+	if ( class_exists( 'ReduxFrameworkPlugin' ) ) {
+		remove_filter( 'plugin_row_meta', array( ReduxFrameworkPlugin::get_instance(), 'plugin_metalinks' ), null, 2 );
+	}
 
-    delete_transient( 'elementor_activation_redirect' );
+	delete_transient( 'elementor_activation_redirect' );
 }
-add_action('init', 'ct_remove_redux_demo_link');
+
+add_action( 'init', 'ct_remove_redux_demo_link' );
 
 /*-----------------------------------------------------------------------------------*/
 /* Admin CSS */
 /*-----------------------------------------------------------------------------------*/
 
-if(!function_exists('ct_admin_css')) {
+if ( ! function_exists( 'ct_admin_css' ) ) {
 	function ct_admin_css() {
 		echo '<style>';
-			echo 'tr[data-slug="slider-revolution"] + .plugin-update-tr, .vc_license-activation-notice, .rs-update-notice-wrap, tr.plugin-update-tr.active#js_composer-update, .updated.vc_updater-result-message { display: none;}, a[aria-label="More information about Contempo Mortgage Calculator Widget"], .wrap.vc_settings a.nav-tab:nth-child(3) { display: none !important;}';
-			echo '.redux-message.redux-notice { display: none !important;}';
-			echo '.theme-browser .theme.wrap-importer .theme-actions, .theme-browser .theme.active.wrap-importer .theme-actions { bottom: -24px !important; top: inherit !important;}';
-			echo '.package-status { display: block; padding: 6px 10px; color: #fff; font-size: 10px; border-radius: 3px; text-transform: uppercase; text-align: center; background: #29333d;}';
-			echo '#package-active { background: #7faf1b;}';
-			echo '#package-limit-reached { background: #bc0000;}';
-			echo '#package-expired { background: #bc0000;}';
+		echo 'tr[data-slug="slider-revolution"] + .plugin-update-tr, .vc_license-activation-notice, .rs-update-notice-wrap, tr.plugin-update-tr.active#js_composer-update, .updated.vc_updater-result-message { display: none;}, a[aria-label="More information about Contempo Mortgage Calculator Widget"], .wrap.vc_settings a.nav-tab:nth-child(3) { display: none !important;}';
+		echo '.redux-message.redux-notice { display: none !important;}';
+		echo '.theme-browser .theme.wrap-importer .theme-actions, .theme-browser .theme.active.wrap-importer .theme-actions { bottom: -24px !important; top: inherit !important;}';
+		echo '.package-status { display: block; padding: 6px 10px; color: #fff; font-size: 10px; border-radius: 3px; text-transform: uppercase; text-align: center; background: #29333d;}';
+		echo '#package-active { background: #7faf1b;}';
+		echo '#package-limit-reached { background: #bc0000;}';
+		echo '#package-expired { background: #bc0000;}';
 		echo '</style>';
 	}
 }
-add_action('admin_head', 'ct_admin_css');
+add_action( 'admin_head', 'ct_admin_css' );
 
 /*-----------------------------------------------------------------------------------*/
 /* Redirect to Theme Options on Activate */
@@ -288,17 +289,17 @@ if(is_admin() && isset($_GET['activated'] ) && $pagenow == "themes.php" && !is_c
 /* Body IDs */
 /*-----------------------------------------------------------------------------------*/
 
-if(!function_exists('ct_body_id')) {
+if ( ! function_exists( 'ct_body_id' ) ) {
 	function ct_body_id() {
-		if (is_home() || is_front_page()) {
+		if ( is_home() || is_front_page() ) {
 			echo ' id="home"';
-		} elseif (is_single()) {
+		} elseif ( is_single() ) {
 			echo ' id="single"';
-		} elseif (is_page()) {
+		} elseif ( is_page() ) {
 			echo ' id="page"';
-		} elseif (is_search()) {
+		} elseif ( is_search() ) {
 			echo ' id="search"';
-		} elseif (is_archive()) {
+		} elseif ( is_archive() ) {
 			echo ' id="archive"';
 		}
 	}
@@ -308,31 +309,32 @@ if(!function_exists('ct_body_id')) {
 /* Body Classes */
 /*-----------------------------------------------------------------------------------*/
 
-function ct_body_classes($classes) {
+function ct_body_classes( $classes ) {
 
 	global $ct_options;
 
-	$url = 'http://' . $_SERVER['SERVER_NAME'] . $_SERVER['REQUEST_URI'];
-	$ct_boxed = isset( $ct_options['ct_boxed'] ) ? esc_attr( $ct_options['ct_boxed'] ) : '';
+	$url                      = 'http://' . $_SERVER['SERVER_NAME'] . $_SERVER['REQUEST_URI'];
+	$ct_boxed                 = isset( $ct_options['ct_boxed'] ) ? esc_attr( $ct_options['ct_boxed'] ) : '';
 	$ct_listing_single_layout = isset( $ct_options['ct_listing_single_layout'] ) ? esc_html( $ct_options['ct_listing_single_layout'] ) : '';
- 	
- 	// Listing Single Layout
-    if(is_singular('listings')) {
-        $classes[] = $ct_listing_single_layout;
-    }
 
-    if(!empty($ct_boxed)) {
-    	$classes[] = $ct_boxed;
-    }
-
-    // Listings Search
-	if (strpos($url,'search-listings=true') !== false) {
-	    $classes[] = 'search-listings';
+	// Listing Single Layout
+	if ( is_singular( 'listings' ) ) {
+		$classes[] = $ct_listing_single_layout;
 	}
 
-    return $classes;    
+	if ( ! empty( $ct_boxed ) ) {
+		$classes[] = $ct_boxed;
+	}
+
+	// Listings Search
+	if ( strpos( $url, 'search-listings=true' ) !== false ) {
+		$classes[] = 'search-listings';
+	}
+
+	return $classes;
 }
-add_filter( 'body_class','ct_body_classes' );
+
+add_filter( 'body_class', 'ct_body_classes' );
 
 /*-----------------------------------------------------------------------------------*/
 /* Add Automatic Feed Links */
@@ -344,9 +346,9 @@ add_theme_support( 'automatic-feed-links' );
 /* Add Title Tag Support */
 /*-----------------------------------------------------------------------------------*/
 
-if(!function_exists('ct_title_tag')) {
+if ( ! function_exists( 'ct_title_tag' ) ) {
 	function ct_title_tag() {
-	   add_theme_support( 'title-tag' );
+		add_theme_support( 'title-tag' );
 	}
 }
 add_action( 'after_setup_theme', 'ct_title_tag' );
@@ -355,7 +357,7 @@ add_action( 'after_setup_theme', 'ct_title_tag' );
 /* Add Editor Stylesheet Support */
 /*-----------------------------------------------------------------------------------*/
 
-if ( function_exists('add_editor_style') ) {
+if ( function_exists( 'add_editor_style' ) ) {
 	add_editor_style();
 }
 
@@ -363,40 +365,44 @@ if ( function_exists('add_editor_style') ) {
 /* Add Post Thumbnail Support */
 /*-----------------------------------------------------------------------------------*/
 
-add_theme_support('post-thumbnails'); 
+add_theme_support( 'post-thumbnails' );
 
 /*-----------------------------------------------------------------------------------*/
 /* Set Content Width */
 /*-----------------------------------------------------------------------------------*/
 
-if(!isset($content_width)) {$content_width = 1100;}
+if ( ! isset( $content_width ) ) {
+	$content_width = 1100;
+}
 
 /*-----------------------------------------------------------------------------------*/
 /* Remove Default Image Sizes */
 /*-----------------------------------------------------------------------------------*/
 
 function ct_remove_default_images( $sizes ) {
-	unset($sizes['small']); // 150px
-	unset($sizes['medium']); // 300px
-	unset($sizes['large']); // 1024px
-	unset($sizes['medium_large']); // 768px
+	unset( $sizes['small'] ); // 150px
+	unset( $sizes['medium'] ); // 300px
+	unset( $sizes['large'] ); // 1024px
+	unset( $sizes['medium_large'] ); // 768px
+
 	return $sizes;
 }
+
 add_filter( 'intermediate_image_sizes_advanced', 'ct_remove_default_images' );
 
 /*-----------------------------------------------------------------------------------*/
 /* Add Image Sizes */
 /*-----------------------------------------------------------------------------------*/
 
-add_image_size('listings-featured-image', 818, 540, true);
-add_image_size('listings-slider-image', 1200, 1000, true);
+add_image_size( 'listings-featured-image', 818, 540, true );
+add_image_size( 'listings-slider-image', 1200, 1000, true );
 
 /* Add Custom Sizes to Attachment Display Settings */
-if(!function_exists('ct_custom_image_sizes')) {
+if ( ! function_exists( 'ct_custom_image_sizes' ) ) {
 	function ct_custom_image_sizes( $sizes ) {
-	    return array_merge( $sizes, array(
-	        'listings-featured-image' => __('Listing Large', 'contempo'),
-	    ) );
+		return array_merge( $sizes, array(
+			'listings-featured-image' => __( 'Listing Large', 'contempo' ),
+		) );
 	}
 }
 add_filter( 'image_size_names_choose', 'ct_custom_image_sizes' );
@@ -405,7 +411,7 @@ add_filter( 'image_size_names_choose', 'ct_custom_image_sizes' );
 /* Add WordPress 3.0 Menu Support */
 /*-----------------------------------------------------------------------------------*/
 
-if (function_exists('register_nav_menu')) {
+if ( function_exists( 'register_nav_menu' ) ) {
 	register_nav_menus( array( 'primary_left' => __( 'Primary Left Menu', 'contempo' ) ) );
 	register_nav_menus( array( 'primary_right' => __( 'Primary Right Menu', 'contempo' ) ) );
 	register_nav_menus( array( 'primary_full_width' => __( 'Primary Full Width', 'contempo' ) ) );
@@ -417,25 +423,26 @@ if (function_exists('register_nav_menu')) {
 /* Enqueue Admin Scripts */
 /*-----------------------------------------------------------------------------------*/
 
-if(!function_exists('ct_enqueue_admin_scripts')) {
+if ( ! function_exists( 'ct_enqueue_admin_scripts' ) ) {
 	function ct_enqueue_admin_scripts() {
-		wp_enqueue_script('megaMenu', get_template_directory_uri() . '/js/ct.megamenu.js', '', '1.0', true);
+		wp_enqueue_script( 'megaMenu', get_template_directory_uri() . '/js/ct.megamenu.js', '', '1.0', true );
 	}
-	add_action('admin_enqueue_scripts', 'ct_enqueue_admin_scripts');
+
+	add_action( 'admin_enqueue_scripts', 'ct_enqueue_admin_scripts' );
 }
 
 /*-----------------------------------------------------------------------------------*/
 /* Custom Nav Fallback */
 /*-----------------------------------------------------------------------------------*/
 
-if(!function_exists('ct_nav_fallback')) {
+if ( ! function_exists( 'ct_nav_fallback' ) ) {
 	function ct_nav_fallback() {
 		$ct_admin_url = admin_url();
-		if(!has_nav_menu( 'primary_left' ) || !has_nav_menu( 'primary_right' || !has_nav_menu('primary_full_width')) ) {
+		if ( ! has_nav_menu( 'primary_left' ) || ! has_nav_menu( 'primary_right' || ! has_nav_menu( 'primary_full_width' ) ) ) {
 			echo '<nav class="right">';
-				echo '<ul id="ct-menu" class="ct-menu">';
-					echo '<li><a href="' . esc_url($ct_admin_url) . 'nav-menus.php">' . __('Menu doesn\'t exist, please create one by clicking here.', 'contempo') . '</a></li>';
-				echo '</ul>';
+			echo '<ul id="ct-menu" class="ct-menu">';
+			echo '<li><a href="' . esc_url( $ct_admin_url ) . 'nav-menus.php">' . __( 'Menu doesn\'t exist, please create one by clicking here.', 'contempo' ) . '</a></li>';
+			echo '</ul>';
 			echo '</nav>';
 		}
 	}
@@ -445,30 +452,31 @@ if(!function_exists('ct_nav_fallback')) {
 /* Mobile Nav */
 /*-----------------------------------------------------------------------------------*/
 
-if(!function_exists('ct_nav_mobile')) {
+if ( ! function_exists( 'ct_nav_mobile' ) ) {
 	function ct_nav_mobile() { ?>
-		<nav class="left">
-	    	<?php wp_nav_menu (
-	    		array(
+        <nav class="left">
+			<?php wp_nav_menu(
+				array(
 					'menu'            => "mobile",
 					'menu_id'         => "ct-menu",
 					'menu_class'      => "ct-menu",
 					'echo'            => true,
-					'container'       => '', 
+					'container'       => '',
 					'container_class' => '',
 					'items_wrap'      => '<ul id="%1$s" class="%2$s">%3$s</ul>',
-					'container_id'    => 'nav-left', 
+					'container_id'    => 'nav-left',
 					'theme_location'  => 'mobile',
-					'fallback_cb'	  => false,
+					'fallback_cb'     => false,
 					'walker'          => new CT_Menu_Class_Walker
 				)
 			); ?>
-	    </nav>
+        </nav>
 	<?php }
 }
 
 /*-----------------------------------------------------------------------------------*/
 /* Mega Menu Walker */
+
 /*-----------------------------------------------------------------------------------*/
 
 class CT_Menu_Class_Walker extends Walker_Nav_Menu {
@@ -476,200 +484,205 @@ class CT_Menu_Class_Walker extends Walker_Nav_Menu {
 	 * Start the element output.
 	 *
 	 * @param  string $output Passed by reference. Used to append additional content.
-	 * @param  object $item   Menu item data object.
-	 * @param  int $depth     Depth of menu item. May be used for padding.
-	 * @param  array $args    Additional strings.
+	 * @param  object $item Menu item data object.
+	 * @param  int $depth Depth of menu item. May be used for padding.
+	 * @param  array $args Additional strings.
 	 *
 	 * @return void
 	 */
-	
-	
-	function start_el(&$output, $item, $depth=0, $args =array(), $id = 0) {
-		if( ! is_object( $args )) { 
-			return ;
+
+
+	function start_el( &$output, $item, $depth = 0, $args = array(), $id = 0 ) {
+		if ( ! is_object( $args ) ) {
+			return;
 		}
 
-		global $first_item_counter; 
-		if( !isset ($first_item_counter) ) {$first_item_counter = 0;}
-		
-		$classes     = empty ( $item->classes ) ? array () : (array) $item->classes;
+		global $first_item_counter;
+		if ( ! isset ( $first_item_counter ) ) {
+			$first_item_counter = 0;
+		}
+
+		$classes = empty ( $item->classes ) ? array() : (array) $item->classes;
 
 		$class_names = join(
 			' '
-		,   apply_filters(
+			, apply_filters(
 				'nav_menu_css_class'
-			,   array_filter( $classes ), $item
+				, array_filter( $classes ), $item
 			)
 		);
 
 		// find multi column class name and find the column count		
-		$re = '/(multicolumn-)+(\d)/U'; 
-		$matches  = preg_grep ($re, $classes); 
+		$re      = '/(multicolumn-)+(\d)/U';
+		$matches = preg_grep( $re, $classes );
 
-		$column_count = isset( $matches ) && is_array( $matches ) && count( $matches ) > 0 ? explode("-", reset( $matches ) ) : array(1=>0); 
+		$column_count = isset( $matches ) && is_array( $matches ) && count( $matches ) > 0 ? explode( "-", reset( $matches ) ) : array( 1 => 0 );
 		$column_count = is_array( $column_count ) ? $column_count[1] : $column_count;
 
-		if( $depth == 0 ){
-			$class_names = ( 0 < $column_count ) ? $class_names.' multicolumn ': $class_names;	
+		if ( $depth == 0 ) {
+			$class_names = ( 0 < $column_count ) ? $class_names . ' multicolumn ' : $class_names;
 		}
 
-		$sub_title = esc_attr( $item->description ); 
-		$title = apply_filters( 'the_title', $item->title, $item->ID );
+		$sub_title = esc_attr( $item->description );
+		$title     = apply_filters( 'the_title', $item->title, $item->ID );
 
 
 		//add class name to li if item has description 
 		$class_names .= ! empty( $sub_title ) ? " has-sub-title" : "";
 
 		//find if an icon used as class name - remove from li - use for a 
-		if( ! empty ( $class_names ) ){ 
- 
-			if ( strpos( $class_names, "icon-" ) !== false ) {
-  
-				$new_class_names = "";
-				$icon_name = "";
+		if ( ! empty ( $class_names ) ) {
 
-				foreach (explode(" ", $class_names) as $value) {
-					if ( strpos(  $value, "icon-" ) === false ) {
-						$new_class_names .= " ". $value ;
-					}else{
+			if ( strpos( $class_names, "icon-" ) !== false ) {
+
+				$new_class_names = "";
+				$icon_name       = "";
+
+				foreach ( explode( " ", $class_names ) as $value ) {
+					if ( strpos( $value, "icon-" ) === false ) {
+						$new_class_names .= " " . $value;
+					} else {
 						$icon_name = $value;
 					}
 				}
 
-				$class_names = ' class="'. esc_attr( $new_class_names ) . '"';
+				$class_names = ' class="' . esc_attr( $new_class_names ) . '"';
 
-			}else{
-				$class_names = ' class="'. esc_attr( $class_names ) . '"';
+			} else {
+				$class_names = ' class="' . esc_attr( $class_names ) . '"';
 			}
-		} 
+		}
 
 		$output .= "<li id='menu-item-$item->ID' $class_names data-depth='$depth' data-column-size='$column_count'>";
- 
-		$attributes  = '';  
+
+		$attributes = '';
 
 		! empty( $icon_name )
-			and $attributes .= ' class="'  . esc_attr( $icon_name ) .'"'; 
- 
+		and $attributes .= ' class="' . esc_attr( $icon_name ) . '"';
+
 		! empty( $item->attr_title )
-			and $attributes .= ' title="'  . esc_attr( $item->attr_title ) .'"';				 
+		and $attributes .= ' title="' . esc_attr( $item->attr_title ) . '"';
 
 		! empty( $item->target )
-			and $attributes .= ' target="' . esc_attr( $item->target     ) .'"';
+		and $attributes .= ' target="' . esc_attr( $item->target ) . '"';
 
 		! empty( $item->xfn )
-			and $attributes .= ' rel="'    . esc_attr( $item->xfn        ) .'"';
+		and $attributes .= ' rel="' . esc_attr( $item->xfn ) . '"';
 
 		! empty( $item->url )
-			and $attributes .= ' href="'   . esc_attr( $item->url        ) .'"';
+		and $attributes .= ' href="' . esc_attr( $item->url ) . '"';
 
-			if( ! empty($sub_title) ){			
-				$item_output = $args->before
-					. "<a $attributes>"
-					. $args->link_before
-					. $title
-					//. '<span>'.$sub_title.'</span>'
-					. '</a> '
-					. $args->link_after 
-					. $args->after;				
-			}else{
-				$item_output = $args->before
-					. "<a $attributes>"
-					. $args->link_before
-					. $title                
-					. '</a> '
-					. $args->link_after 
-					. $args->after;               
-			} 
-	 
-			// Since $output is called by reference we don't need to return anything.
-			$output .= apply_filters(
-				'walker_nav_menu_start_el'
-			,   $item_output
-			,   $item
-			,   $depth
-			,   $args
-			);
-			 
-	} 
-	
+		if ( ! empty( $sub_title ) ) {
+			$item_output = $args->before
+			               . "<a $attributes>"
+			               . $args->link_before
+			               . $title
+			               //. '<span>'.$sub_title.'</span>'
+			               . '</a> '
+			               . $args->link_after
+			               . $args->after;
+		} else {
+			$item_output = $args->before
+			               . "<a $attributes>"
+			               . $args->link_before
+			               . $title
+			               . '</a> '
+			               . $args->link_after
+			               . $args->after;
+		}
+
+		// Since $output is called by reference we don't need to return anything.
+		$output .= apply_filters(
+			'walker_nav_menu_start_el'
+			, $item_output
+			, $item
+			, $depth
+			, $args
+		);
+
+	}
+
 }
 
 /*-----------------------------------------------------------------------------------*/
 /* Main Navigation
 /*-----------------------------------------------------------------------------------*/
 
-if(!function_exists('ct_nav_left')) {
+if ( ! function_exists( 'ct_nav_left' ) ) {
 	function ct_nav_left() { ?>
-		<nav class="left">
-	    	<?php wp_nav_menu (
-	    		array(
+        <nav class="left">
+			<?php wp_nav_menu(
+				array(
 					'menu'            => "primary-left",
 					'menu_id'         => "ct-menu",
 					'menu_class'      => "ct-menu",
 					'echo'            => true,
-					'container'       => '', 
+					'container'       => '',
 					'container_class' => '',
 					'items_wrap'      => '<ul id="%1$s" class="%2$s">%3$s</ul>',
-					'container_id'    => 'nav-left', 
+					'container_id'    => 'nav-left',
 					'theme_location'  => 'primary_left',
-					'fallback_cb'	  => false,
+					'fallback_cb'     => false,
 					'walker'          => new CT_Menu_Class_Walker
 				)
 			); ?>
-	    </nav>
+        </nav>
 	<?php }
 }
 
-if(!function_exists('ct_nav_right')) {
+if ( ! function_exists( 'ct_nav_right' ) ) {
 	function ct_nav_right() { ?>
-		<nav class="right">
-	    	<?php wp_nav_menu (
-	    		array(
+        <nav class="right">
+			<?php wp_nav_menu(
+				array(
 					'menu'            => "primary-right",
 					'menu_id'         => "ct-menu",
 					'menu_class'      => "ct-menu",
 					'echo'            => true,
-					'container'       => '', 
+					'container'       => '',
 					'container_class' => '',
 					'container_id'    => 'nav-left',
 					'items_wrap'      => '<ul id="%1$s" class="%2$s">%3$s</ul>',
-					'container_id'    => 'nav-right', 
+					'container_id'    => 'nav-right',
 					'theme_location'  => 'primary_right',
-					'fallback_cb'	  => false,
+					'fallback_cb'     => false,
 					'walker'          => new CT_Menu_Class_Walker
 				)
-	    	); ?>
-	    </nav>
+			); ?>
+        </nav>
 	<?php }
 }
 
-if(!function_exists('ct_nav_full_width')) {
+if ( ! function_exists( 'ct_nav_full_width' ) ) {
 	function ct_nav_full_width() { ?>
-		<nav>
-	    	<?php wp_nav_menu (
-	    		array(
+        <nav>
+			<?php wp_nav_menu(
+				array(
 					'menu'            => "primary-full-width",
 					'menu_id'         => "ct-menu",
 					'menu_class'      => "ct-menu",
 					'echo'            => true,
-					'container'       => '', 
+					'container'       => '',
 					'container_class' => '',
 					'items_wrap'      => '<ul id="%1$s" class="%2$s">%3$s</ul>',
-					'container_id'    => 'nav-full-width', 
+					'container_id'    => 'nav-full-width',
 					'theme_location'  => 'primary_full_width',
-					'fallback_cb'	  => false,
+					'fallback_cb'     => false,
 					'walker'          => new CT_Menu_Class_Walker
 				)
 			); ?>
-	    </nav>
+        </nav>
 	<?php }
 }
 
-if(!function_exists('ct_footer_nav')) {
+if ( ! function_exists( 'ct_footer_nav' ) ) {
 	function ct_footer_nav() { ?>
-	    <nav class="left">
-			<?php wp_nav_menu( array( 'container_id' => 'footer-nav', 'theme_location' => 'footer', 'fallback_cb' => false) ); ?>
-	    </nav>
+        <nav class="left">
+			<?php wp_nav_menu( array( 'container_id'   => 'footer-nav',
+			                          'theme_location' => 'footer',
+			                          'fallback_cb'    => false
+			) ); ?>
+        </nav>
 	<?php }
 }
 
@@ -677,14 +690,14 @@ if(!function_exists('ct_footer_nav')) {
 /* Mobile Header
 /*-----------------------------------------------------------------------------------*/
 
-if(!function_exists('ct_mobile_header')) {
-	function ct_mobile_header() { 
+if ( ! function_exists( 'ct_mobile_header' ) ) {
+	function ct_mobile_header() {
 
-	    echo '<div id="cbp-spmenu" class="cbp-spmenu cbp-spmenu-vertical cbp-spmenu-right">';
+		echo '<div id="cbp-spmenu" class="cbp-spmenu cbp-spmenu-vertical cbp-spmenu-right">';
 
-	    	wp_nav_menu( array( 'theme_location' => 'mobile', 'fallback_cb' => false) );
-	    
-	    echo '</div>';
+		wp_nav_menu( array( 'theme_location' => 'mobile', 'fallback_cb' => false ) );
+
+		echo '</div>';
 
 	}
 
@@ -694,50 +707,50 @@ if(!function_exists('ct_mobile_header')) {
 /* DNS Prefetch
 /*-----------------------------------------------------------------------------------*/
 
-if(!function_exists('ct_dns_prefetch')) {
+if ( ! function_exists( 'ct_dns_prefetch' ) ) {
 	function ct_dns_prefetch() {
 
-	echo '<link rel="dns-prefetch" href="//fonts.googleapis.com">';
-	echo '<link rel="dns-prefetch" href="//maps.google.com">';
+		echo '<link rel="dns-prefetch" href="//fonts.googleapis.com">';
+		echo '<link rel="dns-prefetch" href="//maps.google.com">';
 
 	}
 }
-add_action('wp_enqueue_scripts', 'ct_dns_prefetch');
+add_action( 'wp_enqueue_scripts', 'ct_dns_prefetch' );
 
 /*-----------------------------------------------------------------------------------*/
 /* Google Fonts
 /*-----------------------------------------------------------------------------------*/
 
-if(!function_exists('ct_heading_fonts_url')) {
+if ( ! function_exists( 'ct_heading_fonts_url' ) ) {
 	function ct_heading_fonts_url() {
 		global $ct_options;
 
-	    $font_url = '';
-	    $ct_heading_font = isset( $ct_options['ct_heading_font'] ) ? esc_attr( $ct_options['ct_heading_font'] ) : '';	
-		$ct_heading_font = str_replace(' ','+', $ct_heading_font);
+		$font_url        = '';
+		$ct_heading_font = isset( $ct_options['ct_heading_font'] ) ? esc_attr( $ct_options['ct_heading_font'] ) : '';
+		$ct_heading_font = str_replace( ' ', '+', $ct_heading_font );
 
-	    $font_url = add_query_arg( 'family', esc_html($ct_heading_font) . ':300,400,700', "//fonts.googleapis.com/css" );
+		$font_url = add_query_arg( 'family', esc_html( $ct_heading_font ) . ':300,400,700', "//fonts.googleapis.com/css" );
 
-	    return $font_url;
+		return $font_url;
 	}
 }
 
-if(!function_exists('ct_body_fonts_url')) {
+if ( ! function_exists( 'ct_body_fonts_url' ) ) {
 	function ct_body_fonts_url() {
 		global $ct_options;
 
-	    $font_url = '';
+		$font_url     = '';
 		$ct_body_font = isset( $ct_options['ct_body_font'] ) ? esc_attr( $ct_options['ct_body_font'] ) : '';
-		$ct_body_font = str_replace(' ','+', $ct_body_font);
+		$ct_body_font = str_replace( ' ', '+', $ct_body_font );
 
-	    $font_url = add_query_arg( 'family', esc_html($ct_body_font) . ':300,400,700', "//fonts.googleapis.com/css" );
+		$font_url = add_query_arg( 'family', esc_html( $ct_body_font ) . ':300,400,700', "//fonts.googleapis.com/css" );
 
-	    return $font_url;
+		return $font_url;
 	}
 }
 
-if(!function_exists('getPostIdsFromCoords')) {
-	function getPostIdsFromCoords( $swLat, $swLng, $neLat, $neLng )	{
+if ( ! function_exists( 'getPostIdsFromCoords' ) ) {
+	function getPostIdsFromCoords( $swLat, $swLng, $neLat, $neLng ) {
 
 		//$sql = "SELECT a.post_id FROM wp_posts, wp_postmeta a, wp_postmeta b WHERE ( (".$swLat." < ".$neLat." AND a.meta_value BETWEEN ".$swLat." AND ".$neLat.") OR (".$swLat." > ".$neLat." AND (a.meta_value BETWEEN ".$swLat." AND 180 OR a.meta_value BETWEEN -180 AND ".$neLat.")) and (".$swLng." < ".$neLng." AND b.meta_value BETWEEN ".$swLng." AND ".$neLng.") OR (".$swLng." > ".$neLng." AND (b.meta_value BETWEEN ".$swLng." AND 180 OR b.meta_value BETWEEN -180 AND ".$neLng.")) ) and a.post_id = wp_posts.ID AND wp_posts.post_status = 'publish' AND a.post_id = b.post_id and a.meta_key = 'lat' and b.meta_key = 'lng';";
 
@@ -762,34 +775,33 @@ if(!function_exists('getPostIdsFromCoords')) {
 		*/
 
 
-
 		global $wpdb;
-		
+
 		$lngCase = "";
 
-		if ( ($neLng > 0 && $swLng > 0 ) && ($swLng > $neLng) ) {
-			$lngCase = " b.meta_value BETWEEN 0 AND ".$neLng." OR b.meta_value BETWEEN ".$swLng." AND 180 OR b.meta_value BETWEEN -180 AND 0";
+		if ( ( $neLng > 0 && $swLng > 0 ) && ( $swLng > $neLng ) ) {
+			$lngCase = " b.meta_value BETWEEN 0 AND " . $neLng . " OR b.meta_value BETWEEN " . $swLng . " AND 180 OR b.meta_value BETWEEN -180 AND 0";
 		} else if ( $neLng > 0 && $swLng > 0 ) {
-			$lngCase = " b.meta_value BETWEEN ".$swLng." AND ".$neLng;
+			$lngCase = " b.meta_value BETWEEN " . $swLng . " AND " . $neLng;
 		} else if ( $neLng < 0 && $swLng > 0 ) {
-			$lngCase = " b.meta_value BETWEEN -180 AND ".$neLng." OR b.meta_value BETWEEN ".$swLng." AND 180";
+			$lngCase = " b.meta_value BETWEEN -180 AND " . $neLng . " OR b.meta_value BETWEEN " . $swLng . " AND 180";
 		} else if ( $neLng < 0 && $swLng < 0 ) {
-			$lngCase = " b.meta_value BETWEEN ".$swLng." AND ".$neLng;
+			$lngCase = " b.meta_value BETWEEN " . $swLng . " AND " . $neLng;
 		} else if ( $neLng > 0 && $swLng < 0 ) {
-			$lngCase = " b.meta_value BETWEEN 0 AND ".$neLng." OR b.meta_value BETWEEN ".$swLng." AND 0";
+			$lngCase = " b.meta_value BETWEEN 0 AND " . $neLng . " OR b.meta_value BETWEEN " . $swLng . " AND 0";
 		}
 
-		$sql = "SELECT a.post_id FROM ".$wpdb->prefix ."posts, ".$wpdb->prefix ."postmeta a, ".$wpdb->prefix ."postmeta b 
-		WHERE (CASE WHEN ".$neLat." < ".$swLat."
-		    THEN a.meta_value BETWEEN ".$neLat." AND ".$swLat."
-		    ELSE a.meta_value BETWEEN ".$swLat." AND ".$neLat."
+		$sql = "SELECT a.post_id FROM " . $wpdb->prefix . "posts, " . $wpdb->prefix . "postmeta a, " . $wpdb->prefix . "postmeta b 
+		WHERE (CASE WHEN " . $neLat . " < " . $swLat . "
+		    THEN a.meta_value BETWEEN " . $neLat . " AND " . $swLat . "
+		    ELSE a.meta_value BETWEEN " . $swLat . " AND " . $neLat . "
 		END) 
 		AND (
-		".$lngCase."
+		" . $lngCase . "
 		)
-		AND a.post_id = ".$wpdb->prefix ."posts.ID 
-		AND ".$wpdb->prefix ."posts.post_status = 'publish' 
-		AND ".$wpdb->prefix ."posts.post_type = 'listings' 
+		AND a.post_id = " . $wpdb->prefix . "posts.ID 
+		AND " . $wpdb->prefix . "posts.post_status = 'publish' 
+		AND " . $wpdb->prefix . "posts.post_type = 'listings' 
 		AND a.post_id = b.post_id
 		AND a.meta_key = 'lat'
 		AND b.meta_key = 'lng';";
@@ -801,7 +813,7 @@ if(!function_exists('getPostIdsFromCoords')) {
 	}
 }
 
-if(!function_exists('map_listing_update')) {
+if ( ! function_exists( 'map_listing_update' ) ) {
 	function map_listing_update() {
 		global $page;
 		global $post;
@@ -829,8 +841,8 @@ if(!function_exists('map_listing_update')) {
 			$neLng = substr( $ne, strpos( $ne, "," ) + 1 );
 			$neLng = trim( substr( $neLng, 0, strlen( $neLng ) - 1 ) );
 		}
-		
-		
+
+
 		$sw    = "";
 		$swLat = "";
 		$swLng = "";
@@ -841,7 +853,7 @@ if(!function_exists('map_listing_update')) {
 			$swLng = substr( $sw, strpos( $sw, "," ) + 1 );
 			$swLng = trim( substr( $swLng, 0, strlen( $swLng ) - 1 ) );
 		}
-		
+
 		$ct_search_results_listing_style = isset( $ct_options['ct_search_results_listing_style'] ) ? $ct_options['ct_search_results_listing_style'] : '';
 
 		$count = 0;
@@ -852,17 +864,17 @@ if(!function_exists('map_listing_update')) {
 
 		//file_put_contents(dirname(__FILE__)."/log.theme-functions", "calling getSearchArgs\r\n", FILE_APPEND);
 
-		$args = getSearchArgs(true);
+		$args = getSearchArgs( true );
 		//file_put_contents(dirname(__FILE__)."/log.theme-functions", "done calling getSearchArgs\r\n", FILE_APPEND);
 		//file_put_contents(dirname(__FILE__)."/log.theme-functions", "Search args\r\n" .print_r( $args, true )."\r\n", FILE_APPEND);
 
 		if ( $drawing_mode ) {
 			$args["post__in"] = $draw_markers;
 		} else {
-			$args["post__in"] = getPostIdsFromCoords( $swLat, $swLng, $neLat, $neLng  );
+			$args["post__in"] = getPostIdsFromCoords( $swLat, $swLng, $neLat, $neLng );
 		}
 
-		$return["coords"] = "swLat: ".$swLat."; swLng: ".$swLng."; neLat: ".$neLat."; neLng: ".$neLng;
+		$return["coords"] = "swLat: " . $swLat . "; swLng: " . $swLng . "; neLat: " . $neLat . "; neLng: " . $neLng;
 		//$return["post__in"] = print_r($args["post__in"], true);
 
 
@@ -871,11 +883,11 @@ if(!function_exists('map_listing_update')) {
 		//$count = count( $args["post__in"] );
 
 		if ( empty( $args["post__in"] ) ) {
-			$args["post__in"] = [1];  // Do this so we get a no result instead of an all result
-			$count = 0;
+			$args["post__in"] = [ 1 ];  // Do this so we get a no result instead of an all result
+			$count            = 0;
 		}
-		$args["post_type"] = "listings";
-		$args["posts_per_page"] = -1; //$search_num;
+		$args["post_type"]      = "listings";
+		$args["posts_per_page"] = - 1; //$search_num;
 
 		global $wp_query;
 
@@ -886,22 +898,21 @@ if(!function_exists('map_listing_update')) {
 		//file_put_contents(dirname(__FILE__)."/log.theme-functions", "two\r\n", FILE_APPEND);
 
 
-
 		$ajaxArgs = $args;
 		//$return["args"] = print_r($args, true);
 		//$return["wp_query"] = print_r($wp_query, true);
 
 		$count = 0;
-		if ( isset($wp_query->post_count) ) {
+		if ( isset( $wp_query->post_count ) ) {
 			$count = intVal( $wp_query->post_count );
 		}
 
 		$map = "";
 		ob_start();
 
-		$newMarkers = "";
-		$latlngs = array();
-		$siteUrl = ct_theme_directory_uri();
+		$newMarkers            = "";
+		$latlngs               = array();
+		$siteUrl               = ct_theme_directory_uri();
 		$ct_use_propinfo_icons = isset( $ct_options['ct_use_propinfo_icons'] ) ? $ct_options['ct_use_propinfo_icons'] : '';
 
 		//$count = 0;
@@ -914,7 +925,7 @@ if(!function_exists('map_listing_update')) {
 				continue;
 			}
 			ob_start();
-			trim(ct_status_slug());
+			trim( ct_status_slug() );
 			$ct_status = ob_get_contents();
 			ob_end_clean();
 			$markerPrice = ct_listing_marker_price();
@@ -926,19 +937,19 @@ if(!function_exists('map_listing_update')) {
 				'markerPrice' => $markerPrice,
 				'bed'         => ct_taxonomy_return( 'beds' ),
 				'bath'        => ct_taxonomy_return( 'baths' ),
-				'size'        => get_post_meta( $post->ID, "_ct_sqft", true )." ".ct_sqftsqm(),
+				'size'        => get_post_meta( $post->ID, "_ct_sqft", true ) . " " . ct_sqftsqm(),
 				'parking'     => get_post_meta( $post->ID, "_ct_parking", true ),
-				'street'      => get_the_title( ),
+				'street'      => get_the_title(),
 				'city'        => ct_taxonomy_return( 'city' ),
 				'state'       => ct_taxonomy_return( 'state' ),
 				'zip'         => ct_taxonomy_return( 'zipcode' ),
 				//'latlong' => get_post_meta(get_the_ID(), "_ct_latlng", true),
 				'permalink'   => get_the_permalink(),
-				'isHome'      => is_home()?"false":"true",
-				'commercial'  => ct_has_type('commercial')?'commercial':'',
-				'industrial'  => ct_has_type('industrial')?'industrial':'',
-				'retail'	  => ct_has_type('retail')?'retail':'',
-				'land'        => ct_has_type('land')?'land':'',
+				'isHome'      => is_home() ? "false" : "true",
+				'commercial'  => ct_has_type( 'commercial' ) ? 'commercial' : '',
+				'industrial'  => ct_has_type( 'industrial' ) ? 'industrial' : '',
+				'retail'      => ct_has_type( 'retail' ) ? 'retail' : '',
+				'land'        => ct_has_type( 'land' ) ? 'land' : '',
 				'siteURL'     => $siteUrl,
 				'useIcons'    => $ct_use_propinfo_icons,
 				'listingID'   => $post->ID,
@@ -946,7 +957,7 @@ if(!function_exists('map_listing_update')) {
 			];
 
 
-			$latlngs[] = ["lat"=>$lat, "lng"=>$lng, "property"=>$property];
+			$latlngs[] = [ "lat" => $lat, "lng" => $lng, "property" => $property ];
 			//$count++;
 
 		endwhile; endif;
@@ -972,10 +983,10 @@ if(!function_exists('map_listing_update')) {
 
 		ob_start();
 
-		if($ct_search_results_listing_style == 'list') {
-			get_template_part( 'layouts/list');
+		if ( $ct_search_results_listing_style == 'list' ) {
+			get_template_part( 'layouts/list' );
 		} else {
-			get_template_part( 'layouts/grid');
+			get_template_part( 'layouts/grid' );
 		}
 
 		$listings = ob_get_clean();
@@ -997,7 +1008,7 @@ add_action( "wp_ajax_map_listing_update", "map_listing_update" );
 add_action( "wp_ajax_nopriv_map_listing_update", "map_listing_update" );
 
 
-if(!function_exists('ct_init_scripts')) {
+if ( ! function_exists( 'ct_init_scripts' ) ) {
 	function ct_init_scripts() {
 
 		global $ct_options, $post;
@@ -1006,182 +1017,182 @@ if(!function_exists('ct_init_scripts')) {
 		/* Enqueue Styles */
 		/*-----------------------------------------------------------------------------------*/
 
-		wp_enqueue_style('base', get_template_directory_uri() . '/css/base.css', '', '1.1.9', 'screen, projection');
-		wp_enqueue_style('headingFont', ct_heading_fonts_url(), array(), '1.0.0' );
-		wp_enqueue_style('bodyFont', ct_body_fonts_url(), array(), '1.0.0' );
-		wp_enqueue_style('framework', get_template_directory_uri() . '/css/responsive-gs-12col.css', '', '', 'screen, projection');
-		wp_enqueue_style('ie', get_template_directory_uri() . '/css/ie.css', '', '', 'screen, projection');
-		wp_enqueue_style('layout', get_template_directory_uri() . '/css/layout.css', '', '2.3.8', 'screen, projection');
-		wp_enqueue_style('ctFlexslider', get_template_directory_uri() . '/css/flexslider.css', '', '1.0.1', 'screen, projection');
-		wp_enqueue_style('ctFlexsliderNav', get_template_directory_uri() . '/css/flexslider-direction-nav.css', '', '1.0.2', 'screen, projection');
-		wp_enqueue_style('fontawesome', get_template_directory_uri() . '/css/all.min.css', '', '1.0.1', 'screen, projection');
-		wp_enqueue_style('fontawesomeShim', get_template_directory_uri() . '/css/v4-shims.min.css', '', '1.0.1', 'screen, projection');
-		wp_enqueue_style('animate', get_template_directory_uri() . '/css/animate.min.css', '', '', 'screen, projection');
-		wp_enqueue_style('ctModal', get_template_directory_uri() . '/css/ct-modal-overlay.css', '', '1.0.1', 'screen, projection');
-		wp_enqueue_style('ctSlidePush', get_template_directory_uri() . '/css/ct-sp-menu.css', '', '1.1.8', 'screen, projection');
+		wp_enqueue_style( 'base', get_template_directory_uri() . '/css/base.css', '', '1.1.9', 'screen, projection' );
+		wp_enqueue_style( 'headingFont', ct_heading_fonts_url(), array(), '1.0.0' );
+		wp_enqueue_style( 'bodyFont', ct_body_fonts_url(), array(), '1.0.0' );
+		wp_enqueue_style( 'framework', get_template_directory_uri() . '/css/responsive-gs-12col.css', '', '', 'screen, projection' );
+		wp_enqueue_style( 'ie', get_template_directory_uri() . '/css/ie.css', '', '', 'screen, projection' );
+		wp_enqueue_style( 'layout', get_template_directory_uri() . '/css/layout.css', '', '2.3.8', 'screen, projection' );
+		wp_enqueue_style( 'ctFlexslider', get_template_directory_uri() . '/css/flexslider.css', '', '1.0.1', 'screen, projection' );
+		wp_enqueue_style( 'ctFlexsliderNav', get_template_directory_uri() . '/css/flexslider-direction-nav.css', '', '1.0.2', 'screen, projection' );
+		wp_enqueue_style( 'fontawesome', get_template_directory_uri() . '/css/all.min.css', '', '1.0.1', 'screen, projection' );
+		wp_enqueue_style( 'fontawesomeShim', get_template_directory_uri() . '/css/v4-shims.min.css', '', '1.0.1', 'screen, projection' );
+		wp_enqueue_style( 'animate', get_template_directory_uri() . '/css/animate.min.css', '', '', 'screen, projection' );
+		wp_enqueue_style( 'ctModal', get_template_directory_uri() . '/css/ct-modal-overlay.css', '', '1.0.1', 'screen, projection' );
+		wp_enqueue_style( 'ctSlidePush', get_template_directory_uri() . '/css/ct-sp-menu.css', '', '1.1.8', 'screen, projection' );
 
-		if(function_exists('dsIDXload')) {
-			wp_enqueue_style('dsidxpress', get_template_directory_uri() . '/css/dsidxpress.css', '', '', 'screen, projection');
+		if ( function_exists( 'dsIDXload' ) ) {
+			wp_enqueue_style( 'dsidxpress', get_template_directory_uri() . '/css/dsidxpress.css', '', '', 'screen, projection' );
 		}
 
-		if(function_exists('Vc_Base')) {
-			wp_enqueue_style('ctVisualComposer', get_template_directory_uri() . '/css/ct-visual-composer.css', '', '', 'screen, projection');
+		if ( function_exists( 'Vc_Base' ) ) {
+			wp_enqueue_style( 'ctVisualComposer', get_template_directory_uri() . '/css/ct-visual-composer.css', '', '', 'screen, projection' );
 		}
 
 		$mode = isset( $ct_options['ct_mode'] ) ? esc_html( $ct_options['ct_mode'] ) : '';
-	    if(is_singular('listings') || $mode == "single-listing") {
-			wp_enqueue_style('print', get_template_directory_uri() . '/css/listing-print.css', '', '', 'print');
-			wp_enqueue_style('ctLightbox', get_template_directory_uri() . '/css/ct-lightbox.css', '', '1.0.2', 'screen, projection');
+		if ( is_singular( 'listings' ) || $mode == "single-listing" ) {
+			wp_enqueue_style( 'print', get_template_directory_uri() . '/css/listing-print.css', '', '', 'print' );
+			wp_enqueue_style( 'ctLightbox', get_template_directory_uri() . '/css/ct-lightbox.css', '', '1.0.2', 'screen, projection' );
 		}
 
-		wp_enqueue_style('owlCarousel', get_template_directory_uri() . '/css/owl-carousel.css', '', '', 'screen, projection');
+		wp_enqueue_style( 'owlCarousel', get_template_directory_uri() . '/css/owl-carousel.css', '', '', 'screen, projection' );
 
-		if(is_single() || is_page()) {
-			wp_enqueue_style('comments', get_template_directory_uri() . '/css/comments.css', '', '', 'screen, projection');
+		if ( is_single() || is_page() ) {
+			wp_enqueue_style( 'comments', get_template_directory_uri() . '/css/comments.css', '', '', 'screen, projection' );
 		}
 
-		if(is_single() || is_author() || is_page_template('template-contact.php') || is_page_template('template-favorite-listings.php') || is_page_template('template-submit-listing.php') || is_front_page() || is_page_template('template-agents.php') || is_page_template('template-brokerages.php')) {
-			wp_enqueue_style('validationEngine', get_template_directory_uri() . '/css/validationEngine.jquery.css', '', '', 'screen, projection');
+		if ( is_single() || is_author() || is_page_template( 'template-contact.php' ) || is_page_template( 'template-favorite-listings.php' ) || is_page_template( 'template-submit-listing.php' ) || is_front_page() || is_page_template( 'template-agents.php' ) || is_page_template( 'template-brokerages.php' ) ) {
+			wp_enqueue_style( 'validationEngine', get_template_directory_uri() . '/css/validationEngine.jquery.css', '', '', 'screen, projection' );
 		}
 
-		if(is_page_template('template-edit-profile.php')) {
-			wp_enqueue_style('ctFPE', get_template_directory_uri() . '/css/ct-fpe.css', '', '', 'screen, projection');
+		if ( is_page_template( 'template-edit-profile.php' ) ) {
+			wp_enqueue_style( 'ctFPE', get_template_directory_uri() . '/css/ct-fpe.css', '', '', 'screen, projection' );
 		}
 
-		wp_enqueue_style('dropdowns', get_template_directory_uri() . '/css/ct-dropdowns.css', '', '', 'screen, projection');
+		wp_enqueue_style( 'dropdowns', get_template_directory_uri() . '/css/ct-dropdowns.css', '', '', 'screen, projection' );
 
-		if ($ct_options['ct_skin'] == 'minimal') {
-			wp_enqueue_style('minimalSkin', get_template_directory_uri() . '/css/minimal-skin.css', '', '1.0.7', 'screen, projection');
+		if ( $ct_options['ct_skin'] == 'minimal' ) {
+			wp_enqueue_style( 'minimalSkin', get_template_directory_uri() . '/css/minimal-skin.css', '', '1.0.7', 'screen, projection' );
 		}
 
-		if ($ct_options['ct_rtl'] == 'yes') {
-			wp_enqueue_style('rtl', get_template_directory_uri() . '/rtl.css', '', '', 'screen, projection');
+		if ( $ct_options['ct_rtl'] == 'yes' ) {
+			wp_enqueue_style( 'rtl', get_template_directory_uri() . '/rtl.css', '', '', 'screen, projection' );
 		}
 
 		/*-----------------------------------------------------------------------------------*/
 		/* Enqueue Scripts */
 		/*-----------------------------------------------------------------------------------*/
 
-		wp_enqueue_script('jquery-ui-slider');
-		wp_enqueue_script('touchPunch', get_template_directory_uri() . '/js/jquery.ui.touch-punch.min.js', array('jquery'), '1.0', true);
+		wp_enqueue_script( 'jquery-ui-slider' );
+		wp_enqueue_script( 'touchPunch', get_template_directory_uri() . '/js/jquery.ui.touch-punch.min.js', array( 'jquery' ), '1.0', true );
 
-		wp_enqueue_script('mobileMenu', get_template_directory_uri() . '/js/ct.mobile.menu.js', array('jquery'), '1.2.0', true);
+		wp_enqueue_script( 'mobileMenu', get_template_directory_uri() . '/js/ct.mobile.menu.js', array( 'jquery' ), '1.2.0', true );
 
-		wp_enqueue_script('advSearch', get_template_directory_uri() . '/js/ct.advanced.search.js', array('jquery'), '1.0', false );
+		wp_enqueue_script( 'advSearch', get_template_directory_uri() . '/js/ct.advanced.search.js', array( 'jquery' ), '1.0', false );
 
 		$mode = isset( $ct_options['ct_mode'] ) ? esc_html( $ct_options['ct_mode'] ) : '';
-	    if(is_singular('listings') || $mode == "single-listing") {
-			wp_enqueue_script('ctLightbox', get_template_directory_uri() . '/js/ct.lightbox.min.js', 'jquery', '1.0', false);
+		if ( is_singular( 'listings' ) || $mode == "single-listing" ) {
+			wp_enqueue_script( 'ctLightbox', get_template_directory_uri() . '/js/ct.lightbox.min.js', 'jquery', '1.0', false );
 		}
 
-		wp_enqueue_script('owlCarousel', get_template_directory_uri() . '/js/owl.carousel.min.js', array('jquery'), '1.0', false);
+		wp_enqueue_script( 'owlCarousel', get_template_directory_uri() . '/js/owl.carousel.min.js', array( 'jquery' ), '1.0', false );
 
-		if(is_page_template('template-edit-profile.php')) {
+		if ( is_page_template( 'template-edit-profile.php' ) ) {
 			wp_enqueue_script( 'password-strength-meter' );
-			wp_enqueue_script('ctPassStrength', get_template_directory_uri() . '/js/ct.passwordstrength.js', array('jquery'), '1.0', false);
+			wp_enqueue_script( 'ctPassStrength', get_template_directory_uri() . '/js/ct.passwordstrength.js', array( 'jquery' ), '1.0', false );
 		}
 
-		if(!is_page_template('template-idx.php') || !is_page_template('template-idx-full-width.php')) {
-	        wp_enqueue_script('ctNiceSelect', get_template_directory_uri() . '/js/jquery.nice-select.min.js', array('jquery'), '1.0', false);
-	        wp_enqueue_style('ctNiceSelect', get_template_directory_uri() . '/css/nice-select.css', '', '1.0.3', 'screen, projection');
-	        wp_enqueue_script('ctSelect', get_template_directory_uri() . '/js/ct.select.js', array('jquery'), '1.0', false);
+		if ( ! is_page_template( 'template-idx.php' ) || ! is_page_template( 'template-idx-full-width.php' ) ) {
+			wp_enqueue_script( 'ctNiceSelect', get_template_directory_uri() . '/js/jquery.nice-select.min.js', array( 'jquery' ), '1.0', false );
+			wp_enqueue_style( 'ctNiceSelect', get_template_directory_uri() . '/css/nice-select.css', '', '1.0.3', 'screen, projection' );
+			wp_enqueue_script( 'ctSelect', get_template_directory_uri() . '/js/ct.select.js', array( 'jquery' ), '1.0', false );
 		}
 
-		if(function_exists('wp_favorite_posts')) {
-			wp_enqueue_script('ctWPFP', get_template_directory_uri() . '/js/ct.wpfp.js', array('jquery'), '1.0.2', true);
+		if ( function_exists( 'wp_favorite_posts' ) ) {
+			wp_enqueue_script( 'ctWPFP', get_template_directory_uri() . '/js/ct.wpfp.js', array( 'jquery' ), '1.0.2', true );
 		}
 
 		$ct_header_currency_switcher = isset( $ct_options['ct_header_currency_switcher'] ) ? esc_html( $ct_options['ct_header_currency_switcher'] ) : '';
-		if($ct_header_currency_switcher == 'yes') {
-			wp_enqueue_script('currencyConvert', get_template_directory_uri() . '/js/curry.js', array('jquery'), '1.0', true);
+		if ( $ct_header_currency_switcher == 'yes' ) {
+			wp_enqueue_script( 'currencyConvert', get_template_directory_uri() . '/js/curry.js', array( 'jquery' ), '1.0', true );
 
 			$ct_fixer_access_key = isset( $ct_options['ct_fixer_access_key'] ) ? stripslashes( $ct_options['ct_fixer_access_key'] ) : '';
 			wp_localize_script( 'currencyConvert', 'ct_fixer_access_key', $ct_fixer_access_key );
 		}
 
-		wp_enqueue_script('jsCookie', get_template_directory_uri() . '/js/js.cookie.js', array('jquery'), '1.0', true);
-		wp_enqueue_script('fitvids', get_template_directory_uri() . '/js/jquery.fitvids.js', array('jquery'), '1.0', true);
+		wp_enqueue_script( 'jsCookie', get_template_directory_uri() . '/js/js.cookie.js', array( 'jquery' ), '1.0', true );
+		wp_enqueue_script( 'fitvids', get_template_directory_uri() . '/js/jquery.fitvids.js', array( 'jquery' ), '1.0', true );
 
-		if(!function_exists('optima_express_register_widgets')) {
-			wp_enqueue_script('cycle', get_template_directory_uri() . '/js/jquery.cycle.lite.js', array('jquery'), '1.0', true);
+		if ( ! function_exists( 'optima_express_register_widgets' ) ) {
+			wp_enqueue_script( 'cycle', get_template_directory_uri() . '/js/jquery.cycle.lite.js', array( 'jquery' ), '1.0', true );
 		}
 
-		wp_enqueue_script('flexslider', get_template_directory_uri() . '/js/jquery.flexslider-min.js', array('jquery'), '1.0', true);
+		wp_enqueue_script( 'flexslider', get_template_directory_uri() . '/js/jquery.flexslider-min.js', array( 'jquery' ), '1.0', true );
 
-		if(is_page_template('template-submit-listing.php') || (is_page_template('template-edit-listing.php'))) {
+		if ( is_page_template( 'template-submit-listing.php' ) || ( is_page_template( 'template-edit-listing.php' ) ) ) {
 			//Do nothing
 		} else {
 			$google_maps_api_key = isset( $ct_options['ct_google_maps_api_key'] ) ? stripslashes( $ct_options['ct_google_maps_api_key'] ) : '';
-			if($google_maps_api_key != '') {
+			if ( $google_maps_api_key != '' ) {
 				$google_maps_api_key_output = '?key=' . $google_maps_api_key;
 			} else {
 				$google_maps_api_key_output = '';
 			}
-			if($google_maps_api_key != '') {
-				wp_enqueue_script('gmaps', '//maps.google.com/maps/api/js' . $google_maps_api_key_output . '&v=3.40', '', '1.0.2', false);
+			if ( $google_maps_api_key != '' ) {
+				wp_enqueue_script( 'gmaps', '//maps.google.com/maps/api/js' . $google_maps_api_key_output . '&v=3.40', '', '1.0.2', false );
 			}
 		}
 
-		if(is_singular('listings')) {
+		if ( is_singular( 'listings' ) ) {
 			$google_maps_api_key = isset( $ct_options['ct_google_maps_api_key'] ) ? stripslashes( $ct_options['ct_google_maps_api_key'] ) : '';
-			if($google_maps_api_key != '') {
+			if ( $google_maps_api_key != '' ) {
 				$google_maps_api_key_output = '&key=' . $google_maps_api_key;
 			} else {
 				$google_maps_api_key_output = '';
 			}
-			wp_deregister_script('gmaps');
-			if($google_maps_api_key != '') {
-				wp_enqueue_script('gmapsPlaces', '//maps.googleapis.com/maps/api/js?v=3.exp&libraries=places' . $google_maps_api_key_output, '', '1.0', false);
+			wp_deregister_script( 'gmaps' );
+			if ( $google_maps_api_key != '' ) {
+				wp_enqueue_script( 'gmapsPlaces', '//maps.googleapis.com/maps/api/js?v=3.exp&libraries=places' . $google_maps_api_key_output, '', '1.0', false );
 			}
 		}
 
-		if(is_page_template('template-submit-listing.php')){
+		if ( is_page_template( 'template-submit-listing.php' ) ) {
 			$google_maps_api_key = isset( $ct_options['ct_google_maps_api_key'] ) ? stripslashes( $ct_options['ct_google_maps_api_key'] ) : '';
-			if($google_maps_api_key != '') {
+			if ( $google_maps_api_key != '' ) {
 				$google_maps_api_key_output = '&key=' . $google_maps_api_key;
 			} else {
 				$google_maps_api_key_output = '';
 			}
-			if($google_maps_api_key != '') {
-				wp_enqueue_script('gmapsPlaces', '//maps.googleapis.com/maps/api/js?v=3.exp&libraries=places' . $google_maps_api_key_output, '', '1.0', false);
+			if ( $google_maps_api_key != '' ) {
+				wp_enqueue_script( 'gmapsPlaces', '//maps.googleapis.com/maps/api/js?v=3.exp&libraries=places' . $google_maps_api_key_output, '', '1.0', false );
 			}
-			wp_enqueue_script('geoComplete', get_template_directory_uri() . '/js/jquery.geocomplete.js', array('jquery'), '1.0', false);
-			wp_enqueue_script('parsley', get_template_directory_uri() . '/js/parsley.js', array('jquery'), '1.0', false);
-			wp_enqueue_script('multiStepForm', get_template_directory_uri() . '/js/ct.multi.step.form.js', array('jquery'), '1.0', false);
-			wp_enqueue_script('jquery-ui-sortable');
-			wp_enqueue_script('plUpload', get_template_directory_uri() . '/js/plupload.full.min.js', array('jquery'), '1.0', false);
-			wp_enqueue_script('plupload-handlers');
-			wp_enqueue_script('wp-plupload');
-			wp_enqueue_script('submit-listing', get_template_directory_uri() . '/js/ct.submit.listing.js', array('jquery'), '1.0', false);
-			$admin_url = array( 'ajaxUrl' => admin_url( 'admin-ajax.php' ) );
+			wp_enqueue_script( 'geoComplete', get_template_directory_uri() . '/js/jquery.geocomplete.js', array( 'jquery' ), '1.0', false );
+			wp_enqueue_script( 'parsley', get_template_directory_uri() . '/js/parsley.js', array( 'jquery' ), '1.0', false );
+			wp_enqueue_script( 'multiStepForm', get_template_directory_uri() . '/js/ct.multi.step.form.js', array( 'jquery' ), '1.0', false );
+			wp_enqueue_script( 'jquery-ui-sortable' );
+			wp_enqueue_script( 'plUpload', get_template_directory_uri() . '/js/plupload.full.min.js', array( 'jquery' ), '1.0', false );
+			wp_enqueue_script( 'plupload-handlers' );
+			wp_enqueue_script( 'wp-plupload' );
+			wp_enqueue_script( 'submit-listing', get_template_directory_uri() . '/js/ct.submit.listing.js', array( 'jquery' ), '1.0', false );
+			$admin_url    = array( 'ajaxUrl' => admin_url( 'admin-ajax.php' ) );
 			$template_url = array( 'templateUrl' => get_stylesheet_directory_uri() );
-			wp_localize_script( 'submit-listing', 'PostID' , array( 'post_id'=>(isset($_GET['listings'])? $_GET['listings'] : $post->ID) ) );
-			wp_localize_script( 'submit-listing', 'AdminURL', $admin_url  );
+			wp_localize_script( 'submit-listing', 'PostID', array( 'post_id' => ( isset( $_GET['listings'] ) ? $_GET['listings'] : $post->ID ) ) );
+			wp_localize_script( 'submit-listing', 'AdminURL', $admin_url );
 			wp_localize_script( 'submit-listing', 'TemplatePath', $template_url );
 		}
 
-		if(is_page_template('template-edit-listing.php')){
+		if ( is_page_template( 'template-edit-listing.php' ) ) {
 			$google_maps_api_key = isset( $ct_options['ct_google_maps_api_key'] ) ? stripslashes( $ct_options['ct_google_maps_api_key'] ) : '';
-			if($google_maps_api_key != '') {
+			if ( $google_maps_api_key != '' ) {
 				$google_maps_api_key_output = '&key=' . $google_maps_api_key;
 			} else {
 				$google_maps_api_key_output = '';
 			}
-			if($google_maps_api_key != '') {
-				wp_enqueue_script('gmapsPlaces', '//maps.googleapis.com/maps/api/js?v=3.exp&libraries=places' . $google_maps_api_key_output, '', '1.0', false);
+			if ( $google_maps_api_key != '' ) {
+				wp_enqueue_script( 'gmapsPlaces', '//maps.googleapis.com/maps/api/js?v=3.exp&libraries=places' . $google_maps_api_key_output, '', '1.0', false );
 			}
-			wp_enqueue_script('geoComplete', get_template_directory_uri() . '/js/jquery.geocomplete.js', array('jquery'), '1.0', false);
-			wp_enqueue_script('parsley', get_template_directory_uri() . '/js/parsley.js', array('jquery'), '1.0', false);
-			wp_enqueue_script('multiStepForm', get_template_directory_uri() . '/js/ct.multi.step.form.js', array('jquery'), '1.0', false);
-			wp_enqueue_script('jquery-ui-sortable');
-			wp_enqueue_script('plupload');
-			wp_enqueue_script('plupload-handlers');
-			wp_enqueue_script('wp-plupload');
-			wp_enqueue_script('edit-listing', get_template_directory_uri() . '/js/ct.edit.listing.js', array('jquery'), '1.0', false);
-			$admin_url = array( 'ajaxUrl' => admin_url( 'admin-ajax.php' ) );
+			wp_enqueue_script( 'geoComplete', get_template_directory_uri() . '/js/jquery.geocomplete.js', array( 'jquery' ), '1.0', false );
+			wp_enqueue_script( 'parsley', get_template_directory_uri() . '/js/parsley.js', array( 'jquery' ), '1.0', false );
+			wp_enqueue_script( 'multiStepForm', get_template_directory_uri() . '/js/ct.multi.step.form.js', array( 'jquery' ), '1.0', false );
+			wp_enqueue_script( 'jquery-ui-sortable' );
+			wp_enqueue_script( 'plupload' );
+			wp_enqueue_script( 'plupload-handlers' );
+			wp_enqueue_script( 'wp-plupload' );
+			wp_enqueue_script( 'edit-listing', get_template_directory_uri() . '/js/ct.edit.listing.js', array( 'jquery' ), '1.0', false );
+			$admin_url    = array( 'ajaxUrl' => admin_url( 'admin-ajax.php' ) );
 			$template_url = array( 'templateUrl' => get_stylesheet_directory_uri() );
-			wp_localize_script( 'edit-listing', 'PostID' , array( 'post_id'=>(isset($_GET['listings'])? $_GET['listings'] : $post->ID) ) );
-			wp_localize_script( 'edit-listing', 'AdminURL', $admin_url  );
+			wp_localize_script( 'edit-listing', 'PostID', array( 'post_id' => ( isset( $_GET['listings'] ) ? $_GET['listings'] : $post->ID ) ) );
+			wp_localize_script( 'edit-listing', 'AdminURL', $admin_url );
 			wp_localize_script( 'edit-listing', 'TemplatePath', $template_url );
 		}
 
@@ -1194,132 +1205,132 @@ if(!function_exists('ct_init_scripts')) {
 		$ct_listing_marker_svg_size                  = isset( $ct_options['ct_listing_marker_svg_size'] ) ? $ct_options['ct_listing_marker_svg_size'] : '12';
 		//if(is_post_type_archive('listings') ||  is_page_template('search-listings.php') || is_page_template('template-contact.php') || is_page_template('template-contact-no-form.php') || is_page_template('template-big-map.php') || is_page_template('template-demo-home-map.php') || is_page_template('template-home.php') && in_array('Featured Map', $ct_home_layout_array)) {
 
-			$google_maps_api_key = isset( $ct_options['ct_google_maps_api_key'] ) ? stripslashes( $ct_options['ct_google_maps_api_key'] ) : '';
+		$google_maps_api_key = isset( $ct_options['ct_google_maps_api_key'] ) ? stripslashes( $ct_options['ct_google_maps_api_key'] ) : '';
 
-			if($google_maps_api_key != '') {
-				wp_enqueue_script('infobox', get_template_directory_uri() . '/js/ct.infobox.js', array('gmaps'), '1.0', true);
-				wp_enqueue_script('marker', get_template_directory_uri() . '/js/markerwithlabel.js', array('gmaps'), '1.0', true);
-				wp_enqueue_script('markerCluster', get_template_directory_uri() . '/js/markerclusterer.js', array('gmaps'), '1.0', true);
-				wp_enqueue_script('mapping', get_template_directory_uri() . '/js/ct.mapping.js', array('gmaps'), '1.6.5', true);
+		if ( $google_maps_api_key != '' ) {
+			wp_enqueue_script( 'infobox', get_template_directory_uri() . '/js/ct.infobox.js', array( 'gmaps' ), '1.0', true );
+			wp_enqueue_script( 'marker', get_template_directory_uri() . '/js/markerwithlabel.js', array( 'gmaps' ), '1.0', true );
+			wp_enqueue_script( 'markerCluster', get_template_directory_uri() . '/js/markerclusterer.js', array( 'gmaps' ), '1.0', true );
+			wp_enqueue_script( 'mapping', get_template_directory_uri() . '/js/ct.mapping.js', array( 'gmaps' ), '1.6.5', true );
 
-				wp_localize_script( "mapping", "mapping_ajax_object",
-					array(
-						"ajax_url"                       => admin_url( "admin-ajax.php" ),
-						"search_cluster_zoom_level"      => $ct_listing_search_cluster_zoom_level,
-						"search_marker_price_zoom_level" => $ct_listing_search_marker_price_display_zoom,
-						"ct_enable_marker_price"         => $ct_enable_marker_price,
-						"listing_marker_type"            => $ct_listing_marker_type,
-						"ct_listing_marker_svg_size"     => $ct_listing_marker_svg_size
-					)
-				);
-			}
+			wp_localize_script( "mapping", "mapping_ajax_object",
+				array(
+					"ajax_url"                       => admin_url( "admin-ajax.php" ),
+					"search_cluster_zoom_level"      => $ct_listing_search_cluster_zoom_level,
+					"search_marker_price_zoom_level" => $ct_listing_search_marker_price_display_zoom,
+					"ct_enable_marker_price"         => $ct_enable_marker_price,
+					"listing_marker_type"            => $ct_listing_marker_type,
+					"ct_listing_marker_svg_size"     => $ct_listing_marker_svg_size
+				)
+			);
+		}
 
 		//}
 
 		$ct_sticky_header = isset( $ct_options['ct_sticky_header'] ) ? esc_attr( $ct_options['ct_sticky_header'] ) : '';
-		if($ct_sticky_header == 'yes') {
-			wp_enqueue_script('waypoints', get_template_directory_uri() . '/js/waypoints.min.js', array('jquery'), '1.0', true);
+		if ( $ct_sticky_header == 'yes' ) {
+			wp_enqueue_script( 'waypoints', get_template_directory_uri() . '/js/waypoints.min.js', array( 'jquery' ), '1.0', true );
 		}
 
-		wp_enqueue_script('modernizer', get_template_directory_uri() . '/js/modernizr.custom.js', array('jquery'), '1.0', true);
-		wp_enqueue_script('classie', get_template_directory_uri() . '/js/classie.js', array('jquery'), '1.0', true);
-		wp_enqueue_script('hammer', get_template_directory_uri() . '/js/jquery.hammer.min.js', array('jquery'), '1.0', true);
-		wp_enqueue_script('touchEffects', get_template_directory_uri() . '/js/toucheffects.js', array('jquery'), '1.0', true);
-		wp_enqueue_script('base', get_template_directory_uri() . '/js/base.js', array('jquery'), '1.3.2', true);
-		wp_enqueue_script('ctaccount', get_template_directory_uri() . '/js/ct.account.js', array('jquery'), '1.0.1', true);
+		wp_enqueue_script( 'modernizer', get_template_directory_uri() . '/js/modernizr.custom.js', array( 'jquery' ), '1.0', true );
+		wp_enqueue_script( 'classie', get_template_directory_uri() . '/js/classie.js', array( 'jquery' ), '1.0', true );
+		wp_enqueue_script( 'hammer', get_template_directory_uri() . '/js/jquery.hammer.min.js', array( 'jquery' ), '1.0', true );
+		wp_enqueue_script( 'touchEffects', get_template_directory_uri() . '/js/toucheffects.js', array( 'jquery' ), '1.0', true );
+		wp_enqueue_script( 'base', get_template_directory_uri() . '/js/base.js', array( 'jquery' ), '1.3.2', true );
+		wp_enqueue_script( 'ctaccount', get_template_directory_uri() . '/js/ct.account.js', array( 'jquery' ), '1.0.1', true );
 
 		// Sticky Sidebar
 		$ct_listing_single_sticky_sidebar = isset( $ct_options['ct_listing_single_sticky_sidebar'] ) ? $ct_options['ct_listing_single_sticky_sidebar'] : '';
-        if($ct_listing_single_sticky_sidebar == 'yes') {
-        	//wp_enqueue_script('resizeSensor', get_template_directory_uri() . '/js/ResizeSensor.js', array('jquery'), '1.0', false);
+		if ( $ct_listing_single_sticky_sidebar == 'yes' ) {
+			//wp_enqueue_script('resizeSensor', get_template_directory_uri() . '/js/ResizeSensor.js', array('jquery'), '1.0', false);
 			//wp_enqueue_script('stickySidebar', get_template_directory_uri() . '/js/sticky-sidebar.js', array('jquery'), '1.0', false);
 			//wp_enqueue_script('stickyjQuerySidebar', get_template_directory_uri() . '/js/jquery.sticky-sidebar.js', array('jquery'), '1.0', false);
 		}
 
 		// Localize the script with new data
 		$translation_array = array(
-			'close_map' => __( 'Close Map', 'contempo' ),
-			'open_map' => __( 'Open Map', 'contempo' ),
+			'close_map'    => __( 'Close Map', 'contempo' ),
+			'open_map'     => __( 'Open Map', 'contempo' ),
 			'close_search' => __( 'Close Search', 'contempo' ),
-			'open_search' => __( 'Open Search', 'contempo' ),
-			'close_tools' => __( 'Close', 'contempo' ),
-			'open_tools' => __( 'Open', 'contempo' ),
-			'search_saved' => __( 'Search Saved', 'contempo'),
-			'a_value' => '10',
-			'ct_ajax_url' => admin_url( 'admin-ajax.php' )
+			'open_search'  => __( 'Open Search', 'contempo' ),
+			'close_tools'  => __( 'Close', 'contempo' ),
+			'open_tools'   => __( 'Open', 'contempo' ),
+			'search_saved' => __( 'Search Saved', 'contempo' ),
+			'a_value'      => '10',
+			'ct_ajax_url'  => admin_url( 'admin-ajax.php' )
 		);
 		wp_localize_script( 'base', 'object_name', $translation_array );
 
 		// Localize Advanced Search
 		$ct_city_town_or_village = isset( $ct_options['ct_city_town_or_village'] ) ? $ct_options['ct_city_town_or_village'] : '';
-		$ct_state_or_area = isset( $ct_options['ct_state_or_area'] ) ? $ct_options['ct_state_or_area'] : '';
-		$ct_zip_or_post = isset( $ct_options['ct_zip_or_post'] ) ? $ct_options['ct_zip_or_post'] : '';
+		$ct_state_or_area        = isset( $ct_options['ct_state_or_area'] ) ? $ct_options['ct_state_or_area'] : '';
+		$ct_zip_or_post          = isset( $ct_options['ct_zip_or_post'] ) ? $ct_options['ct_zip_or_post'] : '';
 
-	    if($ct_city_town_or_village == 'town') {
-			$ct_city = __('All Towns', 'contempo');
-		} elseif($ct_city_town_or_village == 'village') {
-			$ct_city = __('All Villages', 'contempo');
+		if ( $ct_city_town_or_village == 'town' ) {
+			$ct_city = __( 'All Towns', 'contempo' );
+		} elseif ( $ct_city_town_or_village == 'village' ) {
+			$ct_city = __( 'All Villages', 'contempo' );
 		} else {
-			$ct_city = __('All Cities', 'contempo');
+			$ct_city = __( 'All Cities', 'contempo' );
 		}
 
-		if($ct_state_or_area == 'area') {
-			$ct_state = __('All Areas', 'contempo');
-		} elseif($ct_state_or_area == 'suburb') {
-			$ct_state = __('All Suburbs', 'contempo');
-		} elseif($ct_state_or_area == 'province') {
-			$ct_state = __('All Provinces', 'contempo');
-		} elseif($ct_state_or_area == 'region') {
-			$ct_state = __('All Regions', 'contempo');
-		} elseif($ct_state_or_area == 'parish') {
-			$ct_state = __('All Parishes', 'contempo');
+		if ( $ct_state_or_area == 'area' ) {
+			$ct_state = __( 'All Areas', 'contempo' );
+		} elseif ( $ct_state_or_area == 'suburb' ) {
+			$ct_state = __( 'All Suburbs', 'contempo' );
+		} elseif ( $ct_state_or_area == 'province' ) {
+			$ct_state = __( 'All Provinces', 'contempo' );
+		} elseif ( $ct_state_or_area == 'region' ) {
+			$ct_state = __( 'All Regions', 'contempo' );
+		} elseif ( $ct_state_or_area == 'parish' ) {
+			$ct_state = __( 'All Parishes', 'contempo' );
 		} else {
-			$ct_state = __('All States', 'contempo');
+			$ct_state = __( 'All States', 'contempo' );
 		}
 
-		if($ct_zip_or_post == 'postcode') {
-			$ct_zip_post = __('All Postcodes', 'contempo');
-		} elseif($ct_zip_or_post == 'postalcode') {
-			$ct_zip_post = __('All Postal Codes', 'contempo');
+		if ( $ct_zip_or_post == 'postcode' ) {
+			$ct_zip_post = __( 'All Postcodes', 'contempo' );
+		} elseif ( $ct_zip_or_post == 'postalcode' ) {
+			$ct_zip_post = __( 'All Postal Codes', 'contempo' );
 		} else {
-			$ct_zip_post = __('All Zipcodes', 'contempo');
+			$ct_zip_post = __( 'All Zipcodes', 'contempo' );
 		}
 
-	    $ct_advanced_search_translation_array = array(
-			'all_cities' => $ct_city,
-			'all_states' => $ct_state,
+		$ct_advanced_search_translation_array = array(
+			'all_cities'   => $ct_city,
+			'all_states'   => $ct_state,
 			'all_zip_post' => $ct_zip_post
 		);
 		wp_localize_script( 'advSearch', 'searchLabel', $ct_advanced_search_translation_array );
 
 		// Localize Validation Errors
-		if(is_single() || is_author() || is_page_template('template-contact.php') || is_page_template('template-favorite-listings.php') || is_page_template('template-submit-listing.php') || is_front_page() || is_page_template('template-agents.php') || is_page_template('template-brokerages.php')) {
-			wp_enqueue_script('validationEngine', get_template_directory_uri() . '/js/jquery.validationEngine.js', array('jquery'), '1.0.1', true);
+		if ( is_single() || is_author() || is_page_template( 'template-contact.php' ) || is_page_template( 'template-favorite-listings.php' ) || is_page_template( 'template-submit-listing.php' ) || is_front_page() || is_page_template( 'template-agents.php' ) || is_page_template( 'template-brokerages.php' ) ) {
+			wp_enqueue_script( 'validationEngine', get_template_directory_uri() . '/js/jquery.validationEngine.js', array( 'jquery' ), '1.0.1', true );
 			// Localize the script with new data
 			$ct_validationEngine_errors = array(
-				'required' => __('* This field is required', 'contempo'),
-				'requiredCheckboxMulti' => __('* Please select an option', 'contempo'),
-				'requiredCheckbox' => __('* This checkbox is required', 'contempo'),
-				'invalidTelephone' => __('* Invalid phone number', 'contempo'),
-				'invalidEmail' => __('* Invalid email address', 'contempo'),
-				'invalidDate' => __('* Invalid date, must be in YYYY-MM-DD format', 'contempo'),
-				'numbersOnly' => __('* Numbers only', 'contempo'),
-				'noSpecialChar' => __('* No special caracters allowed', 'contempo'),
-				'letterOnly' => __('* Letters only', 'contempo'),
+				'required'              => __( '* This field is required', 'contempo' ),
+				'requiredCheckboxMulti' => __( '* Please select an option', 'contempo' ),
+				'requiredCheckbox'      => __( '* This checkbox is required', 'contempo' ),
+				'invalidTelephone'      => __( '* Invalid phone number', 'contempo' ),
+				'invalidEmail'          => __( '* Invalid email address', 'contempo' ),
+				'invalidDate'           => __( '* Invalid date, must be in YYYY-MM-DD format', 'contempo' ),
+				'numbersOnly'           => __( '* Numbers only', 'contempo' ),
+				'noSpecialChar'         => __( '* No special caracters allowed', 'contempo' ),
+				'letterOnly'            => __( '* Letters only', 'contempo' ),
 			);
-			wp_localize_script('validationEngine', 'validationError', $ct_validationEngine_errors);
+			wp_localize_script( 'validationEngine', 'validationError', $ct_validationEngine_errors );
 		}
 	}
 }
-add_action('wp_enqueue_scripts', 'ct_init_scripts');
+add_action( 'wp_enqueue_scripts', 'ct_init_scripts' );
 
 /*-----------------------------------------------------------------------------------*/
 /* Enqueue main stylesheet
 /*-----------------------------------------------------------------------------------*/
 
-if(!function_exists('ct_theme_style')) {
+if ( ! function_exists( 'ct_theme_style' ) ) {
 	function ct_theme_style() {
-	    wp_enqueue_style( 'ct-theme-style', get_bloginfo( 'stylesheet_url' ), array(), '1.0', 'screen, projection', 99 );
+		wp_enqueue_style( 'ct-theme-style', get_bloginfo( 'stylesheet_url' ), array(), '1.0', 'screen, projection', 99 );
 	}
 }
 add_action( 'wp_enqueue_scripts', 'ct_theme_style' );
@@ -1328,7 +1339,7 @@ add_action( 'wp_enqueue_scripts', 'ct_theme_style' );
 /* CT Head */
 /*-----------------------------------------------------------------------------------*/
 
-if(!function_exists('ct_wp_head')) {
+if ( ! function_exists( 'ct_wp_head' ) ) {
 	function ct_wp_head() {
 
 		global $ct_options;
@@ -2075,53 +2086,97 @@ if(!function_exists('ct_wp_head')) {
 	    $ct_enable_zapier_webhooks = isset( $ct_options['ct_enable_zapier_webhooks'] ) ? $ct_options['ct_enable_zapier_webhooks'] : '';
 		$ct_zapier_webhook_url = isset( $ct_options['ct_zapier_webhook_url'] ) ? $ct_options['ct_zapier_webhook_url'] : '';
 		$ct_zapier_webhook_listing_single_form = isset( $ct_options['ct_zapier_webhook_listing_single_form'] ) ? $ct_options['ct_zapier_webhook_listing_single_form'] : '';
-	    if(is_singular('listings') || $mode == "single-listing") { ?>
-			<script>
-				jQuery(window).load(function() {
+	    if(is_singular('listings') || $mode == "single-listing") {
+
+	        if(!empty($ct_options['ct_flex_autoplay'])) {
+		                $ct_slide="slideshow: ".strtolower($ct_options['ct_flex_autoplay']).",";
+		                } else {
+	                	$ct_slide="slideshow: true,";
+	                	}
+						if(!empty($ct_options['ct_flex_speed'])) {
+						$ct_slide="slideshowSpeed: ".($ct_options['ct_flex_speed']).",";
+						}
+						if(!empty($ct_options['ct_flex_duration'])) {
+						$ct_slide="animationDuration: ".esc_html($ct_options['ct_flex_duration']).",";
+						}
+						if($ct_options['ct_mode'] == "single-listing") {
+						$ct_slide="itemWidth: 200,";
+						} else {
+						$ct_slide="itemWidth: 120,";
+						}
+
+
+						//'#slider'
+						 if(!empty($ct_options['ct_flex_animation'])) {
+		                $ct_slide2animation="animation: \"" .strtolower($ct_options['ct_flex_animation'])."\",";
+		                 }
+		                 if(!empty($ct_options['ct_flex_direction'])) {
+		                $ct_slide2slideDirection="slideDirection: \"" .strtolower($ct_options['ct_flex_direction'])."\",";
+		                 }
+		                 if(!empty($ct_options['ct_flex_autoplay'])) {
+		                $ct_slide2slideshow="slideshow: " .strtolower($ct_options['ct_flex_autoplay']).",";
+		                 } else {
+	                	$ct_slide2slideshow="slideshow: true,";
+	                	 }
+		                 if(!empty($ct_options['ct_flex_speed'])) {
+		                $ct_slide2slideshowSpeed="slideshowSpeed: ".esc_html($ct_options['ct_flex_speed']).",";
+		                 }
+		                 if(!empty($ct_options['ct_flex_duration'])) {
+		                $ct_slide2animationDuration="animationDuration: ".esc_html($ct_options['ct_flex_duration']).",";
+		                 }
+                    //'.flexslider'
+
+                     if(!empty($ct_options['ct_flex_animation'])) {
+		                $ct_slide3animation="animation: \"".strtolower($ct_options['ct_flex_animation'])."\",";
+		                 }
+		                 if(!empty($ct_options['ct_flex_direction'])) {
+		                $ct_slide3slideDirection="slideDirection: \" ".strtolower($ct_options['ct_flex_direction'])."\",";
+		                 }
+		                 if(!empty($ct_options['ct_flex_autoplay'])) {
+		                $ct_slide3slideshow="slideshow: \"".strtolower($ct_options['ct_flex_autoplay'])."\",";
+		                 } else {
+	                	$ct_slide3slideshow="slideshow: true,";
+	                	 }
+		                 if(!empty($ct_options['ct_flex_speed'])) {
+		                $ct_slide3slideshowSpeed="slideshowSpeed:  ".esc_html($ct_options['ct_flex_speed']).",";
+		                 }
+		                 if(!empty($ct_options['ct_flex_duration'])) {
+		                $ct_slide3animationDuration="animationDuration:  ".esc_html($ct_options['ct_flex_duration']).",";
+		                 }
+		                 if(!empty($ct_options['ct_flex_randomize'])) {
+		                $ct_slide3randomize="randomize:  ".esc_html($ct_options['ct_flex_randomize']).",";
+		                 }
+
+
+		                 //#listing
+		                  if($ct_enable_zapier_webhooks == 'yes' && $ct_zapier_webhook_url != '' && $ct_zapier_webhook_listing_single_form == true) {
+							$ct_listing_submitajaxSubmitFile="ajaxSubmitFile:\"" .get_template_directory_uri()."/includes/ajax-submit-listings-zapier.php\",";
+						 } else {
+							$ct_listing_submitajaxSubmitFile="ajaxSubmitFile:\"" .get_template_directory_uri()."/includes/ajax-submit-listings.php\",";
+						 }
+		                  $contact_success = str_replace(array("\r\n", "\r", "\n"), " ", $ct_options['ct_contact_success']);
+		                  $contact_success=esc_html($contact_success);
+						    $ct_listing_submitajaxSubmitMessage="ajaxSubmitMessage: \"".$contact_success."\",";
+
+            $script=<<<JS
+                jQuery(window).load(function() {
 					jQuery('#carousel').flexslider({
 						animation: "slide",
 						controlNav: false,
 						animateHeight: true,
 						directionNav: true,
 						animationLoop: false,
-						<?php if(!empty($ct_options['ct_flex_autoplay'])) { ?>
-		                slideshow: "<?php echo strtolower($ct_options['ct_flex_autoplay']); ?>",
-		                <?php } else { ?>
-	                	slideshow: true,
-	                	<?php } ?>
-						<?php if(!empty($ct_options['ct_flex_speed'])) { ?>
-						slideshowSpeed: <?php echo esc_html($ct_options['ct_flex_speed']); ?>,
-						<?php } ?>
-						<?php if(!empty($ct_options['ct_flex_duration'])) { ?>
-						animationDuration: <?php echo esc_html($ct_options['ct_flex_duration']); ?>,
-						<?php } ?>
-						<?php if($ct_options['ct_mode'] == "single-listing") { ?>
-						itemWidth: 200,
-						<?php } else { ?>
-						itemWidth: 120,
-						<?php } ?>
+					    $ct_slide
 						itemMargin: 0,
 						asNavFor: '#slider'
 					});
 
 					jQuery('#slider').flexslider({
-						<?php if(!empty($ct_options['ct_flex_animation'])) { ?>
-		                animation: "<?php echo strtolower($ct_options['ct_flex_animation']); ?>",
-		                <?php } ?>
-		                <?php if(!empty($ct_options['ct_flex_direction'])) { ?>
-		                slideDirection: "<?php echo strtolower($ct_options['ct_flex_direction']); ?>",
-		                <?php } ?>
-		                <?php if(!empty($ct_options['ct_flex_autoplay'])) { ?>
-		                slideshow: "<?php echo strtolower($ct_options['ct_flex_autoplay']); ?>",
-		                <?php } else { ?>
-	                	slideshow: true,
-	                	<?php } ?>
-		                <?php if(!empty($ct_options['ct_flex_speed'])) { ?>
-		                slideshowSpeed: <?php echo esc_html($ct_options['ct_flex_speed']); ?>,
-		                <?php } ?>
-		                <?php if(!empty($ct_options['ct_flex_duration'])) { ?>
-		                animationDuration: <?php echo esc_html($ct_options['ct_flex_duration']); ?>,
-		                <?php } ?>
+						$ct_slide2animation
+						$ct_slide2slideDirection
+						$ct_slide2slideshow
+						$ct_slide2slideshowSpeed
+						$ct_slide2animationDuration
 						smoothHeight: true,
 						controlNav: false,
 						animationLoop: false,
@@ -2131,55 +2186,49 @@ if(!function_exists('ct_wp_head')) {
 
 					// Slider for Testimonails
 		            jQuery('.flexslider').flexslider({
-		            	<?php if(!empty($ct_options['ct_flex_animation'])) { ?>
-		                animation: "<?php echo strtolower($ct_options['ct_flex_animation']); ?>",
-		                <?php } ?>
-		                <?php if(!empty($ct_options['ct_flex_direction'])) { ?>
-		                slideDirection: "<?php echo strtolower($ct_options['ct_flex_direction']); ?>",
-		                <?php } ?>
-		                <?php if(!empty($ct_options['ct_flex_autoplay'])) { ?>
-		                slideshow: "<?php echo strtolower($ct_options['ct_flex_autoplay']); ?>",
-		                <?php } else { ?>
-	                	slideshow: true,
-	                	<?php } ?>
-		                <?php if(!empty($ct_options['ct_flex_speed'])) { ?>
-		                slideshowSpeed: <?php echo esc_html($ct_options['ct_flex_speed']); ?>,
-		                <?php } ?>
-		                <?php if(!empty($ct_options['ct_flex_duration'])) { ?>
-		                animationDuration: <?php echo esc_html($ct_options['ct_flex_duration']); ?>,
-		                <?php } ?>
+		            	$ct_slide3animation
+		            	$ct_slide3slideDirection
+		            	$ct_slide3slideshow
+		            	$ct_slide3slideshowSpeed
+		            	$ct_slide3animationDuration
+		            	$ct_slide3randomize
 		                controlNav: false,
 		                directionNav: true,
 		                keyboardNav: true,
-		                <?php if(!empty($ct_options['ct_flex_randomize'])) { ?>
-		                randomize: <?php echo esc_html($ct_options['ct_flex_randomize']); ?>,
-		                <?php } ?>
 		                pauseOnAction: true,
 		                pauseOnHover: false,
 		                animationLoop: true
 		            });
 				});
 
-				jQuery(document).ready(function() {
-					jQuery("#listingscontact").validationEngine({
+				jQuery(document).ready(function($) {
+					let listingcontact = jQuery("#listingscontact");
+					
+					listingcontact.validationEngine({
 						ajaxSubmit: true,
-						<?php if($ct_enable_zapier_webhooks == 'yes' && $ct_zapier_webhook_url != '' && $ct_zapier_webhook_listing_single_form == true) { ?>
-							ajaxSubmitFile: "<?php echo get_template_directory_uri(); ?>/includes/ajax-submit-listings-zapier.php",
-						<?php } else { ?>
-							ajaxSubmitFile: "<?php echo get_template_directory_uri(); ?>/includes/ajax-submit-listings.php",
-						<?php } ?>
-						ajaxSubmitMessage: "<?php $contact_success = str_replace(array("\r\n", "\r", "\n"), " ", $ct_options['ct_contact_success']); echo esc_html($contact_success); ?>",
-						success :  false,
+						$ct_listing_submitajaxSubmitFile
+						$ct_listing_submitajaxSubmitMessage
+						success :  function(){
+						    console.log('ok')
+						},
 						failure : function() {}
 					});
+					if(jQuery.hasOwnProperty('magnificPopup')){
 					jQuery('.gallery-item').magnificPopup({
 						type: 'image',
 						gallery:{
 							enabled:true
 						}
 					});
+					}
 				});
-			</script>
+JS;
+
+                //base
+            wp_add_inline_script( 'base', $script,'after');
+
+	        ?>
+
 	    <?php } ?>
 
 	    <?php if(is_page_template('template-submit-listing.php') || is_page_template('template-edit-listing.php')) { ?>

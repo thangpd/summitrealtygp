@@ -114,11 +114,11 @@ if($inside_page_title == "Yes") {
                                             <div class="clear"></div>
                                         <input type="text" name="name" id="name" class="validate[required] text-input" placeholder="<?php esc_html_e('Name', 'contempo'); ?>" />
 
-                                        <input type="text" name="email" id="email" class="validate[required,custom[email]] text-input" placeholder="<?php esc_html_e('Email', 'contempo'); ?>" />
+                                        <input type="text" name="email" id="email" class="validate[required] text-input" placeholder="<?php esc_html_e('Email', 'contempo'); ?>" />
 
                                         <input type="text" name="ctphone" id="ctphone" class="text-input" placeholder="<?php esc_html_e('Phone', 'contempo'); ?>" />
 
-                                        <textarea class="validate[required,length[2,1000]] text-input" name="message" id="message" rows="6" cols="10"></textarea>
+                                        <textarea aria-label="" class="validate[required] text-input" name="message" id="message" rows="6" cols="10"></textarea>
 
                                         <input type="hidden" id="ctyouremail" name="ctyouremail" value="<?php echo esc_html($ct_options['ct_favorite_posts_contact_email']); ?>" />
                                         <input type="hidden" id="ctproperty" name="ctproperty" value="<?php ct_fav_listings_permalinks(); ?>" />
