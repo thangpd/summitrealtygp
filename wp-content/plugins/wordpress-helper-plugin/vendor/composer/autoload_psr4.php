@@ -6,5 +6,5 @@ $vendorDir = dirname(dirname(__FILE__));
 $baseDir = dirname($vendorDir);
 
 return array(
-    'Elhelper\\' => array($baseDir . '/src'),
+    'Elhelper\\' => array($baseDir . '/'),
 );

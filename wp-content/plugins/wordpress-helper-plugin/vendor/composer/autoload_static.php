@@ -16,7 +16,7 @@ class ComposerStaticInit686b86f432bfd8c336052796b638226a
     public static $prefixDirsPsr4 = array (
         'Elhelper\\' => 
         array (
-            0 => __DIR__ . '/../..' . '/src',
+            0 => __DIR__ . '/../..' . '/',
         ),
     );
 
