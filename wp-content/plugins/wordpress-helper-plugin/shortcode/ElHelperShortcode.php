@@ -4,6 +4,8 @@
  * Time: 5:24 PM
  */
 
+namespace Elhelper\shortcode;
+
 class ElHelperShortcode {
 
 	public function __construct() {
@@ -41,7 +43,6 @@ class ElHelperShortcode {
 
 	public function stringyfyCrawledData() {
 		$str = <<<HTML
-<pre>
 <!--[if IE 8]>
 <html lang="en" class="ie8 no-js"> <![endif]-->
 <!--[if IE 9]>

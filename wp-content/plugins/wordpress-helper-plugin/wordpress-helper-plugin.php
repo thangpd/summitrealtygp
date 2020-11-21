@@ -9,9 +9,17 @@
  Text Domain: elhelper
  */
 
+
+namespace Elhelper;
+require __DIR__ . '/vendor/autoload.php';
+
+use Elhelper\shortcode\ElHelperShortcode;
+
+
 if ( ! defined( 'ABSPATH' ) ) {
 	exit; // Exit if accessed directly.
 }
+
 /**
  * Main Elementor Test Extension Class
  *
@@ -160,6 +168,7 @@ class Elhelper_Plugin {
 		//shortcode
 		$this->init_shortcode();
 	}
+
 	function wporg_shortcode( $atts = [], $content = null ) {
 		// do something to $content
 		// always return
@@ -315,7 +324,6 @@ class Elhelper_Plugin {
 	 */
 	public function init_shortcode() {
 
-		require_once( __DIR__ . '/shortcode/ElHelperShortcode.php' );
 		new ElHelperShortcode();
 
 	}
