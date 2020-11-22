@@ -6,6 +6,10 @@
 
 namespace Elhelper\shortcode;
 
+
+use FastSimpleHTMLDom\Document;
+use Sunra\PhpSimple\HtmlDomParser;
+
 class ElHelperShortcode {
 
 	public function __construct() {
@@ -14,8 +18,17 @@ class ElHelperShortcode {
 	}
 
 	function wporg_shortcode( $atts = [], $content = null ) {
+		$res = $this->stringFilter( $this->stringyfyCrawledData() );
+		if ( empty( $res ) ) {
+			$res = 'Not found';
+		}
 
-		return $this->stringyfyCrawledData();
+		return $res;
+	}
+
+	function stringFilter( $htmldom ) {
+
+		return '';
 	}
 
 	public function crawlingData() {
