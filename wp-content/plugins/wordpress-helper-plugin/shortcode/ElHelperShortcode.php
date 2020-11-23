@@ -24,7 +24,7 @@ class ElHelperShortcode {
 	public function search_bhhs_form() {
 		// chua duoc.
 		//		$res['bedroom'] = $this->getBedroomSection();
-		$this->dom        = $this->stringFilter( $this->stringyfyCrawledData() );
+		$this->dom        = $this->stringFilter( $this->crawlingData() );
 		$res['code']      = 200;
 		$res['title']     = $this->getTitle();
 		$res['threedots'] = $this->get3dot();
