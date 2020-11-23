@@ -21,10 +21,28 @@ class ElHelperShortcode {
 		add_action( "wp_ajax_nopriv_search_bhhs_form", [ $this, "search_bhhs_form" ] );
 	}
 
+	public function convertAddressToUrl( $address = '' ) {
+		if ( ! empty( $address ) ) {
+			//805+Peachtree+St+Ne+Unit+416-Atlanta-Ga-30308';
+			//805 PEACHTREE ST NE UNIT 416 ATLANTA, GA 30308
+
+//1325 Peachtree St NE Apt 202, Atlanta GA 30309-3249
+//			1325+Peachtree+St+NE+Apt+202-Atlanta-GA-30309
+			list( $first, $sec ) = explode( ',', $address );
+			$first = str_replace( ' ', '+', $first );
+			$sec   = str_replace( ' ', '-', $sec );
+			return $first . $sec;
+		} else {
+			return false;
+		}
+	}
+
 	public function search_bhhs_form() {
 		// chua duoc.
 		//		$res['bedroom'] = $this->getBedroomSection();
-		$this->dom        = $this->stringFilter( $this->crawlingData() );
+
+		$this->dom        = $this->stringFilter( $this->crawlingData($this->convertAddressToUrl( $_GET['address'] )) );
+//		$this->dom        = $this->stringFilter( $this->stringyfyCrawledData() );
 		$res['code']      = 200;
 		$res['title']     = $this->getTitle();
 		$res['threedots'] = $this->get3dot();
@@ -99,11 +117,12 @@ HTML;
 	}
 
 
-	public function crawlingData() {
+	public function crawlingData( $address ) {
 		// do something to $content
 		// always return
 		$content = 'https://www.bhhs.com/home-value';
-		$content = 'https://bhhs.findbuyers.com/address/805+Peachtree+St+Ne+Unit+416-Atlanta-Ga-30308';
+//		$content = 'https://bhhs.findbuyers.com/address/805+Peachtree+St+Ne+Unit+416-Atlanta-Ga-30308';
+		$content = 'https://bhhs.findbuyers.com/address/' . $address;
 		$curl    = curl_init();
 //		$proxy = '45.32.106.145:3128';
 //		curl_setopt($curl, CURLOPT_PROXY, $proxy);
