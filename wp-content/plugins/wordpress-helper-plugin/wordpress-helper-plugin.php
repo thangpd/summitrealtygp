@@ -184,14 +184,16 @@ class Elhelper_Plugin {
 		wp_register_script( 'slick', plugins_url( '/assets/lib/slick/slick.min.js', __FILE__ ), array( 'jquery' ) );
 		wp_register_script( 'html5lightbox', plugins_url( '/assets/lib/html5lightbox/html5lightbox.js', __FILE__ ), [ 'jquery' ] );
 		wp_register_script( 'bootstrap', plugins_url( '/assets/lib/bootstrap/js/bootstrap.js', __FILE__ ), array( 'jquery' ) );
-		wp_register_script( 'elhelper-script', plugins_url( '/assets/js/elhelper-plugin.js', __FILE__ ), array( 'jquery' ) );
+		wp_enqueue_script( 'elhelper-script', plugins_url( '/assets/js/el-helper-plugin.js', __FILE__ ), array( 'jquery' ) );
+		wp_localize_script( 'elhelper-script', 'ajax_object',
+			array( 'ajax_url' => admin_url( 'admin-ajax.php' ), 'we_value' => 1234 ) );
 	}
 
 	/**
 	 * @param $hook
 	 */
 	function enqueue_style( $hook ) {
-		wp_enqueue_style( 'elhelper-style', plugins_url( '/assets/elhelper-style.css', __FILE__ ), [] );
+		wp_enqueue_style( 'elhelper-style', plugins_url( '/assets/css/el-helper-style.css', __FILE__ ) );
 		wp_register_style( 'slick', plugins_url( '/assets/lib/slick/slick.css', __FILE__ ), [ 'elementor-frontend' ] );
 		wp_register_style( 'slick-theme', plugins_url( '/assets/lib/slick/slick-theme.css', __FILE__ ), [ 'elementor-frontend' ] );
 		wp_register_style( 'bootstrap', plugins_url( '/assets/lib/bootstrap/css/bootstrap.css', __FILE__ ), [ 'elementor-frontend' ] );

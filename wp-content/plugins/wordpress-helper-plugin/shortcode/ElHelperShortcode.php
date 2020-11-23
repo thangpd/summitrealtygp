@@ -7,29 +7,97 @@
 namespace Elhelper\shortcode;
 
 
-use FastSimpleHTMLDom\Document;
-use Sunra\PhpSimple\HtmlDomParser;
+use KubAT\PhpSimple\HtmlDomParser;
 
 class ElHelperShortcode {
+	public $dom = '';
 
 	public function __construct() {
-
 		add_shortcode( 'wporgtestsets', [ $this, 'wporg_shortcode' ] );
+		//enqueue
+		add_action( 'wp_enqueue_scripts', [ $this, 'enqueue_script' ] );
+		add_action( 'wp_enqueue_scripts', [ $this, 'enqueue_style' ] );
+		add_action( "wp_ajax_search_bhhs_form", [ $this, "search_bhhs_form" ] );
+		add_action( "wp_ajax_nopriv_search_bhhs_form", [ $this, "search_bhhs_form" ] );
+	}
+
+	public function search_bhhs_form() {
+		// chua duoc.
+		//		$res['bedroom'] = $this->getBedroomSection();
+		$this->dom        = $this->stringFilter( $this->stringyfyCrawledData() );
+		$res['code']      = 200;
+		$res['title']     = $this->getTitle();
+		$res['threedots'] = $this->get3dot();
+		$res['soldprice'] = $this->getSoldPrice();
+
+		$json_encode = json_encode( $res );
+		echo $json_encode;
+
+		wp_die();
+	}
+
+	/**
+	 * @param $hook
+	 */
+	function enqueue_script( $hook ) {
+		wp_enqueue_script( 'elhelper-shortcode-js', plugins_url( '/assets/elhelper/js/elhelper-plugin.js', __FILE__ ), array( 'jquery' ) );
+	}
+
+	/**
+	 * @param $hook
+	 */
+	function enqueue_style( $hook ) {
+		wp_enqueue_style( 'elhelper-shortcode-css', plugins_url( '/assets/elhelper/css/elhelper-plugin.css', __FILE__ ) );
 	}
 
 	function wporg_shortcode( $atts = [], $content = null ) {
-		$res = $this->stringFilter( $this->stringyfyCrawledData() );
 		if ( empty( $res ) ) {
 			$res = 'Not found';
 		}
+		$res = $this->formSearchBhhs();
 
 		return $res;
 	}
 
-	function stringFilter( $htmldom ) {
+	public function formSearchBhhs() {
+		$html = <<<HTML
+		<div class="form-search-bhhs-container">
+		<form class="bhhs-form" action="#">
+		<input id="listing-address" name="address" type="text" placeholder="Enter your home address" required>
+		<div class="row btn-summit-bhhs">
+		<input class="btn" type="submit" value="Get Free Report">
+		</div>
+	</form>
+	<div class="res-search">
+	
+</div>
+</div>			
+HTML;
 
-		return '';
+		return $html;
+
 	}
+
+	function stringFilter( $htmldom ) {
+		if ( ! empty( $htmldom ) ) {
+			$array_replace_pattern = [
+				'#(<!--(.*)>)#',
+				'##'
+			];
+			$htmldom               = preg_replace( $array_replace_pattern, '', $htmldom );
+			preg_match( '#contentagent">(.*)#', $htmldom, $match, PREG_OFFSET_CAPTURE );
+			$htmldom = substr_replace( $htmldom, '', 0, $match[0][1] + 15 );
+			$start   = 0;
+			$htmldom = substr( $htmldom, $start, strlen( $htmldom ) );
+			$dom     = HtmlDomParser::str_get_html( $htmldom );
+
+
+			return $dom;
+		} else {
+			return json_encode( array( 'msg' => 'empty', 'code' => 404 ) );
+		}
+	}
+
 
 	public function crawlingData() {
 		// do something to $content
@@ -47,10 +115,8 @@ class ElHelperShortcode {
 		curl_setopt( $curl, CURLOPT_SSL_VERIFYPEER, false );
 		$result = curl_exec( $curl );
 		curl_close( $curl );
-		echo '<pre>';
-		print_r( $result );
-		echo '</pre>';
-		die;
+
+		return $result;
 
 	}
 
@@ -2266,6 +2332,42 @@ It's free, and comes with no obligation</h2>      <div class="row row-button">
 HTML;
 
 		return $str;
+	}
+
+	public function getTitle() {
+		$elems  = $this->dom->find( '.article.article-text.normal-box.owner-settings-hide.wide.row-ajaxblock' );
+		$strres = $elems[0];
+		$strres = str_replace( $strres->find( 'div' )[0]->find( 'div' )[0]->innertext, '', $strres );
+
+		return $strres;
+	}
+
+	public function get3dot() {
+		$elems = $this->dom->find( '.article.article-list.narrow' );
+
+		$strres = $elems[0]->innertext;
+		$strres = preg_replace( '#(style="(.*?)")#', '', $strres );
+
+		return $strres;
+	}
+
+	public function getBedroomSection() {
+		$elems = $this->dom->find( '.sectionagent-stats.animatein-fade.animateout-fade.children-4' );
+
+		$strres = $elems[0]->innertext;
+		echo '<pre>';
+		print_r( $strres );
+		echo '</pre>';
+		die;
+
+
+	}
+
+	public function getSoldPrice() {
+		$elems  = $this->dom->find( '.article.article-text.normal-box.normal-text' );
+		$strres = $elems[3]->innertext;
+
+		return $strres;
 	}
 
 }

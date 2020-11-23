@@ -7,4 +7,5 @@ $baseDir = dirname($vendorDir);
 
 return array(
     'Monolog' => array($vendorDir . '/monolog/monolog/src'),
+    'KubAT\\PhpSimple\\HtmlDomParser' => array($vendorDir . '/kub-at/php-simple-html-dom-parser/src'),
 );
