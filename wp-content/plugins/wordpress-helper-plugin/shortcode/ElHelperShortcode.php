@@ -2365,7 +2365,7 @@ HTML;
 		$elems = $this->dom->find( '.article.article-list.narrow' );
 
 		$strres = $elems[0]->innertext;
-		$strres = preg_replace( '#(style="(.*?)")#', '', $strres );
+//		$strres = preg_replace( '#(style="(.*?)")#', '', $strres );
 
 		return $strres;
 	}

@@ -7,7 +7,7 @@
             // var nonce = $(this).attr("data-nonce")
             // var data = {action: "search_bhhs_form", post_id: post_id, nonce: nonce};
             var data = {action: "search_bhhs_form", address: address};
-            console.log(ajax_object.ajax_url)
+            $('.res-search').html('');
             $.ajax({
                 type: "GET",
                 url: ajax_object.ajax_url,
