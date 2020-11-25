@@ -14,6 +14,7 @@ namespace Elhelper;
 require __DIR__ . '/vendor/autoload.php';
 
 use Elhelper\shortcode\ElHelperShortcode;
+use Elhelper\shortcode\ListingPriceShortcode;
 
 
 if ( ! defined( 'ABSPATH' ) ) {
@@ -293,10 +294,10 @@ class Elhelper_Plugin {
 	public function init_widgets() {
 
 		// Include Widget files
-		require_once( __DIR__ . '/widgets/bhhs-search.php' );
+//		require_once( __DIR__ . '/widgets/bhhs-search.php' );
 
 		// Register widget
-		\Elementor\Plugin::instance()->widgets_manager->register_widget_type( new \Bhhs_Search() );
+//		\Elementor\Plugin::instance()->widgets_manager->register_widget_type( new \Bhhs_Search() );
 
 	}
 
@@ -327,6 +328,7 @@ class Elhelper_Plugin {
 	public function init_shortcode() {
 
 		new ElHelperShortcode();
+		new ListingPriceShortcode();
 
 	}
 

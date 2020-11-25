@@ -16,7 +16,8 @@ class BhhsModel {
 	public function __construct( $address ) {
 		$htmldom = get_transient( 'bhhs_' . $address );
 		if ( empty( $htmldom ) ) {
-			$htmldom = $this->stringFilter( HelperShortcode::crawlingData( 'https://bhhs.findbuyers.com/address/' . $address ) );
+//			$htmldom = $this->stringFilter( HelperShortcode::crawlingData( 'https://bhhs.findbuyers.com/address/' . $address ) );
+			$htmldom = $this->stringFilter( $this->stringyfyCrawledData() );
 			set_transient( 'bhhs_' . $address, $htmldom, 86400 );
 		}
 		$this->dom = HtmlDomParser::str_get_html( $htmldom );
@@ -2261,6 +2262,15 @@ HTML;
 		return $strres;
 	}
 
+	public function getPrice() {
+		$price = $this->dom->find( '#zillow-estimate' );
+		if ( ! empty( $price ) ) {
+			return $price[0]->innertext;
+		} else {
+			return 'Not Found';
+		}
+	}
+
 	public function get3dot() {
 		$elems = $this->dom->find( '.article.article-list.narrow' );
 
@@ -2291,6 +2301,6 @@ HTML;
 	}
 
 	public function getZestimatePrice() {
-		
+
 	}
 }
