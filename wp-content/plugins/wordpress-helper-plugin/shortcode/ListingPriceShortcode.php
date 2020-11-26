@@ -24,7 +24,7 @@ class ListingPriceShortcode {
 	 * @param $hook
 	 */
 	function enqueue_script( $hook ) {
-//		wp_enqueue_script( 'elhelper-shortcode-js', plugins_url( '/assets/listingprice/js/listingprice-plugin.js', __FILE__ ), array( 'jquery' ) );
+		wp_enqueue_script( 'elhelper-shortcode-js', plugins_url( '/assets/listingprice/js/listingprice-plugin.js', __FILE__ ), array( 'jquery' ) );
 	}
 
 	/**

@@ -16,8 +16,8 @@ class BhhsModel {
 	public function __construct( $address ) {
 		$htmldom = get_transient( 'bhhs_' . $address );
 		if ( empty( $htmldom ) ) {
-//			$htmldom = $this->stringFilter( HelperShortcode::crawlingData( 'https://bhhs.findbuyers.com/address/' . $address ) );
-			$htmldom = $this->stringFilter( $this->stringyfyCrawledData() );
+			$htmldom = $this->stringFilter( HelperShortcode::crawlingData( 'https://bhhs.findbuyers.com/address/' . $address ) );
+//			$htmldom = $this->stringFilter( $this->stringyfyCrawledData() );
 			set_transient( 'bhhs_' . $address, $htmldom, 86400 );
 		}
 		$this->dom = HtmlDomParser::str_get_html( $htmldom );
@@ -32,9 +32,13 @@ class BhhsModel {
 		];
 		$htmldom               = preg_replace( $array_replace_pattern, '', $htmldom );
 		preg_match( '#contentagent">(.*)#', $htmldom, $match, PREG_OFFSET_CAPTURE );
-		$htmldom = substr_replace( $htmldom, '', 0, $match[0][1] + 15 );
-		$start   = 0;
-		$htmldom = substr( $htmldom, $start, strlen( $htmldom ) );
+		if ( isset( $match[0][1] ) ) {
+			$htmldom = substr_replace( $htmldom, '', 0, $match[0][1] + 15 );
+			$start   = 0;
+			$htmldom = substr( $htmldom, $start, strlen( $htmldom ) );
+		} else {
+			$htmldom = '';
+		}
 
 		return $htmldom;
 	}
