@@ -17,8 +17,20 @@ class ListingPriceShortcode {
 		//enqueue
 		add_action( 'wp_enqueue_scripts', [ $this, 'enqueue_script' ] );
 		add_action( 'wp_enqueue_scripts', [ $this, 'enqueue_style' ] );
+		add_action( "wp_ajax_search_bhhs_form", [ $this, "get_price_zestimate" ] );
+		add_action( "wp_ajax_nopriv_search_bhhs_form", [ $this, "get_price_zestimate" ] );
 	}
 
+	public function get_price_zestimate(){
+		$res=[];
+		
+		
+		
+		
+		echo json_decode($res);
+		wp_die();	
+	
+	}
 
 	/**
 	 * @param $hook
