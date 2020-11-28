@@ -28,6 +28,13 @@ class ComposerStaticInit686b86f432bfd8c336052796b638226a
                 0 => __DIR__ . '/..' . '/monolog/monolog/src',
             ),
         ),
+        'K' => 
+        array (
+            'KubAT\\PhpSimple\\HtmlDomParser' => 
+            array (
+                0 => __DIR__ . '/..' . '/kub-at/php-simple-html-dom-parser/src',
+            ),
+        ),
     );
 
     public static function getInitializer(ClassLoader $loader)
