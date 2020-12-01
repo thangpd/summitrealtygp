@@ -17,26 +17,29 @@ class ListingPriceShortcode {
 		//enqueue
 		add_action( 'wp_enqueue_scripts', [ $this, 'enqueue_script' ] );
 		add_action( 'wp_enqueue_scripts', [ $this, 'enqueue_style' ] );
-		add_action( "wp_ajax_search_bhhs_form", [ $this, "get_price_zestimate" ] );
-		add_action( "wp_ajax_nopriv_search_bhhs_form", [ $this, "get_price_zestimate" ] );
+		add_action( "wp_ajax_get_price_zestimate", [ $this, "get_price_zestimate" ] );
+		add_action( "wp_ajax_nopriv_get_price_zestimate", [ $this, "get_price_zestimate" ] );
 	}
 
-	public function get_price_zestimate(){
-		$res=[];
-		
-		
-		
-		
-		echo json_decode($res);
-		wp_die();	
-	
+	public function get_price_zestimate() {
+		$res = [];
+		if ( isset( $_GET['title'] ) ) {
+			$bhhs         = new BhhsModel( HelperShortcode::convertAddressToUrl( $_GET['title'] ) );
+			$price        = $bhhs->getPrice();
+			$res['price'] = $price;
+			echo json_encode( $res );
+			wp_die();
+		} else {
+			echo 'not found title of listing';
+		}
+
 	}
 
 	/**
 	 * @param $hook
 	 */
 	function enqueue_script( $hook ) {
-		wp_enqueue_script( 'elhelper-shortcode-js', plugins_url( '/assets/listingprice/js/listingprice-plugin.js', __FILE__ ), array( 'jquery' ) );
+		wp_enqueue_script( 'listingprice-shortcode-js', plugins_url( '/assets/listingprice/js/listingprice-plugin.js', __FILE__ ), array( 'jquery' ) );
 	}
 
 	/**
@@ -52,8 +55,16 @@ class ListingPriceShortcode {
 		$get_queried_object = get_queried_object();
 		if ( $get_queried_object->post_type == 'listings' ) {
 
-			$bhhs = new BhhsModel( HelperShortcode::convertAddressToUrl( $get_queried_object->post_title ) );
-			$res  = $bhhs->getPrice();
+//			$bhhs = new BhhsModel( HelperShortcode::convertAddressToUrl( $get_queried_object->post_title ) );
+//			$res  = $bhhs->getPrice();
+			$res = <<<HTML
+			 <div class="zestimate-price">
+			 	<a href="#" class="btn btn-success btn-zestimate">Get Zestimate Price</a>
+			 </div>
+			
+HTML;
+
+
 		} else {
 			echo 'Not in listings detail page';
 		}

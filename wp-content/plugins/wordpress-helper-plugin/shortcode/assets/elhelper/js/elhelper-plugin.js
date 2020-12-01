@@ -1,6 +1,5 @@
 (function ($) {
     $(document).on('ready', function () {
-        console.log($('body'))
         $('.bhhs-form').on('submit', function (e) {
             e.preventDefault()
             var address = $(this).find('input[name="address"]').val();

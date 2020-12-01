@@ -2304,7 +2304,4 @@ HTML;
 		return $strres;
 	}
 
-	public function getZestimatePrice() {
-
-	}
 }
