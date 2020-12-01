@@ -4666,7 +4666,7 @@ if(!function_exists('ct_lost_password_fields')) {
 		<h4 class="marB20"><?php esc_html_e('Lost Password?', 'contempo'); ?></h4>
 		<p class="muted"><?php _e('Enter your email address and we\'ll send you a link you can use to pick a new password.', 'contempo'); ?></p>
 		<form id="lostpasswordform" action="<?php echo wp_lostpassword_url(); ?>" method="post">
-            <label for="user_login"><?php _e( 'Username or Email', 'contempo' ); ?>
+            <label for="user_login"><?php _e( 'Username or Email', 'contempo' ); ?></label>
             <input type="text" name="user_login" id="user_login">
             <input type="submit" name="user-submit" class="btn marT10" value="<?php _e( 'Get New Password', 'contempo' ); ?>"/>
 	        </p>
@@ -5292,7 +5292,7 @@ add_action( 'wp_enqueue_scripts', 'ct_remove_vc_styles', 99 );
 
 if(!function_exists('ct_deregister_styles')) {
 	function ct_deregister_styles() {
-		wp_deregister_style( 'ct_mortgage_calc' );
+//		wp_deregister_style( 'ct_mortgage_calc' );
     wp_deregister_script( 'wp-embed' );
 	}
 }

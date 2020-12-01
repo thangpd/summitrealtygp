@@ -16,7 +16,6 @@ class ListingPriceShortcode {
 		add_shortcode( 'summit_listing_price', [ $this, 'summit_listing_price_shortcode' ] );
 		//enqueue
 		add_action( 'wp_enqueue_scripts', [ $this, 'enqueue_script' ] );
-		add_action( 'wp_enqueue_scripts', [ $this, 'enqueue_style' ] );
 		add_action( "wp_ajax_get_price_zestimate", [ $this, "get_price_zestimate" ] );
 		add_action( "wp_ajax_nopriv_get_price_zestimate", [ $this, "get_price_zestimate" ] );
 	}
@@ -39,14 +38,9 @@ class ListingPriceShortcode {
 	 * @param $hook
 	 */
 	function enqueue_script( $hook ) {
-		wp_enqueue_script( 'listingprice-shortcode-js', plugins_url( '/assets/listingprice/js/listingprice-plugin.js', __FILE__ ), array( 'jquery' ) );
-	}
+		wp_register_script( 'listingprice-shortcode-js', plugins_url( '/assets/listingprice/js/listingprice-plugin.js', __FILE__ ), array( 'jquery' ) );
+		//		wp_enqueue_style( 'elhelper-shortcode-css', plugins_url( '/assets/listingprice/css/listingprice-plugin.css', __FILE__ ) );
 
-	/**
-	 * @param $hook
-	 */
-	function enqueue_style( $hook ) {
-//		wp_enqueue_style( 'elhelper-shortcode-css', plugins_url( '/assets/listingprice/css/listingprice-plugin.css', __FILE__ ) );
 	}
 
 	function summit_listing_price_shortcode( $atts = [], $content = null ) {
@@ -54,7 +48,7 @@ class ListingPriceShortcode {
 
 		$get_queried_object = get_queried_object();
 		if ( $get_queried_object->post_type == 'listings' ) {
-
+			wp_enqueue_script( 'listingprice-shortcode-js' );
 //			$bhhs = new BhhsModel( HelperShortcode::convertAddressToUrl( $get_queried_object->post_title ) );
 //			$res  = $bhhs->getPrice();
 			$res = <<<HTML
