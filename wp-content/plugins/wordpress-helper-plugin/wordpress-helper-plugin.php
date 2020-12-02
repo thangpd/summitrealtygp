@@ -101,6 +101,7 @@ class Elhelper_Plugin {
 	 * @access public
 	 */
 	public function __construct() {
+
 		add_action( 'init', [ $this, 'init' ] );
 		add_action( 'plugins_loaded', [ $this, 'i18n' ] );
 
@@ -177,15 +178,45 @@ class Elhelper_Plugin {
 	 * Template include
 	 */
 	public function summit_template_include( $template ) {
-
+		$reglogController = RegLogController::instance();
 		if ( is_page( 'summit-register' ) ) {
-			wp_enqueue_script( 'register-template-js', plugins_url( '/modules/reglogCustomer/assets/reglogcustomer.js', __FILE__ ), [ 'bootstrap' ] );
+			if ( is_user_logged_in() ) {
+				wp_redirect( site_url() );
+			}
+			wp_enqueue_script( 'register-template-js', plugins_url( '/modules/reglogCustomer/assets/reglogcustomer.js', __FILE__ ), [
+				'bootstrap',
+				'jquery-md5-js'
+			] );
 			wp_enqueue_style( 'register-template-css', plugins_url( '/modules/reglogCustomer/assets/reglogcustomer.css', __FILE__ ), [ 'bootstrap' ] );
-			$template = WP_HELPER_PATH . 'template/register-template.php';
+
+			if ( isset( $_COOKIE['summit-signup'] ) ) {
+
+				$template = $reglogController->getViewPathActivationPage();
+			} else {
+				$template = $reglogController->getViewPathRegister();
+
+			}
 		} elseif ( is_page( 'summit-login' ) ) {
-			wp_enqueue_script( 'register-template-js', plugins_url( '/modules/reglogCustomer/assets/reglogcustomer.js', __FILE__ ), [ 'bootstrap' ] );
+			if ( is_user_logged_in() ) {
+				wp_redirect( site_url() );
+			}
+			wp_enqueue_script( 'register-template-js', plugins_url( '/modules/reglogCustomer/assets/reglogcustomer.js', __FILE__ ), [
+				'bootstrap',
+				'jquery-md5-js'
+			] );
 			wp_enqueue_style( 'register-template-css', plugins_url( '/modules/reglogCustomer/assets/reglogcustomer.css', __FILE__ ), [ 'bootstrap' ] );
-			$template = WP_HELPER_PATH . 'template/login-template.php';
+			$template = $reglogController->getViewPathLogin();
+		} elseif ( is_page( 'summit-active' ) ) {
+			if ( is_user_logged_in() ) {
+				wp_redirect( site_url() );
+			}
+			if ( isset( $_GET['active_key'] ) ) {
+				wp_enqueue_script( 'register-template-js', plugins_url( '/modules/reglogCustomer/assets/reglogcustomer.js', __FILE__ ), [ 'bootstrap' ] );
+				wp_enqueue_style( 'register-template-css', plugins_url( '/modules/reglogCustomer/assets/reglogcustomer.css', __FILE__ ), [ 'bootstrap' ] );
+				$template = $reglogController->getViewPathActivePage();
+			} else {
+				wp_redirect( site_url() . '/summit-register' );
+			}
 		}
 
 		return $template;
@@ -197,6 +228,7 @@ class Elhelper_Plugin {
 	 */
 	function enqueue_script( $hook ) {
 		wp_register_script( 'slick', plugins_url( '/assets/lib/slick/slick.min.js', __FILE__ ), array( 'jquery' ) );
+		wp_register_script( 'jquery-md5-js', plugins_url( '/assets/lib/jquery-lib/jquery.md5.js', __FILE__ ), array( 'jquery' ) );
 		wp_register_script( 'html5lightbox', plugins_url( '/assets/lib/html5lightbox/html5lightbox.js', __FILE__ ), [ 'jquery' ] );
 		wp_register_script( 'bootstrap', plugins_url( '/assets/lib/bootstrap/js/bootstrap.min.js', __FILE__ ), array( 'jquery' ) );
 		wp_enqueue_script( 'elhelper-script', plugins_url( '/assets/js/el-helper-plugin.js', __FILE__ ), array( 'jquery' ) );

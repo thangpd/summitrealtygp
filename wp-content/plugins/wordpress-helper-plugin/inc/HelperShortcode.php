@@ -15,7 +15,7 @@ class HelperShortcode {
 
 //1325 Peachtree St NE Apt 202, Atlanta GA 30309-3249
 //			1325+Peachtree+St+NE+Apt+202-Atlanta-GA-30309
-			$res = explode( ',', $address );
+			$res     = explode( ',', $address );
 			$res_str = '';
 			for ( $i = 0; $i < count( $res ); $i ++ ) {
 				if ( $i == 0 ) {
@@ -51,4 +51,5 @@ class HelperShortcode {
 		return $result;
 
 	}
+
 }
