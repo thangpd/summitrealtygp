@@ -14,6 +14,7 @@ namespace Elhelper;
 require __DIR__ . '/vendor/autoload.php';
 require __DIR__ . '/config.php';
 
+use Elhelper\modules\reglogCustomer\controller\RegLogController;
 use Elhelper\shortcode\ElHelperShortcode;
 use Elhelper\shortcode\ListingPriceShortcode;
 
@@ -168,6 +169,8 @@ class Elhelper_Plugin {
 
 		//shortcode
 		$this->init_shortcode();
+
+		$this->init_controller();
 	}
 
 	/**
@@ -180,6 +183,8 @@ class Elhelper_Plugin {
 			wp_enqueue_style( 'register-template-css', plugins_url( '/modules/reglogCustomer/assets/reglogcustomer.css', __FILE__ ), [ 'bootstrap' ] );
 			$template = WP_HELPER_PATH . 'template/register-template.php';
 		} elseif ( is_page( 'summit-login' ) ) {
+			wp_enqueue_script( 'register-template-js', plugins_url( '/modules/reglogCustomer/assets/reglogcustomer.js', __FILE__ ), [ 'bootstrap' ] );
+			wp_enqueue_style( 'register-template-css', plugins_url( '/modules/reglogCustomer/assets/reglogcustomer.css', __FILE__ ), [ 'bootstrap' ] );
 			$template = WP_HELPER_PATH . 'template/login-template.php';
 		}
 
@@ -193,7 +198,7 @@ class Elhelper_Plugin {
 	function enqueue_script( $hook ) {
 		wp_register_script( 'slick', plugins_url( '/assets/lib/slick/slick.min.js', __FILE__ ), array( 'jquery' ) );
 		wp_register_script( 'html5lightbox', plugins_url( '/assets/lib/html5lightbox/html5lightbox.js', __FILE__ ), [ 'jquery' ] );
-		wp_register_script( 'bootstrap', plugins_url( '/assets/lib/bootstrap/js/bootstrap.js', __FILE__ ), array( 'jquery' ) );
+		wp_register_script( 'bootstrap', plugins_url( '/assets/lib/bootstrap/js/bootstrap.min.js', __FILE__ ), array( 'jquery' ) );
 		wp_enqueue_script( 'elhelper-script', plugins_url( '/assets/js/el-helper-plugin.js', __FILE__ ), array( 'jquery' ) );
 		wp_localize_script( 'elhelper-script', 'ajax_object',
 			array( 'ajax_url' => admin_url( 'admin-ajax.php' ), 'we_value' => 1234 ) );
@@ -334,6 +339,14 @@ class Elhelper_Plugin {
 		new ElHelperShortcode();
 		new ListingPriceShortcode();
 
+	}
+
+	/**
+	 * Init Controller
+	 * @return void
+	 */
+	public function init_controller() {
+		RegLogController::instance();
 	}
 
 
