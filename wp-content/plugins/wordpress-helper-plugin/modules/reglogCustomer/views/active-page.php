@@ -149,7 +149,7 @@ wp_head();
                                 <input class="text" type="text" name="country" placeholder="Country" required="">
                                 <input class="text" type="text" name="state" placeholder="State / Province / Region"
                                        required="">
-                                <select name="state" id="state">
+                                <select title="state" name="state" id="state" required >
                                     <option value="">State
                                     </option>
 									<?php foreach ( $states as $key => $value ) { ?>

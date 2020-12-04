@@ -60,15 +60,16 @@
             })
         })
 
-        $active.validate(
-            {
-                rules: {
-                    tel: {
-                        required: true,
-                        phoneUS: true
-                    }
+        $active.validate({
+            submitHandler: function (form) {
+                // some other code
+                // maybe disabling submit button
+                // then:
+                if (form.valid()) {
+                    $(form).submit();
                 }
-            })
+            }
+        })
 
     })
 
