@@ -99,6 +99,7 @@ wp_head();
                                     </label>
                                     <div class="clear"></div>
                                 </div>
+                                <div class="error-msg"></div>
                                 <input type="submit" value="SIGNUP">
                             </form>
                             <p>Already have an account? <a href="<?php echo site_url() . '/summit-login' ?>"> Log

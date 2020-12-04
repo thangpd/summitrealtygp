@@ -1,13 +1,12 @@
 (function ($) {
     $(document).ready(function () {
-
-
         let $regis = $('.regis-form');
+
         $regis.on('submit', function (e) {
             e.preventDefault()
-            let password = $(this).find('input[name="password"]');
-            let md5pass = $.md5(password.val());
-            password.val(md5pass);
+            let password = $(this).find('input[name="password"]')
+            let md5pass = $.md5(password.val())
+            // password.val(md5pass);
             var form_data = $(this).serialize()
             console.log(form_data)
             var data = form_data + '&action=action_register_ajax'
@@ -17,8 +16,11 @@
                 data: data,
                 dataType: 'JSON',
                 success: function (res) {
+
                     if (res.code === 200) {
                         $('.main-agileinfo').html(res.data)
+                    } else {
+                        $('.error-msg').html(res.msg)
                     }
                 }
             })
@@ -41,6 +43,8 @@
             var form_data = $(this).serialize()
             console.log(form_data)
             var data = form_data + '&action=action_active_ajax'
+            $(this).find('input[name="submit"]').addClass('.loader')
+
             $.ajax({
                 type: "POST",
                 url: ajax_object.ajax_url,
@@ -48,6 +52,7 @@
                 dataType: 'JSON',
                 success: function (res) {
                     console.log(res)
+
                     if (res.code === 200) {
                         $('.main-agileinfo').html(res.data)
                         let $verificationCircle = $('.verification__circle-wrapper.current');

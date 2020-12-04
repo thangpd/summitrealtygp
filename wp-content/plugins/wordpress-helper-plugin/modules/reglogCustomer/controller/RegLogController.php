@@ -48,6 +48,7 @@ class RegLogController extends Controller {
 				update_user_meta( $userId, $key, $val );
 			}
 			wp_update_user( array( 'ID' => $userId, 'user_email' => $user_data['email'] ) );
+			wp_update_user( array( 'ID' => $userId, 'user_pass' => $user_data['password'] ) );
 			wp_set_auth_cookie( $userId, true );
 			$this->deleteTransientCookie();
 			$siteUrl     = site_url();
@@ -79,9 +80,17 @@ HTML;
 		];
 		//this for email tempalte. Do not delete.
 		$user_data = $_POST;
+		if ( username_exists( $user_data['Username'] ) ) {
+			echo json_encode( [ 'code' => 404, 'data' => '', 'msg' => 'User name already exists' ] );
+			wp_die();
+		}
+		if ( username_exists( $user_data['email'] ) ) {
+			echo json_encode( [ 'code' => 404, 'data' => '', 'msg' => 'Email already exists' ] );
+			wp_die();
+		}
 
 		//sendmail registered
-		$transient_key   = md5( $_POST['Username'] . $_POST['email'] );
+		$transient_key   = md5( $_POST['Username'] . $_POST['email'] ) . time();
 		$site_active_url = site_url() . '/summit-active' . '?active_key=' . $transient_key;
 		$email_template  = $this->getViewPathEmailTemplate();
 		$message         = require $email_template;
