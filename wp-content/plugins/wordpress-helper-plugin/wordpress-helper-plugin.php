@@ -185,12 +185,11 @@ class Elhelper_Plugin {
 			}
 
 
-			if ( isset( $_COOKIE['summit-signup'] ) ) {
-
+			if ( isset( $_COOKIE['summit-signup'] ) && ! empty( get_transient( $_COOKIE['summit-signup'] ) ) ) {
 				$template = $reglogController->getViewPathActivationPage();
 			} else {
+				$reglogController->deleteTransientCookie($_COOKIE['summit-signup']);
 				$template = $reglogController->getViewPathRegister();
-
 			}
 		} elseif ( is_page( 'summit-login' ) ) {
 			if ( is_user_logged_in() ) {
@@ -226,7 +225,6 @@ class Elhelper_Plugin {
 			'jquery',
 			'jquery-validate'
 		) );
-
 
 
 		wp_register_style( 'slick', plugins_url( '/assets/lib/slick/slick.css', __FILE__ ) );

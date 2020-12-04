@@ -45,12 +45,11 @@ class RegLogController extends Controller {
 		$userId    = wp_insert_user( $userdata );
 		if ( ! is_wp_error( $userId ) ) {
 			foreach ( $user_meta_data as $key => $val ) {
-				add_user_meta( $userId, $key, $val );
+				update_user_meta( $userId, $key, $val );
 			}
-//			wp_update_user( array( 'ID' => $userId, 'user_email' => $data['email'] ) );
+			wp_update_user( array( 'ID' => $userId, 'user_email' => $user_data['email'] ) );
 			wp_set_auth_cookie( $userId, true );
-			unset( $_COOKIE['summit-signup'] );
-			delete_transient( $transient_key );
+			$this->deleteTransientCookie();
 			$siteUrl     = site_url();
 			$res['data'] = <<<HTML
 			<div class="almost-there" style="color:white; padding:20px;">
@@ -58,6 +57,8 @@ class RegLogController extends Controller {
 			<p><a href="{$siteUrl}">Click here to return to home page</a></p>
 			</div>
 HTML;
+			$u           = new \WP_User( $userId );
+			$u->add_role( 'editor' );
 		} else {
 			$res = ( array(
 				'code'      => 500,
@@ -156,6 +157,11 @@ HTML;
 			'jquery-validate'
 		] );
 		wp_enqueue_style( 'register-template-css', plugins_url( '/assets/reglogcustomer.css', __DIR__ ), [ 'bootstrap' ] );
+	}
+
+	public function deleteTransientCookie() {
+		delete_transient( $_COOKIE["summit-signup"] );
+		setcookie( "summit-signup", "", time() - 3600 );
 	}
 
 }

@@ -18,7 +18,7 @@ wp_head();
 
 				<?php } else { ?>
 
-					<?php if (  is_front_page() && strpos( $url, 'search-listings=true' ) != true ) { ?>
+					<?php if ( is_front_page() && strpos( $url, 'search-listings=true' ) != true ) { ?>
 
                         <a href="<?php echo home_url(); ?>">
 							<?php if ( ! empty( $ct_options['ct_logo']['url'] ) ) { ?>
@@ -61,35 +61,37 @@ wp_head();
 
 				<?php } ?>
             </div>
-            <div class="step-regis">
-                <div class="w-full mx-auto px-4 md:px-0 verification__wrapper">
-                    <div class="verification__circle-wrapper current ">
-                        <div class="verification__circle-icon"><span>1</span></div>
-                        <div class="verification__circle-label">Account</div>
-                    </div>
-                    <div class="verification__borderline"></div>
-                    <div class="verification__circle-wrapper  ">
-                        <div class="verification__circle-icon"><span>2</span></div>
-                        <div class="verification__circle-label">Detail</div>
-                    </div>
-                    <div class="verification__borderline"></div>
-                    <div class="verification__circle-wrapper  ">
-                        <div class="verification__circle-icon"><span>3</span></div>
-                        <div class="verification__circle-label last">Success</div>
-                    </div>
-                </div>
-            </div>
         </div>
         <div class="body-regis">
             <div class="regis-container">
-                <div class="main-w3layouts wrapper">
+                <div class="main-w3layouts">
                     <h1 class="regis-title">Summit SignUp Form</h1>
+                    <div class="step-regis">
+                        <div class="w-full mx-auto px-4 md:px-0 verification__wrapper">
+                            <div class="verification__circle-wrapper current ">
+                                <div class="verification__circle-icon"><span>1</span></div>
+                                <div class="verification__circle-label">Account</div>
+                            </div>
+                            <div class="verification__borderline"></div>
+                            <div class="verification__circle-wrapper  ">
+                                <div class="verification__circle-icon"><span>2</span></div>
+                                <div class="verification__circle-label">Detail</div>
+                            </div>
+                            <div class="verification__borderline"></div>
+                            <div class="verification__circle-wrapper  ">
+                                <div class="verification__circle-icon"><span>3</span></div>
+                                <div class="verification__circle-label last">Success</div>
+                            </div>
+                        </div>
+                    </div>
                     <div class="main-agileinfo">
                         <div class="agileits-top">
                             <form class="regis-form" action="#" method="post">
-                                <input class="text" type="text" minlength="6" name="Username" placeholder="Username" required="">
+                                <input class="text" type="text" minlength="6" name="Username" placeholder="Username"
+                                       required="">
                                 <input class="text email" type="email" name="email" placeholder="Email" required="">
-                                <input class="text" type="password" minlength="6" name="password" placeholder="Password" required="">
+                                <input class="text" type="password" minlength="6" name="password" placeholder="Password"
+                                       required="">
                                 <div class="wthree-text">
                                     <label class="anim">
                                         <input type="checkbox" class="checkbox" required="">

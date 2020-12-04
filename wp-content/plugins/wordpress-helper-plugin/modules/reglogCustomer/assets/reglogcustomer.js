@@ -23,7 +23,16 @@
                 }
             })
         })
-        $regis.validate();
+        $regis.validate({
+            submitHandler: function (form) {
+                // some other code
+                // maybe disabling submit button
+                // then:
+                if ($form.valid()) {
+                    $(form).submit();
+                }
+            }
+        });
 
 
         let $active = $('.active-form');
@@ -51,7 +60,15 @@
             })
         })
 
-        $active.validate()
+        $active.validate(
+            {
+                rules: {
+                    tel: {
+                        required: true,
+                        phoneUS: true
+                    }
+                }
+            })
 
     })
 

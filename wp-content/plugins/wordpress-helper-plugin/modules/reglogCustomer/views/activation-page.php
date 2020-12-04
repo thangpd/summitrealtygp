@@ -61,34 +61,35 @@ wp_head();
 
 				<?php } ?>
             </div>
-            <div class="step-regis">
-                <div class="w-full mx-auto px-4 md:px-0 verification__wrapper">
-                    <div class="verification__circle-wrapper current ">
-                        <div class="verification__circle-icon"><span>1</span></div>
-                        <div class="verification__circle-label">Account</div>
-                    </div>
-                    <div class="verification__borderline"></div>
-                    <div class="verification__circle-wrapper  ">
-                        <div class="verification__circle-icon"><span>2</span></div>
-                        <div class="verification__circle-label">Detail</div>
-                    </div>
-                    <div class="verification__borderline"></div>
-                    <div class="verification__circle-wrapper  ">
-                        <div class="verification__circle-icon"><span>3</span></div>
-                        <div class="verification__circle-label last">Success</div>
-                    </div>
-                </div>
-            </div>
         </div>
         <div class="body-regis">
             <div class="regis-container">
-                <div class="main-w3layouts wrapper">
+                <div class="main-w3layouts">
                     <h1 class="regis-title">Summit SignUp Form</h1>
+                    <div class="step-regis">
+                        <div class="w-full mx-auto px-4 md:px-0 verification__wrapper">
+                            <div class="verification__circle-wrapper current ">
+                                <div class="verification__circle-icon"><span>1</span></div>
+                                <div class="verification__circle-label">Account</div>
+                            </div>
+                            <div class="verification__borderline"></div>
+                            <div class="verification__circle-wrapper  ">
+                                <div class="verification__circle-icon"><span>2</span></div>
+                                <div class="verification__circle-label">Detail</div>
+                            </div>
+                            <div class="verification__borderline"></div>
+                            <div class="verification__circle-wrapper  ">
+                                <div class="verification__circle-icon"><span>3</span></div>
+                                <div class="verification__circle-label last">Success</div>
+                            </div>
+                        </div>
+                    </div>
+
                     <div class="main-agileinfo">
 						<?php
 						$transient_key = $_COOKIE['summit-signup'];
 						$user_data     = get_transient( $transient_key );
-						$html = <<<HTML
+						$html          = <<<HTML
 <div class="almost-there" style="color:white; padding:20px;">
 <p>Almost there!</p>
 <p>We've sent an email to {$user_data['email']}</p>
@@ -121,6 +122,7 @@ HTML;
                 </div>
                 <!-- //main -->
             </div>
+
         </div>
     </div>
 <?php
