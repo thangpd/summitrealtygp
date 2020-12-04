@@ -183,11 +183,7 @@ class Elhelper_Plugin {
 			if ( is_user_logged_in() ) {
 				wp_redirect( site_url() );
 			}
-			wp_enqueue_script( 'register-template-js', plugins_url( '/modules/reglogCustomer/assets/reglogcustomer.js', __FILE__ ), [
-				'bootstrap',
-				'jquery-md5-js'
-			] );
-			wp_enqueue_style( 'register-template-css', plugins_url( '/modules/reglogCustomer/assets/reglogcustomer.css', __FILE__ ), [ 'bootstrap' ] );
+
 
 			if ( isset( $_COOKIE['summit-signup'] ) ) {
 
@@ -200,19 +196,12 @@ class Elhelper_Plugin {
 			if ( is_user_logged_in() ) {
 				wp_redirect( site_url() );
 			}
-			wp_enqueue_script( 'register-template-js', plugins_url( '/modules/reglogCustomer/assets/reglogcustomer.js', __FILE__ ), [
-				'bootstrap',
-				'jquery-md5-js'
-			] );
-			wp_enqueue_style( 'register-template-css', plugins_url( '/modules/reglogCustomer/assets/reglogcustomer.css', __FILE__ ), [ 'bootstrap' ] );
 			$template = $reglogController->getViewPathLogin();
 		} elseif ( is_page( 'summit-active' ) ) {
 			if ( is_user_logged_in() ) {
 				wp_redirect( site_url() );
 			}
 			if ( isset( $_GET['active_key'] ) ) {
-				wp_enqueue_script( 'register-template-js', plugins_url( '/modules/reglogCustomer/assets/reglogcustomer.js', __FILE__ ), [ 'bootstrap' ] );
-				wp_enqueue_style( 'register-template-css', plugins_url( '/modules/reglogCustomer/assets/reglogcustomer.css', __FILE__ ), [ 'bootstrap' ] );
 				$template = $reglogController->getViewPathActivePage();
 			} else {
 				wp_redirect( site_url() . '/summit-register' );
@@ -227,19 +216,30 @@ class Elhelper_Plugin {
 	 * @param $hook
 	 */
 	function enqueue_script( $hook ) {
+		//lib
 		wp_register_script( 'slick', plugins_url( '/assets/lib/slick/slick.min.js', __FILE__ ), array( 'jquery' ) );
 		wp_register_script( 'jquery-md5-js', plugins_url( '/assets/lib/jquery-lib/jquery.md5.js', __FILE__ ), array( 'jquery' ) );
 		wp_register_script( 'html5lightbox', plugins_url( '/assets/lib/html5lightbox/html5lightbox.js', __FILE__ ), [ 'jquery' ] );
 		wp_register_script( 'bootstrap', plugins_url( '/assets/lib/bootstrap/js/bootstrap.min.js', __FILE__ ), array( 'jquery' ) );
-		wp_enqueue_script( 'elhelper-script', plugins_url( '/assets/js/el-helper-plugin.js', __FILE__ ), array( 'jquery' ) );
-		wp_localize_script( 'elhelper-script', 'ajax_object',
-			array( 'ajax_url' => admin_url( 'admin-ajax.php' ), 'we_value' => 1234 ) );
-		wp_enqueue_style( 'elhelper-style', plugins_url( '/assets/css/el-helper-style.css', __FILE__ ) );
+		/*wp_register_script( 'jquery-validate', 'https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.2/jquery.validate.min.js', array( 'jquery' ) );
+		wp_register_script( 'jquery-validate-additional-method', 'https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.2/additional-methods.min.js', array(
+			'jquery',
+			'jquery-validate'
+		) );*/
+
+
+
 		wp_register_style( 'slick', plugins_url( '/assets/lib/slick/slick.css', __FILE__ ) );
 		wp_register_style( 'slick-theme', plugins_url( '/assets/lib/slick/slick-theme.css', __FILE__ ) );
 		wp_register_style( 'bootstrap', plugins_url( '/assets/lib/bootstrap/css/bootstrap.min.css', __FILE__ ) );
 		wp_register_style( 'font-awesome-all', plugins_url( '/assets/lib/fontawesome/css/all.css', __FILE__ ) );
 		wp_register_style( 'font-awesome', plugins_url( '/assets/lib/fontawesome/css/fontawesome.css', __FILE__ ) );
+
+		//main css js
+		wp_enqueue_script( 'elhelper-script', plugins_url( '/assets/js/el-helper-plugin.js', __FILE__ ), array( 'jquery' ) );
+		wp_enqueue_style( 'elhelper-style', plugins_url( '/assets/css/el-helper-style.css', __FILE__ ) );
+		wp_localize_script( 'elhelper-script', 'ajax_object',
+			array( 'ajax_url' => admin_url( 'admin-ajax.php' ), 'we_value' => 1234 ) );
 	}
 
 

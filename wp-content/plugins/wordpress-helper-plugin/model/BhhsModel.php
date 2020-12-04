@@ -16,8 +16,8 @@ class BhhsModel {
 	public function __construct( $address ) {
 		$htmldom = get_transient( 'bhhs_' . $address );
 		if ( empty( $htmldom ) ) {
-//			$htmldom = $this->stringFilter( HelperShortcode::crawlingData( 'https://bhhs.findbuyers.com/address/' . $address ) );
-			$htmldom = $this->stringFilter( $this->stringyfyCrawledData() );
+			$htmldom = $this->stringFilter( HelperShortcode::crawlingData( 'https://bhhs.findbuyers.com/address/' . $address ) );
+//			$htmldom = $this->stringFilter( $this->stringyfyCrawledData() );
 			set_transient( 'bhhs_' . $address, $htmldom, 86400 );
 		}
 		$this->dom = HtmlDomParser::str_get_html( $htmldom );
