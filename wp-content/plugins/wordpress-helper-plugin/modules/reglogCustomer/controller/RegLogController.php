@@ -71,16 +71,15 @@ HTML;
 	}
 
 	public function actionRegisterAjax() {
-		$res       = [
+		$res = [
 			'code' => 200,
 			'data' => '',
 			'msg'  => 'Register Success',
 		];
+		//this for email tempalte. Do not delete.
 		$user_data = $_POST;
 
-
 		//sendmail registered
-		$test            = 'test';
 		$transient_key   = md5( $_POST['Username'] . $_POST['email'] );
 		$site_active_url = site_url() . '/summit-active' . '?active_key=' . $transient_key;
 		$email_template  = $this->getViewPathEmailTemplate();

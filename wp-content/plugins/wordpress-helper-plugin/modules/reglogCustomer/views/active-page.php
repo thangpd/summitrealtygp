@@ -83,19 +83,25 @@ wp_head();
         <div class="body-regis">
             <div class="regis-container">
                 <div class="main-w3layouts wrapper">
-                    <h1 class="regis-title">Summit Information Form</h1>
+                    <h1 class="regis-title">Sign-up Information Form</h1>
                     <div class="main-agileinfo">
                         <div class="agileits-top">
                             <form class="active-form" action="#" method="post">
-                                <input class="text" type="text" name="display_name" placeholder="Display Name"
+                                <input class="text" type="text" name="first-name" placeholder="First Name"
+                                       required="">
+                                <input class="text" type="text" name="last-name" placeholder="Last Name"
                                        required="">
                                 <input class="text" type="text" name="address" placeholder="Address" required="">
-                                <input class="text" type="text" name="street" placeholder="Street" required="">
-                                <input class="text" type="text" name="city" placeholder="City" required="">
-                                <input class="text" type="text" name="zipcode" placeholder="Zipcode" required="">
+                                <input class="text" type="text" name="street" placeholder="Adress 2" required="">
                                 <input class="text" type="text" name="country" placeholder="Country" required="">
+                                <input class="text" type="text" name="state" placeholder="State / Province / Region"
+                                       required="">
+                                <input class="text" type="text" name="city" placeholder="City" required="">
+                                <input class="text" type="text" name="zipcode" placeholder="Postal code" required="">
+                                <!--<input class="text" type="text" name="country" placeholder="Country" required="">-->
                                 <input class="text" type="tel" name="tel" placeholder="Telephone" required="">
-                                <input type="submit" value="SUBMIT">
+                                <input class="text" type="text" name="taxID" placeholder="sedrgsergsfdg">
+                                <input type="submit" value="Create Account">
                             </form>
                         </div>
                     </div>

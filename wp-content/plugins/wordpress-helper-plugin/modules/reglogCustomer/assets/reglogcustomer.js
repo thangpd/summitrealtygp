@@ -2,7 +2,8 @@
     $(document).ready(function () {
 
 
-        $('.regis-form').on('submit', function (e) {
+        let $regis = $('.regis-form');
+        $regis.on('submit', function (e) {
             e.preventDefault()
             let password = $(this).find('input[name="password"]');
             let md5pass = $.md5(password.val());
@@ -22,7 +23,11 @@
                 }
             })
         })
-        $('.active-form').on('submit', function (e) {
+        $regis.validate();
+
+
+        let $active = $('.active-form');
+        $active.on('submit', function (e) {
             e.preventDefault()
             var form_data = $(this).serialize()
             console.log(form_data)
@@ -46,6 +51,7 @@
             })
         })
 
+        $active.validate()
 
     })
 

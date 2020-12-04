@@ -87,9 +87,9 @@ wp_head();
                     <div class="main-agileinfo">
                         <div class="agileits-top">
                             <form class="regis-form" action="#" method="post">
-                                <input class="text" type="text" name="Username" placeholder="Username" required="">
+                                <input class="text" type="text" minlength="6" name="Username" placeholder="Username" required="">
                                 <input class="text email" type="email" name="email" placeholder="Email" required="">
-                                <input class="text" type="password" name="password" placeholder="Password" required="">
+                                <input class="text" type="password" minlength="6" name="password" placeholder="Password" required="">
                                 <div class="wthree-text">
                                     <label class="anim">
                                         <input type="checkbox" class="checkbox" required="">
