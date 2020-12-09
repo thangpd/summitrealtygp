@@ -58,29 +58,6 @@
 
         $active.validate()
 
-        let $login = $('.login-form');
-        $login.on('submit', function (e) {
-            e.preventDefault()
-            var form_data = $(this).serialize()
-            var data = form_data + '&action=action_login_ajax'
-            $(this).find('input[name="submit"]').addClass('.loader')
-
-            $.ajax({
-                type: "POST",
-                url: ajax_object.ajax_url,
-                data: data,
-                dataType: 'JSON',
-                success: function (res) {
-                    console.log(res)
-                    if (res.code === 200) {
-
-                    }
-                }
-            })
-        })
-
-        $login.validate()
-
 
     })
 

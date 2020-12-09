@@ -20,8 +20,6 @@ class RegLogController extends Controller
         add_action("wp_ajax_nopriv_action_register_ajax", [$this, "actionRegisterAjax"]);
         add_action("wp_ajax_action_active_ajax", [$this, "actionActiveAjax"]);
         add_action("wp_ajax_nopriv_action_active_ajax", [$this, "actionActiveAjax"]);
-        add_action("wp_ajax_action_login_ajax", [$this, "actionLoginAjax"]);
-        add_action("wp_ajax_nopriv_action_login_ajax", [$this, "actionLoginAjax"]);
         $this->view_path = plugin_dir_path(__DIR__);
     }
 
@@ -139,22 +137,6 @@ HTML;
         return $res;
     }
 
-    public function actionLoginAjax()
-    {
-//        login-form
-        $res = [
-            'code' => 200,
-            'data' => '',
-            'msg' => 'Register Success',
-        ];
-        //this for email tempalte. Do not delete.
-        $user_data = $_POST;
-
-        var_dump( $user_data);
-        die;
-        echo json_encode($res);
-        wp_die();
-    }
 
 
     public function getViewPathRegister()
