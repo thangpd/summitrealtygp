@@ -18,7 +18,6 @@ use Elhelper\modules\reglogCustomer\controller\RegLogController;
 use Elhelper\shortcode\ElHelperShortcode;
 use Elhelper\shortcode\ListingPriceShortcode;
 
-
 if ( ! defined( 'ABSPATH' ) ) {
 	exit; // Exit if accessed directly.
 }
@@ -101,7 +100,6 @@ class Elhelper_Plugin {
 	 * @access public
 	 */
 	public function __construct() {
-
 		add_action( 'init', [ $this, 'init' ] );
 		add_action( 'plugins_loaded', [ $this, 'i18n' ] );
 
@@ -156,13 +154,9 @@ class Elhelper_Plugin {
 			// Add Plugin actions
 			add_action( 'elementor/widgets/widgets_registered', [ $this, 'init_widgets' ] );
 			add_action( 'elementor/controls/controls_registered', [ $this, 'init_controls' ] );
-		}
-		// Check for required PHP version
-		if ( version_compare( PHP_VERSION, self::MINIMUM_PHP_VERSION, '<' ) ) {
-			add_action( 'admin_notices', [ $this, 'admin_notice_minimum_php_version' ] );
-
-			return;
-		}
+		}else{
+		    throw(new \Exception('Not found elementor'));
+        }
 
 		//enqueue
 		add_action( 'wp_enqueue_scripts', [ $this, 'enqueue_script' ] );
@@ -179,12 +173,11 @@ class Elhelper_Plugin {
 	 */
 	public function summit_template_include( $template ) {
 		$reglogController = RegLogController::instance();
-		if ( is_page( 'summit-register' ) ) {
+
+        if ( is_page( 'summit-register' ) ) {
 			if ( is_user_logged_in() ) {
 				wp_redirect( site_url() );
 			}
-
-
 			if ( isset( $_COOKIE['summit-signup'] ) && ! empty( get_transient( $_COOKIE['summit-signup'] ) ) ) {
 				$template = $reglogController->getViewPathActivationPage();
 			} else {

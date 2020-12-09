@@ -67,9 +67,10 @@ wp_head();
                 <h1 class="regis-title">Welcome back</h1>
                 <div class="main-agileinfo">
                     <div class="agileits-top">
-                        <form class="regis-form" action="#" method="post">
+                        <form class="login-form" action="#" method="post">
                             <input class="text" type="text" name="Username" placeholder="Username" required="">
                             <input class="text" type="password" name="password" placeholder="Password" required="">
+                            <div class="error-msg"></div>
                             <input type="submit" value="Login">
                         </form>
                         <p>Don't have an Account? <br> <a href="<?php echo site_url() . '/summit-register' ?>"> Sign Up
