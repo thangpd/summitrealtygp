@@ -1,0 +1,12 @@
+{
+  "require": {
+    "monolog/monolog": "1.0.*",
+    "kub-at/php-simple-html-dom-parser": "^1.7"
+
+  },
+  "autoload": {
+    "psr-4": {
+      "Elhelper\\": "\\"
+    }
+  }
+}
