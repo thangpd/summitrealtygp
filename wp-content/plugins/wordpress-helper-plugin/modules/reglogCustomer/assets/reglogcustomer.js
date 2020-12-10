@@ -75,9 +75,8 @@
         });
 
         // Login form
-        $login = $('#summit-login-form');
+        const $login = $('#summit-login-form');
         $login.on('submit', function (e) {
-            e.stopPropagation();
             e.preventDefault();
 
             var form_data = $(this).serialize();
