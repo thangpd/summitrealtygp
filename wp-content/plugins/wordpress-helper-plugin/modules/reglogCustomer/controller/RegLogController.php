@@ -20,9 +20,54 @@ class RegLogController extends Controller
         add_action("wp_ajax_nopriv_action_register_ajax", [$this, "actionRegisterAjax"]);
         add_action("wp_ajax_action_active_ajax", [$this, "actionActiveAjax"]);
         add_action("wp_ajax_nopriv_action_active_ajax", [$this, "actionActiveAjax"]);
+	    add_action("wp_ajax_action_login_ajax", [$this, "actionLoginAjax"]);
+	    add_action("wp_ajax_nopriv_action_login_ajax", [$this, "actionLoginAjax"]);
         $this->view_path = plugin_dir_path(__DIR__);
     }
 
+	public function actionLoginAjax()
+	{
+		if (!$_POST) die();
+
+		if (!$_POST['login_form_field']) die();
+
+		if (!wp_verify_nonce($_POST['login_form_field'], 'login_form_action')) die();
+
+		$user = get_user_by('login', $_POST['Username']);
+		if ($user && wp_check_password($_POST['password'], $user->data->user_pass, $user->ID) && wp_authenticate($_POST['Username'], $_POST['password'])) {
+			// Using wp_xmlrpc_server
+			// $wp_xmlrpc_server = new \wp_xmlrpc_server();
+			// $user = $wp_xmlrpc_server->login($_POST['Username'], $_POST['password']);
+			// Create a credentials
+			$creds = [
+				'user_login' => $_POST['Username'],
+				'user_password' => $_POST['password'],
+				'remember' => true,
+			];
+
+			$user = wp_signon($creds, false);
+
+			wp_set_current_user($user->ID);
+			wp_set_auth_cookie($user->ID, true, false);
+
+			do_action('wp_login', $_POST['Username']);
+
+			$res = [
+				'code' => 200,
+				'data' => $user,
+				'msg' => 'Login successfully'
+			];
+		} else {
+			$res = [
+				'code' => 500,
+				'data' => $user,
+				'msg'  => 'User or password is incorrect',
+			];
+		}
+
+		echo json_encode($res);
+		die();
+	}
 
     public function actionActiveAjax()
     {

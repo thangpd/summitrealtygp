@@ -58,6 +58,29 @@
 
         $active.validate()
 
+        // Login form
+
+        const $login = $('#summit-login-form');
+        $login.on('submit', function (e) {
+            e.preventDefault();
+
+            var form_data = $(this).serialize();
+            var data = form_data + '&action=action_login_ajax';
+
+            $.ajax({
+                type: "POST",
+                url: ajax_object.ajax_url,
+                data: data,
+                dataType: 'json',
+                success: function (res) {
+                    if (res.code == 200) {
+                        // window.location = ajax_object.homepage_url;
+                    } else {
+                        $('#login-error-msg').html('User or password is incorrect!');
+                    }
+                }
+            });
+        });
 
     })
 
