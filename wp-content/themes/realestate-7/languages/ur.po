@@ -1,0 +1,4700 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-01-04 21:41+0000\n"
+"PO-Revision-Date: 2020-01-04 21:42+0000\n"
+"Last-Translator: \n"
+"Language-Team: Urdu\n"
+"Language: ur\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: comments.php:44
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: includes/featured-listings.php:67 includes/featured-listings.php:76
+#: includes/home-listings-carousel.php:44
+#: includes/home-listings-carousel.php:53 includes/single-listing-home.php:28
+msgid "featured"
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2031
+msgid "H1"
+msgstr "H1"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2051
+msgid "H2"
+msgstr "H2"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2071
+msgid "H3"
+msgstr "H3"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2091
+msgid "H4"
+msgstr "H4"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2111
+msgid "H5"
+msgstr "H5"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2131
+msgid "H6"
+msgstr "H6"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2152
+msgid "Body Background"
+msgstr "جسم کے پس منظر"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2180
+#: admin/ReduxFramework/theme-options/re7-config.php:2273
+#: admin/ReduxFramework/theme-options/re7-config.php:2356
+#: admin/ReduxFramework/theme-options/re7-config.php:2445
+#: admin/ReduxFramework/theme-options/re7-config.php:2485
+msgid ""
+"You must set Create a Skin > Use Custom Styles > Yes, if this isn't set NONE "
+"of the Styles will be Applied."
+msgstr ""
+"آپ کو چاہیے سیٹ بنانے کے جلد > استعمال اپنی مرضی کے مطابق شیلیوں > جی ہاں ، "
+"تو اس isn't سیٹ میں سے کوئی بھی سٹائل میں لاگو کیا جائے گا."
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2261
+msgid "Mobile Navigation"
+msgstr "موبائل ثانوی نیویگیشن"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2344
+msgid "Secondary Colors"
+msgstr "ثانوی رنگ"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2433
+msgid "Links"
+msgstr "لنکس"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2473
+#: admin/ReduxFramework/theme-options/re7-config.php:5174
+msgid "Footer"
+msgstr "فوٹر"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2543
+msgid "User Profile Fields"
+msgstr "صارف کے پروفائل کے شعبوں"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2679
+msgid "Agent Single"
+msgstr "ایجنٹ واحد"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2742
+msgid "Google Maps"
+msgstr "گوگل نقشہ جات"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2799
+msgid "Global Options"
+msgstr "عالمی سطح پر اختیارات"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2800
+msgid ""
+"These options apply globally to the homepage, expanded area of header search "
+"and search widget."
+msgstr ""
+"ان کے اختیارات کو لاگو کرنے کے لئے عالمی سطح پر سر ورق ، توسیع کے علاقے ہیڈر "
+"تلاش اور تلاش کریں آپکے پاس وجٹس."
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2872
+msgid "Header Search"
+msgstr "ہیڈر تلاش"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2957
+msgid "Homepage Search"
+msgstr "ہوم پیج ، تلاش"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:3259
+msgid "Listings Search"
+msgstr "لسٹنگ کی تلاش"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:3369
+msgid "Listing Single"
+msgstr "لسٹنگ واحد"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:3637
+msgid "Listing Stats"
+msgstr "لسٹنگ کے اعدادوشمار"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:3678
+msgid "Walk Score"
+msgstr "واک سکور"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:3722
+msgid ""
+"Set this up if you'd like to display \"What's Nearby?\" information on your "
+"listings such as restaurants, grocery stores, schools, coffee shops, "
+"etc&hellip;."
+msgstr ""
+"یہ سیٹ اپ اگر آپ'd کی طرح ظاہر کرنے کے لئے \"کیا\\'s قریبی?\" معلومات پر آپ "
+"کی لسٹنگ کے طور پر ریستوران ، گروسری کی دکانوں ، اسکولوں ، کافی کی دکانوں ، "
+"وغیرہ"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:3829
+msgid "Front End Login & Registration"
+msgstr "سامنے کے آخر میں لاگ ان "
+
+#: admin/ReduxFramework/theme-options/re7-config.php:3925
+msgid "Front End Submission"
+msgstr "سامنے کے آخر میں جمع کرانے کے"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:4138
+msgid "Submit Listing Form"
+msgstr "جمع کرانے کے فارم کی لسٹنگ"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:4149
+#: admin/ReduxFramework/theme-options/re7-config.php:4238
+#: admin/ReduxFramework/theme-options/re7-config.php:4446
+#: admin/ReduxFramework/theme-options/re7-config.php:4535
+msgid "Select which fields you'd like to be required."
+msgstr "منتخب کریں جس کے کھیتوں آپ'd کی طرح ہو جائے کرنے کی ضرورت ہے ۔ "
+
+#: admin/ReduxFramework/theme-options/re7-config.php:4357
+msgid ""
+"Select which fields you'd like to be required, these are only shown if "
+"enabled via Listings > Listing Single > Enable Vacation Rentals/Booking "
+"Fields."
+msgstr ""
+"منتخب کریں جس کے کھیتوں آپ'd کی طرح ہو جائے کرنے کی ضرورت ہے, یہ صرف دکھایا "
+"گیا ہے اگر کے ذریعے فعال لسٹنگ > لسٹنگ سنگل > فعال چھٹی کرایہ بکنگ/شعبوں."
+
+#: admin/ReduxFramework/theme-options/re7-config.php:4553
+msgid "PayPal Settings"
+msgstr "پے پال کی ترتیبات"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:4626
+msgid "Stripe Settings"
+msgstr "دھاری ترتیبات"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:4664
+msgid "Wire Transfer"
+msgstr "تار کی منتقلی"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:4733
+msgid "Email Content"
+msgstr "ای میل کے مواد"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:4869
+msgid "Blog Archive"
+msgstr "بلاگ محفوظ شدہ دستاویزات"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:4911
+msgid "Single Post"
+msgstr "سنگل پوسٹ"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:5079
+msgid "Map Addresses"
+msgstr "نقشہ خطاب"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:5080
+msgid ""
+"Enter the address of your locations to be used in the Google Map, needs to "
+"be entered in this format for each entry: 849 West Harbor Dr. San Diego, CA "
+"92101"
+msgstr ""
+"پتہ درج کے اپنے مقامات میں استعمال کیا جا کرنے کے گوگل کا نقشہ کے لئے کی "
+"ضرورت ہو داخل میں اس فارمیٹ کے لئے ہر ایک کے اندراج: 849 مغربی بندرگاہ ڈاکٹر "
+"سان ڈیاگو, CA 92101"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:5144
+msgid "Custom CSS"
+msgstr "اپنی مرضی کے مطابق سی ایس ایس"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:5159
+msgid "Custom JS"
+msgstr "اپنی مرضی کے مطابق جے ایس"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:5240
+msgid "Import/Export"
+msgstr "درآمد/برآمد"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:5277
+msgid "Changelog"
+msgstr "Changelog"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:5393
+msgid "Section via hook"
+msgstr "سیکشن کے ذریعے ہک"
+
+#. Name of the theme
+msgid "WP Pro Real Estate 7"
+msgstr "WP پرو ریئل اسٹیٹ 7"
+
+#. Author of the theme
+msgid "Chris Robinson"
+msgstr "کرس رابنسن"
+
+#: 404.php:15
+msgid "Page Not Found"
+msgstr "صفحہ نہیں ملا"
+
+#: 404.php:16
+msgid "Woah there! Looks like you've gotten lost."
+msgstr "تبصرہ woah وہاں! کی طرح لگتا ہے آپ'وئی کھو گئی."
+
+#: 404.php:17
+msgid "Go back to the homepage"
+msgstr "کرنے کے لئے واپس جانے کے سر ورق کے"
+
+#: archive-brokerage.php:38
+#: admin/ReduxFramework/theme-options/re7-config.php:2711
+msgid "Brokerages"
+msgstr "Brokerages"
+
+#: archive-brokerage.php:52 template-brokerages.php:52
+msgid "Type a brokerage name or address here to filter the list."
+msgstr "قسم ایک بروکریج نام یا ایڈریس یہاں کے فلٹر کرنے کے لئے کی فہرست."
+
+#: archive-brokerage.php:108 author.php:71 single-brokerage.php:78
+#: single-brokerage.php:280 template-agents.php:251 template-brokerages.php:122
+#: template-favorite-listings.php:111
+msgid "Tell me more about a property"
+msgstr "مجھے مزید بتائیں ایک پراپرٹی کے بارے میں"
+
+#: archive-brokerage.php:109 author.php:72 single-brokerage.php:79
+#: single-brokerage.php:281 template-agents.php:252 template-brokerages.php:123
+#: template-favorite-listings.php:112 includes/agent-contact-modal.php:22
+#: includes/single-listing-contact.php:217 includes/single-listing-home.php:270
+#: includes/single-listing-lead-media-with-contact.php:141
+#: includes/widgets/ct-widget-listingscontact.php:31
+msgid "Request a showing"
+msgstr "درخواست دکھا"
+
+#: archive-brokerage.php:110 author.php:73 single-brokerage.php:80
+#: single-brokerage.php:282 template-agents.php:253 template-brokerages.php:124
+#: template-favorite-listings.php:113
+msgid "General Questions"
+msgstr "عمومی سوالات"
+
+#: archive-brokerage.php:113 author.php:76 single-brokerage.php:83
+#: single-brokerage.php:285 template-agents.php:256 template-brokerages.php:127
+#: template-edit-profile.php:129 template-favorite-listings.php:116
+#: includes/agent-contact-modal.php:25 includes/agent-contact-modal.php:25
+#: includes/agent-contact-modal.php:25 includes/single-listing-contact.php:223
+#: includes/single-listing-home.php:273
+#: includes/single-listing-lead-media-with-contact.php:147
+#: includes/single-listing-multi-floorplan.php:27
+#: includes/widgets/ct-widget-listingscontact.php:34
+#: includes/widgets/ct-widget-listingscontact.php:34
+#: includes/widgets/ct-widget-listingscontact.php:34
+msgid "Name"
+msgstr "نام"
+
+#: archive-brokerage.php:115 archive-brokerage.php:177 author.php:78
+#: author.php:124 author.php:283 single-brokerage.php:85
+#: single-brokerage.php:135 single-brokerage.php:287 single-brokerage.php:350
+#: template-agents.php:258 template-brokerages.php:129
+#: template-brokerages.php:189 template-favorite-listings.php:118
+#: admin/theme-functions.php:3773 includes/agent-contact-modal.php:27
+#: includes/agent-contact-modal.php:27 includes/agent-contact-modal.php:27
+#: includes/single-listing-contact.php:89
+#: includes/single-listing-contact.php:171
+#: includes/single-listing-contact.php:227
+#: includes/single-listing-contact.php:297 includes/single-listing-home.php:253
+#: includes/single-listing-home.php:275 includes/single-listing-home.php:336
+#: includes/single-listing-lead-media-with-contact.php:151
+#: includes/widgets/ct-widget-agentinfo.php:78
+#: includes/widgets/ct-widget-listingscontact.php:36
+#: includes/widgets/ct-widget-listingscontact.php:36
+#: includes/widgets/ct-widget-listingscontact.php:36
+msgid "Email"
+msgstr "ای میل"
+
+#: archive-brokerage.php:117 author.php:80 single-brokerage.php:87
+#: single-brokerage.php:289 template-agents.php:260 template-brokerages.php:131
+#: template-contact.php:72 template-favorite-listings.php:120
+#: includes/agent-contact-modal.php:29 includes/agent-contact-modal.php:29
+#: includes/agent-contact-modal.php:29 includes/single-listing-contact.php:231
+#: includes/single-listing-home.php:277
+#: includes/single-listing-lead-media-with-contact.php:155
+#: includes/widgets/ct-widget-listingscontact.php:38
+#: includes/widgets/ct-widget-listingscontact.php:38
+#: includes/widgets/ct-widget-listingscontact.php:38
+msgid "Phone"
+msgstr "فون"
+
+#: archive-brokerage.php:125 author.php:88 single-brokerage.php:95
+#: single-brokerage.php:297 template-agents.php:268 template-brokerages.php:137
+#: template-contact.php:83 template-contact.php:83
+#: template-favorite-listings.php:127 template-submit-listing.php:804
+#: includes/agent-contact-modal.php:38 includes/single-listing-contact.php:242
+#: includes/single-listing-home.php:285
+#: includes/widgets/ct-widget-listingscontact.php:47
+msgid "Submit"
+msgstr "جمع کرائیں"
+
+#: archive-brokerage.php:208 template-brokerages.php:220
+#: template-view-listings.php:211 includes/featured-listings.php:118
+#: includes/single-listing-ct-idx-pro-info.php:285
+#: includes/single-listing-multi-floorplan.php:122 layouts/grid.php:76
+msgid "View"
+msgstr "لنک"
+
+#: archive-brokerage.php:218 template-brokerages.php:230
+msgid "No Brokerages Found."
+msgstr "کوئی Brokerages پایا."
+
+#: archive.php:77
+msgid "No posts were found which match your search criteria"
+msgstr "کوئی خطوط ملے تھے جس سے ملنے آپ کے تلاش کے معیار کے"
+
+#: archive.php:77 layouts/grid.php:26 layouts/list.php:27
+msgid "Try broadening your search to find more results."
+msgstr "کی کوشش کی وسعت آپ کی تلاش کو تلاش کرنے کے لئے زیادہ سے زیادہ نتائج."
+
+#: author.php:33 admin/profile-fields.php:81 admin/theme-functions.php:1952
+#: admin/theme-functions.php:3799 includes/single-listing-contact.php:52
+#: includes/single-listing-lead-media-with-contact.php:110 layouts/list.php:149
+msgid "Agent"
+msgstr "ایجنٹ"
+
+#: author.php:145 template-edit-listing.php:826 template-submit-listing.php:710
+#: admin/profile-fields.php:211
+msgid "Address"
+msgstr "ایڈریس"
+
+#: author.php:153
+msgid "Social"
+msgstr "سماجی"
+
+#: author.php:194 author.php:341
+msgid "Type a listing address or keyword to filter the list."
+msgstr "قسم ایک لسٹنگ ایڈریس یا مطلوبہ الفاظ کو فلٹر کرنے کے لئے کی فہرست."
+
+#: comments.php:13
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "یہ پوسٹ پاس ورڈ محفوظ ہے. الفاظ درج کریں پاس ورڈ دیکھنے کے لئے تبصرے."
+
+#: comments.php:31
+msgid "No Responses"
+msgstr "کوئی جوابات"
+
+#: comments.php:31
+msgid "1 Comment"
+msgstr "1 تبصرہ"
+
+#: comments.php:31
+msgid "% Comments"
+msgstr "% تبصرے"
+
+#: comments.php:45
+msgid "Newer Comments &rarr;"
+msgstr "نئے تبصرے "
+
+#: comments.php:53
+msgid "Comments are closed, but"
+msgstr "تبصرے بند ہیں ، لیکن"
+
+#: comments.php:53
+msgid "Trackback URL for this post"
+msgstr "ٹریک بیک یو آر ایل کے لئے اس پوسٹ"
+
+#: comments.php:53
+msgid "trackbacks"
+msgstr "فورم کے قوائد و"
+
+#: comments.php:53
+msgid "and pingbacks are open."
+msgstr "اور لحاظ کو کھلے ہیں."
+
+#: comments.php:59
+msgid "Reviews are closed."
+msgstr "جائزے بند کر رہے ہیں."
+
+#: comments.php:61
+msgid "Comments are closed."
+msgstr "تبصرے بند ہیں."
+
+#: footer.php:91
+msgid "All Rights Reserved."
+msgstr "تمام حقوق محفوظ ہیں."
+
+#: functions.php:55
+msgid "Getting Started"
+msgstr "شروع ہو رہی ہے"
+
+#: header.php:185 header.php:491
+msgid "Hi, "
+msgstr "ہیلو, "
+
+#: header.php:204 header.php:510 includes/user-sidebar.php:37
+msgid "Dashboard"
+msgstr "ڈیش بورڈ"
+
+#: header.php:208 header.php:514 includes/user-sidebar.php:41
+msgid "Favorite Listings"
+msgstr "پسندیدہ لسٹنگ"
+
+#: header.php:211 header.php:517
+msgid "Saved Searches"
+msgstr "محفوظ تلاش"
+
+#: header.php:216 header.php:522 header.php:552 includes/user-sidebar.php:49
+msgid "Submit Listing"
+msgstr "جمع کرانے کی لسٹنگ"
+
+#: header.php:219 header.php:525 template-user-dashboard.php:103
+#: includes/user-sidebar.php:52
+msgid "My Listings"
+msgstr "میری Listings"
+
+#. Name of the template
+#: header.php:222 header.php:528 template-user-dashboard.php:83
+#: includes/user-sidebar.php:55
+msgid "Membership"
+msgstr "رکنیت"
+
+#. Name of the template
+#: header.php:225 header.php:531 includes/user-sidebar.php:58
+msgid "Invoices"
+msgstr "انوائس"
+
+#. Name of the template
+#: header.php:228 header.php:534 includes/user-sidebar.php:61
+#: admin/ReduxFramework/theme-options/re7-config.php:3659
+msgid "Listing Analytics"
+msgstr "لسٹنگ کے تجزیات"
+
+#: header.php:233 header.php:539 includes/user-sidebar.php:65
+msgid "Account Settings"
+msgstr "اکاؤنٹ کی ترتیبات"
+
+#: header.php:236 header.php:542 includes/user-sidebar.php:68
+msgid "Logout"
+msgstr "لاگ آؤٹ کریں"
+
+#: header.php:240 header.php:550
+msgid "Login / Register"
+msgstr "لاگ ان / رجسٹر"
+
+#: header.php:240 header.php:550 admin/theme-functions.php:3698
+msgid "Login"
+msgstr "لاگ ان"
+
+#: header.php:781
+msgid "Add \"CT Compare\" Widget via Appearance > Widgets > Compare."
+msgstr ""
+"شامل کریں \"CT کا آپس میں موازنہ\" ویجیٹ کے ذریعے ظہور > ویجٹ > آپس میں "
+"موازنہ."
+
+#: page.php:59 single.php:127 template-dsidxpress.php:41
+#: template-edit-listing.php:935 template-submit-listing.php:815
+msgid "Pages:"
+msgstr "صفحات:"
+
+#: search-listings.php:153 search-listings.php:250
+msgid "listings found"
+msgstr "لسٹنگ پایا"
+
+#: search-listings.php:153 search-listings.php:250
+msgid "listing found"
+msgstr "لسٹنگ پایا"
+
+#: search-listings.php:157 search-listings.php:254
+msgid "Find A Home"
+msgstr "ایک گھر تلاش"
+
+#: search-listings.php:169 search-listings.php:265 search-listings.php:292
+msgid "Searching:"
+msgstr "کی تلاش میں:"
+
+#: search-listings.php:173 search-listings.php:269 search-listings.php:296
+msgid "All listings"
+msgstr "تمام listings"
+
+#: search-listings.php:175 admin/theme-functions.php:1172
+msgid "Open Search"
+msgstr "کھولنے کے تلاش کے"
+
+#: search-listings.php:272 search-listings.php:298
+#: admin/theme-functions.php:1169
+msgid "Close Map"
+msgstr "قریب کا نقشہ"
+
+#: search-listings.php:332 search-listings.php:336
+msgid "Save This Search?"
+msgstr "اس کو بچانے کے تلاش?"
+
+#: search-listings.php:334
+msgid "View Saved"
+msgstr "لنک بچا لیا"
+
+#: single-brokerage.php:39 admin/profile-fields.php:180
+msgid "Brokerage"
+msgstr "بروکریج"
+
+#: single-brokerage.php:162 single-listings.php:38
+#: admin/ReduxFramework/theme-options/re7-config.php:2988
+msgid "Listings"
+msgstr "Listings"
+
+#: single-brokerage.php:163
+#: admin/ReduxFramework/theme-options/re7-config.php:2601
+msgid "Agents"
+msgstr "ایجنٹوں"
+
+#: single-brokerage.php:164
+msgid "Map"
+msgstr "نقشہ"
+
+#: single-brokerage.php:166 includes/single-listing-sub-navigation.php:149
+msgid "Reviews"
+msgstr "جائزہ"
+
+#: single-brokerage.php:224
+msgid "Type an agents name or title here to filter the list."
+msgstr "قسم ایک کے ایجنٹوں کے نام یا عنوان کے لئے یہاں فلٹر کی فہرست."
+
+#: single-brokerage.php:368
+msgid "View Listings"
+msgstr "لنک Listings"
+
+#: single-brokerage.php:379
+msgid "This brokerage currently has no active agents."
+msgstr "اس بروکریج فی الحال کوئی فعال ایجنٹوں."
+
+#: single-brokerage.php:379 layouts/grid.php:22 layouts/grid.php:24
+#: layouts/list.php:23 layouts/list.php:25
+msgid "Check back soon."
+msgstr "جلد ہی واپس چیک کریں."
+
+#: single-brokerage.php:401 includes/single-listing-reviews.php:19
+msgid "No Reviews"
+msgstr "کوئی جائزے"
+
+#: single-brokerage.php:401 includes/single-listing-reviews.php:19
+msgid "1 Review"
+msgstr "1 جائزہ"
+
+#: single-brokerage.php:401 includes/single-listing-reviews.php:19
+msgid "% Reviews"
+msgstr "% جائزہ"
+
+#: single-listings.php:44 admin/theme-functions.php:6596
+#: admin/theme-functions.php:7601
+msgid "Home"
+msgstr "گھر"
+
+#: single-listings.php:71 single-listings.php:77 single-listings.php:83
+#: single-listings.php:104 single-listings.php:105 single-listings.php:106
+#: includes/single-listing-home.php:367 includes/single-listing-home.php:368
+#: includes/single-listing-home.php:369
+#: includes/widgets/ct-widget-listingssocial.php:29
+#: includes/widgets/ct-widget-listingssocial.php:30
+#: includes/widgets/ct-widget-listingssocial.php:31
+msgid "Check out this great listing on"
+msgstr "باہر کی جانچ پڑتال یہ عظیم لسٹنگ پر"
+
+#: single-listings.php:108 admin/theme-functions.php:1173
+#: includes/agent-contact-modal.php:16
+msgid "Close"
+msgstr "بند"
+
+#: single-listings.php:212 template-edit-listing.php:394
+#: template-edit-profile.php:57 template-listing-analytics.php:62
+#: template-listing-email-alerts.php:69 template-membership.php:60
+#: template-submit-listing.php:354 template-user-dashboard.php:59
+#: template-view-invoices.php:60 template-view-listings.php:62
+msgid "You must be logged in to view this page."
+msgstr "آپ کی ہونی چاہیے میں لاگ دیکھنے کے لئے اس صفحے."
+
+#: single.php:79 includes/post-author-info.php:15 layouts/blog-grid.php:54
+#: layouts/blog-large.php:54
+msgid "By"
+msgstr "کی طرف سے"
+
+#: single.php:79 layouts/blog-grid.php:54 layouts/blog-large.php:54
+msgid "in"
+msgstr "میں"
+
+#: single.php:79 layouts/blog-grid.php:54 layouts/blog-large.php:54
+msgid "with"
+msgstr "کے ساتھ"
+
+#. Name of the template
+#: admin/ReduxFramework/theme-options/re7-config.php:2789
+msgid "Advanced Search"
+msgstr "اعلی درجے کی تلاش"
+
+#: template-advanced-search.php:62 template-edit-listing.php:419
+#: template-submit-listing.php:417 admin/theme-functions.php:4925
+#: includes/advanced-search.php:35 includes/header-advanced-search.php:60
+#: includes/header-advanced-search.php:390
+#: admin/plugins/class-tgm-plugin-activation.php:2634
+#: includes/widgets/ct-widget-listingssearch.php:46
+msgid "Type"
+msgstr "قسم"
+
+#: template-advanced-search.php:67 admin/profile-fields.php:217
+#: admin/theme-functions.php:5649 includes/advanced-search.php:44
+#: includes/header-advanced-search.php:69
+#: includes/header-advanced-search.php:400
+#: includes/widgets/ct-widget-listingssearch.php:55
+msgid "City"
+msgstr "شہر"
+
+#: template-advanced-search.php:77 admin/theme-functions.php:5571
+#: admin/theme-functions.php:5590 admin/theme-functions.php:5672
+#: includes/advanced-search.php:58
+#: includes/widgets/ct-widget-listingssearch.php:69
+msgid "Area"
+msgstr "علاقے"
+
+#: template-advanced-search.php:79 admin/theme-functions.php:5670
+#: admin/theme-functions.php:5710 includes/advanced-search.php:60
+#: includes/widgets/ct-widget-listingssearch.php:71
+msgid "Suburb"
+msgstr "مضافاتی علاقے"
+
+#: template-advanced-search.php:81 admin/theme-functions.php:5674
+#: includes/advanced-search.php:62
+#: includes/widgets/ct-widget-listingssearch.php:73
+msgid "State"
+msgstr "صوبہ"
+
+#: template-advanced-search.php:92 admin/theme-functions.php:5691
+#: includes/advanced-search.php:77
+#: includes/widgets/ct-widget-listingssearch.php:88
+msgid "Postcode"
+msgstr "پوسٹ کوڈ"
+
+#: template-advanced-search.php:94 admin/theme-functions.php:5693
+#: includes/advanced-search.php:79
+#: includes/widgets/ct-widget-listingssearch.php:90
+msgid "Zipcode"
+msgstr "Zipcode"
+
+#: template-advanced-search.php:100 template-edit-listing.php:852
+#: template-submit-listing.php:736 includes/advanced-search.php:89
+#: includes/header-advanced-search.php:99
+#: includes/header-advanced-search.php:428
+#: includes/widgets/ct-widget-listingssearch.php:100
+msgid "Country"
+msgstr "ملک"
+
+#: template-advanced-search.php:105 admin/theme-functions.php:4704
+#: admin/theme-functions.php:5609 admin/theme-functions.php:5921
+#: includes/advanced-search.php:116 includes/header-advanced-search.php:127
+#: includes/header-advanced-search.php:438
+#: includes/single-listing-multi-floorplan.php:33 layouts/list.php:88
+#: includes/widgets/ct-widget-listingssearch.php:127
+msgid "Beds"
+msgstr "بستر"
+
+#: template-advanced-search.php:110 admin/theme-functions.php:4724
+#: admin/theme-functions.php:5628 admin/theme-functions.php:5927
+#: includes/advanced-search.php:125 includes/header-advanced-search.php:136
+#: includes/header-advanced-search.php:448
+#: includes/single-listing-multi-floorplan.php:36 includes/sub-listings.php:103
+#: layouts/list.php:108 includes/widgets/ct-widget-agentsotherlistings.php:140
+#: includes/widgets/ct-widget-listingssearch.php:136
+msgid "Baths"
+msgstr "حمام"
+
+#: template-advanced-search.php:115 template-edit-listing.php:434
+#: template-submit-listing.php:422 template-view-invoices.php:95
+#: includes/advanced-search.php:134 includes/header-advanced-search.php:145
+#: includes/header-advanced-search.php:458
+#: includes/single-listing-ct-idx-pro-info.php:66
+#: admin/plugins/class-tgm-plugin-activation.php:2639
+#: includes/widgets/ct-widget-listingssearch.php:145
+msgid "Status"
+msgstr "حیثیت"
+
+#: template-advanced-search.php:125 admin/theme-functions.php:5708
+#: includes/advanced-search.php:157 includes/header-advanced-search.php:159
+#: includes/header-advanced-search.php:482
+#: includes/single-listing-ct-idx-pro-info.php:88
+#: includes/widgets/ct-widget-listingssearch.php:168
+msgid "Neighborhood"
+msgstr "پڑوس"
+
+#: template-advanced-search.php:127 admin/theme-functions.php:5712
+#: includes/advanced-search.php:159 includes/header-advanced-search.php:161
+#: includes/header-advanced-search.php:484
+#: includes/widgets/ct-widget-listingssearch.php:170
+msgid "District"
+msgstr "ضلع"
+
+#: template-advanced-search.php:129 admin/theme-functions.php:5722
+#: includes/advanced-search.php:107 includes/advanced-search.php:161
+#: includes/header-advanced-search.php:118
+#: includes/header-advanced-search.php:163
+#: includes/header-advanced-search.php:486
+#: includes/widgets/ct-widget-listingssearch.php:118
+#: includes/widgets/ct-widget-listingssearch.php:172
+msgid "Community"
+msgstr "کمیونٹی"
+
+#: template-advanced-search.php:135 template-advanced-search.php:136
+#: includes/advanced-search.php:171 includes/advanced-search.php:172
+#: includes/header-advanced-search.php:173
+#: includes/header-advanced-search.php:174
+#: includes/header-advanced-search.php:496
+#: includes/header-advanced-search.php:497
+#: includes/widgets/ct-widget-listingssearch.php:182
+#: includes/widgets/ct-widget-listingssearch.php:183
+msgid "Price From"
+msgstr "قیمت سے"
+
+#: template-advanced-search.php:140 template-advanced-search.php:141
+#: includes/advanced-search.php:180 includes/advanced-search.php:181
+#: includes/header-advanced-search.php:182
+#: includes/header-advanced-search.php:183
+#: includes/header-advanced-search.php:505
+#: includes/header-advanced-search.php:506
+#: includes/widgets/ct-widget-listingssearch.php:191
+#: includes/widgets/ct-widget-listingssearch.php:192
+msgid "Price To"
+msgstr "قیمت کے لئے"
+
+#: template-advanced-search.php:145 template-advanced-search.php:146
+#: includes/advanced-search.php:190 includes/header-advanced-search.php:210
+#: includes/header-advanced-search.php:533
+#: includes/widgets/ct-widget-listingssearch.php:201
+msgid "Size From"
+msgstr "سائز کی طرف سے"
+
+#: template-advanced-search.php:150 template-advanced-search.php:151
+#: includes/advanced-search.php:199 includes/header-advanced-search.php:219
+#: includes/header-advanced-search.php:542
+#: includes/widgets/ct-widget-listingssearch.php:210
+msgid "Size To"
+msgstr "سائز کرنے کے لئے"
+
+#: template-advanced-search.php:155 template-advanced-search.php:156
+#: includes/advanced-search.php:207 includes/advanced-search.php:208
+#: includes/header-advanced-search.php:245
+#: includes/header-advanced-search.php:246
+#: includes/header-advanced-search.php:568
+#: includes/header-advanced-search.php:569
+#: includes/widgets/ct-widget-listingssearch.php:218
+#: includes/widgets/ct-widget-listingssearch.php:219
+msgid "Lot Size From"
+msgstr "بہت سے سائز"
+
+#: template-advanced-search.php:160 template-advanced-search.php:161
+#: includes/advanced-search.php:216 includes/advanced-search.php:217
+#: includes/header-advanced-search.php:254
+#: includes/header-advanced-search.php:255
+#: includes/header-advanced-search.php:577
+#: includes/header-advanced-search.php:578
+#: includes/widgets/ct-widget-listingssearch.php:227
+#: includes/widgets/ct-widget-listingssearch.php:228
+msgid "Lot Size To"
+msgstr "بہت سائز کرنے کے لئے"
+
+#: template-advanced-search.php:165 template-advanced-search.php:166
+#: template-edit-listing.php:708 template-submit-listing.php:591
+#: includes/advanced-search.php:229 includes/advanced-search.php:230
+#: includes/header-advanced-search.php:286
+#: includes/header-advanced-search.php:287
+#: includes/header-advanced-search.php:608
+#: includes/header-advanced-search.php:609
+#: includes/widgets/ct-widget-listingssearch.php:240
+#: includes/widgets/ct-widget-listingssearch.php:241
+msgid "Property ID"
+msgstr "پراپرٹی ID"
+
+#: template-advanced-search.php:175 template-advanced-search.php:176
+#: includes/advanced-search.php:239 includes/advanced-search.php:240
+#: includes/header-advanced-search.php:296
+#: includes/header-advanced-search.php:297
+#: includes/header-advanced-search.php:618
+#: includes/header-advanced-search.php:619
+#: includes/widgets/ct-widget-listingssearch.php:250
+#: includes/widgets/ct-widget-listingssearch.php:251
+msgid "Number of Guests"
+msgstr "مہمانوں کی تعداد"
+
+#: template-advanced-search.php:181 includes/advanced-search.php:143
+#: includes/widgets/ct-widget-listingssearch.php:154
+msgid "Additional Features"
+msgstr "اضافی خصوصیات"
+
+#: template-advanced-search.php:187 includes/advanced-search.php:262
+#: includes/header-advanced-search.php:334
+#: includes/header-advanced-search.php:368
+#: includes/home-hero-advanced-search.php:38
+#: includes/widgets/ct-widget-listingssearch.php:271
+msgid "Search"
+msgstr "تلاش"
+
+#: template-agents.php:122 template-agents.php:147
+msgid ""
+"Type an agents name, title, business, phone or lic # here to filter the list."
+msgstr ""
+
+#: template-agents.php:369
+msgid "View Profile"
+msgstr "لنک پروفائل"
+
+#: template-agents.php:403
+msgid "No Agents Found."
+msgstr "کوئی ایجنٹوں نے پایا."
+
+#. Name of the template
+msgid "Big Map"
+msgstr "بڑی نقشہ"
+
+#. Name of the template
+#: admin/theme-functions.php:4479
+msgid "Compare"
+msgstr "کا آپس میں موازنہ"
+
+#. Name of the template
+msgid "Contact No Form"
+msgstr "کوئی فارم سے رابطہ کریں"
+
+#: includes/single-listing-sub-navigation.php:169
+#: admin/ReduxFramework/theme-options/re7-config.php:5019
+msgid "Contact"
+msgstr "رابطہ"
+
+#: template-contact.php:64
+msgid "Name*"
+msgstr "نام*"
+
+#: template-contact.php:68
+msgid "Email*"
+msgstr "ای میل*"
+
+#: template-contact.php:75
+msgid "Subject*"
+msgstr "موضوع*"
+
+#: template-contact.php:77
+msgid "Message"
+msgstr "پیغام"
+
+#. Name of the template
+msgid "Demo Home Listings Slider"
+msgstr "ڈیمو گھر کی لسٹنگ سلائیڈر"
+
+#. Name of the template
+msgid "Demo Home Map"
+msgstr "ڈیمو گھر کا نقشہ"
+
+#. Name of the template
+msgid "Demo Home Video"
+msgstr "ہوم ویڈیو ڈیمو"
+
+#. Name of the template
+msgid "dsIDXpress"
+msgstr "dsIDXpress"
+
+#. Name of the template
+msgid "Edit Listing"
+msgstr "ترمیم کی لسٹنگ"
+
+#: template-edit-listing.php:407 template-submit-listing.php:405
+msgid "Street Address"
+msgstr "گلی کا پتہ"
+
+#: template-edit-listing.php:412 template-submit-listing.php:410
+msgid "Alternate Title"
+msgstr "متبادل عنوان"
+
+#: template-edit-listing.php:413 template-submit-listing.php:411
+msgid "(e.g. Downtown Penthouse)"
+msgstr "(مثال کے طور پر شہر کے مرکز میں سایبان)"
+
+#: template-edit-listing.php:425 template-edit-listing.php:440
+#: admin/theme-functions.php:6083 admin/theme-functions.php:6111
+msgid "Any"
+msgstr "کسی بھی"
+
+#: template-edit-listing.php:449 template-submit-listing.php:427
+#: template-view-listings.php:179 admin/theme-functions.php:5417
+#: includes/home-listings-count.php:188
+msgid "Featured"
+msgstr "خصوصیات"
+
+#: template-edit-listing.php:463 template-submit-listing.php:437
+#: includes/single-listing-multi-floorplan.php:43
+msgid "Price"
+msgstr "قیمت"
+
+#: template-edit-listing.php:468 template-submit-listing.php:442
+msgid "Price Prefix"
+msgstr "قیمت سابقہ"
+
+#: template-edit-listing.php:469 template-submit-listing.php:443
+msgid " (e.g. From, Call for price)"
+msgstr " (مثال کے طور پر ، کی طرف سے کال کی قیمت کے لئے)"
+
+#: template-edit-listing.php:473 template-submit-listing.php:447
+msgid "Price Postfix Text"
+msgstr "قیمت Postfix متن"
+
+#: template-edit-listing.php:474 template-submit-listing.php:448
+msgid " (e.g. /month, /week)"
+msgstr " (مثلا /ماہ /ہفتے)"
+
+#: template-edit-listing.php:479 template-submit-listing.php:453
+msgid "Listing Description"
+msgstr "لسٹنگ کی تفصیل"
+
+#: template-edit-listing.php:496 template-submit-listing.php:467
+msgid "Listing Featured Image"
+msgstr "لسٹنگ نمایاں تصویری"
+
+#: template-edit-listing.php:505 template-submit-listing.php:479
+#: admin/ReduxFramework/theme-options/re7-config.php:3239
+msgid "Listing Images"
+msgstr "لسٹنگ تصاویر"
+
+#: template-edit-listing.php:582 template-submit-listing.php:489
+msgid "Drag & Drop Images Here"
+msgstr "ھیںچیں "
+
+#: template-edit-listing.php:585 template-submit-listing.php:492
+msgid "or"
+msgstr "یا"
+
+#: template-edit-listing.php:588 template-submit-listing.php:495
+msgid "Select Images"
+msgstr "منتخب تصاویر"
+
+#: template-edit-listing.php:592
+msgid ""
+"*At least one image is required for valid submission, minimum width of 817px."
+msgstr ""
+"*کم از کم ایک تصویر کے لئے کی ضرورت ہے درست کرانے کی کم از کم چوڑائی کے "
+"817px."
+
+#: template-edit-listing.php:593 template-submit-listing.php:500
+msgid ""
+"*You can mark an image as featured by clicking the star icon, Otherwise "
+"first image will be considered featured image."
+msgstr ""
+"*آپ کر سکتے ہیں کے نشان کے طور پر ایک تصویر نمایاں کلک کرنے کی طرف سے ستارہ "
+"آئکن, دوسری صورت میں پہلی تصویر پر غور کیا جائے گا نمایاں تصویر."
+
+#: template-edit-listing.php:605 template-submit-listing.php:510
+msgid "Files & Documents"
+msgstr "فائلوں "
+
+#: template-edit-listing.php:629 template-submit-listing.php:522
+msgid "*Supported file types are PDF, Word, Excel & PowerPoint."
+msgstr "*کی حمایت کی فائل کی اقسام ہیں ، پی ڈی ایف ، ورڈ ، ایکسل "
+
+#: template-edit-listing.php:693 template-submit-listing.php:576
+#: admin/theme-functions.php:4872 includes/header-advanced-search.php:264
+#: includes/sub-listings.php:195
+#: includes/widgets/ct-widget-agentsotherlistings.php:232
+msgid "Lot Size"
+msgstr "بہت سائز"
+
+#: template-edit-listing.php:698 template-submit-listing.php:581
+#: admin/theme-functions.php:4743
+msgid "Pets"
+msgstr "پالتو جانور"
+
+#: template-edit-listing.php:703 template-submit-listing.php:586
+#: admin/theme-functions.php:4758
+msgid "Parking"
+msgstr "پارکنگ"
+
+#: template-edit-listing.php:713 template-submit-listing.php:596
+msgid "Video URL"
+msgstr "ویڈیو یو آر ایل"
+
+#: template-edit-listing.php:720
+msgid "Vitrual Tour URL"
+msgstr "Vitrual دورے کے یو آر ایل"
+
+#: template-edit-listing.php:728 template-submit-listing.php:611
+#: admin/theme-functions.php:5190 includes/single-listing-open-house.php:26
+#: includes/single-listing-sub-navigation.php:51
+msgid "Open House"
+msgstr "اوپن ہاؤس"
+
+#: template-edit-listing.php:731 template-submit-listing.php:614
+#: includes/single-listing-open-house.php:32
+msgid "Date"
+msgstr "تاریخ"
+
+#: template-edit-listing.php:736 template-submit-listing.php:619
+msgid "Start Time"
+msgstr "وقت شروع"
+
+#: template-edit-listing.php:741 template-submit-listing.php:624
+msgid "End Time"
+msgstr "آخر وقت"
+
+#: template-edit-listing.php:751 template-submit-listing.php:642
+msgid "Additional Features (comma separated)"
+msgstr "اضافی خصوصیات (کوما الگ)"
+
+#: template-edit-listing.php:766 template-submit-listing.php:657
+msgid "Max-number of Guests"
+msgstr "زیادہ سے زیادہ مہمانوں کی تعداد"
+
+#: template-edit-listing.php:771 template-submit-listing.php:662
+msgid "Minimum Stay"
+msgstr "کم از کم رہنے کے"
+
+#: template-edit-listing.php:778 template-submit-listing.php:669
+msgid "Check In Time"
+msgstr "چیک میں وقت"
+
+#: template-edit-listing.php:783 template-submit-listing.php:674
+msgid "Check Out Time"
+msgstr "چیک وقت"
+
+#: template-edit-listing.php:790 template-submit-listing.php:681
+msgid "Extra Person Charge"
+msgstr "اضافی شخص کے انچارج"
+
+#: template-edit-listing.php:795 template-submit-listing.php:686
+#: admin/theme-functions.php:5019
+msgid "Cleaning Fee"
+msgstr "صفائی کی فیس"
+
+#: template-edit-listing.php:802 template-submit-listing.php:693
+#: admin/theme-functions.php:5030
+msgid "Cancellation Fee"
+msgstr "منسوخی کی فیس"
+
+#: template-edit-listing.php:807 template-submit-listing.php:698
+#: admin/theme-functions.php:5041
+msgid "Security Deposit"
+msgstr "سیکورٹی ڈپازٹ"
+
+#: template-edit-listing.php:827 template-submit-listing.php:711
+msgid "Type in an address"
+msgstr "قسم میں ایک ایڈریس"
+
+#: template-edit-listing.php:847 template-submit-listing.php:731
+#: includes/advanced-search.php:98 includes/header-advanced-search.php:109
+#: includes/widgets/ct-widget-listingssearch.php:109
+msgid "County"
+msgstr "کاؤنٹی"
+
+#: template-edit-listing.php:862 template-submit-listing.php:746
+msgid "Latitude & Longitude (optional)"
+msgstr "عرض بلد "
+
+#: template-edit-listing.php:871 template-submit-listing.php:755
+msgid ""
+"You can also manually drag the marker to the exact location of your listing "
+"if the automatic geolocation is off."
+msgstr ""
+"آپ کو بھی دستی طور پر ھیںچیں کرنے کے لئے مارکر کے عین مطابق محل وقوع آپ کی "
+"لسٹنگ میں تو خود کار طریقے سے جغرافیائی محل وقوع ہے ۔ "
+
+#: template-edit-listing.php:877 template-submit-listing.php:767
+#: admin/theme-functions.php:4337
+#: admin/ReduxFramework/theme-options/re7-config.php:4534
+msgid "Private Notes"
+msgstr "ذاتی نوٹ"
+
+#: template-edit-listing.php:878 template-submit-listing.php:768
+msgid ""
+"Write a private note about this listing, this textarea will not be displayed "
+"anywhere on the front end of the site."
+msgstr ""
+"لکھنا ایک ذاتی نوٹ کے بارے میں اس لسٹنگ, اس textarea نہیں دکھایا جائے گا "
+"کہیں بھی سامنے اختتام پر سائٹ ہے."
+
+#: template-edit-listing.php:897 template-submit-listing.php:787
+msgid "Cancel"
+msgstr "منسوخ"
+
+#: template-edit-listing.php:901 template-submit-listing.php:796
+#: admin/theme-functions.php:3379
+msgid "Next"
+msgstr "اگلے"
+
+#: template-edit-listing.php:902 template-submit-listing.php:805
+msgid "Previous"
+msgstr "گزشتہ"
+
+#: template-edit-listing.php:919
+#: admin/plugins/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr "اپ ڈیٹ"
+
+#: template-edit-listing.php:929
+msgid "This isn't one of your assigned listings, editing is denied."
+msgstr "اس isn't ایک آپ کے تفویض کی لسٹنگ, میں ترمیم کی تردید کی ہے."
+
+#. Name of the template
+msgid "Edit Profile"
+msgstr "پروفائل میں ترمیم کریں"
+
+#: template-edit-profile.php:78
+msgid "The passwords you entered do not match. Your password was not updated."
+msgstr ""
+"کی آپ کے پاس ورڈ میں داخل میچ نہیں کرتے. آپ کے پاس ورڈ کو اپ ڈیٹ نہیں کیا "
+"گیا تھا."
+
+#: template-edit-profile.php:86
+msgid "The Email you entered is not valid. Please try again."
+msgstr "میں آپ کو ای میل میں داخل درست نہیں ہے. براہ مہربانی دوبارہ کوشش کریں."
+
+#: template-edit-profile.php:88
+msgid "This email is already used by another user. Try a different one."
+msgstr ""
+"یہ ای میل پہلے سے ہی ہے کی طرف سے استعمال ایک صارف. کوشش کریں ایک مختلف ایک "
+"کے."
+
+#: template-edit-profile.php:133 admin/theme-functions.php:3689
+#: admin/theme-functions.php:3768
+msgid "Username"
+msgstr "صارف کا نام"
+
+#: template-edit-profile.php:134
+msgid "Usernames cannot be changed."
+msgstr "صارف کا نام تبدیل نہیں ہو سکتا ۔ "
+
+#: template-edit-profile.php:137 admin/theme-functions.php:3778
+msgid "First Name"
+msgstr "سب سے پہلے نام"
+
+#: template-edit-profile.php:141 admin/theme-functions.php:3783
+msgid "Last Name"
+msgstr "آخری نام"
+
+#: template-edit-profile.php:145
+msgid "Nickname"
+msgstr "عرفیت"
+
+#: template-edit-profile.php:145
+msgid "(required)"
+msgstr "(ضرورت)"
+
+#: template-edit-profile.php:149
+msgid "Display to Public as"
+msgstr "ظاہر کرنے کے لئے کے طور پر عوام کے"
+
+#: template-edit-profile.php:187
+msgid "Contact Info"
+msgstr "رابطے کی معلومات"
+
+#: template-edit-profile.php:191
+msgid "E-mail *"
+msgstr "ای میل *"
+
+#: template-edit-profile.php:195 admin/theme-functions.php:3788
+msgid "Website"
+msgstr "ویب سائٹ"
+
+#: template-edit-profile.php:218
+msgid "About Yourself"
+msgstr "اپنے بارے میں"
+
+#: template-edit-profile.php:222
+msgid "Biographical Information"
+msgstr "جیونی کے بارے میں معلومات"
+
+#: template-edit-profile.php:222
+msgid ""
+"Share a little biographical information to fill out your profile. This may "
+"be shown publicly."
+msgstr ""
+"ایک چھوٹا سا جیونی معلومات کو بھرنے کے لئے آپ کی پروفائل کے. یہ ہو سکتا ہے "
+"کہ دکھایا گیا ہے ، عوامی سطح پر."
+
+#: template-edit-profile.php:226
+msgid "New Password"
+msgstr "نیا پاس ورڈ"
+
+#: template-edit-profile.php:226
+msgid ""
+"If you would like to change the password type a new one. Otherwise leave "
+"this blank."
+msgstr ""
+"اگر آپ چاہیں تو پاس ورڈ تبدیل کرنے کی ایک نئی قسم میں سے ایک ہے. ورنہ یہ "
+"خالی چھوڑ دیں."
+
+#: template-edit-profile.php:230
+msgid "Type your new password again."
+msgstr "قسم آپ نیا پاس ورڈ دوبارہ."
+
+#: template-edit-profile.php:232
+msgid "Strength indicator"
+msgstr "طاقت کے اشارے"
+
+#: template-edit-profile.php:244
+msgid "Update Profile"
+msgstr "اپ ڈیٹ کریں پروفائل"
+
+#: template-favorite-listings.php:100
+msgid "Request More Information on All Favorites"
+msgstr "مزید معلومات کی درخواست پر تمام پسندیدہ"
+
+#: template-favorite-listings.php:178 template-view-listings.php:142
+msgid "Bed:"
+msgstr "بستر:"
+
+#: template-favorite-listings.php:188 template-view-listings.php:152
+msgid "Baths:"
+msgstr "حمام:"
+
+#: template-favorite-listings.php:199 template-view-listings.php:163
+#: layouts/list.php:125 includes/widgets/ct-widget-flickr.php:63
+msgid "Type:"
+msgstr "قسم:"
+
+#: template-favorite-listings.php:224
+msgid "Previous Entries"
+msgstr "گزشتہ اندراجات"
+
+#: template-favorite-listings.php:225
+msgid "Next Entries"
+msgstr "اگلے اندراجات"
+
+#. Name of the template
+msgid "Full Width 2"
+msgstr "مکمل چوڑائی 2"
+
+#. Name of the template
+msgid "Full Width"
+msgstr "مکمل چوڑائی"
+
+#. Name of the template
+msgid "IDX Full Width"
+msgstr "IDX مکمل چوڑائی"
+
+#. Name of the template
+msgid "IDX w/Sidebar"
+msgstr "IDX w/سائڈبار"
+
+#. Name of the template
+msgid "Landing Page"
+msgstr "لینڈنگ کے صفحے"
+
+#. Name of the template
+msgid "Left Sidebar"
+msgstr "بائیں سائڈبار"
+
+#. Name of the template
+#: includes/user-sidebar.php:44
+#: admin/ReduxFramework/theme-options/re7-config.php:4699
+msgid "Listing Email Alerts"
+msgstr "لسٹنگ ای میل الرٹس"
+
+#: template-listing-email-alerts.php:84
+msgid "Manage your alerts"
+msgstr "کا انتظام آپ تنبیہات سب"
+
+#: template-listing-email-alerts.php:85
+msgid "Here you can turn saved alerts on/off or remove them completely."
+msgstr ""
+"یہاں آپ کو تبدیل کر سکتے ہیں محفوظ الرٹ پر/بند یا مکمل طور پر ان کو دور."
+
+#: template-listing-email-alerts.php:90
+msgid "Query"
+msgstr "سوال"
+
+#: template-listing-email-alerts.php:93
+msgid "Date Created"
+msgstr "تاریخ پیدا کیا"
+
+#: template-listing-email-alerts.php:96
+msgid "Email Setting"
+msgstr "ای میل کی ترتیب"
+
+#: template-listing-email-alerts.php:99 admin/theme-functions.php:3547
+msgid "Delete"
+msgstr "کو حذف کریں"
+
+#: template-listing-email-alerts.php:126
+msgid "You don't have any saved searches yet, create one above."
+msgstr "You don\\'t have any محفوظ تلاش ابھی تک, ایک بنانے کے اوپر."
+
+#: template-listing-email-alerts.php:138
+msgid ""
+"Activate \"Contempo Email Alerts\" plugin via Appearance > Install Plugins."
+msgstr "چالو \"Contempo ای میل الرٹس\" پلگ ان کے ذریعے ظہور > پلگ ان انسٹال."
+
+#. Name of the template
+#: includes/home-listings-count.php:58
+msgid "Open Houses"
+msgstr "کھلے گھروں"
+
+#. Name of the template
+msgid "Packages Thank You"
+msgstr "پیکجوں آپ کا شکریہ"
+
+#: template-packages-thank-you.php:56
+msgid "Select a Package"
+msgstr "منتخب کریں ایک پیکج"
+
+#: template-packages-thank-you.php:60
+msgid "Payment"
+msgstr "ادائیگی"
+
+#: template-packages-thank-you.php:64
+msgid "Complete"
+msgstr "مکمل"
+
+#. Name of the template
+msgid "Quick Search"
+msgstr "فوری تلاش"
+
+#. Name of the template
+msgid "Sitemap"
+msgstr "سائٹ کا نقشہ"
+
+#: template-sitemap.php:51
+msgid "Last Twenty Posts"
+msgstr "گزشتہ بیس خطوط"
+
+#: template-sitemap.php:67
+msgid "Pages"
+msgstr "صفحات"
+
+#: template-sitemap.php:74
+msgid "Categories"
+msgstr "زمرہ جات"
+
+#: template-sitemap.php:81
+msgid "Posts per category"
+msgstr "فی خطوط زمرے"
+
+#: template-submit-listing.php:379
+msgid "You haven't chosen a package yet…"
+msgstr "آپ کو پناہ گاہ\\'t منتخب کیا ایک پیکج ابھی تک..."
+
+#: template-submit-listing.php:380
+msgid "Get Started!"
+msgstr "حاصل کرنے شروع کر دیا!"
+
+#: template-submit-listing.php:386
+msgid "Listings Limit Reached"
+msgstr "لسٹنگ کی حد تک پہنچ"
+
+#: template-submit-listing.php:387
+msgid "You've reached the listings limit for your membership package."
+msgstr "آپ'وئی پہنچ لسٹنگ کی حد کے لئے آپ کی رکنیت پیکج."
+
+#: template-submit-listing.php:388
+msgid "Upgrade Today!"
+msgstr "اپ گریڈ آج!"
+
+#: template-submit-listing.php:472
+msgid "Gallery Images (select as many as you like)"
+msgstr ""
+"گیلری ، نگارخانہ تصاویر (کو منتخب کریں کے طور پر کئی کے طور پر آپ کی طرح)"
+
+#: template-submit-listing.php:499
+msgid "*At least one image is for valid submission, minimum width of 817px."
+msgstr "*کم از کم ایک تصویر ہے کے لئے درست کرانے کی کم از کم چوڑائی کے 817px."
+
+#: template-submit-listing.php:582
+msgid "(e.g. Cats, small dogs)"
+msgstr "(مثال کے طور پر بلیوں ، چھوٹے کتوں)"
+
+#: template-submit-listing.php:587
+msgid "(e.g. Carport, 2 Car Garage)"
+msgstr "(مثال کے طور Carport, 2 گاڑی گیراج)"
+
+#: template-submit-listing.php:603
+msgid "Virtual Tour URL"
+msgstr "ورچوئل ٹور یو آر ایل"
+
+#: template-submit-listing.php:658
+msgid " (e.g. 2)"
+msgstr " (مثال کے طور پر 2)"
+
+#: template-submit-listing.php:663
+msgid " (e.g. 1 night)"
+msgstr " (مثال کے طور پر 1 رات)"
+
+#: template-submit-listing.php:670
+msgid " (e.g. 3:00 PM)"
+msgstr " (مثال کے طور پر 3:00 بجے)"
+
+#: template-submit-listing.php:675
+msgid " (e.g. 11:00 AM)"
+msgstr " (مثال کے طور پر 11:00 بجے)"
+
+#: template-submit-listing.php:682
+msgid " (e.g. 50)"
+msgstr " (مثال کے طور پر 50)"
+
+#: template-submit-listing.php:687
+msgid " (e.g. 150)"
+msgstr " (مثال کے طور پر 150)"
+
+#: template-submit-listing.php:694
+msgid " (e.g. 275)"
+msgstr " (مثال کے طور پر 275)"
+
+#: template-submit-listing.php:699
+msgid " (e.g. 895)"
+msgstr " (مثال کے طور 895)"
+
+#: template-submit-listing.php:788
+msgid "Save As Draft"
+msgstr "ڈرافٹ کے طور پر محفوظ کریں"
+
+#. Name of the template
+#: admin/ReduxFramework/theme-options/re7-config.php:1706
+msgid "Testimonials"
+msgstr "تعریف"
+
+#. Name of the template
+msgid "User Dashboard"
+msgstr "صارف کا ڈیش بورڈ"
+
+#: template-user-dashboard.php:122
+#: admin/ReduxFramework/theme-options/re7-config.php:1656
+msgid "Featured Listings"
+msgstr "خصوصیات لسٹنگ"
+
+#: template-user-dashboard.php:141
+msgid "Pending Listings"
+msgstr "زیر التواء Listings"
+
+#: template-view-invoices.php:82
+msgid "You haven't placed any orders yet…"
+msgstr "آپ کو پناہ گاہ\\'t رکھا کسی بھی احکامات ابھی تک..."
+
+#: template-view-invoices.php:90
+msgid "Invoice"
+msgstr "انوائس"
+
+#: template-view-invoices.php:91
+msgid "Package"
+msgstr "پیکیج"
+
+#: template-view-invoices.php:92
+msgid "Start"
+msgstr "شروع"
+
+#: template-view-invoices.php:93
+msgid "Expire"
+msgstr "میعاد ختم"
+
+#: template-view-invoices.php:94
+msgid "Recurring"
+msgstr "بار بار چلنے والی"
+
+#: template-view-invoices.php:96
+msgid "Total"
+msgstr "کل"
+
+#: template-view-invoices.php:112
+#: includes/widgets/ct-widget-contactinfo.php:135
+msgid "Yes"
+msgstr "جی ہاں"
+
+#: template-view-invoices.php:112
+#: includes/widgets/ct-widget-contactinfo.php:136
+msgid "No"
+msgstr "کوئی"
+
+#: template-view-invoices.php:113
+msgid "Expired"
+msgstr "میعاد ختم ہو"
+
+#: template-view-invoices.php:123
+msgid "-"
+msgstr "-"
+
+#: template-view-listings.php:85
+msgid "Type a listing name or address here to filter the list."
+msgstr "قسم ایک لسٹنگ نام یا ایڈریس یہاں کے فلٹر کرنے کے لئے کی فہرست."
+
+#: template-view-listings.php:172
+msgid "Published"
+msgstr "شائع"
+
+#: template-view-listings.php:174
+msgid "Pending"
+msgstr "زیر التواء"
+
+#: template-view-listings.php:176
+msgid "Draft"
+msgstr "ڈرافٹ"
+
+#: template-view-listings.php:195
+msgid "Paid"
+msgstr "ادا"
+
+#: template-view-listings.php:210
+msgid "Edit"
+msgstr "میں ترمیم کریں"
+
+#: template-view-listings.php:214 admin/theme-functions.php:4578
+msgid " Views"
+msgstr " خیالات"
+
+#: template-view-listings.php:233
+msgid "You don't have any listings yet..."
+msgstr "You don\\'t have any لسٹنگ ابھی تک..."
+
+#: template-view-listings.php:234
+msgid "Create One"
+msgstr "ایک تخلیق"
+
+#: admin/merlin-config.php:104 admin/merlin-config.php:120
+#: admin/merlin-config.php:136 admin/merlin-config.php:152
+#: admin/merlin-config.php:168 admin/merlin-config.php:184
+#: admin/merlin-config.php:200 admin/merlin-config.php:216
+#: admin/merlin-config.php:232 admin/merlin-config.php:248
+#: admin/merlin-config.php:264 admin/merlin-config.php:280
+#: admin/merlin-config.php:296 admin/merlin-config.php:312
+#: admin/merlin-config.php:328
+msgid "A special note for this import."
+msgstr "ایک خصوصی نوٹ کے لئے اس کی درآمد."
+
+#: admin/profile-fields.php:39
+msgid "Social profile information"
+msgstr "سوشل پروفائل کی معلومات"
+
+#: admin/profile-fields.php:43
+msgid "Twitter Username"
+msgstr "ٹویٹر صارف کا نام"
+
+#: admin/profile-fields.php:49
+msgid "Facebook URL"
+msgstr "Facebook یو آر ایل"
+
+#: admin/profile-fields.php:55
+msgid "Instagram URL"
+msgstr "Instagram یو آر ایل"
+
+#: admin/profile-fields.php:61
+msgid "LinkedIn URL"
+msgstr "لنکڈ یو آر ایل"
+
+#: admin/profile-fields.php:67
+msgid "YouTube URL"
+msgstr "یو ٹیوب یو آر ایل"
+
+#: admin/profile-fields.php:76
+msgid "Extra profile information"
+msgstr "اضافی پروفائل کی معلومات"
+
+#: admin/profile-fields.php:88
+msgid "Agent Order"
+msgstr "ایجنٹ کے لئے"
+
+#: admin/profile-fields.php:91
+msgid ""
+"If user is an agent select the order you would like them displayed on the "
+"agents page, e.g. 1, 2, 3, etc&hellip; NOTE: You must also set Real Estate 7 "
+"Options > Agents > Manually Order Agents? > to Yes, otherwise the ordering "
+"won't be applied."
+msgstr ""
+"اگر صارف ایک ایجنٹ کو منتخب کریں کے لئے آپ گا کی طرح ان پر ظاہر ایجنٹوں کے "
+"صفحے, مثال کے طور پر 1, 2, 3, وغیرہ"
+
+#: admin/profile-fields.php:95
+msgid "Profile Image"
+msgstr "پروفائل تصویر"
+
+#: admin/profile-fields.php:105
+msgid ""
+"Please upload a profile picture here, if none is chosen a default image will "
+"be used."
+msgstr ""
+"براہ مہربانی اپ لوڈ ایک پروفائل کی تصویر یہاں تو کوئی بھی منتخب کیا جاتا ہے "
+"ایک پہلے سے طے شدہ تصویر کو استعمال کیا جائے گا."
+
+#: admin/profile-fields.php:109
+msgid "Mobile #"
+msgstr ""
+
+#: admin/profile-fields.php:115
+msgid "Fax #"
+msgstr ""
+
+#: admin/profile-fields.php:122
+msgid "Title"
+msgstr "عنوان"
+
+#: admin/profile-fields.php:128
+msgid "Tagline"
+msgstr "ٹیگ لائن"
+
+#: admin/profile-fields.php:134
+msgid "Agent License #"
+msgstr ""
+
+#: admin/profile-fields.php:137
+msgid "Add the agents license number here."
+msgstr "شامل ایجنٹوں کی لائسنس کی تعداد یہاں."
+
+#: admin/profile-fields.php:144
+msgid "Agent Testimonials"
+msgstr "ایجنٹ کی تعریف"
+
+#: admin/profile-fields.php:148
+msgid ""
+"If this user is marked as an agent (\"Show on agents page\" option above) "
+"use this area to add client testimonials."
+msgstr ""
+"اگر اس صارف نشان لگا دیا گیا ہے ایک ایجنٹ کے طور پر (\"پر شو کے ایجنٹوں کے "
+"صفحے کے\" کا اختیار سے اوپر) کا استعمال اس علاقے کو شامل کرنے کے لئے کلائنٹ "
+"کی تعریف."
+
+#: admin/profile-fields.php:162
+msgid "Office Information"
+msgstr "دفتر کے بارے میں معلومات"
+
+#: admin/profile-fields.php:166
+msgid "Personal Logo"
+msgstr "ذاتی لوگو"
+
+#: admin/profile-fields.php:176
+msgid ""
+"Upload your personal logo here, or if you choose to associate a Brokerage "
+"below that logo will be used instead."
+msgstr ""
+"اپ لوڈ آپ کی ذاتی علامت یہاں ، یا آپ کو منتخب کرنے کے لئے ایسوسی ایٹ ایک "
+"بروکریج کہ ذیل کی علامت ہو جائے گا استعمال کیا جاتا ہے کے بجائے."
+
+#: admin/profile-fields.php:186
+msgid "Select a Brokerage"
+msgstr "منتخب کریں ایک بروکریج"
+
+#: admin/profile-fields.php:194
+msgid ""
+"Assign a brokerage here, these are pulled from the Brokerage custom post "
+"type."
+msgstr ""
+"تفویض ایک بروکریج ، یہاں ان میں سے نکالا جاتا بروکریج اپنی مرضی کے پیغام کی "
+"قسم."
+
+#: admin/profile-fields.php:198
+msgid "Brokerage License #"
+msgstr ""
+
+#: admin/profile-fields.php:201
+msgid "Add the brokerage license number here."
+msgstr "شامل بروکریج لائسنس نمبر یہاں."
+
+#: admin/profile-fields.php:205
+msgid "Office #"
+msgstr ""
+
+#: admin/profile-fields.php:223
+msgid "State or Province"
+msgstr "صوبہ یا ریاست"
+
+#: admin/profile-fields.php:229 admin/theme-functions.php:5689
+msgid "Postal Code"
+msgstr "پوسٹل کوڈ"
+
+#: admin/theme-functions.php:45
+msgid "Please Update Your PHP Version to the Recommended 5.6+"
+msgstr "اپ ڈیٹ کریں آپ کی پی ایچ پی ورژن کے لئے سفارش کی 5.6 "
+
+#: admin/theme-functions.php:46
+msgid ""
+"Otherwise some of the Theme Functions and Custom Visual Composer modules "
+"won't be available for use, or cause issues with your site display."
+msgstr ""
+"دوسری صورت میں کچھ موضوع کے افعال اور اپنی مرضی کے مطابق بصری کمپوزر ماڈیولز "
+"won\\دستیاب ہو جائے کے لئے استعمال ، یا کی وجہ سے مسائل کے ساتھ آپ کی ویب "
+"سائٹ ظاہر."
+
+#: admin/theme-functions.php:47
+msgid ""
+"Its a quick and simple process (no more than a couple minutes), please refer "
+"to this knowledgebase article below."
+msgstr ""
+"اس کی ایک فوری اور آسان عمل ہے (کوئی زیادہ سے زیادہ ایک جوڑے منٹ), براہ "
+"مہربانی اس کا حوالہ دیتے ہیں نالج کے مضمون کے ذیل میں."
+
+#: admin/theme-functions.php:48
+msgid "Minimum PHP Version 5.6+ and How to Update to It"
+msgstr "کم از کم پی ایچ پی ورژن 5.6 اور کس طرح اپ ڈیٹ کرنے کے لئے یہ"
+
+#: admin/theme-functions.php:49 admin/theme-functions.php:91
+#: admin/theme-functions.php:133 admin/theme-functions.php:175
+#: admin/plugins/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr "اس نوٹس کو مسترد"
+
+#: admin/theme-functions.php:89
+msgid "WP Favorite Posts Needs to be Setup"
+msgstr "WP پسندیدہ مراسلات کے لئے کی ضرورت ہے سیٹ اپ ہو"
+
+#: admin/theme-functions.php:90 admin/theme-functions.php:132
+#: admin/theme-functions.php:174
+msgid "Just takes a few seconds to setup the plugin properly please see the "
+msgstr ""
+"صرف چند سیکنڈ لگتے سیٹ اپ کرنے کے لئے پلگ ان کو صحیح طور پر براہ مہربانی "
+"ملاحظہ کریں "
+
+#: admin/theme-functions.php:90 admin/theme-functions.php:132
+#: admin/theme-functions.php:174
+msgid "documentation"
+msgstr "دستاویزات"
+
+#: admin/theme-functions.php:131
+msgid "Contempo Compare Listings Needs to be Setup"
+msgstr "Contempo کا آپس میں موازنہ کی لسٹنگ کے لئے کی ضرورت ہے سیٹ اپ ہو"
+
+#: admin/theme-functions.php:173
+msgid "WordPress Social Login Needs to be Setup"
+msgstr "ورڈپریس سماجی لاگ ان کرنے کی ضرورت ہے سیٹ اپ"
+
+#: admin/theme-functions.php:387
+msgid "Listing Large"
+msgstr "لسٹنگ کے بڑے"
+
+#: admin/theme-functions.php:398
+msgid "Primary Left Menu"
+msgstr "بنیادی بائیں مینو"
+
+#: admin/theme-functions.php:399
+msgid "Primary Right Menu"
+msgstr "بنیادی حق مینو"
+
+#: admin/theme-functions.php:400
+msgid "Primary Full Width"
+msgstr "پرائمری مکمل چوڑائی"
+
+#: admin/theme-functions.php:401
+msgid "Footer Menu"
+msgstr "فوٹر مینو"
+
+#: admin/theme-functions.php:425
+msgid "Menu doesn't exist, please create one by clicking here."
+msgstr "مینو doesn\\'t موجود ہیں, براہ مہربانی ایک تخلیق یہاں کلک کر کے."
+
+#: admin/theme-functions.php:1170
+msgid "Open Map"
+msgstr "کھولنے کا نقشہ"
+
+#: admin/theme-functions.php:1171
+msgid "Close Search"
+msgstr "قریبی تلاش"
+
+#: admin/theme-functions.php:1174
+msgid "Open"
+msgstr "کھلی"
+
+#: admin/theme-functions.php:1175
+msgid "Search Saved"
+msgstr "تلاش بچا لیا"
+
+#: admin/theme-functions.php:1187 admin/theme-functions.php:5897
+msgid "All Towns"
+msgstr "تمام شہروں"
+
+#: admin/theme-functions.php:1189 admin/theme-functions.php:5899
+msgid "All Villages"
+msgstr "تمام دیہات"
+
+#: admin/theme-functions.php:1191 admin/theme-functions.php:5901
+msgid "All Cities"
+msgstr "تمام شہروں"
+
+#: admin/theme-functions.php:1195 admin/theme-functions.php:5903
+msgid "All Areas"
+msgstr "تمام علاقوں"
+
+#: admin/theme-functions.php:1197 admin/theme-functions.php:5905
+#: admin/theme-functions.php:5939
+msgid "All Suburbs"
+msgstr "تمام مضافات"
+
+#: admin/theme-functions.php:1199 admin/theme-functions.php:5907
+msgid "All Provinces"
+msgstr "تمام صوبوں"
+
+#: admin/theme-functions.php:1201 admin/theme-functions.php:5909
+msgid "All Regions"
+msgstr "تمام علاقوں"
+
+#: admin/theme-functions.php:1203 admin/theme-functions.php:5911
+msgid "All Parishes"
+msgstr "تمام Parishes"
+
+#: admin/theme-functions.php:1205 admin/theme-functions.php:5913
+msgid "All States"
+msgstr "تمام ریاستوں"
+
+#: admin/theme-functions.php:1209 admin/theme-functions.php:5947
+msgid "All Postcodes"
+msgstr "تمام پوسٹ کوڈز"
+
+#: admin/theme-functions.php:1211 admin/theme-functions.php:5949
+msgid "All Postal Codes"
+msgstr "تمام پوسٹل کوڈ"
+
+#: admin/theme-functions.php:1213 admin/theme-functions.php:5951
+msgid "All Zipcodes"
+msgstr "تمام Zipcodes"
+
+#: admin/theme-functions.php:1228
+msgid "* This field is required"
+msgstr "* اس میدان کی ضرورت ہے"
+
+#: admin/theme-functions.php:1229
+msgid "* Please select an option"
+msgstr "* براہ مہربانی ایک آپشن منتخب کریں"
+
+#: admin/theme-functions.php:1230
+msgid "* This checkbox is required"
+msgstr "* اس چیک باکس کی ضرورت ہے"
+
+#: admin/theme-functions.php:1231
+msgid "* Invalid phone number"
+msgstr "* باطل فون نمبر"
+
+#: admin/theme-functions.php:1232
+msgid "* Invalid email address"
+msgstr "* غلط ای میل ایڈریس"
+
+#: admin/theme-functions.php:1233
+msgid "* Invalid date, must be in YYYY-MM-DD format"
+msgstr "* باطل کے قیام میں ہونا ضروری ہے YYYY-MM-DD فارمیٹ"
+
+#: admin/theme-functions.php:1234
+msgid "* Numbers only"
+msgstr "* تعداد صرف"
+
+#: admin/theme-functions.php:1235
+msgid "* No special caracters allowed"
+msgstr "* کوئی خاص caracters کی اجازت"
+
+#: admin/theme-functions.php:1236
+msgid "* Letters only"
+msgstr "* خطوط صرف"
+
+#: admin/theme-functions.php:1921 admin/theme-functions.php:3797
+msgid "Buyer"
+msgstr "خریدار"
+
+#: admin/theme-functions.php:1933 admin/theme-functions.php:3798
+msgid "Seller"
+msgstr "بیچنے والے"
+
+#: admin/theme-functions.php:1971
+msgid "Broker"
+msgstr "بروکر"
+
+#: admin/theme-functions.php:2083 admin/theme-functions.php:2120
+#: admin/theme-functions.php:2156
+msgid "Beds: "
+msgstr "بستر: "
+
+#: admin/theme-functions.php:2084 admin/theme-functions.php:2121
+#: admin/theme-functions.php:2157
+msgid "Baths: "
+msgstr "حمام: "
+
+#: admin/theme-functions.php:2085 admin/theme-functions.php:2122
+#: admin/theme-functions.php:2158
+msgid "Sq Ft: "
+msgstr "مربع فیٹ: "
+
+#: admin/theme-functions.php:2094 admin/theme-functions.php:2131
+#: admin/theme-functions.php:2166
+msgid "1 Listing found"
+msgstr "1 لسٹنگ پایا"
+
+#: admin/theme-functions.php:2096 admin/theme-functions.php:2133
+#: admin/theme-functions.php:2168
+msgid " Listings found"
+msgstr " لسٹنگ پایا"
+
+#: admin/theme-functions.php:2173
+msgid "No Listings Found"
+msgstr "کوئی لسٹنگ پایا"
+
+#: admin/theme-functions.php:2393
+msgid "Sort By"
+msgstr "کے عتبار سے"
+
+#: admin/theme-functions.php:2394
+msgid "Default Order"
+msgstr "پہلے سے طے شدہ کے لئے"
+
+#: admin/theme-functions.php:2395
+msgid "Price - Low to High"
+msgstr "قیمت کم کرنے کے لئے اعلی"
+
+#: admin/theme-functions.php:2396
+msgid "Price - High to Low"
+msgstr "قیمت اعلی کے لئے کم"
+
+#: admin/theme-functions.php:2397
+msgid "Date - Old to New"
+msgstr "تاریخ کرنے کے لئے پرانے نئے"
+
+#: admin/theme-functions.php:2398
+msgid "Date - New to Old"
+msgstr "تاریخ کرنے کے لئے نئے پرانے"
+
+#: admin/theme-functions.php:2625
+msgid "New submission in"
+msgstr "نئے جمع کرانے میں"
+
+#: admin/theme-functions.php:2627
+msgid "Hi!"
+msgstr "ہیلو!"
+
+#: admin/theme-functions.php:2628
+msgid "We have a new submission in"
+msgstr "ہم نے ایک نئے جمع کرانے میں"
+
+#: admin/theme-functions.php:2629
+msgid "Check it out"
+msgstr "یہ چیک کریں"
+
+#: admin/theme-functions.php:2743 admin/theme-functions.php:2818
+#: admin/theme-functions.php:2921 admin/theme-functions.php:3036
+#: admin/theme-functions.php:3155 admin/theme-functions.php:3245
+#: admin/theme-functions.php:3356
+msgid "You need to setup the Google Maps API."
+msgstr "آپ کی ضرورت ہے سیٹ اپ کرنے کے لئے Google Maps کے API."
+
+#: admin/theme-functions.php:2744 admin/theme-functions.php:2819
+#: admin/theme-functions.php:2922 admin/theme-functions.php:3037
+#: admin/theme-functions.php:3156 admin/theme-functions.php:3246
+#: admin/theme-functions.php:3357
+msgid "Go into Admin > Real Estate 7 Options > Google Maps"
+msgstr "میں جانے کے منتظم > رئیل اسٹیٹ 7 اختیارات > گوگل نقشہ جات"
+
+#: admin/theme-functions.php:3378
+msgid "Prev"
+msgstr "پچھلا"
+
+#: admin/theme-functions.php:3645
+msgid "User registration is not enabled"
+msgstr "صارف کے رجسٹریشن فعال نہیں ہے"
+
+#: admin/theme-functions.php:3675
+msgid "Log in"
+msgstr "میں لاگ ان کریں"
+
+#: admin/theme-functions.php:3677
+msgid "Don't have an account?"
+msgstr "Don\\'t ایک اکاؤنٹ ہے?"
+
+#: admin/theme-functions.php:3677
+msgid "Create your account,"
+msgstr "آپ کے اکاؤنٹ کی تخلیق,"
+
+#: admin/theme-functions.php:3677
+msgid "it takes less than a minute."
+msgstr "یہ لیتا ہے ایک منٹ سے بھی کم."
+
+#: admin/theme-functions.php:3692 admin/theme-functions.php:3805
+msgid "Password"
+msgstr "پاس ورڈ"
+
+#: admin/theme-functions.php:3707
+msgid "Lost your password?"
+msgstr "اپنا پاس ورڈ کھو دیا?"
+
+#: admin/theme-functions.php:3717
+msgid "Lost Password?"
+msgstr "پاس ورڈ کھو دیا?"
+
+#: admin/theme-functions.php:3718
+msgid ""
+"Enter your email address and we'll send you a link you can use to pick a new "
+"password."
+msgstr ""
+"الفاظ درج کریں آپ کا ای میل ایڈریس اور ہم\\'ll آپ کو بھیج ایک لنک استعمال کر "
+"سکتے ہیں منتخب کرنے کے لئے ایک نیا پاس ورڈ."
+
+#: admin/theme-functions.php:3720
+msgid "Username or Email"
+msgstr "صارف کا نام یا ای میل"
+
+#: admin/theme-functions.php:3722
+msgid "Get New Password"
+msgstr "نیا پاس ورڈ حاصل کریں"
+
+#: admin/theme-functions.php:3758
+msgid "Create an account"
+msgstr "ایک اکاؤنٹ بنائیں"
+
+#: admin/theme-functions.php:3759
+msgid "It takes less than a minute. If you already have an account "
+msgstr "یہ لیتا ہے ایک منٹ سے بھی کم. اگر آپ پہلے سے ہی ایک اکاؤنٹ ہے "
+
+#: admin/theme-functions.php:3759
+msgid "login"
+msgstr "لاگ ان"
+
+#: admin/theme-functions.php:3794
+msgid "Buyer, Seller or Agent?"
+msgstr "خریدار ، بیچنے والے یا ایجنٹ?"
+
+#: admin/theme-functions.php:3796
+msgid "Please choose"
+msgstr "براہ مہربانی منتخب کریں"
+
+#: admin/theme-functions.php:3810
+msgid "Password Again"
+msgstr "پاس ورڈ دوبارہ"
+
+#: admin/theme-functions.php:3816
+msgid "I accept the"
+msgstr "میں نے قبول"
+
+#: admin/theme-functions.php:3816
+msgid "Terms &amp; Conditions"
+msgstr "شرائط "
+
+#: admin/theme-functions.php:3821
+msgid "Register"
+msgstr "رجسٹر"
+
+#: admin/theme-functions.php:3856
+msgid "Username already taken"
+msgstr "صارف کا نام پہلے ہی لیا"
+
+#: admin/theme-functions.php:3860 admin/theme-functions.php:4048
+#: admin/theme-functions.php:4095
+msgid "Invalid username"
+msgstr "غلط صارف کا نام"
+
+#: admin/theme-functions.php:3864
+msgid "Please enter a username"
+msgstr "براہ مہربانی ایک صارف نام درج کریں"
+
+#: admin/theme-functions.php:3868
+msgid "Invalid email"
+msgstr "جعلی ای میل"
+
+#: admin/theme-functions.php:3872
+msgid "Email already registered"
+msgstr "ای میل پہلے سے ہی رجسٹرڈ"
+
+#: admin/theme-functions.php:3876 admin/theme-functions.php:4053
+#: admin/theme-functions.php:4100
+msgid "Please enter a password"
+msgstr "براہ مہربانی ایک پاس ورڈ درج کریں"
+
+#: admin/theme-functions.php:3880
+msgid "Passwords do not match"
+msgstr "پاس ورڈ میچ نہیں کرتے"
+
+#: admin/theme-functions.php:3884
+msgid "Terms & Conditions must be checked"
+msgstr "شرائط "
+
+#: admin/theme-functions.php:4059 admin/theme-functions.php:4106
+msgid "Incorrect password"
+msgstr "غلط پاس ورڈ"
+
+#: admin/theme-functions.php:4140
+msgid "Error"
+msgstr "غلطی"
+
+#: admin/theme-functions.php:4263 admin/theme-functions.php:4267
+msgid "Featured Image"
+msgstr "نمایاں تصویری"
+
+#: admin/theme-functions.php:4265
+msgid "Brokerage Logo"
+msgstr "بروکریج لوگو"
+
+#: admin/theme-functions.php:4295
+msgid "Enter the listing street address here"
+msgstr "الفاظ درج کریں لسٹنگ کی گلی ایڈریس یہاں"
+
+#: admin/theme-functions.php:4311
+msgid ""
+"NOTE: The Listing Title needs to be <strong>only the Street Address</strong> "
+"(e.g. 123 Somewhere St.) otherwise the mapping won't work properly, use the "
+"Alternate Title field below for Listing Names, etc…the Alt Title field will "
+"override the street address on the front end of your site."
+msgstr ""
+
+#: admin/theme-functions.php:4330
+#: admin/ReduxFramework/theme-options/re7-config.php:4148
+msgid "Price & Description"
+msgstr "قیمت "
+
+#: admin/theme-functions.php:4331
+msgid "Photos & Files"
+msgstr "تصاویر "
+
+#: admin/theme-functions.php:4332
+#: admin/ReduxFramework/theme-options/re7-config.php:4237
+msgid "Details"
+msgstr "تفصیلات"
+
+#: admin/theme-functions.php:4334 includes/single-listing-sub-navigation.php:78
+#: admin/ReduxFramework/theme-options/re7-config.php:4356
+msgid "Rental Info"
+msgstr "رینٹل معلومات"
+
+#: admin/theme-functions.php:4336 includes/single-listing-map.php:18
+#: includes/single-listing-sub-navigation.php:135
+#: includes/single-listing-sub-navigation.php:164
+#: admin/ReduxFramework/theme-options/re7-config.php:4445
+msgid "Location"
+msgstr "محل وقوع"
+
+#: admin/theme-functions.php:4438
+msgid "Add to Favorites"
+msgstr "پسندیدہ میں شامل کریں"
+
+#: admin/theme-functions.php:4443
+msgid "Favorite"
+msgstr "پسندیدہ"
+
+#: admin/theme-functions.php:4556
+msgid " Photo"
+msgstr " تصویر"
+
+#: admin/theme-functions.php:4558
+msgid " Photos"
+msgstr " تصاویر"
+
+#: admin/theme-functions.php:4700 admin/theme-functions.php:5605
+#: admin/theme-functions.php:5915 layouts/list.php:84
+msgid "Rooms"
+msgstr "کمرے"
+
+#: admin/theme-functions.php:4702 admin/theme-functions.php:5607
+#: admin/theme-functions.php:5917 layouts/list.php:86
+msgid "Bedrooms"
+msgstr "بیڈروم"
+
+#: admin/theme-functions.php:4706 admin/theme-functions.php:5611
+#: admin/theme-functions.php:5919 includes/sub-listings.php:89
+#: layouts/list.php:90 includes/widgets/ct-widget-agentsotherlistings.php:126
+msgid "Bed"
+msgstr "بستر"
+
+#: admin/theme-functions.php:4722 admin/theme-functions.php:5626
+#: admin/theme-functions.php:5923 layouts/list.php:106
+msgid "Bathrooms"
+msgstr "Advice bureau"
+
+#: admin/theme-functions.php:4726 admin/theme-functions.php:5630
+#: admin/theme-functions.php:5925 layouts/list.php:110
+msgid "Bath"
+msgstr "غسل"
+
+#: admin/theme-functions.php:4777 includes/sub-listings.php:122
+#: includes/widgets/ct-widget-agentsotherlistings.php:159
+msgid "Rating"
+msgstr "درجہ بندی"
+
+#: admin/theme-functions.php:4794 includes/sub-listings.php:139
+#: includes/widgets/ct-widget-agentsotherlistings.php:176
+msgid "Guests"
+msgstr "مہمانوں"
+
+#: admin/theme-functions.php:4809 admin/theme-functions.php:4987
+#: includes/sub-listings.php:154
+#: includes/widgets/ct-widget-agentsotherlistings.php:191
+msgid "Min Stay"
+msgstr "کم از کم رہنے کے"
+
+#: admin/theme-functions.php:4857
+msgid "Price Per"
+msgstr "قیمت فی"
+
+#: admin/theme-functions.php:4895
+msgid "Walk Score&reg;"
+msgstr "واک سکور"
+
+#: admin/theme-functions.php:4954
+msgid "Check In"
+msgstr "میں چیک کریں"
+
+#: admin/theme-functions.php:4965
+msgid "Check Out"
+msgstr "باہر کی جانچ پڑتال کریں"
+
+#: admin/theme-functions.php:4976
+msgid "Max Guests"
+msgstr "زیادہ سے زیادہ مہمانوں"
+
+#: admin/theme-functions.php:5008
+msgid "Extra People"
+msgstr "اضافی لوگ"
+
+#: admin/theme-functions.php:5118
+#, php-format
+msgid "%s ago"
+msgstr "%s پہلے"
+
+#: admin/theme-functions.php:5138
+msgid "Updated on"
+msgstr "پر اپ ڈیٹ"
+
+#: admin/theme-functions.php:5140
+msgid "at"
+msgstr "میں"
+
+#: admin/theme-functions.php:5219
+msgid "Hosted By"
+msgstr "طرف سے کی میزبانی کی"
+
+#: admin/theme-functions.php:5276 admin/theme-functions.php:5293
+msgid "Listing Courtesy of"
+msgstr "لسٹنگ کے سوپیی"
+
+#: admin/theme-functions.php:5278 admin/theme-functions.php:5295
+msgid "Brokered by"
+msgstr "ثالثی کی طرف سے"
+
+#: admin/theme-functions.php:5567
+msgid " Sq Ft"
+msgstr " مربع فیٹ"
+
+#: admin/theme-functions.php:5569
+msgid " m²"
+msgstr " m2"
+
+#: admin/theme-functions.php:5584
+msgid "Acres"
+msgstr "ایکڑ"
+
+#: admin/theme-functions.php:5586
+msgid "Sq Ft"
+msgstr "مربع فیٹ"
+
+#: admin/theme-functions.php:5588
+msgid "m²"
+msgstr "m2"
+
+#: admin/theme-functions.php:5645
+msgid "Village"
+msgstr "گاؤں"
+
+#: admin/theme-functions.php:5647
+msgid "Town"
+msgstr "شہر"
+
+#: admin/theme-functions.php:5664
+msgid "Parish"
+msgstr "پارش"
+
+#: admin/theme-functions.php:5666
+msgid "Region"
+msgstr "خطے"
+
+#: admin/theme-functions.php:5668
+msgid "Province"
+msgstr "ریاست"
+
+#: admin/theme-functions.php:5714
+msgid "School District"
+msgstr "اسکول ڈسٹرکٹ"
+
+#: admin/theme-functions.php:5716
+msgid "Building"
+msgstr "عمارت"
+
+#: admin/theme-functions.php:5718
+msgid "Borough"
+msgstr "برو"
+
+#: admin/theme-functions.php:5720
+msgid "Sector"
+msgstr "شعبے"
+
+#: admin/theme-functions.php:5891
+msgid "All Property Types"
+msgstr "تمام جائیداد کی اقسام"
+
+#: admin/theme-functions.php:5893
+msgid "All Countries"
+msgstr "تمام ممالک"
+
+#: admin/theme-functions.php:5895
+msgid "All Counties"
+msgstr "تمام ممالک"
+
+#: admin/theme-functions.php:5929
+msgid "All Statuses"
+msgstr "تمام کی حیثیت"
+
+#: admin/theme-functions.php:5931
+msgid "All Additional Features"
+msgstr "تمام اضافی خصوصیات"
+
+#: admin/theme-functions.php:5933
+msgid "All Neighborhoods"
+msgstr "تمام محلوں"
+
+#: admin/theme-functions.php:5935
+msgid "All Districts"
+msgstr "تمام اضلاع"
+
+#: admin/theme-functions.php:5937
+msgid "All School Districts"
+msgstr "تمام اسکول کے اضلاع"
+
+#: admin/theme-functions.php:5941
+msgid "All Buildings"
+msgstr "تمام عمارتوں"
+
+#: admin/theme-functions.php:5943
+msgid "All Sectors"
+msgstr "تمام شعبوں"
+
+#: admin/theme-functions.php:5945
+msgid "All Communities"
+msgstr "تمام کمیونٹیز"
+
+#: admin/theme-functions.php:5953
+msgid "Pet Friendly?"
+msgstr "پالتو جانوروں کی دوستانہ?"
+
+#: admin/theme-functions.php:5955
+msgid "Furnished/Unfurnished?"
+msgstr "سماں/غیر آراستہ?"
+
+#: admin/theme-functions.php:6172 includes/single-listing-yelp.php:165
+msgid "You need to setup the Yelp Fusion API."
+msgstr "آپ کی ضرورت ہے سیٹ اپ کرنے کے لئے ، Yelp ولی API."
+
+#: admin/theme-functions.php:6173 includes/single-listing-yelp.php:166
+msgid "Go into Admin > Real Estate 7 Options > What's Nearby? > Create App"
+msgstr ""
+"میں جانے کے منتظم > رئیل اسٹیٹ 7 اختیارات > کیا\\'s قریبی? > اپلی کیشن بنائیں"
+
+#: admin/theme-functions.php:6175
+msgid "You've reached the daily Yelp Fusion API limit."
+msgstr "آپ'وئی پہنچ روزانہ Yelp ولی API کی حد."
+
+#: admin/theme-functions.php:6176
+msgid "Please visit https://www.yelp.com/developers/v3/manage_app"
+msgstr ""
+
+#: admin/theme-functions.php:6178
+msgid "General 502 Error from Yelp Fusion API"
+msgstr "جنرل 502 غلطی سے Yelp ولی API"
+
+#: admin/theme-functions.php:6179 admin/theme-functions.php:6182
+msgid "Please check your server error logs."
+msgstr "براہ مہربانی چیک کریں آپ کے سرور غلطی نوشتہ جات."
+
+#: admin/theme-functions.php:6181
+msgid "General 500 Error from Yelp Fusion API"
+msgstr "جنرل 500 غلطی سے Yelp ولی API"
+
+#: admin/theme-functions.php:6184
+msgid "General Error from Yelp Fusion API"
+msgstr "جنرل غلطی سے Yelp ولی API"
+
+#: admin/theme-functions.php:6267
+msgid " km"
+msgstr " کلومیٹر"
+
+#: admin/theme-functions.php:6269
+msgid " mi"
+msgstr " ایم آئی"
+
+#: admin/theme-functions.php:6284
+msgid "reviews"
+msgstr "جائزہ"
+
+#: admin/theme-functions.php:6357
+msgid "Unfortunately, your API key is over its quota."
+msgstr "بدقسمتی سے, آپ API کلید ہے پر اس کوٹہ."
+
+#: admin/theme-functions.php:6363
+msgid "Unfortunately, there's no results nearby for this listing."
+msgstr "بدقسمتی سے, وہاں's کوئی نتائج قریبی اس لسٹنگ کے لئے."
+
+#: admin/theme-functions.php:6369
+msgid ""
+"Unfortunately, your request was denied, generally because of lack of an "
+"invalid key parameter."
+msgstr ""
+"بدقسمتی سے, آپ کی درخواست سے انکار کیا گیا تھا, عام طور پر کی کمی کی وجہ سے "
+"ایک باطل اہم پیرامیٹر ہے."
+
+#: admin/theme-functions.php:6375
+msgid ""
+"Unfortunately, your request was invalid, generally due to wrong address "
+"information or lat/long coordinates."
+msgstr ""
+"بدقسمتی سے, آپ کی درخواست پر غلط تھا, عام طور پر کی وجہ سے غلط ایڈریس کی "
+"معلومات یا lat/طویل نقاط."
+
+#: admin/theme-functions.php:6381
+msgid ""
+"A server-side error happened trying again may be successful, please "
+"shift+refresh the page."
+msgstr ""
+"ایک سرور سائیڈ کی غلطی سے ہوا کی کوشش کر ایک بار پھر کامیاب ہو سکتا ہے ، "
+"براہ مہربانی شفٹ صفحہ کی تازہ کاری."
+
+#: admin/theme-functions.php:6598
+#, php-format
+msgid "Search Results for: %s"
+msgstr "کے لئے تلاش کے نتائج: %s"
+
+#: admin/theme-functions.php:6604
+#, php-format
+msgid "Author: %s"
+msgstr "مصنف: %s"
+
+#: admin/theme-functions.php:6607
+#, php-format
+msgid "Day: %s"
+msgstr "دن: %s"
+
+#: admin/theme-functions.php:6610
+#, php-format
+msgid "Month: %s"
+msgstr "مہینہ: %s"
+
+#: admin/theme-functions.php:6610
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "ایف Y"
+
+#: admin/theme-functions.php:6613
+#, php-format
+msgid "Year: %s"
+msgstr "سال: %s"
+
+#: admin/theme-functions.php:6613
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: admin/theme-functions.php:6616
+msgid "Archives"
+msgstr "آرکائیو"
+
+#: admin/theme-functions.php:6691
+msgid "Share This"
+msgstr "اس کا اشتراک"
+
+#: admin/theme-functions.php:6694 admin/theme-functions.php:6695
+#: admin/theme-functions.php:6696 includes/post-social.php:16
+#: includes/post-social.php:17 includes/post-social.php:18
+msgid "Check out this great article on"
+msgstr "باہر کی جانچ پڑتال یہ عظیم مضمون پر"
+
+#: admin/theme-functions.php:6735
+msgid "About The Author"
+msgstr "مصنف کے بارے میں"
+
+#: admin/theme-functions.php:6792
+msgid "Related Posts"
+msgstr "متعلقہ خطوط"
+
+#: admin/theme-functions.php:6842
+msgid "<span class=\"meta-nav\">&larr;</span> Older"
+msgstr ""
+
+#: admin/theme-functions.php:6843
+msgid "Newer <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: admin/theme-functions.php:7415
+msgid ""
+"<span class=\"meta-nav\"><i class=\"fa fa-chevron-left\"></i></span> Older "
+"listings"
+msgstr ""
+
+#: admin/theme-functions.php:7416
+msgid ""
+"Newer listings <span class=\"meta-nav\"><i class=\"fa fa-chevron-right\"></i>"
+"</span>"
+msgstr ""
+
+#: admin/theme-functions.php:7438 admin/theme-functions.php:7439
+msgid "%link"
+msgstr "%لنک"
+
+#: admin/theme-functions.php:7759
+msgid "g:i a"
+msgstr "جی:میں نے ایک"
+
+#: admin/theme-functions.php:7762
+#, php-format
+msgid "Minute %1$s"
+msgstr "منٹ %1$s"
+
+#: admin/theme-functions.php:7762
+msgid "i"
+msgstr "میں نے"
+
+#: admin/theme-functions.php:7765
+msgid "g a"
+msgstr "جی ایک"
+
+#: admin/theme-functions.php:7776 admin/theme-functions.php:7782
+#: admin/theme-functions.php:7782 admin/theme-functions.php:7787
+#: admin/theme-functions.php:7787 admin/theme-functions.php:7792
+msgid "Y"
+msgstr "Y"
+
+#: admin/theme-functions.php:7777 admin/theme-functions.php:7788
+msgid "F"
+msgstr "F"
+
+#: admin/theme-functions.php:7778
+msgid "j"
+msgstr "j"
+
+#: admin/theme-functions.php:7783
+#, php-format
+msgid "Week %1$s"
+msgstr "ہفتے %1$s"
+
+#: admin/theme-functions.php:7783
+msgid "W"
+msgstr "W"
+
+#: admin/theme-functions.php:7799
+#, php-format
+msgid "Search results for &quot;%1$s&quot;"
+msgstr "کے لئے تلاش کے نتائج "
+
+#: admin/theme-functions.php:7803
+msgid "404 Not Found"
+msgstr "404 نہیں ملا"
+
+#: includes/advanced-search.php:189 includes/header-advanced-search.php:209
+#: includes/header-advanced-search.php:532
+#: includes/widgets/ct-widget-listingssearch.php:200
+msgid "From"
+msgstr "سے"
+
+#: includes/advanced-search.php:198 includes/header-advanced-search.php:218
+#: includes/header-advanced-search.php:541
+#: includes/widgets/ct-widget-listingssearch.php:209
+msgid "To"
+msgstr "کرنے کے لئے"
+
+#: includes/advanced-search.php:226 includes/advanced-search.php:227
+#: includes/header-advanced-search.php:283
+#: includes/header-advanced-search.php:284
+#: includes/header-advanced-search.php:605
+#: includes/header-advanced-search.php:606
+#: includes/widgets/ct-widget-listingssearch.php:237
+#: includes/widgets/ct-widget-listingssearch.php:238
+msgid "MLS ID"
+msgstr "MLS ID"
+
+#: includes/advanced-search.php:248 includes/header-advanced-search.php:309
+#: includes/header-advanced-search.php:627
+#: includes/header-advanced-search.php:628
+msgid "Keyword"
+msgstr "مطلوبہ الفاظ"
+
+#: includes/advanced-search.php:249 includes/header-advanced-search.php:310
+msgid "Street, City, State, Zip or keyword"
+msgstr "سڑک, شہر, ریاست, زپ یا مطلوبہ الفاظ کی"
+
+#: includes/advanced-search.php:265
+#: includes/widgets/ct-widget-listingssearch.php:275
+msgid "More Search Options"
+msgstr "زیادہ سے زیادہ تلاش کے اختیارات"
+
+#: includes/agent-contact-modal.php:21 includes/single-listing-home.php:269
+#: includes/widgets/ct-widget-listingscontact.php:30
+msgid "Tell me more about this property"
+msgstr "مجھے بتائیں اس کے بارے میں زیادہ جائیداد"
+
+#: includes/featured-listings.php:31 includes/featured-listings.php:33
+msgid "View All"
+msgstr "نقطہ نظر تمام"
+
+#: includes/header-advanced-search.php:192
+#: includes/header-advanced-search.php:515
+msgid "Price range:"
+msgstr "قیمت کی حد:"
+
+#: includes/header-advanced-search.php:194
+#: includes/header-advanced-search.php:230
+#: includes/header-advanced-search.php:267
+#: includes/header-advanced-search.php:517
+#: includes/header-advanced-search.php:553
+#: includes/header-advanced-search.php:589
+#: includes/widgets/ct-widget-listingbooktour.php:198
+msgid "to"
+msgstr "کرنے کے لئے"
+
+#: includes/header-advanced-search.php:228
+#: includes/header-advanced-search.php:551
+msgid "Size range:"
+msgstr "سائز کی حد:"
+
+#: includes/header-advanced-search.php:265
+#: includes/header-advanced-search.php:587
+msgid "Lot size range:"
+msgstr "بہت سائز کی حد:"
+
+#: includes/header-advanced-search.php:312
+#: includes/home-hero-advanced-search.php:22
+msgid "Searching..."
+msgstr "تلاش..."
+
+#: includes/header-advanced-search.php:352
+msgid "Enter a street address or keyword"
+msgstr "درج کریں ایک گلی کا پتہ یا مطلوبہ الفاظ کی"
+
+#: includes/header-advanced-search.php:468
+msgid "Addtional Features"
+msgstr "Addtional خصوصیات"
+
+#: includes/home-hero-advanced-search.php:21
+msgid "Enter Street, City, State, Zip or keyword"
+msgstr "الفاظ درج کریں سٹریٹ, شہر, ریاست, زپ یا مطلوبہ الفاظ کی"
+
+#: includes/home-listings-count.php:32
+msgid "Homes For Sale"
+msgstr "فروخت کے لئے گھروں"
+
+#: includes/home-listings-count.php:84
+msgid "Recently Sold"
+msgstr "حال ہی میں فروخت"
+
+#: includes/home-listings-count.php:110
+msgid "Reduced"
+msgstr "کم"
+
+#: includes/home-listings-count.php:136
+msgid "For Rent"
+msgstr "کرایہ پر لینے کے لئے"
+
+#: includes/home-listings-count.php:162
+msgid "Leased"
+msgstr "لیز پر دیا"
+
+#: includes/home-listings-count.php:214
+msgid "New Additions"
+msgstr "نئے اضافے"
+
+#: includes/home-listings-count.php:240
+msgid "Special Offers"
+msgstr "خصوصی پیشکش"
+
+#: includes/single-listing-attachments.php:20
+#: includes/single-listing-sub-navigation.php:106
+msgid "Attachments"
+msgstr "منسلکات"
+
+#: includes/single-listing-booking-calendar.php:17
+#: includes/single-listing-home.php:155
+msgid "Book this listing"
+msgstr "کتاب کے اس لسٹنگ"
+
+#: includes/single-listing-contact.php:106
+msgid "Agent #"
+msgstr ""
+
+#: includes/single-listing-contact.php:203 includes/single-listing-home.php:265
+msgid "Request More Information"
+msgstr "مزید معلومات کی درخواست کریں"
+
+#: includes/single-listing-contact.php:216
+#: includes/single-listing-lead-media-with-contact.php:140
+msgid "Tell me more about this listing"
+msgstr "مجھے بتائیں اس کے بارے میں زیادہ لسٹنگ"
+
+#: includes/single-listing-contact.php:257 includes/single-listing-home.php:296
+msgid "Co-listing Agent"
+msgstr "کمپنی کی لسٹنگ ایجنٹ"
+
+#: includes/single-listing-ct-idx-pro-info.php:60
+msgid "Overview"
+msgstr "جائزہ"
+
+#: includes/single-listing-ct-idx-pro-info.php:77
+msgid "Sold Date"
+msgstr "فروخت کی تاریخ"
+
+#: includes/single-listing-ct-idx-pro-info.php:99
+msgid "Style"
+msgstr "سٹائل"
+
+#: includes/single-listing-ct-idx-pro-info.php:110
+msgid "Year Built"
+msgstr "سال تعمیر"
+
+#: includes/single-listing-ct-idx-pro-info.php:121
+msgid "Fencing"
+msgstr "نقرئی"
+
+#: includes/single-listing-ct-idx-pro-info.php:132
+msgid "Topography"
+msgstr "تلروپ"
+
+#: includes/single-listing-ct-idx-pro-info.php:143
+msgid "Exterior"
+msgstr "بیرونی"
+
+#: includes/single-listing-ct-idx-pro-info.php:154
+msgid "Parking/Garage"
+msgstr "پارکنگ/گیراج"
+
+#: includes/single-listing-ct-idx-pro-info.php:165
+msgid "Parking/Garage Spaces"
+msgstr "پارکنگ/گیراج رستہ"
+
+#: includes/single-listing-ct-idx-pro-info.php:176
+msgid "Heating"
+msgstr "حرارتی"
+
+#: includes/single-listing-ct-idx-pro-info.php:187
+msgid "Heat Source"
+msgstr "گرمی کے ذریعہ"
+
+#: includes/single-listing-ct-idx-pro-info.php:198
+msgid "Cooling"
+msgstr "کولنگ"
+
+#: includes/single-listing-ct-idx-pro-info.php:209
+msgid "Water"
+msgstr "پانی"
+
+#: includes/single-listing-ct-idx-pro-info.php:220
+msgid "Sewer/Septic"
+msgstr "سیور/سیپٹیک"
+
+#: includes/single-listing-ct-idx-pro-info.php:235
+#: includes/single-listing-sub-navigation.php:87
+msgid "Features"
+msgstr "خصوصیات"
+
+#: includes/single-listing-ct-idx-pro-info.php:241
+msgid "Equipment"
+msgstr "سامان"
+
+#: includes/single-listing-ct-idx-pro-info.php:252
+msgid "Fireplace"
+msgstr "چمنی"
+
+#: includes/single-listing-ct-idx-pro-info.php:263
+msgid "Number of Fireplaces"
+msgstr "کی تعداد Fireplaces"
+
+#: includes/single-listing-ct-idx-pro-info.php:274
+msgid "Pool"
+msgstr "پول"
+
+#: includes/single-listing-ct-idx-pro-info.php:296
+msgid "Security"
+msgstr "سیکورٹی"
+
+#: includes/single-listing-ct-idx-pro-info.php:307
+msgid "Floor Coverings"
+msgstr "فرش"
+
+#: includes/single-listing-ct-idx-pro-info.php:321
+#: includes/single-listing-ct-idx-pro-info.php:327
+msgid "HOA"
+msgstr "ہوآ"
+
+#: includes/single-listing-ct-idx-pro-info.php:338
+msgid "HOA Fee Due"
+msgstr "ہوآ فیس کی وجہ سے"
+
+#: includes/single-listing-ct-idx-pro-info.php:349
+msgid "HOA Includes"
+msgstr "ہوآ شامل ہیں"
+
+#: includes/single-listing-energy-efficiency.php:21
+msgid "Energy Efficiency"
+msgstr "توانائی کی کارکردگی میں اضافہ"
+
+#: includes/single-listing-energy-efficiency.php:26
+msgid "Energy Class"
+msgstr "توانائی کلاس"
+
+#: includes/single-listing-energy-efficiency.php:29
+msgid "Global Energy Performance"
+msgstr "عالمی توانائی کی کارکردگی"
+
+#: includes/single-listing-energy-efficiency.php:32
+msgid "Renewable Energy Performance"
+msgstr "قابل تجدید توانائی کی کارکردگی"
+
+#: includes/single-listing-energy-efficiency.php:35
+msgid "Building Energy Performance"
+msgstr "عمارت توانائی کی کارکردگی"
+
+#: includes/single-listing-google-places.php:23
+#: includes/single-listing-yelp.php:23
+#: admin/ReduxFramework/theme-options/re7-config.php:3719
+msgid "What's Nearby?"
+msgstr "کیا\\'s قریبی?"
+
+#: includes/single-listing-google-places.php:66
+#: includes/single-listing-yelp.php:41
+msgid "Restaurants"
+msgstr "ریستوران"
+
+#: includes/single-listing-google-places.php:75
+#: includes/single-listing-yelp.php:49
+msgid "Coffee Shops"
+msgstr "کافی کی دکانوں"
+
+#: includes/single-listing-google-places.php:84
+#: includes/single-listing-yelp.php:121
+msgid "Stores"
+msgstr "دکانوں"
+
+#: includes/single-listing-google-places.php:93
+#: includes/single-listing-yelp.php:65
+msgid "Education"
+msgstr "تعلیم"
+
+#: includes/single-listing-google-places.php:102
+msgid "Banks"
+msgstr "بینکوں"
+
+#: includes/single-listing-google-places.php:111
+#: includes/single-listing-yelp.php:81
+msgid "Bars"
+msgstr "سلاخوں"
+
+#: includes/single-listing-google-places.php:120
+#: includes/single-listing-yelp.php:89
+msgid "Hospitals"
+msgstr "ہسپتالوں"
+
+#: includes/single-listing-google-places.php:129
+#: includes/single-listing-yelp.php:97
+msgid "Gas Stations"
+msgstr "گیس اسٹیشنوں"
+
+#: includes/single-listing-google-places.php:138
+#: includes/single-listing-yelp.php:105
+msgid "Transit Stations"
+msgstr "ٹرانزٹ اسٹیشن"
+
+#: includes/single-listing-google-places.php:147
+#: includes/single-listing-yelp.php:113
+msgid "Convenience Stores"
+msgstr "سہولت کی دکانوں"
+
+#: includes/single-listing-google-places.php:156
+#: includes/single-listing-yelp.php:129
+msgid "Shopping Malls"
+msgstr "شاپنگ مالز"
+
+#: includes/single-listing-google-places.php:165
+#: includes/single-listing-yelp.php:137
+msgid "Veterinary Care"
+msgstr "ویٹرنری کی دیکھ بھال"
+
+#: includes/single-listing-google-places.php:174
+#: includes/single-listing-yelp.php:145
+msgid "Pet Store"
+msgstr "پالتو جانوروں کی دکان"
+
+#: includes/single-listing-google-places.php:183
+#: includes/single-listing-yelp.php:153
+msgid "Park"
+msgstr "پارک"
+
+#: includes/single-listing-google-places.php:196
+msgid "Google Places/What's Nearby? Error."
+msgstr "گوگل جگہیں/کیا\\'s قریبی? خرابی."
+
+#: includes/single-listing-google-places.php:197
+msgid ""
+"You need to create an API key go into Admin > Real Estate 7 Options > Google "
+"Maps > API Key, then setup the options via Real Estate 7 Options > \"What's "
+"Nearby?\" panel."
+msgstr ""
+"آپ کی ضرورت ہے پیدا کرنے کے لئے ایک API کلید میں جانے کے منتظم > رئیل اسٹیٹ "
+"7 اختیارات > گوگل نقشہ جات > API کلید ، اس کے بعد سیٹ اپ کے اختیارات کے "
+"ذریعے حقیقی اسٹیٹ 7 اختیارات > \"کیا\\'s قریبی?\" پینل."
+
+#: includes/single-listing-header.php:33 includes/single-listing-header.php:76
+#: includes/single-listing-home.php:74
+msgid "Co-listing"
+msgstr "کمپنی کی لسٹنگ"
+
+#: includes/single-listing-home.php:135
+#: includes/single-listing-rental-info.php:47
+msgid "Prices"
+msgstr "کی قیمتوں میں اضافہ"
+
+#: includes/single-listing-home.php:365
+msgid "Share This Listing"
+msgstr "اس کا اشتراک لسٹنگ"
+
+#: includes/single-listing-lead-media-with-contact.php:166
+msgid "Request Information"
+msgstr "درخواست کی معلومات"
+
+#: includes/single-listing-map.php:27
+msgid "Enter your starting address"
+msgstr "الفاظ درج کریں آپ شروع ایڈریس"
+
+#: includes/single-listing-map.php:43
+msgid "get directions"
+msgstr "ھدایات حاصل کریں"
+
+#: includes/single-listing-multi-floorplan.php:21
+msgid "Floor Plans & Pricing"
+msgstr "منزل کی منصوبہ بندی "
+
+#: includes/single-listing-multi-floorplan.php:40
+msgid "Size"
+msgstr "سائز"
+
+#: includes/single-listing-multi-floorplan.php:46
+msgid "Availability"
+msgstr "دستیابی"
+
+#: includes/single-listing-open-house.php:35
+msgid "Time"
+msgstr "وقت"
+
+#: includes/single-listing-open-house.php:38
+#: includes/single-listing-open-house.php:80
+msgid "RSVP"
+msgstr "RSVP"
+
+#: includes/single-listing-propinfo.php:18
+msgid "MLS #"
+msgstr ""
+
+#: includes/single-listing-propinfo.php:20
+msgid "Property ID #"
+msgstr ""
+
+#: includes/single-listing-rental-info.php:25
+msgid "Rental Information"
+msgstr "کرایہ پر لینا کے بارے میں معلومات"
+
+#: includes/single-listing-sub-listings.php:21
+msgid "Other Listings in Neighborhood"
+msgstr "دوسرے کی لسٹنگ میں پڑوس"
+
+#: includes/single-listing-sub-listings.php:23
+msgid "Other Listings in Suburb"
+msgstr "دوسرے کی لسٹنگ کے مضافات میں"
+
+#: includes/single-listing-sub-listings.php:25
+msgid "Other Listings in District"
+msgstr "دوسرے کی لسٹنگ میں ضلع"
+
+#: includes/single-listing-sub-listings.php:27
+msgid "Other Listings in School District"
+msgstr "دوسرے کی لسٹنگ میں اسکول ڈسٹرکٹ"
+
+#: includes/single-listing-sub-listings.php:29
+msgid "Other Listings in Building"
+msgstr "دوسرے کی لسٹنگ کی تعمیر میں"
+
+#: includes/single-listing-sub-listings.php:31
+msgid "Other Listings in Borough"
+msgstr "دوسرے کی لسٹنگ میں برو"
+
+#: includes/single-listing-sub-listings.php:33
+msgid "Other Listings in Community"
+msgstr "دوسرے کی لسٹنگ میں کمیونٹی"
+
+#: includes/single-listing-sub-navigation.php:34
+msgid "Description"
+msgstr "تفصیل"
+
+#: includes/single-listing-sub-navigation.php:61
+msgid "Floor Plans"
+msgstr "منزل کی منصوبہ بندی"
+
+#: includes/single-listing-sub-navigation.php:96
+msgid "Booking"
+msgstr "بکنگ"
+
+#: includes/single-listing-sub-navigation.php:117
+#: includes/single-listing-video.php:16
+msgid "Video"
+msgstr "ویڈیو"
+
+#: includes/single-listing-sub-navigation.php:127
+msgid "Tour"
+msgstr "دورے"
+
+#: includes/single-listing-sub-navigation.php:142
+msgid "Nearby"
+msgstr "قریبی"
+
+#: includes/single-listing-sub-navigation.php:163
+msgid "Listing Features"
+msgstr "لسٹنگ خصوصیات"
+
+#: includes/single-listing-virtual-tour.php:19
+msgid "Virtual Tour"
+msgstr "ورچوئل ٹور"
+
+#: includes/single-listing-yelp.php:22
+msgid "powered by "
+msgstr "کی طرف سے طاقت "
+
+#: includes/single-listing-yelp.php:57
+msgid "Grocery"
+msgstr "گروسری"
+
+#: includes/single-listing-yelp.php:73
+msgid "Bank"
+msgstr "بینک"
+
+#: layouts/blog-grid.php:96 layouts/blog-large.php:96
+msgid "Read More"
+msgstr "مزید پڑھیں"
+
+#: layouts/grid.php:22 layouts/list.php:23
+msgid "This agent currently has no active listings."
+msgstr "یہ ایجنٹ فی الحال کوئی فعال لسٹنگ."
+
+#: layouts/grid.php:24 layouts/list.php:25
+msgid "This brokerage currently has no active listings."
+msgstr "اس بروکریج فی الحال کوئی فعال لسٹنگ."
+
+#: layouts/grid.php:26 layouts/list.php:27
+msgid "No properties were found which match your search criteria"
+msgstr "کوئی خصوصیات میں پایا گیا تھا جو میچ کے آپ کے تلاش کے معیار کے"
+
+#: layouts/saved-search-list.php:57 includes/widgets/ct-widget-tabs.php:214
+msgid "on"
+msgstr "پر"
+
+#: layouts/saved-search-list.php:57
+msgid "On"
+msgstr "پر"
+
+#: layouts/saved-search-list.php:58
+msgid "off"
+msgstr "بند"
+
+#: layouts/saved-search-list.php:58
+msgid "Off"
+msgstr "بند"
+
+#: admin/ct-social/ct-social.php:28
+msgid "CT Social"
+msgstr "CT سماجی"
+
+#: admin/ct-social/ct-social.php:125
+#: includes/widgets/ct-widget-agentinfo.php:106
+#: includes/widgets/ct-widget-agentsotherlistings.php:287
+#: includes/widgets/ct-widget-blogauthor.php:60
+#: includes/widgets/ct-widget-brokerinfo.php:78
+#: includes/widgets/ct-widget-contactinfo.php:140
+#: includes/widgets/ct-widget-latestposts.php:70
+#: includes/widgets/ct-widget-listings.php:130
+#: includes/widgets/ct-widget-listingscontact.php:68
+#: includes/widgets/ct-widget-listingssearch.php:299
+#: includes/widgets/ct-widget-search.php:40
+#: includes/widgets/ct-widget-testimonials.php:62
+msgid "Title:"
+msgstr "عنوان:"
+
+#: admin/ct-social/ct-social.php:129
+msgid "Dribbble:"
+msgstr "Dribbble:"
+
+#: admin/ct-social/ct-social.php:133
+#: includes/widgets/ct-widget-contactinfo.php:176
+msgid "Email:"
+msgstr "ای میل:"
+
+#: admin/ct-social/ct-social.php:137
+#: includes/widgets/ct-widget-contactinfo.php:180
+msgid "Facebook:"
+msgstr "Facebook:"
+
+#: admin/ct-social/ct-social.php:141
+msgid "Flickr:"
+msgstr "فلکر:"
+
+#: admin/ct-social/ct-social.php:145
+msgid "Foursquare:"
+msgstr "فوراسکوائر:"
+
+#: admin/ct-social/ct-social.php:149
+msgid "GitHub:"
+msgstr "GitHub:"
+
+#: admin/ct-social/ct-social.php:153
+#: includes/widgets/ct-widget-contactinfo.php:196
+msgid "Instagram:"
+msgstr "Instagram:"
+
+#: admin/ct-social/ct-social.php:157
+#: includes/widgets/ct-widget-contactinfo.php:188
+msgid "LinkedIn:"
+msgstr "لنکڈ:"
+
+#: admin/ct-social/ct-social.php:161
+msgid "Medium:"
+msgstr "درمیانے درجے کے:"
+
+#: admin/ct-social/ct-social.php:165
+#: includes/widgets/ct-widget-contactinfo.php:192
+msgid "Pinterest:"
+msgstr "Pinterest پر:"
+
+#: admin/ct-social/ct-social.php:169
+msgid "Skype:"
+msgstr "اسکائپ:"
+
+#: admin/ct-social/ct-social.php:173
+#: includes/widgets/ct-widget-contactinfo.php:184
+msgid "Twitter:"
+msgstr "ٹویٹر:"
+
+#: admin/ct-social/ct-social.php:177
+msgid "YouTube:"
+msgstr "یو ٹیوب:"
+
+#: admin/ct-social/ct-social.php:181
+msgid "Links:"
+msgstr "روابط:"
+
+#: admin/getting-started/getting-started.php:91
+#, php-format
+msgid "Getting started with %1$s v%2$s"
+msgstr "کے ساتھ شروع کرنے %1$s v%2$s"
+
+#: admin/getting-started/getting-started.php:93
+#, php-format
+msgid ""
+"Thanks for purchasing %1$s! I truly appreciate the support and the "
+"opportunity to share my work with you. Please visit the tabs below to get "
+"started setting up your theme!"
+msgstr ""
+"خریداری کے لئے شکریہ %1$s! میں واقعی کی تعریف کرتے ہیں کی حمایت اور موقع پر "
+"اشتراک کرنے کے لئے اپنے آپ کے ساتھ کام. براہ مہربانی ملاحظہ کریں ٹیب کے نیچے "
+"حاصل کرنے کے لئے شروع کر دیا کی ترتیب کو اپنے تھیم!"
+
+#: admin/getting-started/getting-started.php:99
+msgid "Start Here"
+msgstr "یہاں شروع"
+
+#: admin/getting-started/getting-started.php:100
+msgid "Plugins"
+msgstr "پلگ ان"
+
+#: admin/getting-started/getting-started.php:101
+msgid "FAQ &amp; Support"
+msgstr "سوالات "
+
+#: admin/getting-started/getting-started.php:102
+msgid "Latest Updates"
+msgstr "تازہ ترین اپ ڈیٹس"
+
+#: admin/getting-started/getting-started.php:110
+#, php-format
+msgid "Installing %s"
+msgstr "نصب %s"
+
+#: admin/getting-started/getting-started.php:116
+#: admin/ReduxFramework/theme-options/re7-config.php:5260
+msgid "Documentation"
+msgstr "دستاویزات"
+
+#: admin/getting-started/getting-started.php:170
+msgid "Required & Recommended Plugins"
+msgstr "کی ضرورت ہے "
+
+#: admin/getting-started/getting-started.php:172
+msgid ""
+"Below is a list of required and recommended plugins to install that will "
+"help you get the most out of WP Pro Real Estate 7. To begin please use the "
+"button below or browse through the list to learn about each one in a little "
+"more detail."
+msgstr ""
+"ذیل میں ایک فہرست کی ضرورت ہے اور سفارش کی پلگ ان نصب کرنے کے لئے میں مدد "
+"ملے گی کہ زیادہ سے زیادہ حاصل کرنے کے WP پرو ریئل اسٹیٹ 7. شروع کرنے کے لئے "
+"بٹن استعمال کریں یا کے ذریعے براؤز کرنے کے لئے کی فہرست کے بارے میں جاننے ہر "
+"ایک میں ایک چھوٹا سا زیادہ تفصیل میں ہے."
+
+#: admin/getting-started/getting-started.php:178
+#: admin/getting-started/getting-started.php:190
+#: admin/plugins/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr "کی ضرورت ہے"
+
+#: admin/getting-started/getting-started.php:178 admin/plugins/register.php:66
+msgid "Redux Framework"
+msgstr "Redux فریم ورک"
+
+#: admin/getting-started/getting-started.php:180
+msgid "Install Redux Framework"
+msgstr "انسٹال Redux فریم ورک"
+
+#: admin/getting-started/getting-started.php:180
+#: admin/getting-started/getting-started.php:192
+#: admin/getting-started/getting-started.php:204
+#: admin/getting-started/getting-started.php:216
+#: admin/getting-started/getting-started.php:228
+#: admin/getting-started/getting-started.php:240
+#: admin/getting-started/getting-started.php:252
+#: admin/getting-started/getting-started.php:264
+#: admin/getting-started/getting-started.php:276
+#: admin/getting-started/getting-started.php:288
+#: admin/getting-started/getting-started.php:300
+#: admin/getting-started/getting-started.php:315
+#: admin/getting-started/getting-started.php:327
+#: admin/getting-started/getting-started.php:339
+#: admin/getting-started/getting-started.php:351
+#: admin/getting-started/getting-started.php:363
+#: admin/getting-started/getting-started.php:375
+#: admin/getting-started/getting-started.php:387
+msgid "Install Now"
+msgstr "اب انسٹال"
+
+#: admin/getting-started/getting-started.php:182
+#: admin/getting-started/getting-started.php:194
+#: admin/getting-started/getting-started.php:206
+#: admin/getting-started/getting-started.php:218
+#: admin/getting-started/getting-started.php:230
+#: admin/getting-started/getting-started.php:242
+#: admin/getting-started/getting-started.php:254
+#: admin/getting-started/getting-started.php:266
+#: admin/getting-started/getting-started.php:278
+#: admin/getting-started/getting-started.php:290
+#: admin/getting-started/getting-started.php:302
+#: admin/getting-started/getting-started.php:317
+#: admin/getting-started/getting-started.php:329
+#: admin/getting-started/getting-started.php:341
+#: admin/getting-started/getting-started.php:353
+#: admin/getting-started/getting-started.php:365
+#: admin/getting-started/getting-started.php:377
+#: admin/getting-started/getting-started.php:389
+msgid "Installed"
+msgstr "نصب"
+
+#: admin/getting-started/getting-started.php:186
+msgid "This plugin is used for the admin options framework."
+msgstr "یہ پلگ ان استعمال کیا جاتا ہے کے لئے منتظم کے اختیارات کے فریم ورک."
+
+#: admin/getting-started/getting-started.php:190 admin/plugins/register.php:72
+msgid "Contempo Real Estate Custom Posts"
+msgstr "Contempo ریل اسٹیٹ کی اپنی مرضی کے خطوط"
+
+#: admin/getting-started/getting-started.php:192
+msgid "Install Contempo Real Estate Custom Posts"
+msgstr "انسٹال Contempo ریل اسٹیٹ کی اپنی مرضی کے خطوط"
+
+#: admin/getting-started/getting-started.php:198
+msgid ""
+"This plugin registers the listings, brokerages & testimonials custom post "
+"types, along with related custom fields & taxonomies, as well as all the "
+"custom Visual Composer modules (if you have the Visual Composer plugin "
+"installed & activated)."
+msgstr "اس پلگ ان کے رجسٹر کی لسٹنگ, brokerages "
+
+#: admin/getting-started/getting-started.php:202
+#: admin/getting-started/getting-started.php:214
+#: admin/getting-started/getting-started.php:226
+#: admin/getting-started/getting-started.php:238
+#: admin/getting-started/getting-started.php:250
+#: admin/getting-started/getting-started.php:262
+#: admin/getting-started/getting-started.php:274
+#: admin/getting-started/getting-started.php:286
+#: admin/getting-started/getting-started.php:298
+#: admin/getting-started/getting-started.php:313
+#: admin/getting-started/getting-started.php:325
+#: admin/getting-started/getting-started.php:337
+#: admin/getting-started/getting-started.php:349
+#: admin/getting-started/getting-started.php:361
+#: admin/getting-started/getting-started.php:373
+#: admin/getting-started/getting-started.php:385
+#: admin/plugins/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr "کی سفارش کی"
+
+#: admin/getting-started/getting-started.php:202 admin/plugins/register.php:132
+msgid "Contempo Membership & Packages"
+msgstr "Contempo رکنیت "
+
+#: admin/getting-started/getting-started.php:204
+msgid "Install Contempo Membership & Packages"
+msgstr "انسٹال Contempo رکنیت "
+
+#: admin/getting-started/getting-started.php:210
+msgid ""
+"This plugin adds the ability to create membership & packages for use with "
+"the front end submission system in WP Pro Real Estate 7, with Stripe, PayPal "
+"& Wire Transfer payment methods."
+msgstr "اس پلگ ان کا اضافہ کرتا ہے تخلیق کرنے کی صلاحیت رکنیت "
+
+#: admin/getting-started/getting-started.php:214 admin/plugins/register.php:176
+msgid "Contempo Saved Searches & Email Alerts"
+msgstr "Contempo محفوظ تلاش "
+
+#: admin/getting-started/getting-started.php:216
+msgid "Install Contempo Saved Searches & Email Alerts"
+msgstr "انسٹال Contempo محفوظ تلاش "
+
+#: admin/getting-started/getting-started.php:222
+msgid "This plugin allows users be alerted via email when a listing is added."
+msgstr ""
+"اس پلگ ان کی اجازت دیتا ہے صارفین کو متنبہ کیا جائے ای میل کے ذریعے جب ایک "
+"لسٹنگ میں شامل ہے."
+
+#: admin/getting-started/getting-started.php:226 admin/plugins/register.php:165
+msgid "Contempo Compare Listings"
+msgstr "Contempo کا آپس میں موازنہ Listings"
+
+#: admin/getting-started/getting-started.php:228
+#: admin/getting-started/getting-started.php:252
+msgid "Install Contempo Compare Listings"
+msgstr "انسٹال Contempo کا آپس میں موازنہ Listings"
+
+#: admin/getting-started/getting-started.php:234
+msgid "This plugin adds compare functionality for listings."
+msgstr ""
+"اس پلگ ان کا اضافہ کرتا ہے کا آپس میں موازنہ اور فعالیت کے لئے کی لسٹنگ."
+
+#: admin/getting-started/getting-started.php:238 admin/plugins/register.php:154
+msgid "Contempo Mortgage Calculator Widget"
+msgstr "Contempo رہن کیلکولیٹر ویجیٹ"
+
+#: admin/getting-started/getting-started.php:240
+msgid "Install Contempo Mortgage Calculator Widget"
+msgstr "انسٹال Contempo رہن کیلکولیٹر ویجیٹ"
+
+#: admin/getting-started/getting-started.php:246
+msgid "This plugin enables a simple mortgage calculator widget."
+msgstr "اس پلگ ان کے قابل بناتا ہے ایک سادہ رہن کیلکولیٹر آپکے پاس وجٹس."
+
+#: admin/getting-started/getting-started.php:250 admin/plugins/register.php:187
+msgid "Contempo Child Theme Generator"
+msgstr "Contempo چائلڈ تھیم جنریٹر"
+
+#: admin/getting-started/getting-started.php:258
+msgid ""
+"This plugin allows admin users to easily generate a child theme from your "
+"Admin > Appearance panel."
+msgstr ""
+"اس پلگ ان کی اجازت دیتا منتظم صارفین کے لئے آسانی پیدا ایک بچے مرکزی خیال ، "
+"موضوع کی طرف سے آپ کے منتظم > ظاہری شکل پینل."
+
+#: admin/getting-started/getting-started.php:262
+msgid "Contempo Payment Gateways"
+msgstr "Contempo ادائیگی کے گیٹ وے"
+
+#: admin/getting-started/getting-started.php:264
+msgid "Install Contempo Payment Gateways"
+msgstr "انسٹال Contempo ادائیگی کے گیٹ وے"
+
+#: admin/getting-started/getting-started.php:270
+msgid ""
+"This plugin enables the PayPal API and only required if you're going to be "
+"charging single listing payments from the front end of the site, if you're "
+"using the Membership & Packages plugin leave this plugin deactivated."
+msgstr ""
+"اس پلگ ان کے قابل بناتا پے پال API اور صرف ضرورت ہے تو آپ'دوبارہ ہونے جا رہا "
+"چارج کر رہا ہے واحد لسٹنگ کی طرف سے ادائیگی کے سامنے اختتام کی ویب سائٹ, اگر "
+"آپ'دوبارہ استعمال کرتے ہوئے کی رکنیت "
+
+#: admin/getting-started/getting-started.php:274 admin/plugins/register.php:198
+msgid "Slider Revolution"
+msgstr "سلائیڈر انقلاب"
+
+#: admin/getting-started/getting-started.php:276
+msgid "Install Slider Revolution"
+msgstr "انسٹال سلائیڈر انقلاب"
+
+#: admin/getting-started/getting-started.php:282
+msgid ""
+"Slider Revolution is an innovative, responsive WordPress Slider Plugin that "
+"displays your content the beautiful way."
+msgstr ""
+"سلائیڈر انقلاب ایک جدید ، ذمہ دار ورڈپریس پلگ ان سلائیڈر دکھاتا ہے کہ آپ کے "
+"مواد کے خوبصورت طریقہ."
+
+#: admin/getting-started/getting-started.php:286
+msgid "Visual Composer"
+msgstr "بصری کمپوزر"
+
+#: admin/getting-started/getting-started.php:288
+msgid "Install Visual Composer"
+msgstr "انسٹال بصری کمپوزر"
+
+#: admin/getting-started/getting-started.php:294
+msgid ""
+"WordPress Page Builder plugin with intuitive drag and drop interface. Build "
+"any page fast and easy. Unlimited layouts for your website."
+msgstr ""
+"ورڈپریس صفحہ بلڈر پلگ ان کے ساتھ بدیہی ڈریگ اور ڈراپ انٹرفیس ہے. کی تعمیر کے "
+"کسی بھی صفحے تیز رفتار اور آسان. لا محدود ترتیب کے لئے ، آپ کی ویب سائٹ."
+
+#: admin/getting-started/getting-started.php:298
+msgid "WPML"
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "WPML"
+msgstr[1] "اس موضوع کی ضرورت مندرجہ ذیل پلگ ان: %1$s."
+
+#: admin/getting-started/getting-started.php:300
+msgid "Install WPML"
+msgstr "انسٹال WPML"
+
+#: admin/getting-started/getting-started.php:308
+#, php-format
+msgid ""
+"<a href=\"%s\" target=\"_blank\">WPML</a> allows running fully multilingual "
+"websites with WordPress, making it easy to translate WordPress pages, posts, "
+"tags, categories and themes."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] "اس موضوع کی سفارش مندرجہ ذیل پلگ ان: %1$s."
+
+#: admin/getting-started/getting-started.php:313
+#: admin/getting-started/getting-started.php:337 admin/plugins/register.php:86
+msgid "WordPress Social Login"
+msgstr "ورڈپریس سماجی لاگ ان"
+
+#: admin/getting-started/getting-started.php:315
+#: admin/getting-started/getting-started.php:327
+msgid "Install WP Favorite Posts"
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] "انسٹال WP پسندیدہ مراسلات"
+msgstr[1] ""
+"مندرجہ ذیل پلگ ان کی ضرورت ہے کرنے کے لئے اپ ڈیٹ کیا جا کرنے کے لئے ان کے "
+"تازہ ترین ورژن کو یقینی بنانے کے لئے زیادہ سے زیادہ مطابقت کے ساتھ اس موضوع: "
+"%1$s."
+
+#: admin/getting-started/getting-started.php:321
+msgid ""
+"This plugin allows users to login/register with their social profiles like "
+"Facebook, Google, Twitter, etc&hellip;"
+msgstr ""
+"اس پلگ ان کی اجازت دیتا ہے صارفین کو لاگ ان/رجسٹر کے ساتھ ان کے سماجی "
+"پروفائلز کی طرح Facebook, گوگل, ٹویٹر, وغیرہ"
+
+#: admin/getting-started/getting-started.php:325 admin/plugins/register.php:121
+#: admin/ReduxFramework/theme-options/re7-config.php:4827
+msgid "WP Favorite Posts"
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "WP پسندیدہ مراسلات"
+msgstr[1] "وہاں دستیاب اپ ڈیٹس کے لئے مندرجہ ذیل پلگ ان: %1$s."
+
+#: admin/getting-started/getting-started.php:333
+msgid ""
+"This plugin allows users to favorite & save listings from the front end of "
+"the site."
+msgstr "اس پلگ ان کی اجازت دیتا ہے صارفین کے لئے پسندیدہ "
+
+#: admin/getting-started/getting-started.php:339
+msgid "Install WordPress Social Login"
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "ورڈپریس انسٹال سماجی لاگ ان"
+msgstr[1] "مندرجہ ذیل پلگ ان کی ضرورت ہے کر رہے ہیں فی الحال غیر فعال: %1$s."
+
+#: admin/getting-started/getting-started.php:345
+msgid ""
+"This plugin allows users to login/register for your site via social networks "
+"like Facebook, Google, Twitter, etc&hellip;"
+msgstr ""
+"اس پلگ ان کی اجازت دیتا ہے صارفین کو لاگ ان/رجسٹر کے لئے ، آپ کی ویب سائٹ کے "
+"ذریعے سوشل نیٹ ورک کی طرح Facebook, گوگل, ٹویٹر, وغیرہ"
+
+#: admin/getting-started/getting-started.php:349 admin/plugins/register.php:92
+msgid "Booking Calendar"
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "بکنگ کیلنڈر"
+msgstr[1] "مندرجہ ذیل کی سفارش کی پلگ ان فی الحال غیر فعال: %1$s."
+
+#: admin/getting-started/getting-started.php:351
+msgid "Install Booking Calendar"
+msgstr "انسٹال بکنگ کیلنڈر"
+
+#: admin/getting-started/getting-started.php:357
+msgid ""
+"This plugin will enable online booking services, however you're free to use "
+"whatever booking plugin you'd like as long as it supports shortcodes."
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+"اس پلگ ان کے قابل بنائے گی آن لائن بکنگ کی خدمات, تاہم آپ'دوبارہ استعمال "
+"کرنے کے لئے جو کچھ بھی بکنگ پلگ ان آپ'd کی طرح ، کے طور پر طویل عرصے کے طور "
+"پر اس کی حمایت کرتا shortcodes."
+msgstr[1] "شروع پلگ ان انسٹال"
+
+#: admin/getting-started/getting-started.php:361 admin/plugins/register.php:98
+msgid "Co-Authors Plus"
+msgstr "شریک مصنفین کے علاوہ"
+
+#: admin/getting-started/getting-started.php:363
+msgid "Install Co-Authors Plus"
+msgid_plural "Begin updating plugins"
+msgstr[0] "تنصیب کے شریک مصنفین کے علاوہ"
+msgstr[1] "شروع پلگ ان کو اپ ڈیٹ"
+
+#: admin/getting-started/getting-started.php:369
+msgid ""
+"This plugin allows you to assign multiple users or agents to listings, "
+"perfect for co-listings."
+msgstr ""
+"اس پلگ ان کی اجازت دیتا ہے آپ کو تفویض کرنے کے لئے ایک سے زیادہ صارفین یا "
+"ایجنٹوں کے لئے کی لسٹنگ کے لئے کامل شریک لسٹنگ."
+
+#: admin/getting-started/getting-started.php:373 admin/plugins/register.php:104
+msgid "Comments Ratings"
+msgid_plural "Begin activating plugins"
+msgstr[0] "تبصرے درجہ بندی"
+msgstr[1] "شروع پلگ ان کو چالو کرنے کے"
+
+#: admin/getting-started/getting-started.php:375
+msgid "Install Comments Ratings"
+msgstr "انسٹال تبصرے درجہ بندی"
+
+#: admin/getting-started/getting-started.php:381
+msgid "This plugin allows you to enable ratings for your listings."
+msgstr ""
+"اس پلگ ان کی اجازت دیتا ہے آپ کو چالو کرنے کے لئے کی درجہ بندی کے لئے آپ کی "
+"لسٹنگ میں."
+
+#: admin/getting-started/getting-started.php:385 admin/plugins/register.php:220
+msgid "Envato Market"
+msgstr "Envato مارکیٹ"
+
+#: admin/getting-started/getting-started.php:387
+msgid "Install Envato Market"
+msgstr "انسٹال Envato مارکیٹ"
+
+#: admin/getting-started/getting-started.php:393
+msgid ""
+"This plugin allows you to easily get theme updates through your WordPress "
+"admin."
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+"اس پلگ ان کی اجازت دیتا ہے آپ کو آسانی سے حاصل تھیم اپ ڈیٹ کے ذریعے اپنے "
+"ورڈپریس ایڈمن."
+msgstr[1] "مندرجہ ذیل پلگ ان کے تھے چالو کامیابی کے ساتھ:"
+
+#: admin/getting-started/getting-started.php:402
+#, php-format
+msgid "Support for %s?"
+msgstr "کی حمایت کے لئے %s?"
+
+#: admin/getting-started/getting-started.php:408
+#, php-format
+msgid ""
+"If you've read through the <a href=\"%1$s\" target=\"_blank\">"
+"documentation</a> and still have questions or are experiencing issues, I'm "
+"happy to help! Simply <a href=\"%2$s\"  target=\"_blank\" title=\"Open a "
+"live chat\">open a live chat</a> or <a href=\"%3$s\" target=\"_blank\">leave "
+"a comment</a> on the item page and I'll personally get back to you, thanks "
+"in advance for your patience."
+msgstr ""
+
+#: admin/getting-started/getting-started.php:411
+#, php-format
+msgid "FAQ for %s?"
+msgstr "سوالات کے لئے %s?"
+
+#: admin/getting-started/getting-started.php:414
+msgid ""
+"The following articles below cover many frequently asked questions that you "
+"may have."
+msgstr ""
+"مندرجہ ذیل مضامین ذیل کا احاطہ بہت سے اکثر پوچھے گئے سوالات آپ کر سکتے ہیں "
+"ہے."
+
+#: admin/getting-started/getting-started.php:460
+msgid "Need Modifications or Customizations?"
+msgstr "کی ضرورت ہے ، ترمیم یا اصلاح?"
+
+#: admin/getting-started/getting-started.php:465
+#, php-format
+msgid ""
+"Send me an email <a href=\"mailto:%s\">chris@contempothemes.com</a>, with a "
+"detailed outline of what you’d like to accomplish and I’ll get you a quote "
+"and turnaround time."
+msgstr ""
+
+#: admin/getting-started/getting-started.php:474
+#, php-format
+msgid ""
+"Please note that support requests will not be answered via email, only "
+"through my <a href=\"%1$s\" target=\"_blank\">live chat</a> or within the <a "
+"href=\"%2$s\" target=\"_blank\">item comments</a>."
+msgstr ""
+
+#: admin/getting-started/getting-started.php:484
+msgid "Hosting Recommendations"
+msgstr "ہوسٹنگ کی سفارشات"
+
+#: admin/getting-started/getting-started.php:498
+#: admin/getting-started/getting-started.php:501
+msgid "Visit the Knowledge Base"
+msgstr "کا دورہ علم کی بنیاد"
+
+#: admin/getting-started/getting-started.php:499
+msgid ""
+"New to the WordPress world? The Knowledge Base has a boat load of articles "
+"to help you with any issues that might arise."
+msgstr ""
+"نئے ورڈپریس ؟ علم کی بنیاد ہے کی ایک کشتی کے بوجھ کے مضامین کے لئے آپ کی مدد "
+"کے ساتھ کسی بھی مسائل پیدا ہو سکتا ہے کہ."
+
+#: admin/getting-started/getting-started.php:501
+msgid "Visit the knowledge base"
+msgstr "کا دورہ علم کی بنیاد"
+
+#: admin/google-places/GooglePlaces.php:149
+#: admin/google-places/GooglePlaces.php:165
+#: admin/google-places/GooglePlaces.php:182
+msgid "Google Places API is currently unavailable."
+msgstr "گوگل جگہیں API ہے فی الحال دستیاب نہیں ہے ۔ "
+
+#: admin/google-places/GooglePlaces.php:151
+msgid ""
+"You must specify a valid listing location, use street address in the listing "
+"title along with city, state & zip/postcode — if not use the optional "
+"latitude & longitude field."
+msgstr ""
+"آپ کی وضاحت لازمی ہے ایک درست لسٹنگ کے محل وقوع, استعمال کی گلی ایڈریس میں "
+"لسٹنگ کے عنوان کے ساتھ ساتھ شہر ، صوبہ "
+
+#: admin/google-places/GooglePlaces.php:167
+#: admin/google-places/GooglePlaces.php:207
+msgid ""
+"You much specify at least one of the following: \"keyword\", \"name\", "
+"\"types\"."
+msgstr ""
+"آپ زیادہ سے زیادہ کی وضاحت میں کم از کم مندرجہ ذیل میں سے ایک: \"مطلوبہ "
+"الفاظ کی\", \"نام\", \"اقسام\"."
+
+#: admin/google-places/GooglePlaces.php:184
+#: admin/google-places/GooglePlaces.php:201
+msgid "You must specify a radius."
+msgstr "آپ کی وضاحت لازمی ہے ایک رداس."
+
+#: admin/google-places/GooglePlaces.php:197
+msgid "You must specify a location before calling radarsearch()."
+msgstr "آپ کی وضاحت لازمی ہے ایک مقام سے پہلے بلا radarsearch()."
+
+#: admin/google-places/GooglePlaces.php:221
+msgid ""
+"You must specify either a \"placeid\" or a \"reference\" (but not both) "
+"before calling details()."
+msgstr ""
+"آپ کی وضاحت لازمی ہے تو ایک \"placeid\" یا ایک \"حوالہ\" (نہیں بلکہ دونوں) "
+"بلا سے پہلے کی تفصیلات()."
+
+#: admin/plugins/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr "انسٹال پلگ ان کی ضرورت ہے"
+
+#: admin/plugins/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr "پلگ ان انسٹال"
+
+#. %s: plugin name.
+#: admin/plugins/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "نصب پلگ ان: %s"
+
+#. %s: plugin name.
+#: admin/plugins/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr "اپ ڈیٹ پلگ ان: %s"
+
+#: admin/plugins/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr "کچھ غلط ہو گیا کے ساتھ پلگ ان API."
+
+#: admin/plugins/class-tgm-plugin-activation.php:341
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgstr "اس موضوع کی ضرورت مندرجہ ذیل پلگ ان: %1$s."
+
+#: admin/plugins/class-tgm-plugin-activation.php:347
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgstr "اس موضوع کی سفارش مندرجہ ذیل پلگ ان: %1$s."
+
+#: admin/plugins/class-tgm-plugin-activation.php:353
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr ""
+"مندرجہ ذیل پلگ ان کی ضرورت ہے کرنے کے لئے اپ ڈیٹ کیا جا کرنے کے لئے اس کے "
+"تازہ ترین ورژن کو یقینی بنانے کے لئے زیادہ سے زیادہ مطابقت کے ساتھ اس موضوع: "
+"%1$s."
+
+#: admin/plugins/class-tgm-plugin-activation.php:359
+#, php-format
+msgid "There is an update available for: %1$s."
+msgstr "وہاں ہے ایک اپ ڈیٹ کے لئے دستیاب ہے: %1$s."
+
+#: admin/plugins/class-tgm-plugin-activation.php:365
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgstr "مندرجہ ذیل پلگ ان کی ضرورت ہے ، فی الحال غیر فعال: %1$s."
+
+#: admin/plugins/class-tgm-plugin-activation.php:371
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgstr "مندرجہ ذیل کی سفارش کی پلگ ان فی الحال غیر فعال: %1$s."
+
+#: admin/plugins/class-tgm-plugin-activation.php:377
+msgid "Begin installing plugin"
+msgstr "شروع پلگ ان انسٹال کرنے کے"
+
+#: admin/plugins/class-tgm-plugin-activation.php:382
+msgid "Begin updating plugin"
+msgstr "شروع پلگ ان کو اپ ڈیٹ"
+
+#: admin/plugins/class-tgm-plugin-activation.php:387
+msgid "Begin activating plugin"
+msgstr "شروع پلگ ان کو چالو کرنے کے"
+
+#: admin/plugins/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr "واپس کرنے کے لئے کی ضرورت پلگ ان انسٹالر"
+
+#: admin/plugins/class-tgm-plugin-activation.php:393
+#: admin/plugins/class-tgm-plugin-activation.php:912
+#: admin/plugins/class-tgm-plugin-activation.php:2618
+#: admin/plugins/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr "واپس کرنے کے لئے ڈیش بورڈ"
+
+#: admin/plugins/class-tgm-plugin-activation.php:394
+#: admin/plugins/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr "پلگ ان چالو کامیابی کے ساتھ."
+
+#: admin/plugins/class-tgm-plugin-activation.php:395
+#: admin/plugins/class-tgm-plugin-activation.php:3037
+msgid "The following plugin was activated successfully:"
+msgstr "مندرجہ ذیل پلگ ان کو کامیابی سے چالو کر دیا گیا تھا:"
+
+#. 1: plugin name.
+#: admin/plugins/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "کوئی ایکشن لیا جاتا ہے ۔ پلگ ان %1$s میں کیا گیا تھا پہلے سے ہی فعال."
+
+#. 1: plugin name.
+#: admin/plugins/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+"پلگ ان کو چالو نہیں. ایک اعلی ورژن %s کی ضرورت ہے اس موضوع کے لئے. براہ "
+"مہربانی اپ ڈیٹ پلگ ان."
+
+#. 1: dashboard link.
+#: admin/plugins/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "تمام پلگ ان انسٹال اور چالو کامیابی کے ساتھ. %1$s"
+
+#: admin/plugins/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+"ہیں میں سے ایک یا اس سے زیادہ کی ضرورت ہے یا سفارش کی پلگ ان نصب کرنے کے لئے,"
+" اپ ڈیٹ یا چالو کرنے کے."
+
+#: admin/plugins/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr "سے رابطہ کریں براہ مہربانی منتظم سے اس سائٹ کی مدد کے لئے."
+
+#: admin/plugins/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+"اس پلگ ان کو اپ ڈیٹ کرنے کی ضرورت ہم آہنگ ہونے کے لئے اپنے تھیم کے ساتھ."
+
+#: admin/plugins/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr "اپ ڈیٹ کی ضرورت ہے"
+
+#: admin/plugins/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+"ریموٹ پلگ ان پیکج پر مشتمل نہیں ہے ایک فولڈر کے ساتھ مطلوبہ slug اور نام "
+"تبدیل کام نہیں کیا."
+
+#: admin/plugins/class-tgm-plugin-activation.php:1019
+#: admin/plugins/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+"براہ مہربانی رابطہ پلگ ان فراہم کرنے والے اور ان سے پوچھیں کرنے کے لئے پیکج "
+"ان کے پلگ ان کے مطابق ورڈپریس ہدایات."
+
+#: admin/plugins/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+"ریموٹ پلگ ان پیکج پر مشتمل کی ایک سے زیادہ فائل ، لیکن فائلیں نہیں ہیں پیک "
+"میں ایک فولڈر."
+
+#: admin/plugins/class-tgm-plugin-activation.php:1206
+#: admin/plugins/class-tgm-plugin-activation.php:3033
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "اور"
+
+#. %s: version number
+#: admin/plugins/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr "ورڈپریس مخزن"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr "بیرونی ماخذ"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr "پری پیکیجڈ"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr "نصب نہیں"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr "نصب نہیں بلکہ چالو"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr "فعال"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr "مطلوبہ اپ ڈیٹ دستیاب نہیں"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr "کی ضرورت ہے کو اپ ڈیٹ"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr "اپ ڈیٹ کی سفارش کی"
+
+#. 1: install status, 2: update status
+#: admin/plugins/class-tgm-plugin-activation.php:2427
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s کو %2$s"
+
+#. 1: number of plugins.
+#: admin/plugins/class-tgm-plugin-activation.php:2473
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#. 1: number of plugins.
+#: admin/plugins/class-tgm-plugin-activation.php:2477
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#. 1: number of plugins.
+#: admin/plugins/class-tgm-plugin-activation.php:2481
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#. 1: number of plugins.
+#: admin/plugins/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2567
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "نامعلوم"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr "نصب ورژن:"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr "کم از کم مطلوبہ ورژن:"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr "دستیاب ورژن:"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr "کوئی پلگ ان انسٹال کرنے کے لئے, اپ ڈیٹ یا چالو کرنے کے."
+
+#: admin/plugins/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr "پلگ ان"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr "ماخذ"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr "ورژن"
+
+#. %2$s: plugin name in screen reader markup
+#: admin/plugins/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr "انسٹال %2$s"
+
+#. %2$s: plugin name in screen reader markup
+#: admin/plugins/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr "اپ ڈیٹ %2$s"
+
+#. %2$s: plugin name in screen reader markup
+#: admin/plugins/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr "چالو %2$s"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr "اپ گریڈ کی طرف سے پیغام پلگ ان مصنف:"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr "انسٹال"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr "چالو"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+"کوئی پلگ ان کو منتخب کیا گیا ہو نصب کیا جاتا ہے. کوئی ایکشن لیا جاتا ہے ۔ "
+
+#: admin/plugins/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+"کوئی پلگ ان منتخب کیا گیا تھا کے لئے اپ ڈیٹ کیا جائے. کوئی ایکشن لیا جاتا ہے "
+"۔ "
+
+#: admin/plugins/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr "کوئی پلگ ان دستیاب ہیں ، نصب کرنے کے لئے اس وقت."
+
+#: admin/plugins/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr "کوئی پلگ ان دستیاب ہیں کے لئے اپ ڈیٹ کیا جائے اس وقت."
+
+#: admin/plugins/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+"کوئی پلگ ان منتخب کیا گیا تھا کے لئے چالو کیا جا سکتا. کوئی ایکشن لیا جاتا "
+"ہے ۔ "
+
+#: admin/plugins/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr "کوئی پلگ ان دستیاب ہیں کرنے کے لئے چالو ہو جائے اس وقت."
+
+#: admin/plugins/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr "پلگ ان چالو کرنے میں ناکام رہے."
+
+#. 1: plugin name, 2: action number 3: total number of actions.
+#: admin/plugins/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "اپ ڈیٹ پلگ ان میں %1$s (%2$d/%3$d)"
+
+#. 1: plugin name, 2: error message.
+#: admin/plugins/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. 1: plugin name.
+#: admin/plugins/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "کی تنصیب %1$s میں ناکام رہے."
+
+#: admin/plugins/class-tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"تنصیب اور ایکٹیویشن کے عمل کو شروع کر رہا ہے. اس عمل میں کچھ وقت لگ سکتا ہے "
+"پر کچھ میزبان ، تو صبر کریں."
+
+#. 1: plugin name.
+#: admin/plugins/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s انسٹال اور چالو کامیابی کے ساتھ."
+
+#: admin/plugins/class-tgm-plugin-activation.php:3594
+#: admin/plugins/class-tgm-plugin-activation.php:3602
+msgid "Show Details"
+msgstr "تفصیلات دکھائیں"
+
+#: admin/plugins/class-tgm-plugin-activation.php:3594
+#: admin/plugins/class-tgm-plugin-activation.php:3602
+msgid "Hide Details"
+msgstr "چھپائیں"
+
+#: admin/plugins/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr "تمام تنصیبات اور activations مکمل ہو گیا ہے."
+
+#. 1: plugin name, 2: action number 3: total number of actions.
+#: admin/plugins/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "نصب کرنے اور پلگ ان کو چالو کرنے %1$s (%2$d/%3$d)"
+
+#: admin/plugins/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"تنصیب کے عمل کو شروع کر رہا ہے. اس عمل میں کچھ وقت لگ سکتا ہے پر کچھ میزبان "
+"، تو صبر کریں."
+
+#. 1: plugin name.
+#: admin/plugins/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s نصب کامیابی کے ساتھ."
+
+#: admin/plugins/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr "تمام تنصیبات ، مکمل ہو گیا ہے."
+
+#. 1: plugin name, 2: action number 3: total number of actions.
+#: admin/plugins/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "پلگ ان انسٹال کرنے کے %1$s (%2$d/%3$d)"
+
+#: admin/plugins/register.php:80
+msgid "Elementor Page Builder"
+msgstr "Elementor صفحہ بلڈر"
+
+#: admin/plugins/register.php:110
+msgid "Contempo Listing Analytics"
+msgstr "Contempo لسٹنگ کے تجزیات"
+
+#: admin/plugins/register.php:143
+msgid "Contempo Real Estate 7 Payment Gateways"
+msgstr "Contempo رئیل اسٹیٹ 7 ادائیگی کے گیٹ وے"
+
+#: admin/plugins/register.php:209
+msgid "WPBakery Page Builder"
+msgstr "WPBakery صفحہ بلڈر"
+
+#: includes/widgets/ct-widget-adspace.php:13
+msgid "CT Adspace Widget"
+msgstr "CT Adspace ویجیٹ"
+
+#: includes/widgets/ct-widget-adspace.php:61
+#: includes/widgets/ct-widget-listingscrolltocontact.php:62
+#: includes/widgets/ct-widget-listingssocial.php:48
+msgid "Title (optional):"
+msgstr "عنوان (اختیاری):"
+
+#: includes/widgets/ct-widget-adspace.php:65
+msgid "Ad Code:"
+msgstr "اشتھاراتی کوڈ:"
+
+#: includes/widgets/ct-widget-adspace.php:70
+msgid "Image Url:"
+msgstr "تصویر کا Url:"
+
+#: includes/widgets/ct-widget-adspace.php:74
+msgid "Link URL:"
+msgstr "لنک URL:"
+
+#: includes/widgets/ct-widget-adspace.php:78
+msgid "Alt text:"
+msgstr "Alt متن:"
+
+#: includes/widgets/ct-widget-agentinfo.php:13
+msgid "CT Agent Info"
+msgstr "CT ایجنٹ معلومات"
+
+#: includes/widgets/ct-widget-agentinfo.php:69
+msgid "Mobile"
+msgstr "موبائل"
+
+#: includes/widgets/ct-widget-agentinfo.php:72
+msgid "Office"
+msgstr "دفتر"
+
+#: includes/widgets/ct-widget-agentinfo.php:75
+msgid "Fax"
+msgstr "فیکس"
+
+#: includes/widgets/ct-widget-agentsotherlistings.php:13
+msgid "CT Agents Other Listings"
+msgstr "CT ایجنٹوں دیگر Listings"
+
+#: includes/widgets/ct-widget-agentsotherlistings.php:291
+#: includes/widgets/ct-widget-flickr.php:55
+#: includes/widgets/ct-widget-latestposts.php:74
+#: includes/widgets/ct-widget-listings.php:134
+#: includes/widgets/ct-widget-testimonials.php:66
+msgid "Number:"
+msgstr "تعداد:"
+
+#: includes/widgets/ct-widget-agentsotherlistings.php:299
+#: includes/widgets/ct-widget-listings.php:142
+msgid "Taxonomy:"
+msgstr "درجہ بندی:"
+
+#: includes/widgets/ct-widget-agentsotherlistings.php:308
+#: includes/widgets/ct-widget-listings.php:151
+msgid "Tag:"
+msgstr "ٹیگ:"
+
+#: includes/widgets/ct-widget-blogauthor.php:13
+msgid "CT Blog Author Info"
+msgstr "سی ٹی کے بلاگ کے مصنف کی معلومات"
+
+#: includes/widgets/ct-widget-blogauthor.php:64
+msgid "Bio:"
+msgstr "تعارف:"
+
+#: includes/widgets/ct-widget-blogauthor.php:68
+msgid "<a href=\"http://www.gravatar.com/\">Gravatar</a> E-mail:"
+msgstr ""
+
+#: includes/widgets/ct-widget-blogauthor.php:72
+msgid "Gravatar Size:"
+msgstr "Gravatar سائز:"
+
+#: includes/widgets/ct-widget-blogauthor.php:76
+msgid "Gravatar Alignment:"
+msgstr "Gravatar سیدھ:"
+
+#: includes/widgets/ct-widget-blogauthor.php:78
+msgid "Left"
+msgstr "بائیں"
+
+#: includes/widgets/ct-widget-blogauthor.php:79
+msgid "Right"
+msgstr "حق"
+
+#: includes/widgets/ct-widget-blogauthor.php:83
+msgid "Read More Text (optional):"
+msgstr "مزید پڑھیں ٹیکسٹ (اختیاری):"
+
+#: includes/widgets/ct-widget-blogauthor.php:87
+msgid "Read More URL (optional):"
+msgstr "مزید پڑھیں یو آر ایل (اختیاری):"
+
+#: includes/widgets/ct-widget-blogauthor.php:91
+msgid "Visible Pages:"
+msgstr "مرئی صفحات:"
+
+#: includes/widgets/ct-widget-blogauthor.php:93
+msgid "All"
+msgstr "تمام"
+
+#: includes/widgets/ct-widget-blogauthor.php:94
+msgid "Home only"
+msgstr "گھر میں صرف"
+
+#: includes/widgets/ct-widget-blogauthor.php:95
+msgid "Single only"
+msgstr "واحد صرف"
+
+#: includes/widgets/ct-widget-brokerinfo.php:13
+msgid "CT Brokers Info"
+msgstr "CT بروکرز معلومات"
+
+#: includes/widgets/ct-widget-brokerinfo.php:54
+msgid "Email Office"
+msgstr "ای میل آفس"
+
+#: includes/widgets/ct-widget-brokerinfo.php:55
+msgid "Visit Brokers Website"
+msgstr "دورہ بروکرز کی ویب سائٹ"
+
+#: includes/widgets/ct-widget-brokerinfo.php:82
+msgid "Logo URL:"
+msgstr "لوگو یو آر ایل:"
+
+#: includes/widgets/ct-widget-brokerinfo.php:86
+msgid "Company:"
+msgstr "کمپنی:"
+
+#: includes/widgets/ct-widget-brokerinfo.php:90
+msgid "Office Phone:"
+msgstr "آفس فون:"
+
+#: includes/widgets/ct-widget-brokerinfo.php:94
+msgid "Office Email:"
+msgstr "دفتر میں ای میل:"
+
+#: includes/widgets/ct-widget-brokerinfo.php:98
+msgid "Website:"
+msgstr "ویب سائٹ:"
+
+#: includes/widgets/ct-widget-contactinfo.php:13
+msgid "CT Contact Info"
+msgstr "CT رابطے کی معلومات"
+
+#: includes/widgets/ct-widget-contactinfo.php:133
+msgid "Show Logo:"
+msgstr "شو کی علامت:"
+
+#: includes/widgets/ct-widget-contactinfo.php:144
+msgid "Blurb:"
+msgstr "Blurb:"
+
+#: includes/widgets/ct-widget-contactinfo.php:148
+msgid "Company Name:"
+msgstr "کمپنی کا نام:"
+
+#: includes/widgets/ct-widget-contactinfo.php:152
+msgid "Street Address:"
+msgstr "گلی کا پتہ:"
+
+#: includes/widgets/ct-widget-contactinfo.php:156
+msgid "City:"
+msgstr "سٹی:"
+
+#: includes/widgets/ct-widget-contactinfo.php:160
+msgid "State:"
+msgstr "صوبہ:"
+
+#: includes/widgets/ct-widget-contactinfo.php:164
+msgid "Postal:"
+msgstr "پوسٹل:"
+
+#: includes/widgets/ct-widget-contactinfo.php:168
+msgid "Country:"
+msgstr "ملک:"
+
+#: includes/widgets/ct-widget-contactinfo.php:172
+msgid "Phone:"
+msgstr "فون:"
+
+#: includes/widgets/ct-widget-flickr.php:13
+msgid "CT Flickr"
+msgstr "CT فلکر"
+
+#: includes/widgets/ct-widget-flickr.php:26
+msgid "Photos on flickr"
+msgstr "فلکر پر تصاویر"
+
+#: includes/widgets/ct-widget-flickr.php:51
+msgid "Flickr ID (<a href=\"http://www.idgettr.com\">idGettr</a>):"
+msgstr ""
+
+#: includes/widgets/ct-widget-flickr.php:65
+msgid "User"
+msgstr "صارف"
+
+#: includes/widgets/ct-widget-flickr.php:66
+msgid "Group"
+msgstr "گروپ"
+
+#: includes/widgets/ct-widget-flickr.php:70
+msgid "Sorting:"
+msgstr "چھانٹ رہا ہے:"
+
+#: includes/widgets/ct-widget-flickr.php:72
+#: includes/widgets/ct-widget-tabs.php:110
+#: includes/widgets/ct-widget-tabs.php:117
+msgid "Latest"
+msgstr "تازہ ترین"
+
+#: includes/widgets/ct-widget-flickr.php:73
+msgid "Random"
+msgstr "بے ترتیب"
+
+#: includes/widgets/ct-widget-flickr.php:77
+msgid "Size:"
+msgstr "سائز:"
+
+#: includes/widgets/ct-widget-flickr.php:79
+msgid "Square"
+msgstr "مربع"
+
+#: includes/widgets/ct-widget-flickr.php:80
+msgid "Medium"
+msgstr "درمیانے درجے کے"
+
+#: includes/widgets/ct-widget-flickr.php:81
+msgid "Thumbnail"
+msgstr "تھمب نیل"
+
+#: includes/widgets/ct-widget-latestposts.php:13
+msgid "CT Latest Posts"
+msgstr "CT تازہ ترین مراسلہ"
+
+#: includes/widgets/ct-widget-listingbooktour.php:13
+msgid "CT Listing Book Showing"
+msgstr "CT لسٹنگ کتاب دکھا"
+
+#: includes/widgets/ct-widget-listingbooktour.php:154
+msgid ""
+"Thanks for booking a showing, we'll get back to confirm with you shortly."
+msgstr ""
+"شکریہ بکنگ کے لئے ایک دکھا ، ہم\\'ll واپس حاصل کرنے کے لئے اس بات کی تصدیق "
+"آپ کے ساتھ جلد ہی."
+
+#: includes/widgets/ct-widget-listingbooktour.php:161
+msgid "Request a Showing"
+msgstr "درخواست دکھا"
+
+#: includes/widgets/ct-widget-listingbooktour.php:171
+msgid "Select Your Time and Day"
+msgstr "منتخب کریں آپ کے وقت اور دن کے"
+
+#: includes/widgets/ct-widget-listingbooktour.php:234
+msgid "Showing Request for "
+msgstr "دکھا درخواست کے لئے "
+
+#: includes/widgets/ct-widget-listingbooktour.php:240
+#: includes/widgets/ct-widget-listingbooktour.php:242
+msgid "Schedule Tour"
+msgstr "شیڈول ٹور"
+
+#: includes/widgets/ct-widget-listingbooktour.php:259
+msgid "No options required for this widget."
+msgstr "کوئی اختیارات کی ضرورت کے لئے یہ آپکے پاس وجٹس."
+
+#: includes/widgets/ct-widget-listings.php:13
+msgid "CT Listings"
+msgstr "CT Listings"
+
+#: includes/widgets/ct-widget-listings.php:155
+msgid "View All Link Text"
+msgstr "تمام کو دیکھنے کے لنک متن"
+
+#: includes/widgets/ct-widget-listings.php:159
+msgid "View All Link URL"
+msgstr "نقطہ نظر تمام یو آر ایل لنک"
+
+#: includes/widgets/ct-widget-listingscontact.php:13
+msgid "CT Listing Agent Contact"
+msgstr "CT لسٹنگ ایجنٹ سے رابطہ کریں"
+
+#: includes/widgets/ct-widget-listingscontact.php:72
+msgid "Subject:"
+msgstr "موضوع:"
+
+#: includes/widgets/ct-widget-listingscrolltocontact.php:13
+msgid "CT Listing Contact ScrollTo"
+msgstr "CT لسٹنگ رابطہ ScrollTo"
+
+#: includes/widgets/ct-widget-listingscrolltocontact.php:66
+msgid "Button One Text:"
+msgstr "بٹن ایک متن:"
+
+#: includes/widgets/ct-widget-listingscrolltocontact.php:70
+msgid "Button Two Text:"
+msgstr "بٹن دو متن:"
+
+#: includes/widgets/ct-widget-listingssearch.php:13
+msgid "CT Listings Search"
+msgstr "CT لسٹنگ کی تلاش"
+
+#: includes/widgets/ct-widget-listingssocial.php:13
+msgid "CT Listings Social"
+msgstr "CT لسٹنگ سماجی"
+
+#: includes/widgets/ct-widget-search.php:13
+msgid "CT Search"
+msgstr "CT تلاش"
+
+#: includes/widgets/ct-widget-tabs.php:13
+msgid "CT Tabs"
+msgstr "CT ٹیبز"
+
+#: includes/widgets/ct-widget-tabs.php:103
+msgid "Number of posts:"
+msgstr "خطوط کی تعداد:"
+
+#: includes/widgets/ct-widget-tabs.php:108
+msgid "First Visible Tab:"
+msgstr "پہلی نظر آتا ٹیب:"
+
+#: includes/widgets/ct-widget-tabs.php:111
+#: includes/widgets/ct-widget-tabs.php:120
+msgid "Comments"
+msgstr "تبصرے"
+
+#: includes/widgets/ct-widget-tabs.php:112
+#: includes/widgets/ct-widget-tabs.php:123
+msgid "Tags"
+msgstr "ٹیگز"
+
+#: includes/widgets/ct-widget-testimonials.php:13
+msgid "CT Testimonials"
+msgstr "CT تعریف"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:245
+#: admin/ReduxFramework/theme-options/re7-config.php:246
+msgid "Real Estate 7 Options"
+msgstr "رئیل اسٹیٹ 7 اختیارات"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:923
+msgid "Theme Information 1"
+msgstr "موضوع کے بارے میں معلومات 1"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:924
+#: admin/ReduxFramework/theme-options/re7-config.php:929
+msgid "<p>This is the tab content, HTML is allowed.</p>"
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:928
+msgid "Theme Information 2"
+msgstr "موضوع کے بارے میں معلومات 2"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:935
+msgid "<p>This is the sidebar content, HTML is allowed.</p>"
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:941
+msgid "General Settings"
+msgstr "جنرل کی ترتیبات"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1010
+#: admin/ReduxFramework/theme-options/re7-config.php:2168
+msgid "Header"
+msgstr "ہیڈر"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1078
+msgid "Custom Logo"
+msgstr "اپنی مرضی کی علامت"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1129
+msgid "Top Bar"
+msgstr "سب سے اوپر بار"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1150
+msgid "Contact Phone"
+msgstr "رابطہ فون"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1170
+#: admin/ReduxFramework/theme-options/re7-config.php:1318
+#: admin/ReduxFramework/theme-options/re7-config.php:1349
+#: admin/ReduxFramework/theme-options/re7-config.php:1380
+msgid "Icon"
+msgstr "آئکن"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1171
+#: admin/ReduxFramework/theme-options/re7-config.php:1319
+#: admin/ReduxFramework/theme-options/re7-config.php:1350
+#: admin/ReduxFramework/theme-options/re7-config.php:1381
+msgid "Select an icon."
+msgstr "ایک آئکن کو منتخب کریں."
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1188
+msgid "Currency Switcher"
+msgstr "کرنسی مبدل"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1196
+msgid "Social Links"
+msgstr "سماجی روابط"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1287
+msgid "Header Info Columns"
+msgstr "ہیڈر کی معلومات کالم"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1295
+msgid "Column One"
+msgstr "کالم ایک"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1326
+msgid "Column Two"
+msgstr "کالم دو"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1357
+msgid "Column Three"
+msgstr "کالم تین"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1389
+msgid "Homepage"
+msgstr "مرکزی صفحہ"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1399
+msgid "Layout Manager"
+msgstr "ترتیب مینیجر"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1440
+msgid "Revolution Slider"
+msgstr "انقلاب سلائیڈر"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1457
+#: admin/ReduxFramework/theme-options/re7-config.php:1864
+msgid "FlexSlider"
+msgstr "FlexSlider"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1483
+msgid "Listing Carousel"
+msgstr "لسٹنگ کے Carousel"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1522
+msgid "Hero w/Search"
+msgstr "ہیرو w/تلاش"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1569
+msgid "Top Padding"
+msgstr "سب سے اوپر پادانگ کے"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1570
+msgid "Set the top padding in percentage."
+msgstr "سیٹ کے اوپر پادانگ میں فی صد."
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1580
+msgid "Bottom Padding"
+msgstr "نیچے بھرتی"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1581
+msgid "Set the bottom padding in percentage."
+msgstr "سیٹ کے نچلے حصے میں بھرتی کی فی صد."
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1592
+msgid "Call To Action"
+msgstr "کارروائی کے لئے کال کریں"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1623
+msgid "Listings Count"
+msgstr "لسٹنگ شمار"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1727
+msgid "Add/Edit Testimonials"
+msgstr "شامل/ترمیم تعریف"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1728
+msgid "Add your testimonials to be displayed on the homepage."
+msgstr "شامل کریں آپ کی تعریف کرنے کے لئے دکھایا جا ہوم پیج پر."
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1730
+msgid "Company or Person"
+msgstr "کمپنی یا شخص"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1731
+msgid "Testimonial Here"
+msgstr "تعریف یہاں"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1732
+#: admin/ReduxFramework/theme-options/re7-config.php:1762
+msgid "Link"
+msgstr "لنک"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1740
+msgid "Partners"
+msgstr "شراکت داروں کے"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1757
+msgid "Add/Edit Partner Logos"
+msgstr "شامل/ترمیم کے ساتھی علامات"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1758
+msgid "Add your partner logos to be displayed on the homepage."
+msgstr "شامل کریں آپ کے ساتھی کی علامات دکھایا جائے کرنے کے لئے سر ورق پر."
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1760
+msgid "Partner Title"
+msgstr "پارٹنر کے عنوان"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1761
+msgid "Description Here (not used)"
+msgstr "تفصیل یہاں (استعمال نہیں کیا جاتا)"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1783
+msgid "Elementor"
+msgstr "Elementor"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1804
+msgid "Page Builder"
+msgstr "صفحہ بلڈر"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1848
+msgid "Four Column Widget Area"
+msgstr "چار کالم ویجیٹ علاقے"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1942
+msgid "Create a Skin"
+msgstr "بنائیں ایک جلد"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1965
+#: admin/ReduxFramework/theme-options/re7-config.php:2179
+#: admin/ReduxFramework/theme-options/re7-config.php:2272
+#: admin/ReduxFramework/theme-options/re7-config.php:2355
+#: admin/ReduxFramework/theme-options/re7-config.php:2444
+#: admin/ReduxFramework/theme-options/re7-config.php:2484
+msgid "NOTE!"
+msgstr "نوٹ!"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1966
+msgid "If this isn't set to Yes NONE of the Styles will be Applied."
+msgstr "اگر اس isn't سیٹ کرنے کے ہاں سے کوئی بھی سٹائل میں لاگو کیا جائے گا."
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1973
+msgid "Typography"
+msgstr "نوع ٹائپ"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1993
+msgid "Body"
+msgstr "جسم"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2012
+msgid "Headings"
+msgstr "عنوانات"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:3681
+msgid ""
+"Walk Score is the only international measure of walkability and the leading "
+"provider of neighborhood maps to the real estate industry. More than 30,000 "
+"websites use the Walk Score Neighborhood Map and we serve over 20 million "
+"scores each day. <a href=\"https://www.walkscore.com/professional/api-sign-"
+"up.php\" target=\"_blank\">Get your API Key</a>!."
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:5394
+msgid ""
+"<p class=\"description\">This is a section created by adding a filter to the "
+"sections array. Can be used by child themes to add/remove sections from the "
+"options.</p>"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"A responsive real estate theme, designed by <a href=\"http://www."
+"contempographicdesign.com\">Contempo</a>."
+msgstr ""
+
+#. URI of the theme
+msgid "http://themeforest.net/user/contempoinc?ref=contempoinc"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://www.contempographicdesign.com"
+msgstr ""

@@ -1,0 +1,48 @@
+<wpml-config>
+  <admin-texts>
+    <key name="ct_options">
+      <key name="ct_contact_phone_header"/>
+      <key name="ct_header_info_one_title"/>
+      <key name="ct_header_info_one_text"/>
+      <key name="ct_header_info_one_icon"/>
+      <key name="ct_header_info_two_title"/>
+      <key name="ct_header_info_two_text"/>
+      <key name="ct_header_info_two_icon"/>
+      <key name="ct_header_info_three_title"/>
+      <key name="ct_header_info_three_text"/>
+      <key name="ct_header_info_three_icon"/>
+      <key name="ct_flex_slider">
+        <key name="*">
+          <key name="title"/>
+          <key name="description"/>
+          <key name="url"/>
+        </key>
+      </key>
+      <key name="ct_hero_search_heading"/>
+      <key name="ct_hero_search_sub_heading"/>
+      <key name="ct_cta"/>
+      <key name="ct_home_featured_title"/>
+      <key name="ct_home_testimonials">
+        <key name="*">
+          <key name="title"/>
+          <key name="description"/>
+          <key name="url"/>
+        </key>
+      </key>
+      <key name="ct_partner_title"/>
+      <key name="ct_partner_logos">
+        <key name="*">
+          <key name="title"/>
+          <key name="description"/>
+          <key name="url"/>
+        </key>
+      </key>
+      <key name="ct_contact_success"/>
+      <key name="ct_contact_map_location"/>
+      <key name="ct_contact_map_location_one"/>
+      <key name="ct_contact_map_location_two"/>
+      <key name="ct_contact_map_location_three"/>
+      <key name="ct_contact_map_location_four"/>
+    </key>
+  </admin-texts>
+</wpml-config>

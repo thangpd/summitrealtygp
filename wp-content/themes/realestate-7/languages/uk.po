@@ -1,0 +1,4695 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-01-04 21:41+0000\n"
+"PO-Revision-Date: 2020-01-04 21:41+0000\n"
+"Last-Translator: \n"
+"Language-Team: Ukrainian\n"
+"Language: uk\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10 >= 2 && "
+"n%10<=4 &&(n%100<10||n%100 >= 20)? 1 : 2);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: comments.php:44
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: includes/featured-listings.php:67 includes/featured-listings.php:76
+#: includes/home-listings-carousel.php:44
+#: includes/home-listings-carousel.php:53 includes/single-listing-home.php:28
+msgid "featured"
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2031
+msgid "H1"
+msgstr "Н1"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2051
+msgid "H2"
+msgstr "Н2"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2071
+msgid "H3"
+msgstr "Н3"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2091
+msgid "H4"
+msgstr "Н4"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2111
+msgid "H5"
+msgstr "Н5"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2131
+msgid "H6"
+msgstr "Н6"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2152
+msgid "Body Background"
+msgstr "Фон Тіла "
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2180
+#: admin/ReduxFramework/theme-options/re7-config.php:2273
+#: admin/ReduxFramework/theme-options/re7-config.php:2356
+#: admin/ReduxFramework/theme-options/re7-config.php:2445
+#: admin/ReduxFramework/theme-options/re7-config.php:2485
+msgid ""
+"You must set Create a Skin > Use Custom Styles > Yes, if this isn't set NONE "
+"of the Styles will be Applied."
+msgstr ""
+"Ви повинні створити скін > використовувати користувальницькі стилі > так, "
+"якщо це isn\\'Т встановити жоден із стилів буде застосовуватися."
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2261
+msgid "Mobile Navigation"
+msgstr "Мобільна Навігація"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2344
+msgid "Secondary Colors"
+msgstr "Вторинні Кольори"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2433
+msgid "Links"
+msgstr "Посилання"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2473
+#: admin/ReduxFramework/theme-options/re7-config.php:5174
+msgid "Footer"
+msgstr "Футер"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2543
+msgid "User Profile Fields"
+msgstr "Полів Профілю Користувача "
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2679
+msgid "Agent Single"
+msgstr "Агент Один"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2742
+msgid "Google Maps"
+msgstr "Карти Google "
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2799
+msgid "Global Options"
+msgstr "Глобальні Опції"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2800
+msgid ""
+"These options apply globally to the homepage, expanded area of header search "
+"and search widget."
+msgstr ""
+"Ці параметри поширюються на домашню сторінку, розширеною областю заголовка "
+"пошук програму пошуку."
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2872
+msgid "Header Search"
+msgstr "Заголовок Пошук"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2957
+msgid "Homepage Search"
+msgstr "Пошук Домашня Сторінка "
+
+#: admin/ReduxFramework/theme-options/re7-config.php:3259
+msgid "Listings Search"
+msgstr "Пошук Пропозицій"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:3369
+msgid "Listing Single"
+msgstr "Лістинг Один"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:3637
+msgid "Listing Stats"
+msgstr "Лістинг Статистика"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:3678
+msgid "Walk Score"
+msgstr "Прогулянка Оцінка"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:3722
+msgid ""
+"Set this up if you'd like to display \"What's Nearby?\" information on your "
+"listings such as restaurants, grocery stores, schools, coffee shops, "
+"etc&hellip;."
+msgstr ""
+"Встановити це, якщо ви\\'D подобається показувати \"що поряд?\" інформацію "
+"про ваших записах, таких як ресторани, продуктові магазини, школи, кафе і т. "
+"д."
+
+#: admin/ReduxFramework/theme-options/re7-config.php:3829
+msgid "Front End Login & Registration"
+msgstr "Передній Кінець Входу "
+
+#: admin/ReduxFramework/theme-options/re7-config.php:3925
+msgid "Front End Submission"
+msgstr "Передній Кінець Подання"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:4138
+msgid "Submit Listing Form"
+msgstr "Уявити Форму "
+
+#: admin/ReduxFramework/theme-options/re7-config.php:4149
+#: admin/ReduxFramework/theme-options/re7-config.php:4238
+#: admin/ReduxFramework/theme-options/re7-config.php:4446
+#: admin/ReduxFramework/theme-options/re7-config.php:4535
+msgid "Select which fields you'd like to be required."
+msgstr "Виберіть поля, які ви\\'D, як потрібно."
+
+#: admin/ReduxFramework/theme-options/re7-config.php:4357
+msgid ""
+"Select which fields you'd like to be required, these are only shown if "
+"enabled via Listings > Listing Single > Enable Vacation Rentals/Booking "
+"Fields."
+msgstr ""
+"Виберіть поля, які ви\\'D подобається знадобитися, вони з'являються тільки "
+"якщо включити через списки > список один > включити оренда/бронювання полів."
+
+#: admin/ReduxFramework/theme-options/re7-config.php:4553
+msgid "PayPal Settings"
+msgstr "Налаштування Системи PayPal "
+
+#: admin/ReduxFramework/theme-options/re7-config.php:4626
+msgid "Stripe Settings"
+msgstr "Параметри Нашивки "
+
+#: admin/ReduxFramework/theme-options/re7-config.php:4664
+msgid "Wire Transfer"
+msgstr "Переклад "
+
+#: admin/ReduxFramework/theme-options/re7-config.php:4733
+msgid "Email Content"
+msgstr "Зміст Електронної Пошти"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:4869
+msgid "Blog Archive"
+msgstr "Архів Блогу "
+
+#: admin/ReduxFramework/theme-options/re7-config.php:4911
+msgid "Single Post"
+msgstr "Один Пост"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:5079
+msgid "Map Addresses"
+msgstr "Адрес Карта"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:5080
+msgid ""
+"Enter the address of your locations to be used in the Google Map, needs to "
+"be entered in this format for each entry: 849 West Harbor Dr. San Diego, CA "
+"92101"
+msgstr ""
+"Введіть адресу вашого місця розташування для використання в Google Карти, "
+"повинен бути введений саме в такому форматі для кожного запису: 849 Західна "
+"гавань доктор Сан-Дієго, Ca 92101"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:5144
+msgid "Custom CSS"
+msgstr "Користувальницькі CSS"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:5159
+msgid "Custom JS"
+msgstr "Користувальницькі JS"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:5240
+msgid "Import/Export"
+msgstr "Імпорт/Експорт"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:5277
+msgid "Changelog"
+msgstr "Чейнджлог"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:5393
+msgid "Section via hook"
+msgstr "Розділ через гак"
+
+#. Name of the theme
+msgid "WP Pro Real Estate 7"
+msgstr "Документ PRO WP нерухомість 7"
+
+#. Author of the theme
+msgid "Chris Robinson"
+msgstr "Кріс Робінсон"
+
+#: 404.php:15
+msgid "Page Not Found"
+msgstr "Сторінка Не Знайдена"
+
+#: 404.php:16
+msgid "Woah there! Looks like you've gotten lost."
+msgstr "Ей там! Схоже, що ви\\'ве отримав втратили."
+
+#: 404.php:17
+msgid "Go back to the homepage"
+msgstr "Повернутися на головну сторінку"
+
+#: archive-brokerage.php:38
+#: admin/ReduxFramework/theme-options/re7-config.php:2711
+msgid "Brokerages"
+msgstr "Брокерські"
+
+#: archive-brokerage.php:52 template-brokerages.php:52
+msgid "Type a brokerage name or address here to filter the list."
+msgstr "Введіть ім'я брокерської або адресу для фільтрації списку."
+
+#: archive-brokerage.php:108 author.php:71 single-brokerage.php:78
+#: single-brokerage.php:280 template-agents.php:251 template-brokerages.php:122
+#: template-favorite-listings.php:111
+msgid "Tell me more about a property"
+msgstr "Розкажіть детальніше про нерухомості"
+
+#: archive-brokerage.php:109 author.php:72 single-brokerage.php:79
+#: single-brokerage.php:281 template-agents.php:252 template-brokerages.php:123
+#: template-favorite-listings.php:112 includes/agent-contact-modal.php:22
+#: includes/single-listing-contact.php:217 includes/single-listing-home.php:270
+#: includes/single-listing-lead-media-with-contact.php:141
+#: includes/widgets/ct-widget-listingscontact.php:31
+msgid "Request a showing"
+msgstr "Офомить заявку"
+
+#: archive-brokerage.php:110 author.php:73 single-brokerage.php:80
+#: single-brokerage.php:282 template-agents.php:253 template-brokerages.php:124
+#: template-favorite-listings.php:113
+msgid "General Questions"
+msgstr "Загальні Питання"
+
+#: archive-brokerage.php:113 author.php:76 single-brokerage.php:83
+#: single-brokerage.php:285 template-agents.php:256 template-brokerages.php:127
+#: template-edit-profile.php:129 template-favorite-listings.php:116
+#: includes/agent-contact-modal.php:25 includes/agent-contact-modal.php:25
+#: includes/agent-contact-modal.php:25 includes/single-listing-contact.php:223
+#: includes/single-listing-home.php:273
+#: includes/single-listing-lead-media-with-contact.php:147
+#: includes/single-listing-multi-floorplan.php:27
+#: includes/widgets/ct-widget-listingscontact.php:34
+#: includes/widgets/ct-widget-listingscontact.php:34
+#: includes/widgets/ct-widget-listingscontact.php:34
+msgid "Name"
+msgstr "Назва"
+
+#: archive-brokerage.php:115 archive-brokerage.php:177 author.php:78
+#: author.php:124 author.php:283 single-brokerage.php:85
+#: single-brokerage.php:135 single-brokerage.php:287 single-brokerage.php:350
+#: template-agents.php:258 template-brokerages.php:129
+#: template-brokerages.php:189 template-favorite-listings.php:118
+#: admin/theme-functions.php:3773 includes/agent-contact-modal.php:27
+#: includes/agent-contact-modal.php:27 includes/agent-contact-modal.php:27
+#: includes/single-listing-contact.php:89
+#: includes/single-listing-contact.php:171
+#: includes/single-listing-contact.php:227
+#: includes/single-listing-contact.php:297 includes/single-listing-home.php:253
+#: includes/single-listing-home.php:275 includes/single-listing-home.php:336
+#: includes/single-listing-lead-media-with-contact.php:151
+#: includes/widgets/ct-widget-agentinfo.php:78
+#: includes/widgets/ct-widget-listingscontact.php:36
+#: includes/widgets/ct-widget-listingscontact.php:36
+#: includes/widgets/ct-widget-listingscontact.php:36
+msgid "Email"
+msgstr "Електронної пошти"
+
+#: archive-brokerage.php:117 author.php:80 single-brokerage.php:87
+#: single-brokerage.php:289 template-agents.php:260 template-brokerages.php:131
+#: template-contact.php:72 template-favorite-listings.php:120
+#: includes/agent-contact-modal.php:29 includes/agent-contact-modal.php:29
+#: includes/agent-contact-modal.php:29 includes/single-listing-contact.php:231
+#: includes/single-listing-home.php:277
+#: includes/single-listing-lead-media-with-contact.php:155
+#: includes/widgets/ct-widget-listingscontact.php:38
+#: includes/widgets/ct-widget-listingscontact.php:38
+#: includes/widgets/ct-widget-listingscontact.php:38
+msgid "Phone"
+msgstr "Телефон"
+
+#: archive-brokerage.php:125 author.php:88 single-brokerage.php:95
+#: single-brokerage.php:297 template-agents.php:268 template-brokerages.php:137
+#: template-contact.php:83 template-contact.php:83
+#: template-favorite-listings.php:127 template-submit-listing.php:804
+#: includes/agent-contact-modal.php:38 includes/single-listing-contact.php:242
+#: includes/single-listing-home.php:285
+#: includes/widgets/ct-widget-listingscontact.php:47
+msgid "Submit"
+msgstr "Уявити"
+
+#: archive-brokerage.php:208 template-brokerages.php:220
+#: template-view-listings.php:211 includes/featured-listings.php:118
+#: includes/single-listing-ct-idx-pro-info.php:285
+#: includes/single-listing-multi-floorplan.php:122 layouts/grid.php:76
+msgid "View"
+msgstr "Вид"
+
+#: archive-brokerage.php:218 template-brokerages.php:230
+msgid "No Brokerages Found."
+msgstr "Немає Брокерські Знайшли."
+
+#: archive.php:77
+msgid "No posts were found which match your search criteria"
+msgstr "Пости не були знайдені, які відповідають вашим критеріям пошуку "
+
+#: archive.php:77 layouts/grid.php:26 layouts/list.php:27
+msgid "Try broadening your search to find more results."
+msgstr "Спробуйте розширити ваш пошук для того, щоб знайти більше результатів."
+
+#: author.php:33 admin/profile-fields.php:81 admin/theme-functions.php:1952
+#: admin/theme-functions.php:3799 includes/single-listing-contact.php:52
+#: includes/single-listing-lead-media-with-contact.php:110 layouts/list.php:149
+msgid "Agent"
+msgstr "Агент"
+
+#: author.php:145 template-edit-listing.php:826 template-submit-listing.php:710
+#: admin/profile-fields.php:211
+msgid "Address"
+msgstr "Адреса"
+
+#: author.php:153
+msgid "Social"
+msgstr "Соціальні"
+
+#: author.php:194 author.php:341
+msgid "Type a listing address or keyword to filter the list."
+msgstr "Введіть лістинг-адреса або ключове слово для фільтрації списку."
+
+#: comments.php:13
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Цей пост захищений паролем. Введіть пароль, щоб переглянути коментарі."
+
+#: comments.php:31
+msgid "No Responses"
+msgstr "Немає Відповідей"
+
+#: comments.php:31
+msgid "1 Comment"
+msgstr "1 коментар"
+
+#: comments.php:31
+msgid "% Comments"
+msgstr "% Коментарі"
+
+#: comments.php:45
+msgid "Newer Comments &rarr;"
+msgstr "Нові Коментарі "
+
+#: comments.php:53
+msgid "Comments are closed, but"
+msgstr "Коментарі закриті, але"
+
+#: comments.php:53
+msgid "Trackback URL for this post"
+msgstr "Трекбек-URL-адреса для цієї посади"
+
+#: comments.php:53
+msgid "trackbacks"
+msgstr "трекбэки"
+
+#: comments.php:53
+msgid "and pingbacks are open."
+msgstr "і пингбэков відкриті."
+
+#: comments.php:59
+msgid "Reviews are closed."
+msgstr "Коментарі закриті."
+
+#: comments.php:61
+msgid "Comments are closed."
+msgstr "Коментарі закриті."
+
+#: footer.php:91
+msgid "All Rights Reserved."
+msgstr "Всі Права Захищені."
+
+#: functions.php:55
+msgid "Getting Started"
+msgstr "Приступаючи До Роботи"
+
+#: header.php:185 header.php:491
+msgid "Hi, "
+msgstr "Привіт, "
+
+#: header.php:204 header.php:510 includes/user-sidebar.php:37
+msgid "Dashboard"
+msgstr "Приладовій панелі"
+
+#: header.php:208 header.php:514 includes/user-sidebar.php:41
+msgid "Favorite Listings"
+msgstr "Улюблені Списки"
+
+#: header.php:211 header.php:517
+msgid "Saved Searches"
+msgstr "Збережені Пошуки"
+
+#: header.php:216 header.php:522 header.php:552 includes/user-sidebar.php:49
+msgid "Submit Listing"
+msgstr "Уявити Лістинг"
+
+#: header.php:219 header.php:525 template-user-dashboard.php:103
+#: includes/user-sidebar.php:52
+msgid "My Listings"
+msgstr "Мої Оголошення"
+
+#. Name of the template
+#: header.php:222 header.php:528 template-user-dashboard.php:83
+#: includes/user-sidebar.php:55
+msgid "Membership"
+msgstr "Членство"
+
+#. Name of the template
+#: header.php:225 header.php:531 includes/user-sidebar.php:58
+msgid "Invoices"
+msgstr "Рахунки-фактури"
+
+#. Name of the template
+#: header.php:228 header.php:534 includes/user-sidebar.php:61
+#: admin/ReduxFramework/theme-options/re7-config.php:3659
+msgid "Listing Analytics"
+msgstr "Лістинг Аналітика"
+
+#: header.php:233 header.php:539 includes/user-sidebar.php:65
+msgid "Account Settings"
+msgstr "Налаштування Облікового Запису "
+
+#: header.php:236 header.php:542 includes/user-sidebar.php:68
+msgid "Logout"
+msgstr "Вихід"
+
+#: header.php:240 header.php:550
+msgid "Login / Register"
+msgstr "Увійдіть / Зареєструйтеся"
+
+#: header.php:240 header.php:550 admin/theme-functions.php:3698
+msgid "Login"
+msgstr "Логін"
+
+#: header.php:781
+msgid "Add \"CT Compare\" Widget via Appearance > Widgets > Compare."
+msgstr ""
+"Додати \"КТ порівнюємо\" віджет через зовнішній вигляд > Віджети > порівняти."
+
+#: page.php:59 single.php:127 template-dsidxpress.php:41
+#: template-edit-listing.php:935 template-submit-listing.php:815
+msgid "Pages:"
+msgstr "Сторінок:"
+
+#: search-listings.php:153 search-listings.php:250
+msgid "listings found"
+msgstr "списки знайшли"
+
+#: search-listings.php:153 search-listings.php:250
+msgid "listing found"
+msgstr "лістинг знайшли"
+
+#: search-listings.php:157 search-listings.php:254
+msgid "Find A Home"
+msgstr "Знайти Будинок"
+
+#: search-listings.php:169 search-listings.php:265 search-listings.php:292
+msgid "Searching:"
+msgstr "Пошук:"
+
+#: search-listings.php:173 search-listings.php:269 search-listings.php:296
+msgid "All listings"
+msgstr "Всі оголошення"
+
+#: search-listings.php:175 admin/theme-functions.php:1172
+msgid "Open Search"
+msgstr "Відкрийте Пошук"
+
+#: search-listings.php:272 search-listings.php:298
+#: admin/theme-functions.php:1169
+msgid "Close Map"
+msgstr "Закрити Карту"
+
+#: search-listings.php:332 search-listings.php:336
+msgid "Save This Search?"
+msgstr "Зберегти Цей Пошук?"
+
+#: search-listings.php:334
+msgid "View Saved"
+msgstr "Перегляд Збережених"
+
+#: single-brokerage.php:39 admin/profile-fields.php:180
+msgid "Brokerage"
+msgstr "Брокерські"
+
+#: single-brokerage.php:162 single-listings.php:38
+#: admin/ReduxFramework/theme-options/re7-config.php:2988
+msgid "Listings"
+msgstr "Оголошення"
+
+#: single-brokerage.php:163
+#: admin/ReduxFramework/theme-options/re7-config.php:2601
+msgid "Agents"
+msgstr "Агентів"
+
+#: single-brokerage.php:164
+msgid "Map"
+msgstr "Карті"
+
+#: single-brokerage.php:166 includes/single-listing-sub-navigation.php:149
+msgid "Reviews"
+msgstr "Коментарі"
+
+#: single-brokerage.php:224
+msgid "Type an agents name or title here to filter the list."
+msgstr "Введіть ім'я агентів або назва тут, щоб відфільтрувати список."
+
+#: single-brokerage.php:368
+msgid "View Listings"
+msgstr "Переглянути Списки"
+
+#: single-brokerage.php:379
+msgid "This brokerage currently has no active agents."
+msgstr "В даний час ця брокерська немає активних агентів."
+
+#: single-brokerage.php:379 layouts/grid.php:22 layouts/grid.php:24
+#: layouts/list.php:23 layouts/list.php:25
+msgid "Check back soon."
+msgstr "Перевірте пізніше."
+
+#: single-brokerage.php:401 includes/single-listing-reviews.php:19
+msgid "No Reviews"
+msgstr "Немає Коментарів"
+
+#: single-brokerage.php:401 includes/single-listing-reviews.php:19
+msgid "1 Review"
+msgstr "1 коментар"
+
+#: single-brokerage.php:401 includes/single-listing-reviews.php:19
+msgid "% Reviews"
+msgstr "% Коментарі"
+
+#: single-listings.php:44 admin/theme-functions.php:6596
+#: admin/theme-functions.php:7601
+msgid "Home"
+msgstr "Вдома"
+
+#: single-listings.php:71 single-listings.php:77 single-listings.php:83
+#: single-listings.php:104 single-listings.php:105 single-listings.php:106
+#: includes/single-listing-home.php:367 includes/single-listing-home.php:368
+#: includes/single-listing-home.php:369
+#: includes/widgets/ct-widget-listingssocial.php:29
+#: includes/widgets/ct-widget-listingssocial.php:30
+#: includes/widgets/ct-widget-listingssocial.php:31
+msgid "Check out this great listing on"
+msgstr "Перевірити це велике лістинг на"
+
+#: single-listings.php:108 admin/theme-functions.php:1173
+#: includes/agent-contact-modal.php:16
+msgid "Close"
+msgstr "Поруч"
+
+#: single-listings.php:212 template-edit-listing.php:394
+#: template-edit-profile.php:57 template-listing-analytics.php:62
+#: template-listing-email-alerts.php:69 template-membership.php:60
+#: template-submit-listing.php:354 template-user-dashboard.php:59
+#: template-view-invoices.php:60 template-view-listings.php:62
+msgid "You must be logged in to view this page."
+msgstr "Ви повинні увійти в систему для перегляду цієї сторінки."
+
+#: single.php:79 includes/post-author-info.php:15 layouts/blog-grid.php:54
+#: layouts/blog-large.php:54
+msgid "By"
+msgstr "За"
+
+#: single.php:79 layouts/blog-grid.php:54 layouts/blog-large.php:54
+msgid "in"
+msgstr "в"
+
+#: single.php:79 layouts/blog-grid.php:54 layouts/blog-large.php:54
+msgid "with"
+msgstr "з"
+
+#. Name of the template
+#: admin/ReduxFramework/theme-options/re7-config.php:2789
+msgid "Advanced Search"
+msgstr "Розширений Пошук"
+
+#: template-advanced-search.php:62 template-edit-listing.php:419
+#: template-submit-listing.php:417 admin/theme-functions.php:4925
+#: includes/advanced-search.php:35 includes/header-advanced-search.php:60
+#: includes/header-advanced-search.php:390
+#: admin/plugins/class-tgm-plugin-activation.php:2634
+#: includes/widgets/ct-widget-listingssearch.php:46
+msgid "Type"
+msgstr "Тип"
+
+#: template-advanced-search.php:67 admin/profile-fields.php:217
+#: admin/theme-functions.php:5649 includes/advanced-search.php:44
+#: includes/header-advanced-search.php:69
+#: includes/header-advanced-search.php:400
+#: includes/widgets/ct-widget-listingssearch.php:55
+msgid "City"
+msgstr "Місто"
+
+#: template-advanced-search.php:77 admin/theme-functions.php:5571
+#: admin/theme-functions.php:5590 admin/theme-functions.php:5672
+#: includes/advanced-search.php:58
+#: includes/widgets/ct-widget-listingssearch.php:69
+msgid "Area"
+msgstr "Площа"
+
+#: template-advanced-search.php:79 admin/theme-functions.php:5670
+#: admin/theme-functions.php:5710 includes/advanced-search.php:60
+#: includes/widgets/ct-widget-listingssearch.php:71
+msgid "Suburb"
+msgstr "Передмістя"
+
+#: template-advanced-search.php:81 admin/theme-functions.php:5674
+#: includes/advanced-search.php:62
+#: includes/widgets/ct-widget-listingssearch.php:73
+msgid "State"
+msgstr "Держава"
+
+#: template-advanced-search.php:92 admin/theme-functions.php:5691
+#: includes/advanced-search.php:77
+#: includes/widgets/ct-widget-listingssearch.php:88
+msgid "Postcode"
+msgstr "Поштовий індекс"
+
+#: template-advanced-search.php:94 admin/theme-functions.php:5693
+#: includes/advanced-search.php:79
+#: includes/widgets/ct-widget-listingssearch.php:90
+msgid "Zipcode"
+msgstr "Поштовий індекс"
+
+#: template-advanced-search.php:100 template-edit-listing.php:852
+#: template-submit-listing.php:736 includes/advanced-search.php:89
+#: includes/header-advanced-search.php:99
+#: includes/header-advanced-search.php:428
+#: includes/widgets/ct-widget-listingssearch.php:100
+msgid "Country"
+msgstr "Країна"
+
+#: template-advanced-search.php:105 admin/theme-functions.php:4704
+#: admin/theme-functions.php:5609 admin/theme-functions.php:5921
+#: includes/advanced-search.php:116 includes/header-advanced-search.php:127
+#: includes/header-advanced-search.php:438
+#: includes/single-listing-multi-floorplan.php:33 layouts/list.php:88
+#: includes/widgets/ct-widget-listingssearch.php:127
+msgid "Beds"
+msgstr "Ліжка"
+
+#: template-advanced-search.php:110 admin/theme-functions.php:4724
+#: admin/theme-functions.php:5628 admin/theme-functions.php:5927
+#: includes/advanced-search.php:125 includes/header-advanced-search.php:136
+#: includes/header-advanced-search.php:448
+#: includes/single-listing-multi-floorplan.php:36 includes/sub-listings.php:103
+#: layouts/list.php:108 includes/widgets/ct-widget-agentsotherlistings.php:140
+#: includes/widgets/ct-widget-listingssearch.php:136
+msgid "Baths"
+msgstr "Лазні"
+
+#: template-advanced-search.php:115 template-edit-listing.php:434
+#: template-submit-listing.php:422 template-view-invoices.php:95
+#: includes/advanced-search.php:134 includes/header-advanced-search.php:145
+#: includes/header-advanced-search.php:458
+#: includes/single-listing-ct-idx-pro-info.php:66
+#: admin/plugins/class-tgm-plugin-activation.php:2639
+#: includes/widgets/ct-widget-listingssearch.php:145
+msgid "Status"
+msgstr "Статус"
+
+#: template-advanced-search.php:125 admin/theme-functions.php:5708
+#: includes/advanced-search.php:157 includes/header-advanced-search.php:159
+#: includes/header-advanced-search.php:482
+#: includes/single-listing-ct-idx-pro-info.php:88
+#: includes/widgets/ct-widget-listingssearch.php:168
+msgid "Neighborhood"
+msgstr "Район"
+
+#: template-advanced-search.php:127 admin/theme-functions.php:5712
+#: includes/advanced-search.php:159 includes/header-advanced-search.php:161
+#: includes/header-advanced-search.php:484
+#: includes/widgets/ct-widget-listingssearch.php:170
+msgid "District"
+msgstr "Район"
+
+#: template-advanced-search.php:129 admin/theme-functions.php:5722
+#: includes/advanced-search.php:107 includes/advanced-search.php:161
+#: includes/header-advanced-search.php:118
+#: includes/header-advanced-search.php:163
+#: includes/header-advanced-search.php:486
+#: includes/widgets/ct-widget-listingssearch.php:118
+#: includes/widgets/ct-widget-listingssearch.php:172
+msgid "Community"
+msgstr "Спільнота"
+
+#: template-advanced-search.php:135 template-advanced-search.php:136
+#: includes/advanced-search.php:171 includes/advanced-search.php:172
+#: includes/header-advanced-search.php:173
+#: includes/header-advanced-search.php:174
+#: includes/header-advanced-search.php:496
+#: includes/header-advanced-search.php:497
+#: includes/widgets/ct-widget-listingssearch.php:182
+#: includes/widgets/ct-widget-listingssearch.php:183
+msgid "Price From"
+msgstr "Ціна Від"
+
+#: template-advanced-search.php:140 template-advanced-search.php:141
+#: includes/advanced-search.php:180 includes/advanced-search.php:181
+#: includes/header-advanced-search.php:182
+#: includes/header-advanced-search.php:183
+#: includes/header-advanced-search.php:505
+#: includes/header-advanced-search.php:506
+#: includes/widgets/ct-widget-listingssearch.php:191
+#: includes/widgets/ct-widget-listingssearch.php:192
+msgid "Price To"
+msgstr "Ціна"
+
+#: template-advanced-search.php:145 template-advanced-search.php:146
+#: includes/advanced-search.php:190 includes/header-advanced-search.php:210
+#: includes/header-advanced-search.php:533
+#: includes/widgets/ct-widget-listingssearch.php:201
+msgid "Size From"
+msgstr "Розмір Від"
+
+#: template-advanced-search.php:150 template-advanced-search.php:151
+#: includes/advanced-search.php:199 includes/header-advanced-search.php:219
+#: includes/header-advanced-search.php:542
+#: includes/widgets/ct-widget-listingssearch.php:210
+msgid "Size To"
+msgstr "Розмір"
+
+#: template-advanced-search.php:155 template-advanced-search.php:156
+#: includes/advanced-search.php:207 includes/advanced-search.php:208
+#: includes/header-advanced-search.php:245
+#: includes/header-advanced-search.php:246
+#: includes/header-advanced-search.php:568
+#: includes/header-advanced-search.php:569
+#: includes/widgets/ct-widget-listingssearch.php:218
+#: includes/widgets/ct-widget-listingssearch.php:219
+msgid "Lot Size From"
+msgstr "Розмір Лота Від"
+
+#: template-advanced-search.php:160 template-advanced-search.php:161
+#: includes/advanced-search.php:216 includes/advanced-search.php:217
+#: includes/header-advanced-search.php:254
+#: includes/header-advanced-search.php:255
+#: includes/header-advanced-search.php:577
+#: includes/header-advanced-search.php:578
+#: includes/widgets/ct-widget-listingssearch.php:227
+#: includes/widgets/ct-widget-listingssearch.php:228
+msgid "Lot Size To"
+msgstr "Розмір Лота"
+
+#: template-advanced-search.php:165 template-advanced-search.php:166
+#: template-edit-listing.php:708 template-submit-listing.php:591
+#: includes/advanced-search.php:229 includes/advanced-search.php:230
+#: includes/header-advanced-search.php:286
+#: includes/header-advanced-search.php:287
+#: includes/header-advanced-search.php:608
+#: includes/header-advanced-search.php:609
+#: includes/widgets/ct-widget-listingssearch.php:240
+#: includes/widgets/ct-widget-listingssearch.php:241
+msgid "Property ID"
+msgstr "Ідентифікатор власність "
+
+#: template-advanced-search.php:175 template-advanced-search.php:176
+#: includes/advanced-search.php:239 includes/advanced-search.php:240
+#: includes/header-advanced-search.php:296
+#: includes/header-advanced-search.php:297
+#: includes/header-advanced-search.php:618
+#: includes/header-advanced-search.php:619
+#: includes/widgets/ct-widget-listingssearch.php:250
+#: includes/widgets/ct-widget-listingssearch.php:251
+msgid "Number of Guests"
+msgstr "Кількість гостей"
+
+#: template-advanced-search.php:181 includes/advanced-search.php:143
+#: includes/widgets/ct-widget-listingssearch.php:154
+msgid "Additional Features"
+msgstr "Додаткові Можливості"
+
+#: template-advanced-search.php:187 includes/advanced-search.php:262
+#: includes/header-advanced-search.php:334
+#: includes/header-advanced-search.php:368
+#: includes/home-hero-advanced-search.php:38
+#: includes/widgets/ct-widget-listingssearch.php:271
+msgid "Search"
+msgstr "Пошук"
+
+#: template-agents.php:122 template-agents.php:147
+msgid ""
+"Type an agents name, title, business, phone or lic # here to filter the list."
+msgstr ""
+
+#: template-agents.php:369
+msgid "View Profile"
+msgstr "Переглянути Профіль"
+
+#: template-agents.php:403
+msgid "No Agents Found."
+msgstr "Агенти Не Знайшли."
+
+#. Name of the template
+msgid "Big Map"
+msgstr "Велика Карта"
+
+#. Name of the template
+#: admin/theme-functions.php:4479
+msgid "Compare"
+msgstr "Порівняти"
+
+#. Name of the template
+msgid "Contact No Form"
+msgstr "Форма Контакту Немає"
+
+#: includes/single-listing-sub-navigation.php:169
+#: admin/ReduxFramework/theme-options/re7-config.php:5019
+msgid "Contact"
+msgstr "Контакти"
+
+#: template-contact.php:64
+msgid "Name*"
+msgstr "Ім'я*"
+
+#: template-contact.php:68
+msgid "Email*"
+msgstr "Електронна пошта*"
+
+#: template-contact.php:75
+msgid "Subject*"
+msgstr "Предмет*"
+
+#: template-contact.php:77
+msgid "Message"
+msgstr "Повідомлення"
+
+#. Name of the template
+msgid "Demo Home Listings Slider"
+msgstr "Демо-Домашні Оголошення Слайдера"
+
+#. Name of the template
+msgid "Demo Home Map"
+msgstr "Демо-Будинок На Мапі"
+
+#. Name of the template
+msgid "Demo Home Video"
+msgstr "Демо-Домашнє Відео"
+
+#. Name of the template
+msgid "dsIDXpress"
+msgstr "геолокаціі"
+
+#. Name of the template
+msgid "Edit Listing"
+msgstr "Редагувати Лістинг"
+
+#: template-edit-listing.php:407 template-submit-listing.php:405
+msgid "Street Address"
+msgstr "Адреса"
+
+#: template-edit-listing.php:412 template-submit-listing.php:410
+msgid "Alternate Title"
+msgstr "Альтернативне Назва"
+
+#: template-edit-listing.php:413 template-submit-listing.php:411
+msgid "(e.g. Downtown Penthouse)"
+msgstr "(наприклад, в центрі міста пентхаус)"
+
+#: template-edit-listing.php:425 template-edit-listing.php:440
+#: admin/theme-functions.php:6083 admin/theme-functions.php:6111
+msgid "Any"
+msgstr "Будь"
+
+#: template-edit-listing.php:449 template-submit-listing.php:427
+#: template-view-listings.php:179 admin/theme-functions.php:5417
+#: includes/home-listings-count.php:188
+msgid "Featured"
+msgstr "Представлений"
+
+#: template-edit-listing.php:463 template-submit-listing.php:437
+#: includes/single-listing-multi-floorplan.php:43
+msgid "Price"
+msgstr "Ціна"
+
+#: template-edit-listing.php:468 template-submit-listing.php:442
+msgid "Price Prefix"
+msgstr "Префікс Ціна "
+
+#: template-edit-listing.php:469 template-submit-listing.php:443
+msgid " (e.g. From, Call for price)"
+msgstr " (наприклад, заклик до ціни)"
+
+#: template-edit-listing.php:473 template-submit-listing.php:447
+msgid "Price Postfix Text"
+msgstr "Ціна Тексту Постфікс "
+
+#: template-edit-listing.php:474 template-submit-listing.php:448
+msgid " (e.g. /month, /week)"
+msgstr " (наприклад, /місяць, /місяць)"
+
+#: template-edit-listing.php:479 template-submit-listing.php:453
+msgid "Listing Description"
+msgstr "Лістинг Опис"
+
+#: template-edit-listing.php:496 template-submit-listing.php:467
+msgid "Listing Featured Image"
+msgstr "Лістинг Рекомендовані Зображення"
+
+#: template-edit-listing.php:505 template-submit-listing.php:479
+#: admin/ReduxFramework/theme-options/re7-config.php:3239
+msgid "Listing Images"
+msgstr "Лістинг Зображень"
+
+#: template-edit-listing.php:582 template-submit-listing.php:489
+msgid "Drag & Drop Images Here"
+msgstr "Перетягніть "
+
+#: template-edit-listing.php:585 template-submit-listing.php:492
+msgid "or"
+msgstr "або"
+
+#: template-edit-listing.php:588 template-submit-listing.php:495
+msgid "Select Images"
+msgstr "Виберіть Зображення"
+
+#: template-edit-listing.php:592
+msgid ""
+"*At least one image is required for valid submission, minimum width of 817px."
+msgstr ""
+"*Принаймні одне зображення, необхідний для подання, мінімальна ширина 817px."
+
+#: template-edit-listing.php:593 template-submit-listing.php:500
+msgid ""
+"*You can mark an image as featured by clicking the star icon, Otherwise "
+"first image will be considered featured image."
+msgstr ""
+"*Ви можете позначити зображення як обрані, натиснувши на значок зірочки, в "
+"іншому випадку перші зображення будуть розглянуті популярні зображення."
+
+#: template-edit-listing.php:605 template-submit-listing.php:510
+msgid "Files & Documents"
+msgstr "Файли "
+
+#: template-edit-listing.php:629 template-submit-listing.php:522
+msgid "*Supported file types are PDF, Word, Excel & PowerPoint."
+msgstr "*Підтримувані типи файлів PDF, Word і Excel "
+
+#: template-edit-listing.php:693 template-submit-listing.php:576
+#: admin/theme-functions.php:4872 includes/header-advanced-search.php:264
+#: includes/sub-listings.php:195
+#: includes/widgets/ct-widget-agentsotherlistings.php:232
+msgid "Lot Size"
+msgstr "Розмір Лота"
+
+#: template-edit-listing.php:698 template-submit-listing.php:581
+#: admin/theme-functions.php:4743
+msgid "Pets"
+msgstr "Домашні тварини"
+
+#: template-edit-listing.php:703 template-submit-listing.php:586
+#: admin/theme-functions.php:4758
+msgid "Parking"
+msgstr "Парковка"
+
+#: template-edit-listing.php:713 template-submit-listing.php:596
+msgid "Video URL"
+msgstr "Посилання на відео"
+
+#: template-edit-listing.php:720
+msgid "Vitrual Tour URL"
+msgstr "Vitrual тур URL-адресу"
+
+#: template-edit-listing.php:728 template-submit-listing.php:611
+#: admin/theme-functions.php:5190 includes/single-listing-open-house.php:26
+#: includes/single-listing-sub-navigation.php:51
+msgid "Open House"
+msgstr "День Відкритих Дверей"
+
+#: template-edit-listing.php:731 template-submit-listing.php:614
+#: includes/single-listing-open-house.php:32
+msgid "Date"
+msgstr "Дата"
+
+#: template-edit-listing.php:736 template-submit-listing.php:619
+msgid "Start Time"
+msgstr "Час Початку"
+
+#: template-edit-listing.php:741 template-submit-listing.php:624
+msgid "End Time"
+msgstr "Час Закінчення"
+
+#: template-edit-listing.php:751 template-submit-listing.php:642
+msgid "Additional Features (comma separated)"
+msgstr "Додаткові функції (через кому)"
+
+#: template-edit-listing.php:766 template-submit-listing.php:657
+msgid "Max-number of Guests"
+msgstr "Максимальна кількість осіб"
+
+#: template-edit-listing.php:771 template-submit-listing.php:662
+msgid "Minimum Stay"
+msgstr "Мінімальний Термін Перебування"
+
+#: template-edit-listing.php:778 template-submit-listing.php:669
+msgid "Check In Time"
+msgstr "Час Заїзду"
+
+#: template-edit-listing.php:783 template-submit-listing.php:674
+msgid "Check Out Time"
+msgstr "Час Виїзду"
+
+#: template-edit-listing.php:790 template-submit-listing.php:681
+msgid "Extra Person Charge"
+msgstr "Плата За Додаткового Гостя"
+
+#: template-edit-listing.php:795 template-submit-listing.php:686
+#: admin/theme-functions.php:5019
+msgid "Cleaning Fee"
+msgstr "Прибирання"
+
+#: template-edit-listing.php:802 template-submit-listing.php:693
+#: admin/theme-functions.php:5030
+msgid "Cancellation Fee"
+msgstr "Плата За Скасування Бронювання "
+
+#: template-edit-listing.php:807 template-submit-listing.php:698
+#: admin/theme-functions.php:5041
+msgid "Security Deposit"
+msgstr "Запорука "
+
+#: template-edit-listing.php:827 template-submit-listing.php:711
+msgid "Type in an address"
+msgstr "Введіть адресу"
+
+#: template-edit-listing.php:847 template-submit-listing.php:731
+#: includes/advanced-search.php:98 includes/header-advanced-search.php:109
+#: includes/widgets/ct-widget-listingssearch.php:109
+msgid "County"
+msgstr "Округ"
+
+#: template-edit-listing.php:862 template-submit-listing.php:746
+msgid "Latitude & Longitude (optional)"
+msgstr "Широта "
+
+#: template-edit-listing.php:871 template-submit-listing.php:755
+msgid ""
+"You can also manually drag the marker to the exact location of your listing "
+"if the automatic geolocation is off."
+msgstr ""
+"Ви також можете вручну перетягнути маркер на точне місце розташування вашого "
+"списку, якщо автоматична геолокація вимкнена."
+
+#: template-edit-listing.php:877 template-submit-listing.php:767
+#: admin/theme-functions.php:4337
+#: admin/ReduxFramework/theme-options/re7-config.php:4534
+msgid "Private Notes"
+msgstr "Приватні Нотатки"
+
+#: template-edit-listing.php:878 template-submit-listing.php:768
+msgid ""
+"Write a private note about this listing, this textarea will not be displayed "
+"anywhere on the front end of the site."
+msgstr ""
+"Написати замітку про цей запис, цього textarea не буде відображатися в будь-"
+"якому місці на передній частині сайту."
+
+#: template-edit-listing.php:897 template-submit-listing.php:787
+msgid "Cancel"
+msgstr "Скасувати"
+
+#: template-edit-listing.php:901 template-submit-listing.php:796
+#: admin/theme-functions.php:3379
+msgid "Next"
+msgstr "Далі"
+
+#: template-edit-listing.php:902 template-submit-listing.php:805
+msgid "Previous"
+msgstr "Попередні"
+
+#: template-edit-listing.php:919
+#: admin/plugins/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr "Оновлення"
+
+#: template-edit-listing.php:929
+msgid "This isn't one of your assigned listings, editing is denied."
+msgstr "Це isn\\'Т одну зі своїх призначених списків, редагування відмовлено."
+
+#. Name of the template
+msgid "Edit Profile"
+msgstr "Редагувати Профіль"
+
+#: template-edit-profile.php:78
+msgid "The passwords you entered do not match. Your password was not updated."
+msgstr "Введені паролі не співпадають. Ваш пароль не був поновлений."
+
+#: template-edit-profile.php:86
+msgid "The Email you entered is not valid. Please try again."
+msgstr ""
+"Адреса електронної пошти введений не є допустимим. Будь ласка, спробуйте "
+"знову."
+
+#: template-edit-profile.php:88
+msgid "This email is already used by another user. Try a different one."
+msgstr "Цей email вже використовується іншим користувачем. Спробуйте інший."
+
+#: template-edit-profile.php:133 admin/theme-functions.php:3689
+#: admin/theme-functions.php:3768
+msgid "Username"
+msgstr "Ім'я користувача"
+
+#: template-edit-profile.php:134
+msgid "Usernames cannot be changed."
+msgstr "Імена користувачів не можуть бути змінені."
+
+#: template-edit-profile.php:137 admin/theme-functions.php:3778
+msgid "First Name"
+msgstr "Ім'я"
+
+#: template-edit-profile.php:141 admin/theme-functions.php:3783
+msgid "Last Name"
+msgstr "Прізвище"
+
+#: template-edit-profile.php:145
+msgid "Nickname"
+msgstr "Прізвисько"
+
+#: template-edit-profile.php:145
+msgid "(required)"
+msgstr "(обов'язково)"
+
+#: template-edit-profile.php:149
+msgid "Display to Public as"
+msgstr "Дисплей для громадськості, як"
+
+#: template-edit-profile.php:187
+msgid "Contact Info"
+msgstr "Контактна Інформація"
+
+#: template-edit-profile.php:191
+msgid "E-mail *"
+msgstr "Електронна пошта *"
+
+#: template-edit-profile.php:195 admin/theme-functions.php:3788
+msgid "Website"
+msgstr "Сайт"
+
+#: template-edit-profile.php:218
+msgid "About Yourself"
+msgstr "Про Себе"
+
+#: template-edit-profile.php:222
+msgid "Biographical Information"
+msgstr "Біографічні Відомості"
+
+#: template-edit-profile.php:222
+msgid ""
+"Share a little biographical information to fill out your profile. This may "
+"be shown publicly."
+msgstr ""
+"Поділіться трохи біографічної інформації, щоб заповнити ваш профіль. Це може "
+"бути показано публічно."
+
+#: template-edit-profile.php:226
+msgid "New Password"
+msgstr "Новий Пароль"
+
+#: template-edit-profile.php:226
+msgid ""
+"If you would like to change the password type a new one. Otherwise leave "
+"this blank."
+msgstr ""
+"Якщо ви хочете змінити пароль, введіть новий. В іншому випадку залиште це "
+"поле порожнім."
+
+#: template-edit-profile.php:230
+msgid "Type your new password again."
+msgstr "Знову введіть Ваш новий пароль."
+
+#: template-edit-profile.php:232
+msgid "Strength indicator"
+msgstr "Індикатор міцності "
+
+#: template-edit-profile.php:244
+msgid "Update Profile"
+msgstr "Оновлення Профілю"
+
+#: template-favorite-listings.php:100
+msgid "Request More Information on All Favorites"
+msgstr "Запитати додаткову інформацію по всіх вибраного"
+
+#: template-favorite-listings.php:178 template-view-listings.php:142
+msgid "Bed:"
+msgstr "Ліжко:"
+
+#: template-favorite-listings.php:188 template-view-listings.php:152
+msgid "Baths:"
+msgstr "Ванни:"
+
+#: template-favorite-listings.php:199 template-view-listings.php:163
+#: layouts/list.php:125 includes/widgets/ct-widget-flickr.php:63
+msgid "Type:"
+msgstr "Тип:"
+
+#: template-favorite-listings.php:224
+msgid "Previous Entries"
+msgstr "Попередні Записи"
+
+#: template-favorite-listings.php:225
+msgid "Next Entries"
+msgstr "Наступні Записи"
+
+#. Name of the template
+msgid "Full Width 2"
+msgstr "Повна Ширина 2"
+
+#. Name of the template
+msgid "Full Width"
+msgstr "Повна Ширина"
+
+#. Name of the template
+msgid "IDX Full Width"
+msgstr "IDx по всій ширині"
+
+#. Name of the template
+msgid "IDX w/Sidebar"
+msgstr "Індекс ж/бічній панелі"
+
+#. Name of the template
+msgid "Landing Page"
+msgstr "Посадкова Сторінка "
+
+#. Name of the template
+msgid "Left Sidebar"
+msgstr "Зліва"
+
+#. Name of the template
+#: includes/user-sidebar.php:44
+#: admin/ReduxFramework/theme-options/re7-config.php:4699
+msgid "Listing Email Alerts"
+msgstr "Список Оповіщення По Електронній Пошті "
+
+#: template-listing-email-alerts.php:84
+msgid "Manage your alerts"
+msgstr "Управляти своїми оповіщеннями"
+
+#: template-listing-email-alerts.php:85
+msgid "Here you can turn saved alerts on/off or remove them completely."
+msgstr ""
+"Тут ви можете включити збережені оповіщення вкл/викл або видалити їх "
+"повністю."
+
+#: template-listing-email-alerts.php:90
+msgid "Query"
+msgstr "Запит"
+
+#: template-listing-email-alerts.php:93
+msgid "Date Created"
+msgstr "Дата Створення"
+
+#: template-listing-email-alerts.php:96
+msgid "Email Setting"
+msgstr "Установка Електронної Пошти"
+
+#: template-listing-email-alerts.php:99 admin/theme-functions.php:3547
+msgid "Delete"
+msgstr "Видалити"
+
+#: template-listing-email-alerts.php:126
+msgid "You don't have any saved searches yet, create one above."
+msgstr "Ви не\\'т є які-небудь збережені пошуки ще, створіть вище."
+
+#: template-listing-email-alerts.php:138
+msgid ""
+"Activate \"Contempo Email Alerts\" plugin via Appearance > Install Plugins."
+msgstr ""
+"Активувати \"Контемпо оповіщення електронною поштою\" плагін через зовнішній "
+"вигляд > встановити плагіни."
+
+#. Name of the template
+#: includes/home-listings-count.php:58
+msgid "Open Houses"
+msgstr "Дні Відкритих Дверей"
+
+#. Name of the template
+msgid "Packages Thank You"
+msgstr "Пакети Спасибі"
+
+#: template-packages-thank-you.php:56
+msgid "Select a Package"
+msgstr "Виберіть пакет"
+
+#: template-packages-thank-you.php:60
+msgid "Payment"
+msgstr "Оплата"
+
+#: template-packages-thank-you.php:64
+msgid "Complete"
+msgstr "Повне"
+
+#. Name of the template
+msgid "Quick Search"
+msgstr "Швидкий Пошук"
+
+#. Name of the template
+msgid "Sitemap"
+msgstr "Карта сайту"
+
+#: template-sitemap.php:51
+msgid "Last Twenty Posts"
+msgstr "Останні Двадцять Постів"
+
+#: template-sitemap.php:67
+msgid "Pages"
+msgstr "Сторінки"
+
+#: template-sitemap.php:74
+msgid "Categories"
+msgstr "Категорії"
+
+#: template-sitemap.php:81
+msgid "Posts per category"
+msgstr "Пости у категорії"
+
+#: template-submit-listing.php:379
+msgid "You haven't chosen a package yet…"
+msgstr "У вас немає\\'т обрали пакет ще..."
+
+#: template-submit-listing.php:380
+msgid "Get Started!"
+msgstr "Почнемо!"
+
+#: template-submit-listing.php:386
+msgid "Listings Limit Reached"
+msgstr "Оголошення Межа"
+
+#: template-submit-listing.php:387
+msgid "You've reached the listings limit for your membership package."
+msgstr "Ви\\'ве досягли обмежити оголошень для вашого членського пакета."
+
+#: template-submit-listing.php:388
+msgid "Upgrade Today!"
+msgstr "Оновлення Сьогодні!"
+
+#: template-submit-listing.php:472
+msgid "Gallery Images (select as many as you like)"
+msgstr "Галерея зображень (виберіть стільки, скільки вам подобається)"
+
+#: template-submit-listing.php:499
+msgid "*At least one image is for valid submission, minimum width of 817px."
+msgstr ""
+"*Як мінімум одне зображення для представлення, мінімальна ширина 817px."
+
+#: template-submit-listing.php:582
+msgid "(e.g. Cats, small dogs)"
+msgstr "(напр. кішки, дрібні собаки)"
+
+#: template-submit-listing.php:587
+msgid "(e.g. Carport, 2 Car Garage)"
+msgstr "(наприклад, навіс, гараж на 2 машини)"
+
+#: template-submit-listing.php:603
+msgid "Virtual Tour URL"
+msgstr "Віртуальний тур URL-адресу"
+
+#: template-submit-listing.php:658
+msgid " (e.g. 2)"
+msgstr " (наприклад, 2)"
+
+#: template-submit-listing.php:663
+msgid " (e.g. 1 night)"
+msgstr " (наприклад, 1 ніч)"
+
+#: template-submit-listing.php:670
+msgid " (e.g. 3:00 PM)"
+msgstr " (наприклад, 3:00 вечора)"
+
+#: template-submit-listing.php:675
+msgid " (e.g. 11:00 AM)"
+msgstr " (наприклад, 11:00 ранку)"
+
+#: template-submit-listing.php:682
+msgid " (e.g. 50)"
+msgstr " (наприклад, 50)"
+
+#: template-submit-listing.php:687
+msgid " (e.g. 150)"
+msgstr " (наприклад, 150)"
+
+#: template-submit-listing.php:694
+msgid " (e.g. 275)"
+msgstr " (наприклад, 275)"
+
+#: template-submit-listing.php:699
+msgid " (e.g. 895)"
+msgstr " (наприклад 895)"
+
+#: template-submit-listing.php:788
+msgid "Save As Draft"
+msgstr "Зберегти Як Чернетку"
+
+#. Name of the template
+#: admin/ReduxFramework/theme-options/re7-config.php:1706
+msgid "Testimonials"
+msgstr "Відгуки"
+
+#. Name of the template
+msgid "User Dashboard"
+msgstr "Панель Користувача "
+
+#: template-user-dashboard.php:122
+#: admin/ReduxFramework/theme-options/re7-config.php:1656
+msgid "Featured Listings"
+msgstr "Розміщені Оголошення"
+
+#: template-user-dashboard.php:141
+msgid "Pending Listings"
+msgstr "В Очікуванні Оголошення"
+
+#: template-view-invoices.php:82
+msgid "You haven't placed any orders yet…"
+msgstr "У вас немає\\'т розміщені замовлення ще..."
+
+#: template-view-invoices.php:90
+msgid "Invoice"
+msgstr "Рахунок-фактура"
+
+#: template-view-invoices.php:91
+msgid "Package"
+msgstr "Пакет"
+
+#: template-view-invoices.php:92
+msgid "Start"
+msgstr "Почати"
+
+#: template-view-invoices.php:93
+msgid "Expire"
+msgstr "Закінчується"
+
+#: template-view-invoices.php:94
+msgid "Recurring"
+msgstr "Повторювані"
+
+#: template-view-invoices.php:96
+msgid "Total"
+msgstr "Загальна"
+
+#: template-view-invoices.php:112
+#: includes/widgets/ct-widget-contactinfo.php:135
+msgid "Yes"
+msgstr "Так"
+
+#: template-view-invoices.php:112
+#: includes/widgets/ct-widget-contactinfo.php:136
+msgid "No"
+msgstr "Немає"
+
+#: template-view-invoices.php:113
+msgid "Expired"
+msgstr "Закінчився"
+
+#: template-view-invoices.php:123
+msgid "-"
+msgstr "-"
+
+#: template-view-listings.php:85
+msgid "Type a listing name or address here to filter the list."
+msgstr "Введіть лістинг ім'я або адресу, щоб відфільтрувати список."
+
+#: template-view-listings.php:172
+msgid "Published"
+msgstr "Опубліковано"
+
+#: template-view-listings.php:174
+msgid "Pending"
+msgstr "В очікуванні"
+
+#: template-view-listings.php:176
+msgid "Draft"
+msgstr "Проект"
+
+#: template-view-listings.php:195
+msgid "Paid"
+msgstr "Платна"
+
+#: template-view-listings.php:210
+msgid "Edit"
+msgstr "Редагувати"
+
+#: template-view-listings.php:214 admin/theme-functions.php:4578
+msgid " Views"
+msgstr " Вид"
+
+#: template-view-listings.php:233
+msgid "You don't have any listings yet..."
+msgstr "Ви не\\'т ще немає оголошень."
+
+#: template-view-listings.php:234
+msgid "Create One"
+msgstr "Створити"
+
+#: admin/merlin-config.php:104 admin/merlin-config.php:120
+#: admin/merlin-config.php:136 admin/merlin-config.php:152
+#: admin/merlin-config.php:168 admin/merlin-config.php:184
+#: admin/merlin-config.php:200 admin/merlin-config.php:216
+#: admin/merlin-config.php:232 admin/merlin-config.php:248
+#: admin/merlin-config.php:264 admin/merlin-config.php:280
+#: admin/merlin-config.php:296 admin/merlin-config.php:312
+#: admin/merlin-config.php:328
+msgid "A special note for this import."
+msgstr "Особливу увагу на цей імпорт."
+
+#: admin/profile-fields.php:39
+msgid "Social profile information"
+msgstr "Соціальний профіль інформація"
+
+#: admin/profile-fields.php:43
+msgid "Twitter Username"
+msgstr "Ім'я Користувача Twitter "
+
+#: admin/profile-fields.php:49
+msgid "Facebook URL"
+msgstr "URL-адреса Facebook "
+
+#: admin/profile-fields.php:55
+msgid "Instagram URL"
+msgstr "Instagram URL-адресу"
+
+#: admin/profile-fields.php:61
+msgid "LinkedIn URL"
+msgstr "URL-адреса у LinkedIn "
+
+#: admin/profile-fields.php:67
+msgid "YouTube URL"
+msgstr "Посилання на YouTube "
+
+#: admin/profile-fields.php:76
+msgid "Extra profile information"
+msgstr "Додаткова інформація профіль "
+
+#: admin/profile-fields.php:88
+msgid "Agent Order"
+msgstr "Замовлення Агента "
+
+#: admin/profile-fields.php:91
+msgid ""
+"If user is an agent select the order you would like them displayed on the "
+"agents page, e.g. 1, 2, 3, etc&hellip; NOTE: You must also set Real Estate 7 "
+"Options > Agents > Manually Order Agents? > to Yes, otherwise the ordering "
+"won't be applied."
+msgstr ""
+"Якщо користувач є агентом виберіть замовлення, який ви хотіли б показати їх "
+"на сторінці агенти, наприклад, 1, 2, 3, і т. д"
+
+#: admin/profile-fields.php:95
+msgid "Profile Image"
+msgstr "Зображення Профілю "
+
+#: admin/profile-fields.php:105
+msgid ""
+"Please upload a profile picture here, if none is chosen a default image will "
+"be used."
+msgstr ""
+"Будь ласка, завантажте сюди фотографію, якщо не вибрано зображення за "
+"замовчуванням будуть використані."
+
+#: admin/profile-fields.php:109
+msgid "Mobile #"
+msgstr ""
+
+#: admin/profile-fields.php:115
+msgid "Fax #"
+msgstr ""
+
+#: admin/profile-fields.php:122
+msgid "Title"
+msgstr "Назва"
+
+#: admin/profile-fields.php:128
+msgid "Tagline"
+msgstr "Слоган"
+
+#: admin/profile-fields.php:134
+msgid "Agent License #"
+msgstr ""
+
+#: admin/profile-fields.php:137
+msgid "Add the agents license number here."
+msgstr "Додати агентів номерний тут."
+
+#: admin/profile-fields.php:144
+msgid "Agent Testimonials"
+msgstr "Агент Відгуки"
+
+#: admin/profile-fields.php:148
+msgid ""
+"If this user is marked as an agent (\"Show on agents page\" option above) "
+"use this area to add client testimonials."
+msgstr ""
+"Якщо цей користувач відзначений як агентом (\"показати вище варіант сторінки "
+"агенти\") використовуйте цю область, щоб додавати відгуки клієнтів."
+
+#: admin/profile-fields.php:162
+msgid "Office Information"
+msgstr "Службової Інформації"
+
+#: admin/profile-fields.php:166
+msgid "Personal Logo"
+msgstr "Особистий Логотип"
+
+#: admin/profile-fields.php:176
+msgid ""
+"Upload your personal logo here, or if you choose to associate a Brokerage "
+"below that logo will be used instead."
+msgstr ""
+"Завантажте ваш логотип тут, або якщо ви вирішите зв'язати брокерську нижче, "
+"що логотип буде використовуватися замість цього."
+
+#: admin/profile-fields.php:186
+msgid "Select a Brokerage"
+msgstr "Виберіть брокерську"
+
+#: admin/profile-fields.php:194
+msgid ""
+"Assign a brokerage here, these are pulled from the Brokerage custom post "
+"type."
+msgstr ""
+"Призначити брокерські ось, вони витягли з брокерських користувальницький тип "
+"запису."
+
+#: admin/profile-fields.php:198
+msgid "Brokerage License #"
+msgstr ""
+
+#: admin/profile-fields.php:201
+msgid "Add the brokerage license number here."
+msgstr "Додати брокерська номер ліцензії тут."
+
+#: admin/profile-fields.php:205
+msgid "Office #"
+msgstr ""
+
+#: admin/profile-fields.php:223
+msgid "State or Province"
+msgstr "Штат або провінцію"
+
+#: admin/profile-fields.php:229 admin/theme-functions.php:5689
+msgid "Postal Code"
+msgstr "Поштовий Індекс"
+
+#: admin/theme-functions.php:45
+msgid "Please Update Your PHP Version to the Recommended 5.6+"
+msgstr "Будь ласка, поновіть PHP до версії рекомендованої 5.6 "
+
+#: admin/theme-functions.php:46
+msgid ""
+"Otherwise some of the Theme Functions and Custom Visual Composer modules "
+"won't be available for use, or cause issues with your site display."
+msgstr ""
+"Інакше деякі теми функції та спеціальні модулі візуальний композитор "
+"виграв\\'Т бути доступними для використання, або викликати проблеми з "
+"відображенням сайту."
+
+#: admin/theme-functions.php:47
+msgid ""
+"Its a quick and simple process (no more than a couple minutes), please refer "
+"to this knowledgebase article below."
+msgstr ""
+"Його швидкий і простий процес (не більше пари хвилин), будь ласка, "
+"зверніться до цієї статті бази знань."
+
+#: admin/theme-functions.php:48
+msgid "Minimum PHP Version 5.6+ and How to Update to It"
+msgstr "Мінімальна версія PHP 5.6 і як оновити його"
+
+#: admin/theme-functions.php:49 admin/theme-functions.php:91
+#: admin/theme-functions.php:133 admin/theme-functions.php:175
+#: admin/plugins/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr "Закрити це повідомлення"
+
+#: admin/theme-functions.php:89
+msgid "WP Favorite Posts Needs to be Setup"
+msgstr "WР улюблені повідомлення повинен бути налаштований"
+
+#: admin/theme-functions.php:90 admin/theme-functions.php:132
+#: admin/theme-functions.php:174
+msgid "Just takes a few seconds to setup the plugin properly please see the "
+msgstr ""
+"Просто займає кілька секунд, щоб налаштувати плагін правильно дивіться "
+
+#: admin/theme-functions.php:90 admin/theme-functions.php:132
+#: admin/theme-functions.php:174
+msgid "documentation"
+msgstr "документація"
+
+#: admin/theme-functions.php:131
+msgid "Contempo Compare Listings Needs to be Setup"
+msgstr "Контемпо порівняти потреб списки повинні бути Налаштування"
+
+#: admin/theme-functions.php:173
+msgid "WordPress Social Login Needs to be Setup"
+msgstr "WordPress соціальні логін повинен бути налаштований"
+
+#: admin/theme-functions.php:387
+msgid "Listing Large"
+msgstr "Список Великий"
+
+#: admin/theme-functions.php:398
+msgid "Primary Left Menu"
+msgstr "Основного Меню Зліва"
+
+#: admin/theme-functions.php:399
+msgid "Primary Right Menu"
+msgstr "Первинним Правом Меню"
+
+#: admin/theme-functions.php:400
+msgid "Primary Full Width"
+msgstr "Первинна Повна Ширина"
+
+#: admin/theme-functions.php:401
+msgid "Footer Menu"
+msgstr "Меню В Футері "
+
+#: admin/theme-functions.php:425
+msgid "Menu doesn't exist, please create one by clicking here."
+msgstr "Меню немає\\'т, будь ласка, створіть її, натиснувши тут."
+
+#: admin/theme-functions.php:1170
+msgid "Open Map"
+msgstr "Відкрити Карту"
+
+#: admin/theme-functions.php:1171
+msgid "Close Search"
+msgstr "Закрити Пошук"
+
+#: admin/theme-functions.php:1174
+msgid "Open"
+msgstr "Відкрити"
+
+#: admin/theme-functions.php:1175
+msgid "Search Saved"
+msgstr "Пошук Врятувала"
+
+#: admin/theme-functions.php:1187 admin/theme-functions.php:5897
+msgid "All Towns"
+msgstr "Всі Міста"
+
+#: admin/theme-functions.php:1189 admin/theme-functions.php:5899
+msgid "All Villages"
+msgstr "Усі Села"
+
+#: admin/theme-functions.php:1191 admin/theme-functions.php:5901
+msgid "All Cities"
+msgstr "Всі Міста"
+
+#: admin/theme-functions.php:1195 admin/theme-functions.php:5903
+msgid "All Areas"
+msgstr "Всій Території"
+
+#: admin/theme-functions.php:1197 admin/theme-functions.php:5905
+#: admin/theme-functions.php:5939
+msgid "All Suburbs"
+msgstr "Всі Передмістя"
+
+#: admin/theme-functions.php:1199 admin/theme-functions.php:5907
+msgid "All Provinces"
+msgstr "Всі Провінції"
+
+#: admin/theme-functions.php:1201 admin/theme-functions.php:5909
+msgid "All Regions"
+msgstr "Всі Регіони"
+
+#: admin/theme-functions.php:1203 admin/theme-functions.php:5911
+msgid "All Parishes"
+msgstr "Всі Парафії"
+
+#: admin/theme-functions.php:1205 admin/theme-functions.php:5913
+msgid "All States"
+msgstr "Усі Держави"
+
+#: admin/theme-functions.php:1209 admin/theme-functions.php:5947
+msgid "All Postcodes"
+msgstr "Всі Поштові Індекси"
+
+#: admin/theme-functions.php:1211 admin/theme-functions.php:5949
+msgid "All Postal Codes"
+msgstr "Всі Поштові Коди"
+
+#: admin/theme-functions.php:1213 admin/theme-functions.php:5951
+msgid "All Zipcodes"
+msgstr "Всі Поштові Індекси"
+
+#: admin/theme-functions.php:1228
+msgid "* This field is required"
+msgstr "* Це поле є обов'язковим"
+
+#: admin/theme-functions.php:1229
+msgid "* Please select an option"
+msgstr "* Будь ласка, виберіть варіант"
+
+#: admin/theme-functions.php:1230
+msgid "* This checkbox is required"
+msgstr "* Цей прапорець"
+
+#: admin/theme-functions.php:1231
+msgid "* Invalid phone number"
+msgstr "* Неправильний номер телефону "
+
+#: admin/theme-functions.php:1232
+msgid "* Invalid email address"
+msgstr "* Неправильний адресу електронної пошти "
+
+#: admin/theme-functions.php:1233
+msgid "* Invalid date, must be in YYYY-MM-DD format"
+msgstr "* Дата недійсним, повинні бути у форматі рррр-ММ-ДД"
+
+#: admin/theme-functions.php:1234
+msgid "* Numbers only"
+msgstr "* Тільки цифри"
+
+#: admin/theme-functions.php:1235
+msgid "* No special caracters allowed"
+msgstr "* Відсутність спеціальних букв допускається"
+
+#: admin/theme-functions.php:1236
+msgid "* Letters only"
+msgstr "* Листи тільки"
+
+#: admin/theme-functions.php:1921 admin/theme-functions.php:3797
+msgid "Buyer"
+msgstr "Покупець"
+
+#: admin/theme-functions.php:1933 admin/theme-functions.php:3798
+msgid "Seller"
+msgstr "Продавець"
+
+#: admin/theme-functions.php:1971
+msgid "Broker"
+msgstr "Брокер"
+
+#: admin/theme-functions.php:2083 admin/theme-functions.php:2120
+#: admin/theme-functions.php:2156
+msgid "Beds: "
+msgstr "Ліжка: "
+
+#: admin/theme-functions.php:2084 admin/theme-functions.php:2121
+#: admin/theme-functions.php:2157
+msgid "Baths: "
+msgstr "Ванни: "
+
+#: admin/theme-functions.php:2085 admin/theme-functions.php:2122
+#: admin/theme-functions.php:2158
+msgid "Sq Ft: "
+msgstr "Кв. М: "
+
+#: admin/theme-functions.php:2094 admin/theme-functions.php:2131
+#: admin/theme-functions.php:2166
+msgid "1 Listing found"
+msgstr "1 лістинг знайшли"
+
+#: admin/theme-functions.php:2096 admin/theme-functions.php:2133
+#: admin/theme-functions.php:2168
+msgid " Listings found"
+msgstr " Списки знайшли"
+
+#: admin/theme-functions.php:2173
+msgid "No Listings Found"
+msgstr "Оголошень Не Знайдено"
+
+#: admin/theme-functions.php:2393
+msgid "Sort By"
+msgstr "Сортувати По"
+
+#: admin/theme-functions.php:2394
+msgid "Default Order"
+msgstr "Порядок За Замовчуванням "
+
+#: admin/theme-functions.php:2395
+msgid "Price - Low to High"
+msgstr "Ціна - від низької до високої"
+
+#: admin/theme-functions.php:2396
+msgid "Price - High to Low"
+msgstr "Ціна - від високої до низької"
+
+#: admin/theme-functions.php:2397
+msgid "Date - Old to New"
+msgstr "Датою - від старих до нових"
+
+#: admin/theme-functions.php:2398
+msgid "Date - New to Old"
+msgstr "Датою - від нових до старих"
+
+#: admin/theme-functions.php:2625
+msgid "New submission in"
+msgstr "Нові уявлення в"
+
+#: admin/theme-functions.php:2627
+msgid "Hi!"
+msgstr "Привіт!"
+
+#: admin/theme-functions.php:2628
+msgid "We have a new submission in"
+msgstr "У нас є нове уявлення в"
+
+#: admin/theme-functions.php:2629
+msgid "Check it out"
+msgstr "Зацініть"
+
+#: admin/theme-functions.php:2743 admin/theme-functions.php:2818
+#: admin/theme-functions.php:2921 admin/theme-functions.php:3036
+#: admin/theme-functions.php:3155 admin/theme-functions.php:3245
+#: admin/theme-functions.php:3356
+msgid "You need to setup the Google Maps API."
+msgstr "Вам потрібна настройка API Карт Google."
+
+#: admin/theme-functions.php:2744 admin/theme-functions.php:2819
+#: admin/theme-functions.php:2922 admin/theme-functions.php:3037
+#: admin/theme-functions.php:3156 admin/theme-functions.php:3246
+#: admin/theme-functions.php:3357
+msgid "Go into Admin > Real Estate 7 Options > Google Maps"
+msgstr "Перейдіть до Адміністрування > Нерухомість 7 опції > карти Google "
+
+#: admin/theme-functions.php:3378
+msgid "Prev"
+msgstr "Пред'"
+
+#: admin/theme-functions.php:3645
+msgid "User registration is not enabled"
+msgstr "Реєстрації користувачів не включена"
+
+#: admin/theme-functions.php:3675
+msgid "Log in"
+msgstr "Увійти в"
+
+#: admin/theme-functions.php:3677
+msgid "Don't have an account?"
+msgstr "Don\\'Т є обліковий запис?"
+
+#: admin/theme-functions.php:3677
+msgid "Create your account,"
+msgstr "Створити обліковий запис"
+
+#: admin/theme-functions.php:3677
+msgid "it takes less than a minute."
+msgstr "це займає менше хвилини."
+
+#: admin/theme-functions.php:3692 admin/theme-functions.php:3805
+msgid "Password"
+msgstr "Пароль"
+
+#: admin/theme-functions.php:3707
+msgid "Lost your password?"
+msgstr "Втратили ваш пароль?"
+
+#: admin/theme-functions.php:3717
+msgid "Lost Password?"
+msgstr "Забули Пароль?"
+
+#: admin/theme-functions.php:3718
+msgid ""
+"Enter your email address and we'll send you a link you can use to pick a new "
+"password."
+msgstr ""
+"Введіть свою адресу електронної пошти і ми надішлемо вам посилання, яке "
+"можна використовувати для отримання нового паролю."
+
+#: admin/theme-functions.php:3720
+msgid "Username or Email"
+msgstr "Ім'я користувача чи адресу електронної пошти"
+
+#: admin/theme-functions.php:3722
+msgid "Get New Password"
+msgstr "Отримати Новий Пароль"
+
+#: admin/theme-functions.php:3758
+msgid "Create an account"
+msgstr "Створити обліковий запис"
+
+#: admin/theme-functions.php:3759
+msgid "It takes less than a minute. If you already have an account "
+msgstr "Це займає менше хвилини. Якщо у вас вже є обліковий запис "
+
+#: admin/theme-functions.php:3759
+msgid "login"
+msgstr "логін"
+
+#: admin/theme-functions.php:3794
+msgid "Buyer, Seller or Agent?"
+msgstr "Покупець, продавець або агент?"
+
+#: admin/theme-functions.php:3796
+msgid "Please choose"
+msgstr "Будь ласка, виберіть"
+
+#: admin/theme-functions.php:3810
+msgid "Password Again"
+msgstr "Пароль Ще Раз"
+
+#: admin/theme-functions.php:3816
+msgid "I accept the"
+msgstr "Я приймаю"
+
+#: admin/theme-functions.php:3816
+msgid "Terms &amp; Conditions"
+msgstr "Умови "
+
+#: admin/theme-functions.php:3821
+msgid "Register"
+msgstr "Зареєструватися"
+
+#: admin/theme-functions.php:3856
+msgid "Username already taken"
+msgstr "Ім'я вже зайнято"
+
+#: admin/theme-functions.php:3860 admin/theme-functions.php:4048
+#: admin/theme-functions.php:4095
+msgid "Invalid username"
+msgstr "Ваше ім'я користувача"
+
+#: admin/theme-functions.php:3864
+msgid "Please enter a username"
+msgstr "Будь ласка, введіть ім'я користувача"
+
+#: admin/theme-functions.php:3868
+msgid "Invalid email"
+msgstr "Неправильна адреса електронної пошти"
+
+#: admin/theme-functions.php:3872
+msgid "Email already registered"
+msgstr "Електронної пошти вже зареєстрований"
+
+#: admin/theme-functions.php:3876 admin/theme-functions.php:4053
+#: admin/theme-functions.php:4100
+msgid "Please enter a password"
+msgstr "Будь ласка, введіть пароль"
+
+#: admin/theme-functions.php:3880
+msgid "Passwords do not match"
+msgstr "Паролі не збігаються"
+
+#: admin/theme-functions.php:3884
+msgid "Terms & Conditions must be checked"
+msgstr "Умови "
+
+#: admin/theme-functions.php:4059 admin/theme-functions.php:4106
+msgid "Incorrect password"
+msgstr "Невірний пароль"
+
+#: admin/theme-functions.php:4140
+msgid "Error"
+msgstr "Помилка"
+
+#: admin/theme-functions.php:4263 admin/theme-functions.php:4267
+msgid "Featured Image"
+msgstr "Популярні Зображення"
+
+#: admin/theme-functions.php:4265
+msgid "Brokerage Logo"
+msgstr "Брокерські Логотип"
+
+#: admin/theme-functions.php:4295
+msgid "Enter the listing street address here"
+msgstr "Введіть лістинг адресу тут"
+
+#: admin/theme-functions.php:4311
+msgid ""
+"NOTE: The Listing Title needs to be <strong>only the Street Address</strong> "
+"(e.g. 123 Somewhere St.) otherwise the mapping won't work properly, use the "
+"Alternate Title field below for Listing Names, etc…the Alt Title field will "
+"override the street address on the front end of your site."
+msgstr ""
+
+#: admin/theme-functions.php:4330
+#: admin/ReduxFramework/theme-options/re7-config.php:4148
+msgid "Price & Description"
+msgstr "Ціна "
+
+#: admin/theme-functions.php:4331
+msgid "Photos & Files"
+msgstr "Фото "
+
+#: admin/theme-functions.php:4332
+#: admin/ReduxFramework/theme-options/re7-config.php:4237
+msgid "Details"
+msgstr "Деталі"
+
+#: admin/theme-functions.php:4334 includes/single-listing-sub-navigation.php:78
+#: admin/ReduxFramework/theme-options/re7-config.php:4356
+msgid "Rental Info"
+msgstr "Оренда Інформація"
+
+#: admin/theme-functions.php:4336 includes/single-listing-map.php:18
+#: includes/single-listing-sub-navigation.php:135
+#: includes/single-listing-sub-navigation.php:164
+#: admin/ReduxFramework/theme-options/re7-config.php:4445
+msgid "Location"
+msgstr "Розташування"
+
+#: admin/theme-functions.php:4438
+msgid "Add to Favorites"
+msgstr "Додати в обране"
+
+#: admin/theme-functions.php:4443
+msgid "Favorite"
+msgstr "Улюблені"
+
+#: admin/theme-functions.php:4556
+msgid " Photo"
+msgstr " Фото"
+
+#: admin/theme-functions.php:4558
+msgid " Photos"
+msgstr " Фото"
+
+#: admin/theme-functions.php:4700 admin/theme-functions.php:5605
+#: admin/theme-functions.php:5915 layouts/list.php:84
+msgid "Rooms"
+msgstr "Номери"
+
+#: admin/theme-functions.php:4702 admin/theme-functions.php:5607
+#: admin/theme-functions.php:5917 layouts/list.php:86
+msgid "Bedrooms"
+msgstr "Спальні"
+
+#: admin/theme-functions.php:4706 admin/theme-functions.php:5611
+#: admin/theme-functions.php:5919 includes/sub-listings.php:89
+#: layouts/list.php:90 includes/widgets/ct-widget-agentsotherlistings.php:126
+msgid "Bed"
+msgstr "Ліжко"
+
+#: admin/theme-functions.php:4722 admin/theme-functions.php:5626
+#: admin/theme-functions.php:5923 layouts/list.php:106
+msgid "Bathrooms"
+msgstr "Ванні кімнати"
+
+#: admin/theme-functions.php:4726 admin/theme-functions.php:5630
+#: admin/theme-functions.php:5925 layouts/list.php:110
+msgid "Bath"
+msgstr "Ванна"
+
+#: admin/theme-functions.php:4777 includes/sub-listings.php:122
+#: includes/widgets/ct-widget-agentsotherlistings.php:159
+msgid "Rating"
+msgstr "Рейтинг"
+
+#: admin/theme-functions.php:4794 includes/sub-listings.php:139
+#: includes/widgets/ct-widget-agentsotherlistings.php:176
+msgid "Guests"
+msgstr "Гості"
+
+#: admin/theme-functions.php:4809 admin/theme-functions.php:4987
+#: includes/sub-listings.php:154
+#: includes/widgets/ct-widget-agentsotherlistings.php:191
+msgid "Min Stay"
+msgstr "Мінімальний Термін Перебування"
+
+#: admin/theme-functions.php:4857
+msgid "Price Per"
+msgstr "Ціна За"
+
+#: admin/theme-functions.php:4895
+msgid "Walk Score&reg;"
+msgstr "Прогулянка Оцінка"
+
+#: admin/theme-functions.php:4954
+msgid "Check In"
+msgstr "Реєстрація"
+
+#: admin/theme-functions.php:4965
+msgid "Check Out"
+msgstr "Перевірити"
+
+#: admin/theme-functions.php:4976
+msgid "Max Guests"
+msgstr "Максимальна Кількість Осіб"
+
+#: admin/theme-functions.php:5008
+msgid "Extra People"
+msgstr "Зайві Люди"
+
+#: admin/theme-functions.php:5118
+#, php-format
+msgid "%s ago"
+msgstr "%s тому"
+
+#: admin/theme-functions.php:5138
+msgid "Updated on"
+msgstr "Оновлено"
+
+#: admin/theme-functions.php:5140
+msgid "at"
+msgstr "в"
+
+#: admin/theme-functions.php:5219
+msgid "Hosted By"
+msgstr "Організовано"
+
+#: admin/theme-functions.php:5276 admin/theme-functions.php:5293
+msgid "Listing Courtesy of"
+msgstr "Лістинг надано"
+
+#: admin/theme-functions.php:5278 admin/theme-functions.php:5295
+msgid "Brokered by"
+msgstr "За посередництва"
+
+#: admin/theme-functions.php:5567
+msgid " Sq Ft"
+msgstr " Кв. М"
+
+#: admin/theme-functions.php:5569
+msgid " m²"
+msgstr " м2"
+
+#: admin/theme-functions.php:5584
+msgid "Acres"
+msgstr "Соток"
+
+#: admin/theme-functions.php:5586
+msgid "Sq Ft"
+msgstr "Кв. М"
+
+#: admin/theme-functions.php:5588
+msgid "m²"
+msgstr "м2"
+
+#: admin/theme-functions.php:5645
+msgid "Village"
+msgstr "Село"
+
+#: admin/theme-functions.php:5647
+msgid "Town"
+msgstr "Місто"
+
+#: admin/theme-functions.php:5664
+msgid "Parish"
+msgstr "Прихід"
+
+#: admin/theme-functions.php:5666
+msgid "Region"
+msgstr "Області"
+
+#: admin/theme-functions.php:5668
+msgid "Province"
+msgstr "Провінція"
+
+#: admin/theme-functions.php:5714
+msgid "School District"
+msgstr "Шкільний Округ"
+
+#: admin/theme-functions.php:5716
+msgid "Building"
+msgstr "Будинок"
+
+#: admin/theme-functions.php:5718
+msgid "Borough"
+msgstr "Боро"
+
+#: admin/theme-functions.php:5720
+msgid "Sector"
+msgstr "Сектор"
+
+#: admin/theme-functions.php:5891
+msgid "All Property Types"
+msgstr "Всі Типи Нерухомості "
+
+#: admin/theme-functions.php:5893
+msgid "All Countries"
+msgstr "Всі Країни"
+
+#: admin/theme-functions.php:5895
+msgid "All Counties"
+msgstr "Всі Країни"
+
+#: admin/theme-functions.php:5929
+msgid "All Statuses"
+msgstr "Всі Статуси"
+
+#: admin/theme-functions.php:5931
+msgid "All Additional Features"
+msgstr "Всі Додаткові Послуги"
+
+#: admin/theme-functions.php:5933
+msgid "All Neighborhoods"
+msgstr "Всі Райони"
+
+#: admin/theme-functions.php:5935
+msgid "All Districts"
+msgstr "Всі Райони"
+
+#: admin/theme-functions.php:5937
+msgid "All School Districts"
+msgstr "Всі Шкільні Округи"
+
+#: admin/theme-functions.php:5941
+msgid "All Buildings"
+msgstr "Всі Будівлі"
+
+#: admin/theme-functions.php:5943
+msgid "All Sectors"
+msgstr "Всіх Секторах"
+
+#: admin/theme-functions.php:5945
+msgid "All Communities"
+msgstr "Всі Громади"
+
+#: admin/theme-functions.php:5953
+msgid "Pet Friendly?"
+msgstr "Вихованцем?"
+
+#: admin/theme-functions.php:5955
+msgid "Furnished/Unfurnished?"
+msgstr "Мебльована/Немеблированная?"
+
+#: admin/theme-functions.php:6172 includes/single-listing-yelp.php:165
+msgid "You need to setup the Yelp Fusion API."
+msgstr "Потрібно налаштувати гавкати API для синтезу."
+
+#: admin/theme-functions.php:6173 includes/single-listing-yelp.php:166
+msgid "Go into Admin > Real Estate 7 Options > What's Nearby? > Create App"
+msgstr ""
+"Перейдіть до Адміністрування > Нерухомість 7 опції > що поруч? > Створити "
+"Додаток"
+
+#: admin/theme-functions.php:6175
+msgid "You've reached the daily Yelp Fusion API limit."
+msgstr "Ви\\'ве досягли щоденний вереск межі API синтезу."
+
+#: admin/theme-functions.php:6176
+msgid "Please visit https://www.yelp.com/developers/v3/manage_app"
+msgstr ""
+
+#: admin/theme-functions.php:6178
+msgid "General 502 Error from Yelp Fusion API"
+msgstr "Загальна помилка 502 від Yelp API для синтезу"
+
+#: admin/theme-functions.php:6179 admin/theme-functions.php:6182
+msgid "Please check your server error logs."
+msgstr "Будь ласка, перевірте журнали помилок сервера."
+
+#: admin/theme-functions.php:6181
+msgid "General 500 Error from Yelp Fusion API"
+msgstr "Загальна помилка 500 від Yelp Ф'южн API-інтерфейс"
+
+#: admin/theme-functions.php:6184
+msgid "General Error from Yelp Fusion API"
+msgstr "Загальна помилка від Yelp Ф'южн за API"
+
+#: admin/theme-functions.php:6267
+msgid " km"
+msgstr " км"
+
+#: admin/theme-functions.php:6269
+msgid " mi"
+msgstr " Мі"
+
+#: admin/theme-functions.php:6284
+msgid "reviews"
+msgstr "коментарі"
+
+#: admin/theme-functions.php:6357
+msgid "Unfortunately, your API key is over its quota."
+msgstr "На жаль, Ваш ключ API перевищив квоту."
+
+#: admin/theme-functions.php:6363
+msgid "Unfortunately, there's no results nearby for this listing."
+msgstr "На жаль, там\\'и немає результатів найближчих для цього списку."
+
+#: admin/theme-functions.php:6369
+msgid ""
+"Unfortunately, your request was denied, generally because of lack of an "
+"invalid key parameter."
+msgstr ""
+"На жаль, Ваш запит відхилено, зазвичай через відсутність неприпустимого "
+"ключового параметра."
+
+#: admin/theme-functions.php:6375
+msgid ""
+"Unfortunately, your request was invalid, generally due to wrong address "
+"information or lat/long coordinates."
+msgstr ""
+"На жаль, Ваш запит був невірний, як правило, з-за неправильно адресу або "
+"широта/довгота координати."
+
+#: admin/theme-functions.php:6381
+msgid ""
+"A server-side error happened trying again may be successful, please "
+"shift+refresh the page."
+msgstr ""
+"На стороні сервера сталася помилка знову спроба може бути успішною, прошу "
+"перемістити оновити сторінку."
+
+#: admin/theme-functions.php:6598
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Результати пошуку для: %s"
+
+#: admin/theme-functions.php:6604
+#, php-format
+msgid "Author: %s"
+msgstr "Автор: %s"
+
+#: admin/theme-functions.php:6607
+#, php-format
+msgid "Day: %s"
+msgstr "День: %s"
+
+#: admin/theme-functions.php:6610
+#, php-format
+msgid "Month: %s"
+msgstr "Місяць: %s"
+
+#: admin/theme-functions.php:6610
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "Ф Р"
+
+#: admin/theme-functions.php:6613
+#, php-format
+msgid "Year: %s"
+msgstr "Рік: %s"
+
+#: admin/theme-functions.php:6613
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Г"
+
+#: admin/theme-functions.php:6616
+msgid "Archives"
+msgstr "Архіви"
+
+#: admin/theme-functions.php:6691
+msgid "Share This"
+msgstr "Поділіться Цією"
+
+#: admin/theme-functions.php:6694 admin/theme-functions.php:6695
+#: admin/theme-functions.php:6696 includes/post-social.php:16
+#: includes/post-social.php:17 includes/post-social.php:18
+msgid "Check out this great article on"
+msgstr "Перевірити цю велику статтю на"
+
+#: admin/theme-functions.php:6735
+msgid "About The Author"
+msgstr "Про Автора"
+
+#: admin/theme-functions.php:6792
+msgid "Related Posts"
+msgstr "Схожі Повідомлення"
+
+#: admin/theme-functions.php:6842
+msgid "<span class=\"meta-nav\">&larr;</span> Older"
+msgstr ""
+
+#: admin/theme-functions.php:6843
+msgid "Newer <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: admin/theme-functions.php:7415
+msgid ""
+"<span class=\"meta-nav\"><i class=\"fa fa-chevron-left\"></i></span> Older "
+"listings"
+msgstr ""
+
+#: admin/theme-functions.php:7416
+msgid ""
+"Newer listings <span class=\"meta-nav\"><i class=\"fa fa-chevron-right\"></i>"
+"</span>"
+msgstr ""
+
+#: admin/theme-functions.php:7438 admin/theme-functions.php:7439
+msgid "%link"
+msgstr "%посилання"
+
+#: admin/theme-functions.php:7759
+msgid "g:i a"
+msgstr "р:я"
+
+#: admin/theme-functions.php:7762
+#, php-format
+msgid "Minute %1$s"
+msgstr "Хвилин %1$ів"
+
+#: admin/theme-functions.php:7762
+msgid "i"
+msgstr "я"
+
+#: admin/theme-functions.php:7765
+msgid "g a"
+msgstr "г"
+
+#: admin/theme-functions.php:7776 admin/theme-functions.php:7782
+#: admin/theme-functions.php:7782 admin/theme-functions.php:7787
+#: admin/theme-functions.php:7787 admin/theme-functions.php:7792
+msgid "Y"
+msgstr "Г"
+
+#: admin/theme-functions.php:7777 admin/theme-functions.php:7788
+msgid "F"
+msgstr "Ф"
+
+#: admin/theme-functions.php:7778
+msgid "j"
+msgstr "Дж"
+
+#: admin/theme-functions.php:7783
+#, php-format
+msgid "Week %1$s"
+msgstr "Тиждень %1$ів"
+
+#: admin/theme-functions.php:7783
+msgid "W"
+msgstr "Вт"
+
+#: admin/theme-functions.php:7799
+#, php-format
+msgid "Search results for &quot;%1$s&quot;"
+msgstr "Результати пошуку "
+
+#: admin/theme-functions.php:7803
+msgid "404 Not Found"
+msgstr "404 Не Знайдено"
+
+#: includes/advanced-search.php:189 includes/header-advanced-search.php:209
+#: includes/header-advanced-search.php:532
+#: includes/widgets/ct-widget-listingssearch.php:200
+msgid "From"
+msgstr "Від"
+
+#: includes/advanced-search.php:198 includes/header-advanced-search.php:218
+#: includes/header-advanced-search.php:541
+#: includes/widgets/ct-widget-listingssearch.php:209
+msgid "To"
+msgstr "Для"
+
+#: includes/advanced-search.php:226 includes/advanced-search.php:227
+#: includes/header-advanced-search.php:283
+#: includes/header-advanced-search.php:284
+#: includes/header-advanced-search.php:605
+#: includes/header-advanced-search.php:606
+#: includes/widgets/ct-widget-listingssearch.php:237
+#: includes/widgets/ct-widget-listingssearch.php:238
+msgid "MLS ID"
+msgstr "МЛС ІД"
+
+#: includes/advanced-search.php:248 includes/header-advanced-search.php:309
+#: includes/header-advanced-search.php:627
+#: includes/header-advanced-search.php:628
+msgid "Keyword"
+msgstr "Сайту"
+
+#: includes/advanced-search.php:249 includes/header-advanced-search.php:310
+msgid "Street, City, State, Zip or keyword"
+msgstr "Вулиця, місто, штат, поштовий індекс або ключове слово"
+
+#: includes/advanced-search.php:265
+#: includes/widgets/ct-widget-listingssearch.php:275
+msgid "More Search Options"
+msgstr "Додаткові Параметри Пошуку "
+
+#: includes/agent-contact-modal.php:21 includes/single-listing-home.php:269
+#: includes/widgets/ct-widget-listingscontact.php:30
+msgid "Tell me more about this property"
+msgstr "Розкажи мені більше про цю нерухомості"
+
+#: includes/featured-listings.php:31 includes/featured-listings.php:33
+msgid "View All"
+msgstr "Дивитися Всі"
+
+#: includes/header-advanced-search.php:192
+#: includes/header-advanced-search.php:515
+msgid "Price range:"
+msgstr "Діапазон цін:"
+
+#: includes/header-advanced-search.php:194
+#: includes/header-advanced-search.php:230
+#: includes/header-advanced-search.php:267
+#: includes/header-advanced-search.php:517
+#: includes/header-advanced-search.php:553
+#: includes/header-advanced-search.php:589
+#: includes/widgets/ct-widget-listingbooktour.php:198
+msgid "to"
+msgstr "для"
+
+#: includes/header-advanced-search.php:228
+#: includes/header-advanced-search.php:551
+msgid "Size range:"
+msgstr "Діапазон розмірів:"
+
+#: includes/header-advanced-search.php:265
+#: includes/header-advanced-search.php:587
+msgid "Lot size range:"
+msgstr "Багато діапазон розмірів:"
+
+#: includes/header-advanced-search.php:312
+#: includes/home-hero-advanced-search.php:22
+msgid "Searching..."
+msgstr "Пошук..."
+
+#: includes/header-advanced-search.php:352
+msgid "Enter a street address or keyword"
+msgstr "Введіть адресу або ключове слово"
+
+#: includes/header-advanced-search.php:468
+msgid "Addtional Features"
+msgstr "Особливості "
+
+#: includes/home-hero-advanced-search.php:21
+msgid "Enter Street, City, State, Zip or keyword"
+msgstr "Введіть вулицю, місто, штат, поштовий індекс або ключове слово"
+
+#: includes/home-listings-count.php:32
+msgid "Homes For Sale"
+msgstr "Будинки На Продаж"
+
+#: includes/home-listings-count.php:84
+msgid "Recently Sold"
+msgstr "Нещодавно Продав"
+
+#: includes/home-listings-count.php:110
+msgid "Reduced"
+msgstr "Зменшується"
+
+#: includes/home-listings-count.php:136
+msgid "For Rent"
+msgstr "Здається В Оренду"
+
+#: includes/home-listings-count.php:162
+msgid "Leased"
+msgstr "Орендовані"
+
+#: includes/home-listings-count.php:214
+msgid "New Additions"
+msgstr "Нові Доповнення"
+
+#: includes/home-listings-count.php:240
+msgid "Special Offers"
+msgstr "Спеціальні Пропозиції"
+
+#: includes/single-listing-attachments.php:20
+#: includes/single-listing-sub-navigation.php:106
+msgid "Attachments"
+msgstr "Вкладення"
+
+#: includes/single-listing-booking-calendar.php:17
+#: includes/single-listing-home.php:155
+msgid "Book this listing"
+msgstr "Забронювати цей список"
+
+#: includes/single-listing-contact.php:106
+msgid "Agent #"
+msgstr ""
+
+#: includes/single-listing-contact.php:203 includes/single-listing-home.php:265
+msgid "Request More Information"
+msgstr "Запитати Додаткову Інформацію"
+
+#: includes/single-listing-contact.php:216
+#: includes/single-listing-lead-media-with-contact.php:140
+msgid "Tell me more about this listing"
+msgstr "Розкажи мені більше про це лістинг"
+
+#: includes/single-listing-contact.php:257 includes/single-listing-home.php:296
+msgid "Co-listing Agent"
+msgstr "Спільно з агентом з нерухомості"
+
+#: includes/single-listing-ct-idx-pro-info.php:60
+msgid "Overview"
+msgstr "Огляд"
+
+#: includes/single-listing-ct-idx-pro-info.php:77
+msgid "Sold Date"
+msgstr "Продається Дату"
+
+#: includes/single-listing-ct-idx-pro-info.php:99
+msgid "Style"
+msgstr "Стиль"
+
+#: includes/single-listing-ct-idx-pro-info.php:110
+msgid "Year Built"
+msgstr "Рік Побудови"
+
+#: includes/single-listing-ct-idx-pro-info.php:121
+msgid "Fencing"
+msgstr "Фехтування"
+
+#: includes/single-listing-ct-idx-pro-info.php:132
+msgid "Topography"
+msgstr "Топографія"
+
+#: includes/single-listing-ct-idx-pro-info.php:143
+msgid "Exterior"
+msgstr "Екстер'єр"
+
+#: includes/single-listing-ct-idx-pro-info.php:154
+msgid "Parking/Garage"
+msgstr "Парковка/Гараж"
+
+#: includes/single-listing-ct-idx-pro-info.php:165
+msgid "Parking/Garage Spaces"
+msgstr "Парковка/Гараж"
+
+#: includes/single-listing-ct-idx-pro-info.php:176
+msgid "Heating"
+msgstr "Опалення"
+
+#: includes/single-listing-ct-idx-pro-info.php:187
+msgid "Heat Source"
+msgstr "Джерело Тепла "
+
+#: includes/single-listing-ct-idx-pro-info.php:198
+msgid "Cooling"
+msgstr "Охолодження"
+
+#: includes/single-listing-ct-idx-pro-info.php:209
+msgid "Water"
+msgstr "Води"
+
+#: includes/single-listing-ct-idx-pro-info.php:220
+msgid "Sewer/Septic"
+msgstr "Каналізація/Септик"
+
+#: includes/single-listing-ct-idx-pro-info.php:235
+#: includes/single-listing-sub-navigation.php:87
+msgid "Features"
+msgstr "Особливості"
+
+#: includes/single-listing-ct-idx-pro-info.php:241
+msgid "Equipment"
+msgstr "Обладнання"
+
+#: includes/single-listing-ct-idx-pro-info.php:252
+msgid "Fireplace"
+msgstr "Камін"
+
+#: includes/single-listing-ct-idx-pro-info.php:263
+msgid "Number of Fireplaces"
+msgstr "Кількість каміни"
+
+#: includes/single-listing-ct-idx-pro-info.php:274
+msgid "Pool"
+msgstr "Басейн"
+
+#: includes/single-listing-ct-idx-pro-info.php:296
+msgid "Security"
+msgstr "Безпеки"
+
+#: includes/single-listing-ct-idx-pro-info.php:307
+msgid "Floor Coverings"
+msgstr "Підлоговими Покриттями"
+
+#: includes/single-listing-ct-idx-pro-info.php:321
+#: includes/single-listing-ct-idx-pro-info.php:327
+msgid "HOA"
+msgstr "ТСЖ"
+
+#: includes/single-listing-ct-idx-pro-info.php:338
+msgid "HOA Fee Due"
+msgstr "ТСЖ плата за"
+
+#: includes/single-listing-ct-idx-pro-info.php:349
+msgid "HOA Includes"
+msgstr "ТСЖ включає"
+
+#: includes/single-listing-energy-efficiency.php:21
+msgid "Energy Efficiency"
+msgstr "Енергоефективності "
+
+#: includes/single-listing-energy-efficiency.php:26
+msgid "Energy Class"
+msgstr "Клас Енергоспоживання"
+
+#: includes/single-listing-energy-efficiency.php:29
+msgid "Global Energy Performance"
+msgstr "Глобальний Енергетичний "
+
+#: includes/single-listing-energy-efficiency.php:32
+msgid "Renewable Energy Performance"
+msgstr "Продуктивність Поновлюваних Джерел Енергії "
+
+#: includes/single-listing-energy-efficiency.php:35
+msgid "Building Energy Performance"
+msgstr "Енергетичної Ефективності Будівлі "
+
+#: includes/single-listing-google-places.php:23
+#: includes/single-listing-yelp.php:23
+#: admin/ReduxFramework/theme-options/re7-config.php:3719
+msgid "What's Nearby?"
+msgstr "Що\\'и поруч?"
+
+#: includes/single-listing-google-places.php:66
+#: includes/single-listing-yelp.php:41
+msgid "Restaurants"
+msgstr "Ресторани"
+
+#: includes/single-listing-google-places.php:75
+#: includes/single-listing-yelp.php:49
+msgid "Coffee Shops"
+msgstr "Кав'ярні"
+
+#: includes/single-listing-google-places.php:84
+#: includes/single-listing-yelp.php:121
+msgid "Stores"
+msgstr "Магазини"
+
+#: includes/single-listing-google-places.php:93
+#: includes/single-listing-yelp.php:65
+msgid "Education"
+msgstr "Освіта"
+
+#: includes/single-listing-google-places.php:102
+msgid "Banks"
+msgstr "Банки"
+
+#: includes/single-listing-google-places.php:111
+#: includes/single-listing-yelp.php:81
+msgid "Bars"
+msgstr "Бари"
+
+#: includes/single-listing-google-places.php:120
+#: includes/single-listing-yelp.php:89
+msgid "Hospitals"
+msgstr "Лікарні"
+
+#: includes/single-listing-google-places.php:129
+#: includes/single-listing-yelp.php:97
+msgid "Gas Stations"
+msgstr "АЗС"
+
+#: includes/single-listing-google-places.php:138
+#: includes/single-listing-yelp.php:105
+msgid "Transit Stations"
+msgstr "Транзитних Станцій"
+
+#: includes/single-listing-google-places.php:147
+#: includes/single-listing-yelp.php:113
+msgid "Convenience Stores"
+msgstr "Магазини"
+
+#: includes/single-listing-google-places.php:156
+#: includes/single-listing-yelp.php:129
+msgid "Shopping Malls"
+msgstr "Торгові Центри"
+
+#: includes/single-listing-google-places.php:165
+#: includes/single-listing-yelp.php:137
+msgid "Veterinary Care"
+msgstr "Ветеринарна Допомога"
+
+#: includes/single-listing-google-places.php:174
+#: includes/single-listing-yelp.php:145
+msgid "Pet Store"
+msgstr "Зоомагазин"
+
+#: includes/single-listing-google-places.php:183
+#: includes/single-listing-yelp.php:153
+msgid "Park"
+msgstr "Парк"
+
+#: includes/single-listing-google-places.php:196
+msgid "Google Places/What's Nearby? Error."
+msgstr "Google місця/що поруч? Помилка."
+
+#: includes/single-listing-google-places.php:197
+msgid ""
+"You need to create an API key go into Admin > Real Estate 7 Options > Google "
+"Maps > API Key, then setup the options via Real Estate 7 Options > \"What's "
+"Nearby?\" panel."
+msgstr ""
+"Потрібно створити API ключ перейдіть до Адміністрування > Нерухомість 7 "
+"опції > карти Google > API-ключа, потім налаштувати параметри по нерухомості "
+"7 \"параметри\" > \"панель\\'и поруч?\"."
+
+#: includes/single-listing-header.php:33 includes/single-listing-header.php:76
+#: includes/single-listing-home.php:74
+msgid "Co-listing"
+msgstr "Ко-лістинг"
+
+#: includes/single-listing-home.php:135
+#: includes/single-listing-rental-info.php:47
+msgid "Prices"
+msgstr "Ціни"
+
+#: includes/single-listing-home.php:365
+msgid "Share This Listing"
+msgstr "Поділитися Цей Список"
+
+#: includes/single-listing-lead-media-with-contact.php:166
+msgid "Request Information"
+msgstr "Запит Інформації"
+
+#: includes/single-listing-map.php:27
+msgid "Enter your starting address"
+msgstr "Введіть початковий адресу"
+
+#: includes/single-listing-map.php:43
+msgid "get directions"
+msgstr "отримати направлення"
+
+#: includes/single-listing-multi-floorplan.php:21
+msgid "Floor Plans & Pricing"
+msgstr "Плани Поверхів "
+
+#: includes/single-listing-multi-floorplan.php:40
+msgid "Size"
+msgstr "Розмір"
+
+#: includes/single-listing-multi-floorplan.php:46
+msgid "Availability"
+msgstr "В наявності"
+
+#: includes/single-listing-open-house.php:35
+msgid "Time"
+msgstr "Час"
+
+#: includes/single-listing-open-house.php:38
+#: includes/single-listing-open-house.php:80
+msgid "RSVP"
+msgstr "Відповідь"
+
+#: includes/single-listing-propinfo.php:18
+msgid "MLS #"
+msgstr ""
+
+#: includes/single-listing-propinfo.php:20
+msgid "Property ID #"
+msgstr ""
+
+#: includes/single-listing-rental-info.php:25
+msgid "Rental Information"
+msgstr "Інформація По Оренді"
+
+#: includes/single-listing-sub-listings.php:21
+msgid "Other Listings in Neighborhood"
+msgstr "Інші пропозиції в районі"
+
+#: includes/single-listing-sub-listings.php:23
+msgid "Other Listings in Suburb"
+msgstr "Інші пропозиції в передмісті"
+
+#: includes/single-listing-sub-listings.php:25
+msgid "Other Listings in District"
+msgstr "Інші пропозиції в районі"
+
+#: includes/single-listing-sub-listings.php:27
+msgid "Other Listings in School District"
+msgstr "Інші оголошення в шкільний округ"
+
+#: includes/single-listing-sub-listings.php:29
+msgid "Other Listings in Building"
+msgstr "Інші оголошення в будівництво"
+
+#: includes/single-listing-sub-listings.php:31
+msgid "Other Listings in Borough"
+msgstr "Інші оголошення в Боро"
+
+#: includes/single-listing-sub-listings.php:33
+msgid "Other Listings in Community"
+msgstr "Інші пропозиції в співтоваристві"
+
+#: includes/single-listing-sub-navigation.php:34
+msgid "Description"
+msgstr "Опис"
+
+#: includes/single-listing-sub-navigation.php:61
+msgid "Floor Plans"
+msgstr "Плани Поверхів "
+
+#: includes/single-listing-sub-navigation.php:96
+msgid "Booking"
+msgstr "Бронювання"
+
+#: includes/single-listing-sub-navigation.php:117
+#: includes/single-listing-video.php:16
+msgid "Video"
+msgstr "Відео"
+
+#: includes/single-listing-sub-navigation.php:127
+msgid "Tour"
+msgstr "Тур"
+
+#: includes/single-listing-sub-navigation.php:142
+msgid "Nearby"
+msgstr "Поруч"
+
+#: includes/single-listing-sub-navigation.php:163
+msgid "Listing Features"
+msgstr "Особливості Лістингу "
+
+#: includes/single-listing-virtual-tour.php:19
+msgid "Virtual Tour"
+msgstr "Віртуальний Тур"
+
+#: includes/single-listing-yelp.php:22
+msgid "powered by "
+msgstr "живлення від "
+
+#: includes/single-listing-yelp.php:57
+msgid "Grocery"
+msgstr "Продуктовий"
+
+#: includes/single-listing-yelp.php:73
+msgid "Bank"
+msgstr "Банк"
+
+#: layouts/blog-grid.php:96 layouts/blog-large.php:96
+msgid "Read More"
+msgstr "Детальніше"
+
+#: layouts/grid.php:22 layouts/list.php:23
+msgid "This agent currently has no active listings."
+msgstr "Цей агент в даний час немає активних оголошень."
+
+#: layouts/grid.php:24 layouts/list.php:25
+msgid "This brokerage currently has no active listings."
+msgstr "В даний час ця брокерська немає активних оголошень."
+
+#: layouts/grid.php:26 layouts/list.php:27
+msgid "No properties were found which match your search criteria"
+msgstr ""
+"Ніякі властивості були знайдені, які відповідають вашим критеріям пошуку "
+
+#: layouts/saved-search-list.php:57 includes/widgets/ct-widget-tabs.php:214
+msgid "on"
+msgstr "на"
+
+#: layouts/saved-search-list.php:57
+msgid "On"
+msgstr "На"
+
+#: layouts/saved-search-list.php:58
+msgid "off"
+msgstr "від"
+
+#: layouts/saved-search-list.php:58
+msgid "Off"
+msgstr "Від"
+
+#: admin/ct-social/ct-social.php:28
+msgid "CT Social"
+msgstr "КТ Соціальна"
+
+#: admin/ct-social/ct-social.php:125
+#: includes/widgets/ct-widget-agentinfo.php:106
+#: includes/widgets/ct-widget-agentsotherlistings.php:287
+#: includes/widgets/ct-widget-blogauthor.php:60
+#: includes/widgets/ct-widget-brokerinfo.php:78
+#: includes/widgets/ct-widget-contactinfo.php:140
+#: includes/widgets/ct-widget-latestposts.php:70
+#: includes/widgets/ct-widget-listings.php:130
+#: includes/widgets/ct-widget-listingscontact.php:68
+#: includes/widgets/ct-widget-listingssearch.php:299
+#: includes/widgets/ct-widget-search.php:40
+#: includes/widgets/ct-widget-testimonials.php:62
+msgid "Title:"
+msgstr "Назва:"
+
+#: admin/ct-social/ct-social.php:129
+msgid "Dribbble:"
+msgstr "Робочий процес:"
+
+#: admin/ct-social/ct-social.php:133
+#: includes/widgets/ct-widget-contactinfo.php:176
+msgid "Email:"
+msgstr "Електронна пошта:"
+
+#: admin/ct-social/ct-social.php:137
+#: includes/widgets/ct-widget-contactinfo.php:180
+msgid "Facebook:"
+msgstr "Facebook:"
+
+#: admin/ct-social/ct-social.php:141
+msgid "Flickr:"
+msgstr "Фликр:"
+
+#: admin/ct-social/ct-social.php:145
+msgid "Foursquare:"
+msgstr "Форсквер:"
+
+#: admin/ct-social/ct-social.php:149
+msgid "GitHub:"
+msgstr "Гитхаб:"
+
+#: admin/ct-social/ct-social.php:153
+#: includes/widgets/ct-widget-contactinfo.php:196
+msgid "Instagram:"
+msgstr "Instagram:"
+
+#: admin/ct-social/ct-social.php:157
+#: includes/widgets/ct-widget-contactinfo.php:188
+msgid "LinkedIn:"
+msgstr "У LinkedIn:"
+
+#: admin/ct-social/ct-social.php:161
+msgid "Medium:"
+msgstr "Засіб:"
+
+#: admin/ct-social/ct-social.php:165
+#: includes/widgets/ct-widget-contactinfo.php:192
+msgid "Pinterest:"
+msgstr "Пинтерест:"
+
+#: admin/ct-social/ct-social.php:169
+msgid "Skype:"
+msgstr "Скайп:"
+
+#: admin/ct-social/ct-social.php:173
+#: includes/widgets/ct-widget-contactinfo.php:184
+msgid "Twitter:"
+msgstr "Твіттер:"
+
+#: admin/ct-social/ct-social.php:177
+msgid "YouTube:"
+msgstr "На YouTube:"
+
+#: admin/ct-social/ct-social.php:181
+msgid "Links:"
+msgstr "Посилання:"
+
+#: admin/getting-started/getting-started.php:91
+#, php-format
+msgid "Getting started with %1$s v%2$s"
+msgstr "Приступаючи до роботи з %1$S До%2$s"
+
+#: admin/getting-started/getting-started.php:93
+#, php-format
+msgid ""
+"Thanks for purchasing %1$s! I truly appreciate the support and the "
+"opportunity to share my work with you. Please visit the tabs below to get "
+"started setting up your theme!"
+msgstr ""
+"Спасибі за покупку %1$! Я дійсно ціную підтримку і можливість поділитися "
+"своїми роботами з вами. Будь ласка, відвідайте вкладки нижче, щоб приступити "
+"до налаштування вашої теми!"
+
+#: admin/getting-started/getting-started.php:99
+msgid "Start Here"
+msgstr "Почніть Тут"
+
+#: admin/getting-started/getting-started.php:100
+msgid "Plugins"
+msgstr "Плагіни"
+
+#: admin/getting-started/getting-started.php:101
+msgid "FAQ &amp; Support"
+msgstr "Чаво "
+
+#: admin/getting-started/getting-started.php:102
+msgid "Latest Updates"
+msgstr "Останні Оновлення"
+
+#: admin/getting-started/getting-started.php:110
+#, php-format
+msgid "Installing %s"
+msgstr "Установка %з"
+
+#: admin/getting-started/getting-started.php:116
+#: admin/ReduxFramework/theme-options/re7-config.php:5260
+msgid "Documentation"
+msgstr "Документація"
+
+#: admin/getting-started/getting-started.php:170
+msgid "Required & Recommended Plugins"
+msgstr "Потрібно "
+
+#: admin/getting-started/getting-started.php:172
+msgid ""
+"Below is a list of required and recommended plugins to install that will "
+"help you get the most out of WP Pro Real Estate 7. To begin please use the "
+"button below or browse through the list to learn about each one in a little "
+"more detail."
+msgstr ""
+"Нижче наводиться перелік обов'язкових та рекомендованих плагінів для "
+"встановлення, які допоможуть вам отримати максимальну віддачу від PRO WP "
+"нерухомість 7. Щоб почати, будь ласка, використовуйте кнопку нижче або "
+"переглянути список, щоб дізнатися про кожному трохи більш докладно."
+
+#: admin/getting-started/getting-started.php:178
+#: admin/getting-started/getting-started.php:190
+#: admin/plugins/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr "Потрібно"
+
+#: admin/getting-started/getting-started.php:178 admin/plugins/register.php:66
+msgid "Redux Framework"
+msgstr "Redux Рамки "
+
+#: admin/getting-started/getting-started.php:180
+msgid "Install Redux Framework"
+msgstr "Встановити Структуру Redux "
+
+#: admin/getting-started/getting-started.php:180
+#: admin/getting-started/getting-started.php:192
+#: admin/getting-started/getting-started.php:204
+#: admin/getting-started/getting-started.php:216
+#: admin/getting-started/getting-started.php:228
+#: admin/getting-started/getting-started.php:240
+#: admin/getting-started/getting-started.php:252
+#: admin/getting-started/getting-started.php:264
+#: admin/getting-started/getting-started.php:276
+#: admin/getting-started/getting-started.php:288
+#: admin/getting-started/getting-started.php:300
+#: admin/getting-started/getting-started.php:315
+#: admin/getting-started/getting-started.php:327
+#: admin/getting-started/getting-started.php:339
+#: admin/getting-started/getting-started.php:351
+#: admin/getting-started/getting-started.php:363
+#: admin/getting-started/getting-started.php:375
+#: admin/getting-started/getting-started.php:387
+msgid "Install Now"
+msgstr "Встановити Зараз"
+
+#: admin/getting-started/getting-started.php:182
+#: admin/getting-started/getting-started.php:194
+#: admin/getting-started/getting-started.php:206
+#: admin/getting-started/getting-started.php:218
+#: admin/getting-started/getting-started.php:230
+#: admin/getting-started/getting-started.php:242
+#: admin/getting-started/getting-started.php:254
+#: admin/getting-started/getting-started.php:266
+#: admin/getting-started/getting-started.php:278
+#: admin/getting-started/getting-started.php:290
+#: admin/getting-started/getting-started.php:302
+#: admin/getting-started/getting-started.php:317
+#: admin/getting-started/getting-started.php:329
+#: admin/getting-started/getting-started.php:341
+#: admin/getting-started/getting-started.php:353
+#: admin/getting-started/getting-started.php:365
+#: admin/getting-started/getting-started.php:377
+#: admin/getting-started/getting-started.php:389
+msgid "Installed"
+msgstr "Встановлено"
+
+#: admin/getting-started/getting-started.php:186
+msgid "This plugin is used for the admin options framework."
+msgstr "Цей плагін використовується для рамок адміністратора."
+
+#: admin/getting-started/getting-started.php:190 admin/plugins/register.php:72
+msgid "Contempo Real Estate Custom Posts"
+msgstr "Контемпо Реальні Митні Пости Майна "
+
+#: admin/getting-started/getting-started.php:192
+msgid "Install Contempo Real Estate Custom Posts"
+msgstr "Встановіть Контемпо Реальні Митні Пости Майна "
+
+#: admin/getting-started/getting-started.php:198
+msgid ""
+"This plugin registers the listings, brokerages & testimonials custom post "
+"types, along with related custom fields & taxonomies, as well as all the "
+"custom Visual Composer modules (if you have the Visual Composer plugin "
+"installed & activated)."
+msgstr "Цей плагін реєструє списки, брокерів "
+
+#: admin/getting-started/getting-started.php:202
+#: admin/getting-started/getting-started.php:214
+#: admin/getting-started/getting-started.php:226
+#: admin/getting-started/getting-started.php:238
+#: admin/getting-started/getting-started.php:250
+#: admin/getting-started/getting-started.php:262
+#: admin/getting-started/getting-started.php:274
+#: admin/getting-started/getting-started.php:286
+#: admin/getting-started/getting-started.php:298
+#: admin/getting-started/getting-started.php:313
+#: admin/getting-started/getting-started.php:325
+#: admin/getting-started/getting-started.php:337
+#: admin/getting-started/getting-started.php:349
+#: admin/getting-started/getting-started.php:361
+#: admin/getting-started/getting-started.php:373
+#: admin/getting-started/getting-started.php:385
+#: admin/plugins/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr "Рекомендується"
+
+#: admin/getting-started/getting-started.php:202 admin/plugins/register.php:132
+msgid "Contempo Membership & Packages"
+msgstr "Членство Контемпо "
+
+#: admin/getting-started/getting-started.php:204
+msgid "Install Contempo Membership & Packages"
+msgstr "Встановити Членство Контемпо "
+
+#: admin/getting-started/getting-started.php:210
+msgid ""
+"This plugin adds the ability to create membership & packages for use with "
+"the front end submission system in WP Pro Real Estate 7, with Stripe, PayPal "
+"& Wire Transfer payment methods."
+msgstr "Цей плагін додає можливість створити членство "
+
+#: admin/getting-started/getting-started.php:214 admin/plugins/register.php:176
+msgid "Contempo Saved Searches & Email Alerts"
+msgstr "Контемпо Збережених Пошуків "
+
+#: admin/getting-started/getting-started.php:216
+msgid "Install Contempo Saved Searches & Email Alerts"
+msgstr "Встановіть Контемпо Збережених Пошуків "
+
+#: admin/getting-started/getting-started.php:222
+msgid "This plugin allows users be alerted via email when a listing is added."
+msgstr ""
+"Цей плагін дозволяє користувачам отримувати оповіщення по електронній пошті "
+"при додаванні в список."
+
+#: admin/getting-started/getting-started.php:226 admin/plugins/register.php:165
+msgid "Contempo Compare Listings"
+msgstr "Порівняти Пропозиції Контемпо "
+
+#: admin/getting-started/getting-started.php:228
+#: admin/getting-started/getting-started.php:252
+msgid "Install Contempo Compare Listings"
+msgstr "Встановіть Контемпо Порівняти Результати"
+
+#: admin/getting-started/getting-started.php:234
+msgid "This plugin adds compare functionality for listings."
+msgstr "Цей плагін додає порівняти функції для списків."
+
+#: admin/getting-started/getting-started.php:238 admin/plugins/register.php:154
+msgid "Contempo Mortgage Calculator Widget"
+msgstr "Віджет Іпотечного Калькулятора Контемпо "
+
+#: admin/getting-started/getting-started.php:240
+msgid "Install Contempo Mortgage Calculator Widget"
+msgstr "Встановіть Контемпо Віджет Іпотечного Калькулятора "
+
+#: admin/getting-started/getting-started.php:246
+msgid "This plugin enables a simple mortgage calculator widget."
+msgstr "Цей плагін надає простий віджет іпотечного калькулятора."
+
+#: admin/getting-started/getting-started.php:250 admin/plugins/register.php:187
+msgid "Contempo Child Theme Generator"
+msgstr "Генератор Тема Контемпо Дитини "
+
+#: admin/getting-started/getting-started.php:258
+msgid ""
+"This plugin allows admin users to easily generate a child theme from your "
+"Admin > Appearance panel."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+"Цей плагін дозволяє користувачам адміністратора, щоб легко створити дочірню "
+"тему від вашого адміністратора > зовнішній вигляд панелі."
+msgstr[1] "Ця тема вимагає наступні плагіни: %1$ів."
+msgstr[2] ""
+
+#: admin/getting-started/getting-started.php:262
+msgid "Contempo Payment Gateways"
+msgstr "Платіжними Контемпо "
+
+#: admin/getting-started/getting-started.php:264
+msgid "Install Contempo Payment Gateways"
+msgstr "Встановити Платіжні Шлюзи Контемпо "
+
+#: admin/getting-started/getting-started.php:270
+msgid ""
+"This plugin enables the PayPal API and only required if you're going to be "
+"charging single listing payments from the front end of the site, if you're "
+"using the Membership & Packages plugin leave this plugin deactivated."
+msgstr ""
+"Цей плагін дозволяє API PayPal і потрібно, тільки якщо ви\\'повторно буде "
+"доручати разові платежі лістинг з передній частині сайту, якщо ви\\'повторно "
+"використовуючи членство "
+
+#: admin/getting-started/getting-started.php:274 admin/plugins/register.php:198
+msgid "Slider Revolution"
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Слайдер Революція "
+msgstr[1] "Ця тема рекомендує наступні плагіни: %1$ів."
+msgstr[2] ""
+
+#: admin/getting-started/getting-started.php:276
+msgid "Install Slider Revolution"
+msgstr "Встановіть Слайдер Революція "
+
+#: admin/getting-started/getting-started.php:282
+msgid ""
+"Slider Revolution is an innovative, responsive WordPress Slider Plugin that "
+"displays your content the beautiful way."
+msgstr ""
+"Слайдер революція-це інноваційний, чуйний слайдер WordPress плагін, який "
+"відображає вміст красивий спосіб."
+
+#: admin/getting-started/getting-started.php:286
+msgid "Visual Composer"
+msgstr "Візуальний Композитор"
+
+#: admin/getting-started/getting-started.php:288
+msgid "Install Visual Composer"
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] "Встановіть Візуальний Композитор"
+msgstr[1] ""
+"Наступні плагіни повинні бути оновлені до останньої версії, щоб забезпечити "
+"максимальну сумісність з цією темою: %1$S."
+msgstr[2] ""
+
+#: admin/getting-started/getting-started.php:294
+msgid ""
+"WordPress Page Builder plugin with intuitive drag and drop interface. Build "
+"any page fast and easy. Unlimited layouts for your website."
+msgstr ""
+"WordPress плагін будівельника сторінки з інтуїтивно зрозумілим інтерфейсом "
+"перетягування. Побудувати будь-яку сторінку швидко і легко. Необмежена "
+"макети для вашого сайту."
+
+#: admin/getting-started/getting-started.php:298
+msgid "WPML"
+msgstr "Н"
+
+#: admin/getting-started/getting-started.php:300
+msgid "Install WPML"
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Встановити Н"
+msgstr[1] "Там доступні оновлення для наступних модулів: %1$S."
+msgstr[2] ""
+
+#: admin/getting-started/getting-started.php:308
+#, php-format
+msgid ""
+"<a href=\"%s\" target=\"_blank\">WPML</a> allows running fully multilingual "
+"websites with WordPress, making it easy to translate WordPress pages, posts, "
+"tags, categories and themes."
+msgstr ""
+
+#: admin/getting-started/getting-started.php:313
+#: admin/getting-started/getting-started.php:337 admin/plugins/register.php:86
+msgid "WordPress Social Login"
+msgstr "WordPress Соціальні Логін"
+
+#: admin/getting-started/getting-started.php:315
+#: admin/getting-started/getting-started.php:327
+msgid "Install WP Favorite Posts"
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Встановити WP улюблені пости"
+msgstr[1] "В даний час такі обов'язкові Плагіни неактивні: %1$ів."
+msgstr[2] ""
+
+#: admin/getting-started/getting-started.php:321
+msgid ""
+"This plugin allows users to login/register with their social profiles like "
+"Facebook, Google, Twitter, etc&hellip;"
+msgstr ""
+"Цей плагін дозволяє користувачам увійти/зареєструватися у соціальних мережах,"
+" як Facebook, Google, Twitter і т. д."
+
+#: admin/getting-started/getting-started.php:325 admin/plugins/register.php:121
+#: admin/ReduxFramework/theme-options/re7-config.php:4827
+msgid "WP Favorite Posts"
+msgstr "WР улюблені пости"
+
+#: admin/getting-started/getting-started.php:333
+msgid ""
+"This plugin allows users to favorite & save listings from the front end of "
+"the site."
+msgstr "Цей плагін дозволяє користувачам улюблені "
+
+#: admin/getting-started/getting-started.php:339
+msgid "Install WordPress Social Login"
+msgstr "Встановити Wordpress Вхід Через Соціальні Мережі"
+
+#: admin/getting-started/getting-started.php:345
+msgid ""
+"This plugin allows users to login/register for your site via social networks "
+"like Facebook, Google, Twitter, etc&hellip;"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+"Цей плагін дозволяє користувачам увійти/зареєструватися на вашому сайті "
+"через соціальні мережі, такі як Facebook, Google, Twitter і т. д."
+msgstr[1] "Почати установку плагінів"
+msgstr[2] ""
+
+#: admin/getting-started/getting-started.php:349 admin/plugins/register.php:92
+msgid "Booking Calendar"
+msgstr "Календар Бронювання "
+
+#: admin/getting-started/getting-started.php:351
+msgid "Install Booking Calendar"
+msgstr "Встановіть Календар Бронювання "
+
+#: admin/getting-started/getting-started.php:357
+msgid ""
+"This plugin will enable online booking services, however you're free to use "
+"whatever booking plugin you'd like as long as it supports shortcodes."
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+"Цей плагін дозволить сервіс онлайн бронювання, але ви\\'повторно безкоштовно,"
+" щоб використовувати всі бронювання плагіна ви\\'D подобається, як довго, як "
+"він підтримує шорткоди."
+msgstr[1] "Почати оновлення плагінів"
+msgstr[2] ""
+
+#: admin/getting-started/getting-started.php:361 admin/plugins/register.php:98
+msgid "Co-Authors Plus"
+msgstr "Співавтори Плюс"
+
+#: admin/getting-started/getting-started.php:363
+msgid "Install Co-Authors Plus"
+msgstr "Встановіть Співавтори Плюс"
+
+#: admin/getting-started/getting-started.php:369
+msgid ""
+"This plugin allows you to assign multiple users or agents to listings, "
+"perfect for co-listings."
+msgstr ""
+"Цей плагін дозволяє призначити кількох користувачів або агентам списки, "
+"ідеально підходить для спільного оголошень."
+
+#: admin/getting-started/getting-started.php:373 admin/plugins/register.php:104
+msgid "Comments Ratings"
+msgstr "Рейтинги Коментарі "
+
+#: admin/getting-started/getting-started.php:375
+msgid "Install Comments Ratings"
+msgstr "Встановіть Рейтинги Коментарі "
+
+#: admin/getting-started/getting-started.php:381
+msgid "This plugin allows you to enable ratings for your listings."
+msgstr "Цей плагін дозволяє включити оцінки для Вашого оголошення."
+
+#: admin/getting-started/getting-started.php:385 admin/plugins/register.php:220
+msgid "Envato Market"
+msgstr "Ринок Передає Вагу "
+
+#: admin/getting-started/getting-started.php:387
+msgid "Install Envato Market"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "Встановіть Ринку Передає Вагу "
+msgstr[1] "Наступні плагіни були успішно активований:"
+msgstr[2] ""
+
+#: admin/getting-started/getting-started.php:393
+msgid ""
+"This plugin allows you to easily get theme updates through your WordPress "
+"admin."
+msgstr ""
+"Цей плагін дозволяє легко зробити тему оновлення за допомогою адмін панелі "
+"WordPress."
+
+#: admin/getting-started/getting-started.php:402
+#, php-format
+msgid "Support for %s?"
+msgstr "Підтримки для %S?"
+
+#: admin/getting-started/getting-started.php:408
+#, php-format
+msgid ""
+"If you've read through the <a href=\"%1$s\" target=\"_blank\">"
+"documentation</a> and still have questions or are experiencing issues, I'm "
+"happy to help! Simply <a href=\"%2$s\"  target=\"_blank\" title=\"Open a "
+"live chat\">open a live chat</a> or <a href=\"%3$s\" target=\"_blank\">leave "
+"a comment</a> on the item page and I'll personally get back to you, thanks "
+"in advance for your patience."
+msgstr ""
+
+#: admin/getting-started/getting-started.php:411
+#, php-format
+msgid "FAQ for %s?"
+msgstr "Чаво для %S?"
+
+#: admin/getting-started/getting-started.php:414
+msgid ""
+"The following articles below cover many frequently asked questions that you "
+"may have."
+msgstr ""
+"В наступних статтях нижче охоплюють багато часті питання, які можуть у вас "
+"виникнути."
+
+#: admin/getting-started/getting-started.php:460
+msgid "Need Modifications or Customizations?"
+msgstr "Необхідність змін або налаштувань?"
+
+#: admin/getting-started/getting-started.php:465
+#, php-format
+msgid ""
+"Send me an email <a href=\"mailto:%s\">chris@contempothemes.com</a>, with a "
+"detailed outline of what you’d like to accomplish and I’ll get you a quote "
+"and turnaround time."
+msgstr ""
+
+#: admin/getting-started/getting-started.php:474
+#, php-format
+msgid ""
+"Please note that support requests will not be answered via email, only "
+"through my <a href=\"%1$s\" target=\"_blank\">live chat</a> or within the <a "
+"href=\"%2$s\" target=\"_blank\">item comments</a>."
+msgstr ""
+
+#: admin/getting-started/getting-started.php:484
+msgid "Hosting Recommendations"
+msgstr "Таких Рекомендацій"
+
+#: admin/getting-started/getting-started.php:498
+#: admin/getting-started/getting-started.php:501
+msgid "Visit the Knowledge Base"
+msgstr "Відвідайте базу знань "
+
+#: admin/getting-started/getting-started.php:499
+msgid ""
+"New to the WordPress world? The Knowledge Base has a boat load of articles "
+"to help you with any issues that might arise."
+msgstr ""
+"Новачок у світі Вордпресс? База знань завантаження човна статей, щоб "
+"допомогти вам з будь-якими питаннями, які можуть виникнути."
+
+#: admin/getting-started/getting-started.php:501
+msgid "Visit the knowledge base"
+msgstr "Відвідайте базу знань "
+
+#: admin/google-places/GooglePlaces.php:149
+#: admin/google-places/GooglePlaces.php:165
+#: admin/google-places/GooglePlaces.php:182
+msgid "Google Places API is currently unavailable."
+msgstr "Google місця API в даний час недоступні."
+
+#: admin/google-places/GooglePlaces.php:151
+msgid ""
+"You must specify a valid listing location, use street address in the listing "
+"title along with city, state & zip/postcode — if not use the optional "
+"latitude & longitude field."
+msgstr ""
+"Необхідно вказати правильне розташування лістинг, використовуйте адресу в "
+"заголовку оголошення із зазначенням міста, держави "
+
+#: admin/google-places/GooglePlaces.php:167
+#: admin/google-places/GooglePlaces.php:207
+msgid ""
+"You much specify at least one of the following: \"keyword\", \"name\", "
+"\"types\"."
+msgstr ""
+"Вам багато вказати принаймні одну з таких: \"ключове слово\", \"ім'я\", "
+"\"типи\"."
+
+#: admin/google-places/GooglePlaces.php:184
+#: admin/google-places/GooglePlaces.php:201
+msgid "You must specify a radius."
+msgstr "Необхідно вказати радіус."
+
+#: admin/google-places/GooglePlaces.php:197
+msgid "You must specify a location before calling radarsearch()."
+msgstr "Ви повинні вказати місце перед викликом radarsearch()."
+
+#: admin/google-places/GooglePlaces.php:221
+msgid ""
+"You must specify either a \"placeid\" or a \"reference\" (but not both) "
+"before calling details()."
+msgstr ""
+"Ви повинні вказати або \"placeid\" або \"посилання\" (але не обидва) перш "
+"ніж називати деталі()."
+
+#: admin/plugins/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr "Встановити Необхідні Плагіни"
+
+#: admin/plugins/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr "Встановити Плагіни"
+
+#. %s: plugin name.
+#: admin/plugins/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Установка плагіна: %s"
+
+#. %s: plugin name.
+#: admin/plugins/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr "Оновлення плагіна: %s"
+
+#: admin/plugins/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr "Щось пішло не так з API плагінів."
+
+#: admin/plugins/class-tgm-plugin-activation.php:341
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgstr "Ця тема вимагає наступних модулів: %1$ів."
+
+#: admin/plugins/class-tgm-plugin-activation.php:347
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgstr "Ця тема рекомендує наступний плагін: %1$S."
+
+#: admin/plugins/class-tgm-plugin-activation.php:353
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr ""
+"Наступний плагін повинен бути оновлений до останньої версії, щоб забезпечити "
+"максимальну сумісність з цією темою: %1$ів."
+
+#: admin/plugins/class-tgm-plugin-activation.php:359
+#, php-format
+msgid "There is an update available for: %1$s."
+msgstr "Оновлення доступно для: %1$ів."
+
+#: admin/plugins/class-tgm-plugin-activation.php:365
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgstr "Наступний необхідний плагін поки не працює: %1$S."
+
+#: admin/plugins/class-tgm-plugin-activation.php:371
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgstr "Наступні рекомендовані плагін поки не працює: %1$S."
+
+#: admin/plugins/class-tgm-plugin-activation.php:377
+msgid "Begin installing plugin"
+msgstr "Почати установку плагіна"
+
+#: admin/plugins/class-tgm-plugin-activation.php:382
+msgid "Begin updating plugin"
+msgstr "Почати оновлення плагіна"
+
+#: admin/plugins/class-tgm-plugin-activation.php:387
+msgid "Begin activating plugin"
+msgstr "Почне активувати плагін"
+
+#: admin/plugins/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr "Повернутися до Плагіни, необхідні установки"
+
+#: admin/plugins/class-tgm-plugin-activation.php:393
+#: admin/plugins/class-tgm-plugin-activation.php:912
+#: admin/plugins/class-tgm-plugin-activation.php:2618
+#: admin/plugins/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr "Повернутися до приладової панелі"
+
+#: admin/plugins/class-tgm-plugin-activation.php:394
+#: admin/plugins/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr "Плагін успішно активований."
+
+#: admin/plugins/class-tgm-plugin-activation.php:395
+#: admin/plugins/class-tgm-plugin-activation.php:3037
+msgid "The following plugin was activated successfully:"
+msgstr "Наступний плагін був успішно активований:"
+
+#. 1: plugin name.
+#: admin/plugins/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Жодних заходів не вжито. Плагін %1$S, там вже був активним."
+
+#. 1: plugin name.
+#: admin/plugins/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+"Плагін не активований. Більш пізня версія %S необхідно для цієї теми. Будь "
+"ласка, поновіть плагін."
+
+#. 1: dashboard link.
+#: admin/plugins/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Всі плагіни встановлені і активовані. %1$з"
+
+#: admin/plugins/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+"Наявності одного або декількох обов'язкових і рекомендованих плагінів "
+"встановити, оновити і активувати."
+
+#: admin/plugins/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr "Будь ласка, зверніться до системного адміністратора."
+
+#: admin/plugins/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Цей плагін повинен бути оновлений, щоб бути сумісним з вашою темою."
+
+#: admin/plugins/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr "Потрібне Оновлення"
+
+#: admin/plugins/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+"Пакет віддалений плагін не містить папку з потрібною кулею і перейменування "
+"не працює."
+
+#: admin/plugins/class-tgm-plugin-activation.php:1019
+#: admin/plugins/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+"Будь ласка, зв'яжіться з постачальником плагіна і попросити їх упакувати "
+"плагін у відповідності з керівними принципами для WordPress."
+
+#: admin/plugins/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+"Пакет дистанційного плагін складається з більш ніж одного файлу, але не "
+"упаковані файли в папку."
+
+#: admin/plugins/class-tgm-plugin-activation.php:1206
+#: admin/plugins/class-tgm-plugin-activation.php:3033
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "і"
+
+#. %s: version number
+#: admin/plugins/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr "TGMPA у%до"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr "Репозиторію WordPress "
+
+#: admin/plugins/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr "Зовнішнього Джерела"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr "Попередньо Упаковані"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr "Не Встановлено"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr "Встановлений, Але Не Активований"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr "Активний"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr "Необхідне оновлення доступно"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr "Потребує Оновлення"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr "Оновлення рекомендується"
+
+#. 1: install status, 2: update status
+#: admin/plugins/class-tgm-plugin-activation.php:2427
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s %2$ів"
+
+#. 1: number of plugins.
+#: admin/plugins/class-tgm-plugin-activation.php:2473
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#. 1: number of plugins.
+#: admin/plugins/class-tgm-plugin-activation.php:2477
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#. 1: number of plugins.
+#: admin/plugins/class-tgm-plugin-activation.php:2481
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#. 1: number of plugins.
+#: admin/plugins/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2567
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "невідомо"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr "Встановлена версія:"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr "Мінімальна необхідна версія:"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr "Доступні версії:"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr "Ніяких плагінів встановлювати, оновлювати і активувати."
+
+#: admin/plugins/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr "Плагін"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr "Джерело"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr "Версія"
+
+#. %2$s: plugin name in screen reader markup
+#: admin/plugins/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr "Встановити %2$ів"
+
+#. %2$s: plugin name in screen reader markup
+#: admin/plugins/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr "Оновлення %2$ів"
+
+#. %2$s: plugin name in screen reader markup
+#: admin/plugins/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr "Активуйте %2$ів"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr "Повідомлення оновлення від автора плагіна:"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr "Установіть"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr "Активувати"
+
+#: admin/plugins/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Плагіни не були вибрані для установки. Жодних заходів не вжито."
+
+#: admin/plugins/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Плагіни не були обрані, щоб бути оновлені. Жодних заходів не вжито."
+
+#: admin/plugins/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr "Ніяких плагінів можна встановити в цей час."
+
+#: admin/plugins/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr "Плагіни не можуть бути оновлені в даний момент."
+
+#: admin/plugins/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Плагіни не були обрані, щоб бути активований. Жодних заходів не вжито."
+
+#: admin/plugins/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr "Плагіни доступні, щоб бути активована в даний момент."
+
+#: admin/plugins/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr "Активація плагіна не вдалося."
+
+#. 1: plugin name, 2: action number 3: total number of actions.
+#: admin/plugins/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Оновлення плагін %1$s (%2$Д/%3$д)"
+
+#. 1: plugin name, 2: error message.
+#: admin/plugins/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. 1: plugin name.
+#: admin/plugins/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "Встановлення %1$s не вдався."
+
+#: admin/plugins/class-tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"Процес установки і активації починається. Цей процес може зайняти деякий час "
+"на одних господарів, тому, будь ласка, будьте терплячими."
+
+#. 1: plugin name.
+#: admin/plugins/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s встановлена і успішно активований."
+
+#: admin/plugins/class-tgm-plugin-activation.php:3594
+#: admin/plugins/class-tgm-plugin-activation.php:3602
+msgid "Show Details"
+msgstr "Показати Подробиці"
+
+#: admin/plugins/class-tgm-plugin-activation.php:3594
+#: admin/plugins/class-tgm-plugin-activation.php:3602
+msgid "Hide Details"
+msgstr "Приховати Деталі"
+
+#: admin/plugins/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr "Всі установки і активації була завершена."
+
+#. 1: plugin name, 2: action number 3: total number of actions.
+#: admin/plugins/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Встановивши і активувавши плагін %1$s (%2$Д/%3$д)"
+
+#: admin/plugins/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"Процес установки починається. Цей процес може зайняти деякий час на одних "
+"господарів, тому, будь ласка, будьте терплячими."
+
+#. 1: plugin name.
+#: admin/plugins/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1 s успішно встановлений$."
+
+#: admin/plugins/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr "Всі установки були завершені."
+
+#. 1: plugin name, 2: action number 3: total number of actions.
+#: admin/plugins/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Встановивши плагін %1$s (%2$Д/%3$д)"
+
+#: admin/plugins/register.php:80
+msgid "Elementor Page Builder"
+msgstr "Факір Творець Сторінки "
+
+#: admin/plugins/register.php:110
+msgid "Contempo Listing Analytics"
+msgstr "Контемпо Лістинг Аналітика"
+
+#: admin/plugins/register.php:143
+msgid "Contempo Real Estate 7 Payment Gateways"
+msgstr "Контемпо Нерухомості 7 Платіжні Шлюзи"
+
+#: admin/plugins/register.php:209
+msgid "WPBakery Page Builder"
+msgstr "WPBakery Сторінці Забудовника"
+
+#: includes/widgets/ct-widget-adspace.php:13
+msgid "CT Adspace Widget"
+msgstr "Віджет КТ Adspace "
+
+#: includes/widgets/ct-widget-adspace.php:61
+#: includes/widgets/ct-widget-listingscrolltocontact.php:62
+#: includes/widgets/ct-widget-listingssocial.php:48
+msgid "Title (optional):"
+msgstr "Назва (опціонально):"
+
+#: includes/widgets/ct-widget-adspace.php:65
+msgid "Ad Code:"
+msgstr "Код:"
+
+#: includes/widgets/ct-widget-adspace.php:70
+msgid "Image Url:"
+msgstr "URL-Адреса Зображення:"
+
+#: includes/widgets/ct-widget-adspace.php:74
+msgid "Link URL:"
+msgstr "URL посилання:"
+
+#: includes/widgets/ct-widget-adspace.php:78
+msgid "Alt text:"
+msgstr "Alt-текст:"
+
+#: includes/widgets/ct-widget-agentinfo.php:13
+msgid "CT Agent Info"
+msgstr "Агент КТ інформація"
+
+#: includes/widgets/ct-widget-agentinfo.php:69
+msgid "Mobile"
+msgstr "Мобільний"
+
+#: includes/widgets/ct-widget-agentinfo.php:72
+msgid "Office"
+msgstr "Офіс"
+
+#: includes/widgets/ct-widget-agentinfo.php:75
+msgid "Fax"
+msgstr "Факс"
+
+#: includes/widgets/ct-widget-agentsotherlistings.php:13
+msgid "CT Agents Other Listings"
+msgstr "Агенти КТ інші списки"
+
+#: includes/widgets/ct-widget-agentsotherlistings.php:291
+#: includes/widgets/ct-widget-flickr.php:55
+#: includes/widgets/ct-widget-latestposts.php:74
+#: includes/widgets/ct-widget-listings.php:134
+#: includes/widgets/ct-widget-testimonials.php:66
+msgid "Number:"
+msgstr "Кількість:"
+
+#: includes/widgets/ct-widget-agentsotherlistings.php:299
+#: includes/widgets/ct-widget-listings.php:142
+msgid "Taxonomy:"
+msgstr "Таксономії:"
+
+#: includes/widgets/ct-widget-agentsotherlistings.php:308
+#: includes/widgets/ct-widget-listings.php:151
+msgid "Tag:"
+msgstr "Тег:"
+
+#: includes/widgets/ct-widget-blogauthor.php:13
+msgid "CT Blog Author Info"
+msgstr "Блог КТ автора інформація"
+
+#: includes/widgets/ct-widget-blogauthor.php:64
+msgid "Bio:"
+msgstr "Біо:"
+
+#: includes/widgets/ct-widget-blogauthor.php:68
+msgid "<a href=\"http://www.gravatar.com/\">Gravatar</a> E-mail:"
+msgstr ""
+
+#: includes/widgets/ct-widget-blogauthor.php:72
+msgid "Gravatar Size:"
+msgstr "Розмір Граватара:"
+
+#: includes/widgets/ct-widget-blogauthor.php:76
+msgid "Gravatar Alignment:"
+msgstr "Граватар Вирівнювання:"
+
+#: includes/widgets/ct-widget-blogauthor.php:78
+msgid "Left"
+msgstr "Зліва"
+
+#: includes/widgets/ct-widget-blogauthor.php:79
+msgid "Right"
+msgstr "Право"
+
+#: includes/widgets/ct-widget-blogauthor.php:83
+msgid "Read More Text (optional):"
+msgstr "Детальніше текст (необов'язково):"
+
+#: includes/widgets/ct-widget-blogauthor.php:87
+msgid "Read More URL (optional):"
+msgstr "Детальніше URL-адресу (необов'язково):"
+
+#: includes/widgets/ct-widget-blogauthor.php:91
+msgid "Visible Pages:"
+msgstr "Видно Сторінок:"
+
+#: includes/widgets/ct-widget-blogauthor.php:93
+msgid "All"
+msgstr "Всі"
+
+#: includes/widgets/ct-widget-blogauthor.php:94
+msgid "Home only"
+msgstr "Вдома"
+
+#: includes/widgets/ct-widget-blogauthor.php:95
+msgid "Single only"
+msgstr "Один тільки"
+
+#: includes/widgets/ct-widget-brokerinfo.php:13
+msgid "CT Brokers Info"
+msgstr "КТ брокери інформація"
+
+#: includes/widgets/ct-widget-brokerinfo.php:54
+msgid "Email Office"
+msgstr "Офіс По Електронній Пошті "
+
+#: includes/widgets/ct-widget-brokerinfo.php:55
+msgid "Visit Brokers Website"
+msgstr "Відвідати Сайт Брокерів"
+
+#: includes/widgets/ct-widget-brokerinfo.php:82
+msgid "Logo URL:"
+msgstr "Url логотипу:"
+
+#: includes/widgets/ct-widget-brokerinfo.php:86
+msgid "Company:"
+msgstr "Компанія:"
+
+#: includes/widgets/ct-widget-brokerinfo.php:90
+msgid "Office Phone:"
+msgstr "Офісний Телефон:"
+
+#: includes/widgets/ct-widget-brokerinfo.php:94
+msgid "Office Email:"
+msgstr "Офіс По Електронній Пошті:"
+
+#: includes/widgets/ct-widget-brokerinfo.php:98
+msgid "Website:"
+msgstr "Сайт:"
+
+#: includes/widgets/ct-widget-contactinfo.php:13
+msgid "CT Contact Info"
+msgstr "КТ контактна інформація"
+
+#: includes/widgets/ct-widget-contactinfo.php:133
+msgid "Show Logo:"
+msgstr "Показати Логотип:"
+
+#: includes/widgets/ct-widget-contactinfo.php:144
+msgid "Blurb:"
+msgstr "Замітка:"
+
+#: includes/widgets/ct-widget-contactinfo.php:148
+msgid "Company Name:"
+msgstr "Назва Компанії:"
+
+#: includes/widgets/ct-widget-contactinfo.php:152
+msgid "Street Address:"
+msgstr "Адреса:"
+
+#: includes/widgets/ct-widget-contactinfo.php:156
+msgid "City:"
+msgstr "Місто:"
+
+#: includes/widgets/ct-widget-contactinfo.php:160
+msgid "State:"
+msgstr "Стан:"
+
+#: includes/widgets/ct-widget-contactinfo.php:164
+msgid "Postal:"
+msgstr "Пошта:"
+
+#: includes/widgets/ct-widget-contactinfo.php:168
+msgid "Country:"
+msgstr "Країна:"
+
+#: includes/widgets/ct-widget-contactinfo.php:172
+msgid "Phone:"
+msgstr "Телефон:"
+
+#: includes/widgets/ct-widget-flickr.php:13
+msgid "CT Flickr"
+msgstr "КТ Фликр"
+
+#: includes/widgets/ct-widget-flickr.php:26
+msgid "Photos on flickr"
+msgstr "Фотографії на Flickr"
+
+#: includes/widgets/ct-widget-flickr.php:51
+msgid "Flickr ID (<a href=\"http://www.idgettr.com\">idGettr</a>):"
+msgstr ""
+
+#: includes/widgets/ct-widget-flickr.php:65
+msgid "User"
+msgstr "Користувач"
+
+#: includes/widgets/ct-widget-flickr.php:66
+msgid "Group"
+msgstr "Група"
+
+#: includes/widgets/ct-widget-flickr.php:70
+msgid "Sorting:"
+msgstr "Сортування:"
+
+#: includes/widgets/ct-widget-flickr.php:72
+#: includes/widgets/ct-widget-tabs.php:110
+#: includes/widgets/ct-widget-tabs.php:117
+msgid "Latest"
+msgstr "Останній"
+
+#: includes/widgets/ct-widget-flickr.php:73
+msgid "Random"
+msgstr "Випадковий"
+
+#: includes/widgets/ct-widget-flickr.php:77
+msgid "Size:"
+msgstr "Розмір:"
+
+#: includes/widgets/ct-widget-flickr.php:79
+msgid "Square"
+msgstr "Площа"
+
+#: includes/widgets/ct-widget-flickr.php:80
+msgid "Medium"
+msgstr "Середній"
+
+#: includes/widgets/ct-widget-flickr.php:81
+msgid "Thumbnail"
+msgstr "Ескіз"
+
+#: includes/widgets/ct-widget-latestposts.php:13
+msgid "CT Latest Posts"
+msgstr "Останні пости ТТ "
+
+#: includes/widgets/ct-widget-listingbooktour.php:13
+msgid "CT Listing Book Showing"
+msgstr "КТ лістинг книга показує"
+
+#: includes/widgets/ct-widget-listingbooktour.php:154
+msgid ""
+"Thanks for booking a showing, we'll get back to confirm with you shortly."
+msgstr ""
+"Спасибі за бронювання показ, ми повернемося найближчим часом зв'яжеться з "
+"вами."
+
+#: includes/widgets/ct-widget-listingbooktour.php:161
+msgid "Request a Showing"
+msgstr "Офомить заявку"
+
+#: includes/widgets/ct-widget-listingbooktour.php:171
+msgid "Select Your Time and Day"
+msgstr "Виберіть час і День"
+
+#: includes/widgets/ct-widget-listingbooktour.php:234
+msgid "Showing Request for "
+msgstr "Показує на запит "
+
+#: includes/widgets/ct-widget-listingbooktour.php:240
+#: includes/widgets/ct-widget-listingbooktour.php:242
+msgid "Schedule Tour"
+msgstr "Розклад Туру"
+
+#: includes/widgets/ct-widget-listingbooktour.php:259
+msgid "No options required for this widget."
+msgstr "Без варіантів, необхідних для цього віджета."
+
+#: includes/widgets/ct-widget-listings.php:13
+msgid "CT Listings"
+msgstr "Оголошення карат "
+
+#: includes/widgets/ct-widget-listings.php:155
+msgid "View All Link Text"
+msgstr "Переглянути Всі Текст Посилання "
+
+#: includes/widgets/ct-widget-listings.php:159
+msgid "View All Link URL"
+msgstr "Переглянути всі url-посилання"
+
+#: includes/widgets/ct-widget-listingscontact.php:13
+msgid "CT Listing Agent Contact"
+msgstr "КТ лістинг агент контакт"
+
+#: includes/widgets/ct-widget-listingscontact.php:72
+msgid "Subject:"
+msgstr "Тема:"
+
+#: includes/widgets/ct-widget-listingscrolltocontact.php:13
+msgid "CT Listing Contact ScrollTo"
+msgstr "КТ лістинг контактів ScrollTo"
+
+#: includes/widgets/ct-widget-listingscrolltocontact.php:66
+msgid "Button One Text:"
+msgstr "Кнопку Один Текст:"
+
+#: includes/widgets/ct-widget-listingscrolltocontact.php:70
+msgid "Button Two Text:"
+msgstr "Кнопка Два Тексту:"
+
+#: includes/widgets/ct-widget-listingssearch.php:13
+msgid "CT Listings Search"
+msgstr "Пошук оголошень КТ"
+
+#: includes/widgets/ct-widget-listingssocial.php:13
+msgid "CT Listings Social"
+msgstr "Списки КТ Соціальна"
+
+#: includes/widgets/ct-widget-search.php:13
+msgid "CT Search"
+msgstr "Пошук КТ "
+
+#: includes/widgets/ct-widget-tabs.php:13
+msgid "CT Tabs"
+msgstr "Вкладки ТТ "
+
+#: includes/widgets/ct-widget-tabs.php:103
+msgid "Number of posts:"
+msgstr "Кількість постів:"
+
+#: includes/widgets/ct-widget-tabs.php:108
+msgid "First Visible Tab:"
+msgstr "Перші Видимі Вкладки:"
+
+#: includes/widgets/ct-widget-tabs.php:111
+#: includes/widgets/ct-widget-tabs.php:120
+msgid "Comments"
+msgstr "Коментарі"
+
+#: includes/widgets/ct-widget-tabs.php:112
+#: includes/widgets/ct-widget-tabs.php:123
+msgid "Tags"
+msgstr "Теги"
+
+#: includes/widgets/ct-widget-testimonials.php:13
+msgid "CT Testimonials"
+msgstr "Відгуки КТ "
+
+#: admin/ReduxFramework/theme-options/re7-config.php:245
+#: admin/ReduxFramework/theme-options/re7-config.php:246
+msgid "Real Estate 7 Options"
+msgstr "Нерухомість 7 Варіантів"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:923
+msgid "Theme Information 1"
+msgstr "Тема 1 Інформація"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:924
+#: admin/ReduxFramework/theme-options/re7-config.php:929
+msgid "<p>This is the tab content, HTML is allowed.</p>"
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:928
+msgid "Theme Information 2"
+msgstr "Тема 2 Інформація"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:935
+msgid "<p>This is the sidebar content, HTML is allowed.</p>"
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:941
+msgid "General Settings"
+msgstr "Загальні Параметри"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1010
+#: admin/ReduxFramework/theme-options/re7-config.php:2168
+msgid "Header"
+msgstr "Заголовок"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1078
+msgid "Custom Logo"
+msgstr "Виготовлений На Замовлення Логос"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1129
+msgid "Top Bar"
+msgstr "Верхня Панель"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1150
+msgid "Contact Phone"
+msgstr "Контактний Телефон"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1170
+#: admin/ReduxFramework/theme-options/re7-config.php:1318
+#: admin/ReduxFramework/theme-options/re7-config.php:1349
+#: admin/ReduxFramework/theme-options/re7-config.php:1380
+msgid "Icon"
+msgstr "Значок"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1171
+#: admin/ReduxFramework/theme-options/re7-config.php:1319
+#: admin/ReduxFramework/theme-options/re7-config.php:1350
+#: admin/ReduxFramework/theme-options/re7-config.php:1381
+msgid "Select an icon."
+msgstr "Виберіть."
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1188
+msgid "Currency Switcher"
+msgstr "Перемикач Валют"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1196
+msgid "Social Links"
+msgstr "Соціальні Посилання"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1287
+msgid "Header Info Columns"
+msgstr "Заголовок Інформація Про Стовпцях"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1295
+msgid "Column One"
+msgstr "Колонки"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1326
+msgid "Column Two"
+msgstr "Дві Колонки"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1357
+msgid "Column Three"
+msgstr "Колонки Трьох"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1389
+msgid "Homepage"
+msgstr "Домашня сторінка"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1399
+msgid "Layout Manager"
+msgstr "Менеджер По Розташуванню "
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1440
+msgid "Revolution Slider"
+msgstr "Слайдер Революція "
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1457
+#: admin/ReduxFramework/theme-options/re7-config.php:1864
+msgid "FlexSlider"
+msgstr "FlexSlider"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1483
+msgid "Listing Carousel"
+msgstr "Лістинг Карусель"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1522
+msgid "Hero w/Search"
+msgstr "Героя ж/пошуку"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1569
+msgid "Top Padding"
+msgstr "Відступ Зверху"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1570
+msgid "Set the top padding in percentage."
+msgstr "Встановити верхній padding у відсотках."
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1580
+msgid "Bottom Padding"
+msgstr "Нижня Оббивка"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1581
+msgid "Set the bottom padding in percentage."
+msgstr "Встановіть Нижній padding у відсотках."
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1592
+msgid "Call To Action"
+msgstr "Заклик До Дії"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1623
+msgid "Listings Count"
+msgstr "Оголошення Граф"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1727
+msgid "Add/Edit Testimonials"
+msgstr "Додати/Редагувати Відгуки"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1728
+msgid "Add your testimonials to be displayed on the homepage."
+msgstr "Додавайте свої відгуки, які будуть відображатися на головній сторінці."
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1730
+msgid "Company or Person"
+msgstr "Компанію або приватна особа"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1731
+msgid "Testimonial Here"
+msgstr "Відгук Тут"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1732
+#: admin/ReduxFramework/theme-options/re7-config.php:1762
+msgid "Link"
+msgstr "Посилання"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1740
+msgid "Partners"
+msgstr "Партнери"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1757
+msgid "Add/Edit Partner Logos"
+msgstr "Додати/Редагувати Логотипи Партнерів "
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1758
+msgid "Add your partner logos to be displayed on the homepage."
+msgstr ""
+"Додати ваш партнер логотипів, які будуть відображатися на головній сторінці."
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1760
+msgid "Partner Title"
+msgstr "Назва Партнера "
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1761
+msgid "Description Here (not used)"
+msgstr "Опис тут (не використовується)"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1783
+msgid "Elementor"
+msgstr "Факір"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1804
+msgid "Page Builder"
+msgstr "Творець Сторінки "
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1848
+msgid "Four Column Widget Area"
+msgstr "Чотири Віджет-Зону Колонка "
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1942
+msgid "Create a Skin"
+msgstr "Створити скін"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1965
+#: admin/ReduxFramework/theme-options/re7-config.php:2179
+#: admin/ReduxFramework/theme-options/re7-config.php:2272
+#: admin/ReduxFramework/theme-options/re7-config.php:2355
+#: admin/ReduxFramework/theme-options/re7-config.php:2444
+#: admin/ReduxFramework/theme-options/re7-config.php:2484
+msgid "NOTE!"
+msgstr "Увага!"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1966
+msgid "If this isn't set to Yes NONE of the Styles will be Applied."
+msgstr "Якщо це isn\\'Т встановити Та жоден із стилів буде застосовуватися."
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1973
+msgid "Typography"
+msgstr "Типографіка"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:1993
+msgid "Body"
+msgstr "Тіло"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:2012
+msgid "Headings"
+msgstr "Заголовки"
+
+#: admin/ReduxFramework/theme-options/re7-config.php:3681
+msgid ""
+"Walk Score is the only international measure of walkability and the leading "
+"provider of neighborhood maps to the real estate industry. More than 30,000 "
+"websites use the Walk Score Neighborhood Map and we serve over 20 million "
+"scores each day. <a href=\"https://www.walkscore.com/professional/api-sign-"
+"up.php\" target=\"_blank\">Get your API Key</a>!."
+msgstr ""
+
+#: admin/ReduxFramework/theme-options/re7-config.php:5394
+msgid ""
+"<p class=\"description\">This is a section created by adding a filter to the "
+"sections array. Can be used by child themes to add/remove sections from the "
+"options.</p>"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"A responsive real estate theme, designed by <a href=\"http://www."
+"contempographicdesign.com\">Contempo</a>."
+msgstr ""
+
+#. URI of the theme
+msgid "http://themeforest.net/user/contempoinc?ref=contempoinc"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://www.contempographicdesign.com"
+msgstr ""

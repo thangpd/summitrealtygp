@@ -1,0 +1,625 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Membership & Packages\n"
+"Language: es\n"
+
+#: cronScheduler.php:15
+msgid "Every 3 Minutes"
+msgstr "Cada 3 minutos"
+
+#: cronScheduler.php:71
+msgid "One of your sites users package will expire within two days."
+msgstr "Uno de los paquetes de usuarios de su sitio expirará en dos días."
+
+#: cronScheduler.php:73
+msgid "Order ID:"
+msgstr "Solicitar ID:"
+
+#: cronScheduler.php:77 ct-membership-packages.php:1284
+#: ct-membership-packages.php:1318 ct-membership-packages.php:1865
+#: ct-membership-packages.php:2060 ct-membership-packages.php:2091
+#: ct-membership-packages.php:2132
+msgid "Package Name:"
+msgstr "Nombre del paquete:"
+
+#: cronScheduler.php:81
+msgid "Package Expire Date:"
+msgstr "Fecha de expiración del paquete:"
+
+#: cronScheduler.php:85 ct-membership-packages.php:1322
+#: ct-membership-packages.php:1887 ct-membership-packages.php:2114
+#: paypal/success.php:69
+msgid "User Email:"
+msgstr "Correo electrónico del usuario:"
+
+#: cronScheduler.php:88 ct-membership-packages.php:1325
+msgid "No need for any action this is just a notification."
+msgstr "No es necesario realizar ninguna acción, esto es solo una notificación."
+
+#: ct-membership-packages.php:41
+msgctxt "post type general name"
+msgid "Packages"
+msgstr "Paquetes"
+
+#: ct-membership-packages.php:42
+msgctxt "post type singular name"
+msgid "Packages"
+msgstr "Paquetes"
+
+#: ct-membership-packages.php:43
+msgctxt "packages"
+msgid "Add New"
+msgstr "Añadir nuevo"
+
+#: ct-membership-packages.php:44
+msgid "Add New Packages"
+msgstr "Añadir nuevos paquetes"
+
+#: ct-membership-packages.php:45 ct-membership-packages.php:71
+msgid "Edit"
+msgstr "Editar"
+
+#: ct-membership-packages.php:46
+msgid "Edit Packages"
+msgstr "Editar paquetes"
+
+#: ct-membership-packages.php:47
+msgid "New Packages"
+msgstr "Nuevos paquetes"
+
+#: ct-membership-packages.php:48 ct-membership-packages.php:74
+msgid "View"
+msgstr "Ver"
+
+#: ct-membership-packages.php:49
+msgid "View Packages"
+msgstr "Ver paquetes"
+
+#: ct-membership-packages.php:50
+msgid "Search Packages"
+msgstr "Buscar paquetes"
+
+#: ct-membership-packages.php:51
+msgid "No Packages found"
+msgstr "No se encontraron paquetes"
+
+#: ct-membership-packages.php:52
+msgid "No Packages found in Trash"
+msgstr "No se encontraron paquetes en la basura"
+
+#: ct-membership-packages.php:67
+msgctxt "post type general name"
+msgid "Package Orders"
+msgstr "Pedidos de paquetes"
+
+#: ct-membership-packages.php:68
+msgctxt "post type singular name"
+msgid "Order"
+msgstr "Orden"
+
+#: ct-membership-packages.php:69
+msgctxt "package_order"
+msgid "Add New"
+msgstr "Añadir nuevo"
+
+#: ct-membership-packages.php:70
+msgid "Add New Package Order"
+msgstr "Añadir nuevo pedido de paquete"
+
+#: ct-membership-packages.php:72
+msgid "Edit Package Order"
+msgstr "Editar orden de paquete"
+
+#: ct-membership-packages.php:73
+msgid "New Package Order"
+msgstr "Nuevo pedido de paquete"
+
+#: ct-membership-packages.php:75
+msgid "View Package Orders"
+msgstr "Ver pedidos de paquetes"
+
+#: ct-membership-packages.php:76
+msgid "Search Package Orders"
+msgstr "Buscar pedidos de paquetes"
+
+#: ct-membership-packages.php:77
+msgid "No Package Order found"
+msgstr "No se ha encontrado pedido de paquete"
+
+#: ct-membership-packages.php:78
+msgid "No Package Orders found in Trash"
+msgstr "No se encontraron pedidos de paquetes en la basura"
+
+#: ct-membership-packages.php:101 ct-membership-packages.php:236
+msgid "Package"
+msgstr "Paquete"
+
+#: ct-membership-packages.php:102
+msgid "Price"
+msgstr "Precio"
+
+#: ct-membership-packages.php:103
+msgid "Time"
+msgstr "Hora"
+
+#: ct-membership-packages.php:104
+msgid "# of Listings"
+msgstr "# de listados"
+
+#: ct-membership-packages.php:105
+msgid "# of Featured Listings"
+msgstr "# de listados destacados"
+
+#: ct-membership-packages.php:106 ct-membership-packages.php:237
+msgid "Recurring"
+msgstr "Periódico"
+
+#: ct-membership-packages.php:163 ct-membership-packages.php:170
+#: ct-membership-packages.php:191 ct-membership-packages.php:204
+#: ct-membership-packages.php:374 ct-membership-packages.php:391
+msgid "–"
+msgstr "-"
+
+#: ct-membership-packages.php:215 ct-membership-packages.php:316
+msgid "Yes"
+msgstr "Sí"
+
+#: ct-membership-packages.php:217 ct-membership-packages.php:318
+msgid "No"
+msgstr "No"
+
+#: ct-membership-packages.php:235 ct-membership-packages.php:2188
+msgid "Invoice"
+msgstr "Factura"
+
+#: ct-membership-packages.php:238
+msgid "Date Ordered"
+msgstr "fecha del pedido"
+
+#: ct-membership-packages.php:239
+msgid "Expire Date"
+msgstr "Fecha de caducidad"
+
+#: ct-membership-packages.php:240 ct-membership-packages.php:2190
+msgid "Status"
+msgstr "Estado"
+
+#: ct-membership-packages.php:241
+msgid "Total"
+msgstr "Total"
+
+#: ct-membership-packages.php:242
+msgid "User"
+msgstr "Usuario"
+
+#: ct-membership-packages.php:243 ct-membership-packages.php:1927
+msgid "User Email"
+msgstr "Email del usuario"
+
+#: ct-membership-packages.php:341
+msgid "Expired"
+msgstr "Muerto"
+
+#: ct-membership-packages.php:343
+msgid "Current"
+msgstr "Corriente"
+
+#: ct-membership-packages.php:408
+msgid "Unknown"
+msgstr "Desconocido"
+
+#: ct-membership-packages.php:469 ct-membership-packages.php:483
+msgid "None"
+msgstr "Ninguna"
+
+#: ct-membership-packages.php:501 ct-membership-packages.php:743
+msgid "Listing"
+msgstr "Listado"
+
+#: ct-membership-packages.php:505
+msgid "Featured Listing"
+msgstr "Listado destacado"
+
+#: ct-membership-packages.php:509
+msgid "Recurring Subscription"
+msgstr "Subscripción recurrente"
+
+#: ct-membership-packages.php:510
+msgid "Enable Recurring Payment"
+msgstr "Habilitar el pago recurrente"
+
+#: ct-membership-packages.php:513 ct-membership-packages.php:514
+msgid "Mark as Popular"
+msgstr "Marca como popular"
+
+#: ct-membership-packages.php:629
+msgid "Select a Package"
+msgstr "Seleccione un paquete"
+
+#: ct-membership-packages.php:633
+msgid "Payment"
+msgstr "Pago"
+
+#: ct-membership-packages.php:637
+msgid "Complete"
+msgstr "Completar"
+
+#: ct-membership-packages.php:690 ct-membership-packages.php:2386
+msgid "Day"
+msgstr "Día"
+
+#: ct-membership-packages.php:691 ct-membership-packages.php:2387
+msgid "Days"
+msgstr "Dias"
+
+#: ct-membership-packages.php:692 ct-membership-packages.php:2388
+msgid "Week"
+msgstr "Semana"
+
+#: ct-membership-packages.php:693 ct-membership-packages.php:2389
+msgid "Weeks"
+msgstr "Semanas"
+
+#: ct-membership-packages.php:694 ct-membership-packages.php:2390
+msgid "Month"
+msgstr "Mes"
+
+#: ct-membership-packages.php:695 ct-membership-packages.php:2391
+msgid "Months"
+msgstr "Meses"
+
+#: ct-membership-packages.php:696 ct-membership-packages.php:2392
+msgid "Year"
+msgstr "Año"
+
+#: ct-membership-packages.php:697 ct-membership-packages.php:2393
+msgid "Years"
+msgstr "Años"
+
+#: ct-membership-packages.php:701
+msgid "Popular"
+msgstr "Popular"
+
+#: ct-membership-packages.php:717 ct-membership-packages.php:738
+#: ct-membership-packages.php:2466
+msgid "N/A"
+msgstr "N / A"
+
+#: ct-membership-packages.php:743
+msgid "Listings"
+msgstr "Listados"
+
+#: ct-membership-packages.php:745
+msgid "Featured Listings"
+msgstr "Listas destacadas"
+
+#: ct-membership-packages.php:751 ct-membership-packages.php:753
+#: ct-membership-packages.php:2421 ct-membership-packages.php:2584
+msgid "Get Started"
+msgstr "Empezar"
+
+#: ct-membership-packages.php:1282 ct-membership-packages.php:1756
+#: ct-membership-packages.php:1788 ct-membership-packages.php:2058
+#: ct-membership-packages.php:2125
+msgid "Thanks for your purchase!"
+msgstr "¡Gracias por su compra!"
+
+#: ct-membership-packages.php:1283 ct-membership-packages.php:1304
+#: ct-membership-packages.php:1757 ct-membership-packages.php:1789
+#: ct-membership-packages.php:1859 ct-membership-packages.php:2059
+#: ct-membership-packages.php:2085 ct-membership-packages.php:2126
+msgid "Order Details:"
+msgstr "Detalles del pedido:"
+
+#: ct-membership-packages.php:1285
+msgid "Payment Method: Free"
+msgstr "Método de pago: Gratis"
+
+#: ct-membership-packages.php:1286 ct-membership-packages.php:1873
+#: ct-membership-packages.php:1878 ct-membership-packages.php:1913
+#: ct-membership-packages.php:1918 ct-membership-packages.php:2066
+#: ct-membership-packages.php:2068 ct-membership-packages.php:2099
+#: ct-membership-packages.php:2104 ct-membership-packages.php:2140
+#: ct-membership-packages.php:2145 paypal/success.php:57
+msgid "Amount:"
+msgstr "Cantidad:"
+
+#: ct-membership-packages.php:1287 ct-membership-packages.php:2070
+msgid "User email:"
+msgstr "Correo electrónico del usuario:"
+
+#: ct-membership-packages.php:1289 ct-membership-packages.php:1769
+#: ct-membership-packages.php:1803 ct-membership-packages.php:2079
+msgid "View Your Listings"
+msgstr "Ver sus listados"
+
+#: ct-membership-packages.php:1314 ct-membership-packages.php:1861
+#: ct-membership-packages.php:2087 ct-membership-packages.php:2128
+#: paypal/success.php:49
+msgid "Payment Method:"
+msgstr "Método de pago:"
+
+#: ct-membership-packages.php:1315
+msgid "Free"
+msgstr "Gratis"
+
+#: ct-membership-packages.php:1335
+msgid "You're receiving this email because you purchased a listings package from "
+msgstr "Está recibiendo este correo electrónico porque compró un paquete de listados de "
+
+#: ct-membership-packages.php:1471 ct-membership-packages.php:1901
+msgid "Payment Method"
+msgstr "Método de pago"
+
+#: ct-membership-packages.php:1472
+msgid "All transactions are secure and encrypted. Credit card information is never stored."
+msgstr "Todas las transacciones son seguras y encriptadas. La información de la tarjeta de crédito nunca se almacena."
+
+#: ct-membership-packages.php:1500 ct-membership-packages.php:1569
+msgid "Set as recurring payment"
+msgstr "Establecer como pago recurrente"
+
+#: ct-membership-packages.php:1523
+msgid "Card Number"
+msgstr "Número de tarjeta"
+
+#: ct-membership-packages.php:1528
+msgid "Expiration Date"
+msgstr "Fecha de caducidad"
+
+#: ct-membership-packages.php:1560
+msgid "Card CVV"
+msgstr "Tarjeta CVV"
+
+#: ct-membership-packages.php:1588
+msgid "Wire Transfer"
+msgstr "Transferencia bancaria"
+
+#: ct-membership-packages.php:1593
+msgid "Click the \"Complete Membership\" button below for wire transfer instructions."
+msgstr "Haga clic en el botón \"Completar membresía\" a continuación para obtener instrucciones sobre la transferencia bancaria."
+
+#: ct-membership-packages.php:1594
+msgid "Account Number"
+msgstr "Número de cuenta"
+
+#: ct-membership-packages.php:1603
+msgid "Complete Membership"
+msgstr "Membresía completa"
+
+#: ct-membership-packages.php:1607
+msgid "By clicking \"Complete Membership\" you agree to our"
+msgstr "Al hacer clic en \"Membresía completa\", usted acepta nuestra"
+
+#: ct-membership-packages.php:1607
+msgid " Terms & Conditions"
+msgstr " Términos y condiciones"
+
+#: ct-membership-packages.php:1614
+msgid "Membership Package"
+msgstr "Paquete de membresia"
+
+#: ct-membership-packages.php:1628 ct-membership-packages.php:2445
+#: ct-membership-packages.php:2595
+msgid "Time Period:"
+msgstr "Periodo de tiempo:"
+
+#: ct-membership-packages.php:1635 ct-membership-packages.php:2473
+#: ct-membership-packages.php:2602
+msgid "Listings Included:"
+msgstr "Listados incluidos:"
+
+#: ct-membership-packages.php:1642
+msgid "Featured Listings Included:"
+msgstr "Listados destacados incluidos:"
+
+#: ct-membership-packages.php:1650 ct-membership-packages.php:1659
+msgid "Total:"
+msgstr "Total:"
+
+#: ct-membership-packages.php:1758 ct-membership-packages.php:1790
+msgid "Package Name: "
+msgstr "Nombre del paquete: "
+
+#: ct-membership-packages.php:1759 ct-membership-packages.php:1791
+msgid "Payment Method: Stripe"
+msgstr "Método de pago: raya"
+
+#: ct-membership-packages.php:1764 ct-membership-packages.php:1766
+#: ct-membership-packages.php:1797 ct-membership-packages.php:1799
+msgid "Amount: "
+msgstr "Cantidad: "
+
+#: ct-membership-packages.php:1768 ct-membership-packages.php:1802
+msgid "User Email: "
+msgstr "Correo electrónico del usuario: "
+
+#: ct-membership-packages.php:1856
+msgid "Packages Order"
+msgstr "Paquetes de pedido"
+
+#: ct-membership-packages.php:1862
+msgid "Stripe Recurring"
+msgstr "Raya recurrente"
+
+#: ct-membership-packages.php:1883 ct-membership-packages.php:1923
+msgid "Payment Status"
+msgstr "Estado de pago"
+
+#: ct-membership-packages.php:1897
+msgid "Package Order Receipt from "
+msgstr "Recibo de pedido de paquete de "
+
+#: ct-membership-packages.php:1899 paypal/success.php:47
+msgid "Order Details"
+msgstr "Detalles del pedido"
+
+#: ct-membership-packages.php:1905
+msgid "Package Name"
+msgstr "Nombre del paquete"
+
+#: ct-membership-packages.php:1967
+msgid "Order"
+msgstr "Orden"
+
+#: ct-membership-packages.php:2061
+msgid "Payment Method: Direct Bank Transfer"
+msgstr "Método de pago: transferencia bancaria directa"
+
+#: ct-membership-packages.php:2072
+msgid "Order #:"
+msgstr "Orden #:"
+
+#: ct-membership-packages.php:2074
+msgid "Contact your bank and supply the following information:"
+msgstr "Póngase en contacto con su banco y proporcione la siguiente información:"
+
+#: ct-membership-packages.php:2078
+msgid "Please use your Order ID as payment reference."
+msgstr "Utilice su ID de pedido como referencia de pago."
+
+#: ct-membership-packages.php:2083
+msgid "New Wire Transfer Package Order on "
+msgstr "Nuevo pedido de paquete de transferencia bancaria en "
+
+#: ct-membership-packages.php:2088 ct-membership-packages.php:2129
+msgid "Direct Bank Transfer"
+msgstr "Transferencia bancaria directa"
+
+#: ct-membership-packages.php:2109 ct-membership-packages.php:2150
+msgid "Bank Account Number:"
+msgstr "Número de cuenta bancaria:"
+
+#: ct-membership-packages.php:2123
+msgid "Wire Transfer Package Order Receipt from "
+msgstr "Paquete de transferencia bancaria Recibo de pedido desde "
+
+#: ct-membership-packages.php:2171
+msgid "Wire Transfer Orders"
+msgstr "Órdenes de transferencia bancaria"
+
+#: ct-membership-packages.php:2189
+msgid "User ID"
+msgstr "ID de usuario"
+
+#: ct-membership-packages.php:2210
+msgid "Mark as Paid"
+msgstr "Marcar como pagado"
+
+#: ct-membership-packages.php:2244
+msgid "No current orders to approve."
+msgstr "No hay órdenes actuales para aprobar."
+
+#: ct-membership-packages.php:2362 ct-membership-packages.php:2420
+#: ct-membership-packages.php:2539 ct-membership-packages.php:2583
+msgid "You haven't chosen a package yet…"
+msgstr "Aún no has elegido un paquete ..."
+
+#: ct-membership-packages.php:2363 ct-membership-packages.php:2540
+msgid "Get Started!"
+msgstr "¡Empezar!"
+
+#: ct-membership-packages.php:2403 ct-membership-packages.php:2569
+msgid "You've reached the limit of your current package."
+msgstr "Has alcanzado el límite de tu paquete actual."
+
+#: ct-membership-packages.php:2404 ct-membership-packages.php:2570
+msgid "Upgrade Today"
+msgstr "Actualice hoy"
+
+#: ct-membership-packages.php:2411 ct-membership-packages.php:2576
+msgid "Your package has expired."
+msgstr "Su paquete ha caducado."
+
+#: ct-membership-packages.php:2412 ct-membership-packages.php:2577
+msgid "Renew Today"
+msgstr "Renueva Hoy"
+
+#: ct-membership-packages.php:2429
+msgid "Current Package Details"
+msgstr "Detalles del paquete actual"
+
+#: ct-membership-packages.php:2430
+msgid "Overview of your existing membership & package information."
+msgstr "Visión general de su membresía existente y la información del paquete."
+
+#: ct-membership-packages.php:2433
+msgid "change package"
+msgstr "cambiar paquete"
+
+#: ct-membership-packages.php:2440 ct-membership-packages.php:2442
+msgid "Price:"
+msgstr "Precio:"
+
+#: ct-membership-packages.php:2470 ct-membership-packages.php:2596
+msgid "Purchased Date:"
+msgstr "Fecha de compra:"
+
+#: ct-membership-packages.php:2471 ct-membership-packages.php:2597
+msgid "Expiration Date:"
+msgstr "Fecha de caducidad:"
+
+#: ct-membership-packages.php:2472 ct-membership-packages.php:2598
+msgid "Recurring:"
+msgstr "Periódico:"
+
+#: ct-membership-packages.php:2474 ct-membership-packages.php:2603
+msgid "Listings Remaining:"
+msgstr "Listados restantes:"
+
+#: ct-membership-packages.php:2475 ct-membership-packages.php:2604
+msgid "Featured Listings:"
+msgstr "Listas destacadas:"
+
+#: ct-membership-packages.php:2476 ct-membership-packages.php:2605
+msgid "Featured Listings Remaining:"
+msgstr "Listados Destacados Restantes:"
+
+#: ct-membership-packages.php:2592
+msgid "(change package)"
+msgstr "(cambiar paquete)"
+
+#: paypal/success.php:45
+msgid "Thanks for your Purchase! Package Order from"
+msgstr "¡Gracias por su compra! Orden del paquete de"
+
+#: paypal/success.php:50
+msgid "Paypal"
+msgstr "Paypal"
+
+#: paypal/success.php:53
+msgid "Name:"
+msgstr "Nombre:"
+
+#: paypal/success.php:61
+msgid "Payment Status:"
+msgstr "Estado de pago:"
+
+#: paypal/success.php:65
+msgid "User Name:"
+msgstr "Nombre de usuario:"
+
+#. Name of the plugin
+#: 
+msgid "Contempo Membership & Packages"
+msgstr "Membresía y Paquetes Contempo"
+
+#. Description of the plugin
+#: 
+msgid "This plugin adds the ability to create membership & packages for use with the front end submission system in WP Pro Real Estate 7, with Stripe, PayPal & Wire Transfer payment methods."
+msgstr "Este complemento agrega la capacidad de crear membresía y paquetes para usar con el sistema de envío de front-end en WP Pro Real Estate 7, con los métodos de pago Stripe, PayPal y transferencia bancaria."
+
+#. Author of the plugin
+#: 
+msgid "Contempo"
+msgstr "Contempo"
+
+#. Author URI of the plugin
+#: 
+msgid "http://contempographicdesign.com"
+msgstr "http://contempographicdesign.com"
+

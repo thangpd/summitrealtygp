@@ -172,6 +172,10 @@ HTML;
 		wp_die();
 	}
 
+	public function checkUserInformation()
+	{
+	}
+
 	public function sendMailRegister($customerEmail, $subject, $message)
 	{
 		$to      = "$customerEmail";

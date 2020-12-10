@@ -1,0 +1,367 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Pro Real Estate 3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-06-08 13:35-0800\n"
+"PO-Revision-Date: 2015-06-08 13:35-0800\n"
+"Last-Translator: Chris Robinson <chris@contempographicdesign.com>\n"
+"Language-Team: Contempo <chris@contempographicdesign.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/ct-restaurant-custom-post-types.php:24
+msgid "Add New Food Menu Item"
+msgstr ""
+
+#: includes/ct-restaurant-custom-post-types.php:25
+msgid "Edit Food Menu Item"
+msgstr ""
+
+#: includes/ct-restaurant-custom-post-types.php:26
+msgid "New Food Menu Item"
+msgstr ""
+
+#: includes/ct-restaurant-custom-post-types.php:27
+msgid "View Food Menu Item"
+msgstr ""
+
+#: includes/ct-restaurant-custom-post-types.php:28
+msgid "Search Food Menu"
+msgstr ""
+
+#: includes/ct-restaurant-custom-post-types.php:29
+msgid "No food menu items found"
+msgstr ""
+
+#: includes/ct-restaurant-custom-post-types.php:30
+msgid "No food menu items found in Trash"
+msgstr ""
+
+#: includes/ct-restaurant-custom-post-types.php:43
+msgid "Food Menu"
+msgstr ""
+
+#: includes/ct-restaurant-custom-post-types.php:44
+msgid "Food Menu Item"
+msgstr ""
+
+#: includes/ct-restaurant-custom-post-types.php:52
+msgid "food-menu"
+msgstr ""
+
+#: includes/ct-restaurant-custom-post-types.php:103
+#: includes/ct-restaurant-custom-post-types.php:200
+#: includes/ct-restaurant-custom-post-types.php:395
+msgid "Unspecified"
+msgstr ""
+
+#: includes/ct-restaurant-custom-post-types.php:121
+msgid "Add New Drink Menu Item"
+msgstr ""
+
+#: includes/ct-restaurant-custom-post-types.php:122
+msgid "Edit Drink Menu Item"
+msgstr ""
+
+#: includes/ct-restaurant-custom-post-types.php:123
+msgid "New Drink Menu Item"
+msgstr ""
+
+#: includes/ct-restaurant-custom-post-types.php:124
+msgid "View Drink Menu Item"
+msgstr ""
+
+#: includes/ct-restaurant-custom-post-types.php:125
+msgid "Search Drink Menu"
+msgstr ""
+
+#: includes/ct-restaurant-custom-post-types.php:126
+msgid "No drink menu items found"
+msgstr ""
+
+#: includes/ct-restaurant-custom-post-types.php:127
+msgid "No drink menu items found in Trash"
+msgstr ""
+
+#: includes/ct-restaurant-custom-post-types.php:140
+msgid "Drink Menu"
+msgstr ""
+
+#: includes/ct-restaurant-custom-post-types.php:141
+msgid "Drink Menu Item"
+msgstr ""
+
+#: includes/ct-restaurant-custom-post-types.php:149
+msgid "drink-menu"
+msgstr ""
+
+#: includes/ct-restaurant-custom-post-types.php:218
+msgid "Add New Staff"
+msgstr ""
+
+#: includes/ct-restaurant-custom-post-types.php:219
+msgid "Edit Staff"
+msgstr ""
+
+#: includes/ct-restaurant-custom-post-types.php:220
+msgid "New Staff"
+msgstr ""
+
+#: includes/ct-restaurant-custom-post-types.php:221
+msgid "View Staff"
+msgstr ""
+
+#: includes/ct-restaurant-custom-post-types.php:222
+msgid "Search Staff"
+msgstr ""
+
+#: includes/ct-restaurant-custom-post-types.php:223
+msgid "No Staff found"
+msgstr ""
+
+#: includes/ct-restaurant-custom-post-types.php:224
+msgid "No Staff found in Trash"
+msgstr ""
+
+#: includes/ct-restaurant-custom-post-types.php:245
+msgid "staff"
+msgstr ""
+
+#: includes/ct-restaurant-custom-post-types.php:302
+msgid "Add New Event"
+msgstr ""
+
+#: includes/ct-restaurant-custom-post-types.php:303
+msgid "Edit Events"
+msgstr ""
+
+#: includes/ct-restaurant-custom-post-types.php:304
+msgid "New Event"
+msgstr ""
+
+#: includes/ct-restaurant-custom-post-types.php:305
+msgid "View Events"
+msgstr ""
+
+#: includes/ct-restaurant-custom-post-types.php:306
+msgid "Search Events"
+msgstr ""
+
+#: includes/ct-restaurant-custom-post-types.php:307
+msgid "No Events found"
+msgstr ""
+
+#: includes/ct-restaurant-custom-post-types.php:308
+msgid "No Events found in Trash"
+msgstr ""
+
+#: includes/ct-restaurant-custom-post-types.php:329
+msgid "events"
+msgstr ""
+
+#: includes/ct-restaurant-custom-taxonomies.php:22
+msgid "Search Food Menu Tags"
+msgstr ""
+
+#: includes/ct-restaurant-custom-taxonomies.php:23
+msgid "Popular Food Menu Tags"
+msgstr ""
+
+#: includes/ct-restaurant-custom-taxonomies.php:24
+msgid "All Food Menu Tags"
+msgstr ""
+
+#: includes/ct-restaurant-custom-taxonomies.php:27
+msgid "Edit Food Menu Tag"
+msgstr ""
+
+#: includes/ct-restaurant-custom-taxonomies.php:28
+msgid "Update Food Menu Tag"
+msgstr ""
+
+#: includes/ct-restaurant-custom-taxonomies.php:29
+msgid "Add New Food Menu Tag"
+msgstr ""
+
+#: includes/ct-restaurant-custom-taxonomies.php:30
+msgid "New Food Menu Tag Name"
+msgstr ""
+
+#: includes/ct-restaurant-custom-taxonomies.php:31
+msgid "Separate Food Menu Tags with commas"
+msgstr ""
+
+#: includes/ct-restaurant-custom-taxonomies.php:32
+msgid "Add or remove Food Menu Tags"
+msgstr ""
+
+#: includes/ct-restaurant-custom-taxonomies.php:33
+msgid "Choose from the most used Food Menu Tags"
+msgstr ""
+
+#: includes/ct-restaurant-custom-taxonomies.php:59
+msgid "Search Drink Menu Tags"
+msgstr ""
+
+#: includes/ct-restaurant-custom-taxonomies.php:60
+msgid "Popular Drink Menu Tags"
+msgstr ""
+
+#: includes/ct-restaurant-custom-taxonomies.php:61
+msgid "All Drink Menu Tags"
+msgstr ""
+
+#: includes/ct-restaurant-custom-taxonomies.php:64
+msgid "Edit Drink Menu Tag"
+msgstr ""
+
+#: includes/ct-restaurant-custom-taxonomies.php:65
+msgid "Update Drink Menu Tag"
+msgstr ""
+
+#: includes/ct-restaurant-custom-taxonomies.php:66
+msgid "Add New Drink Menu Tag"
+msgstr ""
+
+#: includes/ct-restaurant-custom-taxonomies.php:67
+msgid "New Drink Menu Tag Name"
+msgstr ""
+
+#: includes/ct-restaurant-custom-taxonomies.php:68
+msgid "Separate Drink Menu Tags with commas"
+msgstr ""
+
+#: includes/ct-restaurant-custom-taxonomies.php:69
+msgid "Add or remove Drink Menu Tags"
+msgstr ""
+
+#: includes/ct-restaurant-custom-taxonomies.php:70
+msgid "Choose from the most used Drink Menu Tags"
+msgstr ""
+
+#: includes/ct-restaurant-custom-taxonomies.php:96
+msgid "Search Event Types"
+msgstr ""
+
+#: includes/ct-restaurant-custom-taxonomies.php:97
+msgid "Popular Event Types"
+msgstr ""
+
+#: includes/ct-restaurant-custom-taxonomies.php:98
+msgid "All Event Types"
+msgstr ""
+
+#: includes/ct-restaurant-custom-taxonomies.php:101
+msgid "Edit Event Type"
+msgstr ""
+
+#: includes/ct-restaurant-custom-taxonomies.php:102
+msgid "Update Event Types"
+msgstr ""
+
+#: includes/ct-restaurant-custom-taxonomies.php:103
+msgid "Add New Event Type"
+msgstr ""
+
+#: includes/ct-restaurant-custom-taxonomies.php:104
+msgid "New Event Type Name"
+msgstr ""
+
+#: includes/ct-restaurant-custom-taxonomies.php:105
+msgid "Separate Event Types with commas"
+msgstr ""
+
+#: includes/ct-restaurant-custom-taxonomies.php:106
+msgid "Add or remove Event Types"
+msgstr ""
+
+#: includes/ct-restaurant-custom-taxonomies.php:107
+msgid "Choose from the most used Event Types"
+msgstr ""
+
+#: includes/metabox/init.php:258
+msgid "Clear"
+msgstr ""
+
+#: includes/metabox/init.php:259
+msgid "Default"
+msgstr ""
+
+#: includes/metabox/init.php:260
+msgid "Select Color"
+msgstr ""
+
+#: includes/metabox/init.php:261
+msgid "Current Color"
+msgstr ""
+
+#: includes/metabox/init.php:288
+msgid "Select / Deselect All"
+msgstr ""
+
+#: includes/metabox/init.php:1179
+msgid "Save"
+msgstr ""
+
+#: includes/metabox/helpers/cmb_Meta_Box_ajax.php:47
+msgid "Please Try Again"
+msgstr ""
+
+#: includes/metabox/helpers/cmb_Meta_Box_ajax.php:131
+msgid "Remove Embed"
+msgstr ""
+
+#: includes/metabox/helpers/cmb_Meta_Box_ajax.php:134
+#, php-format
+msgid "No oEmbed Results Found for %s. View more info at"
+msgstr ""
+
+#: includes/metabox/helpers/cmb_Meta_Box_field.php:459
+msgid "Add Group"
+msgstr ""
+
+#: includes/metabox/helpers/cmb_Meta_Box_field.php:460
+msgid "Remove Group"
+msgstr ""
+
+#: includes/metabox/helpers/cmb_Meta_Box_types.php:250
+msgid "Add Row"
+msgstr ""
+
+#: includes/metabox/helpers/cmb_Meta_Box_types.php:306
+#: includes/metabox/helpers/cmb_Meta_Box_types.php:706
+#: includes/metabox/helpers/cmb_Meta_Box_types.php:768
+msgid "Remove"
+msgstr ""
+
+#: includes/metabox/helpers/cmb_Meta_Box_types.php:601
+#: includes/metabox/helpers/cmb_Meta_Box_types.php:635
+msgid "No terms"
+msgstr ""
+
+#: includes/metabox/helpers/cmb_Meta_Box_types.php:674
+#: includes/metabox/helpers/cmb_Meta_Box_types.php:728
+msgid "Add or Upload File"
+msgstr ""
+
+#: includes/metabox/helpers/cmb_Meta_Box_types.php:695
+#: includes/metabox/helpers/cmb_Meta_Box_types.php:760
+msgid "Remove Image"
+msgstr ""
+
+#: includes/metabox/helpers/cmb_Meta_Box_types.php:706
+#: includes/metabox/helpers/cmb_Meta_Box_types.php:768
+msgid "File:"
+msgstr ""
+
+#: includes/metabox/helpers/cmb_Meta_Box_types.php:706
+#: includes/metabox/helpers/cmb_Meta_Box_types.php:768
+msgid "Download"
+msgstr ""
+

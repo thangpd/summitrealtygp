@@ -1,0 +1,182 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: Alike - Any post comparison WordPress\n"
+"POT-Creation-Date: 2016-05-12 22:53+0600\n"
+"PO-Revision-Date: 2016-05-12 23:00+0600\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: alike.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: \n"
+"Language: it\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: admin/admin-templates/alike-settings.php:18
+msgid "Alike Settings"
+msgstr "Alike Impostazioni"
+
+#: admin/admin-templates/alike-settings.php:20
+msgid "Preview skin chooser"
+msgstr "Anteprima pelle Scelta"
+
+#: admin/admin-templates/alike-settings.php:24
+msgid "Select a skin"
+msgstr "Seleziona una pelle"
+
+#: admin/admin-templates/alike-settings.php:26
+msgid "Theme Select"
+msgstr "Tema Selezionare"
+
+#: admin/admin-templates/alike-settings.php:41
+msgid "Image Crop"
+msgstr "Ritaglia immagine"
+
+#: admin/admin-templates/alike-settings.php:42
+msgid ""
+"The sizes listed below determine the maximum dimensions in pixels to use "
+"when showing an image to the Compare Page."
+msgstr ""
+"Le misure proposte qui di seguito determinano le dimensioni massime in pixel "
+"da utilizzare quando mostra un'immagine al Confronto pagina."
+
+#: admin/admin-templates/alike-settings.php:47
+msgid "Thumbnail image size"
+msgstr "Miniatura"
+
+#: admin/admin-templates/alike-settings.php:49
+msgid "Width"
+msgstr "Larghezza"
+
+#: admin/admin-templates/alike-settings.php:52
+msgid "Height"
+msgstr "Altezza"
+
+#: admin/admin-templates/alike-settings.php:55
+msgid ""
+"Crop thumbnail to exact dimensions (normally thumbnails are proportional)"
+msgstr ""
+"Crop miniatura per dimensioni esatte ( normalmente le miniature sono "
+"proporzionali )"
+
+#: admin/admin-templates/alike-settings.php:64
+msgid "Maximum posts to compare"
+msgstr "Messaggi massimo per confrontare"
+
+#: admin/class-ra-admin-scripts.php:54
+msgid "Save"
+msgstr "Salva"
+
+#: admin/class-ra-admin-scripts.php:55
+msgid "Please select a post type"
+msgstr "Prego Seleziona un tipo"
+
+#: admin/class-ra-admin-scripts.php:56
+msgid "Add Post Types"
+msgstr "Aggiungi tipo Post"
+
+#: admin/class-ra-admin-scripts.php:57
+msgid "Please select post types"
+msgstr "Prego Seleziona un tipo"
+
+#: admin/class-ra-admin-scripts.php:58
+msgid "Update"
+msgstr "Aggiorna"
+
+#: admin/class-ra-admin-scripts.php:59
+msgid "Show Rating Box"
+msgstr "Mostra interfaccia utente"
+
+#: admin/class-ra-admin-scripts.php:60
+msgid "Show on Top"
+msgstr "Visualizza"
+
+#: admin/class-redq-admin.php:57 admin/class-redq-admin.php:66
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Non hai permessi sufficienti per accedere a questa pagina."
+
+#: alike-templates/shortcodes/alike-preview.php:3
+msgid "No IDs to compare"
+msgstr "Confronta"
+
+#: alike-templates/shortcodes/alike-preview.php:20
+msgid "Please select same post type to compare."
+msgstr "Prego Seleziona un tipo"
+
+#: alike-templates/shortcodes/alike-preview.php:116
+#: alike-templates/shortcodes/alike-preview.php:145
+msgid "Array or Object are not allowed here"
+msgstr "Array o Object non sono concessi qui"
+
+#: alike-templates/shortcodes/alike-preview.php:161
+msgid "Sorry! not allowed."
+msgstr "Siamo spiacenti, c’è un problema nell’autenticazione sociale"
+
+#: alike-templates/shortcodes/alike-preview.php:293
+#, php-format
+msgid "You can compare maximum between %s items."
+msgstr "È possibile confrontare massimo tra le voci %s."
+
+#: alike-templates/shortcodes/alike-widget.php:24
+msgid "No Items Selected."
+msgstr "Selezionato"
+
+#: alike-templates/shortcodes/alike-widget.php:31 app/class-ra-widget.php:42
+msgid "Compare"
+msgstr "Confronta"
+
+#: alike-templates/shortcodes/alike-widget.php:32
+msgid "Clear"
+msgstr "pulire"
+
+#: app/class-ra-shortcodes.php:27
+msgid "Add To Compare"
+msgstr "Confronta"
+
+#: app/class-ra-widget.php:12
+msgid "Alike Widget"
+msgstr ""
+
+#: app/class-ra-widget.php:13
+msgid "A simple sidebar widget for displaying the added comparable posts."
+msgstr ""
+"Un semplice widget barra laterale per la visualizzazione dei messaggi "
+"analoghi aggiunto."
+
+#: app/class-ra-widget.php:49
+msgid "Title:"
+msgstr "Titolo"
+
+#: app/class-ra-widget.php:54
+msgid "Page ID:"
+msgstr "ID applicazione"
+
+#. Plugin Name of the plugin/theme
+msgid "Alike - Any post comparison WordPress"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://redqteam.com/demo/plugins/alike"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Alike - is a WordPress post comparison plugin. It can compare between two or "
+"more posts in same post type."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "redqteam"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.redqteam.com"
+msgstr ""

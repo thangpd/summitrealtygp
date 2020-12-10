@@ -1,0 +1,340 @@
+/* Plugin global style */
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.alike-right {
+  float: right;
+}
+
+/* Alike Widget Style */
+.alike-widget-btn-wrap {
+  display: none;
+  background: #FFFFFF;
+  border-width: 0 1px 1px;
+  border-style: solid;
+  border-color: #EDEDED;
+  padding: 20px;
+}
+.alike-btn-clear {
+  color: #bababa;
+  line-height: 24px;
+  display: inline-block;
+  margin-top: 8px;
+
+  &:hover, &:focus, &:active {
+    color: #E74C3C;
+    text-decoration: none;
+  }
+}
+.alike-btn-compare {
+  display: inline-block;
+  margin-bottom: 0;
+  font-weight: bold;
+  text-align: center;
+  vertical-align: middle;
+  cursor: pointer;
+  border: 1px solid transparent;
+  white-space: nowrap;
+  padding: 6px 12px;
+  border-radius: 0;
+  background-color: #E74C3C;
+  color: #FFFFFF;
+  height: 40px;
+  line-height: 24px;
+  -webkit-transition: all .3s ease-in-out;
+  -moz-transition: all .3s ease-in-out;
+  -o-transition: all .3s ease-in-out;
+
+  &:hover, &:focus, &:active {
+    background-color: darken(#E74C3C, 10%);
+    color: #FFFFFF;
+    text-decoration: none;
+  }
+}
+
+.alike-widget-partials {
+  background: #FFFFFF;
+  position: relative;
+  border:1px solid #EDEDED;
+  border-bottom: 0;
+  padding: 20px;
+
+  &:last-child {
+    border-bottom:1px solid #EDEDED;
+  }
+
+  .alike-widget-image, .alike-widget-title {
+    float: left;
+  }
+  .alike-widget-image {
+
+    img {
+      width: 65px;
+      margin-right: 15px;
+    }
+  }
+  .alike-widget-title {
+    margin-top: 15px;
+    margin-right: 15px;
+    width: 47%;
+    margin: 0;
+    &.alike-title-middle {
+      margin-top: 15px;
+    }
+
+    a {
+      color: #454545;
+      font-size: 14px;
+      line-height: 18px;
+      -webkit-transition: all .3s ease-in-out;
+      -moz-transition: all .3s ease-in-out;
+      -o-transition: all .3s ease-in-out;
+
+      &:hover {
+        text-decoration: none;
+        color: #E74C3C;
+      }
+    }
+  }
+  .alike-widget-close {
+    position: absolute;
+    right: 20px;
+    top: 42px;
+    width: 20px;
+    height: 20px;
+    text-align: center;
+    line-height: 20px;
+
+    border-radius: 50%;
+
+    a {
+      display: block;
+      color: #888888;
+      font-size: 12px;
+      -webkit-transition: all .3s ease-in-out;
+      -moz-transition: all .3s ease-in-out;
+      -o-transition: all .3s ease-in-out;
+      border-radius: 50%;
+      border: 1px solid #f2f2f2;
+
+      &:hover {
+        text-decoration: none;
+        color: #FFFFFF;
+        background: #E74C3C;
+        border: 1px solid #E74C3C;
+      }
+    }
+  }
+}
+
+
+/* Alike Table Layout Styles */
+.alike-table-thumb{
+  width: 100%;
+  // height: 250px;
+  overflow: hidden;
+  @media (max-width: 991px) {
+    height: auto;
+  }
+  a {
+    display: block;
+    width: 100%;
+    height: 100%;
+    position: relative;
+  }
+  img {
+    width: 100%;
+    display: block;
+    min-height: 185px;
+  }
+}
+.alike-table-title {
+  background-color: #FFFFFF;
+  color: #454545;
+  font-weight: 600;
+  min-width: 229px;
+}
+.alike-table-value {
+  background-color: #fff;
+  border-right: 1px solid #EDEDED;
+  color: #616161;
+  text-align: center;
+
+  .available {
+    color: #2ecc71;
+  }
+  .not-available {
+    color: #e74c3c;
+  }
+}
+
+.alike-table-top-bar {
+  background-color: #FFFFFF;
+  padding: 16px 30px;
+  position: relative;
+
+  h2, h4 {
+    line-height: 1;
+    margin: 0px;
+    padding: 0px;
+  }
+  h2 {
+    color: #454545;
+    font-size: 18px;
+    line-height: 24px;
+    font-weight: normal;
+    a {
+      color: #454545;
+      display: block;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+  }
+
+  h4 {
+    color: #888888;
+    font-size: 15px;
+    font-weight: normal;
+    overflow: hidden;
+    margin-top: 10px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+}
+
+.alike-compare-table {
+  overflow-x: auto;
+  @media screen and (max-width: 767px) {
+    width: 100%;
+    overflow-y: hidden;
+    -ms-overflow-style: -ms-autohiding-scrollbar;
+  }
+
+}
+@media screen and (max-width: 767px) {
+  .alike-table-thumb img {
+    height: 185px;
+  }
+}
+
+
+.table > thead > tr > th {
+  border-bottom: 0;
+}
+.alike-content .alike-table{
+
+  // Skin Style One
+  &.style-one {
+    background: transparent;
+    border-top: 0;
+    thead {
+      tr {
+        &:nth-child(2n+1) {
+          background: transparent;  
+        }
+      }
+    }
+    tbody {
+      border-top: 1px solid #EDEDED;
+    }
+    td {
+      border-bottom: 1px solid #EDEDED;
+      border-left: 1px solid #EDEDED;
+      padding: 16px 30px;
+    }
+    th {
+      padding: 0;
+      border-top: 1px solid #EDEDED;
+      border-left: 1px solid #EDEDED;
+
+      &:last-child {
+        border-right: 1px solid #EDEDED;
+      }
+      &:first-child {
+        border-top: 0;
+        border-left: 0;
+      }
+    }
+  }
+
+  // Skin Style Two
+  &.style-two {
+    background: transparent;
+    thead {
+      tr {
+        &:nth-child(2n+1) {
+          background: transparent;
+        }
+      }
+    }
+    border-collapse: separate;
+    border-spacing: 10px;
+    border-bottom: 0;
+    border-top: 0;
+    background: transparent;
+    thead {
+      tr {
+        background: transparent;
+      }
+    }
+    tbody {
+      border-top: 1px solid #EDEDED;
+    }
+    td {
+      border: 1px solid #EDEDED;
+      padding: 12px 30px;
+    }
+    th {
+      border: 1px solid #EDEDED;
+      padding: 0;
+
+      &:first-child {
+        border: 0;
+      }
+    }
+  }
+}
+
+/* Star Rating */
+.alike-star-rating {
+  display: inline-block;
+  overflow: hidden;
+  position: relative;
+  height: 1em;
+  line-height: 1;
+  font-size: 16.9px;
+  width: 67px;
+  font-family: "Ionicons";
+
+  &:before {
+    content: "\f3ae\f3ae\f3ae\f3ae\f3ae";
+    color: #d3ced2;
+    float: left;
+    top: 0;
+    left: 0;
+    position: absolute;
+  }
+
+  span {
+    overflow: hidden;
+    float: left;
+    top: 0;
+    left: 0;
+    position: absolute;
+    padding-top: 1.5em;
+
+    &:before {
+      content: "\f2fc\f2fc\f2fc\f2fc\f2fc";
+      top: 0;
+      position: absolute;
+      left: 0;
+      color: #ffbd21;
+    }
+  }
+}
+.alike-content-two {
+  margin: 0 -10px;
+}

@@ -1,0 +1,526 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-09-04 20:55+0000\n"
+"PO-Revision-Date: 2019-09-04 20:55+0000\n"
+"Last-Translator: \n"
+"Language-Team: Slovak\n"
+"Language: sk_SK\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: example-functions.php:542
+msgid "Facebook URL"
+msgstr "Facebook URL"
+
+#: example-functions.php:549
+msgid "Twitter URL"
+msgstr "Twitter URL"
+
+#: example-functions.php:556
+msgid "Google+ URL"
+msgstr "Google adresy URL"
+
+#: example-functions.php:563
+msgid "Linkedin URL"
+msgstr "Linkedin URL"
+
+#: example-functions.php:570
+msgid "User Field"
+msgstr "Používateľské Pole"
+
+#: example-functions.php:590
+msgid "Category Metabox"
+msgstr "Kategória Metabox"
+
+#: example-functions.php:605
+msgid "Term Image"
+msgstr "Termín Obrázok"
+
+#: example-functions.php:612
+msgid "Arbitrary Term Field"
+msgstr "Ľubovoľný Termín Oblasti"
+
+#: example-functions.php:634
+msgid "Theme Options Metabox"
+msgstr "Tému Voľby Metabox"
+
+#: example-functions.php:649
+msgid "Site Background Color"
+msgstr "Farba Pozadia Stránky"
+
+#: includes/CMB2.php:129
+msgid "Metabox configuration is required to have an ID parameter"
+msgstr "Metabox konfigurácie je potrebné mať parameter ID"
+
+#: includes/CMB2_Ajax.php:71
+msgid "Please Try Again"
+msgstr "Prosím, Skúste Znova"
+
+#: includes/CMB2_Ajax.php:173 tests/cmb-tests-base.php:59
+msgid "Remove Embed"
+msgstr "Odstrániť Vložiť"
+
+#: includes/CMB2_Ajax.php:177 tests/cmb-tests-base.php:64
+msgid "No oEmbed Results Found for %s. View more info at"
+msgstr "Č formátu oembed Výsledky Nájsť %s. Zobraziť viac info na"
+
+#: includes/CMB2_Field.php:1186
+msgid "Add Group"
+msgstr "Pridať Skupiny"
+
+#: includes/CMB2_Field.php:1187
+msgid "Remove Group"
+msgstr "Odstránenie Skupiny"
+
+#: includes/CMB2_Field.php:1269
+msgid "Sorry, this field does not have a cmb_id specified."
+msgstr "Ľutujeme, toto pole nemá cmb_id uvedené."
+
+#: includes/CMB2_Field_Display.php:408 includes/CMB2_JS.php:139
+#: includes/types/CMB2_Type_File_Base.php:75 tests/test-cmb-types-base.php:143
+#: tests/test-cmb-types.php:701
+msgid "File:"
+msgstr "Súbor:"
+
+#: includes/CMB2_JS.php:110
+msgid "Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday"
+msgstr "V Nedeľu, Pondelok, Utorok, Streda, Štvrtok, Piatok, Sobota"
+
+#: includes/CMB2_JS.php:111
+msgid "Su, Mo, Tu, We, Th, Fr, Sa"
+msgstr "Su, Mo, Tu, Sme, Th, Fr, Sa"
+
+#: includes/CMB2_JS.php:112
+msgid "Sun, Mon, Tue, Wed, Thu, Fri, Sat"
+msgstr "Slnko, Po, Ut, St, Št, Pi, So"
+
+#: includes/CMB2_JS.php:113
+msgid ""
+"January, February, March, April, May, June, July, August, September, October,"
+" November, December"
+msgstr ""
+"Január, Február, Marec, Apríl, Máj, Jún, Júl, August, September, Október, "
+"November, December"
+
+#: includes/CMB2_JS.php:114
+msgid "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec"
+msgstr ""
+"Jan, Feb, Mar, Apr, Máj, Jún, Júl, August, September, Október, November, "
+"December"
+
+#: includes/CMB2_JS.php:122
+msgid "Choose Time"
+msgstr "Vyberte Čas"
+
+#: includes/CMB2_JS.php:126
+msgid "Second"
+msgstr "Druhý"
+
+#: includes/CMB2_JS.php:127
+msgid "Now"
+msgstr "Teraz"
+
+#: includes/CMB2_JS.php:135
+msgid "Use this file"
+msgstr "Použite tento súbor"
+
+#: includes/CMB2_JS.php:136
+msgid "Use these files"
+msgstr "Použitie týchto súborov"
+
+#: includes/CMB2_JS.php:141
+msgid "Select / Deselect All"
+msgstr "Vyberte / Zrušte Všetky"
+
+#: includes/CMB2_Types.php:194
+msgid "Add Row"
+msgstr "Pridať Riadok"
+
+#: includes/CMB2_hookup.php:145
+msgid ""
+"Term Metadata is a WordPress > 4.4 feature. Please upgrade your WordPress "
+"install."
+msgstr ""
+"Termín Metadáta je WordPress > 4.4 funkciu. Prosím aktualizujte WordPress "
+"inštaláciu."
+
+#: includes/CMB2_hookup.php:149
+msgid "Term metaboxes configuration requires a 'taxonomies' parameter"
+msgstr ""
+"Termín metaboxes konfigurácia vyžaduje \\'klasifikácií, vznikne\\' parameter"
+
+#: includes/helper-functions.php:93
+msgid "No oEmbed Results Found for %s. View more info at %s"
+msgstr "Č formátu oembed Výsledky Nájsť %s. Zobraziť viac info na %s"
+
+#: includes/types/CMB2_Type_File.php:36 tests/test-cmb-types.php:683
+#: tests/test-cmb-types.php:701
+msgid "Add or Upload File"
+msgstr "Pridať alebo \" Nahrať Súbor"
+
+#: includes/types/CMB2_Type_File_List.php:36 tests/test-cmb-types.php:639
+#: tests/test-cmb-types.php:663
+msgid "Add or Upload Files"
+msgstr "Pridať alebo Nahrať Súbory"
+
+#: includes/types/CMB2_Type_Taxonomy_Multicheck.php:27
+#: includes/types/CMB2_Type_Taxonomy_Radio.php:25
+msgid "No terms"
+msgstr "Žiadne podmienky"
+
+#. Plugin Name of the plugin/theme
+msgid "CMB2"
+msgstr "CMB2"
+
+#. Plugin URI of the plugin/theme
+msgid "https://github.com/CMB2/CMB2"
+msgstr "https://github.com/CMB2/CMB2"
+
+#. Description of the plugin/theme
+msgid ""
+"CMB2 will create metaboxes and forms with custom fields that will blow your "
+"mind."
+msgstr ""
+"CMB2 vytvorí metaboxes a formy s vlastných polí, že bude fúkať vašu myseľ."
+
+#. Author of the plugin/theme
+msgid "WebDevStudios"
+msgstr "WebDevStudios"
+
+#. Author URI of the plugin/theme
+msgid "http://webdevstudios.com"
+msgstr "http://webdevstudios.com"
+
+#: includes/CMB2_JS.php:109
+msgctxt "Valid formatDate string for jquery-ui datepicker"
+msgid "mm/dd/yy"
+msgstr "mm/dd/yy"
+
+#: includes/CMB2_JS.php:129
+msgctxt ""
+"Valid formatting string, as per http://trentrichardson."
+"com/examples/timepicker/"
+msgid "hh:mm TT"
+msgstr "hh:mm TT"
+
+#: example-functions.php:117 tests/test-cmb-field.php:255
+msgid "Test Metabox"
+msgstr "Test Metabox"
+
+#: example-functions.php:130 example-functions.php:436
+msgid "Test Text"
+msgstr "Test Text"
+
+#: example-functions.php:131 example-functions.php:144
+#: example-functions.php:157 example-functions.php:165
+#: example-functions.php:173 example-functions.php:182
+#: example-functions.php:190 example-functions.php:205
+#: example-functions.php:213 example-functions.php:221
+#: example-functions.php:238 example-functions.php:247
+#: example-functions.php:260 example-functions.php:267
+#: example-functions.php:274 example-functions.php:288
+#: example-functions.php:301 example-functions.php:314
+#: example-functions.php:326 example-functions.php:335
+#: example-functions.php:343 example-functions.php:352
+#: example-functions.php:359 example-functions.php:373
+#: example-functions.php:437 example-functions.php:528
+#: example-functions.php:536 example-functions.php:543
+#: example-functions.php:550 example-functions.php:557
+#: example-functions.php:564 example-functions.php:571
+#: example-functions.php:598 example-functions.php:606
+#: example-functions.php:613 example-functions.php:650
+#: tests/test-cmb-field.php:267
+msgid "field description (optional)"
+msgstr "pole popis (voliteľné)"
+
+#: example-functions.php:143
+msgid "Test Text Small"
+msgstr "Test Text Malé"
+
+#: example-functions.php:156
+msgid "Test Text Medium"
+msgstr "Test Text Médium"
+
+#: example-functions.php:164
+msgid "Custom Rendered Field"
+msgstr "Vlastné Stala Oblasti"
+
+#: example-functions.php:172
+msgid "Website URL"
+msgstr "URL adresa stráky"
+
+#: example-functions.php:181
+msgid "Test Text Email"
+msgstr "Test Text E-Mailu"
+
+#: example-functions.php:189
+msgid "Test Time"
+msgstr "Skúšobná Doba"
+
+#: example-functions.php:197 example-functions.php:198
+msgid "Time zone"
+msgstr "Časové pásmo"
+
+#: example-functions.php:204
+msgid "Test Date Picker"
+msgstr "Test Date Picker"
+
+#: example-functions.php:212
+msgid "Test Date Picker (UNIX timestamp)"
+msgstr "Test Date Picker (UNIX timestamp)"
+
+#: example-functions.php:220
+msgid "Test Date/Time Picker Combo (UNIX timestamp)"
+msgstr "Test Date/Time Picker Combo (UNIX timestamp)"
+
+#: example-functions.php:237
+msgid "Test Money"
+msgstr "Test Peniaze"
+
+#: example-functions.php:246
+msgid "Test Color Picker"
+msgstr "Test Color Picker"
+
+#: example-functions.php:259
+msgid "Test Text Area"
+msgstr "Test Text Oblasti"
+
+#: example-functions.php:266
+msgid "Test Text Area Small"
+msgstr "Test Text Oblasti Malé"
+
+#: example-functions.php:273
+msgid "Test Text Area for Code"
+msgstr "Test Textovú Oblasť pre Kód"
+
+#: example-functions.php:280
+msgid "Test Title Weeeee"
+msgstr "Test Hlava Weeeee"
+
+#: example-functions.php:281
+msgid "This is a title description"
+msgstr "Toto je názov, popis"
+
+#: example-functions.php:287
+msgid "Test Select"
+msgstr "Vyberte Položku Test"
+
+#: example-functions.php:293 example-functions.php:306
+#: example-functions.php:318
+msgid "Option One"
+msgstr "Možnosť Jedného"
+
+#: example-functions.php:294 example-functions.php:307
+#: example-functions.php:319
+msgid "Option Two"
+msgstr "Možnosť Dvoch"
+
+#: example-functions.php:295 example-functions.php:308
+#: example-functions.php:320
+msgid "Option Three"
+msgstr "Možnosť Troch"
+
+#: example-functions.php:300
+msgid "Test Radio inline"
+msgstr "Test Rozhlasovej inline"
+
+#: example-functions.php:313
+msgid "Test Radio"
+msgstr "Test Rozhlasovej"
+
+#: example-functions.php:325
+msgid "Test Taxonomy Radio"
+msgstr "Test Taxonómia Rádio"
+
+#: example-functions.php:334
+msgid "Test Taxonomy Select"
+msgstr "Test Vyberte Taxonómie"
+
+#: example-functions.php:342
+msgid "Test Taxonomy Multi Checkbox"
+msgstr "Test Taxonómia Multi Políčko"
+
+#: example-functions.php:351
+msgid "Test Checkbox"
+msgstr "Test Políčko"
+
+#: example-functions.php:358 tests/test-cmb-field.php:266
+msgid "Test Multi Checkbox"
+msgstr "Test Multi Políčko"
+
+#: example-functions.php:364 tests/test-cmb-field.php:272
+msgid "Check One"
+msgstr "Jedna Kontrola"
+
+#: example-functions.php:365 tests/test-cmb-field.php:273
+msgid "Check Two"
+msgstr "Skontrolujte Dvoch"
+
+#: example-functions.php:366 tests/test-cmb-field.php:274
+msgid "Check Three"
+msgstr "Skontrolujte Tri"
+
+#: example-functions.php:372
+msgid "Test wysiwyg"
+msgstr "Test wysiwyg"
+
+#: example-functions.php:380
+msgid "Test Image"
+msgstr "Test Obrázok"
+
+#: example-functions.php:381
+msgid "Upload an image or enter a URL."
+msgstr "Odoslanie snímky alebo zadajte adresu URL."
+
+#: example-functions.php:387
+msgid "Multiple Files"
+msgstr "Viac Súborov"
+
+#: example-functions.php:388
+msgid "Upload or add multiple images/attachments."
+msgstr "Odovzdanie alebo pridať viac obrázkov/prílohy."
+
+#: example-functions.php:395
+msgid "oEmbed"
+msgstr "formátu oembed"
+
+#: example-functions.php:396
+msgid ""
+"Enter a youtube, twitter, or instagram URL. Supports services listed at <a "
+"href=\"http://codex.wordpress.org/Embeds\">http://codex.wordpress."
+"org/Embeds</a>."
+msgstr ""
+
+#: example-functions.php:427
+msgid "About Page Metabox"
+msgstr "O Stránke Metabox"
+
+#: example-functions.php:456
+msgid "Repeating Field Group"
+msgstr "Opakovanie Skupina Polí"
+
+#: example-functions.php:464
+msgid "Generates reusable form entries"
+msgstr "Generuje opakovane forme záznamov"
+
+#: example-functions.php:466
+msgid "Entry {#}"
+msgstr ""
+
+#: example-functions.php:467
+msgid "Add Another Entry"
+msgstr "Pridať Ďalšiu Položku"
+
+#: example-functions.php:468
+msgid "Remove Entry"
+msgstr "Odstrániť Záznam"
+
+#: example-functions.php:481
+msgid "Entry Title"
+msgstr "Vstup Hlava"
+
+#: example-functions.php:488
+msgid "Description"
+msgstr "Popis"
+
+#: example-functions.php:489
+msgid "Write a short description for this entry"
+msgstr "Napísať krátky popis tento záznam"
+
+#: example-functions.php:495
+msgid "Entry Image"
+msgstr "Záznam Obrazu"
+
+#: example-functions.php:501
+msgid "Image Caption"
+msgstr "Nadpis obrázku"
+
+#: example-functions.php:520
+msgid "User Profile Metabox"
+msgstr "Profil Používateľa Metabox"
+
+#: example-functions.php:527 example-functions.php:597
+msgid "Extra Info"
+msgstr "Ďalšie Informácie"
+
+#: example-functions.php:535
+msgid "Avatar"
+msgstr "Avatar"
+
+#: includes/CMB2.php:418
+msgid "Click to toggle"
+msgstr "Prepnúť zobrazenie"
+
+#: includes/CMB2_Field.php:1209 includes/CMB2_Field.php:1213
+#: tests/test-cmb-field.php:229
+msgid "None"
+msgstr "Žiadne"
+
+#: includes/CMB2_JS.php:86 includes/CMB2_JS.php:119
+msgid "Clear"
+msgstr "Vyčistiť"
+
+#: includes/CMB2_JS.php:87
+msgid "Default"
+msgstr "Predvolene"
+
+#: includes/CMB2_JS.php:88
+msgid "Select Color"
+msgstr "Výber farby"
+
+#: includes/CMB2_JS.php:89
+msgid "Current Color"
+msgstr "Aktuálna farba"
+
+#: includes/CMB2_JS.php:115
+msgid "Next"
+msgstr "Daľší"
+
+#: includes/CMB2_JS.php:116
+msgid "Prev"
+msgstr "Predchádzajúci"
+
+#: includes/CMB2_JS.php:117
+msgid "Today"
+msgstr "Iba dnes"
+
+#: includes/CMB2_JS.php:118 includes/CMB2_JS.php:128
+msgid "Done"
+msgstr "Hotovo"
+
+#: includes/CMB2_JS.php:123
+msgid "Time"
+msgstr "Čas"
+
+#: includes/CMB2_JS.php:124
+msgid "Hour"
+msgstr "Hodina"
+
+#: includes/CMB2_JS.php:125
+msgid "Minute"
+msgstr "Minúta"
+
+#: includes/CMB2_JS.php:137 includes/types/CMB2_Type_File_Base.php:61
+msgid "Remove Image"
+msgstr "Odstrániť obrázok"
+
+#: includes/CMB2_JS.php:138 includes/CMB2_Types.php:257
+#: includes/types/CMB2_Type_File_Base.php:80 tests/test-cmb-types-base.php:143
+#: tests/test-cmb-types.php:47 tests/test-cmb-types.php:55
+#: tests/test-cmb-types.php:701
+msgid "Remove"
+msgstr "Odstrániť"
+
+#: includes/CMB2_JS.php:140 includes/types/CMB2_Type_File_Base.php:78
+#: tests/test-cmb-types-base.php:143 tests/test-cmb-types.php:701
+msgid "Download"
+msgstr "Stiahnuť"
+
+#: includes/helper-functions.php:279
+msgid "Save"
+msgstr "Uložiť"
