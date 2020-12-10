@@ -446,6 +446,16 @@ input.checkbox:checked:after {
     animation: spin 2s linear infinite;
 }
 
+.select2.select2-container.select2-container--default{
+    margin-bottom:15px;
+}
+.select2-container .select2-selection--single{
+    height:40px;
+}
+.select2-container--default .select2-selection--single .select2-selection__rendered{
+    line-height:33px;
+}
+
 /* Safari */
 @-webkit-keyframes spin {
     0% { -webkit-transform: rotate(0deg); }

@@ -28,9 +28,15 @@ class RegLogController extends Controller {
 		wp_enqueue_script( 'register-template-js', plugins_url( '/assets/reglogcustomer.js', __DIR__ ), [
 			'bootstrap',
 			'jquery-md5-js',
-			'jquery-validate'
+			'jquery-validate',
+			'select2'
 		] );
-		wp_enqueue_style( 'register-template-css', plugins_url( '/assets/reglogcustomer.css', __DIR__ ), [ 'bootstrap' ] );
+		wp_enqueue_style( 'register-template-css', plugins_url( '/assets/reglogcustomer.css', __DIR__ ), [
+			'bootstrap',
+			'select2'
+		] );
+		wp_deregister_script( 'ctNiceSelect' );
+		wp_deregister_style( 'ctNiceSelect' );
 	}
 
 	public function actionLoginAjax() {

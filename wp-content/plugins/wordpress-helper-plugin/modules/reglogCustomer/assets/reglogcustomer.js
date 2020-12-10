@@ -55,7 +55,9 @@
                 }
             })
         })
-
+        if ($active.length > 0) {
+            $active.find('#state').select2()
+        }
         $active.validate()
 
         // Login form
@@ -82,6 +84,7 @@
                 }
             });
         });
+
 
     })
 

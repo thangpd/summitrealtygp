@@ -71,6 +71,19 @@ class Elhelper_Plugin {
 	private static $_instance = null;
 
 	/**
+	 * Constructor
+	 *
+	 * @since 1.0.0
+	 *
+	 * @access public
+	 */
+	public function __construct() {
+		add_action( 'init', [ $this, 'init' ] );
+		add_action( 'plugins_loaded', [ $this, 'i18n' ] );
+
+	}
+
+	/**
 	 * Instance
 	 *
 	 * Ensures only one instance of the class is loaded or can be loaded.
@@ -89,19 +102,6 @@ class Elhelper_Plugin {
 		}
 
 		return self::$_instance;
-
-	}
-
-	/**
-	 * Constructor
-	 *
-	 * @since 1.0.0
-	 *
-	 * @access public
-	 */
-	public function __construct() {
-		add_action( 'init', [ $this, 'init' ] );
-		add_action( 'plugins_loaded', [ $this, 'i18n' ] );
 
 	}
 
@@ -154,9 +154,9 @@ class Elhelper_Plugin {
 			// Add Plugin actions
 			add_action( 'elementor/widgets/widgets_registered', [ $this, 'init_widgets' ] );
 			add_action( 'elementor/controls/controls_registered', [ $this, 'init_controls' ] );
-		}else{
-		    throw(new \Exception('Not found elementor'));
-        }
+		} else {
+			throw( new \Exception( 'Not found elementor' ) );
+		}
 
 		//enqueue
 		add_action( 'wp_enqueue_scripts', [ $this, 'enqueue_script' ] );
@@ -169,19 +169,38 @@ class Elhelper_Plugin {
 	}
 
 	/**
+	 * Init Shortcode
+	 * @return void
+	 */
+	public function init_shortcode() {
+
+		new ElHelperShortcode();
+		new ListingPriceShortcode();
+
+	}
+
+	/**
+	 * Init Controller
+	 * @return void
+	 */
+	public function init_controller() {
+		RegLogController::instance();
+	}
+
+	/**
 	 * Template include
 	 */
 	public function summit_template_include( $template ) {
 		$reglogController = RegLogController::instance();
 
-        if ( is_page( 'summit-register' ) ) {
+		if ( is_page( 'summit-register' ) ) {
 			if ( is_user_logged_in() ) {
 				wp_redirect( site_url() );
 			}
 			if ( isset( $_COOKIE['summit-signup'] ) && ! empty( get_transient( $_COOKIE['summit-signup'] ) ) ) {
 				$template = $reglogController->getViewPathActivationPage();
 			} else {
-				$reglogController->deleteTransientCookie($_COOKIE['summit-signup']);
+				$reglogController->deleteTransientCookie( $_COOKIE['summit-signup'] );
 				$template = $reglogController->getViewPathRegister();
 			}
 		} elseif ( is_page( 'summit-login' ) ) {
@@ -213,6 +232,7 @@ class Elhelper_Plugin {
 		wp_register_script( 'jquery-md5-js', plugins_url( '/assets/lib/jquery-lib/jquery.md5.js', __FILE__ ), array( 'jquery' ) );
 		wp_register_script( 'html5lightbox', plugins_url( '/assets/lib/html5lightbox/html5lightbox.js', __FILE__ ), [ 'jquery' ] );
 		wp_register_script( 'bootstrap', plugins_url( '/assets/lib/bootstrap/js/bootstrap.min.js', __FILE__ ), array( 'jquery' ) );
+		wp_register_script( 'select2', plugins_url( '/vendor/select2/select2/dist/js/select2.min.js', __FILE__ ), array( 'jquery' ) );
 		wp_register_script( 'jquery-validate', 'https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.2/jquery.validate.min.js', array( 'jquery' ) );
 		wp_register_script( 'jquery-validate-additional-method', 'https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.2/additional-methods.min.js', array(
 			'jquery',
@@ -220,6 +240,7 @@ class Elhelper_Plugin {
 		) );
 
 
+		wp_register_style( 'select2', plugins_url( '/vendor/select2/select2/dist/css/select2.min.css', __FILE__ ) );
 		wp_register_style( 'slick', plugins_url( '/assets/lib/slick/slick.css', __FILE__ ) );
 		wp_register_style( 'slick-theme', plugins_url( '/assets/lib/slick/slick-theme.css', __FILE__ ) );
 		wp_register_style( 'bootstrap', plugins_url( '/assets/lib/bootstrap/css/bootstrap.min.css', __FILE__ ) );
@@ -232,7 +253,6 @@ class Elhelper_Plugin {
 		wp_localize_script( 'elhelper-script', 'ajax_object',
 			array( 'ajax_url' => admin_url( 'admin-ajax.php' ), 'we_value' => 1234 ) );
 	}
-
 
 	/**
 	 * Admin notice
@@ -350,26 +370,6 @@ class Elhelper_Plugin {
 		// Register control
 //		\Elementor\Plugin::$instance->controls_manager->register_control( 'control-type-', new \Elementor_Test_Control() );
 
-	}
-
-
-	/**
-	 * Init Shortcode
-	 * @return void
-	 */
-	public function init_shortcode() {
-
-		new ElHelperShortcode();
-		new ListingPriceShortcode();
-
-	}
-
-	/**
-	 * Init Controller
-	 * @return void
-	 */
-	public function init_controller() {
-		RegLogController::instance();
 	}
 
 
