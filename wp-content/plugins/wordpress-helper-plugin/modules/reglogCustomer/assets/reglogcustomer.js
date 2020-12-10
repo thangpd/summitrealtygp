@@ -60,7 +60,7 @@
 
         // Login form
 
-        const $login = $('#summit-login-form');
+        const $login = $('.login-form');
         $login.on('submit', function (e) {
             e.preventDefault();
 
@@ -74,7 +74,8 @@
                 dataType: 'json',
                 success: function (res) {
                     if (res.code == 200) {
-                        // window.location = ajax_object.homepage_url;
+                        $('#login-error-msg').html(res.msg);
+                        window.location = res.redirect;
                     } else {
                         $('#login-error-msg').html('User or password is incorrect!');
                     }
