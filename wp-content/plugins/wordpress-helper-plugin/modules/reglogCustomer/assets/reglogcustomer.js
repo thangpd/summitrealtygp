@@ -5,9 +5,10 @@
         $regis.on('submit', function (e) {
             e.preventDefault()
             let password = $(this).find('input[name="password"]')
-            let md5pass = $.md5(password.val());
+            let md5pass = $.md5(password.val())
             // password.val(md5pass);
-            var form_data = $(this).serialize();
+            var form_data = $(this).serialize()
+            console.log(form_data)
             var data = form_data + '&action=action_register_ajax'
             $.ajax({
                 type: "POST",
@@ -23,25 +24,16 @@
                     }
                 }
             })
-        });
-
-        // $regis.validate({
-        //     submitHandler: function (form) {
-        //         // some other code
-        //         // maybe disabling submit button
-        //         // then:
-        //         if ($form.valid()) {
-        //             $(form).submit();
-        //         }
-        //     }
-        // });
+        })
+        $regis.validate();
 
         let $active = $('.active-form');
         $active.on('submit', function (e) {
             e.preventDefault()
-            var form_data = $(this).serialize();
-            var data = form_data + '&action=action_active_ajax';
-            $(this).find('input[name="submit"]').addClass('.loader');
+            var form_data = $(this).serialize()
+            console.log(form_data)
+            var data = form_data + '&action=action_active_ajax'
+            $(this).find('input[name="submit"]').addClass('.loader')
 
             $.ajax({
                 type: "POST",
@@ -61,21 +53,14 @@
                     }
                 }
             })
-        });
-
-        $active.validate({
-            submitHandler: function (form) {
-                // some other code
-                // maybe disabling submit button
-                // then:
-                if (form.valid()) {
-                    $(form).submit();
-                }
-            }
-        });
+        })
+        if ($active.length > 0) {
+            $active.find('#state').select2()
+        }
+        $active.validate()
 
         // Login form
-        const $login = $('#summit-login-form');
+        const $login = $('.login-form');
         $login.on('submit', function (e) {
             e.preventDefault();
 
@@ -89,13 +74,16 @@
                 dataType: 'json',
                 success: function (res) {
                     if (res.code == 200) {
-                        window.location = ajax_object.homepage_url;
+                        $('#login-error-msg').html(res.msg);
+                        window.location = res.redirect;
                     } else {
                         $('#login-error-msg').html('User or password is incorrect!');
                     }
                 }
             });
         });
-    });
+
+
+    })
 
 })(jQuery)

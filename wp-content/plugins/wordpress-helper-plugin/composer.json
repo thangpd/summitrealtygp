@@ -1,7 +1,8 @@
 {
   "require": {
     "monolog/monolog": "1.0.*",
-    "kub-at/php-simple-html-dom-parser": "^1.7"
+    "kub-at/php-simple-html-dom-parser": "^1.7",
+    "select2/select2": "^4.0"
 
   },
   "autoload": {
