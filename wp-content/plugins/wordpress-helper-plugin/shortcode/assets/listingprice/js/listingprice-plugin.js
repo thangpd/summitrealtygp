@@ -11,9 +11,14 @@
                 dataType: 'JSON',
                 success: function (res) {
                     $('.zestimate-price').html(res.price);
+                    $('.zestimate-price').removeClass('loading');
+                    $('.zestimate-price').addClass('done');
+                },
+                beforeSend: function () {
+                   $('.zestimate-price').addClass('loading');
+                   $('.zestimate-price a').html('');
                 }
             })
-        })
-
-    })
+        });
+    });
 })(jQuery);

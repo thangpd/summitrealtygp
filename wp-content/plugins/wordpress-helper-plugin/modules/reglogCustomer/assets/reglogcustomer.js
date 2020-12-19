@@ -27,7 +27,6 @@
         })
         $regis.validate();
 
-
         let $active = $('.active-form');
         $active.on('submit', function (e) {
             e.preventDefault()
@@ -61,7 +60,6 @@
         $active.validate()
 
         // Login form
-
         const $login = $('.login-form');
         $login.on('submit', function (e) {
             e.preventDefault();

@@ -90,11 +90,6 @@ class RegLogController extends Controller {
 	}
 
 	public function actionActiveAjax() {
-		$res            = [
-			'code' => 200,
-			'data' => '',
-			'msg'  => 'Active Success',
-		];
 		$user_meta_data = $_POST;
 		if ( ! isset( $_GET['active_key'] ) ) {
 			$transient_key = $_COOKIE['summit-signup'];
@@ -109,34 +104,74 @@ class RegLogController extends Controller {
 			'user_email'           => $user_data['user_email'],   //(string) The user email address.
 			'show_admin_bar_front' => false,   //(string) The user email address.
 		);
-		$userId    = wp_insert_user( $userdata );
+		// Insert/create the user
+		$userId = wp_insert_user( $userdata );
 		if ( ! is_wp_error( $userId ) ) {
 			foreach ( $user_meta_data as $key => $val ) {
 				update_user_meta( $userId, $key, $val );
 			}
-			wp_update_user( array( 'ID' => $userId, 'user_email' => $user_data['email'] ) );
-			wp_update_user( array( 'ID' => $userId, 'user_pass' => $user_data['password'] ) );
+
+			// wp_update_user( array( 'ID' => $userId, 'user_email' => $user_data['email'] ) );
+			// wp_update_user( array( 'ID' => $userId, 'user_pass' => $user_data['password'] ) );
 			wp_set_auth_cookie( $userId, true );
-			$this->deleteTransientCookie();
+			
 			$siteUrl     = site_url();
-			$res['data'] = <<<HTML
+			$data = <<<HTML
 			<div class="almost-there" style="color:white; padding:20px;">
 			<p>Active Success!</p>
 			<p><a href="{$siteUrl}">Click here to return to home page</a></p>
 			</div>
-HTML;
+			HTML;
 			$u           = new \WP_User( $userId );
-			$u->add_role( 'subscriber ' );
+			$u->add_role( 'subscriber' );
+
+			// ! Send mail to admin after user registed successfully.
+			$email_template  = $this->getViewPathEmailAdminTemplate();
+			$message         = require $email_template;
+			$this->sendMailRegister( 'admin@summitrealtygp.com', 'Admin notification', $message );	
+
+			$res = [
+				'code' => 200,
+				'data' => $data,
+				'msg'  => 'Active Success',
+			];	
+			$this->deleteTransientCookie();
 		} else {
 			$res = ( array(
 				'code'      => 500,
 				'msg'       => 'Cant create user',
-				'data'      => json_encode( $userId->get_error_code() ),
+				'data'      => json_encode( $userId ),
 				'user-data' => json_encode( $user_data ),
 			) );
+			$this->deleteTransientCookie();
 		}
+
 		echo json_encode( $res );
 		wp_die();
+	}
+
+	/**
+	 * User login
+	 * 
+	 * @param
+	 * @return 
+	 */
+	public function userLogin() {
+
+	}
+
+	/**
+	 * Check user exists
+	 * 
+	 * @param int | id_user 
+	 * @return bool
+	 */
+	public function checkUserExists($id_user) {
+		global $wpdb;
+
+		$count = $wpdb->get_var($wpdb->prepare("SELECT COUNT(*) FROM $wpdb->users WHERE ID = %d", $id_user));
+
+		return ( ($count == 1) ? true : false);
 	}
 
 	public function deleteTransientCookie() {
@@ -153,11 +188,11 @@ HTML;
 		//this for email tempalte. Do not delete.
 		$user_data = $_POST;
 		if ( username_exists( $user_data['Username'] ) ) {
-			echo json_encode( [ 'code' => 404, 'data' => '', 'msg' => 'User name already exists' ] );
+			echo json_encode( [ 'code' => 404, 'data' => '', 'msg' => 'User name is already exists' ] );
 			wp_die();
 		}
 		if ( email_exists( $user_data['email'] ) ) {
-			echo json_encode( [ 'code' => 404, 'data' => '', 'msg' => 'Email already exists' ] );
+			echo json_encode( [ 'code' => 404, 'data' => '', 'msg' => 'Email is already exists' ] );
 			wp_die();
 		}
 
@@ -190,16 +225,11 @@ HTML;
 		wp_die();
 	}
 
-	public function getViewPathEmailTemplate() {
-		return $this->render( 'email-template.php' );
-	}
-
 	public function sendMailRegister( $customerEmail, $subject, $message ) {
 		$to      = "$customerEmail";
 		$subject = "$subject";
 		$headers = "From: Summit Realty Group, Inc <admin@summitrealtygp.com>" . "\r\n" .
 		           "Reply-To: admin@summitrealtygp.com" . "\r\n" .
-		           "CC: admin@summitrealtygp.com" . "\r\n" .
 		           "X-Mailer: PHP/" . phpversion();
 		$res     = wp_mail( $to, $subject, $message, $headers );
 		//dev
@@ -224,6 +254,14 @@ HTML;
 
 	public function getViewPathActivationPage() {
 		return $this->render( 'activation-page.php' );
+	}
+
+	public function getViewPathEmailTemplate() {
+		return $this->render( 'email-template.php' );
+	}
+
+	public function getViewPathEmailAdminTemplate() {
+		return $this->render( 'email-admin-template.php' );
 	}
 
 	public function getViewPathActivePage() {
