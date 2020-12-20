@@ -102,8 +102,8 @@ wp_head();
                                 <div class="error-msg"></div>
                                 <input type="submit" value="SIGNUP">
                             </form>
-                            <!--<p>Already have an account? <a href="<?php echo site_url() . '/summit-login' ?>"> Log
-                                    in.</a></p>-->
+                            <p>Already have an account? <a href="<?php echo site_url() . '/summit-login' ?>"> Log
+                                    in.</a></p>
                         </div>
                     </div>
                     <!-- copyright -->
