@@ -53,21 +53,12 @@ class RegLogController extends Controller {
 		}
 
 		$user = get_user_by( 'login', $_POST['Username'] );
-
-		if ( $user && wp_authenticate( $_POST['Username'], $_POST['password'] ) ) {
+		if ( $user  && wp_authenticate( $_POST['Username'], $_POST['password'] ) ) {
 			// Using wp_xmlrpc_server
 			// $wp_xmlrpc_server = new \wp_xmlrpc_server();
 			// $user = $wp_xmlrpc_server->login($_POST['Username'], $_POST['password']);
 			// Create a credentials
-			$creds = [
-				'user_login'    => $_POST['Username'],
-				'user_password' => $_POST['password'],
-				'remember'      => true,
-			];
 
-//			$user = wp_signon( $creds, false );
-
-//			wp_set_current_user( $user->ID );
 			wp_set_auth_cookie( $user->ID, true, false );
 
 			do_action( 'wp_login', $_POST['Username'] );
@@ -115,27 +106,27 @@ class RegLogController extends Controller {
 			// wp_update_user( array( 'ID' => $userId, 'user_email' => $user_data['email'] ) );
 			// wp_update_user( array( 'ID' => $userId, 'user_pass' => $user_data['password'] ) );
 			wp_set_auth_cookie( $userId, true );
-
-			$siteUrl = site_url();
-			$data    = <<<HTML
+			
+			$siteUrl     = site_url();
+			$data = <<<HTML
 			<div class="almost-there" style="color:white; padding:20px;">
 			<p>Active Success!</p>
 			<p><a href="{$siteUrl}">Click here to return to home page</a></p>
 			</div>
 			HTML;
-			$u       = new \WP_User( $userId );
+			$u           = new \WP_User( $userId );
 			$u->add_role( 'subscriber' );
 
 			// ! Send mail to admin after user registed successfully.
-			$email_template = $this->getViewPathEmailAdminTemplate();
-			$message        = require $email_template;
-			$this->sendMailRegister( 'admin@summitrealtygp.com', 'Admin notification', $message );
+			$email_template  = $this->getViewPathEmailAdminTemplate();
+			$message         = require $email_template;
+			$this->sendMailRegister( 'admin@summitrealtygp.com', 'Admin notification', $message );	
 
 			$res = [
 				'code' => 200,
 				'data' => $data,
 				'msg'  => 'Active Success',
-			];
+			];	
 			$this->deleteTransientCookie();
 		} else {
 			$res = ( array(
@@ -151,34 +142,11 @@ class RegLogController extends Controller {
 		wp_die();
 	}
 
-	public function getViewPathEmailAdminTemplate() {
-		return $this->render( 'email-admin-template.php' );
-	}
-
-	public function sendMailRegister( $customerEmail, $subject, $message ) {
-		$to      = "$customerEmail";
-		$subject = "$subject";
-		$headers = "From: Summit Realty Group, Inc <admin@summitrealtygp.com>" . "\r\n" .
-		           "Reply-To: admin@summitrealtygp.com" . "\r\n" .
-		           "X-Mailer: PHP/" . phpversion();
-		$res     = wp_mail( $to, $subject, $message, $headers );
-		//dev
-		$res = true;
-
-		return $res;
-	}
-
-	public function deleteTransientCookie() {
-		delete_transient( $_COOKIE["summit-signup"] );
-		setcookie( "summit-signup", "", time() - 3600 );
-	}
-
 	/**
 	 * User login
-	 *
+	 * 
 	 * @param
-	 *
-	 * @return
+	 * @return 
 	 */
 	public function userLogin() {
 
@@ -186,17 +154,21 @@ class RegLogController extends Controller {
 
 	/**
 	 * Check user exists
-	 *
-	 * @param int | id_user
-	 *
+	 * 
+	 * @param int | id_user 
 	 * @return bool
 	 */
-	public function checkUserExists( $id_user ) {
+	public function checkUserExists($id_user) {
 		global $wpdb;
 
-		$count = $wpdb->get_var( $wpdb->prepare( "SELECT COUNT(*) FROM $wpdb->users WHERE ID = %d", $id_user ) );
+		$count = $wpdb->get_var($wpdb->prepare("SELECT COUNT(*) FROM $wpdb->users WHERE ID = %d", $id_user));
 
-		return ( ( $count == 1 ) ? true : false );
+		return ( ($count == 1) ? true : false);
+	}
+
+	public function deleteTransientCookie() {
+		delete_transient( $_COOKIE["summit-signup"] );
+		setcookie( "summit-signup", "", time() - 3600 );
 	}
 
 	public function actionRegisterAjax() {
@@ -245,8 +217,17 @@ class RegLogController extends Controller {
 		wp_die();
 	}
 
-	public function getViewPathEmailTemplate() {
-		return $this->render( 'email-template.php' );
+	public function sendMailRegister( $customerEmail, $subject, $message ) {
+		$to      = "$customerEmail";
+		$subject = "$subject";
+		$headers = "From: Summit Realty Group, Inc <admin@summitrealtygp.com>" . "\r\n" .
+		           "Reply-To: admin@summitrealtygp.com" . "\r\n" .
+		           "X-Mailer: PHP/" . phpversion();
+		$res     = wp_mail( $to, $subject, $message, $headers );
+		//dev
+		$res = true;
+
+		return $res;
 	}
 
 	public function getViewPathActivationTemplate() {
@@ -265,6 +246,14 @@ class RegLogController extends Controller {
 
 	public function getViewPathActivationPage() {
 		return $this->render( 'activation-page.php' );
+	}
+
+	public function getViewPathEmailTemplate() {
+		return $this->render( 'email-template.php' );
+	}
+
+	public function getViewPathEmailAdminTemplate() {
+		return $this->render( 'email-admin-template.php' );
 	}
 
 	public function getViewPathActivePage() {

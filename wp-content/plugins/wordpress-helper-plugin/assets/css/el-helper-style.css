@@ -66,6 +66,74 @@
         transform: rotate(360deg);
     }
 }
+@media only screen and (max-width: 480px) {
+    .title-elhelper-header::before {
+        content: none !important;
+    }
+
+    .dropdown-footer .elementor-widget-heading .elementor-widget-container {
+        display: inline-block;
+    }
+
+    .dropdown-footer .elementor-widget-heading::after {
+        content: "►";
+        color: white;
+
+    }
+
+    .dropdown-footer .elementor-widget-heading.active::after {
+        content: "▼";
+        color: white;
+    }
+
+    .dropdown-footer .elementor-widget-heading.active, .dropdown-footer .elementor-widget-heading:hover {
+        /*background-color: #ccc;*/
+    }
+
+    .dropdown-footer .elementor-widget-icon-list {
+        padding: 0 18px;
+        display: none;
+        overflow: hidden;
+    }
+}
+
+
+/* Loading btn get zestimate price */
+.zestimate-price {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.zestimate-price.done {
+    font-weight: bold;
+    background-color: rgb(0, 106, 255);
+    color: #ffffff;
+    border-radius: 3px;
+    padding: 7px;
+}
+
+.zestimate-price.loading::after {
+    content: '';
+    position: absolute;
+    border: 3px solid #eee;
+    border-radius: 50%;
+    border-top: 3px solid rgb(0, 106, 255);
+    width: 10px;
+    height: 10px;
+    animation: zestimateSpin 2s linear infinite;
+}
+
+/* Animation for loading btn get zestimate price */
+@keyframes zestimateSpin {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}
 
 /*elhelper */
 

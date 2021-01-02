@@ -18,7 +18,7 @@ class BhhsModel {
 		if ( empty( $htmldom ) ) {
 //			$htmldom = $this->stringFilter( HelperShortcode::crawlingData( 'https://bhhs.findbuyers.com/address/' . $address ) );
 			$htmldom = $this->stringFilter( $this->stringyfyCrawledData() );
-			set_transient( 'bhhs_' . $address, $htmldom, 86400 );
+			set_transient( 'bhhs_' . $address, $htmldom, 86400*7 );
 		}
 		$this->dom = HtmlDomParser::str_get_html( $htmldom );
 
@@ -2314,8 +2314,6 @@ HTML;
 		{$elems[2]->innertext}
 </div>
 HTML;
-
-
 		return $strres;
 	}
 
