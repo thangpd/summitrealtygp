@@ -32,6 +32,7 @@ class ElHelperShortcode {
 		$res['title']     = $bhhs->getTitle();
 		$res['threedots'] = $bhhs->get3dot();
 		$res['soldprice'] = $bhhs->getSoldPrice();
+		$res['recentby'] = $bhhs->getRecentNearBy();
 
 		$json_encode = json_encode( $res );
 		echo $json_encode;

@@ -16,8 +16,8 @@ class BhhsModel {
 	public function __construct( $address ) {
 		$htmldom = get_transient( 'bhhs_' . $address );
 		if ( empty( $htmldom ) ) {
-			$htmldom = $this->stringFilter( HelperShortcode::crawlingData( 'https://bhhs.findbuyers.com/address/' . $address ) );
-//			$htmldom = $this->stringFilter( $this->stringyfyCrawledData() );
+//			$htmldom = $this->stringFilter( HelperShortcode::crawlingData( 'https://bhhs.findbuyers.com/address/' . $address ) );
+			$htmldom = $this->stringFilter( $this->stringyfyCrawledData() );
 			set_transient( 'bhhs_' . $address, $htmldom, 86400 );
 		}
 		$this->dom = HtmlDomParser::str_get_html( $htmldom );
@@ -2300,6 +2300,21 @@ HTML;
 	public function getSoldPrice() {
 		$elems  = $this->dom->find( '.article.article-text.normal-box.normal-text' );
 		$strres = $elems[3]->innertext;
+
+		return $strres;
+	}
+
+
+	public function getRecentNearBy() {
+		$elems  = $this->dom->find( '.article.article-titlebar.backgroundagent' );
+
+		$strres = <<<HTML
+			<div class="recentby">
+			<hr>
+		{$elems[2]->innertext}
+</div>
+HTML;
+
 
 		return $strres;
 	}
