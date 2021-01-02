@@ -66,3 +66,13 @@
         transform: rotate(360deg);
     }
 }
+
+/*elhelper */
+
+.form-search-bhhs-container .res-search ul{
+    justify-content: space-around;
+}
+.form-search-bhhs-container .res-search ul li
+{
+    border-radius:20px;
+}
